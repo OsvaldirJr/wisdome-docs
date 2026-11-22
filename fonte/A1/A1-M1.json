@@ -1,0 +1,2115 @@
+{
+  "id": "A1-M1",
+  "level": "A1",
+  "title": "Likes and Food",
+  "theme_pt": "Gostos, comida, bebida e lazer",
+  "can_do": [
+    "Dizer do que gosto e do que não gosto",
+    "Falar sobre o que como e bebo",
+    "Fazer um pedido em um café ou lanchonete",
+    "Falar sobre meus hobbies e o que faço no tempo livre"
+  ],
+  "lessons": [
+    {
+      "id": "A1-M1-L1",
+      "title": "I like coffee",
+      "subtitle_pt": "Cumprimentos, comida e o verbo like",
+      "duration_min": 50,
+      "source_refs": [
+        "To Go A1 – Lesson 1 (to like, food, greetings)",
+        "StartUp 1 – Unit 7 (food)"
+      ],
+      "objectives": [
+        "Cumprimentar e agradecer (hi, please, thank you)",
+        "Dizer do que você gosta e não gosta",
+        "Perguntar Do you like...?",
+        "Responder com Yes, I do / No, I don't",
+        "Nomear comidas e bebidas do café da manhã"
+      ],
+      "warmup": {
+        "text_pt": "O que você comeu no café da manhã hoje? Tente dizer em inglês — mesmo que seja só uma palavra!",
+        "questions": [
+          "Coffee or tea?",
+          "Sweet or salty breakfast?"
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "coffee",
+          "pt": "café",
+          "say": "kófi"
+        },
+        {
+          "en": "tea",
+          "pt": "chá",
+          "say": "tí"
+        },
+        {
+          "en": "milk",
+          "pt": "leite",
+          "say": "milk"
+        },
+        {
+          "en": "juice",
+          "pt": "suco",
+          "say": "djús"
+        },
+        {
+          "en": "water",
+          "pt": "água",
+          "say": "uórer"
+        },
+        {
+          "en": "soda / pop",
+          "pt": "refrigerante",
+          "say": "sôuda / póp"
+        },
+        {
+          "en": "bread",
+          "pt": "pão",
+          "say": "bréd"
+        },
+        {
+          "en": "butter",
+          "pt": "manteiga",
+          "say": "bârer"
+        },
+        {
+          "en": "cheese",
+          "pt": "queijo",
+          "say": "tchíz"
+        },
+        {
+          "en": "ham",
+          "pt": "presunto",
+          "say": "rém"
+        },
+        {
+          "en": "eggs",
+          "pt": "ovos",
+          "say": "égz"
+        },
+        {
+          "en": "fruit",
+          "pt": "fruta",
+          "say": "frút"
+        },
+        {
+          "en": "cake",
+          "pt": "bolo",
+          "say": "kêik"
+        },
+        {
+          "en": "jam",
+          "pt": "geleia",
+          "say": "djém"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "Hi! / Hello!",
+          "pt": "Oi! / Olá!"
+        },
+        {
+          "en": "Please. / Thank you!",
+          "pt": "Por favor. / Obrigado(a)!"
+        },
+        {
+          "en": "You're welcome.",
+          "pt": "De nada."
+        },
+        {
+          "en": "Bye! See you!",
+          "pt": "Tchau! Até mais!"
+        },
+        {
+          "en": "I like coffee with milk.",
+          "pt": "Eu gosto de café com leite."
+        },
+        {
+          "en": "I don't like tea.",
+          "pt": "Eu não gosto de chá."
+        },
+        {
+          "en": "Do you like eggs?",
+          "pt": "Você gosta de ovos?"
+        },
+        {
+          "en": "Yes, I do. / No, I don't.",
+          "pt": "Sim, gosto. / Não, não gosto."
+        },
+        {
+          "en": "I love it! / I hate it!",
+          "pt": "Eu amo! / Eu odeio!"
+        },
+        {
+          "en": "It's OK.",
+          "pt": "É ok / mais ou menos."
+        }
+      ],
+      "grammar": {
+        "title": "Simple present: like (afirmativa, negativa e pergunta)",
+        "explanation_pt": "Aqui aparece o **auxiliar do**. Ele não tem tradução, mas é essencial no presente:\n\n- **Afirmativa:** I like coffee. (sem auxiliar)\n- **Negativa:** I **don't** like coffee. (don't = do not)\n- **Pergunta:** **Do** you like coffee?\n\nRepare: em português dizemos \"gostar **de**\". Em inglês **não** há preposição: **I like** pizza (e nunca \"I like of pizza\").\n\nEscala de gosto: **love** (amo) → **really like** (gosto muito) → **like** (gosto) → **don't like** (não gosto) → **hate** (odeio).",
+        "table": {
+          "headers": [
+            "Afirmativa",
+            "Negativa",
+            "Pergunta",
+            "Resposta curta"
+          ],
+          "rows": [
+            [
+              "I like cheese.",
+              "I don't like cheese.",
+              "Do you like cheese?",
+              "Yes, I do. / No, I don't."
+            ],
+            [
+              "We like cake.",
+              "We don't like cake.",
+              "Do they like cake?",
+              "Yes, they do. / No, they don't."
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "I like bread with butter.",
+            "pt": "Gosto de pão com manteiga."
+          },
+          {
+            "en": "I don't like milk, but I love cheese.",
+            "pt": "Não gosto de leite, mas amo queijo."
+          },
+          {
+            "en": "Do you like açaí? Yes, I do. I love it!",
+            "pt": "Você gosta de açaí? Sim! Eu amo!"
+          }
+        ],
+        "tip_pt": "Na resposta curta, não repita o verbo like: \"Yes, I do\" (e não \"Yes, I like\"). Você vai ver algumas frases com **I'm** e **It's** (\"It's OK\", \"I'm hungry\") antes de estudar o verbo to be. Use-as como chunks prontos — a gramática do to be vem no Módulo 4."
+      },
+      "common_mistakes": [
+        {
+          "wrong": "I like of coffee.",
+          "right": "I like coffee.",
+          "why_pt": "Like não tem preposição."
+        },
+        {
+          "wrong": "You like tea?",
+          "right": "Do you like tea?",
+          "why_pt": "Na escrita e na fala correta, a pergunta precisa do auxiliar do."
+        },
+        {
+          "wrong": "Yes, I like.",
+          "right": "Yes, I do.",
+          "why_pt": "A resposta curta usa o auxiliar."
+        }
+      ],
+      "pronunciation": {
+        "focus": "Water, butter e o 'T' americano",
+        "tip_pt": "No inglês americano, o **T** entre vogais soa como um **R** rápido de \"caro\": **water** = \"uórer\", **butter** = \"bârer\". No britânico, o T é mais marcado: \"uóta\".",
+        "practice": [
+          "water · butter · better",
+          "I like water.",
+          "Bread and butter, please."
+        ]
+      },
+      "dialogue": {
+        "title": "Hotel breakfast",
+        "context_pt": "Dois amigos tomam café da manhã em um hotel em Nova York.",
+        "lines": [
+          {
+            "speaker": "Lucas",
+            "en": "Wow, look at this breakfast! Do you like pancakes?",
+            "pt": "Uau, olha esse café da manhã! Você gosta de panquecas?"
+          },
+          {
+            "speaker": "Bia",
+            "en": "Yes, I do! I love pancakes. And you?",
+            "pt": "Sim! Eu amo panquecas. E você?"
+          },
+          {
+            "speaker": "Lucas",
+            "en": "They're OK. I like eggs and bacon.",
+            "pt": "Mais ou menos. Eu gosto de ovos e bacon."
+          },
+          {
+            "speaker": "Bia",
+            "en": "Do you like American coffee?",
+            "pt": "Você gosta de café americano?"
+          },
+          {
+            "speaker": "Lucas",
+            "en": "No, I don't. It's very weak! I like Brazilian coffee.",
+            "pt": "Não. É muito fraco! Eu gosto de café brasileiro."
+          },
+          {
+            "speaker": "Bia",
+            "en": "Me too! But I like the orange juice here.",
+            "pt": "Eu também! Mas eu gosto do suco de laranja daqui."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Breakfast around the world",
+        "text": "Breakfast is different around the world. In Brazil, people like coffee with milk, bread and butter, and fruit. In the US, many people like pancakes, eggs and bacon. In Japan, breakfast is rice, fish and miso soup. In England, people like tea and a \"full English\": eggs, beans, sausages and toast. What do you like?",
+        "questions": [
+          {
+            "q": "What do Brazilians like for breakfast?",
+            "answer": "Coffee with milk, bread and butter, and fruit."
+          },
+          {
+            "q": "What is a Japanese breakfast?",
+            "answer": "Rice, fish and miso soup."
+          },
+          {
+            "q": "What do English people drink?",
+            "answer": "Tea."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "fill_blank",
+          "title": "like, don't like ou do?",
+          "instruction_pt": "Complete as frases.",
+          "items": [
+            {
+              "prompt": "___ you like cheese?",
+              "answer": "Do"
+            },
+            {
+              "prompt": "I ___ milk. I hate it!",
+              "answer": "don't like"
+            },
+            {
+              "prompt": "Yes, I ___.",
+              "answer": "do"
+            },
+            {
+              "prompt": "We ___ cake. We love it!",
+              "answer": "like"
+            },
+            {
+              "prompt": "They ___ soda. They prefer juice.",
+              "answer": "don't like"
+            }
+          ],
+          "instruction": "Complete the sentences."
+        },
+        {
+          "id": "ex2",
+          "type": "translate",
+          "title": "Traduza em chunks",
+          "instruction_pt": "Traduza para o inglês.",
+          "items": [
+            {
+              "prompt": "Eu gosto de pão com queijo.",
+              "answer": "I like bread with cheese. / I like bread and cheese."
+            },
+            {
+              "prompt": "Você gosta de chá?",
+              "answer": "Do you like tea?"
+            },
+            {
+              "prompt": "Não, não gosto.",
+              "answer": "No, I don't."
+            },
+            {
+              "prompt": "Eu não gosto de ovos.",
+              "answer": "I don't like eggs."
+            }
+          ],
+          "instruction": "Translate into English."
+        },
+        {
+          "id": "ex3",
+          "type": "multiple_choice",
+          "title": "Respostas curtas",
+          "instruction_pt": "Escolha a resposta correta.",
+          "items": [
+            {
+              "prompt": "Do you like jam?",
+              "options": [
+                "Yes, I like.",
+                "Yes, I do.",
+                "Yes, I am."
+              ],
+              "answer": "Yes, I do."
+            },
+            {
+              "prompt": "Do they like coffee?",
+              "options": [
+                "No, they don't.",
+                "No, they aren't.",
+                "No, they not."
+              ],
+              "answer": "No, they don't."
+            },
+            {
+              "prompt": "Do you like pizza?",
+              "options": [
+                "I love it!",
+                "I love!",
+                "I love of it!"
+              ],
+              "answer": "I love it!"
+            }
+          ],
+          "instruction": "Choose the correct answer."
+        },
+        {
+          "id": "ex4",
+          "type": "dictation",
+          "title": "Dictation",
+          "instruction": "Listen and write the sentence.",
+          "instruction_pt": "Ouça e escreva a frase.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "I like coffee with milk."
+            },
+            {
+              "prompt": "2",
+              "answer": "I don't like tea."
+            },
+            {
+              "prompt": "3",
+              "answer": "Do you like cheese?"
+            },
+            {
+              "prompt": "4",
+              "answer": "Yes, I do. I love it!"
+            }
+          ]
+        },
+        {
+          "id": "ex5",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the mistake.",
+          "instruction_pt": "Encontre e corrija o erro.",
+          "items": [
+            {
+              "prompt": "I like of juice.",
+              "answer": "I like juice."
+            },
+            {
+              "prompt": "You like eggs?",
+              "answer": "Do you like eggs?"
+            },
+            {
+              "prompt": "Yes, I like.",
+              "answer": "Yes, I do."
+            },
+            {
+              "prompt": "I no like milk.",
+              "answer": "I don't like milk."
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "fill_blank",
+          "title": "Complete the dialogue",
+          "instruction": "Complete the dialogue with: do · don't · like · please · thanks.",
+          "instruction_pt": "Complete o diálogo.",
+          "items": [
+            {
+              "prompt": "A: Hi! Do you ___ cake?",
+              "answer": "like"
+            },
+            {
+              "prompt": "B: Yes, I ___!",
+              "answer": "do"
+            },
+            {
+              "prompt": "A: Cake and juice, ___?",
+              "answer": "please"
+            },
+            {
+              "prompt": "B: Juice, yes. But I ___ like cake with juice.",
+              "answer": "don't"
+            },
+            {
+              "prompt": "A: OK, here you go. — B: ___!",
+              "answer": "Thanks"
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction_pt": "Pergunte e responda com um colega. Use love, like, don't like e hate.",
+        "questions": [
+          "Do you like coffee? How do you like it?",
+          "What do you like for breakfast?",
+          "Do you like American food?",
+          "What food do you hate?",
+          "Do you like cooking?"
+        ],
+        "instruction": "Ask and answer with a partner. Use love, like, don't like and hate."
+      },
+      "writing": {
+        "task_pt": "Escreva sobre seu café da manhã ideal (4 frases).",
+        "model": "My perfect breakfast: I like coffee with milk and pão de queijo.\nI love fruit, especially papaya.\nI don't like eggs in the morning.\nAnd I hate breakfast without coffee! ☕",
+        "task": "Write about your perfect breakfast (4 sentences)."
+      },
+      "culture_note": {
+        "title": "Brunch e o café americano",
+        "text_pt": "**Brunch** (breakfast + lunch) é uma refeição muito popular nos fins de semana nos EUA e no Reino Unido. E o famoso \"café americano\" é um espresso com bastante água quente — por isso parece fraco para brasileiros!"
+      },
+      "summary_pt": [
+        "I like / I don't like / Do you like?",
+        "Like não usa preposição.",
+        "Resposta curta: Yes, I do / No, I don't.",
+        "Love > really like > like > don't like > hate."
+      ],
+      "listening": {
+        "title": "Breakfast order",
+        "context_pt": "Um hóspede pede o café da manhã pelo telefone do hotel.",
+        "lines": [
+          {
+            "speaker": "Staff",
+            "en": "Good morning! Room service. How can I help you?"
+          },
+          {
+            "speaker": "Guest",
+            "en": "Hi! Good morning. Breakfast for two, please."
+          },
+          {
+            "speaker": "Staff",
+            "en": "Sure. Do you like eggs?"
+          },
+          {
+            "speaker": "Guest",
+            "en": "I like eggs. And for my wife, fruit and yogurt, please."
+          },
+          {
+            "speaker": "Staff",
+            "en": "OK. Coffee or tea?"
+          },
+          {
+            "speaker": "Guest",
+            "en": "Coffee with milk for me, and tea for her. And orange juice, please."
+          },
+          {
+            "speaker": "Staff",
+            "en": "Bread and butter?"
+          },
+          {
+            "speaker": "Guest",
+            "en": "Yes, please. And cheese. Thank you!"
+          },
+          {
+            "speaker": "Staff",
+            "en": "You're welcome. Twenty minutes!"
+          }
+        ],
+        "questions": [
+          {
+            "q": "Eggs for the guest: yes or no?",
+            "answer": "Yes."
+          },
+          {
+            "q": "What food is for his wife?",
+            "answer": "Fruit and yogurt."
+          },
+          {
+            "q": "What drinks do they order?",
+            "answer": "Coffee with milk, tea and orange juice."
+          },
+          {
+            "q": "How long is the wait?",
+            "answer": "Twenty minutes."
+          }
+        ]
+      }
+    },
+    {
+      "id": "A1-M1-L2",
+      "title": "Eat, drink, cook",
+      "subtitle_pt": "Simple present com verbos de ação",
+      "duration_min": 50,
+      "source_refs": [
+        "To Go A1 – Lessons 2-4 (eat, drink, work, study, want)",
+        "StartUp 1 – Unit 6-7"
+      ],
+      "objectives": [
+        "Usar o simple present com vários verbos",
+        "Falar sobre as refeições do dia",
+        "Usar want e need",
+        "Fazer perguntas com Do you...?"
+      ],
+      "warmup": {
+        "text_pt": "Você cozinha ou pede comida por aplicativo? Qual é a sua refeição favorita do dia?",
+        "questions": [
+          "Do you cook?",
+          "What do you eat for lunch?"
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "to eat",
+          "pt": "comer",
+          "say": "tu ít"
+        },
+        {
+          "en": "to drink",
+          "pt": "beber",
+          "say": "tu drink"
+        },
+        {
+          "en": "to cook",
+          "pt": "cozinhar",
+          "say": "tu kúk"
+        },
+        {
+          "en": "to want",
+          "pt": "querer",
+          "say": "tu uónt"
+        },
+        {
+          "en": "to need",
+          "pt": "precisar",
+          "say": "tu níd"
+        },
+        {
+          "en": "to order",
+          "pt": "pedir (comida)",
+          "say": "tu órder"
+        },
+        {
+          "en": "breakfast / lunch / dinner",
+          "pt": "café da manhã / almoço / jantar",
+          "say": "brékfast / lântch / díner"
+        },
+        {
+          "en": "snack",
+          "pt": "lanche",
+          "say": "snék"
+        },
+        {
+          "en": "rice and beans",
+          "pt": "arroz e feijão",
+          "say": "ráis end bínz"
+        },
+        {
+          "en": "chicken / meat / fish",
+          "pt": "frango / carne / peixe",
+          "say": "tchíken / mít / fish"
+        },
+        {
+          "en": "vegetables / salad",
+          "pt": "legumes / salada",
+          "say": "védjtabolz / sélad"
+        },
+        {
+          "en": "delivery",
+          "pt": "entrega, delivery",
+          "say": "dilíveri"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "I have lunch at noon.",
+          "pt": "Eu almoço ao meio-dia."
+        },
+        {
+          "en": "We order food on Fridays.",
+          "pt": "Pedimos comida às sextas."
+        },
+        {
+          "en": "I want a snack.",
+          "pt": "Quero um lanche."
+        },
+        {
+          "en": "I need water.",
+          "pt": "Preciso de água."
+        },
+        {
+          "en": "I don't eat meat.",
+          "pt": "Não como carne."
+        },
+        {
+          "en": "I'm vegetarian / vegan.",
+          "pt": "Sou vegetariano / vegano."
+        }
+      ],
+      "grammar": {
+        "title": "Simple present: I / you / we / they",
+        "explanation_pt": "O **simple present** fala de **hábitos e verdades**: o que você faz normalmente. Com **I, you, we, they**, o verbo fica **igual ao infinitivo sem o \"to\"**: to eat → I eat.\n\nNegativa e pergunta usam **don't** e **do**, exatamente como com like:\n\n- I **eat** meat. / I **don't eat** meat. / **Do** you **eat** meat?\n\n**Want x need:** want = querer (desejo); need = precisar (necessidade). Os dois podem vir com substantivo (**I need water**) ou com **to + verbo** (**I want to cook**).\n\n**Have** com refeições = fazer a refeição: **have breakfast** (tomar café), **have lunch** (almoçar), **have dinner** (jantar).",
+        "table": {
+          "headers": [
+            "Afirmativa",
+            "Negativa",
+            "Pergunta"
+          ],
+          "rows": [
+            [
+              "I cook every day.",
+              "I don't cook.",
+              "Do you cook?"
+            ],
+            [
+              "We eat rice and beans.",
+              "We don't eat fish.",
+              "Do they eat fish?"
+            ],
+            [
+              "I want to learn English.",
+              "I don't want to work today.",
+              "Do you want coffee?"
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "I have lunch at work. I eat salad and chicken.",
+            "pt": "Almoço no trabalho. Como salada e frango."
+          },
+          {
+            "en": "We don't cook on weekends. We order pizza.",
+            "pt": "Não cozinhamos nos fins de semana. Pedimos pizza."
+          },
+          {
+            "en": "Do you want to have dinner with us?",
+            "pt": "Você quer jantar com a gente?"
+          }
+        ],
+        "tip_pt": "Want + to + verbo pode virar **wanna** na fala informal: \"I wanna eat\" (eu quero comer). Use só em conversas descontraídas."
+      },
+      "common_mistakes": [
+        {
+          "wrong": "I want eat.",
+          "right": "I want to eat.",
+          "why_pt": "Want e need pedem to antes de outro verbo."
+        },
+        {
+          "wrong": "I take breakfast.",
+          "right": "I have breakfast.",
+          "why_pt": "Com refeições, use have."
+        },
+        {
+          "wrong": "I eat rice and beans every day? (pergunta)",
+          "right": "Do you eat rice and beans every day?",
+          "why_pt": "Pergunta no presente precisa de do."
+        }
+      ],
+      "pronunciation": {
+        "focus": "Eat (/i:/ longo) x it (/ɪ/ curto)",
+        "tip_pt": "**Eat** tem um \"i\" longo e sorrindo: \"íiit\". **It** tem um \"i\" curto, quase \"ét\". Confundir os dois muda o sentido: \"I eat\" (eu como) x \"I it\" (sem sentido).",
+        "practice": [
+          "eat — it",
+          "I eat it every day.",
+          "Do you eat meat?"
+        ]
+      },
+      "dialogue": {
+        "title": "What's for dinner?",
+        "context_pt": "Um casal decide o jantar depois de um dia cansativo.",
+        "lines": [
+          {
+            "speaker": "Pedro",
+            "en": "I'm hungry. Do you want to cook tonight?",
+            "pt": "Estou com fome. Você quer cozinhar hoje à noite?"
+          },
+          {
+            "speaker": "Ju",
+            "en": "No, I don't. I'm tired. Let's order food!",
+            "pt": "Não. Estou cansada. Vamos pedir comida!"
+          },
+          {
+            "speaker": "Pedro",
+            "en": "OK. Do you want pizza or sushi?",
+            "pt": "OK. Você quer pizza ou sushi?"
+          },
+          {
+            "speaker": "Ju",
+            "en": "Sushi! But I don't eat raw fish, remember?",
+            "pt": "Sushi! Mas eu não como peixe cru, lembra?"
+          },
+          {
+            "speaker": "Pedro",
+            "en": "Right. They have hot rolls and vegetable rolls.",
+            "pt": "Verdade. Eles têm hot roll e rolinhos de legumes."
+          },
+          {
+            "speaker": "Ju",
+            "en": "Perfect. And we need drinks. Water and a soda, please.",
+            "pt": "Perfeito. E precisamos de bebidas. Água e um refrigerante, por favor."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Food habits survey",
+        "text": "We asked 1,000 young Brazilians about their food habits. 65% eat rice and beans every day. 48% order food by app at least once a week. 30% don't eat meat on Mondays. Only 22% cook dinner every night. And 90% drink coffee in the morning! Do you have the same habits?",
+        "questions": [
+          {
+            "q": "How many people eat rice and beans every day?",
+            "answer": "65%."
+          },
+          {
+            "q": "What do 48% of the people do?",
+            "answer": "They order food by app at least once a week."
+          },
+          {
+            "q": "Do most people cook dinner every night?",
+            "answer": "No. Only 22% cook dinner every night."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "fill_blank",
+          "title": "Complete com o verbo",
+          "instruction_pt": "Use eat, drink, cook, want, need ou have.",
+          "items": [
+            {
+              "prompt": "I ___ coffee every morning.",
+              "answer": "drink"
+            },
+            {
+              "prompt": "We ___ lunch at 12:30.",
+              "answer": "have"
+            },
+            {
+              "prompt": "I'm thirsty. I ___ water.",
+              "answer": "need"
+            },
+            {
+              "prompt": "They don't ___ meat. They're vegan.",
+              "answer": "eat"
+            },
+            {
+              "prompt": "Do you ___ to order pizza?",
+              "answer": "want"
+            }
+          ],
+          "instruction": "Use eat, drink, cook, want, need or have."
+        },
+        {
+          "id": "ex2",
+          "type": "order_words",
+          "title": "Organize",
+          "instruction_pt": "Organize as palavras.",
+          "items": [
+            {
+              "prompt": "you / cook / do / every day / ?",
+              "answer": "Do you cook every day?"
+            },
+            {
+              "prompt": "don't / we / fish / eat",
+              "answer": "We don't eat fish."
+            },
+            {
+              "prompt": "to / I / want / dinner / have",
+              "answer": "I want to have dinner."
+            }
+          ],
+          "instruction": "Put the words in order."
+        },
+        {
+          "id": "ex3",
+          "type": "translate",
+          "title": "Traduza",
+          "instruction_pt": "Traduza para o inglês.",
+          "items": [
+            {
+              "prompt": "Eu almoço em casa.",
+              "answer": "I have lunch at home."
+            },
+            {
+              "prompt": "Você quer um lanche?",
+              "answer": "Do you want a snack?"
+            },
+            {
+              "prompt": "Nós não cozinhamos aos domingos.",
+              "answer": "We don't cook on Sundays."
+            },
+            {
+              "prompt": "Eu preciso comer agora.",
+              "answer": "I need to eat now."
+            }
+          ],
+          "instruction": "Translate into English."
+        },
+        {
+          "id": "ex4",
+          "type": "dictation",
+          "title": "Dictation",
+          "instruction": "Listen and write the sentence.",
+          "instruction_pt": "Ouça e escreva a frase.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "I have lunch at noon."
+            },
+            {
+              "prompt": "2",
+              "answer": "We order food on Fridays."
+            },
+            {
+              "prompt": "3",
+              "answer": "I don't eat meat."
+            },
+            {
+              "prompt": "4",
+              "answer": "Do you want to cook tonight?"
+            }
+          ]
+        },
+        {
+          "id": "ex5",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the mistake.",
+          "instruction_pt": "Encontre e corrija o erro.",
+          "items": [
+            {
+              "prompt": "I want eat pizza.",
+              "answer": "I want to eat pizza."
+            },
+            {
+              "prompt": "I take breakfast at 7.",
+              "answer": "I have breakfast at 7."
+            },
+            {
+              "prompt": "You cook every day?",
+              "answer": "Do you cook every day?"
+            },
+            {
+              "prompt": "I need to water.",
+              "answer": "I need water."
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "fill_blank",
+          "title": "Complete the dialogue",
+          "instruction": "Complete the dialogue with: want · need · order · have · don't.",
+          "instruction_pt": "Complete o diálogo.",
+          "items": [
+            {
+              "prompt": "A: I'm hungry! Do you ___ to eat?",
+              "answer": "want"
+            },
+            {
+              "prompt": "B: Yes! Let's ___ food. I ___ want to cook.",
+              "answer": "order / don't"
+            },
+            {
+              "prompt": "A: OK. And we ___ water.",
+              "answer": "need"
+            },
+            {
+              "prompt": "B: Good idea. Do you want to ___ dinner now?",
+              "answer": "have"
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction_pt": "Responda sobre seus hábitos. Use frases completas.",
+        "questions": [
+          "What do you eat for lunch?",
+          "Do you cook dinner or order food?",
+          "What apps do you use to order food?",
+          "Do you eat meat?",
+          "What do you want to eat right now?"
+        ],
+        "instruction": "Answer about your habits. Use complete sentences."
+      },
+      "writing": {
+        "task_pt": "Descreva o que você come e bebe em um dia normal (café da manhã, almoço e jantar).",
+        "model": "For breakfast, I have coffee and a banana.\nI have lunch at work. I eat rice, beans and chicken.\nI don't cook dinner. I usually order a sandwich or eat a salad.",
+        "task": "Describe what you eat and drink on a normal day (breakfast, lunch and dinner)."
+      },
+      "culture_note": {
+        "title": "Dinner, supper e tea",
+        "text_pt": "Nos EUA, a refeição da noite é **dinner**. No Reino Unido, em algumas regiões, o jantar é chamado de **tea** ou **supper**. E o horário é mais cedo que no Brasil: muitas famílias jantam às 18h!"
+      },
+      "summary_pt": [
+        "Simple present = hábitos.",
+        "I/you/we/they + verbo base.",
+        "Want/need + to + verbo.",
+        "have breakfast / lunch / dinner."
+      ],
+      "listening": {
+        "title": "Voice message from a friend",
+        "context_pt": "Uma amiga manda um áudio no WhatsApp combinando um jantar.",
+        "lines": [
+          {
+            "speaker": "Carol",
+            "en": "Hey, Bia! It's Carol. Do you want to have dinner at my place on Friday? I want to cook! I know you don't eat meat, so I want to make a vegetable lasagna. Do you like lasagna? We also need drinks. Can you bring juice or soda? We don't drink alcohol, remember. Dinner is at eight. Send me a message, OK? Bye!"
+          }
+        ],
+        "questions": [
+          {
+            "q": "When is the dinner?",
+            "answer": "On Friday at eight."
+          },
+          {
+            "q": "What food is on the menu?",
+            "answer": "A vegetable lasagna."
+          },
+          {
+            "q": "Meat for Bia: yes or no?",
+            "answer": "No. Bia doesn't eat meat."
+          },
+          {
+            "q": "What drinks can Bia bring?",
+            "answer": "Juice or soda."
+          }
+        ]
+      }
+    },
+    {
+      "id": "A1-M1-L3",
+      "title": "Can I have a latte?",
+      "subtitle_pt": "Pedindo em um café",
+      "duration_min": 50,
+      "source_refs": [
+        "StartUp 1 – Unit 7 (can/could for requests)",
+        "To Go A1 – Lesson 13 (numbers, prices)"
+      ],
+      "objectives": [
+        "Fazer um pedido com educação",
+        "Usar Can I have...? e I'd like...",
+        "Perguntar e dizer preços",
+        "Responder perguntas do atendente"
+      ],
+      "warmup": {
+        "text_pt": "Imagine que você está numa cafeteria em Londres. O que você pediria? Você sabe como pedir?",
+        "questions": [
+          "What's your favorite coffee shop drink?",
+          "Small, medium or large?"
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "latte / cappuccino / espresso",
+          "pt": "café com leite / cappuccino / expresso",
+          "say": "látei / kapatchínou / esprésou"
+        },
+        {
+          "en": "hot chocolate",
+          "pt": "chocolate quente",
+          "say": "rót tchóklat"
+        },
+        {
+          "en": "iced coffee",
+          "pt": "café gelado",
+          "say": "áist kófi"
+        },
+        {
+          "en": "small / medium / large",
+          "pt": "pequeno / médio / grande",
+          "say": "smól / mídium / lárdj"
+        },
+        {
+          "en": "sandwich",
+          "pt": "sanduíche",
+          "say": "séndwitch"
+        },
+        {
+          "en": "muffin / cookie",
+          "pt": "muffin / biscoito",
+          "say": "mâfin / kúki"
+        },
+        {
+          "en": "to go / for here",
+          "pt": "para viagem / para comer aqui",
+          "say": "tu gôu / for rír"
+        },
+        {
+          "en": "the bill / the check",
+          "pt": "a conta",
+          "say": "dâ bil / dâ tchék"
+        },
+        {
+          "en": "card / cash",
+          "pt": "cartão / dinheiro",
+          "say": "kárd / késh"
+        },
+        {
+          "en": "receipt",
+          "pt": "recibo / nota",
+          "say": "risít"
+        },
+        {
+          "en": "dollars / cents",
+          "pt": "dólares / centavos",
+          "say": "dólarz / sents"
+        },
+        {
+          "en": "oat milk",
+          "pt": "leite de aveia",
+          "say": "ôut milk"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "Can I have a latte, please?",
+          "pt": "Pode me ver um latte, por favor?"
+        },
+        {
+          "en": "I'd like a muffin.",
+          "pt": "Eu gostaria de um muffin."
+        },
+        {
+          "en": "For here or to go?",
+          "pt": "Para comer aqui ou para viagem?"
+        },
+        {
+          "en": "Anything else?",
+          "pt": "Mais alguma coisa?"
+        },
+        {
+          "en": "That's all, thanks.",
+          "pt": "Só isso, obrigado."
+        },
+        {
+          "en": "How much is it?",
+          "pt": "Quanto é?"
+        },
+        {
+          "en": "Can I pay by card?",
+          "pt": "Posso pagar no cartão?"
+        }
+      ],
+      "grammar": {
+        "title": "Pedidos educados: Can I have...? / I'd like...",
+        "explanation_pt": "Em inglês, a educação está na **estrutura**. Dizer só \"I want a coffee\" soa **rude** para um atendente. Use:\n\n- **Can I have** + item**, please?** (o mais comum)\n- **Could I have** + item? (ainda mais educado)\n- **I'd like** + item. (I'd = I would — \"eu gostaria\")\n\n**Preços:** pergunte **How much is it?** (singular) ou **How much are they?** (plural). Diga o preço assim: $4.50 = **four fifty** ou **four dollars and fifty cents**.",
+        "table": {
+          "headers": [
+            "Muito direto (evite)",
+            "Educado ✅"
+          ],
+          "rows": [
+            [
+              "I want a coffee.",
+              "Can I have a coffee, please?"
+            ],
+            [
+              "Give me the bill.",
+              "Could I have the bill, please?"
+            ],
+            [
+              "I want water.",
+              "I'd like some water, please."
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "Can I have a large iced coffee with oat milk, please?",
+            "pt": "Pode me ver um café gelado grande com leite de aveia, por favor?"
+          },
+          {
+            "en": "I'd like a chicken sandwich, to go.",
+            "pt": "Eu queria um sanduíche de frango, para viagem."
+          },
+          {
+            "en": "How much is it? It's $6.75 (six seventy-five).",
+            "pt": "Quanto é? São 6,75 dólares."
+          }
+        ],
+        "tip_pt": "Em inglês, o separador decimal é o **ponto**: $4.50 (e não $4,50). A vírgula separa milhares: 1,000."
+      },
+      "common_mistakes": [
+        {
+          "wrong": "I want a coffee.",
+          "right": "Can I have a coffee, please?",
+          "why_pt": "Want soa exigente ao fazer pedidos."
+        },
+        {
+          "wrong": "How much costs?",
+          "right": "How much is it? / How much does it cost?",
+          "why_pt": "A pergunta precisa de sujeito e verbo."
+        },
+        {
+          "wrong": "The account, please.",
+          "right": "The check, please. (EUA) / The bill, please. (UK)",
+          "why_pt": "Account é conta bancária, não a conta do restaurante."
+        }
+      ],
+      "pronunciation": {
+        "focus": "Entonação de pedidos",
+        "tip_pt": "Pedidos educados terminam com a voz **subindo** levemente em \"please\". Uma voz reta ou descendo pode soar seca. Sorria — muda o som da voz!",
+        "practice": [
+          "Can I have a latte, please? ↗",
+          "Could I have the check, please? ↗",
+          "That's all, thanks! ↘"
+        ]
+      },
+      "dialogue": {
+        "title": "At the coffee shop",
+        "context_pt": "Tati faz um pedido numa cafeteria em Toronto.",
+        "lines": [
+          {
+            "speaker": "Barista",
+            "en": "Hi there! What can I get you?",
+            "pt": "Oi! O que vai ser?"
+          },
+          {
+            "speaker": "Tati",
+            "en": "Hi! Can I have a medium latte, please?",
+            "pt": "Oi! Pode me ver um latte médio, por favor?"
+          },
+          {
+            "speaker": "Barista",
+            "en": "Sure. Regular milk or oat milk?",
+            "pt": "Claro. Leite normal ou de aveia?"
+          },
+          {
+            "speaker": "Tati",
+            "en": "Oat milk, please. And I'd like a blueberry muffin.",
+            "pt": "De aveia, por favor. E eu queria um muffin de mirtilo."
+          },
+          {
+            "speaker": "Barista",
+            "en": "Anything else?",
+            "pt": "Mais alguma coisa?"
+          },
+          {
+            "speaker": "Tati",
+            "en": "No, that's all, thanks. How much is it?",
+            "pt": "Não, só isso, obrigada. Quanto é?"
+          },
+          {
+            "speaker": "Barista",
+            "en": "That's eight twenty-five. For here or to go?",
+            "pt": "São 8,25. Para comer aqui ou para viagem?"
+          },
+          {
+            "speaker": "Tati",
+            "en": "To go, please. Can I pay by card?",
+            "pt": "Para viagem, por favor. Posso pagar no cartão?"
+          },
+          {
+            "speaker": "Barista",
+            "en": "Of course. Can I get a name for the cup?",
+            "pt": "Claro. Qual é o nome para o copo?"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Menu — The Daily Grind",
+        "text": "DRINKS — Espresso $2.50 · Cappuccino $4.25 · Latte (S/M/L) $4.00 / $4.75 / $5.50 · Hot chocolate $3.90 · Iced coffee $4.50 · Extra: oat milk +$0.75\nFOOD — Blueberry muffin $3.50 · Chocolate cookie $2.25 · Chicken sandwich $8.90 · Veggie wrap $7.80",
+        "questions": [
+          {
+            "q": "How much is a large latte?",
+            "answer": "$5.50 (five fifty)."
+          },
+          {
+            "q": "How much is oat milk?",
+            "answer": "75 cents extra."
+          },
+          {
+            "q": "What's the price of a medium latte with oat milk and a muffin?",
+            "answer": "$9.00 (4.75 + 0.75 + 3.50)."
+          },
+          {
+            "q": "Is there a vegetarian option?",
+            "answer": "Yes, the veggie wrap."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "order_words",
+          "title": "Monte o pedido",
+          "instruction_pt": "Organize as palavras.",
+          "items": [
+            {
+              "prompt": "have / I / can / a / please / cappuccino / ?",
+              "answer": "Can I have a cappuccino, please?"
+            },
+            {
+              "prompt": "like / a / I'd / sandwich",
+              "answer": "I'd like a sandwich."
+            },
+            {
+              "prompt": "is / how / it / much / ?",
+              "answer": "How much is it?"
+            },
+            {
+              "prompt": "pay / can / card / by / I / ?",
+              "answer": "Can I pay by card?"
+            }
+          ],
+          "instruction": "Put the words in order."
+        },
+        {
+          "id": "ex2",
+          "type": "match",
+          "title": "Pergunta e resposta",
+          "instruction_pt": "Escreva a melhor resposta para cada pergunta do atendente.",
+          "items": [
+            {
+              "prompt": "For here or to go?",
+              "answer": "To go, please."
+            },
+            {
+              "prompt": "Anything else?",
+              "answer": "No, that's all, thanks."
+            },
+            {
+              "prompt": "What size?",
+              "answer": "Large, please."
+            },
+            {
+              "prompt": "Cash or card?",
+              "answer": "Card, please."
+            }
+          ],
+          "instruction": "Write the best answer to each of the clerk's questions."
+        },
+        {
+          "id": "ex3",
+          "type": "answer",
+          "title": "Diga os preços",
+          "instruction_pt": "Escreva como se fala o preço.",
+          "items": [
+            {
+              "prompt": "$3.50",
+              "answer": "three fifty (three dollars and fifty cents)"
+            },
+            {
+              "prompt": "$12.99",
+              "answer": "twelve ninety-nine"
+            },
+            {
+              "prompt": "$0.75",
+              "answer": "seventy-five cents"
+            },
+            {
+              "prompt": "$20.00",
+              "answer": "twenty dollars"
+            }
+          ],
+          "instruction": "Write how you say the price."
+        },
+        {
+          "id": "ex4",
+          "type": "dictation",
+          "title": "Dictation",
+          "instruction": "Listen and write the sentence.",
+          "instruction_pt": "Ouça e escreva a frase.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "Can I have a latte, please?"
+            },
+            {
+              "prompt": "2",
+              "answer": "For here or to go?"
+            },
+            {
+              "prompt": "3",
+              "answer": "That's all, thanks."
+            },
+            {
+              "prompt": "4",
+              "answer": "Can I pay by card?"
+            }
+          ]
+        },
+        {
+          "id": "ex5",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Make these sentences polite or correct.",
+          "instruction_pt": "Deixe as frases educadas ou corretas.",
+          "items": [
+            {
+              "prompt": "I want a cappuccino.",
+              "answer": "Can I have a cappuccino, please?"
+            },
+            {
+              "prompt": "How much costs?",
+              "answer": "How much is it?"
+            },
+            {
+              "prompt": "The account, please.",
+              "answer": "The check, please. / The bill, please."
+            },
+            {
+              "prompt": "It's $4,50.",
+              "answer": "It's $4.50."
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "fill_blank",
+          "title": "Complete the dialogue",
+          "instruction": "Complete with: have · else · go · much · card.",
+          "instruction_pt": "Complete o diálogo.",
+          "items": [
+            {
+              "prompt": "A: Can I ___ a small cappuccino?",
+              "answer": "have"
+            },
+            {
+              "prompt": "B: Sure. Anything ___?",
+              "answer": "else"
+            },
+            {
+              "prompt": "A: No, thanks. How ___ is it?",
+              "answer": "much"
+            },
+            {
+              "prompt": "B: $3.90. For here or to ___?",
+              "answer": "go"
+            },
+            {
+              "prompt": "A: For here. Can I pay by ___?",
+              "answer": "card"
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction_pt": "Role-play: um é o barista, o outro é o cliente. Use o cardápio da leitura. Depois troquem.",
+        "questions": [
+          "What can I get you?",
+          "What size?",
+          "Anything else?",
+          "For here or to go?",
+          "Can I get a name for the cup?"
+        ],
+        "instruction": "Role-play: one person is the barista, the other is the customer. Use the menu from the reading. Then change roles."
+      },
+      "writing": {
+        "task_pt": "Crie um cardápio de 6 itens para uma cafeteria brasileira com nomes e preços em inglês (inclua pão de queijo!).",
+        "model": "Brazilian Café ☕\nPão de queijo (cheese bread) — $3.00\nCafezinho (small black coffee) — $1.50\nTapioca with cheese and ham — $6.50",
+        "task": "Create a 6-item menu for a Brazilian café with names and prices in English (include pão de queijo!)."
+      },
+      "culture_note": {
+        "title": "Gorjeta (tip)",
+        "text_pt": "Nos EUA e no Canadá, dar **tip** (gorjeta) é esperado em restaurantes: de 15% a 20%. Em cafeterias, é comum a máquina de cartão sugerir uma gorjeta — é opcional, mas frequente. No Reino Unido, cerca de 10–12,5% costuma vir na conta como **service charge**."
+      },
+      "summary_pt": [
+        "Can I have...? / Could I have...? / I'd like...",
+        "Evite I want ao fazer pedidos.",
+        "For here or to go? = comer aqui ou viagem.",
+        "$4.50 = four fifty."
+      ],
+      "listening": {
+        "title": "At the drive-thru",
+        "context_pt": "Uma cliente faz o pedido em um drive-thru nos EUA.",
+        "lines": [
+          {
+            "speaker": "Speaker",
+            "en": "Welcome to Java Express! What can I get for you?"
+          },
+          {
+            "speaker": "Customer",
+            "en": "Hi! Can I have a large iced coffee, please?"
+          },
+          {
+            "speaker": "Speaker",
+            "en": "Sure. Any milk?"
+          },
+          {
+            "speaker": "Customer",
+            "en": "Oat milk, please. And I'd like two chocolate cookies."
+          },
+          {
+            "speaker": "Speaker",
+            "en": "OK, one large iced coffee with oat milk and two cookies. Anything else?"
+          },
+          {
+            "speaker": "Customer",
+            "en": "No, that's all. How much is it?"
+          },
+          {
+            "speaker": "Speaker",
+            "en": "That's nine dollars and sixty cents. Please pull up to the window."
+          }
+        ],
+        "questions": [
+          {
+            "q": "What size is the coffee?",
+            "answer": "Large."
+          },
+          {
+            "q": "Which milk?",
+            "answer": "Oat milk."
+          },
+          {
+            "q": "How many cookies?",
+            "answer": "Two."
+          },
+          {
+            "q": "How much is it?",
+            "answer": "$9.60 (nine sixty)."
+          }
+        ]
+      }
+    },
+    {
+      "id": "A1-M1-L4",
+      "title": "Free time",
+      "subtitle_pt": "Hobbies e like + -ing",
+      "duration_min": 50,
+      "source_refs": [
+        "To Go A1 – Lesson 2-4 (like to read, write, see, listen)",
+        "StartUp 1 – Unit 6 (free-time activities)"
+      ],
+      "objectives": [
+        "Falar sobre hobbies e atividades de lazer",
+        "Usar like/love/hate + verbo -ing",
+        "Usar go, play e do com atividades",
+        "Perguntar What do you do in your free time?"
+      ],
+      "warmup": {
+        "text_pt": "Qual foi a última série que você maratonou? Você joga algum jogo no celular?",
+        "questions": [
+          "What do you do on weekends?",
+          "Netflix or YouTube?"
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "watch series / movies",
+          "pt": "assistir séries / filmes",
+          "say": "uótch síriz / múviz"
+        },
+        {
+          "en": "listen to music / podcasts",
+          "pt": "ouvir música / podcasts",
+          "say": "lísen tu miúzik"
+        },
+        {
+          "en": "read books",
+          "pt": "ler livros",
+          "say": "ríd buks"
+        },
+        {
+          "en": "play video games",
+          "pt": "jogar videogame",
+          "say": "plêi vídiou guêimz"
+        },
+        {
+          "en": "play soccer / volleyball",
+          "pt": "jogar futebol / vôlei",
+          "say": "plêi sóker / vólibol"
+        },
+        {
+          "en": "go to the gym",
+          "pt": "ir à academia",
+          "say": "gôu tu dâ djím"
+        },
+        {
+          "en": "go running / go cycling",
+          "pt": "correr / pedalar",
+          "say": "gôu rânin / sáiklin"
+        },
+        {
+          "en": "do yoga",
+          "pt": "fazer yoga",
+          "say": "dú iôuga"
+        },
+        {
+          "en": "hang out with friends",
+          "pt": "sair com amigos",
+          "say": "réng áut uídh frénds"
+        },
+        {
+          "en": "travel",
+          "pt": "viajar",
+          "say": "trével"
+        },
+        {
+          "en": "take photos",
+          "pt": "tirar fotos",
+          "say": "têik fôutouz"
+        },
+        {
+          "en": "free time",
+          "pt": "tempo livre",
+          "say": "frí táim"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "What do you do in your free time?",
+          "pt": "O que você faz no seu tempo livre?"
+        },
+        {
+          "en": "I love watching series.",
+          "pt": "Eu amo assistir séries."
+        },
+        {
+          "en": "I'm into K-dramas.",
+          "pt": "Eu curto doramas."
+        },
+        {
+          "en": "I'm not a big fan of sports.",
+          "pt": "Não sou muito fã de esportes."
+        },
+        {
+          "en": "Me too! / Me neither!",
+          "pt": "Eu também! / Eu também não!"
+        }
+      ],
+      "grammar": {
+        "title": "like / love / hate + -ing e go / play / do",
+        "explanation_pt": "Depois de **like, love, hate, enjoy**, o verbo costuma vir com **-ing**: I like **reading**, I love **dancing**. (Também é possível \"I like **to read**\", com o mesmo sentido.)\n\n**Regras do -ing:** read → reading · dance → danc**ing** (tira o e) · run → ru**nn**ing, swim → swi**mm**ing (dobra a consoante).\n\n**go, play ou do?**\n- **play** + esportes com bola e jogos: play soccer, play video games\n- **go** + atividades em -ing: go running, go swimming, go shopping\n- **do** + atividades individuais: do yoga, do pilates, do karate",
+        "table": {
+          "headers": [
+            "Verbo",
+            "Exemplo"
+          ],
+          "rows": [
+            [
+              "love + -ing",
+              "I love traveling."
+            ],
+            [
+              "like + -ing",
+              "We like cooking."
+            ],
+            [
+              "don't like + -ing",
+              "We don't like running."
+            ],
+            [
+              "hate + -ing",
+              "I hate waking up early."
+            ],
+            [
+              "enjoy + -ing",
+              "They enjoy taking photos."
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "I love listening to podcasts on the bus.",
+            "pt": "Amo ouvir podcasts no ônibus."
+          },
+          {
+            "en": "On Saturdays, I play soccer with my friends.",
+            "pt": "Aos sábados, jogo futebol com meus amigos."
+          },
+          {
+            "en": "Do you like going to the gym? Not really.",
+            "pt": "Você gosta de ir à academia? Não muito."
+          }
+        ],
+        "tip_pt": "Para concordar: \"I love pizza.\" → **Me too!** \"I don't like running.\" → **Me neither!**"
+      },
+      "common_mistakes": [
+        {
+          "wrong": "I like watch movies.",
+          "right": "I like watching movies. / I like to watch movies.",
+          "why_pt": "Depois de like, use -ing ou to + verbo."
+        },
+        {
+          "wrong": "I play gym. / I make yoga.",
+          "right": "I go to the gym. / I do yoga.",
+          "why_pt": "Cada atividade tem seu verbo: go, play ou do."
+        },
+        {
+          "wrong": "I assist series.",
+          "right": "I watch series.",
+          "why_pt": "Assist = ajudar. Assistir (TV/filmes) = watch."
+        }
+      ],
+      "pronunciation": {
+        "focus": "O final -ing",
+        "tip_pt": "No **-ing**, o som final é nasal, feito com o fundo da língua (como em \"bingo\" sem o \"o\"). Não diga \"ingui\". **Watching** = \"uótchin\", com o \"g\" quase mudo.",
+        "practice": [
+          "reading · watching · playing",
+          "I love traveling.",
+          "She enjoys cooking and dancing."
+        ]
+      },
+      "dialogue": {
+        "title": "Weekend plans chat",
+        "context_pt": "Dois colegas de trabalho conversam na pausa do café sobre o que gostam de fazer.",
+        "lines": [
+          {
+            "speaker": "Kai",
+            "en": "So, what do you do in your free time?",
+            "pt": "Então, o que você faz no seu tempo livre?"
+          },
+          {
+            "speaker": "Malu",
+            "en": "I love watching series. I'm really into K-dramas right now.",
+            "pt": "Eu amo assistir séries. Estou curtindo muito doramas agora."
+          },
+          {
+            "speaker": "Kai",
+            "en": "Cool! I don't watch much TV. I like playing video games.",
+            "pt": "Legal! Eu não vejo muita TV. Gosto de jogar videogame."
+          },
+          {
+            "speaker": "Malu",
+            "en": "Do you play sports?",
+            "pt": "Você pratica esportes?"
+          },
+          {
+            "speaker": "Kai",
+            "en": "Yes, I play beach volleyball on Sundays. And you?",
+            "pt": "Sim, jogo vôlei de praia aos domingos. E você?"
+          },
+          {
+            "speaker": "Malu",
+            "en": "I do yoga. I'm not a big fan of team sports.",
+            "pt": "Faço yoga. Não sou muito fã de esportes em equipe."
+          },
+          {
+            "speaker": "Kai",
+            "en": "I hate waking up early on weekends.",
+            "pt": "Eu odeio acordar cedo no fim de semana."
+          },
+          {
+            "speaker": "Malu",
+            "en": "Me too!",
+            "pt": "Eu também!"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Hobby match",
+        "text": "Looking for new friends with the same hobbies? Here are three profiles from the app HobbyMatch.\n**Ana, 25:** I love going cycling and taking photos of nature. I don't like crowded places.\n**Ravi, 31:** I'm into board games and cooking. I enjoy hosting dinners for friends.\n**Lu, 28:** I love dancing and going to concerts. I hate staying home on Saturdays!",
+        "questions": [
+          {
+            "q": "Who likes cooking?",
+            "answer": "Ravi."
+          },
+          {
+            "q": "What does Ana not like?",
+            "answer": "Crowded places."
+          },
+          {
+            "q": "Who hates staying home on Saturdays?",
+            "answer": "Lu."
+          },
+          {
+            "q": "Which person is a good match for you? Why?",
+            "answer": "Resposta pessoal."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "answer",
+          "title": "Forma -ing",
+          "instruction_pt": "Escreva o verbo com -ing.",
+          "items": [
+            {
+              "prompt": "dance",
+              "answer": "dancing"
+            },
+            {
+              "prompt": "swim",
+              "answer": "swimming"
+            },
+            {
+              "prompt": "watch",
+              "answer": "watching"
+            },
+            {
+              "prompt": "run",
+              "answer": "running"
+            },
+            {
+              "prompt": "travel",
+              "answer": "traveling"
+            }
+          ],
+          "instruction": "Write the -ing form of the verb."
+        },
+        {
+          "id": "ex2",
+          "type": "multiple_choice",
+          "title": "go, play ou do?",
+          "instruction_pt": "Escolha o verbo correto.",
+          "items": [
+            {
+              "prompt": "I ___ tennis on Mondays.",
+              "options": [
+                "go",
+                "play",
+                "do"
+              ],
+              "answer": "play"
+            },
+            {
+              "prompt": "We ___ running in the park.",
+              "options": [
+                "go",
+                "play",
+                "do"
+              ],
+              "answer": "go"
+            },
+            {
+              "prompt": "She ___ pilates.",
+              "options": [
+                "goes",
+                "plays",
+                "does"
+              ],
+              "answer": "does"
+            },
+            {
+              "prompt": "They ___ video games online.",
+              "options": [
+                "go",
+                "play",
+                "do"
+              ],
+              "answer": "play"
+            }
+          ],
+          "instruction": "Choose the correct verb."
+        },
+        {
+          "id": "ex3",
+          "type": "match",
+          "title": "Me too ou Me neither?",
+          "instruction_pt": "Responda concordando com a pessoa.",
+          "items": [
+            {
+              "prompt": "I love traveling.",
+              "answer": "Me too!"
+            },
+            {
+              "prompt": "I don't like horror movies.",
+              "answer": "Me neither!"
+            },
+            {
+              "prompt": "I hate Mondays.",
+              "answer": "Me too!"
+            },
+            {
+              "prompt": "I don't play video games.",
+              "answer": "Me neither!"
+            }
+          ],
+          "instruction": "Agree with the person."
+        },
+        {
+          "id": "ex4",
+          "type": "dictation",
+          "title": "Dictation",
+          "instruction": "Listen and write the sentence.",
+          "instruction_pt": "Ouça e escreva a frase.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "I love watching series."
+            },
+            {
+              "prompt": "2",
+              "answer": "We play soccer on Sundays."
+            },
+            {
+              "prompt": "3",
+              "answer": "I do yoga twice a week."
+            },
+            {
+              "prompt": "4",
+              "answer": "What do you do in your free time?"
+            }
+          ]
+        },
+        {
+          "id": "ex5",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the mistake.",
+          "instruction_pt": "Encontre e corrija o erro.",
+          "items": [
+            {
+              "prompt": "I like watch movies.",
+              "answer": "I like watching movies. / I like to watch movies."
+            },
+            {
+              "prompt": "I play gym on Mondays.",
+              "answer": "I go to the gym on Mondays."
+            },
+            {
+              "prompt": "I assist series on Netflix.",
+              "answer": "I watch series on Netflix."
+            },
+            {
+              "prompt": "I make yoga.",
+              "answer": "I do yoga."
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "fill_blank",
+          "title": "Complete the dialogue",
+          "instruction": "Complete with: into · neither · too · playing · fan.",
+          "instruction_pt": "Complete o diálogo.",
+          "items": [
+            {
+              "prompt": "A: I love ___ video games.",
+              "answer": "playing"
+            },
+            {
+              "prompt": "B: Me ___! I'm ___ strategy games.",
+              "answer": "too / into"
+            },
+            {
+              "prompt": "A: I don't like horror games. — B: Me ___!",
+              "answer": "neither"
+            },
+            {
+              "prompt": "A: Do you like sports? — B: Not really. I'm not a big ___.",
+              "answer": "fan"
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction_pt": "Descubra 3 hobbies em comum com seu colega. Use Me too / Me neither.",
+        "questions": [
+          "What do you do in your free time?",
+          "What series are you watching now?",
+          "Do you play any sports?",
+          "What do you hate doing?",
+          "What do you love doing on Sundays?"
+        ],
+        "instruction": "Find 3 hobbies you have in common with your partner. Use Me too / Me neither."
+      },
+      "writing": {
+        "task_pt": "Crie seu perfil para o app HobbyMatch (3 a 4 frases), como os da leitura.",
+        "model": "Carla, 33: I love going to the beach and reading. I'm into true crime podcasts.\nI do pilates twice a week. I don't like loud parties.",
+        "task": "Create your profile for the HobbyMatch app (3 to 4 sentences), like the ones in the reading."
+      },
+      "culture_note": {
+        "title": "Soccer ou football?",
+        "text_pt": "Nos EUA, **football** é o futebol americano; o nosso futebol é **soccer**. No Reino Unido e no resto do mundo, **football** é o futebol mesmo. Ambos estão certos — depende de com quem você fala!"
+      },
+      "summary_pt": [
+        "like/love/hate/enjoy + -ing.",
+        "play (bola/jogos), go (+ -ing), do (yoga, pilates).",
+        "Watch = assistir; assist = ajudar.",
+        "Me too! / Me neither!"
+      ],
+      "listening": {
+        "title": "Podcast: What do you do on weekends?",
+        "context_pt": "Trecho de um podcast em que três ouvintes falam do fim de semana.",
+        "lines": [
+          {
+            "speaker": "Host",
+            "en": "Today's question: what do you love doing on weekends? Our first listener is Mia."
+          },
+          {
+            "speaker": "Mia",
+            "en": "I love going hiking. I go with my dog every Saturday."
+          },
+          {
+            "speaker": "Host",
+            "en": "Great! And you, Tom?"
+          },
+          {
+            "speaker": "Tom",
+            "en": "I'm not a big fan of sports. I like playing video games and watching movies."
+          },
+          {
+            "speaker": "Host",
+            "en": "And Laura?"
+          },
+          {
+            "speaker": "Laura",
+            "en": "I do yoga in the morning, and I love cooking for my friends on Sundays."
+          }
+        ],
+        "questions": [
+          {
+            "q": "Mia: what activity?",
+            "answer": "Hiking (with her dog)."
+          },
+          {
+            "q": "Tom: sports, yes or no?",
+            "answer": "No. He isn't a big fan of sports."
+          },
+          {
+            "q": "Laura: what in the morning?",
+            "answer": "Yoga."
+          },
+          {
+            "q": "Laura: when does she cook for friends?",
+            "answer": "On Sundays."
+          }
+        ]
+      }
+    }
+  ],
+  "review": {
+    "intro_pt": "Revise gostos, hábitos alimentares, pedidos e hobbies.",
+    "exercises": [
+      {
+        "id": "r1",
+        "type": "multiple_choice",
+        "title": "Escolha a correta",
+        "instruction_pt": "Escolha a opção correta.",
+        "items": [
+          {
+            "prompt": "___ you like chocolate?",
+            "options": [
+              "Are",
+              "Do",
+              "Is"
+            ],
+            "answer": "Do"
+          },
+          {
+            "prompt": "I love ___ to music.",
+            "options": [
+              "listen",
+              "listening",
+              "listens"
+            ],
+            "answer": "listening"
+          },
+          {
+            "prompt": "___ a latte, please?",
+            "options": [
+              "I want",
+              "Can I have",
+              "Give me"
+            ],
+            "answer": "Can I have"
+          },
+          {
+            "prompt": "I want ___ a snack.",
+            "options": [
+              "eat",
+              "to eat",
+              "eating"
+            ],
+            "answer": "to eat"
+          },
+          {
+            "prompt": "We ___ yoga on Tuesdays.",
+            "options": [
+              "play",
+              "go",
+              "do"
+            ],
+            "answer": "do"
+          }
+        ],
+        "instruction": "Choose the correct option."
+      },
+      {
+        "id": "r2",
+        "type": "fill_blank",
+        "title": "Complete",
+        "instruction_pt": "Complete com do, don't, have ou watch.",
+        "items": [
+          {
+            "prompt": "I ___ breakfast at 7.",
+            "answer": "have"
+          },
+          {
+            "prompt": "They ___ eat meat. They're vegetarian.",
+            "answer": "don't"
+          },
+          {
+            "prompt": "Do you like pizza? Yes, I ___.",
+            "answer": "do"
+          },
+          {
+            "prompt": "I ___ series on my phone.",
+            "answer": "watch"
+          }
+        ],
+        "instruction": "Complete with do, don't, have or watch."
+      },
+      {
+        "id": "r3",
+        "type": "translate",
+        "title": "Traduza",
+        "instruction_pt": "Traduza para o inglês.",
+        "items": [
+          {
+            "prompt": "Eu não gosto de acordar cedo.",
+            "answer": "I don't like waking up early."
+          },
+          {
+            "prompt": "Para viagem, por favor.",
+            "answer": "To go, please."
+          },
+          {
+            "prompt": "O que você faz no seu tempo livre?",
+            "answer": "What do you do in your free time?"
+          },
+          {
+            "prompt": "Quanto é?",
+            "answer": "How much is it?"
+          }
+        ],
+        "instruction": "Translate into English."
+      },
+      {
+        "id": "r4",
+        "type": "dictation",
+        "title": "Dictation",
+        "instruction": "Listen and write the sentence.",
+        "instruction_pt": "Ouça e escreva a frase.",
+        "items": [
+          {
+            "prompt": "1",
+            "answer": "I don't like waking up early."
+          },
+          {
+            "prompt": "2",
+            "answer": "Can I have a medium latte, please?"
+          },
+          {
+            "prompt": "3",
+            "answer": "We order pizza on Fridays."
+          }
+        ]
+      },
+      {
+        "id": "r5",
+        "type": "correct_error",
+        "title": "Fix the mistake",
+        "instruction": "Find and correct the mistake.",
+        "instruction_pt": "Encontre e corrija o erro.",
+        "items": [
+          {
+            "prompt": "I want go to the gym.",
+            "answer": "I want to go to the gym."
+          },
+          {
+            "prompt": "Do you like of chocolate?",
+            "answer": "Do you like chocolate?"
+          },
+          {
+            "prompt": "I love dance.",
+            "answer": "I love dancing."
+          }
+        ]
+      }
+    ],
+    "speaking_pt": "Grave um áudio de 1 minuto: \"My favorite things\". Fale sobre comida, bebida e hobbies.",
+    "speaking_questions": [
+      "What's your favorite food?",
+      "What do you drink every day?",
+      "What do you never eat?",
+      "What do you love doing on weekends?",
+      "What's your favorite coffee shop order?"
+    ],
+    "project_pt": "**My food & fun vlog:** grave um vídeo de 1 a 2 minutos fazendo um pedido (real ou simulado) em uma cafeteria e depois contando 3 coisas que você gosta de fazer no tempo livre."
+  }
+}

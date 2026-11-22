@@ -1,0 +1,532 @@
+{
+  "id": "C1-M6",
+  "level": "C1",
+  "title": "Mastery",
+  "theme_pt": "Diplomacia, condicionais avançados, registro e preparação final",
+  "can_do": ["Discordar e negociar com linguagem diplomática", "Usar condicionais invertidos e variações formais", "Alternar entre registros formal e informal", "Fazer uma apresentação e uma prova no padrão C1"],
+  "lessons": [
+    {
+      "id": "C1-M6-L1",
+      "title": "Diplomatic language",
+      "subtitle_pt": "Linguagem diplomática: suavizadores, perguntas negativas, understatement",
+      "duration_min": 80,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – C1 (diplomatic language, softening)", "Cambridge C1 Advanced – Speaking Part 3"],
+      "objectives": ["Suavizar críticas e discordâncias (I'm not entirely convinced, It might be worth...)", "Usar perguntas negativas para sugerir (Wouldn't it be better...?)", "Usar passado, modais e qualificadores para soar menos direto", "Negociar e resolver conflitos sem perder a relação"],
+      "warmup": {
+        "text_pt": "\"Sua proposta está errada\" ou \"**I'm not entirely sure** this proposal **would** work\"? Em inglês profissional, especialmente britânico, **dizer \"não\" diretamente** pode soar agressivo. A linguagem diplomática permite **discordar, criticar e negociar** mantendo o respeito. É uma habilidade-chave do C1.",
+        "questions": ["How do you disagree with a boss or a client without causing problems?", "Do you think Brazilians are direct or indirect when they disagree?"]
+      },
+      "vocabulary": [
+        {"en": "tactful / tactless", "pt": "diplomático / indelicado", "say": "téktful / téktles"},
+        {"en": "to soften (a message)", "pt": "suavizar (uma mensagem)", "say": "tu sófen"},
+        {"en": "to save face", "pt": "salvar as aparências", "say": "tu sêiv fêis"},
+        {"en": "to find common ground", "pt": "encontrar um ponto em comum", "say": "tu fáind kóman gráund"},
+        {"en": "a compromise / to compromise", "pt": "um meio-termo / ceder", "say": "a kómpromaiz"},
+        {"en": "to defuse (a situation)", "pt": "acalmar, desarmar (uma situação)", "say": "tu difiúz"},
+        {"en": "a sticking point", "pt": "um ponto de impasse", "say": "a stíkin póint"},
+        {"en": "a win-win situation", "pt": "uma situação em que todos ganham", "say": "a uín uín situêishan"},
+        {"en": "to put it mildly", "pt": "para dizer o mínimo", "say": "tu put it máildli"},
+        {"en": "to see eye to eye", "pt": "concordar plenamente", "say": "tu sí ái tu ái"},
+        {"en": "to agree to disagree", "pt": "concordar em discordar", "say": "tu agrí tu disagrí"},
+        {"en": "to sugar-coat", "pt": "dourar a pílula", "say": "tu shúgar kôut"}
+      ],
+      "chunks": [
+        {"en": "I'm not entirely convinced.", "pt": "Não estou totalmente convencido."},
+        {"en": "Wouldn't it be better to wait?", "pt": "Não seria melhor esperar?"},
+        {"en": "It might be worth reconsidering the budget.", "pt": "Talvez valha a pena reconsiderar o orçamento."},
+        {"en": "I was wondering whether we could revisit the deadline.", "pt": "Eu queria saber se poderíamos rever o prazo."},
+        {"en": "That's not quite what we had in mind.", "pt": "Não é bem o que tínhamos em mente."},
+        {"en": "Let's agree to disagree.", "pt": "Vamos concordar em discordar."}
+      ],
+      "grammar": {
+        "title": "Diplomatic language and softening",
+        "explanation_pt": "**1. Qualificadores e advérbios suavizadores:**\n- **not entirely / not quite / not really / not particularly**: \"I'm **not entirely** happy with this.\" (= não estou feliz)\n- **slightly / a bit / somewhat / rather**: \"The price is **slightly** higher than we expected.\"\n- **a little / a few**: \"There are **a few** issues we need to discuss.\"\n\n**2. Modais e condicionais** (tornam afirmações hipotéticas e menos impositivas):\n- \"That **would** be difficult.\" (= é difícil/impossível)\n- \"We **might** need to rethink this.\" / \"It **could** be a problem.\"\n- \"**It might be worth** + -ing\": \"It might be worth checking the figures again.\"\n\n**3. Passado e contínuo de distanciamento** (revisão C1-M1-L1):\n- \"I **was wondering** if...\" / \"We **were hoping** for a lower price.\" / \"I **was thinking** we could...\"\n\n**4. Perguntas negativas** (sugerir sem impor):\n- \"**Wouldn't it be** better to wait?\" / \"**Shouldn't we** check with the client first?\" / \"**Isn't** there a risk that...?\"\n\n**5. Understatement e negação do oposto:**\n- \"That's **not ideal**.\" (= é ruim) / \"It's **not the best** solution.\" / \"I'm **not a huge fan of**...\"\n- Negue o positivo em vez de afirmar o negativo: \"It's **not very** clear\" (em vez de \"It's confusing\").\n\n**6. Passiva e impessoalidade** (tirar o foco da pessoa):\n- \"**You made** a mistake\" → \"**A mistake seems to have been made**\" / \"**There seems to be** an error in...\"\n\n**7. Frases de transição e preparação:**\n- \"**I see your point, but**...\" / \"**With respect**, ...\" / \"**I take your point. However**, ...\" / \"**To be honest**, ...\" / \"**I'm afraid** that...\"\n\n⚠️ **Não exagere:** diplomacia demais pode soar falsa ou confusa. Em culturas diretas (Holanda, Alemanha, Israel), seja mais claro.",
+        "table": {
+          "headers": ["Direto", "Diplomático"],
+          "rows": [["Your idea is bad.", "I'm not entirely convinced it would work."], ["It's too expensive.", "It's slightly above our budget."], ["We should wait.", "Wouldn't it be better to wait?"], ["You made a mistake.", "There seems to be a small error here."], ["I disagree.", "I see your point, but I'm not sure I agree."], ["No.", "That might be difficult, I'm afraid."]]
+        },
+        "examples": [
+          {"en": "I'm afraid the proposal isn't quite what we were looking for. It might be worth focusing more on the Brazilian market.", "pt": "Receio que a proposta não seja bem o que estávamos procurando. Talvez valha a pena focar mais no mercado brasileiro."},
+          {"en": "Wouldn't it make more sense to test the product with a small group before launching it nationally?", "pt": "Não faria mais sentido testar o produto com um grupo pequeno antes de lançá-lo nacionalmente?"},
+          {"en": "There seem to be a few discrepancies in the figures. Could we go through them together?", "pt": "Parece haver algumas discrepâncias nos números. Poderíamos revisá-los juntos?"}
+        ],
+        "tip_pt": "Atenção ao \"**decoder**\" britânico: \"**With the greatest respect**...\" = acho que você está errado. \"**That's an interesting idea**\" = não gostei. \"**I'll bear it in mind**\" = não vou fazer nada. \"**Quite good**\" = meio fraco. O tom e o contexto decidem!"
+      },
+      "common_mistakes": [
+        {"wrong": "Your report is wrong.", "right": "There seem to be a few inaccuracies in the report.", "why_pt": "Use impessoalidade para criticar sem atacar."},
+        {"wrong": "It might be worth to check.", "right": "It might be worth checking.", "why_pt": "worth + -ing."},
+        {"wrong": "Wouldn't be better to wait?", "right": "Wouldn't it be better to wait?", "why_pt": "Não esqueça o it na pergunta negativa."}
+      ],
+      "pronunciation": {
+        "focus": "Tom diplomático",
+        "tip_pt": "A diplomacia está tanto nas palavras quanto no **tom**. Use uma voz **mais suave**, ritmo **mais lento** e entonação **ascendente** em sugestões: \"Wouldn't it be better to wait ↗?\". Uma pequena pausa antes da crítica (\"I'm afraid... | that might be difficult\") também ajuda.",
+        "practice": ["Wouldn't it be better to wait ↗?", "I'm afraid... | that might be difficult.", "I'm not ENtirely convinced."]
+      },
+      "dialogue": {
+        "title": "Negotiating the contract",
+        "context_pt": "Uma gerente brasileira negocia com um fornecedor britânico.",
+        "lines": [
+          {"speaker": "Mark", "en": "So, as you can see, our proposal covers everything you asked for. The total comes to 180,000 pounds.", "pt": "Então, como pode ver, nossa proposta cobre tudo o que vocês pediram. O total fica em 180 mil libras."},
+          {"speaker": "Camila", "en": "Thank you, Mark. It's a very thorough proposal. I have to say, though, the price is somewhat higher than we'd anticipated.", "pt": "Obrigada, Mark. É uma proposta muito completa. Mas preciso dizer que o preço é um pouco mais alto do que tínhamos previsto."},
+          {"speaker": "Mark", "en": "I understand. It does include on-site training for your whole team.", "pt": "Entendo. Inclui treinamento presencial para toda a sua equipe."},
+          {"speaker": "Camila", "en": "Which we appreciate. But wouldn't it be possible to offer part of the training online? That might bring the cost down a little.", "pt": "O que agradecemos. Mas não seria possível oferecer parte do treinamento online? Isso poderia reduzir um pouco o custo."},
+          {"speaker": "Mark", "en": "That's an interesting idea. I'm not entirely sure our trainers would be happy with it, but it might be worth exploring.", "pt": "É uma ideia interessante. Não tenho certeza se nossos instrutores ficariam satisfeitos, mas talvez valha a pena explorar."},
+          {"speaker": "Camila", "en": "There's also the delivery schedule. Six months is not quite what we had in mind. We were hoping for something closer to four.", "pt": "Também tem o cronograma de entrega. Seis meses não é bem o que tínhamos em mente. Esperávamos algo mais próximo de quatro."},
+          {"speaker": "Mark", "en": "Four would be challenging, to put it mildly. Could we perhaps meet halfway — five months, with weekly progress reports?", "pt": "Quatro seria desafiador, para dizer o mínimo. Poderíamos talvez chegar a um meio-termo — cinco meses, com relatórios semanais de progresso?"},
+          {"speaker": "Camila", "en": "That sounds like a reasonable compromise. If you could also look at the training costs, I think we'd be very close to an agreement.", "pt": "Parece um meio-termo razoável. Se vocês também puderem rever os custos de treinamento, acho que estaremos muito perto de um acordo."}
+        ]
+      },
+      "listening": {
+        "title": "Getting to yes",
+        "context_pt": "Um especialista em negociação fala sobre o método de Harvard.",
+        "lines": [
+          {"speaker": "Expert", "en": "In 1981, Roger Fisher and William Ury of the Harvard Negotiation Project published Getting to Yes, a book that became one of the most influential guides to negotiation ever written. Their central idea was to move away from what they called \"positional bargaining\", where each side digs in and defends a fixed position, towards \"principled negotiation\". This rests on a few key principles. First, separate the people from the problem: you can be tough on the issue while remaining respectful to the person. Second, focus on interests, not positions. Two people might both demand the same orange — but if one wants the juice and the other wants the peel for a cake, there's a solution that satisfies both. Third, invent options for mutual gain before deciding. And fourth, insist on objective criteria, such as market prices or expert opinion, rather than a contest of wills. Diplomatic language is essential here. It allows you to challenge ideas without attacking people — which is often what makes agreement possible."}
+        ],
+        "questions": [
+          {"q": "What is \"positional bargaining\"?", "answer": "Each side digs in and defends a fixed position."},
+          {"q": "What does \"separate the people from the problem\" mean?", "answer": "Be tough on the issue but respectful to the person."},
+          {"q": "What does the orange example illustrate?", "answer": "Focusing on interests, not positions, can satisfy both sides."},
+          {"q": "Why is diplomatic language essential?", "answer": "It lets you challenge ideas without attacking people."}
+        ]
+      },
+      "video": {
+        "title": "The walk from \"no\" to \"yes\"",
+        "speaker": "William Ury",
+        "url": "https://www.ted.com/search?q=william+ury+the+walk+from+no+to+yes",
+        "task_pt": "Assista à palestra (cerca de 19 minutos) de um dos autores de Getting to Yes. Responda usando linguagem diplomática:",
+        "questions": ["What does the speaker mean by \"going to the balcony\"?", "What is the \"third side\" in a conflict?", "Describe a conflict (at work, at home, in the news) where the third side could help.", "Which of his ideas could you apply in your next difficult conversation?"]
+      },
+      "reading": {
+        "title": "Lost in diplomacy",
+        "text": "Every culture has its own rules about how directly people should express disagreement, and misunderstandings between cultures can be costly. In her influential book The Culture Map, Erin Meyer, a professor at the business school INSEAD, describes a scale ranging from cultures where negative feedback is delivered directly to those where it is delivered indirectly. In the Netherlands, Israel and Germany, she argues, people tend to give criticism frankly, often using \"upgraders\" such as \"absolutely\" or \"totally\": \"This is totally inappropriate.\" In the United Kingdom, Japan and much of Southeast Asia, by contrast, criticism is typically softened with \"downgraders\": \"This might be slightly inappropriate.\" The problem arises when the two styles meet. A Dutch manager who tells a British colleague that his presentation was \"a bit weak\" may think she is being helpful; the British colleague may hear something far more devastating, because in his culture \"a bit weak\" is how one might describe a disaster. Conversely, a British manager who describes a project as \"not quite what we were hoping for\" may be shocked to discover that a Dutch employee interpreted this as minor feedback. Brazil occupies an interesting position. Brazilians are often described as expressive and warm, and comfortable showing emotion. Yet when it comes to negative feedback, especially towards superiors or in public, many Brazilians tend to soften their message considerably — sometimes so much that the criticism is missed entirely. The lesson is not that one style is superior. It is that effective communicators learn to recognize the code being used and, when necessary, check their understanding. A simple question — \"Just to make sure I understand, are you saying that we need to redo this?\" — can prevent a great deal of confusion.",
+        "questions": [
+          {"q": "What scale does Erin Meyer describe?", "answer": "From cultures where negative feedback is direct to those where it is indirect."},
+          {"q": "What are \"upgraders\" and \"downgraders\"?", "answer": "Words that intensify (absolutely, totally) or soften (slightly, might) criticism."},
+          {"q": "Why might a British colleague be devastated by \"a bit weak\"?", "answer": "In his culture, \"a bit weak\" can describe a disaster."},
+          {"q": "What simple strategy does the text recommend?", "answer": "Check your understanding with a clarifying question."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "answer", "title": "Make it diplomatic", "instruction": "Rewrite the sentences in a more diplomatic way.", "instruction_pt": "Reescreva as frases de forma mais diplomática.",
+         "items": [{"prompt": "Your price is too high.", "answer": "Your price is slightly higher than we expected. / It's a little above our budget."}, {"prompt": "You're wrong.", "answer": "I'm not entirely sure I agree. / I see your point, but..."}, {"prompt": "We should postpone the launch.", "answer": "Wouldn't it be better to postpone the launch? / It might be worth postponing the launch."}, {"prompt": "You made a mistake in the report.", "answer": "There seems to be a small error in the report."}, {"prompt": "We can't deliver in two weeks.", "answer": "I'm afraid delivering in two weeks might be difficult."}]},
+        {"id": "ex2", "type": "match", "title": "Decode the diplomacy", "instruction": "Write what the speaker probably means.", "instruction_pt": "Escreva o que a pessoa provavelmente quer dizer.",
+         "items": [{"prompt": "\"That's an interesting idea.\"", "answer": "I don't like it / I don't agree."}, {"prompt": "\"I'll bear it in mind.\"", "answer": "I probably won't do anything about it."}, {"prompt": "\"It's not quite what we had in mind.\"", "answer": "It's not what we wanted."}, {"prompt": "\"With the greatest respect...\"", "answer": "I think you're wrong."}, {"prompt": "\"That would be challenging.\"", "answer": "That's very difficult / probably impossible."}]},
+        {"id": "ex3", "type": "multiple_choice", "title": "Choose the diplomatic option", "instruction": "Choose the most diplomatic option.", "instruction_pt": "Escolha a opção mais diplomática.",
+         "items": [{"prompt": "Telling a client their deadline is unrealistic:", "options": ["Your deadline is impossible.", "That deadline might be a little ambitious.", "We won't do it."], "answer": "That deadline might be a little ambitious."}, {"prompt": "Suggesting a different approach:", "options": ["Do it my way.", "Wouldn't it be worth trying a different approach?", "Your approach is wrong."], "answer": "Wouldn't it be worth trying a different approach?"}, {"prompt": "Disagreeing in a meeting:", "options": ["That's nonsense.", "I take your point, but I'm not sure it would work in our case.", "No, you're wrong."], "answer": "I take your point, but I'm not sure it would work in our case."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "I'm not entirely convinced."}, {"prompt": "2", "answer": "Wouldn't it be better to wait?"}, {"prompt": "3", "answer": "It might be worth reconsidering the budget."}, {"prompt": "4", "answer": "That's not quite what we had in mind."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "It might be worth to ask the client.", "answer": "It might be worth asking the client."}, {"prompt": "Wouldn't be better to start again?", "answer": "Wouldn't it be better to start again?"}, {"prompt": "I'm not entire convinced.", "answer": "I'm not entirely convinced."}, {"prompt": "There seem to be a small problem.", "answer": "There seems to be a small problem."}]},
+        {"id": "ex6", "type": "match", "title": "Negotiation vocabulary", "instruction": "Write the English expression.", "instruction_pt": "Escreva a expressão em inglês.",
+         "items": [{"prompt": "salvar as aparências", "answer": "save face"}, {"prompt": "ponto de impasse", "answer": "sticking point"}, {"prompt": "concordar em discordar", "answer": "agree to disagree"}, {"prompt": "dourar a pílula", "answer": "sugar-coat"}, {"prompt": "encontrar um ponto em comum", "answer": "find common ground"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Negotiation role-play\": in pairs, negotiate one of these situations (salary increase; a supplier contract; dividing household chores; organizing a family holiday). Each person has a secret \"bottom line\". Use at least six diplomatic structures and try to reach a win-win agreement.",
+        "instruction_pt": "\"Simulação de negociação\": em pares, negociem uma destas situações (aumento de salário; contrato com fornecedor; divisão de tarefas domésticas; férias em família). Cada pessoa tem um \"limite\" secreto. Usem pelo menos seis estruturas diplomáticas e tentem chegar a um acordo em que todos ganham.",
+        "questions": ["Are you a direct or an indirect communicator?", "When is it better to be direct, even if it upsets people?", "How do you give negative feedback to a friend?", "Have you ever been misunderstood because you were too direct or too indirect?", "What's the hardest negotiation you've ever had?"]
+      },
+      "writing": {
+        "task": "Write a formal email (250–300 words) to a business partner or client, diplomatically rejecting part of their proposal, explaining your concerns and suggesting a compromise. Use at least eight softening devices.",
+        "task_pt": "Escreva um e-mail formal (250–300 palavras) a um parceiro ou cliente, recusando diplomaticamente parte da proposta, explicando suas preocupações e sugerindo um meio-termo. Use pelo menos oito recursos de suavização.",
+        "model": "Subject: Your proposal for the São Paulo event\n\nDear Ms. Walker,\n\nThank you very much for sending us your proposal for the launch event in São Paulo, and for the time your team has clearly put into it. We were particularly impressed by the creative concept and the attention to detail in the programme.\n\nHaving discussed the proposal internally, however, there are a few points we would like to raise before moving forward.\n\nFirstly, I'm afraid the overall budget is somewhat higher than we had anticipated. We were hoping to keep the total closer to 250,000 reais, and we wondered whether there might be some flexibility, perhaps in the catering or decoration costs.\n\nSecondly, while we can see the appeal of holding the event at a hotel, we are not entirely convinced that this would be the best choice for our audience. Many of our guests are from the creative industries, and a more informal space — such as a converted warehouse — might create a more suitable atmosphere. Would it be possible to suggest one or two alternative venues?\n\nFinally, there seems to be a slight discrepancy in the dates. The proposal refers to 14 March, whereas we had discussed the following week. It might be worth confirming this as soon as possible, as several of our speakers have limited availability.\n\nNone of these points should detract from the overall quality of your work, and we remain very keen to work with you. Perhaps we could arrange a short video call early next week to discuss possible adjustments?\n\nThank you once again, and I look forward to hearing from you.\n\nKind regards,\n\nCamila Rocha\nMarketing Director"
+      },
+      "culture_note": {
+        "title": "O \"jeitinho\" da diplomacia brasileira",
+        "text_pt": "Brasileiros costumam evitar o \"não\" direto — \"vou ver\", \"vamos marcar\", \"pode ser\" muitas vezes significam \"não\". Estrangeiros podem achar isso confuso! Em inglês, é bom equilibrar: seja diplomático no tom, mas **claro na mensagem**. \"I'm afraid we won't be able to do that\" é educado **e** inequívoco."
+      },
+      "summary_pt": ["Qualificadores: not entirely, slightly, a bit, a few.", "Modais: would, might, could; It might be worth + -ing.", "Perguntas negativas: Wouldn't it be better...? Shouldn't we...?", "Impessoalidade: There seems to be an error... · I'm afraid..."]
+    },
+    {
+      "id": "C1-M6-L2",
+      "title": "Conditionals unlocked",
+      "subtitle_pt": "Condicionais avançados: Should you..., Were we to..., Had it not been for..., if + will/would, assuming",
+      "duration_min": 80,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – C1 (inverted conditionals, alternatives to if)", "Cambridge C1 Advanced – Reading and Use of English Part 4"],
+      "objectives": ["Usar condicionais invertidos (Should..., Were... to, Had...)", "Usar if + will / would para pedidos educados e resultados", "Usar alternativas: assuming, given that, in the event of, but for, on condition that", "Avaliar riscos e tomar decisões em contextos profissionais"],
+      "warmup": {
+        "text_pt": "Você já conhece todos os condicionais e a inversão \"Had I known...\". No C1, o repertório se completa: \"**Should** you need help...\", \"**Were** we **to** lose this client...\", \"**If you'd** like to follow me...\", \"**Assuming** the budget is approved...\". Tema: **riscos e decisões**.",
+        "questions": ["What's the biggest risk you've ever taken?", "Do you make decisions quickly or do you think through every possible scenario?"]
+      },
+      "vocabulary": [
+        {"en": "a risk assessment", "pt": "uma avaliação de riscos", "say": "a rísk asésment"},
+        {"en": "a contingency", "pt": "uma contingência, imprevisto", "say": "a kontíndjensi"},
+        {"en": "the upside / the downside", "pt": "o lado bom / o lado ruim", "say": "dí âpsáid / dâ dáunsáid"},
+        {"en": "to hedge your bets", "pt": "não apostar tudo numa coisa só", "say": "tu rédj iór béts"},
+        {"en": "a calculated risk", "pt": "um risco calculado", "say": "a kélkiuleitid rísk"},
+        {"en": "risk-averse", "pt": "avesso a riscos", "say": "rísk avârs"},
+        {"en": "a gamble / to gamble", "pt": "uma aposta / apostar", "say": "a gâmbol"},
+        {"en": "to pay off", "pt": "dar certo, compensar", "say": "tu pêi óf"},
+        {"en": "to backfire", "pt": "sair pela culatra", "say": "tu békfáier"},
+        {"en": "in the event of", "pt": "em caso de", "say": "in dí ivént ov"},
+        {"en": "given that", "pt": "dado que", "say": "gíven dét"},
+        {"en": "the worst-case scenario", "pt": "o pior cenário", "say": "dâ uârst kêis sinério"}
+      ],
+      "chunks": [
+        {"en": "Should you need anything, just call.", "pt": "Se precisar de algo, é só ligar."},
+        {"en": "Were we to lose this client, we'd be in trouble.", "pt": "Se perdêssemos esse cliente, estaríamos em apuros."},
+        {"en": "Had it not been for her, the project would have failed.", "pt": "Não fosse por ela, o projeto teria fracassado."},
+        {"en": "If you'll just wait here, I'll get the manager.", "pt": "Se puder aguardar aqui, vou chamar o gerente."},
+        {"en": "Assuming the budget is approved, we'll start in May.", "pt": "Supondo que o orçamento seja aprovado, começamos em maio."},
+        {"en": "The gamble paid off.", "pt": "A aposta deu certo."}
+      ],
+      "grammar": {
+        "title": "Advanced conditionals",
+        "explanation_pt": "**1. Condicionais invertidos** (formais, sem if):\n- **Should + S + verbo** (= if... should / if, possibilidade remota — 1º condicional): \"**Should** the flight **be** delayed, we will inform you.\"\n- **Were + S + to + verbo** (= if... were to — 2º condicional, hipótese): \"**Were** the company **to** close, 500 people would lose their jobs.\"\n- **Were + S + noun/adj** (com be): \"**Were** I in your position, I'd accept.\"\n- **Had + S + particípio** (3º condicional): \"**Had** we **known**, we would have acted.\"\n- **Negativas:** \"**Should** you **not** wish to continue...\" / \"**Had** it **not been** for...\" (nunca \"Hadn't it...\")\n\n**2. If + will / would** (exceções!):\n- **Pedidos educados:** \"**If you'll** follow me, I'll show you to your seat.\" / \"**If you would** sign here, please.\"\n- **Resultado na oração do if:** \"I'll give you £10 **if it'll** help.\" (= se isso for ajudar)\n- **Insistência/teimosia:** \"**If you will** eat so much sugar, of course you'll feel ill!\" (will acentuado)\n\n**3. If + should / happen to** (possibilidade remota):\n- \"**If** you **should** see Ana, tell her to call me.\" / \"**If** you **happen to** pass the bakery...\"\n\n**4. Alternativas formais ao if:**\n- **Assuming (that) / Supposing (that)**: \"**Assuming** the weather is good, we'll go.\"\n- **Given that** (= considerando que): \"**Given that** costs are rising, we must act.\"\n- **In the event of** + substantivo / **in the event that**: \"**In the event of** fire, use the stairs.\"\n- **On condition that / Provided (that) / As long as** (revisão)\n- **But for** + substantivo (= se não fosse por): \"**But for** her help, I'd have failed.\"\n- **Otherwise / Or else** (revisão B2)\n- **If so / If not** (revisão C1-M1)\n\n**5. Mixed e implícitos:**\n- \"I'd have called you, **but** I lost my phone.\" (condição implícita)\n- \"**Without** your support, this **wouldn't have been** possible.\"",
+        "table": {
+          "headers": ["Estrutura", "Equivale a", "Exemplo"],
+          "rows": [["Should + S + V", "If + S + should/V", "Should you need help, call me."], ["Were + S + to + V", "If + S + were to", "Were prices to rise, sales would fall."], ["Were + S + ...", "If + S + were", "Were I you, I'd wait."], ["Had + S + pp", "If + S + had + pp", "Had I known, I'd have come."], ["If you'll / would...", "pedido educado", "If you'll take a seat..."], ["Assuming / Given that", "supondo / dado que", "Given that it's late, let's stop."], ["In the event of", "em caso de", "In the event of rain, ..."]]
+        },
+        "examples": [
+          {"en": "Should you have any questions about your booking, please do not hesitate to contact us.", "pt": "Caso tenha qualquer dúvida sobre sua reserva, não hesite em nos contatar."},
+          {"en": "Were the central bank to raise interest rates again, many small businesses would struggle to survive.", "pt": "Se o banco central aumentasse os juros novamente, muitas pequenas empresas teriam dificuldade para sobreviver."},
+          {"en": "Had it not been for the backup servers, the company would have lost years of data.", "pt": "Não fossem os servidores de backup, a empresa teria perdido anos de dados."}
+        ],
+        "tip_pt": "Em português, \"**Caso** você precise...\" corresponde muito bem a \"**Should** you need...\" — use em e-mails formais. E \"**Se eu fosse você**\" = \"**Were I you**\" (formal) ou \"**If I were you**\" (neutro)."
+      },
+      "common_mistakes": [
+        {"wrong": "Hadn't it been for you, I would have failed.", "right": "Had it not been for you, I would have failed.", "why_pt": "Na inversão, não use contração: Had it not been..."},
+        {"wrong": "Should you will need help, call me.", "right": "Should you need help, call me.", "why_pt": "Should + verbo base."},
+        {"wrong": "Were we lose the client, we'd be in trouble.", "right": "Were we to lose the client, we'd be in trouble.", "why_pt": "Were + sujeito + to + verbo."}
+      ],
+      "pronunciation": {
+        "focus": "Inversão e ênfase",
+        "tip_pt": "Em condicionais invertidos, o auxiliar inicial (**Should / Were / Had**) é pronunciado de forma **clara e forte**, e há uma pausa no fim da condição: \"**SHOULD** you need any help, | please call.\" Em \"If you **WILL** eat so much...\" (teimosia), o will é **muito acentuado**.",
+        "practice": ["SHOULD you need any help, | please call.", "WERE we to lose this client, | we'd be in trouble.", "If you WILL eat so much sugar..."]
+      },
+      "dialogue": {
+        "title": "The risk meeting",
+        "context_pt": "Uma equipe discute os riscos de abrir uma filial em outro país.",
+        "lines": [
+          {"speaker": "Director", "en": "Right, let's go through the risks of opening the Lisbon office. Assuming the board approves it, we'd open in September.", "pt": "Certo, vamos revisar os riscos de abrir o escritório de Lisboa. Supondo que o conselho aprove, abriríamos em setembro."},
+          {"speaker": "Fernanda", "en": "The main risk is currency. Were the euro to rise sharply against the real, our costs there would increase significantly.", "pt": "O principal risco é o câmbio. Se o euro subisse muito em relação ao real, nossos custos lá aumentariam significativamente."},
+          {"speaker": "Director", "en": "Can we protect ourselves against that?", "pt": "Podemos nos proteger disso?"},
+          {"speaker": "Fernanda", "en": "Partly. We could hedge our bets by signing some contracts in euros. That way, should the exchange rate change, part of our income would rise too.", "pt": "Em parte. Podemos não apostar tudo numa coisa só, assinando alguns contratos em euros. Assim, caso o câmbio mude, parte da nossa receita também subiria."},
+          {"speaker": "Leo", "en": "There's also the question of staff. Given that we don't have anyone who knows the Portuguese market, we'd need to hire locally.", "pt": "Também tem a questão da equipe. Dado que não temos ninguém que conheça o mercado português, precisaríamos contratar localmente."},
+          {"speaker": "Director", "en": "Agreed. And what's the worst-case scenario?", "pt": "Concordo. E qual é o pior cenário?"},
+          {"speaker": "Fernanda", "en": "In the event of very low sales in the first year, we'd have to close. But had we not expanded to Chile three years ago, we'd never have learned how to do this. That gamble paid off.", "pt": "Em caso de vendas muito baixas no primeiro ano, teríamos que fechar. Mas, se não tivéssemos expandido para o Chile três anos atrás, nunca teríamos aprendido a fazer isso. Aquela aposta deu certo."},
+          {"speaker": "Director", "en": "Good point. OK, if you'll prepare a full risk assessment by Friday, I'll present it to the board.", "pt": "Bom argumento. OK, se vocês puderem preparar uma avaliação de riscos completa até sexta, eu apresento ao conselho."}
+        ]
+      },
+      "listening": {
+        "title": "Pre-mortem: imagine it failed",
+        "context_pt": "Uma consultora explica uma técnica para avaliar riscos antes de tomar decisões.",
+        "lines": [
+          {"speaker": "Consultant", "en": "Most teams evaluate risks by asking, \"What could go wrong?\" The problem is that, once a team is excited about a project, few people want to be seen as negative. The psychologist Gary Klein proposed a clever alternative called the \"pre-mortem\". Before making a final decision, the team imagines that it's a year later and the project has failed completely. Then each person writes down, independently, the reasons why it failed. Research on what's called \"prospective hindsight\" suggests that imagining that an event has already happened can make it easier to identify its causes. So instead of \"Were we to fail, what might the reasons be?\", you say, \"We failed. Why?\" People suddenly feel free to mention concerns they'd otherwise keep to themselves. Had more organizations used this technique, many expensive disasters might have been avoided. And it costs nothing but an hour of honest conversation."}
+        ],
+        "questions": [
+          {"q": "What is the problem with asking \"What could go wrong?\"", "answer": "Once excited, few people want to seem negative."},
+          {"q": "What happens in a pre-mortem?", "answer": "The team imagines the project has failed and writes down why."},
+          {"q": "What is \"prospective hindsight\"?", "answer": "Imagining an event has already happened, which makes it easier to identify causes."},
+          {"q": "What does the technique cost?", "answer": "Nothing but an hour of honest conversation."}
+        ]
+      },
+      "reading": {
+        "title": "Thinking in bets",
+        "text": "In her book Thinking in Bets, the former professional poker player Annie Duke argues that most of us make a fundamental mistake when judging our decisions: we evaluate them by their outcomes. Poker players call this \"resulting\". If a decision turns out well, we assume it was a good one; if it turns out badly, we conclude it was a mistake. But, as Duke points out, the quality of a decision and the quality of its outcome are not the same thing. Imagine you drive home after drinking too much and arrive safely. Was it a good decision? Clearly not. Had you crashed, nobody would have questioned that conclusion; the fact that you were lucky does not change it. Conversely, a well-reasoned business decision might fail for reasons nobody could have foreseen. Were we to judge every choice purely by what happened afterwards, we would learn the wrong lessons from both. The alternative, Duke suggests, is to think of decisions as bets on an uncertain future. Before deciding, ask: what are the possible outcomes, how likely is each, and what would each cost or gain me? Assuming you have made a reasonable estimate with the information available, you have made a good decision — whatever happens next. This way of thinking has practical benefits. It encourages people to seek out information that might prove them wrong, to admit uncertainty (\"I'm about 70 percent sure\") and to review their decisions more honestly. Should a plan fail, the question becomes not \"Who is to blame?\" but \"Was this bad luck, bad information or bad judgement?\" Given that almost every important decision in life involves uncertainty, that may be one of the most useful questions we can learn to ask.",
+        "questions": [
+          {"q": "What is \"resulting\"?", "answer": "Judging a decision by its outcome."},
+          {"q": "What does the drink-driving example show?", "answer": "A good outcome doesn't make a bad decision good."},
+          {"q": "What questions should you ask before deciding, according to Duke?", "answer": "What are the possible outcomes, how likely is each, and what would each cost or gain?"},
+          {"q": "What question should you ask if a plan fails?", "answer": "Was this bad luck, bad information or bad judgement?"}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "answer", "title": "Invert the conditional", "instruction": "Rewrite the sentences without if, using inversion.", "instruction_pt": "Reescreva sem if, usando inversão.",
+         "items": [{"prompt": "If you need further information, please contact us.", "answer": "Should you need further information, please contact us."}, {"prompt": "If the company were to go bankrupt, thousands would lose their jobs.", "answer": "Were the company to go bankrupt, thousands would lose their jobs."}, {"prompt": "If I had known about the problem, I would have helped.", "answer": "Had I known about the problem, I would have helped."}, {"prompt": "If it hadn't been for the rain, the event would have been perfect.", "answer": "Had it not been for the rain, the event would have been perfect."}, {"prompt": "If I were in your position, I would accept the offer.", "answer": "Were I in your position, I would accept the offer."}]},
+        {"id": "ex2", "type": "multiple_choice", "title": "Alternatives to if", "instruction": "Choose the best option.", "instruction_pt": "Escolha a melhor opção.",
+         "items": [{"prompt": "___ fire, do not use the lifts.", "options": ["In the event of", "Given that", "Assuming"], "answer": "In the event of"}, {"prompt": "___ the train is on time, we'll arrive at six.", "options": ["Assuming", "In the event of", "But for"], "answer": "Assuming"}, {"prompt": "___ costs have doubled, we need to raise prices.", "options": ["Given that", "Should", "Unless"], "answer": "Given that"}, {"prompt": "___ your help, I'd never have finished.", "options": ["But for", "Given that", "Assuming"], "answer": "But for"}, {"prompt": "If you'll ___ me, I'll show you the office.", "options": ["follow", "to follow", "following"], "answer": "follow"}]},
+        {"id": "ex3", "type": "fill_blank", "title": "Formal notices", "instruction": "Complete the hotel information with: Should · Were · In the event of · If you would · Given that.", "instruction_pt": "Complete as informações do hotel.",
+         "items": [{"prompt": "___ you require a late check-out, please inform reception.", "answer": "Should"}, {"prompt": "___ an emergency, please follow the green signs.", "answer": "In the event of"}, {"prompt": "___ kindly complete the form, we will process your request.", "answer": "If you would"}, {"prompt": "___ the hotel is fully booked, early reservation is advised. ___ any problem to arise, our staff are available 24 hours.", "answer": "Given that / Were"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "Should you need anything, just call."}, {"prompt": "2", "answer": "Were we to lose this client, we'd be in trouble."}, {"prompt": "3", "answer": "Had it not been for her, the project would have failed."}, {"prompt": "4", "answer": "Assuming the budget is approved, we'll start in May."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "Hadn't it been for the map, we'd have got lost.", "answer": "Had it not been for the map, we'd have got lost."}, {"prompt": "Should you will have any questions, call us.", "answer": "Should you have any questions, call us."}, {"prompt": "Were the price rise, sales would fall.", "answer": "Were the price to rise, sales would fall."}, {"prompt": "In the event that of rain, the concert will be cancelled.", "answer": "In the event of rain, the concert will be cancelled. / In the event that it rains..."}]},
+        {"id": "ex6", "type": "match", "title": "Risk vocabulary", "instruction": "Write the English expression.", "instruction_pt": "Escreva a expressão em inglês.",
+         "items": [{"prompt": "sair pela culatra", "answer": "backfire"}, {"prompt": "dar certo, compensar", "answer": "pay off"}, {"prompt": "avesso a riscos", "answer": "risk-averse"}, {"prompt": "não apostar tudo numa coisa só", "answer": "hedge your bets"}, {"prompt": "pior cenário", "answer": "worst-case scenario"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Pre-mortem\": in groups, choose a decision (moving abroad, starting a business, changing careers, launching a product). Imagine it has failed. Each person explains why, using inverted and advanced conditionals. Then suggest how to reduce each risk.",
+        "instruction_pt": "\"Pre-mortem\": em grupos, escolham uma decisão (mudar de país, abrir um negócio, mudar de carreira, lançar um produto). Imaginem que ela fracassou. Cada pessoa explica por quê, usando condicionais invertidos e avançados. Depois sugiram como reduzir cada risco.",
+        "questions": ["Are you risk-averse or a risk-taker?", "What's a calculated risk you've taken that paid off?", "Should you judge a decision by its result?", "Were you to start a business tomorrow, what would it be?", "Had you known at 18 what you know now, what would you have done differently?"]
+      },
+      "writing": {
+        "task": "Write a formal risk assessment report (280–320 words) for a decision in your company or community (an event, a new service, an investment). Identify at least three risks and suggest measures. Use at least six advanced conditional structures.",
+        "task_pt": "Escreva um relatório formal de avaliação de riscos (280–320 palavras) para uma decisão na sua empresa ou comunidade (um evento, um novo serviço, um investimento). Identifique pelo menos três riscos e sugira medidas. Use pelo menos seis estruturas condicionais avançadas.",
+        "model": "Risk assessment: Open-air music festival, Parque das Águas\n\nIntroduction\nThe purpose of this report is to identify the main risks associated with the proposed one-day music festival in Parque das Águas in October, and to recommend measures to reduce them. Assuming the council approves the plan, the event is expected to attract around 8,000 visitors.\n\nWeather\nGiven that October is the beginning of the rainy season, heavy rain is a significant risk. Were a storm to occur during the event, the main stage and electrical equipment could be damaged and visitors put at risk. It is therefore recommended that a covered stage be hired and that the weather forecast be reviewed daily in the week before the festival. In the event of severe weather warnings, the event should be postponed to the reserve date in November.\n\nCrowd safety\nThe park has only two main entrances. Should a large number of visitors arrive at the same time, there is a serious risk of overcrowding. We recommend opening a third, temporary entrance and introducing staggered entry times for ticket holders.\n\nFinancial risk\nThe budget depends heavily on ticket sales. Were sales to fall below 5,000, the organizers would make a loss. To reduce this risk, we suggest securing at least two local sponsors before tickets go on sale. Had a similar measure been taken last year, the previous festival would not have ended with a deficit.\n\nConclusion\nProvided that the measures outlined above are implemented, the risks associated with the festival can be kept at an acceptable level. Should the council require any further information, the organizing committee would be happy to provide it."
+      },
+      "culture_note": {
+        "title": "Linguagem jurídica e contratos",
+        "text_pt": "Contratos em inglês adoram condicionais invertidos e formas arcaicas: \"**Should** either party fail to...\", \"**In the event that**...\", \"**Notwithstanding** the above...\" (apesar do exposto), \"**hereinafter**\" (doravante). Na vida real, o movimento **Plain English** tenta simplificar esses textos, mas em documentos legais eles ainda são muito comuns."
+      },
+      "summary_pt": ["Should + S + V (= if, possibilidade) · Were + S + to + V (hipótese) · Had + S + pp.", "Negativas: Should you not..., Had it not been for... (sem contração).", "If you'll / If you would... = pedido educado.", "Assuming, given that, in the event of, but for, provided that."]
+    },
+    {
+      "id": "C1-M6-L3",
+      "title": "Register switching",
+      "subtitle_pt": "Registro: formal x informal, phrasal verbs x verbos latinos, e-mail x mensagem",
+      "duration_min": 80,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – C1 (register and style)", "Cambridge C1 Advanced – Writing Part 2 (letter / email)"],
+      "objectives": ["Identificar marcas de registro formal, neutro e informal", "Trocar entre phrasal verbs e verbos latinos conforme o contexto", "Reescrever a mesma mensagem em diferentes registros", "Escrever e-mails formais e informais adequados ao destinatário"],
+      "warmup": {
+        "text_pt": "Você não fala com seu chefe como fala com seu melhor amigo — nem escreve um e-mail para um cliente como manda uma mensagem no WhatsApp. No C1, você precisa **transitar entre registros** com naturalidade: \"**We regret to inform you that...**\" x \"**Sorry, but...**\". Essa flexibilidade é um dos critérios mais importantes do nível.",
+        "questions": ["How differently do you write to your boss, a client and a friend?", "Have you ever sent a message in the wrong tone by mistake?"]
+      },
+      "vocabulary": [
+        {"en": "register / tone", "pt": "registro / tom", "say": "rédjister / tôun"},
+        {"en": "formal / informal / neutral", "pt": "formal / informal / neutro", "say": "fórmal / infórmal / niútral"},
+        {"en": "colloquial / slang", "pt": "coloquial / gíria", "say": "kolôukuial / sléng"},
+        {"en": "to enquire / to ask", "pt": "indagar / perguntar", "say": "tu inkuáier"},
+        {"en": "to obtain / to get", "pt": "obter / conseguir", "say": "tu obtêin"},
+        {"en": "to commence / to start", "pt": "iniciar / começar", "say": "tu koméns"},
+        {"en": "to assist / to help", "pt": "auxiliar / ajudar", "say": "tu asíst"},
+        {"en": "to regret / to be sorry", "pt": "lamentar / sentir muito", "say": "tu rigrét"},
+        {"en": "prior to / before", "pt": "anteriormente a / antes de", "say": "práior tu"},
+        {"en": "regarding / about", "pt": "referente a / sobre", "say": "rigárdin"},
+        {"en": "to postpone / to put off", "pt": "adiar", "say": "tu pôustpôun / tu put óf"},
+        {"en": "to tolerate / to put up with", "pt": "tolerar / aguentar", "say": "tu tólereit / tu put âp uídh"}
+      ],
+      "chunks": [
+        {"en": "I am writing to enquire about...", "pt": "Escrevo para obter informações sobre..."},
+        {"en": "We regret to inform you that...", "pt": "Lamentamos informar que..."},
+        {"en": "Just a quick note to say...", "pt": "Só uma mensagem rápida para dizer..."},
+        {"en": "Please do not hesitate to contact me.", "pt": "Não hesite em me contatar."},
+        {"en": "Give me a shout if you need anything.", "pt": "Me chama se precisar de algo."},
+        {"en": "I look forward to hearing from you.", "pt": "Aguardo seu retorno."}
+      ],
+      "grammar": {
+        "title": "Register: formal, neutral and informal",
+        "explanation_pt": "**Marcas de registro formal:**\n- Vocabulário de origem **latina**: obtain, require, commence, assist, inform, purchase, sufficient, regarding\n- **Passiva** e **impessoalidade**: \"It has been decided that...\" / \"Payment is required...\"\n- **Nominalização**: \"the cancellation of the event\" (em vez de \"we cancelled the event\")\n- **Sem contrações**: I am, we will, do not\n- **Condicionais invertidos e subjuntivo**: Should you require..., It is essential that he be...\n- Frases mais **longas e complexas**\n\n**Marcas de registro informal:**\n- **Phrasal verbs** e vocabulário anglo-saxão: get, start, help, find out, put off, sort out\n- **Contrações**: I'm, we'll, don't\n- **Elipse**: \"(Are you) Coming tonight?\" / \"(I) Hope you're well.\"\n- **Discourse markers e vague language**: anyway, by the way, and stuff, -ish\n- **Perguntas diretas e exclamações**: \"Guess what!\" / \"How cool is that?\"\n- Palavras como **guys, stuff, loads of, a bit, pretty (= bastante)**\n\n**Pares formal ↔ informal:**\n- request ↔ ask for · receive ↔ get · inform ↔ tell · investigate ↔ look into · tolerate ↔ put up with · postpone ↔ put off · discover ↔ find out · establish ↔ set up · reduce ↔ cut down on · contact ↔ get in touch with · however ↔ but · therefore ↔ so · in addition ↔ also / plus\n\n**Abertura e fechamento de e-mails:**\n- **Formal:** Dear Mr./Ms. Smith / Dear Sir or Madam → Yours sincerely (nome conhecido) / Yours faithfully (nome desconhecido, britânico) / Kind regards\n- **Neutro:** Dear Ana / Hello Ana → Best regards / Best wishes\n- **Informal:** Hi Ana / Hey! → Cheers / Take care / Love / See you soon\n\n⚠️ **Formal demais também é erro:** num e-mail para um colega próximo, \"I am writing to enquire whether you would be available for lunch\" soa estranho ou irônico!",
+        "table": {
+          "headers": ["Formal", "Neutro", "Informal"],
+          "rows": [["I am writing to enquire about...", "I'd like to ask about...", "Quick question about..."], ["We regret to inform you that...", "Unfortunately, ...", "Sorry, but..."], ["Please find attached...", "I've attached...", "Here's the..."], ["Should you require further assistance...", "If you need more help...", "Shout if you need anything!"], ["I look forward to hearing from you.", "I hope to hear from you soon.", "Speak soon!"], ["Yours sincerely / faithfully", "Best regards", "Cheers / Take care"]]
+        },
+        "examples": [
+          {"en": "We regret to inform you that, owing to unforeseen circumstances, the conference has been postponed.", "pt": "Lamentamos informar que, devido a circunstâncias imprevistas, a conferência foi adiada."},
+          {"en": "Bad news, I'm afraid — they've put off the conference. No idea when it'll happen now.", "pt": "Má notícia — adiaram a conferência. Não faço ideia de quando vai ser agora."},
+          {"en": "Should you require any further information, please do not hesitate to contact me.", "pt": "Caso precise de mais informações, não hesite em me contatar."}
+        ],
+        "tip_pt": "Brasileiros costumam ser **calorosos** em e-mails formais (\"Espero que esteja tudo bem com você e sua família!\"). Em inglês formal, uma frase curta basta: \"**I hope this email finds you well.**\" — e vá direto ao ponto."
+      },
+      "common_mistakes": [
+        {"wrong": "Dear Mr. Smith, I'm writing coz I wanna know about the job.", "right": "Dear Mr. Smith, I am writing to enquire about the position.", "why_pt": "Mistura de registros: e-mail formal pede vocabulário e gramática formais."},
+        {"wrong": "Dear Sir or Madam, ... Yours sincerely.", "right": "Dear Sir or Madam, ... Yours faithfully.", "why_pt": "No britânico: nome desconhecido → Yours faithfully."},
+        {"wrong": "Hey Ana! I hereby inform you that I can't come tonight.", "right": "Hey Ana! Sorry, I can't make it tonight.", "why_pt": "Mensagem informal não combina com linguagem formal."}
+      ],
+      "pronunciation": {
+        "focus": "Registro na fala",
+        "tip_pt": "Na fala, o registro muda o **ritmo e as reduções**: no informal, \"going to\" vira \"**gonna**\", \"want to\" → \"**wanna**\", \"got to\" → \"**gotta**\", \"don't know\" → \"**dunno**\". No formal, pronuncie as palavras completas e com mais clareza. Nunca escreva gonna/wanna em textos formais!",
+        "practice": ["(informal) I'm gonna call her later.", "(formal) I am going to contact her later this afternoon.", "(informal) Dunno, wanna grab a coffee?"]
+      },
+      "dialogue": {
+        "title": "Two emails, one message",
+        "context_pt": "Uma assistente pede ajuda a uma colega para adaptar o tom de um e-mail.",
+        "lines": [
+          {"speaker": "Ju", "en": "Can you have a look at this? I need to tell a client that their order's going to be late, and I've written it like a WhatsApp message.", "pt": "Você pode dar uma olhada nisso? Preciso avisar um cliente que o pedido vai atrasar, e escrevi como se fosse uma mensagem de WhatsApp."},
+          {"speaker": "Emma", "en": "Let's see: \"Hi! Bad news, your stuff's gonna be late. The supplier messed up. Sorry!\" Yes... maybe a bit too casual for a new client.", "pt": "Vamos ver: \"Oi! Má notícia, suas coisas vão atrasar. O fornecedor fez besteira. Foi mal!\" É... talvez um pouco casual demais para um cliente novo."},
+          {"speaker": "Ju", "en": "So how should I start?", "pt": "Então como eu começo?"},
+          {"speaker": "Emma", "en": "\"Dear Mr. Lopes\", and then something like \"We regret to inform you that your order will be delayed.\"", "pt": "\"Dear Mr. Lopes\" e depois algo como \"Lamentamos informar que seu pedido sofrerá atraso.\""},
+          {"speaker": "Ju", "en": "And \"the supplier messed up\"?", "pt": "E \"o fornecedor fez besteira\"?"},
+          {"speaker": "Emma", "en": "\"Owing to an issue with one of our suppliers.\" You don't need to blame anyone. Then give the new date and offer something — a discount, maybe.", "pt": "\"Devido a um problema com um de nossos fornecedores.\" Você não precisa culpar ninguém. Depois dê a nova data e ofereça algo — um desconto, talvez."},
+          {"speaker": "Ju", "en": "\"We would like to offer a 10% discount on your next purchase. Should you have any questions, please do not hesitate to contact me.\"", "pt": "\"Gostaríamos de oferecer 10% de desconto na sua próxima compra. Caso tenha alguma dúvida, não hesite em me contatar.\""},
+          {"speaker": "Emma", "en": "Perfect. And now you can send me the WhatsApp version — I want to know what the supplier actually did!", "pt": "Perfeito. E agora você pode me mandar a versão de WhatsApp — quero saber o que o fornecedor fez de verdade!"}
+        ]
+      },
+      "listening": {
+        "title": "The same story, three ways",
+        "context_pt": "A mesma notícia contada em três registros: um anúncio oficial, uma conversa entre colegas e uma mensagem de voz para um amigo.",
+        "lines": [
+          {"speaker": "Announcer", "en": "Passengers are advised that, owing to essential maintenance work, services on Line 2 will be suspended between 10 p.m. and 5 a.m. from Monday the 3rd. Alternative transport will be provided. We apologize for any inconvenience caused."},
+          {"speaker": "Man", "en": "Have you heard? They're shutting down Line 2 at night for repairs from next Monday. They're putting on buses instead, apparently."},
+          {"speaker": "Woman", "en": "Hey, it's me! Just a heads-up — no metro after ten from Monday, so if you're coming to the party, you'll have to grab a bus or get an Uber. Annoying, I know! See you Saturday!"}
+        ],
+        "questions": [
+          {"q": "What is happening to Line 2?", "answer": "It will be closed between 10 p.m. and 5 a.m. from Monday for maintenance."},
+          {"q": "Find two formal expressions in the announcement.", "answer": "Passengers are advised / owing to / will be suspended / alternative transport will be provided / we apologize for any inconvenience."},
+          {"q": "How does the colleague express \"alternative transport will be provided\"?", "answer": "They're putting on buses instead."},
+          {"q": "Find two informal features in the voice message.", "answer": "Hey, it's me / just a heads-up / grab a bus / Annoying, I know! / contractions."}
+        ]
+      },
+      "reading": {
+        "title": "Why register matters",
+        "text": "Linguists use the term \"register\" to describe the way language varies according to its context: who is speaking to whom, about what, and through which medium. We all switch registers constantly, usually without thinking. The same person might say \"Could you possibly pass the salt?\" at a formal dinner, \"Pass the salt, please\" at home and simply \"Salt?\" to a close friend. For language learners, however, register can be a hidden trap. Textbooks often teach a fairly neutral style, while films and social media expose learners to very informal speech. The result can be an awkward mixture: an email to a university professor that begins \"Hey!\" or a casual chat sprinkled with expressions like \"furthermore\" and \"I hereby\". Neither is grammatically wrong, but both send an unintended social message. English has a particular feature that makes register especially noticeable: its double vocabulary. After the Norman Conquest of 1066, French became the language of the ruling class in England for centuries, while English continued to be spoken by ordinary people. As a result, English today often has two words for the same idea — a shorter, everyday word of Germanic origin and a longer, more formal one from French or Latin: help and assist, buy and purchase, ask and enquire, begin and commence. A famous illustration involves animals and food. The farm animals kept by English-speaking peasants have Germanic names — cow, pig, sheep — while the meat served at aristocratic tables took French-derived names: beef, pork, mutton. Mastering register, then, is not about learning to be formal. It is about choosing the right words for the right situation. A C1 speaker is not someone who always sounds sophisticated, but someone who knows when not to.",
+        "questions": [
+          {"q": "What is register, according to linguists?", "answer": "The way language varies according to context: who, to whom, about what and through which medium."},
+          {"q": "Why can register be a trap for learners?", "answer": "They learn neutral style from books and informal style from media, and may mix them."},
+          {"q": "Why does English have a \"double vocabulary\"?", "answer": "After 1066, French was the language of the ruling class while ordinary people spoke English."},
+          {"q": "What does the animal/meat example show?", "answer": "Animals have Germanic names, while the meat on aristocratic tables has French-derived names."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "match", "title": "Formal ↔ informal", "instruction": "Write the informal equivalent (often a phrasal verb).", "instruction_pt": "Escreva o equivalente informal (muitas vezes um phrasal verb).",
+         "items": [{"prompt": "postpone", "answer": "put off"}, {"prompt": "tolerate", "answer": "put up with"}, {"prompt": "discover", "answer": "find out"}, {"prompt": "investigate", "answer": "look into"}, {"prompt": "contact", "answer": "get in touch with"}, {"prompt": "reduce (consumption)", "answer": "cut down on"}]},
+        {"id": "ex2", "type": "answer", "title": "Make it formal", "instruction": "Rewrite the informal sentences in a formal register.", "instruction_pt": "Reescreva as frases informais em registro formal.",
+         "items": [{"prompt": "Sorry, but we can't give you your money back.", "answer": "We regret to inform you that we are unable to offer a refund."}, {"prompt": "Here's the stuff you asked for.", "answer": "Please find attached the documents you requested."}, {"prompt": "Let me know if you need anything else.", "answer": "Should you require any further assistance, please do not hesitate to contact me."}, {"prompt": "We've put off the meeting till next week.", "answer": "The meeting has been postponed until next week."}]},
+        {"id": "ex3", "type": "answer", "title": "Make it informal", "instruction": "Rewrite the formal sentences as a message to a friend.", "instruction_pt": "Reescreva as frases formais como mensagem para um amigo.",
+         "items": [{"prompt": "I regret that I will be unable to attend the celebration.", "answer": "Sorry, I can't make it to the party."}, {"prompt": "I would be grateful if you could inform me of the time.", "answer": "Can you let me know what time? / What time is it?"}, {"prompt": "I look forward to seeing you on Saturday.", "answer": "See you Saturday! / Can't wait to see you on Saturday!"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "I am writing to enquire about the position."}, {"prompt": "2", "answer": "We regret to inform you that the event has been cancelled."}, {"prompt": "3", "answer": "Give me a shout if you need anything."}, {"prompt": "4", "answer": "I look forward to hearing from you."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Register mismatch", "instruction": "Each sentence mixes registers. Rewrite it consistently in the register indicated.", "instruction_pt": "Cada frase mistura registros. Reescreva no registro indicado.",
+         "items": [{"prompt": "(formal) Dear Ms. Silva, I wanna apply for the job you guys advertised.", "answer": "Dear Ms. Silva, I would like to apply for the position you advertised."}, {"prompt": "(informal) Hey Bia! I would be most grateful if you could pick me up.", "answer": "Hey Bia! Could you pick me up? / Can you pick me up?"}, {"prompt": "(formal) We're super sorry for the delay and stuff.", "answer": "We sincerely apologize for the delay."}, {"prompt": "(formal) Dear Sir or Madam, ... Cheers, Lucas", "answer": "Dear Sir or Madam, ... Yours faithfully, Lucas Lima"}]},
+        {"id": "ex6", "type": "multiple_choice", "title": "Choose the right register", "instruction": "Choose the most appropriate option for the context.", "instruction_pt": "Escolha a opção mais adequada ao contexto.",
+         "items": [{"prompt": "Email to a university admissions office:", "options": ["Hey guys, quick question!", "Dear Sir or Madam, I am writing to enquire about...", "Yo! What's up?"], "answer": "Dear Sir or Madam, I am writing to enquire about..."}, {"prompt": "Message to your sister:", "options": ["I hereby confirm my attendance.", "I'll be there at 7!", "Please be advised that I shall arrive at 7."], "answer": "I'll be there at 7!"}, {"prompt": "Email to a colleague you know well:", "options": ["Hi Ana, have you got a minute to look at this?", "Dear Madam, I would be most obliged...", "Oi Ana!!! lol"], "answer": "Hi Ana, have you got a minute to look at this?"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Register switch\": your teacher gives you a situation (e.g. you need to cancel a meeting). Say the message three times: to your CEO, to a colleague and to a close friend. The class identifies the features that change.",
+        "instruction_pt": "\"Troca de registro\": o professor dá uma situação (ex.: você precisa cancelar uma reunião). Diga a mensagem três vezes: para o CEO, para um colega e para um amigo próximo. A turma identifica o que mudou.",
+        "questions": ["In which situations do you find it hardest to choose the right register in English?", "Is Brazilian Portuguese more or less formal than English at work?", "Do emojis belong in professional communication?", "Have you ever received a message that was too formal or too informal?", "Is formal language becoming less common? Is that a good thing?"]
+      },
+      "writing": {
+        "task": "Write two emails about the same situation: you attended a training course organized by your company, but there were several problems. Email 1 (180–220 words): a formal complaint to the training provider. Email 2 (100–140 words): an informal message to a colleague who is going to attend the same course next month.",
+        "task_pt": "Escreva dois e-mails sobre a mesma situação: você participou de um curso organizado pela empresa, mas houve vários problemas. E-mail 1 (180–220 palavras): reclamação formal ao fornecedor do curso. E-mail 2 (100–140 palavras): mensagem informal a um colega que vai fazer o mesmo curso no mês que vem.",
+        "model": "Email 1 — Formal\n\nSubject: Leadership training course, 12–13 May\n\nDear Ms. Harris,\n\nI am writing on behalf of the twelve employees of Grupo Nova who attended your leadership training course on 12 and 13 May, in order to bring several issues to your attention.\n\nFirstly, the course commenced almost an hour late on the first day, owing to technical problems with the projector. As a result, two of the planned sessions were shortened considerably. Secondly, the course materials, which we were assured would be provided in advance, were not received until the second morning. Finally, the trainer appeared to be unaware that our group consisted of experienced managers, and much of the content was, in our view, more suitable for new supervisors.\n\nWhile we appreciated the trainer's enthusiasm, we feel that the course did not meet the standards described in your proposal. We would therefore be grateful if you could consider offering a partial refund or an additional half-day session free of charge.\n\nI look forward to hearing from you.\n\nYours sincerely,\nRafaela Costa\nHR Coordinator\n\n—\n\nEmail 2 — Informal\n\nSubject: That leadership course...\n\nHi Tiago,\n\nHeard you're doing the leadership course next month — just a quick heads-up!\n\nHonestly, it wasn't great. It started an hour late because the projector broke, and we didn't get the materials till the second day. Also, a lot of it was pretty basic — more for new supervisors than for people like us.\n\nThe trainer's nice, though, and the bit on giving feedback was actually useful. My tip: take a laptop and ask for the materials before you go!\n\nI've complained, so fingers crossed they sort it out before your group.\n\nGood luck!\nRafa"
+      },
+      "culture_note": {
+        "title": "Sincerely ou faithfully?",
+        "text_pt": "No inglês **britânico** tradicional: **Dear Sir or Madam → Yours faithfully**; **Dear Mr. Smith → Yours sincerely**. No **americano**, usa-se **Sincerely** em ambos os casos. Hoje, em e-mails profissionais, **Kind regards** e **Best regards** são aceitos quase universalmente — e são uma escolha segura."
+      },
+      "summary_pt": ["Formal: latino, passiva, nominalização, sem contrações, frases longas.", "Informal: phrasal verbs, contrações, elipse, discourse markers.", "Pares: postpone/put off, tolerate/put up with, discover/find out.", "Formal demais também é erro: adapte ao destinatário."]
+    },
+    {
+      "id": "C1-M6-L4",
+      "title": "Ready for C1",
+      "subtitle_pt": "Revisão geral + estratégias de exame (C1 Advanced / IELTS) e apresentação final",
+      "duration_min": 90,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – C1 (revisão)", "Cambridge English – C1 Advanced (formato da prova)", "IELTS (formato e bandas)"],
+      "objectives": ["Revisar as principais estruturas do C1", "Conhecer o formato do C1 Advanced e do IELTS", "Usar estratégias avançadas para leitura, escrita, audição e fala", "Fazer uma apresentação final de nível C1"],
+      "warmup": {
+        "text_pt": "Parabéns — você chegou ao fim do **C1**! Segundo o CEFR, este é o nível do **\"proficient user\"**: alguém que usa a língua com flexibilidade e eficácia em contextos sociais, acadêmicos e profissionais. Hoje você revisa o nível, conhece as provas oficiais e prepara sua **apresentação final**.",
+        "questions": ["What does \"being proficient\" in a language mean to you?", "What has been the biggest change in your English since you started this course?"]
+      },
+      "vocabulary": [
+        {"en": "proficient / proficiency", "pt": "proficiente / proficiência", "say": "profíshent / profíshensi"},
+        {"en": "to skim / to scan", "pt": "ler por alto / buscar informação específica", "say": "tu skim / tu skén"},
+        {"en": "a distractor", "pt": "uma opção que confunde (em provas)", "say": "a distrékter"},
+        {"en": "to paraphrase", "pt": "parafrasear", "say": "tu pérafreiz"},
+        {"en": "a range of structures", "pt": "variedade de estruturas", "say": "a rêindj ov strâktcherz"},
+        {"en": "spontaneously", "pt": "espontaneamente", "say": "spontêiniasli"},
+        {"en": "effortlessly", "pt": "sem esforço", "say": "éfortlesli"},
+        {"en": "to fall back on", "pt": "recorrer a (em caso de dificuldade)", "say": "tu fól bék on"},
+        {"en": "to elaborate (on)", "pt": "desenvolver, detalhar", "say": "tu iléboreit"},
+        {"en": "to keep the conversation going", "pt": "manter a conversa fluindo", "say": "tu kíp dâ konversêishan góuin"},
+        {"en": "a lifelong learner", "pt": "um eterno aprendiz", "say": "a láifloŋ lârner"},
+        {"en": "to raise the bar", "pt": "elevar o nível", "say": "tu rêiz dâ bár"}
+      ],
+      "chunks": [
+        {"en": "That's a fascinating question, and I think the answer depends on...", "pt": "Que pergunta fascinante, e acho que a resposta depende de..."},
+        {"en": "To put it another way, ...", "pt": "Dizendo de outra forma, ..."},
+        {"en": "I'd like to pick up on what you said about...", "pt": "Gostaria de retomar o que você disse sobre..."},
+        {"en": "Not only does it..., but it also...", "pt": "Não só..., como também..."},
+        {"en": "If I'm honest, I hadn't considered that.", "pt": "Sinceramente, eu não tinha considerado isso."},
+        {"en": "All things considered, I'd argue that...", "pt": "Considerando tudo, eu diria que..."}
+      ],
+      "grammar": {
+        "title": "C1 review and exam strategies",
+        "explanation_pt": "**Revisão das estruturas do C1:**\n- **Nuance verbal:** stative no continuous, I was wondering, always + continuous\n- **Coesão:** elipse e substituição (so, not, do so, one), referência (this issue, such, the former/latter)\n- **Ênfase:** do/did, fronting (Strange as it may seem), so/such + inversão, cleft sentences (What..., All..., It's not that...)\n- **Inversão:** Not only..., Little did..., No sooner..., Only when..., Should/Were/Had\n- **Registro formal:** nominalização, subjuntivo, passivas avançadas, distanciamento (is alleged to have)\n- **Modais e futuro:** might well, be bound to, may as well, be set to, be on the verge of, be to\n- **Léxico:** formação de palavras, multi-word verbs abstratos, collocations, comment adverbs, vague language, discourse markers\n- **Pragmática:** linguagem diplomática, hedging, understatement, troca de registro\n\n**Cambridge C1 Advanced** (4 partes):\n- **Reading and Use of English** (1h30, 8 partes): múltipla escolha de vocabulário, lacunas, **formação de palavras**, **key word transformations**, textos longos\n- **Writing** (1h30): **essay** obrigatório (220–260 palavras) + uma tarefa à escolha (carta/e-mail, proposta, relatório ou resenha)\n- **Listening** (cerca de 40 min, 4 partes)\n- **Speaking** (cerca de 15 min, **em dupla**): entrevista, comparação de fotos, tarefa colaborativa, discussão\n\n**IELTS:** C1 corresponde aproximadamente às bandas **7.0–8.0**. Speaking com 3 partes (11–14 min), Writing com 2 tarefas (a Task 2 com no mínimo 250 palavras).\n\n**Estratégias C1:**\n1. **Reading:** leia **perguntas antes do texto**; cuidado com **distractors** (palavras do texto usadas com outro sentido); procure **paráfrases**, não palavras idênticas.\n2. **Use of English:** em key word transformations, procure a **estrutura testada** (inversão, passiva, phrasal verb, expressão fixa); a palavra dada **não pode mudar**; conte as palavras (3–6, contrações contam como duas).\n3. **Writing:** **planeje 5–10 minutos**; responda **todos os pontos**; ajuste o **registro** ao leitor; mostre **variedade** sem forçar; revise erros \"bobos\" (artigos, preposições, -s).\n4. **Listening:** antecipe o conteúdo pelas perguntas; atenção a **atitudes e opiniões** (Part 3/4), não só fatos.\n5. **Speaking:** **desenvolva** (resposta + razão + exemplo + contraste); **interaja** com o parceiro (\"I'd like to pick up on what you said...\"); **parafraseie** em vez de parar; mostre **variedade** naturalmente.",
+        "table": {
+          "headers": ["Habilidade", "Estratégia C1"],
+          "rows": [["Reading", "Leia as perguntas primeiro; procure paráfrases; cuidado com distractors."], ["Use of English", "Identifique a estrutura testada; não mude a palavra dada; 3–6 palavras."], ["Writing", "Planeje; responda tudo; registro certo; revise."], ["Listening", "Antecipe; foque em atitudes e opiniões."], ["Speaking", "Desenvolva, interaja, parafraseie, varie."]]
+        },
+        "examples": [
+          {"en": "Not only has my English improved, but I've also become far more confident speaking in public.", "pt": "Não só meu inglês melhorou, como também fiquei muito mais confiante para falar em público."},
+          {"en": "Had I known how rewarding it would be, I would have started much earlier.", "pt": "Se eu soubesse o quanto seria gratificante, teria começado muito antes."},
+          {"en": "What I've learned, above all, is that fluency isn't about perfection; it's about flexibility.", "pt": "O que aprendi, acima de tudo, é que fluência não é perfeição; é flexibilidade."}
+        ],
+        "tip_pt": "No C1, **pequenos erros são aceitáveis** — o que conta é a **flexibilidade, a precisão e a variedade**. Um examinador prefere ver você **arriscar** uma inversão com um pequeno deslize do que repetir estruturas B1 perfeitas."
+      },
+      "common_mistakes": [
+        {"wrong": "Key word transformation: changing the given word (ALTHOUGH → although's).", "right": "Use the given word exactly as it is.", "why_pt": "A palavra dada não pode ser alterada."},
+        {"wrong": "Essay: discussing all three options and not choosing one.", "right": "Discuss two options and clearly state which is more important.", "why_pt": "Não responder parte da tarefa reduz a nota de conteúdo."},
+        {"wrong": "Speaking: giving one-sentence answers to avoid mistakes.", "right": "Develop: answer + reason + example + contrast.", "why_pt": "No C1, a extensão e variedade das respostas são avaliadas."}
+      ],
+      "pronunciation": {
+        "focus": "Fluência C1: prosódia",
+        "tip_pt": "No C1, o objetivo não é perder o sotaque, mas ter **prosódia clara**: acento correto nas palavras, ênfase nas informações importantes, pausas nos lugares certos e entonação que mostra atitude. Grave-se e compare com falantes nativos — foque em **ritmo** mais do que em sons isolados.",
+        "practice": ["What I've LEARNED, | above ALL, | is that fluency isn't about perFECtion.", "NOT only has my ENglish improved, | but I've ALso become more CONfident.", "HAD I known, | I would have STARted much EARlier."]
+      },
+      "dialogue": {
+        "title": "Mock C1 speaking test – Part 4",
+        "context_pt": "Simulação da Parte 4 da prova oral C1 Advanced: o examinador faz perguntas de discussão a dois candidatos.",
+        "lines": [
+          {"speaker": "Examiner", "en": "Some people say that in the age of AI translation, learning foreign languages is becoming less important. What do you think?", "pt": "Algumas pessoas dizem que, na era da tradução por IA, aprender línguas estrangeiras está se tornando menos importante. O que vocês acham?"},
+          {"speaker": "Luiza", "en": "That's a fascinating question. I can see why people might think so — the tools have become remarkably accurate. That said, I'd argue that a language isn't just a code to be translated. What you lose with an app is the nuance: humour, irony, the things people leave unsaid.", "pt": "Que pergunta fascinante. Entendo por que as pessoas pensam assim — as ferramentas ficaram muito precisas. Dito isso, eu diria que uma língua não é só um código a ser traduzido. O que se perde com um app é a nuance: o humor, a ironia, o que as pessoas não dizem."},
+          {"speaker": "Rafael", "en": "I'd like to pick up on that. I agree about nuance, but I also think we shouldn't underestimate how much these tools help people who would otherwise have no access at all — tourists, migrants, small businesses.", "pt": "Gostaria de retomar isso. Concordo sobre a nuance, mas também acho que não devemos subestimar o quanto essas ferramentas ajudam pessoas que, de outra forma, não teriam acesso nenhum — turistas, migrantes, pequenas empresas."},
+          {"speaker": "Luiza", "en": "That's a fair point. So perhaps it's not that languages are becoming less important; it's that the reasons for learning them are changing.", "pt": "Bom argumento. Então talvez não seja que as línguas estejam ficando menos importantes; é que os motivos para aprendê-las estão mudando."},
+          {"speaker": "Examiner", "en": "In what way?", "pt": "De que forma?"},
+          {"speaker": "Luiza", "en": "Well, in the past, many people learned English mainly for practical reasons — to get a job, for instance. Were those reasons to disappear, what would remain is the human side: building relationships, understanding other cultures from the inside.", "pt": "Bom, no passado, muita gente aprendia inglês principalmente por motivos práticos — para conseguir um emprego, por exemplo. Se esses motivos desaparecessem, o que restaria seria o lado humano: construir relações, entender outras culturas por dentro."},
+          {"speaker": "Rafael", "en": "Absolutely. And, if I'm honest, I can't imagine having the friendships I have now through an app. Some things simply can't be outsourced.", "pt": "Com certeza. E, sinceramente, não consigo imaginar ter as amizades que tenho hoje por meio de um app. Algumas coisas simplesmente não podem ser terceirizadas."},
+          {"speaker": "Examiner", "en": "Thank you. That is the end of the test.", "pt": "Obrigado. Este é o fim da prova."}
+        ]
+      },
+      "listening": {
+        "title": "Beyond C1",
+        "context_pt": "Uma linguista fala sobre como continuar progredindo depois do C1.",
+        "lines": [
+          {"speaker": "Speaker", "en": "Reaching C1 is a remarkable achievement. According to the CEFR, a C1 user can understand a wide range of demanding, longer texts, recognize implicit meaning, express themselves fluently and spontaneously, and use language flexibly for social, academic and professional purposes. But what comes next? Progress beyond this level tends to be slower and less visible, which can be frustrating. You no longer learn new grammar every week; instead, you refine. My advice is threefold. First, read widely — novels, long-form journalism, academic articles — because this is where your vocabulary will grow most. Second, specialize: develop the English of your profession or passion in depth. And third, use English to create, not just to consume: write, present, debate, teach. Interestingly, many highly proficient speakers say the moment they felt truly fluent wasn't when they passed an exam. It was when they laughed at a joke without having to think — or when they realized they'd been dreaming in English."}
+        ],
+        "questions": [
+          {"q": "What can a C1 user do, according to the CEFR?", "answer": "Understand demanding texts, recognize implicit meaning, express themselves fluently and use language flexibly."},
+          {"q": "Why can progress beyond C1 be frustrating?", "answer": "It tends to be slower and less visible."},
+          {"q": "What are the speaker's three pieces of advice?", "answer": "Read widely, specialize, and use English to create, not just consume."},
+          {"q": "When do many speakers say they felt truly fluent?", "answer": "When they laughed at a joke without thinking, or dreamt in English."}
+        ]
+      },
+      "reading": {
+        "title": "The plateau and how to break it",
+        "text": "Almost every advanced learner eventually encounters what teachers call the \"intermediate plateau\" — and its more subtle cousin, the advanced plateau. In the early stages of learning a language, progress is fast and obvious: every week brings new words, new structures and new abilities. At higher levels, however, the gains become smaller and harder to notice. Learners who could once measure their improvement in leaps now find it difficult to see any improvement at all. Part of the explanation is that the remaining gaps are less visible. A B1 learner knows when she does not understand a sentence. A C1 learner usually understands, but may not notice that a native speaker would have chosen a different collocation, a more precise verb or a subtler level of politeness. Such gaps rarely cause communication to break down, which means there is little pressure to fix them. Research on expertise offers some useful insights. The psychologist Anders Ericsson, whose work on expert performance became widely known, argued that improvement at advanced levels depends less on the amount of practice than on its quality. What he called \"deliberate practice\" involves working on specific weaknesses, at the edge of one's ability, with immediate feedback. For language learners, this might mean recording yourself and comparing your speech with a model, rewriting a paragraph three times in different registers, or noting down every unfamiliar collocation you meet in a week. Equally important is motivation. At C1, the external rewards — passing an exam, getting a job — have often already been achieved. Learners who continue to improve tend to be those who have found intrinsic reasons: a love of literature, an international friendship, a professional passion. In the end, the plateau is not a wall but a change of terrain. The climb continues; it simply requires a different kind of walking.",
+        "questions": [
+          {"q": "Why does progress seem slower at advanced levels?", "answer": "The remaining gaps are less visible and rarely cause communication to break down."},
+          {"q": "What is \"deliberate practice\"?", "answer": "Working on specific weaknesses, at the edge of your ability, with immediate feedback."},
+          {"q": "Give two examples of deliberate practice for language learners.", "answer": "Recording yourself and comparing with a model / rewriting in different registers / noting collocations."},
+          {"q": "What kind of motivation helps learners continue improving?", "answer": "Intrinsic reasons, such as a love of literature, friendships or professional passion."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "answer", "title": "Key word transformations (C1 Advanced style)", "instruction": "Complete the second sentence so that it has a similar meaning to the first. Use the word in CAPS and between three and six words.", "instruction_pt": "Complete a segunda frase com sentido semelhante à primeira. Use a palavra em CAPS e de três a seis palavras.",
+         "items": [{"prompt": "They didn't realize how serious the problem was. (LITTLE) → ___ how serious the problem was.", "answer": "Little did they realize"}, {"prompt": "People believe the painting was stolen in 1990. (BELIEVED) → The painting ___ in 1990.", "answer": "is believed to have been stolen"}, {"prompt": "Although he is talented, he lacks discipline. (TALENTED) → ___ is, he lacks discipline.", "answer": "Talented though/as he"}, {"prompt": "If you need any help, please call us. (SHOULD) → ___ any help, please call us.", "answer": "Should you need"}, {"prompt": "The meeting was cancelled because of the strike. (RESULT) → The meeting was cancelled ___ the strike.", "answer": "as a result of"}]},
+        {"id": "ex2", "type": "fill_blank", "title": "Word formation (C1 Advanced style)", "instruction": "Use the word in CAPS to form a word that fits the gap.", "instruction_pt": "Use a palavra em CAPS para formar uma palavra que complete a lacuna.",
+         "items": [{"prompt": "Her ___ in five languages is impressive. (PROFICIENT)", "answer": "proficiency"}, {"prompt": "The results were ___ disappointing. (EXPECT)", "answer": "unexpectedly"}, {"prompt": "The speech was ___ and moving. (THOUGHT / PROVOKE)", "answer": "thought-provoking"}, {"prompt": "There is a growing ___ of the risks. (AWARE)", "answer": "awareness"}, {"prompt": "His argument was completely ___. (LOGIC)", "answer": "illogical"}]},
+        {"id": "ex3", "type": "multiple_choice", "title": "C1 grammar review", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+         "items": [{"prompt": "No sooner had we arrived ___ the storm began.", "options": ["when", "than", "that"], "answer": "than"}, {"prompt": "It is essential that every candidate ___ the rules.", "options": ["follows", "follow", "followed"], "answer": "follow"}, {"prompt": "___ I love my job, I need a break.", "options": ["Much as", "So much", "As much"], "answer": "Much as"}, {"prompt": "The company is ___ to announce record profits.", "options": ["set", "verge", "due to be"], "answer": "set"}, {"prompt": "\"Will it rain?\" \"I hope ___.\"", "options": ["no", "not", "don't"], "answer": "not"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "I'd like to pick up on what you said about technology."}, {"prompt": "2", "answer": "To put it another way, fluency is about flexibility."}, {"prompt": "3", "answer": "If I'm honest, I hadn't considered that."}, {"prompt": "4", "answer": "All things considered, I'd argue that it was worth it."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "Never before I had seen such a beautiful place.", "answer": "Never before had I seen such a beautiful place."}, {"prompt": "What I need it is more time.", "answer": "What I need is more time."}, {"prompt": "He is said to have leave the country.", "answer": "He is said to have left the country."}, {"prompt": "Hadn't it been for you, I'd have given up.", "answer": "Had it not been for you, I'd have given up."}]},
+        {"id": "ex6", "type": "answer", "title": "Speaking Part 4: develop your answer", "instruction": "Answer each discussion question in 4–5 sentences, including a reason, an example, a contrasting view and a conclusion.", "instruction_pt": "Responda cada pergunta em 4–5 frases, com motivo, exemplo, visão contrária e conclusão.",
+         "items": [{"prompt": "Is it better to be an expert in one field or to have broad general knowledge?", "answer": "Model: I'd argue that, in today's world, a combination is ideal. Deep expertise makes you valuable — a surgeon, for instance, needs years of specialized training. That said, people with broad knowledge are often better at connecting ideas across fields, which is where innovation tends to happen. So, all things considered, I'd say the best approach is to be deep in one area and curious about many others."}, {"prompt": "Should people be required to learn a second language at school?", "answer": "Model: On the whole, I think so. Not only does it open professional doors, but it also helps students understand other cultures. Admittedly, schools already have crowded timetables, and some students struggle with core subjects. Even so, I believe the long-term benefits outweigh the costs, provided that languages are taught in a practical, communicative way."}]}
+      ],
+      "speaking": {
+        "instruction": "\"Final talk\": give a 6–8 minute presentation titled \"What English has given me\" (or a topic of your choice). Include a hook, a personal story (narrative + emphasis), an argument with concession, data or evidence (hedging), and a memorable conclusion (rhetorical devices). Then answer three questions from the class.",
+        "instruction_pt": "\"Palestra final\": faça uma apresentação de 6–8 minutos intitulada \"O que o inglês me deu\" (ou um tema à sua escolha). Inclua um gancho, uma história pessoal (narrativa + ênfase), um argumento com concessão, dados ou evidências (hedging) e uma conclusão memorável (recursos retóricos). Depois responda três perguntas da turma.",
+        "questions": ["What does being proficient in a language mean to you?", "Will AI make learning languages unnecessary?", "Which part of this course has changed the way you communicate most?", "What advice would you give to someone starting English from zero?", "How will you keep improving after C1?"]
+      },
+      "writing": {
+        "task": "C1 Advanced essay (220–260 words): \"Your class has discussed three factors that help people learn a language successfully: formal instruction, living in a country where the language is spoken, and personal motivation. Write an essay discussing two of these, explaining which is more important and why.\" Show a wide range of C1 structures.",
+        "task_pt": "Essay C1 Advanced (220–260 palavras): \"Sua turma discutiu três fatores que ajudam as pessoas a aprender uma língua com sucesso: instrução formal, morar num país onde a língua é falada e motivação pessoal. Discuta dois deles, explicando qual é mais importante e por quê.\" Mostre ampla variedade de estruturas C1.",
+        "model": "What really makes a successful language learner?\n\nWhy do some people master a foreign language while others, despite years of study, never progress beyond the basics? Of the many factors involved, formal instruction and personal motivation are arguably two of the most influential.\n\nFormal instruction provides structure. A good teacher can explain grammar systematically, correct persistent errors and expose learners to language they might never encounter on their own. Without such guidance, many learners develop a fluent but inaccurate style which becomes increasingly difficult to correct. That said, instruction alone rarely produces proficiency. Countless students have spent years in classrooms and yet remain unable to hold a conversation.\n\nPersonal motivation, by contrast, determines what happens outside the classroom. Learners who genuinely want to read a novel, make a friend or build a career in another language tend to seek out opportunities to practise, and to persist when progress slows. Admittedly, motivation can fade, and enthusiasm is no substitute for knowledge. Nevertheless, it is motivation that turns a few hours of lessons a week into a daily habit of listening, reading and speaking.\n\nOn balance, although both factors are valuable, I believe the latter is ultimately more important. Not only does motivation lead learners to find their own resources, but it also sustains them through the inevitable plateaus. Instruction can show the way; only motivation ensures that the learner keeps walking."
+      },
+      "culture_note": {
+        "title": "Depois do C1",
+        "text_pt": "O próximo nível é o **C2 (Mastery / Proficiency)**, certificado por provas como o **Cambridge C2 Proficiency** e por bandas 8.5–9 no IELTS. Mas, para muitos, o C1 já é o ponto em que o inglês deixa de ser **matéria** e vira **ferramenta de vida**. A partir daqui: leia literatura, ouça podcasts especializados, escreva, apresente e ensine. **Congratulations — and never stop learning!**"
+      },
+      "summary_pt": ["Revisão: nuance, coesão, ênfase, inversão, registro formal, modais, futuro formal, léxico, pragmática.", "C1 Advanced: Reading & Use of English (8 partes), Writing (essay + escolha), Listening, Speaking em dupla.", "IELTS: C1 ≈ bandas 7.0–8.0.", "Estratégias: paráfrases, estrutura testada, planejar, responder tudo, desenvolver e interagir."]
+    }
+  ],
+  "review": {
+    "intro_pt": "Revisão final do C1: linguagem diplomática, condicionais avançados, registro e estruturas de todo o nível.",
+    "exercises": [
+      {"id": "r1", "type": "multiple_choice", "title": "Choose the correct option", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+       "items": [{"prompt": "It might be worth ___ the figures again.", "options": ["to check", "checking", "check"], "answer": "checking"}, {"prompt": "___ you require assistance, please contact reception.", "options": ["Should", "Would", "Had"], "answer": "Should"}, {"prompt": "___ the company to close, many jobs would be lost.", "options": ["Were", "Should", "Had"], "answer": "Were"}, {"prompt": "Formal equivalent of \"put off\":", "options": ["postpone", "tolerate", "discover"], "answer": "postpone"}, {"prompt": "Formal closing for \"Dear Sir or Madam\" (British):", "options": ["Yours faithfully", "Cheers", "Love"], "answer": "Yours faithfully"}]},
+      {"id": "r2", "type": "answer", "title": "Transform", "instruction": "Rewrite the sentences as instructed.", "instruction_pt": "Reescreva as frases como indicado.",
+       "items": [{"prompt": "Your report has mistakes. (diplomatic)", "answer": "There seem to be a few errors in the report."}, {"prompt": "If it hadn't been for her, we would have failed. (inversion)", "answer": "Had it not been for her, we would have failed."}, {"prompt": "Sorry, we can't refund you. (formal)", "answer": "We regret to inform you that we are unable to offer a refund."}]},
+      {"id": "r3", "type": "translate", "title": "Translate", "instruction": "Translate into English.", "instruction_pt": "Traduza para o inglês.",
+       "items": [{"prompt": "Não seria melhor esperar?", "answer": "Wouldn't it be better to wait?"}, {"prompt": "Caso precise de algo, me avise. (formal)", "answer": "Should you need anything, please let me know."}, {"prompt": "Aguardo seu retorno.", "answer": "I look forward to hearing from you."}]},
+      {"id": "r4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+       "items": [{"prompt": "1", "answer": "I'm not entirely convinced."}, {"prompt": "2", "answer": "Were we to lose this client, we'd be in trouble."}, {"prompt": "3", "answer": "We regret to inform you that the event has been cancelled."}]},
+      {"id": "r5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+       "items": [{"prompt": "Wouldn't be better to start again?", "answer": "Wouldn't it be better to start again?"}, {"prompt": "Should you will need help, call us.", "answer": "Should you need help, call us."}, {"prompt": "Dear Mr. Brown, I wanna ask about the course.", "answer": "Dear Mr. Brown, I would like to enquire about the course."}]}
+    ],
+    "speaking_pt": "**Simulado de prova oral C1 (15 minutos, em dupla):** Parte 1 — perguntas pessoais com respostas desenvolvidas. Parte 2 — compare duas fotos por 1 minuto (\"working from home vs. in an office\") e especule. Parte 3 — tarefa colaborativa de 3 minutos (\"What makes a city a good place to live?\") e decisão final. Parte 4 — discussão abstrata (perguntas abaixo). Grave e avalie: variedade, precisão, fluência, interação e pronúncia.",
+    "speaking_questions": ["How has the way people communicate changed in the last twenty years?", "Is it possible to be completely objective when giving feedback?", "Should everyone be required to study a foreign language?", "What does success mean to you?", "What will you do with your English from now on?"],
+    "project_pt": "**Projeto final do curso — \"My English journey\":** monte um portfólio digital com (1) o vídeo \"This is me\" do A1, (2) a palestra do B1+, (3) a apresentação do B2 e (4) uma **palestra final de 6–8 minutos** no estilo TED. Escreva também uma reflexão de 300 palavras em registro formal comparando os quatro momentos e definindo **três metas concretas** para continuar evoluindo depois do C1. Apresente para a turma — e celebre!"
+  }
+}

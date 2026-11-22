@@ -1,0 +1,533 @@
+{
+  "id": "C2-M4",
+  "level": "C2",
+  "title": "Literature and Style",
+  "theme_pt": "Voz narrativa, som, pontuação e crítica",
+  "can_do": ["Reconhecer e usar discurso indireto livre e presente histórico", "Usar recursos sonoros (aliteração, assonância, ritmo)", "Usar pontuação para efeito (ponto e vírgula, dois-pontos, travessão)", "Escrever uma crítica literária ou artística em nível C2"],
+  "lessons": [
+    {
+      "id": "C2-M4-L1",
+      "title": "Reading like a writer",
+      "subtitle_pt": "Voz narrativa: discurso indireto livre e presente histórico",
+      "duration_min": 85,
+      "source_refs": ["CEFR – C2 descriptors (reading literary texts, appreciating style)", "Cambridge C2 Proficiency – Reading and Use of English Part 5"],
+      "objectives": ["Reconhecer e usar o discurso indireto livre (free indirect speech)", "Usar o presente histórico para dar imediatismo a narrativas", "Identificar o ponto de vista e a distância narrativa", "Analisar trechos literários com vocabulário técnico"],
+      "warmup": {
+        "text_pt": "\"Ela olhou o relógio. Mais uma vez atrasado. **Por que ele sempre fazia isso?**\" Quem está perguntando — o narrador ou a personagem? Essa técnica, em que a voz do narrador se mistura com o pensamento da personagem, se chama **discurso indireto livre**, e é uma das grandes ferramentas da ficção moderna, de Jane Austen a Clarice Lispector. No C2, você aprende a **ler como um escritor**.",
+        "questions": ["Which novel or story has affected you most deeply? Why?", "Do you prefer stories told in the first person or the third person?"]
+      },
+      "vocabulary": [
+        {"en": "a narrator / narrative voice", "pt": "um narrador / voz narrativa", "say": "a narêiter / nérativ vóis"},
+        {"en": "first-person / third-person narration", "pt": "narração em primeira / terceira pessoa", "say": "fârst pârsan narêishan"},
+        {"en": "an omniscient narrator", "pt": "um narrador onisciente", "say": "an omníshent narêiter"},
+        {"en": "point of view / perspective", "pt": "ponto de vista / perspectiva", "say": "póint ov viú"},
+        {"en": "free indirect speech / discourse", "pt": "discurso indireto livre", "say": "frí indairékt spítch"},
+        {"en": "stream of consciousness", "pt": "fluxo de consciência", "say": "strím ov kónshasnes"},
+        {"en": "an unreliable narrator", "pt": "um narrador não confiável", "say": "an ânriláiabol narêiter"},
+        {"en": "the historic present", "pt": "o presente histórico", "say": "dâ histórik prézent"},
+        {"en": "a flashback / flash-forward", "pt": "um flashback / flash-forward", "say": "a fléshbék"},
+        {"en": "irony / dramatic irony", "pt": "ironia / ironia dramática", "say": "áironi / dramátik áironi"},
+        {"en": "to foreshadow", "pt": "prenunciar", "say": "tu fórshédou"},
+        {"en": "a motif", "pt": "um motivo recorrente", "say": "a moutíf"}
+      ],
+      "chunks": [
+        {"en": "She looked at the clock. Late again. Why did he always do this?", "pt": "Ela olhou o relógio. Atrasado de novo. Por que ele sempre fazia isso?"},
+        {"en": "So I'm walking down the street, and this man comes up to me...", "pt": "Aí eu estou andando na rua, e um homem vem até mim..."},
+        {"en": "The narrator can't be trusted.", "pt": "Não se pode confiar no narrador."},
+        {"en": "The story is told from the child's point of view.", "pt": "A história é contada do ponto de vista da criança."},
+        {"en": "The opening scene foreshadows the ending.", "pt": "A cena inicial prenuncia o final."},
+        {"en": "The novel moves between past and present.", "pt": "O romance transita entre passado e presente."}
+      ],
+      "grammar": {
+        "title": "Free indirect speech and the historic present",
+        "explanation_pt": "**1. Os três modos de representar pensamento:**\n- **Discurso direto:** She thought, \"**Why does** he always **do** this? **I'm** tired of it.\"\n- **Discurso indireto:** She wondered **why he always did** that. She **was** tired of it.\n- **Discurso indireto livre:** She looked at the clock. **Late again. Why did he always do this? Well, she was tired of it.**\n\n**Características do discurso indireto livre:**\n- **Terceira pessoa e passado** (como no indireto): \"she was\", \"did he\"\n- **Sem verbo introdutório** (\"she thought\", \"she wondered\") — a mente da personagem entra direto na narração\n- **Marcas da fala/pensamento da personagem:** perguntas, exclamações, interjeições, gírias, frases incompletas, dêiticos como **now, here, today, tomorrow** (em vez de then, there, the next day)\n  - \"Tomorrow she **would** tell him. **Yes**, tomorrow. **Enough** was enough!\"\n- **Efeito:** intimidade com a personagem **e** distância irônica ao mesmo tempo — o leitor nunca sabe se o julgamento é do narrador ou da personagem.\n\n**2. O presente histórico** — narrar o passado no presente para criar **imediatismo**:\n- Na fala informal: \"So **I'm** at the bus stop, and this guy **comes** up to me and **says**...\"\n- Na ficção: \"It **is** 1964. A woman **stands** at the window, waiting.\"\n- Em manchetes e resumos de enredo: \"In chapter 3, Capitu **meets** Bentinho...\" (convenção para resumir obras!)\n\n**3. Distância narrativa:**\n- **Onisciente:** o narrador sabe tudo, entra em várias mentes.\n- **Limitado:** segue uma personagem.\n- **Não confiável:** o narrador distorce ou ignora a verdade (ex.: Bento Santiago em *Dom Casmurro*).\n\n**4. Tempo verbal ao escrever sobre literatura:** use o **presente** (\"literary present\"): \"Austen **uses** irony to...\" / \"The narrator **reveals**...\"",
+        "table": {
+          "headers": ["Modo", "Exemplo"],
+          "rows": [["Direto", "He thought, \"I'll never forgive her.\""], ["Indireto", "He thought that he would never forgive her."], ["Indireto livre", "He would never forgive her. Never!"], ["Presente histórico", "So she walks in and says..."], ["Literary present", "In the novel, Capitu smiles..."]]
+        },
+        "examples": [
+          {"en": "Clara closed the letter. So that was it. Twenty years, and he hadn't even bothered to call. Well, she would show him.", "pt": "Clara fechou a carta. Então era isso. Vinte anos, e ele nem se dera ao trabalho de ligar. Pois bem, ela ia mostrar a ele."},
+          {"en": "In Dom Casmurro, the narrator never proves that Capitu betrayed him; he simply asks the reader to believe it.", "pt": "Em Dom Casmurro, o narrador nunca prova que Capitu o traiu; ele simplesmente pede que o leitor acredite."},
+          {"en": "It is late afternoon in Recife. A boy runs across the bridge, a kite in his hand, and the river shines like a sheet of metal.", "pt": "É fim de tarde em Recife. Um menino atravessa a ponte correndo, uma pipa na mão, e o rio brilha como uma chapa de metal."}
+        ],
+        "tip_pt": "O português também usa discurso indireto livre — Graciliano Ramos em *Vidas Secas* e Clarice Lispector são mestres. Ao ler romances em inglês, observe as frases sem \"she thought\" que **soam** como pensamento: é ali que mora a técnica."
+      },
+      "common_mistakes": [
+        {"wrong": "Austen used irony in Pride and Prejudice. (writing about literature)", "right": "Austen uses irony in Pride and Prejudice.", "why_pt": "Ao comentar literatura, use o presente (literary present)."},
+        {"wrong": "She looked at him. Why does he always lie to me?", "right": "She looked at him. Why did he always lie to her?", "why_pt": "No indireto livre, mantenha a 3ª pessoa e o passado (a não ser que use aspas)."},
+        {"wrong": "Mixing historic present and past randomly in a story.", "right": "Choose one tense for the narrative frame and shift deliberately.", "why_pt": "Mudanças de tempo devem ser intencionais."}
+      ],
+      "pronunciation": {
+        "focus": "Ler em voz alta: vozes do texto",
+        "tip_pt": "Ao ler discurso indireto livre em voz alta, mude **sutilmente** o tom nas frases que pertencem à personagem: mais rápido, mais emotivo, entonação de pergunta ou exclamação. Essa mudança de \"voz\" ajuda o ouvinte a perceber de quem é o pensamento.",
+        "practice": ["(narrator) She closed the letter. | (character) So THAT was it.", "(narrator) He looked at the sea. | (character) Would she ever come back?", "So I'm standing there, and he just walks IN!"]
+      },
+      "dialogue": {
+        "title": "Book club",
+        "context_pt": "Num clube do livro, duas amigas discutem *Dom Casmurro*, de Machado de Assis, na tradução para o inglês.",
+        "lines": [
+          {"speaker": "Chloe", "en": "I've just finished Dom Casmurro in translation. I can't stop thinking about it. Did Capitu actually betray him or not?", "pt": "Acabei de terminar Dom Casmurro em tradução. Não consigo parar de pensar nele. A Capitu traiu ele ou não?"},
+          {"speaker": "Luana", "en": "That's the question every Brazilian student argues about! The thing is, we only have Bento's version. He's the narrator, and he's anything but neutral.", "pt": "Essa é a pergunta que todo estudante brasileiro discute! O fato é que só temos a versão do Bento. Ele é o narrador, e é tudo menos neutro."},
+          {"speaker": "Chloe", "en": "An unreliable narrator, then. I noticed he keeps telling the reader what to think — \"you will see\", \"I'll prove it\".", "pt": "Um narrador não confiável, então. Percebi que ele fica dizendo ao leitor o que pensar — \"você verá\", \"vou provar\"."},
+          {"speaker": "Luana", "en": "Exactly. And he's writing as an old, bitter man, decades later. So everything is filtered through his jealousy.", "pt": "Exatamente. E ele está escrevendo como um velho amargo, décadas depois. Então tudo é filtrado pelo ciúme dele."},
+          {"speaker": "Chloe", "en": "That reminds me of the way Jane Austen lets us inside characters' heads without saying \"she thought\". You're never quite sure whose opinion it is.", "pt": "Isso me lembra o jeito como Jane Austen nos coloca na cabeça das personagens sem dizer \"ela pensou\". Você nunca tem certeza de quem é a opinião."},
+          {"speaker": "Luana", "en": "Free indirect speech. Machado does something similar, but with even more irony. He constantly winks at the reader.", "pt": "Discurso indireto livre. Machado faz algo parecido, mas com ainda mais ironia. Ele está sempre piscando para o leitor."},
+          {"speaker": "Chloe", "en": "So the real question isn't whether Capitu betrayed him, but whether we should believe the man telling the story.", "pt": "Então a verdadeira pergunta não é se Capitu o traiu, mas se devemos acreditar no homem que conta a história."},
+          {"speaker": "Luana", "en": "Now you're reading like a Brazilian. Welcome to a debate that's been going on for over a century.", "pt": "Agora você está lendo como uma brasileira. Bem-vinda a um debate que já dura mais de um século."}
+        ]
+      },
+      "listening": {
+        "title": "The invention of the inner voice",
+        "context_pt": "Uma professora de literatura fala sobre a história do discurso indireto livre.",
+        "lines": [
+          {"speaker": "Professor", "en": "Free indirect speech is so common in modern fiction that we hardly notice it. But it wasn't always there. Scholars often point to Jane Austen, writing in the early nineteenth century, as one of the first novelists in English to use it with real sophistication. In her novels, the narrator's voice slides almost imperceptibly into a character's thoughts — and back out again — so that we see the world through a character's eyes while also sensing the narrator's ironic distance. A century later, modernist writers like Virginia Woolf and James Joyce pushed the technique further, towards what's called stream of consciousness: the attempt to represent the flow of thought itself, with all its jumps, associations and fragments. In Brazilian literature, writers like Graciliano Ramos and Clarice Lispector explored similar territory. What all these writers share is a fascination with the gap between what people say and what they think — and the conviction that fiction is uniquely able to show us both."}
+        ],
+        "questions": [
+          {"q": "Which English novelist is often credited with early sophisticated use of free indirect speech?", "answer": "Jane Austen."},
+          {"q": "What effect does it create in her novels?", "answer": "We see through a character's eyes while sensing the narrator's ironic distance."},
+          {"q": "What is stream of consciousness?", "answer": "An attempt to represent the flow of thought itself, with jumps, associations and fragments."},
+          {"q": "Which Brazilian writers are mentioned?", "answer": "Graciliano Ramos and Clarice Lispector."}
+        ]
+      },
+      "reading": {
+        "title": "Whose voice is it?",
+        "text": "\"It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.\" Few opening lines in English literature are as famous as the first sentence of Jane Austen's Pride and Prejudice, published in 1813. Read quickly, it sounds like a solemn general statement. Read carefully, it is something far more slippery. Is it really a universal truth? Of course not. The sentence is ironic: what it describes is not a law of nature but the belief — or rather the hope — of the families with unmarried daughters who populate the novel. The next sentence confirms the joke: the \"truth\", we learn, is fixed in the minds of the neighbours, who regard any wealthy newcomer as \"the rightful property of some one or other of their daughters\". The real subject of the opening, then, is not rich men but the society that schemes to marry them. This ability to say one thing while meaning another — to adopt the voice of a character or a community while quietly mocking it — is at the heart of Austen's art, and it depends heavily on free indirect speech. Throughout the novel, the narrator moves in and out of characters' minds, especially that of the heroine, Elizabeth Bennet. We share her quick judgements and sharp observations, and we only gradually realize, as she does, how mistaken some of them are. The reader experiences prejudice from the inside before recognizing it from the outside. Two centuries later, the technique remains one of the most powerful tools available to novelists. It allows fiction to do something that no other art form can do so easily: to place us simultaneously inside and outside another person's mind. To read like a writer is, in large part, to learn to hear those two voices at once — and to ask, at every turn, whose voice we are really hearing.",
+        "questions": [
+          {"q": "Why is the opening sentence of Pride and Prejudice ironic?", "answer": "It presents a social belief/hope as a universal truth."},
+          {"q": "What is the real subject of the opening, according to the text?", "answer": "The society that schemes to marry wealthy men."},
+          {"q": "How does free indirect speech affect our experience of Elizabeth Bennet?", "answer": "We share her judgements from the inside and only gradually realize they are mistaken."},
+          {"q": "What can fiction do, according to the last paragraph?", "answer": "Place us inside and outside another person's mind at the same time."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Identify the mode", "instruction": "Identify the way each thought is represented.", "instruction_pt": "Identifique o modo como cada pensamento é representado.",
+         "items": [{"prompt": "He thought, \"I can't do this any more.\"", "options": ["direct speech", "indirect speech", "free indirect speech"], "answer": "direct speech"}, {"prompt": "He thought that he couldn't do it any more.", "options": ["direct speech", "indirect speech", "free indirect speech"], "answer": "indirect speech"}, {"prompt": "He put down the phone. He couldn't do this any more. Not now, not ever.", "options": ["direct speech", "indirect speech", "free indirect speech"], "answer": "free indirect speech"}, {"prompt": "So I'm sitting on the bus, and suddenly this woman starts singing.", "options": ["historic present", "free indirect speech", "indirect speech"], "answer": "historic present"}]},
+        {"id": "ex2", "type": "answer", "title": "Rewrite as free indirect speech", "instruction": "Rewrite each passage using free indirect speech (no \"she thought\" / \"he wondered\").", "instruction_pt": "Reescreva cada trecho usando discurso indireto livre.",
+         "items": [{"prompt": "She thought, \"Why is he always late? I'm tired of waiting for him.\"", "answer": "Why was he always late? She was tired of waiting for him."}, {"prompt": "He wondered whether she would ever forgive him. He thought that she probably wouldn't.", "answer": "Would she ever forgive him? Probably not."}, {"prompt": "She thought, \"Tomorrow I'll tell him everything. Yes, tomorrow.\"", "answer": "Tomorrow she would tell him everything. Yes, tomorrow."}]},
+        {"id": "ex3", "type": "answer", "title": "Literary present", "instruction": "Rewrite each sentence about a book using the literary present.", "instruction_pt": "Reescreva cada frase sobre um livro usando o presente literário.",
+         "items": [{"prompt": "In the novel, the narrator described his childhood.", "answer": "In the novel, the narrator describes his childhood."}, {"prompt": "Machado used irony to criticize the elite.", "answer": "Machado uses irony to criticize the elite."}, {"prompt": "At the end of the story, the heroine decided to leave.", "answer": "At the end of the story, the heroine decides to leave."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "She looked at the clock. Late again. Why did he always do this?"}, {"prompt": "2", "answer": "The story is told from the child's point of view."}, {"prompt": "3", "answer": "The opening scene foreshadows the ending."}, {"prompt": "4", "answer": "The narrator can't be trusted."}]},
+        {"id": "ex5", "type": "match", "title": "Literary vocabulary", "instruction": "Write the English term.", "instruction_pt": "Escreva o termo em inglês.",
+         "items": [{"prompt": "narrador onisciente", "answer": "omniscient narrator"}, {"prompt": "narrador não confiável", "answer": "unreliable narrator"}, {"prompt": "fluxo de consciência", "answer": "stream of consciousness"}, {"prompt": "prenunciar", "answer": "foreshadow"}, {"prompt": "motivo recorrente", "answer": "motif"}, {"prompt": "ironia dramática", "answer": "dramatic irony"}]},
+        {"id": "ex6", "type": "answer", "title": "Analyse the passage", "instruction": "Read the (original) passage and answer: whose voice do we hear in the italicized part, and what is the effect?", "instruction_pt": "Leia o trecho e responda: de quem é a voz na parte destacada, e qual é o efeito?",
+         "items": [{"prompt": "Mr. Rocha adjusted his tie and smiled at the new employees. He had always been a generous boss. *Hadn't he given them all a free lunch at Christmas? And they were lucky to have jobs at all, in this economy.*", "answer": "Model: The italicized part is free indirect speech — it's Mr. Rocha's self-satisfied thinking, not the narrator's opinion. The effect is ironic: the reader sees that his \"generosity\" is minimal and his attitude condescending."}]}
+      ],
+      "speaking": {
+        "instruction": "\"Inside their heads\": tell a short anecdote (real or invented) twice — first using the historic present, as you would tell a friend; then as a literary narrator using free indirect speech to reveal a character's thoughts. Discuss which version is more vivid and why.",
+        "instruction_pt": "\"Dentro da cabeça\": conte uma pequena história (real ou inventada) duas vezes — primeiro no presente histórico, como contaria a um amigo; depois como narrador literário, usando discurso indireto livre para revelar os pensamentos de uma personagem. Discuta qual versão é mais vívida e por quê.",
+        "questions": ["Which Brazilian novel would you recommend to a foreign reader? Why?", "Have you ever read a novel with an unreliable narrator?", "Can literature help us understand other people better?", "Do you read fiction in English? What makes it difficult or rewarding?", "Is it better to read a classic in the original or in translation?"]
+      },
+      "writing": {
+        "task": "Write the opening of a short story (300–350 words) told in the third person, using free indirect speech to reveal a character's thoughts, feelings and possible self-deception. Include at least one moment of irony.",
+        "task_pt": "Escreva o início de um conto (300–350 palavras) narrado em terceira pessoa, usando discurso indireto livre para revelar os pensamentos, sentimentos e possível autoengano de uma personagem. Inclua pelo menos um momento de ironia.",
+        "model": "The promotion\n\nRenata arrived at the office forty minutes early, as she had every day for the past six years. The cleaning staff were still mopping the floors. Good. She liked the building like this: silent, orderly, waiting.\n\nToday was the day. The director had called her in for a meeting at nine — \"just a quick chat\", he had said, which was exactly what people said when they didn't want to spoil a surprise. Who else could it be? Marcos was talented, of course, but he arrived at ten and left at six, and everyone knew he spent half the afternoon on his phone. No, it had to be her. Six years of early mornings. Six years of weekends answering emails. People noticed these things. They had to.\n\nShe made herself a coffee and sat down to review the quarterly figures one last time. Not that she needed to; she knew them by heart. But it never hurt to be prepared. Her mother had always said that luck was simply what happened when preparation met opportunity, and her mother had been right about most things, except perhaps about Renata's ex-husband.\n\nAt eight-thirty, Marcos walked in. Early, for once. He was wearing a new jacket — rather a nice one, actually — and he looked unusually pleased with himself.\n\n\"Morning, Renata! Big day today,\" he said, with a wink.\n\nBig day? What did he mean by that? Surely he couldn't know about her meeting. Unless — no. The director would never discuss something like that with Marcos.\n\nShe smiled politely and returned to her spreadsheet. The numbers swam a little in front of her eyes. Well, it was early. She had slept badly. That was all.\n\nAt nine o'clock exactly, the director put his head round the door.\n\n\"Ah, both of you are here,\" he said. \"Perfect. Marcos, would you come in first?\""
+      },
+      "culture_note": {
+        "title": "Machado em inglês",
+        "text_pt": "*Dom Casmurro* e *Memórias Póstumas de Brás Cubas* ganharam novas traduções para o inglês nas últimas décadas e são cada vez mais lidos no exterior. Em 2020, uma nova tradução de *Brás Cubas* (*The Posthumous Memoirs of Brás Cubas*) esgotou nos EUA em poucos dias após viralizar nas redes sociais. Muitos críticos anglófonos comparam Machado a Laurence Sterne e consideram-no um modernista \"antes do tempo\"."
+      },
+      "summary_pt": ["Discurso indireto livre: 3ª pessoa + passado, sem \"she thought\", com marcas da voz da personagem.", "Presente histórico: imediatismo em narrativas e resumos de enredo.", "Literary present: ao comentar obras, use o presente.", "Narradores: onisciente, limitado, não confiável."]
+    },
+    {
+      "id": "C2-M4-L2",
+      "title": "The music of words",
+      "subtitle_pt": "Recursos sonoros: aliteração, assonância, onomatopeia, ritmo e métrica",
+      "duration_min": 80,
+      "source_refs": ["CEFR – C2 descriptors (appreciating stylistic and sound effects)", "Phonology for advanced learners (stress-timed rhythm, metre)"],
+      "objectives": ["Reconhecer aliteração, assonância, consonância, rima e onomatopeia", "Entender o ritmo acentual do inglês e a métrica (iambic pentameter)", "Ler poesia em voz alta com ritmo e ênfase adequados", "Usar recursos sonoros em slogans, títulos e textos criativos"],
+      "warmup": {
+        "text_pt": "Por que \"**Coca-Cola**\", \"**PayPal**\" e \"**Dunkin' Donuts**\" são fáceis de lembrar? Por que \"**to be or not to be**\" soa tão bem? A resposta está no **som**. O inglês é uma língua de **ritmo acentual** (stress-timed), e escritores, poetas e publicitários exploram isso o tempo todo. Hoje você vai ouvir — e usar — a **música das palavras**.",
+        "questions": ["Do you have a favourite poem or song lyric (in any language)? Why do you like its sound?", "Which advertising slogans do you remember? Why?"]
+      },
+      "vocabulary": [
+        {"en": "alliteration", "pt": "aliteração", "say": "aliterêishan"},
+        {"en": "assonance", "pt": "assonância", "say": "ésonans"},
+        {"en": "consonance", "pt": "consonância", "say": "kónsonans"},
+        {"en": "onomatopoeia", "pt": "onomatopeia", "say": "onomatopía"},
+        {"en": "rhyme / internal rhyme", "pt": "rima / rima interna", "say": "ráim / intârnol ráim"},
+        {"en": "rhythm / metre", "pt": "ritmo / métrica", "say": "rídhem / míter"},
+        {"en": "a stressed / unstressed syllable", "pt": "uma sílaba tônica / átona", "say": "strést / ânstrést sílabol"},
+        {"en": "iambic pentameter", "pt": "pentâmetro iâmbico", "say": "aiémbik pentémeter"},
+        {"en": "a stanza / a verse", "pt": "uma estrofe / um verso", "say": "a sténza / a vârs"},
+        {"en": "free verse", "pt": "verso livre", "say": "frí vârs"},
+        {"en": "spoken word / slam poetry", "pt": "poesia falada / slam", "say": "spôuken uârd / slém pôuitri"},
+        {"en": "euphonious / cacophonous", "pt": "eufônico / cacofônico", "say": "iufôunias / kakófonas"}
+      ],
+      "chunks": [
+        {"en": "Peter Piper picked a peck of pickled peppers.", "pt": "(trava-língua com aliteração em p)"},
+        {"en": "The rain in Spain stays mainly in the plain.", "pt": "(assonância e rima — frase famosa de My Fair Lady)"},
+        {"en": "Shall I compare thee to a summer's day?", "pt": "Devo comparar-te a um dia de verão? (Shakespeare)"},
+        {"en": "The buzz of bees and the hiss of the kettle", "pt": "o zumbido das abelhas e o chiado da chaleira"},
+        {"en": "Once upon a midnight dreary, while I pondered, weak and weary...", "pt": "Certa vez, numa meia-noite sombria, enquanto eu meditava, fraco e cansado... (Poe)"},
+        {"en": "It's music to my ears.", "pt": "É música para os meus ouvidos."}
+      ],
+      "grammar": {
+        "title": "Sound devices and rhythm",
+        "explanation_pt": "**1. Repetição de sons:**\n- **Aliteração** — consoantes iniciais: \"**P**eter **P**iper **p**icked...\", \"**b**ig **b**old **b**rands\", \"**c**ool, **c**alm and **c**ollected\"\n- **Assonância** — vogais: \"the r**ai**n in Sp**ai**n st**ay**s m**ai**nly...\", \"h**ea**r the m**e**llow w**e**dding b**e**lls\"\n- **Consonância** — consoantes no meio/fim: \"pi**tt**er-pa**tt**er\", \"bla**nk** and thi**nk**\"\n- **Rima** (final ou **interna**): \"Once upon a midnight dr**eary**, while I pondered, weak and w**eary**\" (Poe, 1845)\n\n**2. Onomatopeia** — palavras que imitam sons: buzz, hiss, whisper, crash, murmur, sizzle, splash, thud, rustle, crackle, tick-tock\n- Note que muitas são **verbos** em inglês: \"The fire **crackled**.\" / \"Leaves **rustled**.\"\n\n**3. Ritmo acentual (stress-timed rhythm)**\n- O inglês alterna sílabas **fortes** e **fracas**; as fortes caem em intervalos mais ou menos regulares e as fracas são **reduzidas** (schwa /ə/).\n- \"I **WANT** to **GO** to the **SHOPS**.\" (3 batidas) — \"to the\" quase some.\n- Isso é muito diferente do português (mais \"silábico\"), e é uma das razões do sotaque estrangeiro.\n\n**4. Métrica:**\n- **Iambo** = fraca + **forte** (da-**DUM**): \"be**LIEVE**\", \"to**DAY**\"\n- **Pentâmetro iâmbico** = 5 iambos por verso (10 sílabas) — o metro de Shakespeare:\n  \"Shall **I** com**PARE** thee **TO** a **SUM**mer's **DAY**?\"\n- **Troqueu** = **forte** + fraca (**DUM**-da): \"**DOUB**le, **DOUB**le, **TOIL** and **TROU**ble\" (*Macbeth*)\n\n**5. Uso prático:** slogans (\"**B**uy **b**etter, **b**uild **b**etter\"), títulos (\"*Pride and Prejudice*\", \"*Sense and Sensibility*\"), marcas (Coca-Cola, Kit Kat), discursos e escrita criativa.",
+        "table": {
+          "headers": ["Recurso", "Exemplo"],
+          "rows": [["Aliteração", "Pride and Prejudice; big, bold brands"], ["Assonância", "The rain in Spain stays mainly in the plain."], ["Consonância", "pitter-patter, blank and think"], ["Rima interna", "dreary... weary"], ["Onomatopeia", "buzz, hiss, crackle, rustle"], ["Iambo", "da-DUM: beLIEVE"], ["Pentâmetro iâmbico", "Shall I compare thee to a summer's day?"]]
+        },
+        "examples": [
+          {"en": "The fire crackled, the kettle hissed, and somewhere outside the rain began its soft, steady patter.", "pt": "O fogo crepitava, a chaleira chiava, e em algum lugar lá fora a chuva começava seu tamborilar suave e constante."},
+          {"en": "Shakespeare wrote most of his plays in iambic pentameter, a rhythm that echoes the natural stress patterns of English speech.", "pt": "Shakespeare escreveu a maioria de suas peças em pentâmetro iâmbico, um ritmo que ecoa os padrões naturais de acento da fala inglesa."},
+          {"en": "Good slogans often rely on alliteration and rhythm rather than on logic.", "pt": "Bons slogans muitas vezes dependem de aliteração e ritmo, mais do que de lógica."}
+        ],
+        "tip_pt": "Para melhorar sua **pronúncia** no C2, trabalhe o **ritmo**, não só os sons: leia poesia em voz alta marcando as sílabas fortes e **reduzindo** as fracas. Bater o ritmo com a mão enquanto lê ajuda muito."
+      },
+      "common_mistakes": [
+        {"wrong": "Pronouncing every syllable with equal weight: \"I-WANT-TO-GO-TO-THE-SHOPS\".", "right": "I WANT to GO to the SHOPS (reduce \"to\" and \"the\").", "why_pt": "O inglês é stress-timed: sílabas átonas são reduzidas."},
+        {"wrong": "Confusing alliteration (initial consonants) with rhyme (final sounds).", "right": "Alliteration: big bold brands. Rhyme: cat / hat.", "why_pt": "São recursos diferentes."},
+        {"wrong": "The fire was making a crackle sound.", "right": "The fire crackled.", "why_pt": "Onomatopeias costumam funcionar como verbos em inglês."}
+      ],
+      "pronunciation": {
+        "focus": "Ritmo do pentâmetro",
+        "tip_pt": "Leia batendo levemente na mesa nas sílabas fortes: \"shall **I** com**PARE** thee **TO** a **SUM**mer's **DAY**?\" — cinco batidas. Depois tente com frases do dia a dia: muitas frases em inglês caem naturalmente nesse ritmo: \"I **think** I'll **have** a **cup** of **tea** to**day**.\"",
+        "practice": ["shall I comPARE thee TO a SUMmer's DAY?", "I THINK I'll HAVE a CUP of TEA toDAY.", "DOUBle, DOUBle, TOIL and TROUble."]
+      },
+      "dialogue": {
+        "title": "Naming the brand",
+        "context_pt": "Duas sócias tentam escolher o nome e o slogan de uma marca de café.",
+        "lines": [
+          {"speaker": "Mia", "en": "OK, we need a name for the coffee brand. Ideas?", "pt": "OK, precisamos de um nome para a marca de café. Ideias?"},
+          {"speaker": "Paula", "en": "What about \"Brazilian Premium Coffee Company\"?", "pt": "Que tal \"Brazilian Premium Coffee Company\"?"},
+          {"speaker": "Mia", "en": "Accurate, but nobody will remember it. It has no music. Think of brands people love: Coca-Cola, Kit Kat, Dunkin' Donuts. They all repeat sounds.", "pt": "Preciso, mas ninguém vai lembrar. Não tem música. Pense nas marcas que as pessoas amam: Coca-Cola, Kit Kat, Dunkin' Donuts. Todas repetem sons."},
+          {"speaker": "Paula", "en": "Alliteration, then. \"Bold Bean\"? \"Café Carioca\"?", "pt": "Aliteração, então. \"Bold Bean\"? \"Café Carioca\"?"},
+          {"speaker": "Mia", "en": "\"Café Carioca\" sounds lovely — and it tells people where it's from. Now the slogan.", "pt": "\"Café Carioca\" soa lindo — e diz de onde vem. Agora o slogan."},
+          {"speaker": "Paula", "en": "\"Rich, real and roasted in Rio.\"", "pt": "\"Rico, real e torrado no Rio.\""},
+          {"speaker": "Mia", "en": "Ooh — a tricolon with alliteration. Say it again, slowly.", "pt": "Ooh — um tricolon com aliteração. Fala de novo, devagar."},
+          {"speaker": "Paula", "en": "\"RICH, REAL and ROASTED in RIO.\" Four beats. It almost sounds like a samba.", "pt": "\"RICH, REAL and ROASTED in RIO.\" Quatro batidas. Quase soa como um samba."},
+          {"speaker": "Mia", "en": "Perfect. That's music to my ears.", "pt": "Perfeito. Isso é música para os meus ouvidos."}
+        ]
+      },
+      "listening": {
+        "title": "Why we remember rhymes",
+        "context_pt": "Um psicólogo fala sobre o efeito da rima na memória e na credibilidade.",
+        "lines": [
+          {"speaker": "Speaker", "en": "Why do children learn nursery rhymes so easily? Why do advertising jingles get stuck in our heads? Sound patterns like rhyme, rhythm and alliteration make language easier to process and to remember — which is why oral traditions all over the world, from ancient epic poetry to Brazilian cordel, relied on them long before writing was common. But there's a more surprising effect. In a study published in 2000, psychologists Matthew McGlone and Jessica Tofighbakhsh presented people with sayings in two versions: one that rhymed, like \"Woes unite foes\", and one that meant the same thing but didn't rhyme, like \"Woes unite enemies\". Participants judged the rhyming versions to be more accurate. Researchers sometimes call this the \"rhyme-as-reason\" effect. The sound of a statement, it seems, can influence whether we believe it. Which is a useful thing to know — both if you're writing a slogan, and if you're trying not to be fooled by one."}
+        ],
+        "questions": [
+          {"q": "Why did oral traditions rely on sound patterns?", "answer": "They make language easier to process and remember."},
+          {"q": "What did participants in the 2000 study judge?", "answer": "Whether rhyming or non-rhyming versions of sayings were more accurate."},
+          {"q": "What was the result?", "answer": "The rhyming versions were judged more accurate."},
+          {"q": "What is the \"rhyme-as-reason\" effect?", "answer": "The tendency to find rhyming statements more believable."}
+        ]
+      },
+      "video": {
+        "title": "If I should have a daughter...",
+        "speaker": "Sarah Kay",
+        "url": "https://www.ted.com/search?q=sarah+kay+if+i+should+have+a+daughter",
+        "task_pt": "Assista à palestra (cerca de 18 minutos), que começa com um poema falado (spoken word). Responda:",
+        "questions": ["What sound devices (rhythm, repetition, alliteration) do you notice in the opening poem?", "How does performing a poem aloud change its effect?", "What does the speaker say about spoken word poetry as a way of expressing yourself?", "Write three lines of your own about someone you love, using at least one sound device."]
+      },
+      "reading": {
+        "title": "Poetry for the ear",
+        "text": "For most of human history, poetry was something heard rather than read. Long before printed books, communities preserved their histories, laws and stories in verse, recited from memory by bards, griots and storytellers. Rhythm, rhyme and repetition were not decorations but tools: they made long texts easier to memorize and more pleasurable to hear. The Old English epic Beowulf, for instance, relies on heavy alliteration, each line typically linking two or three stressed words that begin with the same sound. Printing gradually changed the relationship between poetry and sound. As poems came to be read silently on the page, poets began to experiment with visual effects — line breaks, spacing, even the shape of the text. By the twentieth century, many poets had abandoned regular metre and rhyme altogether in favour of free verse, which follows the rhythms of natural speech rather than a fixed pattern. Some critics complained that poetry had lost its music, and with it much of its audience. In recent decades, however, the ear has made a remarkable comeback. Spoken word and slam poetry, performed live and shared online, have attracted a new generation of poets and listeners, many of whom would never have opened a poetry anthology. Hip-hop, with its intricate internal rhymes and rhythmic complexity, has been described by many critics as one of the most significant poetic forms of our time. In Brazil, repentistas improvising in verse, cordel writers and slam competitions in city squares have kept the oral tradition vividly alive. Perhaps the lesson is that poetry has never really stopped being music. Even the quietest poem on a page asks to be heard, if only in the reader's head. To read poetry well — in any language — is to listen as much as to look.",
+        "questions": [
+          {"q": "Why were rhythm and rhyme important in oral cultures?", "answer": "They made long texts easier to memorize and more pleasurable to hear."},
+          {"q": "What sound feature characterizes Beowulf?", "answer": "Heavy alliteration."},
+          {"q": "How did printing change poetry?", "answer": "Poems were read silently; poets experimented with visual effects and free verse."},
+          {"q": "What forms have brought \"the ear\" back to poetry?", "answer": "Spoken word, slam poetry, hip-hop, and in Brazil repentistas, cordel and slams."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Identify the device", "instruction": "Identify the main sound device in each phrase.", "instruction_pt": "Identifique o principal recurso sonoro de cada frase.",
+         "items": [{"prompt": "\"Sense and Sensibility\"", "options": ["alliteration", "onomatopoeia", "assonance"], "answer": "alliteration"}, {"prompt": "\"The fire crackled and hissed.\"", "options": ["onomatopoeia", "rhyme", "alliteration"], "answer": "onomatopoeia"}, {"prompt": "\"Try to light the fire tonight.\"", "options": ["assonance (long i sound)", "alliteration", "onomatopoeia"], "answer": "assonance (long i sound)"}, {"prompt": "\"Once upon a midnight dreary, while I pondered, weak and weary\"", "options": ["internal rhyme", "onomatopoeia", "free verse"], "answer": "internal rhyme"}]},
+        {"id": "ex2", "type": "match", "title": "Onomatopoeic verbs", "instruction": "Write the onomatopoeic verb for each sound.", "instruction_pt": "Escreva o verbo onomatopeico para cada som.",
+         "items": [{"prompt": "the sound of bees", "answer": "buzz"}, {"prompt": "the sound of a snake or a kettle", "answer": "hiss"}, {"prompt": "the sound of dry leaves moving", "answer": "rustle"}, {"prompt": "the sound of a wood fire", "answer": "crackle"}, {"prompt": "the sound of food frying", "answer": "sizzle"}, {"prompt": "the sound of a heavy object hitting the floor", "answer": "thud"}]},
+        {"id": "ex3", "type": "answer", "title": "Mark the stress", "instruction": "Write each line in capitals for the stressed syllables and count the beats.", "instruction_pt": "Escreva cada verso marcando as sílabas tônicas em maiúsculas e conte as batidas.",
+         "items": [{"prompt": "Shall I compare thee to a summer's day?", "answer": "shall I comPARE thee TO a SUMmer's DAY? — 5 beats (iambic pentameter)"}, {"prompt": "I want to go to the shops.", "answer": "I WANT to GO to the SHOPS — 3 beats"}, {"prompt": "Double, double, toil and trouble", "answer": "DOUble, DOUble, TOIL and TROUble — 4 beats (trochaic)"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "Shall I compare thee to a summer's day?"}, {"prompt": "2", "answer": "The fire crackled and the kettle hissed."}, {"prompt": "3", "answer": "Good slogans rely on rhythm rather than logic."}, {"prompt": "4", "answer": "It's music to my ears."}]},
+        {"id": "ex5", "type": "answer", "title": "Write a slogan", "instruction": "Write a slogan using the device given for each product.", "instruction_pt": "Escreva um slogan usando o recurso indicado para cada produto.",
+         "items": [{"prompt": "Alliteration — a bicycle-sharing service", "answer": "Model: Pedal, park, pass it on. / Ride right, ride rapid."}, {"prompt": "Rhyme — a healthy snack", "answer": "Model: Snack smart, from the heart. / Eat well, feel swell."}, {"prompt": "Onomatopoeia — a soft drink", "answer": "Model: Pop it. Fizz it. Love it."}]},
+        {"id": "ex6", "type": "match", "title": "Poetry vocabulary", "instruction": "Write the English term.", "instruction_pt": "Escreva o termo em inglês.",
+         "items": [{"prompt": "estrofe", "answer": "stanza"}, {"prompt": "verso livre", "answer": "free verse"}, {"prompt": "sílaba tônica", "answer": "stressed syllable"}, {"prompt": "pentâmetro iâmbico", "answer": "iambic pentameter"}, {"prompt": "poesia falada", "answer": "spoken word"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Open mic\": write and perform a short spoken word poem (8–14 lines) about your city, your language or a person you admire. Use at least three sound devices and a strong rhythm. Perform it to the class; listeners identify the devices.",
+        "instruction_pt": "\"Microfone aberto\": escreva e apresente um poema falado curto (8–14 versos) sobre sua cidade, sua língua ou uma pessoa que você admira. Use pelo menos três recursos sonoros e um ritmo marcante. Apresente para a turma; os ouvintes identificam os recursos.",
+        "questions": ["Is poetry more powerful read silently or aloud?", "Is hip-hop poetry?", "Which Brazilian song lyrics would you call poetry?", "Why do rhyming statements seem more believable?", "Does the sound of English feel very different from Portuguese? How?"]
+      },
+      "writing": {
+        "task": "Write a short prose poem or descriptive piece (200–260 words) about a place and its sounds (a market, a beach, a city at night, a rainy day). Use at least eight onomatopoeic words and four other sound devices. Then write two lines explaining your choices.",
+        "task_pt": "Escreva um poema em prosa ou texto descritivo curto (200–260 palavras) sobre um lugar e seus sons (feira, praia, cidade à noite, dia de chuva). Use pelo menos oito onomatopeias e quatro outros recursos sonoros. Depois escreva duas linhas explicando suas escolhas.",
+        "model": "Rain in Belém, three o'clock\n\nIt begins, as it always begins, with a whisper.\n\nA few fat drops tap on the tin roof of the market: tap, tap, tap, like a polite visitor. The vendors glance up, then down again. They know what's coming.\n\nThen the sky splits. The rain rushes in, roaring on the roofs, drumming on the awnings, hammering the river until the whole city seems to hum. Gutters gurgle and overflow. Car tyres hiss through the flooded streets. A bus splashes past, and a woman shrieks, then laughs, her shopping bags soaked.\n\nUnder the mango trees, the world shrinks to a single sound — a steady, silver static, so loud it swallows every voice. Somewhere a radio crackles, fighting to be heard. A dog whimpers in a doorway. A child stamps in a puddle, delighted, defiant.\n\nAnd then, as suddenly as it started, it stops.\n\nDrip. Drip. Drip.\n\nThe leaves let go of the last of the water. The sun slides out from behind the clouds, and the steam rises softly from the warm, wet stones. The vendors shake their tarpaulins and shout their prices again. Birds begin, cautiously, to sing.\n\nIn Belém, they say you can set your watch by the rain. Three o'clock, every afternoon: the city's own symphony, played loud and short and true.\n\n— Choices: onomatopoeia (tap, roaring, gurgle, hiss, splashes, shrieks, crackles, whimpers, drip) recreates the soundscape; alliteration (steady, silver static; delighted, defiant) and short sentences mimic the rhythm of the storm."
+      },
+      "culture_note": {
+        "title": "Slam e cordel no Brasil",
+        "text_pt": "O **slam** (competição de poesia falada) chegou ao Brasil nos anos 2000 e hoje acontece em praças e escolas de todo o país, com campeonatos nacionais e participação em competições internacionais. A **literatura de cordel**, por sua vez, foi reconhecida como **patrimônio cultural imaterial brasileiro** pelo IPHAN em 2018. Ambos mostram que a poesia oral, baseada em ritmo e rima, continua viva."
+      },
+      "summary_pt": ["Aliteração (consoantes iniciais), assonância (vogais), consonância, rima interna.", "Onomatopeia: buzz, hiss, crackle, rustle — muitas vezes verbos.", "Inglês é stress-timed: reduza as sílabas átonas.", "Pentâmetro iâmbico: 5 × da-DUM (Shakespeare)."]
+    },
+    {
+      "id": "C2-M4-L3",
+      "title": "Punctuation with purpose",
+      "subtitle_pt": "Pontuação expressiva e variedade de frases (periódicas e cumulativas)",
+      "duration_min": 80,
+      "source_refs": ["CEFR – C2 descriptors (written accuracy, stylistic control)", "Cambridge C2 Proficiency – Writing (accuracy and organization)"],
+      "objectives": ["Usar ponto e vírgula, dois-pontos e travessão com precisão e efeito", "Evitar comma splices e run-on sentences", "Variar o comprimento e a estrutura das frases (periódicas, cumulativas, fragmentos)", "Revisar um texto para ritmo e clareza"],
+      "warmup": {
+        "text_pt": "\"Let's eat, Grandma!\" x \"Let's eat Grandma!\" Uma vírgula salva vidas. No C2, a pontuação deixa de ser só correção e vira **estilo**: o **ponto e vírgula** liga ideias próximas; os **dois-pontos** anunciam; o **travessão** interrompe com drama. E a variação entre frases longas e curtas cria **ritmo**. Assim.",
+        "questions": ["Do you use semicolons in Portuguese? In English?", "Have you ever had a message misunderstood because of punctuation?"]
+      },
+      "vocabulary": [
+        {"en": "a semicolon ( ; )", "pt": "ponto e vírgula", "say": "a sémikoulon"},
+        {"en": "a colon ( : )", "pt": "dois-pontos", "say": "a kôulon"},
+        {"en": "a dash ( — ) / a hyphen ( - )", "pt": "travessão / hífen", "say": "a dash / a háifen"},
+        {"en": "brackets / parentheses", "pt": "parênteses", "say": "brékits / paréntesiz"},
+        {"en": "inverted commas / quotation marks", "pt": "aspas", "say": "invârtid kómaz"},
+        {"en": "an ellipsis ( ... )", "pt": "reticências", "say": "an ilípsis"},
+        {"en": "a comma splice", "pt": "emenda com vírgula (erro)", "say": "a kóma spláis"},
+        {"en": "a run-on sentence", "pt": "frase corrida, sem pontuação", "say": "a rân on séntens"},
+        {"en": "a sentence fragment", "pt": "fragmento de frase", "say": "a séntens frégment"},
+        {"en": "a periodic sentence", "pt": "frase periódica (ideia principal no fim)", "say": "a piriódik séntens"},
+        {"en": "a cumulative / loose sentence", "pt": "frase cumulativa (ideia principal no início)", "say": "a kiúmiulativ séntens"},
+        {"en": "the Oxford comma", "pt": "a vírgula de Oxford (antes do and final)", "say": "dí óksfard kóma"}
+      ],
+      "chunks": [
+        {"en": "Let's eat, Grandma!", "pt": "Vamos comer, vovó!"},
+        {"en": "It was late; everyone had gone home.", "pt": "Era tarde; todos tinham ido embora."},
+        {"en": "She had one goal: to win.", "pt": "Ela tinha um objetivo: vencer."},
+        {"en": "He said yes — eventually.", "pt": "Ele disse sim — no fim das contas."},
+        {"en": "Short sentences hit hard.", "pt": "Frases curtas causam impacto."},
+        {"en": "I'd like to thank my parents, Ana and God.", "pt": "(sem a vírgula de Oxford, fica ambíguo!)"}
+      ],
+      "grammar": {
+        "title": "Punctuation for meaning and style",
+        "explanation_pt": "**1. Ponto e vírgula (;)** — liga **duas orações completas** relacionadas, sem conjunção:\n- \"It was late; everyone had gone home.\"\n- Antes de advérbios conectivos: \"The plan was risky; **however**, it worked.\"\n- Em listas complexas com vírgulas internas: \"We visited Recife, Pernambuco; Salvador, Bahia; and Natal, Rio Grande do Norte.\"\n\n**2. Dois-pontos (:)** — **anuncia** o que vem: explicação, lista, citação, conclusão.\n- \"She had one goal: to win.\" / \"The reason was simple: money.\"\n- ⚠️ O que vem **antes** dos dois-pontos deve ser uma oração completa: ❌ \"The ingredients are: eggs, flour...\" ✅ \"You need three ingredients: eggs, flour and milk.\"\n\n**3. Travessão (—)** — interrupção, ênfase, reviravolta, aposto dramático:\n- \"He said yes — eventually.\"\n- \"Three people — my mother, my sister and a stranger — saw it happen.\"\n- Mais informal e enfático que parênteses; em textos acadêmicos, use com moderação.\n\n**4. Erros clássicos:**\n- **Comma splice** (duas orações completas só com vírgula): ❌ \"It was late, everyone had gone home.\" → use ponto, ponto e vírgula ou conjunção.\n- ❌ \"The plan was risky, however it worked.\" → \"The plan was risky; however, it worked.\"\n- **Run-on sentence:** duas orações sem nenhuma pontuação.\n\n**5. Vírgula de Oxford** (antes do *and* final de uma lista) — opcional, mas evita ambiguidades:\n- \"I'd like to thank my parents, Ana**,** and God.\" (três grupos, não \"meus pais, que são Ana e Deus\")\n\n**6. Variedade de frases (estilo):**\n- **Frase cumulativa** — ideia principal no início, detalhes acumulados depois: \"She walked into the sea, the water cold against her legs, the sun low over the horizon, the gulls crying above.\"\n- **Frase periódica** — suspense, ideia principal **no fim**: \"After years of struggle, countless rejections and one long, sleepless night, she finally said yes.\"\n- **Fragmento intencional** — impacto: \"He never came back. Never.\"\n- **Regra de ouro:** alterne frases longas e curtas. Uma frase curta depois de várias longas **chama atenção**.",
+        "table": {
+          "headers": ["Sinal", "Uso", "Exemplo"],
+          "rows": [["; (semicolon)", "liga orações completas relacionadas", "It rained; we stayed in."], ["; however,", "antes de conectivo", "It was hard; however, we finished."], [": (colon)", "anuncia explicação/lista", "One problem remained: money."], ["— (dash)", "interrupção, ênfase", "She agreed — reluctantly."], ["Oxford comma", "evita ambiguidade", "eggs, ham, and cheese"], ["Fragmento", "impacto intencional", "Silence. Then a scream."]]
+        },
+        "examples": [
+          {"en": "The museum was enormous; we saw only a fraction of it in a single day.", "pt": "O museu era enorme; vimos apenas uma fração dele num único dia."},
+          {"en": "There was only one explanation for the missing money: someone in the office had taken it.", "pt": "Só havia uma explicação para o dinheiro desaparecido: alguém no escritório o tinha pegado."},
+          {"en": "After three hours of debate, two rounds of voting and one dramatic walkout, the committee finally reached a decision — to postpone the decision.", "pt": "Depois de três horas de debate, duas rodadas de votação e uma saída dramática, o comitê finalmente chegou a uma decisão — adiar a decisão."}
+        ],
+        "tip_pt": "O **comma splice** é o erro de pontuação mais comum de brasileiros escrevendo em inglês, porque em português é mais tolerado. Revise seus textos procurando vírgulas que separam duas orações completas — e troque por **ponto, ponto e vírgula ou conjunção**."
+      },
+      "common_mistakes": [
+        {"wrong": "I love Lisbon, it's a beautiful city.", "right": "I love Lisbon; it's a beautiful city. / I love Lisbon. It's... / I love Lisbon because it's...", "why_pt": "Comma splice: duas orações completas não se ligam só com vírgula."},
+        {"wrong": "The results were good, however we need more data.", "right": "The results were good; however, we need more data.", "why_pt": "however como conectivo pede ponto e vírgula (ou ponto) antes e vírgula depois."},
+        {"wrong": "The main problems are: cost and time.", "right": "There are two main problems: cost and time.", "why_pt": "Antes dos dois-pontos, use uma oração completa."}
+      ],
+      "pronunciation": {
+        "focus": "Pontuação na leitura em voz alta",
+        "tip_pt": "Cada sinal tem uma \"duração\" na fala: **vírgula** = pausa curta; **ponto e vírgula** = pausa média; **ponto** = pausa longa com tom descendente; **dois-pontos** = pausa com tom suspenso (anunciando); **travessão** = pausa dramática + mudança de tom. Leia um parágrafo respeitando essas pausas.",
+        "practice": ["It was late; | everyone had gone home.", "She had one goal: || to WIN.", "He said yes — || eVENtually."]
+      },
+      "dialogue": {
+        "title": "Editing session",
+        "context_pt": "Uma editora revisa com um autor o primeiro capítulo de seu livro de memórias.",
+        "lines": [
+          {"speaker": "Emma", "en": "Your story is moving, Igor. But the punctuation is getting in the way. Look at this sentence: \"I arrived in London, it was raining, I didn't know anyone.\"", "pt": "Sua história é comovente, Igor. Mas a pontuação está atrapalhando. Veja esta frase: \"Cheguei a Londres, estava chovendo, eu não conhecia ninguém.\""},
+          {"speaker": "Igor", "en": "In Portuguese, that would be fine.", "pt": "Em português, isso estaria ok."},
+          {"speaker": "Emma", "en": "In English, it's a comma splice — three complete clauses joined only by commas. You could use full stops: \"I arrived in London. It was raining. I didn't know anyone.\"", "pt": "Em inglês, é um comma splice — três orações completas ligadas só por vírgulas. Você poderia usar pontos: \"I arrived in London. It was raining. I didn't know anyone.\""},
+          {"speaker": "Igor", "en": "That sounds very dramatic. Very lonely.", "pt": "Isso soa muito dramático. Muito solitário."},
+          {"speaker": "Emma", "en": "Which is exactly what you were feeling, isn't it? Short sentences create that effect. Or, if you want it smoother: \"I arrived in London on a rainy Tuesday; I didn't know a single person.\"", "pt": "Que é exatamente o que você estava sentindo, não? Frases curtas criam esse efeito. Ou, se quiser mais fluido: \"Cheguei a Londres numa terça chuvosa; não conhecia uma única pessoa.\""},
+          {"speaker": "Igor", "en": "I prefer the short version. And here — I've used a lot of brackets.", "pt": "Prefiro a versão curta. E aqui — usei muitos parênteses."},
+          {"speaker": "Emma", "en": "Try a dash instead when you want emphasis: \"My first job was washing dishes — for twelve hours a day.\" The dash makes the reader feel the weight of it.", "pt": "Tente um travessão quando quiser ênfase: \"Meu primeiro emprego foi lavar pratos — doze horas por dia.\" O travessão faz o leitor sentir o peso disso."},
+          {"speaker": "Igor", "en": "I see. Punctuation isn't just grammar; it's rhythm.", "pt": "Entendo. Pontuação não é só gramática; é ritmo."},
+          {"speaker": "Emma", "en": "Exactly — and you've just used a semicolon perfectly.", "pt": "Exatamente — e você acabou de usar um ponto e vírgula perfeitamente."}
+        ]
+      },
+      "listening": {
+        "title": "The semicolon wars",
+        "context_pt": "Um colunista fala, com humor, sobre o debate em torno do ponto e vírgula.",
+        "lines": [
+          {"speaker": "Columnist", "en": "Few punctuation marks inspire as much passion as the semicolon. Kurt Vonnegut famously advised writers not to use them at all, mocking them as pretentious — before, with typical irony, using one himself a few pages later. Other writers adore them. To their fans, the semicolon is the most elegant mark in the language: stronger than a comma, gentler than a full stop, it joins two ideas that belong together without forcing them into a single sentence. The truth, as usual, lies somewhere in between. Overused, semicolons can make writing feel heavy and academic. Used well, they create subtle connections that no other mark can manage. My advice? Before you use one, ask yourself a simple question: could each side stand alone as a sentence? If not, it's the wrong mark. And if yes — ask whether the two ideas are close enough to share a breath. If they are, go ahead. If not, a full stop will do the job; it usually does."}
+        ],
+        "questions": [
+          {"q": "What did Kurt Vonnegut say about semicolons?", "answer": "Not to use them; he mocked them as pretentious (but used one himself later)."},
+          {"q": "How do fans of the semicolon describe it?", "answer": "Stronger than a comma, gentler than a full stop; it joins ideas that belong together."},
+          {"q": "What question should you ask before using a semicolon?", "answer": "Could each side stand alone as a sentence?"},
+          {"q": "Find the semicolon in the speaker's last sentence. Is it used correctly?", "answer": "\"...will do the job; it usually does.\" Yes — two complete, closely related clauses."}
+        ]
+      },
+      "reading": {
+        "title": "The rhythm of prose",
+        "text": "Writers have long understood that prose, like music, has rhythm, and that rhythm depends not only on words but on the shape of sentences. In a much-quoted passage from his book The Way We Write, the American writing teacher Gary Provost demonstrated this with a simple experiment. He wrote a paragraph composed entirely of five-word sentences. It was grammatically perfect. It was also, as he pointed out, monotonous. Then he varied the length: a short sentence, a medium one, and then a long, rolling sentence that built and built until it reached its climax. The second version, he argued, did not merely inform; it sang. The lesson is easily overlooked by learners, who often focus on accuracy at the expense of rhythm. A text made entirely of short sentences can sound childish or breathless. A text made entirely of long, complex sentences can exhaust the reader, however impressive each individual sentence may be. The most effective writers alternate. They use long, cumulative sentences to describe and accumulate detail, allowing the reader to settle into a scene; they use periodic sentences, which delay the main point until the end, to build suspense; and they use short sentences — sometimes no more than a word or two — for emphasis, surprise or finality. Punctuation is the instrument that makes this possible. The comma lets a sentence breathe. The semicolon holds two ideas in balance. The colon creates expectation: something important is coming. The dash interrupts, adds, surprises. And the full stop, the most underestimated of all, gives the reader a moment of silence in which a sentence can resonate. None of this can be learned from rules alone. It must be heard. Reading good prose aloud, slowly, remains one of the best ways to develop an ear for rhythm. So does reading your own writing aloud. If you run out of breath, the sentence is too long. If it sounds like a list, it probably needs a variation. Try it.",
+        "questions": [
+          {"q": "What did Gary Provost's experiment show?", "answer": "Sentences of the same length are monotonous; varying length creates rhythm."},
+          {"q": "What are cumulative sentences good for?", "answer": "Describing and accumulating detail."},
+          {"q": "What are periodic sentences good for?", "answer": "Building suspense by delaying the main point."},
+          {"q": "What practical advice does the text give?", "answer": "Read good prose and your own writing aloud to develop an ear for rhythm."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "correct_error", "title": "Fix the comma splice", "instruction": "Correct each comma splice in two different ways.", "instruction_pt": "Corrija cada comma splice de duas formas diferentes.",
+         "items": [{"prompt": "I love São Paulo, it never sleeps.", "answer": "I love São Paulo; it never sleeps. / I love São Paulo because it never sleeps."}, {"prompt": "The results were promising, however more research is needed.", "answer": "The results were promising; however, more research is needed. / The results were promising. However, more research is needed."}, {"prompt": "She studied all night, she still failed.", "answer": "She studied all night, but she still failed. / She studied all night; she still failed."}]},
+        {"id": "ex2", "type": "multiple_choice", "title": "Choose the punctuation", "instruction": "Choose the best punctuation mark for the gap.", "instruction_pt": "Escolha o sinal de pontuação mais adequado para a lacuna.",
+         "items": [{"prompt": "There was only one thing left to do ___ apologize.", "options": [":", ";", ","], "answer": ":"}, {"prompt": "The train was delayed ___ we missed the ceremony.", "options": [";", ":", ","], "answer": ";"}, {"prompt": "He finally agreed ___ after three hours of arguing.", "options": ["—", ";", ":"], "answer": "—"}, {"prompt": "We visited Porto, Portugal ___ Seville, Spain; and Lyon, France.", "options": [";", ",", ":"], "answer": ";"}]},
+        {"id": "ex3", "type": "answer", "title": "Vary the rhythm", "instruction": "Rewrite this monotonous paragraph, varying sentence length and using at least one semicolon, one colon and one dash.", "instruction_pt": "Reescreva este parágrafo monótono, variando o comprimento das frases e usando pelo menos um ponto e vírgula, um dois-pontos e um travessão.",
+         "items": [{"prompt": "I opened the door. The house was dark. I called my sister's name. Nobody answered. I walked into the kitchen. The table was set for two. The food was cold. My sister was gone.", "answer": "Model: I opened the door. The house was dark; I called my sister's name, but nobody answered. In the kitchen, I found the table set for two, the food long cold, the candles burned down to their stubs — and one thing missing: my sister."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation (with punctuation)", "instruction": "Listen and write the sentence, including the correct punctuation.", "instruction_pt": "Ouça e escreva a frase, com a pontuação correta.",
+         "items": [{"prompt": "1", "answer": "It was late; everyone had gone home."}, {"prompt": "2", "answer": "She had one goal: to win."}, {"prompt": "3", "answer": "He said yes — eventually."}, {"prompt": "4", "answer": "The plan was risky; however, it worked."}]},
+        {"id": "ex5", "type": "answer", "title": "Periodic and cumulative sentences", "instruction": "Write one periodic and one cumulative sentence about each situation.", "instruction_pt": "Escreva uma frase periódica e uma cumulativa sobre cada situação.",
+         "items": [{"prompt": "Winning a competition", "answer": "Periodic: After months of training, two injuries and one terrible final round, she won. Cumulative: She won the competition, her hands shaking, her coach in tears, the crowd on its feet."}, {"prompt": "Arriving in a new city", "answer": "Periodic: After a twelve-hour flight, a lost suitcase and a two-hour queue at immigration, I finally arrived in Tokyo. Cumulative: I arrived in Tokyo at dawn, exhausted, jet-lagged, overwhelmed by the lights and the silence."}]},
+        {"id": "ex6", "type": "match", "title": "Punctuation vocabulary", "instruction": "Write the English term.", "instruction_pt": "Escreva o termo em inglês.",
+         "items": [{"prompt": "ponto e vírgula", "answer": "semicolon"}, {"prompt": "dois-pontos", "answer": "colon"}, {"prompt": "travessão", "answer": "dash"}, {"prompt": "reticências", "answer": "ellipsis"}, {"prompt": "emenda com vírgula (erro)", "answer": "comma splice"}, {"prompt": "aspas", "answer": "quotation marks / inverted commas"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Read it right\": in pairs, each person reads aloud a short paragraph (from a novel or your own writing), using pauses and intonation to show the punctuation. Your partner writes it down from your reading. Compare the punctuation — did it match?",
+        "instruction_pt": "\"Leia certo\": em pares, cada um lê em voz alta um parágrafo curto (de um romance ou escrito por você), usando pausas e entonação para mostrar a pontuação. O colega anota o texto pela leitura. Comparem a pontuação — bateu?",
+        "questions": ["Do you think punctuation is still important in the age of text messages?", "Which punctuation mark do you find hardest in English?", "Can punctuation change the meaning of a law or a contract? Give an example.", "What makes a writer's style recognizable?", "Do you prefer writers who use short sentences or long ones?"]
+      },
+      "writing": {
+        "task": "Write a short memoir passage (280–330 words) about a significant moment in your life. Vary sentence length deliberately, and use at least two semicolons, two colons, two dashes, one periodic sentence, one cumulative sentence and one intentional fragment.",
+        "task_pt": "Escreva um trecho de memória (280–330 palavras) sobre um momento significativo da sua vida. Varie o comprimento das frases de propósito e use pelo menos dois pontos e vírgulas, dois dois-pontos, dois travessões, uma frase periódica, uma cumulativa e um fragmento intencional.",
+        "model": "The phone call\n\nI was nineteen when the phone rang at three in the morning. Nobody calls at three in the morning with good news; I knew that even before I picked it up.\n\nIt was my uncle. His voice was strange — flat, careful, as if each word had been chosen in advance. My father had been taken to hospital. A heart attack. They didn't know yet.\n\nI remember very little of the drive. I remember the empty avenues, the traffic lights changing for nobody, the orange glow of the streetlamps sliding across the windscreen, my mother's hand gripping the door handle so tightly that her knuckles were white. I remember thinking one thing over and over: not yet.\n\nThe hospital was too bright. Everything in it was too bright: the floors, the walls, the forced smiles of the nurses who told us to wait. So we waited. We waited for four hours; it felt like four days.\n\nAnd then, after a night of silence, after the coffee from the machine and the prayers I didn't know I remembered, after watching every door open and close and open again, a young doctor walked towards us and smiled.\n\nHe was going to be fine.\n\nMy father lived for another twenty-two years. He became, if anything, more stubborn after that night — he refused to give up salt, coffee or football — but he also became softer in ways I hadn't expected. He started telling us he loved us. Often. Sometimes too often, my sister used to joke.\n\nI still think about that drive whenever my phone rings at night. Fear, I learned, is not the opposite of love; it is one of its shapes. And gratitude, when it finally comes, arrives quietly: a doctor's smile, a corridor, a door that opens the right way."
+      },
+      "culture_note": {
+        "title": "\"Eats, Shoots & Leaves\"",
+        "text_pt": "O livro britânico *Eats, Shoots & Leaves* (2003), de **Lynne Truss**, virou best-seller improvável — um livro sobre pontuação! O título vem de uma piada: um panda \"**eats, shoots and leaves**\" (come, atira e vai embora) x \"**eats shoots and leaves**\" (come brotos e folhas). A vírgula muda tudo. O livro mostra como a pontuação pode ser tema de paixão (e humor) entre falantes de inglês."
+      },
+      "summary_pt": ["; liga orações completas relacionadas; antes de however/therefore.", ": anuncia (precisa de oração completa antes).", "— interrompe, enfatiza, surpreende.", "Evite comma splices; varie frases longas, curtas, periódicas e cumulativas."]
+    },
+    {
+      "id": "C2-M4-L4",
+      "title": "The critic's voice",
+      "subtitle_pt": "Linguagem avaliativa e a review no formato C2 Proficiency",
+      "duration_min": 85,
+      "source_refs": ["CEFR – C2 descriptors (writing critical appraisals)", "Cambridge C2 Proficiency – Writing Part 2 (review)"],
+      "objectives": ["Usar linguagem avaliativa sofisticada (accomplished, uneven, derivative, luminous)", "Equilibrar elogio e crítica com nuance", "Estruturar uma review de nível C2 (contexto, análise, avaliação, recomendação)", "Escrever sobre literatura, cinema, música ou exposições com autoridade"],
+      "warmup": {
+        "text_pt": "Na prova **C2 Proficiency**, uma das opções da Parte 2 de escrita é uma **review** (280–320 palavras). Uma crítica C2 vai muito além de \"I liked it\": ela **contextualiza**, **analisa**, **avalia com nuance** e **recomenda** — com vocabulário preciso como \"**uneven**\", \"**derivative**\", \"**understated**\", \"**luminous**\". Este módulo termina com você no papel de crítico.",
+        "questions": ["Which critic, reviewer or influencer do you trust when choosing books, films or music?", "What's the last work of art (book, film, album, exhibition) that genuinely moved you?"]
+      },
+      "vocabulary": [
+        {"en": "accomplished / masterful", "pt": "realizado, competente / magistral", "say": "akómplisht / mésterful"},
+        {"en": "uneven / patchy", "pt": "irregular", "say": "ânívan / pétchi"},
+        {"en": "derivative / formulaic", "pt": "pouco original / previsível, de fórmula", "say": "dirívativ / formiulêiik"},
+        {"en": "understated / restrained", "pt": "contido, discreto", "say": "ânderstêitid / ristrêind"},
+        {"en": "luminous / incandescent", "pt": "luminoso / brilhante", "say": "lúminas / inkandésant"},
+        {"en": "self-indulgent", "pt": "autoindulgente", "say": "sélf indâldjent"},
+        {"en": "overwrought / heavy-handed", "pt": "exagerado / sem sutileza", "say": "ôuverrót / révi réndid"},
+        {"en": "to resonate", "pt": "ressoar, tocar", "say": "tu rézoneit"},
+        {"en": "a tour de force", "pt": "uma demonstração de virtuosismo", "say": "a túr de fórs"},
+        {"en": "to fall flat / to miss the mark", "pt": "não funcionar / errar o alvo", "say": "tu fól flét"},
+        {"en": "to stand the test of time", "pt": "resistir ao tempo", "say": "tu sténd dâ tést ov táim"},
+        {"en": "a slow burn", "pt": "algo que cresce aos poucos", "say": "a slôu bârn"}
+      ],
+      "chunks": [
+        {"en": "It's an accomplished, if uneven, debut.", "pt": "É uma estreia competente, ainda que irregular."},
+        {"en": "The second half never quite lives up to the first.", "pt": "A segunda metade nunca chega a corresponder à primeira."},
+        {"en": "Her performance is a masterclass in restraint.", "pt": "A atuação dela é uma aula de contenção."},
+        {"en": "The film is a slow burn, but it rewards patience.", "pt": "O filme demora a engrenar, mas recompensa a paciência."},
+        {"en": "The ending falls flat.", "pt": "O final não funciona."},
+        {"en": "It's a book that will stand the test of time.", "pt": "É um livro que vai resistir ao tempo."}
+      ],
+      "grammar": {
+        "title": "Evaluative language and review structure",
+        "explanation_pt": "**1. Vocabulário avaliativo preciso** — substitua \"good / bad / interesting\":\n- **Positivo:** accomplished, assured, compelling, luminous, nuanced, haunting, exhilarating, beautifully observed, a tour de force\n- **Negativo:** derivative, formulaic, self-indulgent, overwrought, heavy-handed, laboured, uneven, patchy, forgettable\n- **Neutro/descritivo:** understated, ambitious, sprawling, experimental, slow-paced, unconventional\n\n**2. Avaliação com nuance** — o crítico C2 raramente é totalmente positivo ou negativo:\n- **if / albeit** concessivo: \"an **accomplished, if uneven**, debut\" / \"a **powerful, albeit flawed**, film\"\n- **never quite / not entirely / falls short of**: \"The ending **never quite** convinces.\" / \"It **falls short of** its ambitions.\"\n- **what it lacks in X, it makes up for in Y**: \"**What it lacks in** originality, **it makes up for in** charm.\"\n- **for all its flaws / for all its brilliance** (apesar de): \"**For all its flaws**, it's a remarkable achievement.\"\n- **the film / book is at its best when...**: \"The novel **is at its best when** it focuses on the family.\"\n\n**3. Estrutura de uma review C2 (280–320 palavras):**\n1. **Abertura com gancho + contexto** (autor/diretor, gênero, expectativa)\n2. **Resumo breve** (sem spoilers!), no **presente**\n3. **Análise** de 2–3 aspectos (atuação, roteiro, estilo, temas) com exemplos\n4. **Pontos fracos** com nuance\n5. **Avaliação final + recomendação** (para quem?)\n\n**4. Registro:** semiformal, com personalidade; pode usar humor e opinião pessoal, mas sempre **justificada**.",
+        "table": {
+          "headers": ["Estrutura", "Exemplo"],
+          "rows": [["adj, if adj", "an ambitious, if flawed, novel"], ["never quite", "The plot never quite comes together."], ["falls short of", "It falls short of the original."], ["What it lacks in X...", "What it lacks in depth, it makes up for in style."], ["For all its...", "For all its length, it never drags."], ["is at its best when", "The series is at its best when it's quiet."]]
+        },
+        "examples": [
+          {"en": "For all its visual brilliance, the film never quite finds an emotional centre.", "pt": "Apesar de todo o brilho visual, o filme nunca chega a encontrar um centro emocional."},
+          {"en": "What the album lacks in innovation, it more than makes up for in warmth and craftsmanship.", "pt": "O que falta ao álbum em inovação, ele compensa com sobra em calor humano e apuro técnico."},
+          {"en": "The novel is at its best when it abandons the main plot and simply observes the life of the village.", "pt": "O romance está no seu melhor quando abandona a trama principal e simplesmente observa a vida da aldeia."}
+        ],
+        "tip_pt": "Na prova C2, o examinador procura **vocabulário avaliativo variado** e **opinião justificada**. Evite \"very good\" e \"very interesting\". Uma boa técnica: para cada adjetivo avaliativo, dê **um exemplo concreto** da obra que o justifique."
+      },
+      "common_mistakes": [
+        {"wrong": "The film is very interesting and very good.", "right": "The film is compelling and beautifully shot.", "why_pt": "No C2, use vocabulário avaliativo preciso."},
+        {"wrong": "It's an ambitious, but uneven film. (sem vírgula de fechamento)", "right": "It's an ambitious, if uneven, film. / It's ambitious but uneven.", "why_pt": "Na estrutura adj, if adj, use as duas vírgulas."},
+        {"wrong": "In the end, the hero dies and his wife marries his brother.", "right": "Avoid spoilers: \"The ending is likely to divide audiences.\"", "why_pt": "Reviews não devem revelar o final."}
+      ],
+      "pronunciation": {
+        "focus": "Tom do crítico",
+        "tip_pt": "Críticos em podcasts e TV usam um tom **confiante e controlado**, com pausas antes da avaliação final: \"It's an ambitious film... | and, for the most part, | a successful one.\" A ênfase recai nos **adjetivos avaliativos**.",
+        "practice": ["It's an acCOMplished, if UNeven, deBUT.", "For ALL its flaws, | it's a reMARKable achievement.", "The ENDing | never QUITE convinces."]
+      },
+      "dialogue": {
+        "title": "The film podcast",
+        "context_pt": "Dois críticos discutem um filme brasileiro (fictício) num podcast em inglês.",
+        "lines": [
+          {"speaker": "Host", "en": "Our film this week is Salt and Silence, the debut feature from Brazilian director Marina Teles. Rafael, your verdict?", "pt": "Nosso filme desta semana é Salt and Silence, o primeiro longa da diretora brasileira Marina Teles. Rafael, seu veredito?"},
+          {"speaker": "Rafael", "en": "An accomplished, if uneven, debut. The first hour is extraordinary — a quiet, beautifully observed portrait of a fishing family on the coast of Ceará.", "pt": "Uma estreia competente, ainda que irregular. A primeira hora é extraordinária — um retrato silencioso e muito bem observado de uma família de pescadores no litoral do Ceará."},
+          {"speaker": "Host", "en": "And the second hour?", "pt": "E a segunda hora?"},
+          {"speaker": "Rafael", "en": "It never quite lives up to the first. When the crime plot kicks in, it becomes rather formulaic.", "pt": "Nunca chega a corresponder à primeira. Quando a trama policial começa, fica bastante previsível."},
+          {"speaker": "Kate", "en": "I'd push back slightly. It's a slow burn, yes, but the crime story is what gives the silence its meaning. Without it, the film would risk being self-indulgent.", "pt": "Eu discordaria um pouco. Demora a engrenar, sim, mas a história do crime é o que dá sentido ao silêncio. Sem ela, o filme correria o risco de ser autoindulgente."},
+          {"speaker": "Rafael", "en": "Fair point. And the lead performance is a masterclass in restraint — she says almost nothing, and you understand everything.", "pt": "Bom argumento. E a atuação principal é uma aula de contenção — ela quase não fala, e você entende tudo."},
+          {"speaker": "Kate", "en": "Agreed. What the script lacks in originality, the performances more than make up for.", "pt": "Concordo. O que falta ao roteiro em originalidade, as atuações compensam com sobra."},
+          {"speaker": "Host", "en": "So, should our listeners go?", "pt": "Então, nossos ouvintes devem ir?"},
+          {"speaker": "Kate", "en": "Absolutely — for all its flaws, it's one of the most memorable debuts of the year.", "pt": "Com certeza — apesar de todas as falhas, é uma das estreias mais memoráveis do ano."}
+        ]
+      },
+      "listening": {
+        "title": "What makes a good critic?",
+        "context_pt": "Uma editora de cultura de um jornal fala sobre o papel da crítica.",
+        "lines": [
+          {"speaker": "Editor", "en": "People sometimes assume that a critic's job is simply to tell you whether something is good or bad. That's the least interesting part of it. A good critic does three things. First, they describe the work vividly enough that you can imagine it, without giving away what shouldn't be given away. Second, they analyse — they explain how the work achieves its effects, or why it fails to. And third, they place it in context: what is this artist trying to do, how does it relate to their earlier work, or to the tradition it belongs to? The verdict comes last, and it should feel earned. The worst reviews, in my experience, are the ones that are either entirely gushing or entirely dismissive. Real works of art are rarely perfect or worthless. Even a masterpiece has weaknesses; even a failure may contain moments of genuine brilliance. A critic's real value lies in noticing both — and in helping readers see what they might otherwise have missed."}
+        ],
+        "questions": [
+          {"q": "What is the least interesting part of a critic's job, according to the editor?", "answer": "Simply saying whether something is good or bad."},
+          {"q": "What are the three things a good critic does?", "answer": "Describe vividly, analyse how the work achieves its effects, and place it in context."},
+          {"q": "What kinds of reviews does she consider the worst?", "answer": "Entirely gushing or entirely dismissive ones."},
+          {"q": "Where does a critic's real value lie?", "answer": "In noticing both strengths and weaknesses and helping readers see what they might miss."}
+        ]
+      },
+      "reading": {
+        "title": "Review: The House of the Two Rivers",
+        "text": "(The novel reviewed below is fictional and was created for this lesson.)\n\nFew debut novels arrive with as much expectation as The House of the Two Rivers, the first book by the Manaus-born writer Helena Barros. Shortlisted for a major prize before its publication in English, it has been described by its publishers as \"the great Amazonian family saga\". It is not quite that — but it is something more interesting.\n\nThe novel follows three generations of the Andrade family, rubber merchants whose fortunes rise and fall with the boom and collapse of the trade in the late nineteenth and early twentieth centuries. At its centre is the family's crumbling mansion, built where two rivers meet, and Dona Clara, the formidable matriarch who refuses to leave it even as the city around her decays.\n\nBarros is at her best when she slows down. Her descriptions of the river at dawn, of the humid stillness of the house in the afternoon, of the small rituals of a family pretending nothing has changed, are luminous. Her prose is understated yet precise, and her use of free indirect speech allows us to inhabit Clara's mind while quietly exposing her illusions. The scenes between Clara and her granddaughter, in particular, are a masterclass in what goes unsaid.\n\nThe novel is less assured when it tries to cover too much ground. A subplot involving a foreign engineer feels heavy-handed, and the final section, which jumps abruptly to the 1970s, reads more like an epilogue than a conclusion. At over five hundred pages, the book occasionally sags, and a firmer editorial hand might have produced a tighter, more powerful novel.\n\nFor all its flaws, however, this is an accomplished and haunting debut. What it lacks in structural discipline, it more than makes up for in atmosphere, emotional intelligence and sheer beauty of language. Readers who enjoy slow, immersive fiction will find much to admire. Barros is a writer to watch; her second novel may well be a masterpiece.",
+        "questions": [
+          {"q": "How does the reviewer respond to the publisher's description?", "answer": "It's not quite \"the great Amazonian family saga\" — but something more interesting."},
+          {"q": "When is the writer \"at her best\"?", "answer": "When she slows down — in descriptions and quiet family scenes."},
+          {"q": "What weaknesses does the reviewer identify?", "answer": "A heavy-handed subplot, an abrupt final section, and occasional sagging due to length."},
+          {"q": "Who does the reviewer recommend the novel to?", "answer": "Readers who enjoy slow, immersive fiction."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Evaluative vocabulary", "instruction": "Choose the most precise word.", "instruction_pt": "Escolha a palavra mais precisa.",
+         "items": [{"prompt": "(negative: copies other works) The plot is ___ and predictable.", "options": ["derivative", "luminous", "understated"], "answer": "derivative"}, {"prompt": "(positive: subtle, not exaggerated) Her performance is beautifully ___.", "options": ["overwrought", "understated", "self-indulgent"], "answer": "understated"}, {"prompt": "(mixed: some parts good, some bad) The album is rather ___.", "options": ["uneven", "masterful", "luminous"], "answer": "uneven"}, {"prompt": "(negative: too focused on the artist's own pleasure) The three-hour director's cut feels ___.", "options": ["self-indulgent", "compelling", "assured"], "answer": "self-indulgent"}, {"prompt": "(very positive: virtuoso performance) The final chapter is a ___.", "options": ["tour de force", "slow burn", "formula"], "answer": "tour de force"}]},
+        {"id": "ex2", "type": "answer", "title": "Add nuance", "instruction": "Rewrite each opinion with the structure in brackets.", "instruction_pt": "Reescreva cada opinião com a estrutura indicada.",
+         "items": [{"prompt": "The film is ambitious but flawed. (adj, if adj)", "answer": "It's an ambitious, if flawed, film."}, {"prompt": "The book isn't original, but it's very charming. (What it lacks in...)", "answer": "What the book lacks in originality, it makes up for in charm."}, {"prompt": "Despite its flaws, it's a remarkable debut. (For all...)", "answer": "For all its flaws, it's a remarkable debut."}, {"prompt": "The series works best in its quiet moments. (at its best when)", "answer": "The series is at its best when it's quiet / in its quiet moments."}]},
+        {"id": "ex3", "type": "match", "title": "Critic's idioms", "instruction": "Write the English expression.", "instruction_pt": "Escreva a expressão em inglês.",
+         "items": [{"prompt": "algo que cresce aos poucos", "answer": "a slow burn"}, {"prompt": "não funcionar", "answer": "fall flat"}, {"prompt": "resistir ao tempo", "answer": "stand the test of time"}, {"prompt": "não corresponder às expectativas", "answer": "not live up to (expectations)"}, {"prompt": "demonstração de virtuosismo", "answer": "tour de force"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "It's an accomplished, if uneven, debut."}, {"prompt": "2", "answer": "Her performance is a masterclass in restraint."}, {"prompt": "3", "answer": "For all its flaws, it's a remarkable achievement."}, {"prompt": "4", "answer": "It's a book that will stand the test of time."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Improve the review", "instruction": "Rewrite each weak sentence from a review in C2 style.", "instruction_pt": "Reescreva cada frase fraca de uma resenha em estilo C2.",
+         "items": [{"prompt": "The film was very good and the actors were good too.", "answer": "Model: The film is compelling, and the performances are uniformly strong."}, {"prompt": "The book was boring in the middle.", "answer": "Model: The novel sags in its middle section."}, {"prompt": "The ending was bad.", "answer": "Model: The ending falls flat / never quite convinces."}, {"prompt": "It copies other films a lot.", "answer": "Model: It's frustratingly derivative."}]},
+        {"id": "ex6", "type": "order_words", "title": "Structure the review", "instruction": "Put the parts of a review in the correct order (write the letters).", "instruction_pt": "Coloque as partes de uma resenha na ordem correta (escreva as letras).",
+         "items": [{"prompt": "a) For all its flaws, this is an accomplished debut. Highly recommended. / b) The novel follows three generations of a family... / c) Few debut novels arrive with as much expectation as... / d) The novel is less assured when... / e) Barros is at her best when...", "answer": "c, b, e, d, a"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Critics' panel\": in groups of three, choose a book, film, series, album or exhibition. Each person prepares a 90-second review (context, analysis, nuance, verdict). Then discuss and agree on a joint star rating, defending your positions with precise evaluative language.",
+        "instruction_pt": "\"Painel de críticos\": em grupos de três, escolham um livro, filme, série, álbum ou exposição. Cada um prepara uma crítica de 90 segundos (contexto, análise, nuance, veredito). Depois discutam e cheguem a uma nota conjunta, defendendo suas posições com linguagem avaliativa precisa.",
+        "questions": ["Which Brazilian work deserves a bigger international audience? Why?", "Can a work be technically brilliant but emotionally empty?", "Is it fair to judge older works by today's values?", "Which overrated classic would you happily criticize?", "What will stand the test of time from the art of the last ten years?"]
+      },
+      "writing": {
+        "task": "C2 Proficiency–style review (280–320 words): \"An international cultural website has asked readers to review a book, film or album by an artist from their country that deserves to be better known abroad. Describe the work, evaluate its strengths and weaknesses, and explain why international audiences should discover it.\"",
+        "task_pt": "Review no estilo C2 Proficiency (280–320 palavras): \"Um site cultural internacional pediu aos leitores uma crítica de um livro, filme ou álbum de um artista do seu país que mereça ser mais conhecido no exterior. Descreva a obra, avalie seus pontos fortes e fracos e explique por que o público internacional deveria conhecê-la.\"",
+        "model": "Vidas Secas (Barren Lives), by Graciliano Ramos\n\nFew novels manage to say so much in so few pages. First published in 1938 and available in English as Barren Lives, Graciliano Ramos's portrait of a family of migrants fleeing drought in the Brazilian sertão is barely 150 pages long, yet it remains one of the most powerful works of Brazilian literature.\n\nThe novel follows Fabiano, his wife Sinha Vitória, their two sons and their dog, Baleia, as they wander across the parched landscape of the Northeast in search of work and water. Very little happens, in the conventional sense. The family finds shelter on an abandoned farm, endures the cruelty of a landowner and a soldier, and is eventually forced to move on again.\n\nWhat makes the book extraordinary is its form. Each chapter focuses on a different character, and Ramos uses free indirect speech to enter minds that have almost no words of their own. Fabiano struggles to express his anger; the children ask questions nobody can answer; and in the most famous chapter, the narrative enters the consciousness of the dying dog with a tenderness that is almost unbearable. Ramos's prose is spare, precise and utterly unsentimental — as dry, one might say, as the landscape it describes.\n\nThe novel is not without its challenges for international readers. Its episodic structure can feel fragmentary, and some cultural and historical references may be unfamiliar without a good introduction. Its bleakness, too, will not be to everyone's taste.\n\nFor all that, it is a masterpiece that has stood the test of time remarkably well. In an age of climate migration and growing inequality, its portrait of people driven from their land by forces beyond their control feels anything but dated. Readers who admire the restraint of writers such as Steinbeck or Coetzee will find in Ramos a kindred spirit — and a voice the world should hear far more often.\n\nRating: ★★★★★"
+      },
+      "culture_note": {
+        "title": "Brasileiros traduzidos",
+        "text_pt": "Nas últimas décadas, autores brasileiros como **Clarice Lispector**, **Machado de Assis**, **Graciliano Ramos** e escritores contemporâneos ganharam novas traduções e boa recepção crítica no mundo anglófono. Ler resenhas em inglês sobre autores brasileiros (em jornais como *The Guardian*, *The New Yorker* ou *The New York Times*) é uma ótima forma de aprender vocabulário crítico — e de ver sua cultura pelos olhos de outros."
+      },
+      "summary_pt": ["Vocabulário avaliativo: accomplished, luminous, derivative, uneven, self-indulgent, understated.", "Nuance: adj, if adj; never quite; falls short of; for all its...; what it lacks in X...", "Estrutura: gancho e contexto → resumo sem spoilers → análise → pontos fracos → veredito.", "Escreva sobre obras no presente e justifique cada avaliação com um exemplo."]
+    }
+  ],
+  "review": {
+    "intro_pt": "Revise voz narrativa, recursos sonoros, pontuação expressiva e linguagem de crítica.",
+    "exercises": [
+      {"id": "r1", "type": "multiple_choice", "title": "Choose the correct option", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+       "items": [{"prompt": "\"She closed the door. Late again. Why did he always do this?\" uses ___.", "options": ["free indirect speech", "direct speech", "indirect speech"], "answer": "free indirect speech"}, {"prompt": "\"The fire crackled\" is an example of ___.", "options": ["onomatopoeia", "alliteration", "chiasmus"], "answer": "onomatopoeia"}, {"prompt": "It was late ___ everyone had gone home.", "options": [";", ",", ":"], "answer": ";"}, {"prompt": "It's an ambitious, ___ uneven, novel.", "options": ["if", "as", "so"], "answer": "if"}, {"prompt": "When writing about a novel, use the ___.", "options": ["present", "past perfect", "future"], "answer": "present"}]},
+      {"id": "r2", "type": "correct_error", "title": "Fix the mistake", "instruction": "Correct the mistake.", "instruction_pt": "Corrija o erro.",
+       "items": [{"prompt": "I love Rio, it's my favourite city.", "answer": "I love Rio; it's my favourite city."}, {"prompt": "The results were good, however we need more data.", "answer": "The results were good; however, we need more data."}, {"prompt": "The film was very good and very interesting.", "answer": "The film was compelling and beautifully made."}]},
+      {"id": "r3", "type": "translate", "title": "Translate", "instruction": "Translate into English.", "instruction_pt": "Traduza para o inglês.",
+       "items": [{"prompt": "Ela tinha um único objetivo: vencer.", "answer": "She had one goal: to win."}, {"prompt": "Apesar de todas as falhas, é uma estreia notável.", "answer": "For all its flaws, it's a remarkable debut."}, {"prompt": "O narrador não é confiável.", "answer": "The narrator is unreliable / can't be trusted."}]},
+      {"id": "r4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence, with punctuation.", "instruction_pt": "Ouça e escreva a frase, com pontuação.",
+       "items": [{"prompt": "1", "answer": "He said yes — eventually."}, {"prompt": "2", "answer": "Shall I compare thee to a summer's day?"}, {"prompt": "3", "answer": "Her performance is a masterclass in restraint."}]},
+      {"id": "r5", "type": "answer", "title": "Rewrite with style", "instruction": "Rewrite the passage using free indirect speech, a dash and a short fragment for impact.", "instruction_pt": "Reescreva o trecho usando discurso indireto livre, um travessão e um fragmento curto de impacto.",
+       "items": [{"prompt": "Marta thought, \"He's not coming. I've waited for two hours.\" She left the café.", "answer": "Model: He wasn't coming. Two hours she had waited — two whole hours. Enough. Marta picked up her bag and left the café."}]}
+    ],
+    "speaking_pt": "Grave um episódio de 5 minutos de um \"literary podcast\": leia em voz alta um trecho curto (de domínio público ou escrito por você) com atenção ao ritmo e à pontuação, analise a voz narrativa e os recursos sonoros e termine com uma minicrítica com nuance e recomendação.",
+    "speaking_questions": ["Which book changed the way you see the world?", "Is it better to read literature in the original language?", "What makes a sentence beautiful?", "Can you recognize a writer by their style alone?", "Which Brazilian writer should the world read next?"],
+    "project_pt": "**\"Literary magazine\":** a turma produz uma revista literária digital com (1) um conto curto com discurso indireto livre, (2) um poema falado gravado em áudio, (3) um ensaio de 300 palavras sobre pontuação e estilo de um autor e (4) duas resenhas no formato C2. Façam uma \"noite de lançamento\" com leituras em voz alta."
+  }
+}

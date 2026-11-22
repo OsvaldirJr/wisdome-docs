@@ -1,0 +1,2106 @@
+{
+  "id": "A1-M5",
+  "level": "A1",
+  "title": "Me and My People",
+  "theme_pt": "Família, aparência, objetos e profissões",
+  "can_do": [
+    "Apresentar os membros da minha família",
+    "Descrever pessoas com adjetivos simples",
+    "Identificar e perguntar sobre objetos",
+    "Dizer minha profissão e perguntar a de outra pessoa"
+  ],
+  "lessons": [
+    {
+      "id": "A1-M5-L1",
+      "title": "Meet my family",
+      "subtitle_pt": "Família e o possessivo 's",
+      "duration_min": 50,
+      "source_refs": [
+        "To Go A1 – Lesson 5 (members of the family)",
+        "StartUp 1 – Unit 2 (family)"
+      ],
+      "objectives": [
+        "Nomear os membros da família",
+        "Usar o 's para indicar posse",
+        "Perguntar Who is...?",
+        "Descrever uma foto de família"
+      ],
+      "warmup": {
+        "text_pt": "Abra a galeria do seu celular e escolha uma foto com a sua família ou amigos. Você vai descrevê-la em inglês no final da aula!",
+        "questions": [
+          "Is your family big or small?",
+          "Who is in your favorite photo?"
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "mother / mom",
+          "pt": "mãe",
+          "say": "mâder / mám"
+        },
+        {
+          "en": "father / dad",
+          "pt": "pai",
+          "say": "fáder / déd"
+        },
+        {
+          "en": "parents",
+          "pt": "pais (pai e mãe)",
+          "say": "pérents"
+        },
+        {
+          "en": "sister / brother",
+          "pt": "irmã / irmão",
+          "say": "síster / brâder"
+        },
+        {
+          "en": "son / daughter",
+          "pt": "filho / filha",
+          "say": "sân / dórer"
+        },
+        {
+          "en": "children / kids",
+          "pt": "filhos / crianças",
+          "say": "tchíldren / kids"
+        },
+        {
+          "en": "husband / wife",
+          "pt": "marido / esposa",
+          "say": "râzband / uáif"
+        },
+        {
+          "en": "grandmother / grandfather",
+          "pt": "avó / avô",
+          "say": "grénmâder / grénfáder"
+        },
+        {
+          "en": "aunt / uncle",
+          "pt": "tia / tio",
+          "say": "ént / ânkol"
+        },
+        {
+          "en": "cousin",
+          "pt": "primo(a)",
+          "say": "kâzin"
+        },
+        {
+          "en": "niece / nephew",
+          "pt": "sobrinha / sobrinho",
+          "say": "nís / néfiu"
+        },
+        {
+          "en": "boyfriend / girlfriend",
+          "pt": "namorado / namorada",
+          "say": "bóifrend / gârlfrend"
+        },
+        {
+          "en": "partner",
+          "pt": "parceiro(a), companheiro(a)",
+          "say": "pártner"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "Who's this?",
+          "pt": "Quem é este(a)?"
+        },
+        {
+          "en": "This is my mom.",
+          "pt": "Esta é minha mãe."
+        },
+        {
+          "en": "Do you have brothers or sisters?",
+          "pt": "Você tem irmãos?"
+        },
+        {
+          "en": "I'm an only child.",
+          "pt": "Sou filho(a) único(a)."
+        },
+        {
+          "en": "My sister's name is Clara.",
+          "pt": "O nome da minha irmã é Clara."
+        }
+      ],
+      "grammar": {
+        "title": "Possessive 's",
+        "explanation_pt": "Para dizer **de quem é** algo, o inglês usa **'s** depois do dono. A ordem é o contrário do português:\n\n**o carro do João** → **João's car**\n**a mãe da Bia** → **Bia's mother**\n\nSe o dono está no plural e termina em -s, coloque só o apóstrofo: **my parents' house** (a casa dos meus pais).",
+        "table": {
+          "headers": [
+            "Português",
+            "Inglês"
+          ],
+          "rows": [
+            [
+              "o irmão da Ana",
+              "Ana's brother"
+            ],
+            [
+              "o celular do meu pai",
+              "my father's phone"
+            ],
+            [
+              "a casa dos meus avós",
+              "my grandparents' house"
+            ],
+            [
+              "o nome da minha esposa",
+              "my wife's name"
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "Who's Paulo? He's Maria's husband.",
+            "pt": "Quem é o Paulo? Ele é o marido da Maria."
+          },
+          {
+            "en": "My uncle's dog is very funny.",
+            "pt": "O cachorro do meu tio é muito engraçado."
+          },
+          {
+            "en": "This is my parents' car.",
+            "pt": "Este é o carro dos meus pais."
+          }
+        ],
+        "tip_pt": "Cuidado: **'s** pode ser **is** (He's = He is) ou posse (Ana's = da Ana). O contexto mostra a diferença."
+      },
+      "common_mistakes": [
+        {
+          "wrong": "the car of my father",
+          "right": "my father's car",
+          "why_pt": "Para pessoas, use 's. \"The car of...\" soa estranho."
+        },
+        {
+          "wrong": "My parents is from Bahia.",
+          "right": "My parents are from Bahia.",
+          "why_pt": "Parents é plural (pai e mãe)."
+        },
+        {
+          "wrong": "I have two brothers. (querendo dizer 1 irmão e 1 irmã)",
+          "right": "I have a brother and a sister. / I have two siblings.",
+          "why_pt": "Brothers são só irmãos homens. Para misturar, use siblings."
+        }
+      ],
+      "pronunciation": {
+        "focus": "O som de TH em mother, father, brother",
+        "tip_pt": "O **TH** de mo**th**er não existe em português. Coloque a ponta da língua entre os dentes e vibre, como um \"d\" suave. Não diga \"mâzer\" nem \"mâder\" com d forte.",
+        "practice": [
+          "mother · father · brother",
+          "This is my brother.",
+          "They're with their grandfather."
+        ]
+      },
+      "dialogue": {
+        "title": "Family photo",
+        "context_pt": "Camila mostra fotos da festa de aniversário da avó para uma amiga do trabalho.",
+        "lines": [
+          {
+            "speaker": "Jess",
+            "en": "What a nice photo! Who's this?",
+            "pt": "Que foto linda! Quem é esta?"
+          },
+          {
+            "speaker": "Camila",
+            "en": "That's my grandmother. It's her 80th birthday!",
+            "pt": "É a minha avó. É o aniversário de 80 anos dela!"
+          },
+          {
+            "speaker": "Jess",
+            "en": "Wow! And who's the man with the cake?",
+            "pt": "Uau! E quem é o homem com o bolo?"
+          },
+          {
+            "speaker": "Camila",
+            "en": "He's my uncle Beto. He's my mom's brother.",
+            "pt": "É o meu tio Beto. Ele é irmão da minha mãe."
+          },
+          {
+            "speaker": "Jess",
+            "en": "And the kids?",
+            "pt": "E as crianças?"
+          },
+          {
+            "speaker": "Camila",
+            "en": "They're my cousins, Leo and Sofia. Beto's children.",
+            "pt": "São meus primos, Leo e Sofia. Os filhos do Beto."
+          },
+          {
+            "speaker": "Jess",
+            "en": "Big family! Do you have brothers or sisters?",
+            "pt": "Família grande! Você tem irmãos?"
+          },
+          {
+            "speaker": "Camila",
+            "en": "No, I'm an only child.",
+            "pt": "Não, sou filha única."
+          }
+        ]
+      },
+      "reading": {
+        "title": "A modern family",
+        "text": "Hi, I'm Gabriel. My family is small but special. My mom's name is Renata. She's a nurse. My stepfather is Carlos. He's from Uruguay. My dad, Marcelo, lives in Lisbon with his wife, Inês, and their baby, Tomás. Tomás is my half-brother! I also have a dog, Pipoca. She's part of the family, too.",
+        "questions": [
+          {
+            "q": "What's Gabriel's mother's name?",
+            "answer": "Renata."
+          },
+          {
+            "q": "Who is Carlos?",
+            "answer": "He's Gabriel's stepfather."
+          },
+          {
+            "q": "Where is Gabriel's dad?",
+            "answer": "He's in Lisbon."
+          },
+          {
+            "q": "Who is Tomás?",
+            "answer": "He's Gabriel's half-brother (Marcelo and Inês's baby)."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "fill_blank",
+          "title": "Complete a família",
+          "instruction_pt": "Complete com a palavra correta.",
+          "items": [
+            {
+              "prompt": "My mother's mother is my ___.",
+              "answer": "grandmother"
+            },
+            {
+              "prompt": "My father's brother is my ___.",
+              "answer": "uncle"
+            },
+            {
+              "prompt": "My uncle's son is my ___.",
+              "answer": "cousin"
+            },
+            {
+              "prompt": "My sister's daughter is my ___.",
+              "answer": "niece"
+            },
+            {
+              "prompt": "My mother and father are my ___.",
+              "answer": "parents"
+            }
+          ],
+          "instruction": "Complete with the correct word."
+        },
+        {
+          "id": "ex2",
+          "type": "translate",
+          "title": "Use o 's",
+          "instruction_pt": "Reescreva usando o possessivo 's.",
+          "items": [
+            {
+              "prompt": "o cachorro da Júlia",
+              "answer": "Júlia's dog"
+            },
+            {
+              "prompt": "o marido da minha irmã",
+              "answer": "my sister's husband"
+            },
+            {
+              "prompt": "a casa dos meus pais",
+              "answer": "my parents' house"
+            },
+            {
+              "prompt": "o nome do meu filho",
+              "answer": "my son's name"
+            }
+          ],
+          "instruction": "Rewrite using the possessive 's."
+        },
+        {
+          "id": "ex3",
+          "type": "true_false",
+          "title": "Leitura",
+          "instruction_pt": "Releia o texto \"A modern family\" e marque True ou False.",
+          "items": [
+            {
+              "prompt": "Gabriel's mother is a doctor.",
+              "answer": false
+            },
+            {
+              "prompt": "Carlos is from Uruguay.",
+              "answer": true
+            },
+            {
+              "prompt": "Inês is Gabriel's mother.",
+              "answer": false
+            },
+            {
+              "prompt": "Pipoca is a dog.",
+              "answer": true
+            }
+          ],
+          "instruction": "Read \"A modern family\" again. True or False?"
+        },
+        {
+          "id": "ex4",
+          "type": "dictation",
+          "title": "Dictation",
+          "instruction": "Listen and write the sentence.",
+          "instruction_pt": "Ouça e escreva a frase.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "This is my mom."
+            },
+            {
+              "prompt": "2",
+              "answer": "My sister's name is Clara."
+            },
+            {
+              "prompt": "3",
+              "answer": "I'm an only child."
+            },
+            {
+              "prompt": "4",
+              "answer": "Who's this?"
+            }
+          ]
+        },
+        {
+          "id": "ex5",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the mistake.",
+          "instruction_pt": "Encontre e corrija o erro.",
+          "items": [
+            {
+              "prompt": "the car of my father",
+              "answer": "my father's car"
+            },
+            {
+              "prompt": "My parents is from Goiás.",
+              "answer": "My parents are from Goiás."
+            },
+            {
+              "prompt": "This is the house of my grandparents.",
+              "answer": "This is my grandparents' house."
+            },
+            {
+              "prompt": "Ana brother is a doctor.",
+              "answer": "Ana's brother is a doctor."
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "fill_blank",
+          "title": "Complete the dialogue",
+          "instruction": "Complete with: who's · cousin · aunt · only · brothers.",
+          "instruction_pt": "Complete o diálogo.",
+          "items": [
+            {
+              "prompt": "A: ___ the woman in the photo?",
+              "answer": "Who's"
+            },
+            {
+              "prompt": "B: She's my ___, my dad's sister.",
+              "answer": "aunt"
+            },
+            {
+              "prompt": "A: And the boy? — B: He's her son, my ___.",
+              "answer": "cousin"
+            },
+            {
+              "prompt": "A: Do you have ___ or sisters? — B: No, I'm an ___ child.",
+              "answer": "brothers / only"
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction_pt": "Mostre a foto que você escolheu no warm-up e descreva-a. Depois responda:",
+        "questions": [
+          "Who's in the photo?",
+          "Do you have brothers or sisters? What are their names?",
+          "Where are your parents from?",
+          "Who is your favorite cousin?",
+          "Do you have a pet? What's its name?"
+        ],
+        "instruction": "Show the photo you chose in the warm-up and describe it. Then answer:"
+      },
+      "writing": {
+        "task_pt": "Escreva uma legenda de post para uma foto de família (4 a 5 frases).",
+        "model": "Sunday lunch at my grandparents' house! ❤️\nThat's my grandma, Dona Lúcia. She's 85!\nThe guy in the blue shirt is my brother, Caio.\nThe girl with him is his girlfriend, Mel.\n#family #sunday",
+        "task": "Write a caption for a family photo post (4 to 5 sentences)."
+      },
+      "culture_note": {
+        "title": "Famílias modernas",
+        "text_pt": "O inglês tem palavras para todo tipo de família: **stepmother/stepfather** (madrasta/padrasto), **half-brother/half-sister** (meio-irmão), **in-laws** (sogros e cunhados: mother-in-law, brother-in-law) e **partner**, neutro para qualquer relacionamento."
+      },
+      "summary_pt": [
+        "Posse: dono + 's + coisa (Ana's car).",
+        "Plural com s: parents' house.",
+        "Siblings = irmãos e irmãs.",
+        "Use partner para companheiro(a) em geral."
+      ],
+      "listening": {
+        "title": "Family video call",
+        "context_pt": "Durante uma chamada de vídeo, Luiza apresenta a família para o namorado inglês.",
+        "lines": [
+          {
+            "speaker": "Luiza",
+            "en": "OK, Ben, this is my family! The woman in the red shirt is my mom, Vera."
+          },
+          {
+            "speaker": "Ben",
+            "en": "Hi, Vera! And who's the man with glasses?"
+          },
+          {
+            "speaker": "Luiza",
+            "en": "That's my uncle Marcos, my mom's brother. The two kids are his children, Pietro and Lia."
+          },
+          {
+            "speaker": "Ben",
+            "en": "And your dad?"
+          },
+          {
+            "speaker": "Luiza",
+            "en": "My dad isn't here. He's at work. But my grandmother is here — she's ninety!"
+          }
+        ],
+        "questions": [
+          {
+            "q": "Who is Vera?",
+            "answer": "Luiza's mom."
+          },
+          {
+            "q": "Who is Marcos?",
+            "answer": "Luiza's uncle (her mom's brother)."
+          },
+          {
+            "q": "Who are Pietro and Lia?",
+            "answer": "Marcos's children (Luiza's cousins)."
+          },
+          {
+            "q": "Where is Luiza's dad?",
+            "answer": "At work."
+          }
+        ]
+      }
+    },
+    {
+      "id": "A1-M5-L2",
+      "title": "What's she like?",
+      "subtitle_pt": "Descrevendo pessoas com adjetivos",
+      "duration_min": 50,
+      "source_refs": [
+        "To Go A1 – Lesson 8 (adjectives)",
+        "To Go A2 – Lessons 1-2 (adjectives with to be)"
+      ],
+      "objectives": [
+        "Descrever aparência e personalidade",
+        "Usar be + adjetivo",
+        "Usar very, really, a little, not very",
+        "Entender a ordem adjetivo + substantivo"
+      ],
+      "warmup": {
+        "text_pt": "Pense em três palavras que descrevem você. Seus amigos concordariam?",
+        "questions": [
+          "Are you a morning person or a night person?",
+          "Describe your best friend in one word."
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "tall / short",
+          "pt": "alto / baixo",
+          "say": "tól / shórt"
+        },
+        {
+          "en": "young / old",
+          "pt": "jovem / velho",
+          "say": "iâng / ôuld"
+        },
+        {
+          "en": "friendly",
+          "pt": "simpático(a)",
+          "say": "fréndli"
+        },
+        {
+          "en": "funny",
+          "pt": "engraçado(a)",
+          "say": "fâni"
+        },
+        {
+          "en": "smart",
+          "pt": "inteligente",
+          "say": "smárt"
+        },
+        {
+          "en": "kind",
+          "pt": "gentil, bondoso(a)",
+          "say": "káind"
+        },
+        {
+          "en": "shy",
+          "pt": "tímido(a)",
+          "say": "shái"
+        },
+        {
+          "en": "lazy / hardworking",
+          "pt": "preguiçoso / trabalhador",
+          "say": "lêizi / rárduórkin"
+        },
+        {
+          "en": "quiet / talkative",
+          "pt": "quieto / falante",
+          "say": "kuáiet / tókativ"
+        },
+        {
+          "en": "curly / straight hair",
+          "pt": "cabelo cacheado / liso",
+          "say": "kârli / strêit rér"
+        },
+        {
+          "en": "beard",
+          "pt": "barba",
+          "say": "bírd"
+        },
+        {
+          "en": "glasses",
+          "pt": "óculos",
+          "say": "gléssiz"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "What's she like?",
+          "pt": "Como ela é? (personalidade)"
+        },
+        {
+          "en": "What does he look like?",
+          "pt": "Como ele é? (aparência)"
+        },
+        {
+          "en": "She's really nice.",
+          "pt": "Ela é muito legal."
+        },
+        {
+          "en": "He's a little shy.",
+          "pt": "Ele é um pouco tímido."
+        },
+        {
+          "en": "He has short, curly hair.",
+          "pt": "Ele tem cabelo curto e cacheado."
+        }
+      ],
+      "grammar": {
+        "title": "Be + adjetivo e adjetivo + substantivo",
+        "explanation_pt": "Em inglês, o adjetivo **não muda**: não tem plural nem feminino. **tall** serve para \"alto, alta, altos, altas\".\n\nO adjetivo vem **antes** do substantivo: **a smart girl** (uma menina inteligente), **funny friends** (amigos engraçados).\n\nPara intensificar: **very / really** (muito), **a little** (um pouco), **not very** (não muito — mais educado que dizer o negativo direto!).",
+        "table": {
+          "headers": [
+            "Estrutura",
+            "Exemplo",
+            "Português"
+          ],
+          "rows": [
+            [
+              "be + adj",
+              "My dad is tall.",
+              "Meu pai é alto."
+            ],
+            [
+              "adj + noun",
+              "He's a tall man.",
+              "Ele é um homem alto."
+            ],
+            [
+              "very/really + adj",
+              "She's really funny.",
+              "Ela é muito engraçada."
+            ],
+            [
+              "a little + adj",
+              "I'm a little tired.",
+              "Estou um pouco cansado."
+            ],
+            [
+              "not very + adj",
+              "He isn't very friendly.",
+              "Ele não é muito simpático."
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "My cousins are very talkative.",
+            "pt": "Meus primos são muito falantes."
+          },
+          {
+            "en": "She has long, straight hair.",
+            "pt": "Ela tem cabelo longo e liso."
+          },
+          {
+            "en": "Our boss isn't very patient.",
+            "pt": "Nosso chefe não é muito paciente."
+          }
+        ],
+        "tip_pt": "**Have/has** é para características físicas: \"She **has** blue eyes\". **Be** é para descrever: \"She **is** tall\"."
+      },
+      "common_mistakes": [
+        {
+          "wrong": "They are talls.",
+          "right": "They are tall.",
+          "why_pt": "Adjetivos não vão para o plural."
+        },
+        {
+          "wrong": "a girl smart",
+          "right": "a smart girl",
+          "why_pt": "O adjetivo vem antes do substantivo."
+        },
+        {
+          "wrong": "She is very sympathetic. (querendo dizer simpática)",
+          "right": "She is very friendly / nice.",
+          "why_pt": "Sympathetic é \"solidário, compreensivo\". É um falso cognato!"
+        }
+      ],
+      "pronunciation": {
+        "focus": "Final de palavras sem \"i\" extra",
+        "tip_pt": "Brasileiros tendem a colocar um \"i\" no final das palavras: **smart** vira \"smárti\", **kind** vira \"káindi\". Termine a palavra com a língua parada na última consoante.",
+        "practice": [
+          "smart (não 'smárti')",
+          "kind (não 'káindi')",
+          "He's a smart, kind friend."
+        ]
+      },
+      "dialogue": {
+        "title": "A new roommate",
+        "context_pt": "Duda vai dividir apartamento e pergunta para a amiga sobre a nova colega de quarto.",
+        "lines": [
+          {
+            "speaker": "Duda",
+            "en": "So, what's your friend Nina like?",
+            "pt": "Então, como é sua amiga Nina?"
+          },
+          {
+            "speaker": "Lia",
+            "en": "She's really nice. A little quiet, but very funny.",
+            "pt": "Ela é muito legal. Um pouco quieta, mas muito engraçada."
+          },
+          {
+            "speaker": "Duda",
+            "en": "Is she messy?",
+            "pt": "Ela é bagunceira?"
+          },
+          {
+            "speaker": "Lia",
+            "en": "No, she isn't. She's super organized!",
+            "pt": "Não. Ela é super organizada!"
+          },
+          {
+            "speaker": "Duda",
+            "en": "Great! What does she look like?",
+            "pt": "Ótimo! Como ela é fisicamente?"
+          },
+          {
+            "speaker": "Lia",
+            "en": "She's tall and she has short, curly hair. And she has glasses.",
+            "pt": "Ela é alta e tem cabelo curto e cacheado. E usa óculos."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Find a study buddy",
+        "text": "Study buddy wanted! 📚 I'm Henrique, 26, from Brasília. I'm a hardworking student, but I'm a little shy when I speak English. I'm friendly and patient. I'm looking for a talkative person to practice conversation online twice a week. Interested? Send me a message!",
+        "questions": [
+          {
+            "q": "Is Henrique lazy?",
+            "answer": "No, he isn't. He's hardworking."
+          },
+          {
+            "q": "Is he shy?",
+            "answer": "Yes, a little (when he speaks English)."
+          },
+          {
+            "q": "What kind of person is he looking for?",
+            "answer": "A talkative person."
+          },
+          {
+            "q": "Describe Henrique with two adjectives.",
+            "answer": "Friendly and patient (ou hardworking, shy)."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "match",
+          "title": "Opostos",
+          "instruction_pt": "Escreva o oposto de cada adjetivo.",
+          "items": [
+            {
+              "prompt": "tall",
+              "answer": "short"
+            },
+            {
+              "prompt": "young",
+              "answer": "old"
+            },
+            {
+              "prompt": "lazy",
+              "answer": "hardworking"
+            },
+            {
+              "prompt": "quiet",
+              "answer": "talkative"
+            },
+            {
+              "prompt": "curly (hair)",
+              "answer": "straight"
+            }
+          ],
+          "instruction": "Write the opposite of each adjective."
+        },
+        {
+          "id": "ex2",
+          "type": "order_words",
+          "title": "Ordem das palavras",
+          "instruction_pt": "Organize as palavras para formar frases.",
+          "items": [
+            {
+              "prompt": "friend / is / funny / my / a / she",
+              "answer": "She is my funny friend. / She's a funny friend."
+            },
+            {
+              "prompt": "very / isn't / he / tall",
+              "answer": "He isn't very tall."
+            },
+            {
+              "prompt": "hair / has / long / she",
+              "answer": "She has long hair."
+            },
+            {
+              "prompt": "little / I'm / shy / a",
+              "answer": "I'm a little shy."
+            }
+          ],
+          "instruction": "Put the words in order to make sentences."
+        },
+        {
+          "id": "ex3",
+          "type": "multiple_choice",
+          "title": "Be ou have?",
+          "instruction_pt": "Escolha is ou has.",
+          "items": [
+            {
+              "prompt": "My brother ___ a beard.",
+              "options": [
+                "is",
+                "has"
+              ],
+              "answer": "has"
+            },
+            {
+              "prompt": "My brother ___ very tall.",
+              "options": [
+                "is",
+                "has"
+              ],
+              "answer": "is"
+            },
+            {
+              "prompt": "She ___ green eyes.",
+              "options": [
+                "is",
+                "has"
+              ],
+              "answer": "has"
+            },
+            {
+              "prompt": "She ___ smart and kind.",
+              "options": [
+                "is",
+                "has"
+              ],
+              "answer": "is"
+            }
+          ],
+          "instruction": "Choose is or has."
+        },
+        {
+          "id": "ex4",
+          "type": "dictation",
+          "title": "Dictation",
+          "instruction": "Listen and write the sentence.",
+          "instruction_pt": "Ouça e escreva a frase.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "She's really nice."
+            },
+            {
+              "prompt": "2",
+              "answer": "He's a little shy."
+            },
+            {
+              "prompt": "3",
+              "answer": "What does he look like?"
+            },
+            {
+              "prompt": "4",
+              "answer": "She has long, straight hair."
+            }
+          ]
+        },
+        {
+          "id": "ex5",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the mistake.",
+          "instruction_pt": "Encontre e corrija o erro.",
+          "items": [
+            {
+              "prompt": "My friends are talls.",
+              "answer": "My friends are tall."
+            },
+            {
+              "prompt": "She's a girl smart.",
+              "answer": "She's a smart girl."
+            },
+            {
+              "prompt": "He is a beard.",
+              "answer": "He has a beard."
+            },
+            {
+              "prompt": "She's very sympathetic with everyone. (= friendly)",
+              "answer": "She's very friendly with everyone."
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "fill_blank",
+          "title": "Complete the dialogue",
+          "instruction": "Complete with: like · look · has · very · isn't.",
+          "instruction_pt": "Complete o diálogo.",
+          "items": [
+            {
+              "prompt": "A: What's your new boss ___?",
+              "answer": "like"
+            },
+            {
+              "prompt": "B: She's ___ friendly and smart.",
+              "answer": "very"
+            },
+            {
+              "prompt": "A: What does she ___ like?",
+              "answer": "look"
+            },
+            {
+              "prompt": "B: She's tall and she ___ short hair. She ___ very old — she's 35.",
+              "answer": "has / isn't"
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction_pt": "Responda com pelo menos duas frases para cada pergunta.",
+        "questions": [
+          "What are you like?",
+          "What does your best friend look like?",
+          "Who is the funniest person in your family?",
+          "Are you talkative in English? And in Portuguese?",
+          "Describe a famous person. Can your partner guess who it is?"
+        ],
+        "instruction": "Answer with at least two sentences for each question."
+      },
+      "writing": {
+        "task_pt": "Escreva um anúncio procurando um \"study buddy\" ou um \"roommate\", descrevendo você e a pessoa ideal.",
+        "model": "Roommate wanted!\nI'm Bia, 30. I'm quiet and organized. I'm not very talkative in the morning! ☕\nI'm looking for a friendly, clean person. No smokers, please.",
+        "task": "Write an ad looking for a \"study buddy\" or a \"roommate\", describing you and the ideal person."
+      },
+      "culture_note": {
+        "title": "Seja gentil: use \"not very\"",
+        "text_pt": "Falantes nativos evitam adjetivos negativos diretos. Em vez de \"He's ugly\" ou \"She's rude\", é mais comum dizer **\"He isn't very good-looking\"** ou **\"She isn't very friendly\"**. Soa muito mais educado."
+      },
+      "summary_pt": [
+        "Adjetivos não têm plural nem gênero.",
+        "Ordem: adjetivo + substantivo.",
+        "What's she like? (personalidade) x What does she look like? (aparência).",
+        "Sympathetic ≠ simpático!"
+      ],
+      "listening": {
+        "title": "Lost child at the mall",
+        "context_pt": "Um pai descreve o filho perdido para um segurança do shopping.",
+        "lines": [
+          {
+            "speaker": "Guard",
+            "en": "OK, sir, stay calm. What does your son look like?"
+          },
+          {
+            "speaker": "Father",
+            "en": "He's six. He's short and he has short, curly hair."
+          },
+          {
+            "speaker": "Guard",
+            "en": "What color is his hair?"
+          },
+          {
+            "speaker": "Father",
+            "en": "Black. And he has glasses. His T-shirt is blue."
+          },
+          {
+            "speaker": "Guard",
+            "en": "Is he shy?"
+          },
+          {
+            "speaker": "Father",
+            "en": "No, he's very talkative! His name is Gael."
+          },
+          {
+            "speaker": "Guard",
+            "en": "Good news — he's at the information desk. He's fine!"
+          }
+        ],
+        "questions": [
+          {
+            "q": "How old is the boy?",
+            "answer": "He's six."
+          },
+          {
+            "q": "What does his hair look like?",
+            "answer": "Short, curly and black."
+          },
+          {
+            "q": "What color is his T-shirt?",
+            "answer": "Blue."
+          },
+          {
+            "q": "Is he shy?",
+            "answer": "No, he isn't. He's very talkative."
+          }
+        ]
+      }
+    },
+    {
+      "id": "A1-M5-L3",
+      "title": "What's this?",
+      "subtitle_pt": "This, that, these, those e plurais",
+      "duration_min": 50,
+      "source_refs": [
+        "To Go A1 – Lesson 8 (demonstrative pronouns)",
+        "StartUp 1 – Unit 9 (this/that/these/those)"
+      ],
+      "objectives": [
+        "Identificar objetos do dia a dia",
+        "Usar this, that, these e those",
+        "Formar o plural dos substantivos",
+        "Usar a / an"
+      ],
+      "warmup": {
+        "text_pt": "Olhe ao seu redor. Quantos objetos você consegue nomear em inglês em 30 segundos?",
+        "questions": [
+          "What's in your bag right now?",
+          "What's on your desk?"
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "phone / cell phone",
+          "pt": "celular",
+          "say": "fôun / sél fôun"
+        },
+        {
+          "en": "charger",
+          "pt": "carregador",
+          "say": "tchárdjer"
+        },
+        {
+          "en": "headphones / earbuds",
+          "pt": "fones de ouvido",
+          "say": "rédfôunz / írbâdz"
+        },
+        {
+          "en": "laptop",
+          "pt": "notebook",
+          "say": "léptop"
+        },
+        {
+          "en": "wallet",
+          "pt": "carteira",
+          "say": "uólet"
+        },
+        {
+          "en": "keys",
+          "pt": "chaves",
+          "say": "kíz"
+        },
+        {
+          "en": "water bottle",
+          "pt": "garrafa de água",
+          "say": "uórer bárol"
+        },
+        {
+          "en": "notebook",
+          "pt": "caderno",
+          "say": "nôutbuk"
+        },
+        {
+          "en": "umbrella",
+          "pt": "guarda-chuva",
+          "say": "âmbréla"
+        },
+        {
+          "en": "sunglasses",
+          "pt": "óculos de sol",
+          "say": "sânglésiz"
+        },
+        {
+          "en": "backpack",
+          "pt": "mochila",
+          "say": "békpek"
+        },
+        {
+          "en": "watch",
+          "pt": "relógio (de pulso)",
+          "say": "uátch"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "What's this in English?",
+          "pt": "Como se diz isto em inglês?"
+        },
+        {
+          "en": "Is this your charger?",
+          "pt": "Este é o seu carregador?"
+        },
+        {
+          "en": "Are these your keys?",
+          "pt": "Estas são suas chaves?"
+        },
+        {
+          "en": "That's mine!",
+          "pt": "Aquilo é meu!"
+        },
+        {
+          "en": "I don't know.",
+          "pt": "Eu não sei."
+        }
+      ],
+      "grammar": {
+        "title": "This / that / these / those + plurais",
+        "explanation_pt": "Use **this** (este/esta/isto) e **these** (estes/estas) para coisas **perto** de você. Use **that** (aquele/aquilo/esse) e **those** (aqueles/esses) para coisas **longe**.\n\n**Plural:** em geral, adicione **-s** (key → keys). Palavras terminadas em **s, sh, ch, x** ganham **-es** (watch → watches). Consoante + **y** vira **-ies** (city → cities). Alguns são irregulares: man → men, woman → women, child → children, person → people.\n\n**A / an:** use **an** antes de som de vogal: an umbrella, an apple, **an hour** (o h é mudo). Use **a** antes de som de consoante: a laptop, **a university** (som de \"iú\").",
+        "table": {
+          "headers": [
+            "",
+            "Perto",
+            "Longe"
+          ],
+          "rows": [
+            [
+              "Singular",
+              "this phone",
+              "that phone"
+            ],
+            [
+              "Plural",
+              "these phones",
+              "those phones"
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "Is this your wallet? Yes, it is. Thanks!",
+            "pt": "Esta carteira é sua? Sim. Obrigado!"
+          },
+          {
+            "en": "Those people are my coworkers.",
+            "pt": "Aquelas pessoas são meus colegas de trabalho."
+          },
+          {
+            "en": "These earbuds are new.",
+            "pt": "Estes fones são novos."
+          }
+        ],
+        "tip_pt": "Na resposta, troque por it/they: \"Is this your bag?\" → \"Yes, **it** is.\" / \"Are these your keys?\" → \"Yes, **they** are.\""
+      },
+      "common_mistakes": [
+        {
+          "wrong": "This keys are mine.",
+          "right": "These keys are mine.",
+          "why_pt": "Plural pede these/those."
+        },
+        {
+          "wrong": "a umbrella / a hour",
+          "right": "an umbrella / an hour",
+          "why_pt": "An vem antes de som de vogal, mesmo que a letra seja h mudo."
+        },
+        {
+          "wrong": "I need a new notebook. (querendo dizer computador)",
+          "right": "I need a new laptop.",
+          "why_pt": "Em inglês, notebook é principalmente caderno. Computador portátil é laptop."
+        }
+      ],
+      "pronunciation": {
+        "focus": "This (/ɪ/ curto) x These (/i:/ longo)",
+        "tip_pt": "A diferença está na vogal: **this** tem um \"i\" curto e relaxado (quase \"dés\"); **these** tem um \"i\" longo e sorridente (\"díiz\"). Mesma regra em **ship** x **sheep**, **live** x **leave**.",
+        "practice": [
+          "this — these",
+          "Is this your phone?",
+          "Are these your keys?"
+        ]
+      },
+      "dialogue": {
+        "title": "Lost and found",
+        "context_pt": "Depois de uma reunião, a gerente encontra objetos esquecidos na sala.",
+        "lines": [
+          {
+            "speaker": "Manager",
+            "en": "Hey, everyone! Is this your charger, Tiago?",
+            "pt": "Ei, pessoal! Tiago, este carregador é seu?"
+          },
+          {
+            "speaker": "Tiago",
+            "en": "No, it isn't. My charger is white.",
+            "pt": "Não. Meu carregador é branco."
+          },
+          {
+            "speaker": "Manager",
+            "en": "OK. And are these your sunglasses?",
+            "pt": "OK. E estes óculos de sol são seus?"
+          },
+          {
+            "speaker": "Tiago",
+            "en": "Yes, they are! Thank you!",
+            "pt": "Sim, são! Obrigado!"
+          },
+          {
+            "speaker": "Manager",
+            "en": "And what's that on the chair?",
+            "pt": "E o que é aquilo na cadeira?"
+          },
+          {
+            "speaker": "Rosa",
+            "en": "Oh, that's my umbrella. And those keys are mine, too. Sorry!",
+            "pt": "Ah, aquilo é meu guarda-chuva. E aquelas chaves também são minhas. Desculpe!"
+          }
+        ]
+      },
+      "reading": {
+        "title": "What's in my bag?",
+        "text": "Hi, guys! Welcome to my channel. Today: what's in my bag! This is my laptop — it's old but it's OK. These are my earbuds. They're new and they're amazing. This is my water bottle — I drink a lot of water! And these are my keys, my wallet and... oh, three chargers! Why?! 😂",
+        "questions": [
+          {
+            "q": "Is the laptop new?",
+            "answer": "No, it isn't. It's old."
+          },
+          {
+            "q": "What does she say about the earbuds?",
+            "answer": "They're new and amazing."
+          },
+          {
+            "q": "How many chargers are in the bag?",
+            "answer": "Three."
+          },
+          {
+            "q": "Find two plurals in the text.",
+            "answer": "earbuds, keys, chargers"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "answer",
+          "title": "Plurais",
+          "instruction_pt": "Escreva o plural.",
+          "items": [
+            {
+              "prompt": "watch",
+              "answer": "watches"
+            },
+            {
+              "prompt": "city",
+              "answer": "cities"
+            },
+            {
+              "prompt": "person",
+              "answer": "people"
+            },
+            {
+              "prompt": "child",
+              "answer": "children"
+            },
+            {
+              "prompt": "key",
+              "answer": "keys"
+            }
+          ],
+          "instruction": "Write the plural."
+        },
+        {
+          "id": "ex2",
+          "type": "multiple_choice",
+          "title": "This, that, these, those",
+          "instruction_pt": "Escolha a palavra correta.",
+          "items": [
+            {
+              "prompt": "(na sua mão) ___ is my phone.",
+              "options": [
+                "This",
+                "These",
+                "Those"
+              ],
+              "answer": "This"
+            },
+            {
+              "prompt": "(do outro lado da rua) ___ people are tourists.",
+              "options": [
+                "This",
+                "That",
+                "Those"
+              ],
+              "answer": "Those"
+            },
+            {
+              "prompt": "(na mesa à sua frente) ___ are my notebooks.",
+              "options": [
+                "These",
+                "This",
+                "That"
+              ],
+              "answer": "These"
+            },
+            {
+              "prompt": "(lá longe) Is ___ your car?",
+              "options": [
+                "these",
+                "that",
+                "those"
+              ],
+              "answer": "that"
+            }
+          ],
+          "instruction": "Choose the correct word."
+        },
+        {
+          "id": "ex3",
+          "type": "fill_blank",
+          "title": "A ou an?",
+          "instruction_pt": "Complete com a ou an.",
+          "items": [
+            {
+              "prompt": "___ umbrella",
+              "answer": "an"
+            },
+            {
+              "prompt": "___ laptop",
+              "answer": "a"
+            },
+            {
+              "prompt": "___ hour",
+              "answer": "an"
+            },
+            {
+              "prompt": "___ university",
+              "answer": "a"
+            },
+            {
+              "prompt": "___ orange backpack",
+              "answer": "an"
+            }
+          ],
+          "instruction": "Complete with a or an."
+        },
+        {
+          "id": "ex4",
+          "type": "dictation",
+          "title": "Dictation",
+          "instruction": "Listen and write the sentence.",
+          "instruction_pt": "Ouça e escreva a frase.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "Is this your charger?"
+            },
+            {
+              "prompt": "2",
+              "answer": "Are these your keys?"
+            },
+            {
+              "prompt": "3",
+              "answer": "That's my umbrella."
+            },
+            {
+              "prompt": "4",
+              "answer": "Those people are my coworkers."
+            }
+          ]
+        },
+        {
+          "id": "ex5",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the mistake.",
+          "instruction_pt": "Encontre e corrija o erro.",
+          "items": [
+            {
+              "prompt": "This keys are mine.",
+              "answer": "These keys are mine."
+            },
+            {
+              "prompt": "I have a umbrella.",
+              "answer": "I have an umbrella."
+            },
+            {
+              "prompt": "There are three persons here.",
+              "answer": "There are three people here."
+            },
+            {
+              "prompt": "Are these your phone?",
+              "answer": "Is this your phone?"
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "fill_blank",
+          "title": "Complete the dialogue",
+          "instruction": "Complete with: this · these · it · they · an.",
+          "instruction_pt": "Complete o diálogo.",
+          "items": [
+            {
+              "prompt": "A: Is ___ your wallet? — B: Yes, ___ is. Thanks!",
+              "answer": "this / it"
+            },
+            {
+              "prompt": "A: Are ___ your earbuds? — B: No, ___ aren't.",
+              "answer": "these / they"
+            },
+            {
+              "prompt": "A: What's that? — B: It's ___ orange.",
+              "answer": "an"
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction_pt": "Faça seu próprio \"What's in my bag?\". Mostre (ou imagine) 5 objetos e descreva-os.",
+        "questions": [
+          "What's in your bag today?",
+          "Is your phone new or old?",
+          "What's your favorite object? Why?",
+          "Point to something far from you. What's that?",
+          "What's this in English? (aponte para algo e pergunte ao colega)"
+        ],
+        "instruction": "Do your own \"What's in my bag?\". Show (or imagine) 5 objects and describe them."
+      },
+      "writing": {
+        "task_pt": "Escreva o roteiro de um vídeo curto \"What's in my bag?\" com 5 objetos e um adjetivo para cada.",
+        "model": "This is my backpack. It's black and very big.\nThese are my earbuds. They're white.\nThis is my wallet. It's old but I love it.",
+        "task": "Write the script for a short \"What's in my bag?\" video with 5 objects and one adjective for each."
+      },
+      "culture_note": {
+        "title": "Falsos amigos da tecnologia",
+        "text_pt": "**Notebook** (caderno) x **laptop** (notebook); **cell phone/mobile** (celular); **pen drive** é mais conhecido como **USB stick/flash drive**; e **outdoor** (propaganda) é **billboard** em inglês!"
+      },
+      "summary_pt": [
+        "Perto: this/these · Longe: that/those.",
+        "Plural: -s, -es, -ies e irregulares (people, children).",
+        "An antes de som de vogal.",
+        "Laptop = notebook; notebook = caderno."
+      ],
+      "listening": {
+        "title": "Airport security",
+        "context_pt": "Um agente de segurança do aeroporto faz perguntas sobre os objetos na bagagem.",
+        "lines": [
+          {
+            "speaker": "Officer",
+            "en": "Good morning. Is this your backpack?"
+          },
+          {
+            "speaker": "Passenger",
+            "en": "Yes, it is."
+          },
+          {
+            "speaker": "Officer",
+            "en": "What's this?"
+          },
+          {
+            "speaker": "Passenger",
+            "en": "That's my laptop charger."
+          },
+          {
+            "speaker": "Officer",
+            "en": "And are these your keys?"
+          },
+          {
+            "speaker": "Passenger",
+            "en": "Yes, they are. Sorry!"
+          },
+          {
+            "speaker": "Officer",
+            "en": "And those bottles?"
+          },
+          {
+            "speaker": "Passenger",
+            "en": "Those are water bottles. They're empty."
+          },
+          {
+            "speaker": "Officer",
+            "en": "OK. Thank you. Have a nice flight."
+          }
+        ],
+        "questions": [
+          {
+            "q": "Is the backpack the passenger's?",
+            "answer": "Yes, it is."
+          },
+          {
+            "q": "What's the first object?",
+            "answer": "A laptop charger."
+          },
+          {
+            "q": "Are the keys the passenger's?",
+            "answer": "Yes, they are."
+          },
+          {
+            "q": "Are the water bottles full?",
+            "answer": "No, they aren't. They're empty."
+          }
+        ]
+      }
+    },
+    {
+      "id": "A1-M5-L4",
+      "title": "What do you do?",
+      "subtitle_pt": "Profissões e locais de trabalho",
+      "duration_min": 50,
+      "source_refs": [
+        "To Go A1 – Lessons 3-6 (work, study)",
+        "StartUp 1 – Unit 1-2 (jobs)"
+      ],
+      "objectives": [
+        "Dizer a sua profissão",
+        "Perguntar a profissão de alguém",
+        "Usar a / an com profissões",
+        "Dizer onde você trabalha"
+      ],
+      "warmup": {
+        "text_pt": "Hoje existem profissões que nem existiam há 15 anos: influencer, UX designer, motorista de app... Qual é a sua?",
+        "questions": [
+          "What's your dream job?",
+          "Do you work from home?"
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "doctor / nurse",
+          "pt": "médico(a) / enfermeiro(a)",
+          "say": "dóktor / nârs"
+        },
+        {
+          "en": "teacher",
+          "pt": "professor(a)",
+          "say": "títcher"
+        },
+        {
+          "en": "engineer",
+          "pt": "engenheiro(a)",
+          "say": "endjiníer"
+        },
+        {
+          "en": "lawyer",
+          "pt": "advogado(a)",
+          "say": "lóier"
+        },
+        {
+          "en": "salesperson",
+          "pt": "vendedor(a)",
+          "say": "sêilzpârson"
+        },
+        {
+          "en": "developer",
+          "pt": "desenvolvedor(a)",
+          "say": "divélóper"
+        },
+        {
+          "en": "designer",
+          "pt": "designer",
+          "say": "dizáiner"
+        },
+        {
+          "en": "driver / delivery person",
+          "pt": "motorista / entregador(a)",
+          "say": "dráiver / dilíveri pârson"
+        },
+        {
+          "en": "accountant",
+          "pt": "contador(a)",
+          "say": "akáuntant"
+        },
+        {
+          "en": "entrepreneur / business owner",
+          "pt": "empreendedor(a) / dono de negócio",
+          "say": "ontreprenâr"
+        },
+        {
+          "en": "unemployed / retired",
+          "pt": "desempregado / aposentado",
+          "say": "ânimplóid / ritáierd"
+        },
+        {
+          "en": "freelancer",
+          "pt": "autônomo(a), freelancer",
+          "say": "frílénser"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "What do you do?",
+          "pt": "O que você faz? / Qual é sua profissão?"
+        },
+        {
+          "en": "I'm a nurse.",
+          "pt": "Sou enfermeiro(a)."
+        },
+        {
+          "en": "I work at a hospital.",
+          "pt": "Trabalho em um hospital."
+        },
+        {
+          "en": "I work for a tech company.",
+          "pt": "Trabalho para uma empresa de tecnologia."
+        },
+        {
+          "en": "I work from home.",
+          "pt": "Trabalho de casa."
+        },
+        {
+          "en": "I'm between jobs right now.",
+          "pt": "Estou entre empregos no momento."
+        }
+      ],
+      "grammar": {
+        "title": "a / an + profissões e preposições de trabalho",
+        "explanation_pt": "Em inglês, **sempre** use **a** ou **an** antes da profissão no singular. Em português dizemos \"sou professora\", mas em inglês é **I'm a teacher**.\n\nPara perguntar a profissão, o mais natural é **What do you do?** (literalmente \"o que você faz?\"). Também existe **What's your job?**, mais direto.\n\n**Preposições:** **work at** + local (at a bank, at a school) · **work for** + empresa (for Google, for a startup) · **work in** + área (in marketing, in IT) · **work from home**.",
+        "table": {
+          "headers": [
+            "Pergunta",
+            "Resposta"
+          ],
+          "rows": [
+            [
+              "What do you do?",
+              "I'm an engineer."
+            ],
+            [
+              "What does she do?",
+              "She's a lawyer."
+            ],
+            [
+              "Where do you work?",
+              "I work at a hospital."
+            ],
+            [
+              "Who do you work for?",
+              "I work for a bank."
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "My sister is an architect. She works in São Paulo.",
+            "pt": "Minha irmã é arquiteta. Ela trabalha em São Paulo."
+          },
+          {
+            "en": "I'm a freelancer. I work from home.",
+            "pt": "Sou freelancer. Trabalho de casa."
+          },
+          {
+            "en": "They're students. They aren't doctors.",
+            "pt": "Eles são estudantes. Não são médicos."
+          }
+        ],
+        "tip_pt": "No plural, não há a/an: \"They're **teachers**.\""
+      },
+      "common_mistakes": [
+        {
+          "wrong": "I'm teacher.",
+          "right": "I'm a teacher.",
+          "why_pt": "Profissão no singular sempre leva a/an."
+        },
+        {
+          "wrong": "I work in a bank. (está certo, mas...)",
+          "right": "I work at a bank. / I work in finance.",
+          "why_pt": "At para o local de trabalho e in para a área é o mais natural."
+        },
+        {
+          "wrong": "I'm a professor. (sendo professor de escola)",
+          "right": "I'm a teacher.",
+          "why_pt": "Professor em inglês é só para professor universitário."
+        }
+      ],
+      "pronunciation": {
+        "focus": "O final -er",
+        "tip_pt": "O **-er** no final (teach**er**, design**er**, develop**er**) tem um som de \"âr\" curto, com a língua curvada para trás, sem vibrar. Não pronuncie \"é\" aberto: diga \"títchâr\", não \"titché\".",
+        "practice": [
+          "teacher · driver · designer",
+          "My brother is a developer.",
+          "Her father is a lawyer."
+        ]
+      },
+      "dialogue": {
+        "title": "Networking event",
+        "context_pt": "Rafaela está em um evento de tecnologia e conversa com um participante.",
+        "lines": [
+          {
+            "speaker": "Mark",
+            "en": "Hi, I'm Mark. Nice to meet you.",
+            "pt": "Oi, eu sou o Mark. Prazer."
+          },
+          {
+            "speaker": "Rafaela",
+            "en": "Nice to meet you, Mark. I'm Rafaela. So, what do you do?",
+            "pt": "Prazer, Mark. Eu sou a Rafaela. Então, o que você faz?"
+          },
+          {
+            "speaker": "Mark",
+            "en": "I'm a developer. I work for a fintech in Austin. And you?",
+            "pt": "Sou desenvolvedor. Trabalho para uma fintech em Austin. E você?"
+          },
+          {
+            "speaker": "Rafaela",
+            "en": "I'm a UX designer. I'm a freelancer, so I work from home.",
+            "pt": "Sou UX designer. Sou freelancer, então trabalho de casa."
+          },
+          {
+            "speaker": "Mark",
+            "en": "Cool! Are your clients from Brazil?",
+            "pt": "Legal! Seus clientes são do Brasil?"
+          },
+          {
+            "speaker": "Rafaela",
+            "en": "Some are. But most are in the US and Portugal.",
+            "pt": "Alguns. Mas a maioria está nos EUA e em Portugal."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Jobs of the future",
+        "text": "Many jobs today didn't exist 20 years ago. A social media manager, a data scientist, an app developer, a delivery person for apps. Experts say that in the future, jobs in technology, health and green energy will grow. But some skills are always important: communication, creativity and... English! 😉",
+        "questions": [
+          {
+            "q": "Name two modern jobs from the text.",
+            "answer": "Social media manager, data scientist, app developer, delivery person."
+          },
+          {
+            "q": "Which areas will grow?",
+            "answer": "Technology, health and green energy."
+          },
+          {
+            "q": "Which skills are always important?",
+            "answer": "Communication, creativity and English."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "fill_blank",
+          "title": "a, an ou nada?",
+          "instruction_pt": "Complete com a, an ou — (nada).",
+          "items": [
+            {
+              "prompt": "She's ___ engineer.",
+              "answer": "an"
+            },
+            {
+              "prompt": "I'm ___ nurse.",
+              "answer": "a"
+            },
+            {
+              "prompt": "They're ___ lawyers.",
+              "answer": "—"
+            },
+            {
+              "prompt": "He's ___ accountant.",
+              "answer": "an"
+            },
+            {
+              "prompt": "My dad is ___ driver.",
+              "answer": "a"
+            }
+          ],
+          "instruction": "Complete with a, an or — (nothing)."
+        },
+        {
+          "id": "ex2",
+          "type": "multiple_choice",
+          "title": "at, for, in, from",
+          "instruction_pt": "Escolha a preposição correta.",
+          "items": [
+            {
+              "prompt": "I work ___ a school.",
+              "options": [
+                "at",
+                "for",
+                "from"
+              ],
+              "answer": "at"
+            },
+            {
+              "prompt": "She works ___ Amazon.",
+              "options": [
+                "at",
+                "for",
+                "in"
+              ],
+              "answer": "for"
+            },
+            {
+              "prompt": "He works ___ marketing.",
+              "options": [
+                "in",
+                "at",
+                "from"
+              ],
+              "answer": "in"
+            },
+            {
+              "prompt": "We work ___ home on Fridays.",
+              "options": [
+                "in",
+                "at",
+                "from"
+              ],
+              "answer": "from"
+            }
+          ],
+          "instruction": "Choose the correct preposition."
+        },
+        {
+          "id": "ex3",
+          "type": "translate",
+          "title": "Traduza",
+          "instruction_pt": "Traduza para o inglês.",
+          "items": [
+            {
+              "prompt": "O que você faz?",
+              "answer": "What do you do?"
+            },
+            {
+              "prompt": "Sou contador. Trabalho para um banco.",
+              "answer": "I'm an accountant. I work for a bank."
+            },
+            {
+              "prompt": "Minha mãe é aposentada.",
+              "answer": "My mom is retired."
+            },
+            {
+              "prompt": "Ela é professora.",
+              "answer": "She's a teacher."
+            }
+          ],
+          "instruction": "Translate into English."
+        },
+        {
+          "id": "ex4",
+          "type": "dictation",
+          "title": "Dictation",
+          "instruction": "Listen and write the sentence.",
+          "instruction_pt": "Ouça e escreva a frase.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "What do you do?"
+            },
+            {
+              "prompt": "2",
+              "answer": "I'm an engineer."
+            },
+            {
+              "prompt": "3",
+              "answer": "I work for a tech company."
+            },
+            {
+              "prompt": "4",
+              "answer": "She works from home."
+            }
+          ]
+        },
+        {
+          "id": "ex5",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the mistake.",
+          "instruction_pt": "Encontre e corrija o erro.",
+          "items": [
+            {
+              "prompt": "I'm teacher.",
+              "answer": "I'm a teacher."
+            },
+            {
+              "prompt": "She's a engineer.",
+              "answer": "She's an engineer."
+            },
+            {
+              "prompt": "They're a lawyers.",
+              "answer": "They're lawyers."
+            },
+            {
+              "prompt": "I work for home.",
+              "answer": "I work from home."
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "fill_blank",
+          "title": "Complete the dialogue",
+          "instruction": "Complete with: do · a · for · at · from.",
+          "instruction_pt": "Complete o diálogo.",
+          "items": [
+            {
+              "prompt": "A: What do you ___?",
+              "answer": "do"
+            },
+            {
+              "prompt": "B: I'm ___ nurse. I work ___ a hospital.",
+              "answer": "a / at"
+            },
+            {
+              "prompt": "A: I'm a developer. I work ___ a startup.",
+              "answer": "for"
+            },
+            {
+              "prompt": "B: Do you go to the office? — A: No, I work ___ home.",
+              "answer": "from"
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction_pt": "Simule um evento de networking. Cumprimente, pergunte nome, origem e profissão.",
+        "questions": [
+          "What do you do?",
+          "Where do you work?",
+          "Do you work from home?",
+          "What do your parents do?",
+          "What's your dream job?"
+        ],
+        "instruction": "Simulate a networking event. Say hello, ask names, where people are from and what they do."
+      },
+      "writing": {
+        "task_pt": "Escreva o seu \"headline\" e um resumo curto para o LinkedIn em inglês (3 a 4 frases).",
+        "model": "Headline: Nurse | Healthcare | São Paulo\nAbout: I'm a nurse at a children's hospital in São Paulo.\nI'm friendly, organized and hardworking.\nI'm learning English to work abroad.",
+        "task": "Write your LinkedIn headline and a short summary in English (3 to 4 sentences)."
+      },
+      "culture_note": {
+        "title": "\"What do you do?\" é a pergunta número 1",
+        "text_pt": "Nos EUA, perguntar a profissão logo no começo da conversa é muito comum e não é falta de educação. Já perguntar o **salário** é considerado bastante invasivo!"
+      },
+      "summary_pt": [
+        "I'm a/an + profissão.",
+        "What do you do? = Qual é sua profissão?",
+        "work at (local), for (empresa), in (área), from home.",
+        "Professor = docente universitário; teacher = professor de escola/curso."
+      ],
+      "listening": {
+        "title": "Career day",
+        "context_pt": "Três profissionais se apresentam em um evento de carreiras numa escola.",
+        "lines": [
+          {
+            "speaker": "Dr. Lee",
+            "en": "Hi, everyone. I'm a doctor. I work at a children's hospital. I love my job, but I work a lot at night."
+          },
+          {
+            "speaker": "Bruna",
+            "en": "Hello! I'm a freelancer — I'm a graphic designer. I work from home, and my clients are in Brazil and Portugal."
+          },
+          {
+            "speaker": "Mr. Cole",
+            "en": "Good morning. I'm an engineer. I work for a solar energy company. We build solar farms."
+          }
+        ],
+        "questions": [
+          {
+            "q": "Where does the doctor work?",
+            "answer": "At a children's hospital."
+          },
+          {
+            "q": "What does Bruna do?",
+            "answer": "She's a graphic designer (a freelancer)."
+          },
+          {
+            "q": "Where are her clients?",
+            "answer": "In Brazil and Portugal."
+          },
+          {
+            "q": "Who does Mr. Cole work for?",
+            "answer": "A solar energy company."
+          }
+        ]
+      }
+    }
+  ],
+  "review": {
+    "intro_pt": "Revise família, descrições, objetos e profissões.",
+    "exercises": [
+      {
+        "id": "r1",
+        "type": "multiple_choice",
+        "title": "Escolha a correta",
+        "instruction_pt": "Escolha a opção correta.",
+        "items": [
+          {
+            "prompt": "This is ___ car.",
+            "options": [
+              "my father's",
+              "the car of my father",
+              "my father"
+            ],
+            "answer": "my father's"
+          },
+          {
+            "prompt": "___ are my children.",
+            "options": [
+              "This",
+              "These",
+              "That"
+            ],
+            "answer": "These"
+          },
+          {
+            "prompt": "She's ___ architect.",
+            "options": [
+              "a",
+              "an",
+              "—"
+            ],
+            "answer": "an"
+          },
+          {
+            "prompt": "My friends are very ___.",
+            "options": [
+              "funnys",
+              "funny",
+              "a funny"
+            ],
+            "answer": "funny"
+          },
+          {
+            "prompt": "What does he ___?",
+            "options": [
+              "look like",
+              "like",
+              "looks like"
+            ],
+            "answer": "look like"
+          }
+        ],
+        "instruction": "Choose the correct option."
+      },
+      {
+        "id": "r2",
+        "type": "fill_blank",
+        "title": "Família",
+        "instruction_pt": "Complete com a palavra da família.",
+        "items": [
+          {
+            "prompt": "My father's sister is my ___.",
+            "answer": "aunt"
+          },
+          {
+            "prompt": "My mother's father is my ___.",
+            "answer": "grandfather"
+          },
+          {
+            "prompt": "My brother's son is my ___.",
+            "answer": "nephew"
+          },
+          {
+            "prompt": "My wife's mother is my ___.",
+            "answer": "mother-in-law"
+          }
+        ],
+        "instruction": "Complete with the correct family word."
+      },
+      {
+        "id": "r3",
+        "type": "translate",
+        "title": "Traduza",
+        "instruction_pt": "Traduza para o inglês.",
+        "items": [
+          {
+            "prompt": "Minha irmã é alta e tem cabelo cacheado.",
+            "answer": "My sister is tall and she has curly hair."
+          },
+          {
+            "prompt": "Aquelas pessoas são advogadas.",
+            "answer": "Those people are lawyers."
+          },
+          {
+            "prompt": "Ele é um pouco tímido.",
+            "answer": "He's a little shy."
+          },
+          {
+            "prompt": "Trabalho para uma startup.",
+            "answer": "I work for a startup."
+          }
+        ],
+        "instruction": "Translate into English."
+      },
+      {
+        "id": "r4",
+        "type": "dictation",
+        "title": "Dictation",
+        "instruction": "Listen and write the sentence.",
+        "instruction_pt": "Ouça e escreva a frase.",
+        "items": [
+          {
+            "prompt": "1",
+            "answer": "This is my father's car."
+          },
+          {
+            "prompt": "2",
+            "answer": "She's tall and very funny."
+          },
+          {
+            "prompt": "3",
+            "answer": "Those are my keys."
+          }
+        ]
+      },
+      {
+        "id": "r5",
+        "type": "correct_error",
+        "title": "Fix the mistake",
+        "instruction": "Find and correct the mistake.",
+        "instruction_pt": "Encontre e corrija o erro.",
+        "items": [
+          {
+            "prompt": "He's architect.",
+            "answer": "He's an architect."
+          },
+          {
+            "prompt": "These is my children.",
+            "answer": "These are my children."
+          },
+          {
+            "prompt": "the dog of my sister",
+            "answer": "my sister's dog"
+          }
+        ]
+      }
+    ],
+    "speaking_pt": "Escolha 3 pessoas importantes da sua vida e fale sobre cada uma (quem é, como é, o que faz).",
+    "speaking_questions": [
+      "Who is this person?",
+      "What's he/she like?",
+      "What does he/she look like?",
+      "What does he/she do?",
+      "Where does he/she work?"
+    ],
+    "project_pt": "**My people:** monte um carrossel (3 a 5 imagens) apresentando pessoas importantes da sua vida, com uma legenda em inglês para cada uma: relação com você, personalidade, aparência e profissão."
+  }
+}

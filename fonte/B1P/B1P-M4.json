@@ -1,0 +1,541 @@
+{
+  "id": "B1P-M4",
+  "level": "B1+",
+  "title": "Experience and the Future",
+  "theme_pt": "Aprendizados de vida, diversidade, inovação, mobilidade e comunicação por telefone",
+  "can_do": ["Falar sobre aprendizados e experiências marcantes com present perfect + superlativos", "Fazer previsões com diferentes graus de certeza (will, may, might, could, be likely to)", "Especular sobre o presente e o passado com modais de dedução (must, can't, might have)", "Deixar e entender mensagens de voz e fazer ligações profissionais", "Discutir inovação, tecnologia e inclusão"],
+  "lessons": [
+    {
+      "id": "B1P-M4-L1",
+      "title": "What have you learned?",
+      "subtitle_pt": "Present perfect + superlativos, ever, the first time; diversidade e aprendizado",
+      "duration_min": 70,
+      "source_refs": ["Keynote Intermediate – Unit 7.1 (What I've learned from my autistic brothers)", "Keynote Intermediate Videos – TED Talks playlist"],
+      "objectives": ["Usar superlativo + present perfect (the best... I've ever...)", "Falar sobre lições de vida e o que aprendeu com outras pessoas", "Usar vocabulário respeitoso sobre diversidade e neurodiversidade", "Refletir sobre experiências que mudaram sua perspectiva"],
+      "warmup": {
+        "text_pt": "Qual foi a lição mais importante que alguém já te ensinou — sem ser um professor? Às vezes, as pessoas que mais nos ensinam são as que veem o mundo de um jeito diferente.",
+        "questions": ["Who has taught you the most in life?", "What's the most important lesson you've learned so far?"]
+      },
+      "vocabulary": [
+        {"en": "diversity / diverse", "pt": "diversidade / diverso", "say": "daivârsiti / daivârs"},
+        {"en": "inclusion / inclusive", "pt": "inclusão / inclusivo", "say": "inklújon / inklúsiv"},
+        {"en": "neurodiversity / neurodivergent", "pt": "neurodiversidade / neurodivergente", "say": "niurodaivârsiti / niurodaivârdjent"},
+        {"en": "autism / autistic", "pt": "autismo / autista", "say": "ótizm / otístik"},
+        {"en": "a disability / disabled", "pt": "uma deficiência / com deficiência", "say": "a disabíliti / diséibold"},
+        {"en": "accessible / accessibility", "pt": "acessível / acessibilidade", "say": "aksésibol / aksesibíliti"},
+        {"en": "perspective / point of view", "pt": "perspectiva / ponto de vista", "say": "perspéktiv"},
+        {"en": "to stereotype / a stereotype", "pt": "estereotipar / um estereótipo", "say": "stériotaip"},
+        {"en": "to accept (people) as they are", "pt": "aceitar (as pessoas) como são", "say": "tu aksépt"},
+        {"en": "eye-opening", "pt": "revelador, que abre os olhos", "say": "ái ôupenin"},
+        {"en": "to put yourself in someone's shoes", "pt": "colocar-se no lugar de alguém", "say": "tu put iórsélf in sâmuanz shúz"},
+        {"en": "a turning point", "pt": "um momento decisivo, divisor de águas", "say": "a târnin póint"}
+      ],
+      "chunks": [
+        {"en": "It's the best advice I've ever received.", "pt": "É o melhor conselho que já recebi."},
+        {"en": "It was the first time I'd ever felt that.", "pt": "Foi a primeira vez que eu senti aquilo."},
+        {"en": "It was a real eye-opener.", "pt": "Foi muito revelador."},
+        {"en": "I've learned to accept people as they are.", "pt": "Aprendi a aceitar as pessoas como elas são."},
+        {"en": "That was a turning point in my life.", "pt": "Aquilo foi um divisor de águas na minha vida."},
+        {"en": "Try to put yourself in their shoes.", "pt": "Tente se colocar no lugar deles."}
+      ],
+      "grammar": {
+        "title": "Superlativos + present perfect · the first time",
+        "explanation_pt": "**Superlativo + present perfect + ever** → a maior/melhor/pior experiência **até agora**:\n- \"It's **the most inspiring** talk I**'ve ever seen**.\"\n- \"She's **the kindest** person I**'ve ever met**.\"\n- \"That's **the hardest** thing I**'ve ever done**.\"\n(o **that/who** antes do sujeito pode ser omitido: \"the best book (that) I've ever read\")\n\n**It's the first/second/only time + present perfect** → experiência vivida agora:\n- \"**It's the first time** I**'ve spoken** in public.\"\n- \"**This is the third time** I**'ve visited** Lisbon.\"\n\n⚠️ No **passado**, a estrutura muda para **past perfect**: \"**It was the first time** I**'d ever seen** snow.\" (No A2/B1 você viu o past perfect — aqui ele volta!)\n\n**Never... before** → também expressa primeira vez: \"I**'ve never** worked with such a diverse team **before**.\"\n\n**Expressões de aprendizado:**\n- \"I**'ve learned** (how) **to** + verbo\": \"I've learned to listen more.\"\n- \"I**'ve learned that** + frase\": \"I've learned that everyone communicates differently.\"\n- \"X **has taught me to/that**...\": \"My brother has taught me to be patient.\"",
+        "table": {
+          "headers": ["Estrutura", "Exemplo"],
+          "rows": [["the + superlativo + I've ever + particípio", "It's the best decision I've ever made."], ["It's the first time + present perfect", "It's the first time I've tried this."], ["It was the first time + past perfect", "It was the first time I'd flown alone."], ["never... before", "I've never felt so welcome before."], ["has taught me to / that", "Life has taught me that nothing is permanent."]]
+        },
+        "examples": [
+          {"en": "My sister, who is autistic, has taught me to see details that most people miss.", "pt": "Minha irmã, que é autista, me ensinou a ver detalhes que a maioria das pessoas não percebe."},
+          {"en": "Volunteering abroad was the most eye-opening experience I've ever had.", "pt": "Ser voluntário no exterior foi a experiência mais reveladora que já tive."},
+          {"en": "It was the first time I'd ever been in a country where I didn't speak the language.", "pt": "Foi a primeira vez que eu estava num país onde não falava a língua."}
+        ],
+        "tip_pt": "Ao falar de deficiência, prefira linguagem que a própria comunidade usa. Muitos preferem **\"person with a disability\"** (person-first) e muitos autistas preferem **\"autistic person\"** (identity-first). Na dúvida, pergunte ou siga como a pessoa se descreve."
+      },
+      "common_mistakes": [
+        {"wrong": "It's the best movie I ever saw.", "right": "It's the best movie I've ever seen.", "why_pt": "Superlativo + experiência até agora = present perfect (padrão britânico e de provas)."},
+        {"wrong": "It's the first time I come here.", "right": "It's the first time I've come here.", "why_pt": "It's the first time + present perfect."},
+        {"wrong": "It was the first time I've seen snow.", "right": "It was the first time I'd seen snow.", "why_pt": "No passado (It was), use past perfect."}
+      ],
+      "pronunciation": {
+        "focus": "Ever / I've ever",
+        "tip_pt": "**I've ever** se junta: \"**áivéver**\". Na frase, a força vai no superlativo e no particípio: \"the **BEST** book I've ever **READ**\". **Eye-opening** = \"ÁI-ôupenin\".",
+        "practice": ["It's the BEST book I've ever READ.", "It's the first time I've DONE this.", "It was a real EYE-opener."]
+      },
+      "dialogue": {
+        "title": "Life lessons",
+        "context_pt": "Dois amigos conversam sobre o que aprenderam com pessoas da família.",
+        "lines": [
+          {"speaker": "Lia", "en": "You talk about your brother a lot. What's he like?", "pt": "Você fala muito do seu irmão. Como ele é?"},
+          {"speaker": "Rafael", "en": "Gui is autistic, and honestly, he's the most honest person I've ever known. He never pretends.", "pt": "O Gui é autista e, sinceramente, é a pessoa mais honesta que já conheci. Ele nunca finge."},
+          {"speaker": "Lia", "en": "What have you learned from him?", "pt": "O que você aprendeu com ele?"},
+          {"speaker": "Rafael", "en": "So much. He's taught me that there isn't just one \"normal\" way to communicate. He doesn't like eye contact, but he listens better than anyone.", "pt": "Muita coisa. Ele me ensinou que não existe só um jeito \"normal\" de se comunicar. Ele não gosta de contato visual, mas ouve melhor do que ninguém."},
+          {"speaker": "Lia", "en": "That's beautiful. Was it always easy?", "pt": "Que lindo. Sempre foi fácil?"},
+          {"speaker": "Rafael", "en": "No. When we were kids, I used to get embarrassed when people stared at him. The turning point was when I saw him play the piano at a school concert. It was the first time I'd seen everyone in the room completely silent.", "pt": "Não. Quando éramos crianças, eu ficava envergonhado quando as pessoas o encaravam. O divisor de águas foi quando o vi tocar piano num concerto da escola. Foi a primeira vez que vi a sala inteira em completo silêncio."},
+          {"speaker": "Lia", "en": "Wow. I've never thought about it that way before.", "pt": "Nossa. Nunca tinha pensado nisso desse jeito."},
+          {"speaker": "Rafael", "en": "Most people haven't. That's why I talk about him.", "pt": "A maioria das pessoas não pensou. É por isso que falo dele."}
+        ]
+      },
+      "listening": {
+        "title": "Inclusive workplaces",
+        "context_pt": "Uma gerente de RH fala sobre o programa de inclusão da empresa.",
+        "lines": [
+          {"speaker": "HR Manager", "en": "Three years ago, we started a program to hire more neurodivergent people — for example, autistic people and people with ADHD or dyslexia. It's been the best decision we've ever made. We changed our interviews: instead of asking abstract questions, we let candidates show their skills with practical tasks. We created quiet rooms and allowed flexible hours. The results? Our data team, which now includes several neurodivergent analysts, has found errors that nobody had noticed for years. But the biggest change has been cultural. Everyone has learned to communicate more clearly — and that has helped all of us."}
+        ],
+        "questions": [
+          {"q": "When did the company start the program?", "answer": "Three years ago."},
+          {"q": "How did they change interviews?", "answer": "Candidates show their skills with practical tasks instead of abstract questions."},
+          {"q": "What did they create in the office?", "answer": "Quiet rooms (and flexible hours)."},
+          {"q": "What has been the biggest change?", "answer": "Cultural: everyone has learned to communicate more clearly."}
+        ]
+      },
+      "video": {
+        "title": "What I've learned from my autistic brothers",
+        "speaker": "Faith Jegede",
+        "url": "https://www.ted.com/search?q=what+i%27ve+learned+from+my+autistic+brothers",
+        "playlist": "https://www.youtube.com/watch?v=sAQfzHBpRsc&list=PLdIk6oC5e9pYKMTeYKp9dEOSeoNEEJ0BJ",
+        "task_pt": "Assista à palestra (cerca de 7 minutos). Anote duas frases com present perfect que a palestrante usa. Depois responda:",
+        "questions": ["What has the speaker learned from her brothers?", "How does she feel about the word \"normal\"?", "Which moment of the talk impressed you the most? Why?", "Who in your life has taught you to see the world differently?"]
+      },
+      "reading": {
+        "title": "Different minds at work",
+        "text": "For a long time, many workplaces were designed for one type of brain. Job interviews rewarded people who were good at small talk and eye contact, open-plan offices were full of noise, and instructions were often vague. As a result, many talented neurodivergent people — including autistic people and people with ADHD or dyslexia — struggled to find or keep jobs. In recent years, some large companies have started neurodiversity hiring programs. Instead of traditional interviews, candidates might spend a few days solving real problems, and managers receive training on how to give clear, direct feedback. Several of these companies report that neurodivergent employees bring valuable strengths, such as pattern recognition, attention to detail, creative problem-solving and deep focus. Advocates point out, however, that the goal shouldn't only be productivity. \"Inclusion isn't about finding hidden superpowers,\" one autistic activist explains. \"It's about accepting that people think differently — and that's normal.\"",
+        "questions": [
+          {"q": "Why did many neurodivergent people struggle at work?", "answer": "Workplaces were designed for one type of brain (small talk, noise, vague instructions)."},
+          {"q": "How are some hiring programs different?", "answer": "Candidates solve real problems for a few days; managers learn to give clear feedback."},
+          {"q": "What strengths are mentioned?", "answer": "Pattern recognition, attention to detail, creative problem-solving and deep focus."},
+          {"q": "What do advocates say the goal should be?", "answer": "Accepting that people think differently, not only productivity."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "fill_blank", "title": "Superlative + present perfect", "instruction": "Complete with the superlative + present perfect.", "instruction_pt": "Complete com superlativo + present perfect.",
+         "items": [{"prompt": "It's ___ (good) book I ___ (ever / read).", "answer": "the best / 've ever read"}, {"prompt": "She's ___ (kind) person I ___ (ever / meet).", "answer": "the kindest / 've ever met"}, {"prompt": "That was ___ (difficult) exam I ___ (ever / take).", "answer": "the most difficult / 've ever taken"}, {"prompt": "This is ___ (beautiful) place we ___ (ever / visit).", "answer": "the most beautiful / 've ever visited"}]},
+        {"id": "ex2", "type": "multiple_choice", "title": "The first time", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+         "items": [{"prompt": "It's the first time I ___ sushi.", "options": ["eat", "'ve eaten", "'d eaten"], "answer": "'ve eaten"}, {"prompt": "It was the first time she ___ abroad.", "options": ["'s traveled", "'d traveled", "travels"], "answer": "'d traveled"}, {"prompt": "I've never felt so welcome ___.", "options": ["before", "ago", "ever"], "answer": "before"}, {"prompt": "This is the third time he ___ his phone this month!", "options": ["lost", "'s lost", "loses"], "answer": "'s lost"}]},
+        {"id": "ex3", "type": "match", "title": "Respectful vocabulary", "instruction": "Write the English expression.", "instruction_pt": "Escreva a expressão em inglês.",
+         "items": [{"prompt": "acessibilidade", "answer": "accessibility"}, {"prompt": "colocar-se no lugar de alguém", "answer": "put yourself in someone's shoes"}, {"prompt": "divisor de águas", "answer": "a turning point"}, {"prompt": "revelador", "answer": "eye-opening"}, {"prompt": "neurodivergente", "answer": "neurodivergent"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "It's the best advice I've ever received."}, {"prompt": "2", "answer": "I've learned to accept people as they are."}, {"prompt": "3", "answer": "That was a turning point in my life."}, {"prompt": "4", "answer": "It was the first time I'd ever felt that."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "She's the funniest person I ever met.", "answer": "She's the funniest person I've ever met."}, {"prompt": "It's the first time I travel alone.", "answer": "It's the first time I've traveled alone."}, {"prompt": "My grandma has taught me be patient.", "answer": "My grandma has taught me to be patient."}, {"prompt": "It was the first time I've been on a plane.", "answer": "It was the first time I'd been on a plane."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the reflection", "instruction": "Complete with: taught · learned · shoes · ever · before.", "instruction_pt": "Complete a reflexão.",
+         "items": [{"prompt": "Working in a hospital has ___ me that every patient has a story.", "answer": "taught"}, {"prompt": "I've ___ to listen before I judge.", "answer": "learned"}, {"prompt": "I always try to put myself in their ___.", "answer": "shoes"}, {"prompt": "It's the most rewarding job I've ___ had. I'd never felt so useful ___.", "answer": "ever / before"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Life lessons\" circle: each person shares one lesson they've learned from someone, using superlatives + present perfect and a short story in the past.",
+        "instruction_pt": "Roda de \"lições de vida\": cada pessoa compartilha uma lição que aprendeu com alguém, usando superlativo + present perfect e uma pequena história no passado.",
+        "questions": ["What's the best advice you've ever received?", "Who has taught you the most outside school?", "What's the most eye-opening experience you've ever had?", "How inclusive is your workplace or school?", "When was the first time you felt really independent?"]
+      },
+      "writing": {
+        "task": "Write a reflective paragraph (150–180 words): \"A person who changed the way I see the world\". Use superlatives with present perfect, has taught me and the first time.",
+        "task_pt": "Escreva um parágrafo reflexivo (150–180 palavras): \"Uma pessoa que mudou meu jeito de ver o mundo\". Use superlativos com present perfect, has taught me e the first time.",
+        "model": "The person who has changed the way I see the world the most is my grandfather, Seu João. He grew up on a farm in Bahia and left school when he was ten, but he's the wisest person I've ever met. When I was a teenager, I thought success meant money and a big title. My grandfather taught me a different lesson. Every morning, he would share his coffee with the street sweepers and ask about their families. \"Everyone has something to teach you,\" he used to say. The turning point for me was at his 80th birthday party. It was the first time I'd seen so many different people in one room — doctors, farmers, children, neighbors — all there because he had been kind to them. That day, I realized that the richest people aren't the ones with the most money, but the ones with the most connections. He has taught me to respect everyone, and it's the most valuable lesson I've ever learned."
+      },
+      "culture_note": {
+        "title": "Linguagem inclusiva em inglês",
+        "text_pt": "Em ambientes profissionais de língua inglesa, há atenção crescente à linguagem inclusiva: **they/them** como pronome singular neutro, **chairperson** em vez de chairman, **people with disabilities** em vez de \"the disabled\". Não é sobre regras rígidas, mas sobre respeito: quando não souber, **pergunte como a pessoa prefere**."
+      },
+      "summary_pt": ["the + superlativo + I've ever + particípio.", "It's the first time + present perfect · It was the first time + past perfect.", "has taught me to / that · I've learned to / that.", "Linguagem respeitosa: siga como a pessoa se descreve."]
+    },
+    {
+      "id": "B1P-M4-L2",
+      "title": "The future of transport",
+      "subtitle_pt": "Previsões com graus de certeza: will, may, might, could, be likely to",
+      "duration_min": 70,
+      "source_refs": ["Keynote Intermediate – Unit 8 (Seeing the future: A skateboard, with a boost / The future of transport)", "Keynote Intermediate Videos – TED Talks playlist"],
+      "objectives": ["Fazer previsões com diferentes graus de certeza", "Usar be likely to / be unlikely to / be bound to", "Usar advérbios de probabilidade (definitely, probably, possibly)", "Discutir mobilidade urbana, carros elétricos e veículos autônomos"],
+      "warmup": {
+        "text_pt": "Carros voadores, patinetes elétricos, carros que dirigem sozinhos, cidades sem trânsito... Como você acha que vai se locomover daqui a 20 anos?",
+        "questions": ["How do you think people will commute in 2050?", "Would you ride in a self-driving car?"]
+      },
+      "vocabulary": [
+        {"en": "electric vehicle (EV)", "pt": "veículo elétrico", "say": "iléktrik víikol (í ví)"},
+        {"en": "self-driving / autonomous car", "pt": "carro autônomo", "say": "sélf dráivin / otónomas kár"},
+        {"en": "public transport (UK) / transit (US)", "pt": "transporte público", "say": "pâblik trénsport / trénzit"},
+        {"en": "e-scooter / e-bike", "pt": "patinete elétrico / bicicleta elétrica", "say": "í skúrer / í báik"},
+        {"en": "charging station", "pt": "estação de recarga", "say": "tchárdjin stêishon"},
+        {"en": "emissions / carbon footprint", "pt": "emissões / pegada de carbono", "say": "imíshonz / kárbon fútprint"},
+        {"en": "congestion / traffic jam", "pt": "congestionamento", "say": "kondjéstchon"},
+        {"en": "commuter", "pt": "pessoa que se desloca para o trabalho", "say": "kamiúter"},
+        {"en": "battery range", "pt": "autonomia da bateria", "say": "bérari rêindj"},
+        {"en": "to reduce / to cut (emissions)", "pt": "reduzir", "say": "tu ridiús / tu kât"},
+        {"en": "flying taxi / drone", "pt": "táxi voador / drone", "say": "fláiin téksi / drôun"},
+        {"en": "infrastructure", "pt": "infraestrutura", "say": "ínfrastrâktcher"}
+      ],
+      "chunks": [
+        {"en": "It'll definitely happen, but not soon.", "pt": "Com certeza vai acontecer, mas não em breve."},
+        {"en": "Self-driving cars might become common.", "pt": "Carros autônomos podem se tornar comuns."},
+        {"en": "Prices are likely to fall.", "pt": "Os preços provavelmente vão cair."},
+        {"en": "It's unlikely to work in big cities.", "pt": "É improvável que funcione em cidades grandes."},
+        {"en": "There's bound to be resistance.", "pt": "Com certeza vai haver resistência."},
+        {"en": "I doubt we'll have flying cars by 2030.", "pt": "Duvido que teremos carros voadores até 2030."}
+      ],
+      "grammar": {
+        "title": "Previsões com graus de certeza",
+        "explanation_pt": "No B1+, em vez de usar só **will**, mostre **o quanto você tem certeza**:\n\n**100% →** will definitely / be bound to (com certeza vai) / certainly will\n\"Electric cars **will definitely** become cheaper.\" / \"There**'s bound to** be traffic.\"\n\n**~80% →** will probably / be likely to + verbo\n\"Most new cars **will probably** be electric by 2035.\" / \"Prices **are likely to** fall.\"\n\n**~50% →** may / might / could + verbo (talvez)\n\"Flying taxis **might** be available in some cities.\" / \"It **could** take decades.\"\n\n**~20% →** probably won't / be unlikely to / I doubt (that)...\n\"People **probably won't** stop driving completely.\" / \"It's **unlikely to** happen soon.\"\n\n**0% →** definitely won't / there's no way...\n\"Cars **definitely won't** disappear by 2030.\"\n\n**Posição dos advérbios:**\n- afirmativa: **will + advérbio** → \"It **will probably** rain.\"\n- negativa: **advérbio + won't** → \"It **probably won't** rain.\" (❌ \"It won't probably\")\n\n**Futuro contínuo e perfeito (reconhecimento):**\n- \"In 2040, we**'ll be traveling** in autonomous cars.\" (ação em andamento num momento futuro)\n- \"By 2035, many countries **will have banned** new gasoline cars.\" (concluído até um ponto futuro)",
+        "table": {
+          "headers": ["Certeza", "Estrutura", "Exemplo"],
+          "rows": [["100%", "will definitely / be bound to", "Cities will definitely change."], ["~80%", "will probably / be likely to", "EVs are likely to get cheaper."], ["~50%", "may / might / could", "Flying taxis might appear."], ["~20%", "probably won't / be unlikely to", "It's unlikely to happen soon."], ["0%", "definitely won't", "Cars definitely won't disappear."]]
+        },
+        "examples": [
+          {"en": "Electric buses are likely to replace diesel buses in most big cities.", "pt": "Ônibus elétricos provavelmente vão substituir os ônibus a diesel na maioria das cidades grandes."},
+          {"en": "Self-driving cars might be safer, but people probably won't trust them for a while.", "pt": "Carros autônomos podem ser mais seguros, mas as pessoas provavelmente não vão confiar neles por um tempo."},
+          {"en": "By 2040, many cities will have closed their centers to private cars.", "pt": "Até 2040, muitas cidades terão fechado seus centros para carros particulares."}
+        ],
+        "tip_pt": "**Be likely to** é muito usado em notícias e relatórios: \"The new law **is likely to** affect millions of drivers.\" É uma ótima forma de soar mais sofisticado do que \"will probably\"."
+      },
+      "common_mistakes": [
+        {"wrong": "It won't probably happen.", "right": "It probably won't happen.", "why_pt": "Na negativa, o advérbio vem antes de won't."},
+        {"wrong": "Prices are likely to falling.", "right": "Prices are likely to fall.", "why_pt": "Be likely to + verbo base."},
+        {"wrong": "Maybe flying cars will might exist.", "right": "Flying cars might exist. / Maybe flying cars will exist.", "why_pt": "Não combine dois modais (will + might)."}
+      ],
+      "pronunciation": {
+        "focus": "Probably e definitely",
+        "tip_pt": "Na fala rápida, **probably** vira \"**PRÓB-li**\" (quase duas sílabas) e **definitely** vira \"**DÉF-net-li**\". **Likely** = \"LÁIK-li\". A força está sempre no começo dessas palavras.",
+        "practice": ["It'll PROBably rain.", "They'll DEFinitely win.", "It's LIKEly to change."]
+      },
+      "dialogue": {
+        "title": "Debate: cars in the city center",
+        "context_pt": "Num debate da associação de moradores, dois vizinhos discutem a proposta de fechar o centro para carros.",
+        "lines": [
+          {"speaker": "Moderator", "en": "The proposal is to close the city center to private cars by 2030. What do you think will happen?", "pt": "A proposta é fechar o centro da cidade para carros particulares até 2030. O que vocês acham que vai acontecer?"},
+          {"speaker": "Paula", "en": "I think it'll definitely improve the air quality. Other cities have done it, and pollution fell a lot.", "pt": "Acho que com certeza vai melhorar a qualidade do ar. Outras cidades fizeram isso, e a poluição caiu muito."},
+          {"speaker": "Rodrigo", "en": "Maybe, but shops in the center are likely to lose customers. People won't want to carry heavy bags on the bus.", "pt": "Talvez, mas as lojas do centro provavelmente vão perder clientes. As pessoas não vão querer carregar sacolas pesadas no ônibus."},
+          {"speaker": "Paula", "en": "That might happen at first. But studies suggest that pedestrians actually spend more in local shops, because they visit more often.", "pt": "Isso pode acontecer no começo. Mas estudos sugerem que pedestres na verdade gastam mais no comércio local, porque visitam com mais frequência."},
+          {"speaker": "Rodrigo", "en": "And what about older people? My mother can't walk far. There's bound to be problems for people like her.", "pt": "E os idosos? Minha mãe não consegue andar muito. Com certeza vai haver problemas para pessoas como ela."},
+          {"speaker": "Paula", "en": "That's a fair point. The plan includes free electric shuttles, but they'll probably need more of them.", "pt": "É um ponto justo. O plano inclui vans elétricas gratuitas, mas provavelmente vão precisar de mais."},
+          {"speaker": "Moderator", "en": "So, it's unlikely to be perfect, but it could work with the right infrastructure. Let's vote.", "pt": "Então, é improvável que seja perfeito, mas pode funcionar com a infraestrutura certa. Vamos votar."}
+        ]
+      },
+      "listening": {
+        "title": "Transport predictions",
+        "context_pt": "Uma especialista em mobilidade urbana faz previsões para os próximos 20 anos.",
+        "lines": [
+          {"speaker": "Expert", "en": "Let me make a few predictions. First, electric vehicles will definitely dominate new car sales in many countries — that's already happening. Second, cities are likely to invest more in bikes, e-scooters and public transport, because they're cheaper and take up less space. Third, self-driving cars might become common on highways, but I doubt we'll see many in chaotic city centers soon — the technology still struggles with unpredictable situations. And flying taxis? They could appear in a few rich cities, but they're unlikely to become a normal way to commute. Most people will still be taking the bus in 2045 — just a cleaner, quieter bus."}
+        ],
+        "questions": [
+          {"q": "What will definitely dominate new car sales?", "answer": "Electric vehicles."},
+          {"q": "Why are cities likely to invest in bikes and public transport?", "answer": "They're cheaper and take up less space."},
+          {"q": "Where might self-driving cars become common?", "answer": "On highways (not in chaotic city centers)."},
+          {"q": "How will most people commute in 2045, according to her?", "answer": "Still by bus — but cleaner and quieter."}
+        ]
+      },
+      "video": {
+        "title": "A skateboard, with a boost",
+        "speaker": "Sanjay Dastoor",
+        "url": "https://www.ted.com/search?q=a+skateboard+with+a+boost",
+        "playlist": "https://www.youtube.com/watch?v=sAQfzHBpRsc&list=PLdIk6oC5e9pYKMTeYKp9dEOSeoNEEJ0BJ",
+        "task_pt": "Assista à palestra (cerca de 3 minutos). Depois discuta o futuro dos pequenos veículos elétricos usando os graus de certeza da aula.",
+        "questions": ["What problem is the speaker trying to solve?", "What are the advantages of his invention?", "Do you think small electric vehicles will replace cars in cities? How certain are you?", "Would you use one to commute? Why or why not?"]
+      },
+      "reading": {
+        "title": "The 15-minute city",
+        "text": "What if everything you needed — work, school, shops, a doctor, a park — was within a 15-minute walk or bike ride from your home? That's the idea behind the \"15-minute city\", a concept developed by the urbanist Carlos Moreno and adopted by Paris and other cities around the world. Supporters argue that it's likely to reduce traffic, pollution and stress, while making neighborhoods more lively and social. In Paris, the city has created hundreds of kilometers of new bike lanes and turned some streets around schools into car-free zones. Critics, however, say the idea may not work in places with low population density, where shops and jobs are far apart. Others worry that it could increase housing prices in well-designed neighborhoods, pushing poorer residents out. Some online conspiracy theories have even claimed, without evidence, that 15-minute cities are a plan to restrict people's freedom of movement. The debate is bound to continue — but as cities grow and the climate crisis worsens, many planners believe that shorter, greener journeys are the future.",
+        "questions": [
+          {"q": "What is a 15-minute city?", "answer": "A city where everything you need is within a 15-minute walk or bike ride."},
+          {"q": "What has Paris done?", "answer": "Created hundreds of km of bike lanes and car-free zones around schools."},
+          {"q": "Where might the idea not work?", "answer": "In places with low population density."},
+          {"q": "What social risk do critics mention?", "answer": "It could increase housing prices and push poorer residents out."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Degrees of certainty", "instruction": "Choose the option that matches the certainty in parentheses.", "instruction_pt": "Escolha a opção que corresponde ao grau de certeza.",
+         "items": [{"prompt": "(100%) Technology ___ keep changing.", "options": ["will definitely", "might"], "answer": "will definitely"}, {"prompt": "(50%) We ___ have flying taxis in São Paulo.", "options": ["will certainly", "might"], "answer": "might"}, {"prompt": "(80%) Gas prices ___ go up.", "options": ["are likely to", "definitely won't"], "answer": "are likely to"}, {"prompt": "(20%) People ___ stop using cars completely.", "options": ["probably won't", "are bound to"], "answer": "probably won't"}]},
+        {"id": "ex2", "type": "order_words", "title": "Adverb position", "instruction": "Put the words in the correct order.", "instruction_pt": "Coloque as palavras na ordem certa.",
+         "items": [{"prompt": "probably / it / rain / will / later", "answer": "It will probably rain later."}, {"prompt": "won't / definitely / we / be late", "answer": "We definitely won't be late."}, {"prompt": "likely / are / to / prices / rise", "answer": "Prices are likely to rise."}, {"prompt": "be / bound / there's / to / traffic", "answer": "There's bound to be traffic."}]},
+        {"id": "ex3", "type": "fill_blank", "title": "Make predictions", "instruction": "Rewrite with the expression in parentheses.", "instruction_pt": "Reescreva com a expressão entre parênteses.",
+         "items": [{"prompt": "Electric cars will probably get cheaper. (be likely to) → Electric cars ___.", "answer": "are likely to get cheaper"}, {"prompt": "Maybe the project will fail. (might) → The project ___.", "answer": "might fail"}, {"prompt": "It probably won't snow in Rio. (be unlikely to) → It ___ in Rio.", "answer": "is unlikely to snow"}, {"prompt": "There will certainly be problems. (be bound to) → There ___ problems.", "answer": "are bound to be"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "Self-driving cars might become common."}, {"prompt": "2", "answer": "Prices are likely to fall."}, {"prompt": "3", "answer": "There's bound to be resistance."}, {"prompt": "4", "answer": "I doubt we'll have flying cars by 2030."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "It won't probably work.", "answer": "It probably won't work."}, {"prompt": "Cars are likely to becoming electric.", "answer": "Cars are likely to become electric."}, {"prompt": "We will might move to Portugal.", "answer": "We might move to Portugal."}, {"prompt": "It's unlikely that happen soon.", "answer": "It's unlikely to happen soon. / It's unlikely that it will happen soon."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Transport vocabulary", "instruction": "Complete with: range · charging · congestion · emissions · commuters.", "instruction_pt": "Complete com o vocabulário de transporte.",
+         "items": [{"prompt": "Electric cars produce no ___ while driving.", "answer": "emissions"}, {"prompt": "The city needs more ___ stations for EVs.", "answer": "charging"}, {"prompt": "The new car has a battery ___ of 500 km.", "answer": "range"}, {"prompt": "Thousands of ___ face hours of ___ every day.", "answer": "commuters / congestion"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Future of my city\" panel: in groups, make 5 predictions about transport in your city in 2045, each with a different degree of certainty. Defend them and challenge the other groups.",
+        "instruction_pt": "Painel \"Futuro da minha cidade\": em grupos, façam 5 previsões sobre o transporte na sua cidade em 2045, cada uma com um grau de certeza diferente. Defendam e questionem os outros grupos.",
+        "questions": ["Will you own a car in 2040? How certain are you?", "Would you trust a self-driving car with your family?", "Is the 15-minute city likely to work where you live?", "What's bound to change in your city in the next ten years?", "What transport innovation do you doubt will ever work?"]
+      },
+      "writing": {
+        "task": "Write a short report (150–180 words): \"Transport in my city in 2045\". Make predictions with at least 6 different expressions of certainty.",
+        "task_pt": "Escreva um relatório curto (150–180 palavras): \"O transporte na minha cidade em 2045\". Faça previsões com pelo menos 6 expressões diferentes de certeza.",
+        "model": "Transport in Curitiba in 2045\n\nCuritiba has always been a pioneer in public transport, so its future is likely to be exciting. First, the city's famous bus rapid transit system will definitely continue, but the buses are bound to be fully electric and much quieter. Second, the number of bike lanes is likely to double, because more young people prefer cycling to driving. Self-driving cars might become common on highways around the city, but I doubt they will be popular in the busy center, where pedestrians and cyclists make traffic unpredictable. Flying taxis could appear for business travelers, but they're unlikely to be affordable for most people. On the other hand, private cars probably won't disappear completely, especially for families in the suburbs. In my opinion, the biggest change will be cultural: by 2045, many residents will have stopped seeing the car as a symbol of status, and the city will probably be greener, quieter and more pleasant to live in."
+      },
+      "culture_note": {
+        "title": "\"Transport\" ou \"transportation\"?",
+        "text_pt": "No Reino Unido: **public transport**, **the underground**, **a lorry** (caminhão), **petrol**. Nos EUA: **public transportation / transit**, **the subway**, **a truck**, **gas**. Ambos estão certos — mas mantenha a consistência num mesmo texto."
+      },
+      "summary_pt": ["100%: will definitely / be bound to · 80%: will probably / be likely to.", "50%: may / might / could · 20%: probably won't / be unlikely to.", "Negativa: probably won't (não won't probably).", "Nunca dois modais juntos (will might)."]
+    },
+    {
+      "id": "B1P-M4-L3",
+      "title": "This might be the answer",
+      "subtitle_pt": "Modais de dedução: must, might, can't (+ have + particípio)",
+      "duration_min": 70,
+      "source_refs": ["Keynote Intermediate – Unit 8.3 (This might be the answer)", "Keynote Intermediate – Grammar summary (modals of probability)"],
+      "objectives": ["Fazer deduções sobre o presente com must be / might be / can't be", "Fazer deduções sobre o passado com must have / might have / can't have + particípio", "Especular sobre mistérios, problemas e soluções", "Discutir inovações que resolvem problemas reais"],
+      "warmup": {
+        "text_pt": "Seu colega chegou ao trabalho de óculos escuros, com o cabelo molhado e sem dizer bom dia. O que pode ter acontecido? Hoje vamos aprender a **especular** em inglês — como detetives.",
+        "questions": ["Look out the window. What might the people outside be doing?", "What's the most mysterious thing that has happened to you?"]
+      },
+      "vocabulary": [
+        {"en": "to guess / a guess", "pt": "adivinhar, supor / um palpite", "say": "tu gués"},
+        {"en": "to deduce / deduction", "pt": "deduzir / dedução", "say": "tu didiús / didâkshon"},
+        {"en": "evidence / a clue", "pt": "evidência / uma pista", "say": "évidens / a klú"},
+        {"en": "a mystery / mysterious", "pt": "um mistério / misterioso", "say": "místeri / mistírias"},
+        {"en": "an explanation", "pt": "uma explicação", "say": "an eksplanêishon"},
+        {"en": "a solution / to solve", "pt": "uma solução / resolver", "say": "solúshon / tu sólv"},
+        {"en": "an inventor / an invention", "pt": "um inventor / uma invenção", "say": "invéntor / invénshon"},
+        {"en": "a prototype", "pt": "um protótipo", "say": "prôutotaip"},
+        {"en": "a water filter / clean water", "pt": "um filtro de água / água potável", "say": "uórer fílter"},
+        {"en": "low-cost / affordable", "pt": "de baixo custo / acessível", "say": "lôu kóst / afórdabol"},
+        {"en": "to come up with (an idea)", "pt": "ter (uma ideia), bolar", "say": "tu kâm âp uídh"},
+        {"en": "it's no wonder", "pt": "não é de admirar", "say": "its nôu uânder"}
+      ],
+      "chunks": [
+        {"en": "She must be exhausted.", "pt": "Ela deve estar exausta."},
+        {"en": "That can't be true!", "pt": "Isso não pode ser verdade!"},
+        {"en": "He might be stuck in traffic.", "pt": "Ele pode estar preso no trânsito."},
+        {"en": "They must have forgotten.", "pt": "Eles devem ter esquecido."},
+        {"en": "You can't have finished already!", "pt": "Você não pode ter terminado já!"},
+        {"en": "It might have been a mistake.", "pt": "Pode ter sido um erro."}
+      ],
+      "grammar": {
+        "title": "Modals of deduction: present and past",
+        "explanation_pt": "Usamos **modais de dedução** para dizer o que achamos que **é verdade** com base em evidências.\n\n**PRESENTE — modal + verbo base (ou be + -ing):**\n- **must** = tenho quase certeza que **sim**: \"You've been working for 12 hours. You **must be** tired.\"\n- **might / may / could** = **talvez**: \"He's not answering. He **might be** in a meeting.\"\n- **can't** = tenho quase certeza que **não**: \"That **can't be** Ana. She's in Japan.\"\n⚠️ O oposto de **must** (dedução) é **can't**, não \"mustn't\" (mustn't = proibição).\n\n**PASSADO — modal + have + particípio:**\n- **must have** + particípio = com certeza aconteceu: \"The streets are wet. It **must have rained**.\"\n- **might / may / could have** + particípio = talvez tenha acontecido: \"She's late. She **might have missed** the bus.\"\n- **can't / couldn't have** + particípio = com certeza **não** aconteceu: \"He **can't have stolen** the money — he was with me all night.\"\n\n**Para ação em andamento:**\n- presente: \"She **must be working** late.\"\n- passado: \"They **must have been sleeping** when the alarm went off.\"\n\nNa fala, **must have** = \"**mâstav**\", **might have** = \"**máitav**\", **can't have** = \"**kéntav**\".",
+        "table": {
+          "headers": ["Certeza", "Presente", "Passado"],
+          "rows": [["~95% sim", "must be / must work", "must have been / must have worked"], ["~50%", "might / may / could be", "might / may / could have been"], ["~95% não", "can't be", "can't / couldn't have been"]]
+        },
+        "examples": [
+          {"en": "The office lights are still on at midnight. Someone must be working late.", "pt": "As luzes do escritório ainda estão acesas à meia-noite. Alguém deve estar trabalhando até tarde."},
+          {"en": "This invention could save millions of lives. It might be the answer we've been looking for.", "pt": "Esta invenção pode salvar milhões de vidas. Pode ser a resposta que estávamos procurando."},
+          {"en": "My keys aren't here. I must have left them at the office — or I might have dropped them in the taxi.", "pt": "Minhas chaves não estão aqui. Devo ter deixado no escritório — ou posso ter deixado cair no táxi."}
+        ],
+        "tip_pt": "Não confunda **must have** (dedução: deve ter) com **should have** (crítica/arrependimento: deveria ter). \"He **must have** forgotten\" (tenho quase certeza que esqueceu) x \"He **should have** remembered\" (era para ter lembrado)."
+      },
+      "common_mistakes": [
+        {"wrong": "She mustn't be at home. The lights are off. (dedução)", "right": "She can't be at home. The lights are off.", "why_pt": "O negativo de must (dedução) é can't."},
+        {"wrong": "He must forgot his phone.", "right": "He must have forgotten his phone.", "why_pt": "Dedução sobre o passado = must have + particípio."},
+        {"wrong": "It might rained last night.", "right": "It might have rained last night.", "why_pt": "Passado = might have + particípio."}
+      ],
+      "pronunciation": {
+        "focus": "must have / might have / can't have",
+        "tip_pt": "Na fala, o **have** vira \"**av**\" ou \"**â**\": **must have** = \"MÂS-tav\", **might have** = \"MÁI-tav\", **can't have** = \"KÉNT-av\", **could have** = \"KÚ-dav\". Por isso nativos às vezes escrevem errado \"must of\".",
+        "practice": ["She must have forgotten. (\"mâstav\")", "They might have missed the train. (\"máitav\")", "He can't have finished already! (\"kéntav\")"]
+      },
+      "dialogue": {
+        "title": "The mystery of the missing laptop",
+        "context_pt": "Dois colegas tentam descobrir o que aconteceu com um notebook que sumiu do escritório.",
+        "lines": [
+          {"speaker": "Caio", "en": "My laptop's gone! I left it on my desk last night.", "pt": "Meu notebook sumiu! Deixei na minha mesa ontem à noite."},
+          {"speaker": "Ellen", "en": "Calm down. Someone from IT might have taken it for the software update. They were updating everyone's computers this week.", "pt": "Calma. Alguém da TI pode ter levado para a atualização de software. Eles estavam atualizando os computadores de todo mundo esta semana."},
+          {"speaker": "Caio", "en": "They can't have taken it. They always leave a note, and there's nothing here.", "pt": "Eles não podem ter levado. Sempre deixam um bilhete, e não tem nada aqui."},
+          {"speaker": "Ellen", "en": "Hmm. Was the cleaning team here last night?", "pt": "Hmm. A equipe de limpeza esteve aqui ontem à noite?"},
+          {"speaker": "Caio", "en": "Yes, but they've worked here for years. It can't be them.", "pt": "Sim, mas eles trabalham aqui há anos. Não pode ser eles."},
+          {"speaker": "Ellen", "en": "Wait — is that your bag under Mark's desk? You must have put it there when you were talking to him yesterday.", "pt": "Espera — aquela não é sua bolsa debaixo da mesa do Mark? Você deve ter colocado lá quando estava falando com ele ontem."},
+          {"speaker": "Caio", "en": "Oh no... you're right. The laptop must be in the bag. I must have been more tired than I thought!", "pt": "Ah não... você tem razão. O notebook deve estar na bolsa. Eu devia estar mais cansado do que imaginava!"},
+          {"speaker": "Ellen", "en": "Mystery solved. You might need a coffee.", "pt": "Mistério resolvido. Talvez você precise de um café."}
+        ]
+      },
+      "listening": {
+        "title": "Innovation podcast: simple solutions",
+        "context_pt": "Um podcast sobre invenções simples que resolvem grandes problemas.",
+        "lines": [
+          {"speaker": "Host", "en": "Today, let's talk about simple inventions that might change millions of lives. Take the solar-powered lamp, for example. In places without electricity, families often use kerosene lamps, which are expensive and dangerous. A cheap solar lamp could save money and prevent fires. Or consider low-cost water filters made from clay and sawdust. The inventors must have asked themselves: what materials do local people already have? That's the secret. The best solutions often aren't the most high-tech ones. They're the ones that people can afford, repair and actually use. So the next time you face a problem, ask yourself: could the answer be simpler than I think?"}
+        ],
+        "questions": [
+          {"q": "What do families without electricity often use?", "answer": "Kerosene lamps (expensive and dangerous)."},
+          {"q": "What could a cheap solar lamp do?", "answer": "Save money and prevent fires."},
+          {"q": "What are the low-cost water filters made from?", "answer": "Clay and sawdust."},
+          {"q": "What's the \"secret\" of the best solutions?", "answer": "People can afford, repair and actually use them."}
+        ]
+      },
+      "reading": {
+        "title": "The mystery of the Voynich manuscript",
+        "text": "In 1912, a book dealer named Wilfrid Voynich bought a strange manuscript from a collection in Italy. The book, which is now kept at Yale University, has about 240 pages full of drawings of unknown plants, astronomical diagrams and women bathing in green pools. But the strangest thing is the text: it's written in an alphabet that nobody has ever been able to read. Carbon dating has shown that the parchment must have been made in the early 15th century. So who wrote it, and why? Some researchers believe it might be written in a lost natural language. Others think it could be a code designed to hide secret medical or alchemical knowledge. Some skeptics argue that it can't contain real meaning at all: it might have been a clever hoax, created to sell to a rich collector. Over the years, linguists, cryptographers and even AI programs have tried to decode it, and several people have claimed to have solved the mystery — but none of their solutions has been widely accepted. For now, the Voynich manuscript remains one of the most famous unsolved puzzles in the world.",
+        "questions": [
+          {"q": "When was the parchment made, according to carbon dating?", "answer": "In the early 15th century."},
+          {"q": "What does the book contain?", "answer": "Drawings of unknown plants, astronomical diagrams, women bathing, and text in an unknown alphabet."},
+          {"q": "What are two theories about the text?", "answer": "A lost natural language; a code hiding secret knowledge; a hoax."},
+          {"q": "Has anyone solved the mystery?", "answer": "Several people have claimed to, but no solution has been widely accepted."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Present deduction", "instruction": "Choose the best option.", "instruction_pt": "Escolha a melhor opção.",
+         "items": [{"prompt": "She's been running for two hours. She ___ be exhausted.", "options": ["must", "can't", "mustn't"], "answer": "must"}, {"prompt": "That ___ be Pedro's car. He sold it last year.", "options": ["must", "can't", "might"], "answer": "can't"}, {"prompt": "I'm not sure where he is. He ___ be at the gym.", "options": ["must", "might", "can't"], "answer": "might"}, {"prompt": "You've just won the lottery? You ___ be joking!", "options": ["must", "can't", "might"], "answer": "must"}]},
+        {"id": "ex2", "type": "fill_blank", "title": "Past deduction", "instruction": "Complete with must have, might have or can't have + the verb in parentheses.", "instruction_pt": "Complete com must have, might have ou can't have + verbo.",
+         "items": [{"prompt": "The ground is wet. It ___ (rain) last night.", "answer": "must have rained"}, {"prompt": "She didn't answer. She ___ (be) asleep — I'm not sure.", "answer": "might have been"}, {"prompt": "He ___ (write) this essay. It's perfect, and his English is basic.", "answer": "can't have written"}, {"prompt": "I can't find my wallet. I ___ (leave) it at the restaurant.", "answer": "must have left / might have left"}, {"prompt": "They ___ (see) us. We were hiding behind the tree.", "answer": "can't have seen"}]},
+        {"id": "ex3", "type": "match", "title": "Speculate!", "instruction": "Write a deduction for each situation.", "instruction_pt": "Escreva uma dedução para cada situação.",
+         "items": [{"prompt": "Your friend is smiling and holding a job contract.", "answer": "She must have got the job."}, {"prompt": "Your colleague hasn't arrived and isn't answering the phone.", "answer": "He might be stuck in traffic. / He might have overslept."}, {"prompt": "There's a huge line outside a new restaurant.", "answer": "The food must be very good."}, {"prompt": "Someone says your 5-year-old nephew drove a car.", "answer": "That can't be true! / He can't have driven a car."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "She must be exhausted."}, {"prompt": "2", "answer": "That can't be true!"}, {"prompt": "3", "answer": "They must have forgotten."}, {"prompt": "4", "answer": "It might have been a mistake."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "He mustn't be Brazilian. He doesn't speak Portuguese. (dedução)", "answer": "He can't be Brazilian."}, {"prompt": "She must forgot the meeting.", "answer": "She must have forgotten the meeting."}, {"prompt": "They might have went home.", "answer": "They might have gone home."}, {"prompt": "You can't have finish already!", "answer": "You can't have finished already!"}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the conversation", "instruction": "Complete with: must · might · can't · have · been.", "instruction_pt": "Complete a conversa.",
+         "items": [{"prompt": "A: Where's Bia? She's never late. — B: She ___ be stuck in traffic. I don't know.", "answer": "might"}, {"prompt": "A: She ___ be in traffic. She takes the subway!", "answer": "can't"}, {"prompt": "B: Then the subway ___ have broken down again.", "answer": "must"}, {"prompt": "A: Or she might ___ overslept. She ___ been working late last night.", "answer": "have / must have"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Mystery photos\": look at unusual images (or describe strange situations) and speculate about what is happening and what happened before, using modals of deduction.",
+        "instruction_pt": "\"Fotos misteriosas\": olhem imagens incomuns (ou descrevam situações estranhas) e especulem sobre o que está acontecendo e o que aconteceu antes, usando modais de dedução.",
+        "questions": ["What do you think the Voynich manuscript might be?", "Think of a famous unsolved mystery. What might have happened?", "What simple invention might change the world?", "Have you ever lost something important? Where must you have left it?", "Who might have invented the first wheel? How?"]
+      },
+      "writing": {
+        "task": "Write a short \"detective report\" (150–180 words) about a real or invented mystery: describe the evidence and give at least 3 possible explanations using modals of deduction.",
+        "task_pt": "Escreva um \"relatório de detetive\" curto (150–180 palavras) sobre um mistério real ou inventado: descreva as evidências e dê pelo menos 3 explicações possíveis usando modais de dedução.",
+        "model": "Case report: The empty office\n\nOn Monday morning, employees at a design studio in Belo Horizonte found something strange. All the plants in the office had been moved to the meeting room, every chair was facing the window, and there was a birthday cake on the table with no name on it. Nobody remembered ordering it.\n\nThere are several possible explanations. First, the cleaning team might have moved the plants to clean the floor, but this can't explain the cake. Second, someone must have had a key, because the door wasn't damaged. The manager, who was the only person in the office on Sunday, could have organized a surprise for somebody — but he says he didn't. Finally, the chairs facing the window are a clue: someone might have been planning a photo session.\n\nThe truth? On Tuesday, the receptionist admitted that she had organized a surprise party for her colleague's birthday — but she had got the date wrong. It must have been an awkward Monday!"
+      },
+      "culture_note": {
+        "title": "Sherlock Holmes e \"Elementary\"",
+        "text_pt": "O detetive Sherlock Holmes é famoso por suas deduções (\"You must have been in Afghanistan\"). A frase **\"Elementary, my dear Watson\"** é uma das mais citadas da cultura britânica — embora, curiosamente, ela nunca apareça exatamente assim nos livros originais de Arthur Conan Doyle."
+      },
+      "summary_pt": ["must (sim) · might/may/could (talvez) · can't (não).", "Passado: must / might / can't + have + particípio.", "Oposto de must (dedução) = can't (não mustn't).", "must have (dedução) ≠ should have (arrependimento)."]
+    },
+    {
+      "id": "B1P-M4-L4",
+      "title": "Speak after the tone",
+      "subtitle_pt": "Ligações e mensagens de voz profissionais",
+      "duration_min": 65,
+      "source_refs": ["Keynote Intermediate – Unit 8.4 (Speak after the tone)", "Keynote Intermediate – Unit 8 (Real life: leaving voicemail messages)"],
+      "objectives": ["Fazer e atender ligações profissionais em inglês", "Deixar mensagens de voz claras e completas", "Anotar e passar recados (taking messages)", "Lidar com problemas de conexão e pedir repetição"],
+      "warmup": {
+        "text_pt": "Para muitos alunos, falar inglês ao telefone é o maior desafio: não há gestos, a qualidade do som é ruim e tudo acontece rápido. Hoje você vai aprender as frases-chave para se sentir seguro.",
+        "questions": ["Do you prefer calling or texting? Why?", "Have you ever had a phone call in English? How was it?"]
+      },
+      "vocabulary": [
+        {"en": "to call back / to return a call", "pt": "retornar a ligação", "say": "tu kól bék / tu ritârn a kól"},
+        {"en": "to leave a message / voicemail", "pt": "deixar recado / mensagem de voz", "say": "tu lív a mésidj / vóismeil"},
+        {"en": "to take a message", "pt": "anotar um recado", "say": "tu têik a mésidj"},
+        {"en": "to hold (the line) / to hang on", "pt": "aguardar na linha", "say": "tu rôuld / tu réng on"},
+        {"en": "to put (someone) through", "pt": "transferir a ligação", "say": "tu put θrú"},
+        {"en": "to hang up", "pt": "desligar", "say": "tu réng âp"},
+        {"en": "the line is busy", "pt": "a linha está ocupada", "say": "dâ láin iz bízi"},
+        {"en": "to break up / bad connection", "pt": "picotar / conexão ruim", "say": "tu brêik âp / béd konékshon"},
+        {"en": "extension", "pt": "ramal", "say": "iksténshon"},
+        {"en": "to get back to (someone)", "pt": "dar retorno a (alguém)", "say": "tu guét bék tu"},
+        {"en": "at your earliest convenience", "pt": "assim que possível (formal)", "say": "ét iór ârliest konvíniens"},
+        {"en": "the tone / the beep", "pt": "o sinal (da caixa postal)", "say": "dâ tôun / dâ bíp"}
+      ],
+      "chunks": [
+        {"en": "Hello, this is Ana Souza from TechSol.", "pt": "Alô, aqui é a Ana Souza, da TechSol."},
+        {"en": "Could I speak to Mr. Davis, please?", "pt": "Eu poderia falar com o Sr. Davis, por favor?"},
+        {"en": "I'm afraid he's not available. Can I take a message?", "pt": "Infelizmente ele não está disponível. Posso anotar um recado?"},
+        {"en": "Hold on, I'll put you through.", "pt": "Aguarde, vou transferir."},
+        {"en": "Sorry, you're breaking up.", "pt": "Desculpe, você está picotando."},
+        {"en": "Please call me back on 5-5-5, 2-1-9-0.", "pt": "Por favor, me retorne no 555-2190."}
+      ],
+      "grammar": {
+        "title": "Linguagem de telefone e mensagens",
+        "explanation_pt": "Ao telefone, a linguagem é bem **fixa** — aprenda em **blocos**:\n\n**1. Identificar-se:** em inglês, diga **\"This is...\"** (não \"I am...\"): \"Hello, **this is** Pedro from Alfa Bank.\" / Para perguntar quem fala: \"**Who's calling, please?**\" / \"**May I ask who's calling?**\"\n\n**2. Pedir para falar com alguém:** \"**Could I speak to**...?\" / \"**I'm calling about**...\" / \"**I'm returning** Ms. Lee's **call**.\"\n\n**3. Pedidos educados:** **will / would / could** — \"**Could you** ask her to call me back?\" / \"**Would you** mind spelling that?\"\n\n**4. Ofertas com will (decisão na hora):** \"**I'll** put you through.\" / \"**I'll** tell him you called.\" / \"**I'll** call back later.\"\n\n**5. Passar recados (reported requests — introdução):**\n- Ela disse: \"Call me back.\" → **She asked you to call her back.**\n- Ele disse: \"I'll be late.\" → **He said (that) he'd be late.**\n(Você vai aprofundar o reported speech no Módulo 6!)\n\n**6. Estrutura de uma boa mensagem de voz:**\n1. Cumprimento + **quem é** (nome + empresa)\n2. **Hora/data** da ligação\n3. **Motivo** da ligação\n4. **Ação** pedida (\"Could you call me back...?\")\n5. **Número** — falado **devagar**, de preferência **duas vezes**\n6. Despedida",
+        "table": {
+          "headers": ["Situação", "Frase"],
+          "rows": [["Atender (empresa)", "Good morning, Alfa Bank, Laura speaking. How can I help?"], ["Identificar-se", "Hi, this is Pedro from TechSol."], ["Pedir alguém", "Could I speak to Mr. Davis, please?"], ["Transferir", "Hold on, please. I'll put you through."], ["Pessoa indisponível", "I'm afraid she's in a meeting. Can I take a message?"], ["Problema técnico", "Sorry, you're breaking up. Could you repeat that?"], ["Encerrar", "Thanks for calling. Have a good day."]]
+        },
+        "examples": [
+          {"en": "Hi, this is Mariana Lopes from Green Energy. I'm calling about the proposal I sent on Monday.", "pt": "Oi, aqui é a Mariana Lopes, da Green Energy. Estou ligando sobre a proposta que enviei na segunda."},
+          {"en": "I'm afraid Mr. Davis is out of the office today. Would you like to leave a message?", "pt": "Infelizmente o Sr. Davis está fora do escritório hoje. Gostaria de deixar um recado?"},
+          {"en": "Sorry, the line is really bad. I'll call you back in a minute.", "pt": "Desculpe, a linha está muito ruim. Te ligo de volta em um minuto."}
+        ],
+        "tip_pt": "Para soletrar ao telefone, use o **alfabeto fonético** (NATO): A de Alpha, B de Bravo, C de Charlie, D de Delta, E de Echo... \"S as in Sierra, O as in Oscar, U as in Uniform...\""
+      },
+      "common_mistakes": [
+        {"wrong": "Hello, I am Pedro. (ao telefone)", "right": "Hello, this is Pedro.", "why_pt": "Ao telefone, identifique-se com \"This is...\"."},
+        {"wrong": "Can you call me back to the number...?", "right": "Can you call me back on/at 555-2190?", "why_pt": "Número de telefone: on (UK) ou at (US)."},
+        {"wrong": "She said me to call her.", "right": "She asked me to call her. / She told me to call her.", "why_pt": "Say não tem objeto direto de pessoa; use ask/tell + objeto + to."}
+      ],
+      "pronunciation": {
+        "focus": "Números de telefone",
+        "tip_pt": "Fale números em **blocos de 3 ou 4**, com pausa entre eles e entonação subindo no fim de cada bloco (menos o último): \"five-five-five ↗ / two-one-nine-oh ↘\". **0** = \"oh\" ou \"zero\"; **44** = \"double four\".",
+        "practice": ["My number is five-five-five ↗, two-one-nine-oh ↘.", "That's double-four, seven-oh-two.", "S as in Sierra, O as in Oscar."]
+      },
+      "dialogue": {
+        "title": "Calling a client",
+        "context_pt": "Rafaela liga para um cliente nos EUA, mas ele não está disponível.",
+        "lines": [
+          {"speaker": "Receptionist", "en": "Good morning, Harper & Co., Jenny speaking. How can I help you?", "pt": "Bom dia, Harper & Co., Jenny falando. Como posso ajudar?"},
+          {"speaker": "Rafaela", "en": "Hi, Jenny. This is Rafaela Costa from Studio Sol in Brazil. Could I speak to Mr. Davis, please?", "pt": "Oi, Jenny. Aqui é a Rafaela Costa, do Studio Sol, no Brasil. Eu poderia falar com o Sr. Davis, por favor?"},
+          {"speaker": "Receptionist", "en": "One moment, please... I'm afraid he's in a meeting right now. Can I take a message?", "pt": "Um momento, por favor... Infelizmente ele está numa reunião agora. Posso anotar um recado?"},
+          {"speaker": "Rafaela", "en": "Yes, please. I'm calling about the new website designs. Could you ask him to call me back today if possible?", "pt": "Sim, por favor. Estou ligando sobre os novos designs do site. Você poderia pedir para ele me retornar hoje, se possível?"},
+          {"speaker": "Receptionist", "en": "Of course. Could you spell your last name for me?", "pt": "Claro. Você poderia soletrar seu sobrenome?"},
+          {"speaker": "Rafaela", "en": "Sure. C as in Charlie, O as in Oscar, S as in Sierra, T as in Tango, A as in Alpha.", "pt": "Claro. C de Charlie, O de Oscar, S de Sierra, T de Tango, A de Alpha."},
+          {"speaker": "Receptionist", "en": "Thank you. And what's the best number to reach you?", "pt": "Obrigada. E qual é o melhor número para falar com você?"},
+          {"speaker": "Rafaela", "en": "It's plus 55, 11, 9-8-7-6, 5-4-3-2. I'm available until 6 p.m. Brazil time — that's 4 p.m. in New York.", "pt": "É +55, 11, 9876-5432. Estou disponível até as 18h no horário do Brasil — 16h em Nova York."},
+          {"speaker": "Receptionist", "en": "Got it. I'll make sure he gets the message.", "pt": "Anotado. Vou garantir que ele receba o recado."}
+        ]
+      },
+      "listening": {
+        "title": "Three voicemail messages",
+        "context_pt": "Três mensagens deixadas na caixa postal de um gerente.",
+        "lines": [
+          {"speaker": "Voice 1", "en": "Hi Mark, it's Laura from accounting. It's Tuesday, about 10 a.m. I just need you to approve the travel expenses for the Lisbon trip. It's urgent because the deadline is tomorrow. Thanks!"},
+          {"speaker": "Voice 2", "en": "Good afternoon, Mr. Silva. This is David Chen from Pacific Logistics. I'm calling about the delivery delay we discussed last week. The containers will now arrive on Friday instead of Wednesday. Please call me back on 4-1-5, 5-5-5, 0-1-8-2. That's 415 555 0182. Thank you."},
+          {"speaker": "Voice 3", "en": "Hey, it's me! Just reminding you that Dad's birthday dinner is tonight at 8, at the Italian place. Don't be late this time! Love you."}
+        ],
+        "questions": [
+          {"q": "What does Laura need Mark to do?", "answer": "Approve the travel expenses for the Lisbon trip (urgent, deadline tomorrow)."},
+          {"q": "What's David Chen's news?", "answer": "The containers will arrive on Friday instead of Wednesday."},
+          {"q": "What's David's phone number?", "answer": "415 555 0182."},
+          {"q": "What's happening tonight, according to the third message?", "answer": "Dad's birthday dinner at 8 at the Italian place."}
+        ]
+      },
+      "reading": {
+        "title": "Why we hate phone calls",
+        "text": "For many young professionals, an unexpected phone call feels almost like an emergency. Surveys in the UK and the US have found that a large number of people under 35 avoid answering calls from unknown numbers, and many feel anxious when they have to make a call. Some even rehearse what they're going to say before dialing. Why? Researchers point to several reasons. Text messages and emails give us time to think and edit; phone calls happen in real time, with no chance to delete a mistake. Calls can also feel intrusive: they interrupt whatever you're doing. And for people speaking a second language, the lack of facial expressions and gestures makes understanding much harder. However, many managers say that phone calls are still the fastest way to solve complex problems and build relationships. A five-minute call can save twenty emails. The solution? Practice. Experts suggest preparing a few key phrases, keeping a notepad ready and remembering that it's completely normal to say: \"Sorry, could you repeat that?\"",
+        "questions": [
+          {"q": "What do many people under 35 avoid?", "answer": "Answering calls from unknown numbers."},
+          {"q": "Why do text messages feel easier?", "answer": "They give us time to think and edit."},
+          {"q": "Why are calls harder in a second language?", "answer": "There are no facial expressions or gestures."},
+          {"q": "Why do managers still value phone calls?", "answer": "They're the fastest way to solve complex problems and build relationships."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "match", "title": "Phone phrases", "instruction": "Write the English phrase.", "instruction_pt": "Escreva a frase em inglês.",
+         "items": [{"prompt": "Aqui é a Ana. (ao telefone)", "answer": "This is Ana."}, {"prompt": "Aguarde, vou transferir.", "answer": "Hold on, I'll put you through."}, {"prompt": "Posso anotar um recado?", "answer": "Can I take a message?"}, {"prompt": "Você está picotando.", "answer": "You're breaking up."}, {"prompt": "Quem gostaria de falar?", "answer": "Who's calling, please? / May I ask who's calling?"}]},
+        {"id": "ex2", "type": "order_words", "title": "Voicemail order", "instruction": "Put the parts of the voicemail in the correct order (write the letters).", "instruction_pt": "Coloque as partes da mensagem de voz na ordem correta (escreva as letras).",
+         "items": [{"prompt": "a) Could you call me back before 5 p.m.? / b) Hi Ms. Lee, this is Tom Ramos from Alfa Bank. / c) My number is 555 3471. That's 555 3471. Thanks! / d) I'm calling about your loan application. / e) It's Wednesday, around 11 a.m.", "answer": "b, e, d, a, c"}]},
+        {"id": "ex3", "type": "answer", "title": "Pass on the message", "instruction": "Report the message using asked/told + to or said (that).", "instruction_pt": "Passe o recado usando asked/told + to ou said (that).",
+         "items": [{"prompt": "Laura: \"Call me back.\" → Laura ___.", "answer": "Laura asked you to call her back."}, {"prompt": "Mr. Chen: \"I'll be in the office tomorrow.\" → Mr. Chen ___.", "answer": "Mr. Chen said (that) he'd be in the office tomorrow."}, {"prompt": "Your boss: \"Send the report today.\" → Your boss ___.", "answer": "Your boss told you to send the report today."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "Could I speak to Mr. Davis, please?"}, {"prompt": "2", "answer": "I'm afraid he's not available."}, {"prompt": "3", "answer": "Hold on, I'll put you through."}, {"prompt": "4", "answer": "Sorry, you're breaking up."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "Hello, I am Rafaela from Studio Sol. (ao telefone)", "answer": "Hello, this is Rafaela from Studio Sol."}, {"prompt": "She said me to call her back.", "answer": "She asked/told me to call her back."}, {"prompt": "Can you call me back to 555 1234?", "answer": "Can you call me back on/at 555 1234?"}, {"prompt": "I'm calling for the invoice.", "answer": "I'm calling about the invoice."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the call", "instruction": "Complete with: speaking · through · hold · available · message.", "instruction_pt": "Complete a ligação.",
+         "items": [{"prompt": "A: Good afternoon, Nova Tech, Paulo ___.", "answer": "speaking"}, {"prompt": "B: Hi, could I speak to Ms. Ramos? — A: Please ___ the line.", "answer": "hold"}, {"prompt": "A: I'll put you ___... Sorry, she's not ___ at the moment.", "answer": "through / available"}, {"prompt": "A: Would you like to leave a ___?", "answer": "message"}]}
+      ],
+      "speaking": {
+        "instruction": "Phone role-plays back to back (no eye contact!): 1) call a company and ask for someone who isn't available; 2) leave a voicemail; 3) take a message and pass it on to a third person.",
+        "instruction_pt": "Role-plays de telefone de costas um para o outro (sem contato visual!): 1) ligue para uma empresa e peça alguém que não está; 2) deixe uma mensagem de voz; 3) anote um recado e passe para uma terceira pessoa.",
+        "questions": ["Do you get nervous on the phone? In English?", "When is a call better than an email?", "What's the strangest phone call you've ever received?", "How do you deal with spam calls?", "Do you think phone calls will disappear?"]
+      },
+      "writing": {
+        "task": "Write the script of a professional voicemail (60–80 words) and then an email (80–100 words) that passes on a message you took for a colleague.",
+        "task_pt": "Escreva o roteiro de uma mensagem de voz profissional (60–80 palavras) e depois um e-mail (80–100 palavras) passando a um colega um recado que você anotou.",
+        "model": "Voicemail:\nHi Mr. Davis, this is Rafaela Costa from Studio Sol. It's Thursday, around 2 p.m. Brazil time. I'm calling about the website designs I sent on Monday. We need your feedback by Friday to keep the launch date. Could you call me back today or tomorrow morning? My number is plus 55, 11, 9876 5432 — that's 9876 5432. Thanks, and have a great day!\n\nEmail:\nSubject: Message from David Chen (Pacific Logistics)\n\nHi Mark,\n\nDavid Chen from Pacific Logistics called while you were in the meeting. He said that the containers will arrive on Friday instead of Wednesday because of a problem at the port. He asked you to call him back today to discuss the new schedule. His number is 415 555 0182.\n\nBest,\nLaura"
+      },
+      "culture_note": {
+        "title": "Ligar sem avisar?",
+        "text_pt": "Em muitos ambientes profissionais de língua inglesa, ligar sem avisar é cada vez menos comum. É educado mandar uma mensagem antes: **\"Do you have five minutes for a quick call?\"** ou **\"Can I give you a ring?\"** (UK). E no WhatsApp, áudios longos de trabalho podem ser malvistos — prefira texto ou uma chamada marcada."
+      },
+      "summary_pt": ["Ao telefone: This is... (não I am).", "Could I speak to...? / I'll put you through / Can I take a message?", "Mensagem de voz: quem → quando → motivo → ação → número (2x).", "Recados: She asked me to... / He said (that)..."]
+    }
+  ],
+  "review": {
+    "intro_pt": "Revise superlativos com present perfect, previsões, modais de dedução e linguagem de telefone.",
+    "exercises": [
+      {"id": "r1", "type": "multiple_choice", "title": "Choose the correct option", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+       "items": [{"prompt": "It's the most beautiful place I ___.", "options": ["ever saw", "'ve ever seen", "ever see"], "answer": "'ve ever seen"}, {"prompt": "It was the first time I ___ abroad.", "options": ["'ve been", "'d been", "was"], "answer": "'d been"}, {"prompt": "Prices ___ rise next year.", "options": ["are likely to", "are likely", "likely"], "answer": "are likely to"}, {"prompt": "That ___ be Ana. She's in Tokyo.", "options": ["mustn't", "can't", "might"], "answer": "can't"}, {"prompt": "Hello, ___ Pedro from Alfa Bank.", "options": ["I am", "this is", "here is"], "answer": "this is"}]},
+      {"id": "r2", "type": "fill_blank", "title": "Mixed practice", "instruction": "Complete with the correct form.", "instruction_pt": "Complete com a forma correta.",
+       "items": [{"prompt": "It ___ (probably / not) rain tomorrow.", "answer": "probably won't"}, {"prompt": "The streets are wet. It ___ (must / rain) last night.", "answer": "must have rained"}, {"prompt": "She ___ (ask) me to call her back.", "answer": "asked"}]},
+      {"id": "r3", "type": "translate", "title": "Translate", "instruction": "Translate into English.", "instruction_pt": "Traduza para o inglês.",
+       "items": [{"prompt": "É o melhor conselho que já recebi.", "answer": "It's the best advice I've ever received."}, {"prompt": "Ele deve ter esquecido.", "answer": "He must have forgotten."}, {"prompt": "Infelizmente ela está numa reunião. Posso anotar um recado?", "answer": "I'm afraid she's in a meeting. Can I take a message?"}]},
+      {"id": "r4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+       "items": [{"prompt": "1", "answer": "That was a turning point in my life."}, {"prompt": "2", "answer": "It's unlikely to happen soon."}, {"prompt": "3", "answer": "They might have missed the train."}]},
+      {"id": "r5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+       "items": [{"prompt": "It's the first time I visit Paris.", "answer": "It's the first time I've visited Paris."}, {"prompt": "It won't probably work.", "answer": "It probably won't work."}, {"prompt": "She must forgot the keys.", "answer": "She must have forgotten the keys."}]}
+    ],
+    "speaking_pt": "Grave um áudio de 3 minutos em dois momentos: (1) conte a experiência mais marcante da sua vida e o que aprendeu com ela; (2) faça três previsões sobre como será sua vida em 2040, cada uma com um grau de certeza diferente.",
+    "speaking_questions": ["What's the most important lesson you've ever learned?", "What will definitely change in your life in the next ten years?", "What might happen that would surprise you?", "Think of a mystery in your life. What might have happened?", "How comfortable are you making phone calls in English now?"],
+    "project_pt": "**Future lab:** em grupo, escolham um problema real da cidade (trânsito, enchentes, acessibilidade...) e criem uma \"invenção\" que poderia resolvê-lo. Apresentem: o problema, o que pode tê-lo causado (modais de dedução), a solução e previsões sobre o impacto (likely to / might / will definitely). Bônus: gravem uma mensagem de voz \"vendendo\" a ideia a um investidor."
+  }
+}

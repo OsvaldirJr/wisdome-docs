@@ -1,0 +1,532 @@
+{
+  "id": "A2-M5",
+  "level": "A2",
+  "title": "Plans",
+  "theme_pt": "Futuro: planos, compromissos, convites e decisões",
+  "can_do": ["Falar sobre planos e intenções com going to", "Combinar compromissos com o present continuous", "Fazer, aceitar e recusar convites com educação", "Usar will para decisões rápidas, ofertas e promessas", "Escolher a forma de futuro adequada a cada situação"],
+  "lessons": [
+    {
+      "id": "A2-M5-L1",
+      "title": "I'm going to travel",
+      "subtitle_pt": "Going to / gonna para planos e previsões",
+      "duration_min": 55,
+      "source_refs": ["To Go A2 – Lesson 15 (going to / gonna for future actions)", "StartUp 1 – Unit 10 (vacation)"],
+      "objectives": ["Usar going to para planos e intenções", "Fazer perguntas e negativas com going to", "Usar going to para previsões com evidência", "Reconhecer gonna na fala informal"],
+      "warmup": {
+        "text_pt": "Quais são seus planos para as próximas férias? E para o próximo ano? Você costuma planejar ou improvisa?",
+        "questions": ["What are you going to do this weekend?", "Where are you going to travel next?"]
+      },
+      "vocabulary": [
+        {"en": "tomorrow / next week / next year", "pt": "amanhã / semana que vem / ano que vem", "say": "tumórou / nékst uík / nékst iír"},
+        {"en": "soon / later", "pt": "em breve / mais tarde", "say": "sún / lêiter"},
+        {"en": "plan / goal", "pt": "plano / meta", "say": "plén / gôul"},
+        {"en": "to book", "pt": "reservar", "say": "tu búk"},
+        {"en": "to pack", "pt": "fazer a mala", "say": "tu pék"},
+        {"en": "to save money", "pt": "economizar dinheiro", "say": "tu sêiv mâni"},
+        {"en": "to quit (a job)", "pt": "largar, pedir demissão", "say": "tu kuít"},
+        {"en": "to move (house)", "pt": "mudar (de casa)", "say": "tu múv"},
+        {"en": "backpacking", "pt": "mochilão", "say": "békpekin"},
+        {"en": "itinerary", "pt": "roteiro", "say": "aitínereri"},
+        {"en": "New Year's resolution", "pt": "resolução de Ano Novo", "say": "niú iírz rezolúshon"},
+        {"en": "gonna (= going to)", "pt": "vou, vai (informal)", "say": "gâna"}
+      ],
+      "chunks": [
+        {"en": "What are you going to do?", "pt": "O que você vai fazer?"},
+        {"en": "I'm going to visit my family.", "pt": "Vou visitar minha família."},
+        {"en": "I'm not going to work this weekend.", "pt": "Não vou trabalhar este fim de semana."},
+        {"en": "Look at the sky! It's going to rain.", "pt": "Olha o céu! Vai chover."},
+        {"en": "I'm gonna be late!", "pt": "Vou me atrasar!"},
+        {"en": "What's the plan?", "pt": "Qual é o plano?"}
+      ],
+      "grammar": {
+        "title": "Going to",
+        "explanation_pt": "**Going to** é a forma mais comum de falar de **planos e intenções** — coisas que você **já decidiu** fazer.\n\n**Estrutura:** sujeito + **am/is/are** + **going to** + verbo base\n- I**'m going to** travel to Chile in July.\n- She**'s not going to** buy a car.\n- **Are** you **going to** study tonight?\n\nTambém usamos para **previsões com evidência** (algo que você vê que vai acontecer):\n- \"Look at those clouds! It**'s going to** rain.\"\n- \"Be careful! You**'re going to** fall!\"\n\n**Gonna:** na fala informal, \"going to\" vira **gonna**: \"I'm **gonna** call you.\" Você vai ouvir muito em séries e músicas. Use na fala, evite na escrita formal.\n\nCom **go**, é comum simplificar: \"I'm going to go to the beach\" → \"I'm **going to the beach**.\"",
+        "table": {
+          "headers": ["Afirmativa", "Negativa", "Pergunta"],
+          "rows": [["I'm going to travel.", "I'm not going to travel.", "Am I going to travel?"], ["He's going to quit.", "He isn't going to quit.", "Is he going to quit?"], ["We're going to move.", "We aren't going to move.", "What are you going to do?"]]
+        },
+        "examples": [
+          {"en": "We're going to book the hotel tonight.", "pt": "Vamos reservar o hotel hoje à noite."},
+          {"en": "I'm going to save money for a backpacking trip.", "pt": "Vou economizar para um mochilão."},
+          {"en": "Oh no, the phone is at 1%. It's going to die!", "pt": "Ah não, o celular está com 1%. Vai desligar!"}
+        ],
+        "tip_pt": "Não esqueça o **to be**: \"I going to...\" ❌ → \"I**'m** going to...\" ✅. É a mesma \"cola\" do present continuous."
+      },
+      "common_mistakes": [
+        {"wrong": "I going to travel.", "right": "I'm going to travel.", "why_pt": "Going to precisa do verbo to be."},
+        {"wrong": "She's going to traveling.", "right": "She's going to travel.", "why_pt": "Depois de going to, use o verbo na forma base."},
+        {"wrong": "I will to visit my mom.", "right": "I'm going to visit my mom. / I will visit my mom.", "why_pt": "Will não leva to."}
+      ],
+      "pronunciation": {
+        "focus": "Gonna",
+        "tip_pt": "**Going to** + verbo vira **gonna** (\"gâna\") na fala: \"I'm gonna go\" = \"áim gâna gôu\". Atenção: só vira gonna quando é futuro. \"I'm going **to** the gym\" (estou indo para) **não** vira \"gonna the gym\"!",
+        "practice": ["I'm gonna call you later.", "What are you gonna do?", "It's gonna rain."]
+      },
+      "dialogue": {
+        "title": "Vacation plans",
+        "context_pt": "Duas colegas falam sobre os planos para as férias de julho.",
+        "lines": [
+          {"speaker": "Jade", "en": "So, what are you going to do in July?", "pt": "E aí, o que você vai fazer em julho?"},
+          {"speaker": "Isa", "en": "I'm going to travel to Peru! I'm going to do the Inca Trail to Machu Picchu.", "pt": "Vou viajar para o Peru! Vou fazer a Trilha Inca até Machu Picchu."},
+          {"speaker": "Jade", "en": "Wow! Are you going to go alone?", "pt": "Uau! Você vai sozinha?"},
+          {"speaker": "Isa", "en": "No, my brother is going to come with me. We're going to book the tickets this weekend.", "pt": "Não, meu irmão vai comigo. Vamos comprar as passagens este fim de semana."},
+          {"speaker": "Jade", "en": "Amazing. It's going to be cold there in July, you know.", "pt": "Incrível. Vai estar frio lá em julho, sabia?"},
+          {"speaker": "Isa", "en": "I know. I'm going to buy a good jacket. And you?", "pt": "Eu sei. Vou comprar uma boa jaqueta. E você?"},
+          {"speaker": "Jade", "en": "I'm not going to travel. I'm going to stay home and finally paint my apartment!", "pt": "Não vou viajar. Vou ficar em casa e finalmente pintar meu apartamento!"}
+        ]
+      },
+      "listening": {
+        "title": "New Year's resolutions",
+        "context_pt": "Pessoas na rua respondem sobre suas resoluções de Ano Novo.",
+        "lines": [
+          {"speaker": "Reporter", "en": "Happy New Year! What are your resolutions?"},
+          {"speaker": "Woman", "en": "I'm going to learn to swim. I'm thirty-five and I can't swim!"},
+          {"speaker": "Man", "en": "I'm going to quit my job and open a coffee shop. My wife isn't very happy about it."},
+          {"speaker": "Teen", "en": "I'm not going to use my phone at the dinner table. My mom's idea, not mine."},
+          {"speaker": "Grandpa", "en": "I'm going to travel more. I'm seventy-eight, so I'm not going to wait!"}
+        ],
+        "questions": [
+          {"q": "What is the woman going to learn?", "answer": "To swim."},
+          {"q": "What is the man going to open?", "answer": "A coffee shop."},
+          {"q": "Whose idea is the teen's resolution?", "answer": "His mom's."},
+          {"q": "Why isn't the grandpa going to wait?", "answer": "Because he's 78."}
+        ]
+      },
+      "reading": {
+        "title": "Gap year plans",
+        "text": "Lucas is 18 and he just finished high school. He isn't going to start college this year — he's going to take a gap year. \"First, I'm going to work in a restaurant for four months to save money,\" he says. \"Then I'm going to travel around South America by bus. I'm going to volunteer at an animal shelter in Bolivia for a month.\" His parents were worried at first. \"But he has a plan and a budget,\" says his mom. \"And he's going to start college next year. I think it's going to be a great experience.\"",
+        "questions": [
+          {"q": "Is Lucas going to start college this year?", "answer": "No, he isn't. He's going to take a gap year."},
+          {"q": "Why is he going to work in a restaurant?", "answer": "To save money."},
+          {"q": "What is he going to do in Bolivia?", "answer": "Volunteer at an animal shelter for a month."},
+          {"q": "Why is his mom less worried now?", "answer": "Because he has a plan and a budget."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "fill_blank", "title": "Going to", "instruction": "Complete with the correct form of going to + verb.", "instruction_pt": "Complete com going to + verbo.",
+         "items": [{"prompt": "I ___ (visit) my grandma on Sunday.", "answer": "'m going to visit"}, {"prompt": "They ___ (not / move) this year.", "answer": "aren't going to move"}, {"prompt": "___ she ___ (quit) her job?", "answer": "Is / going to quit"}, {"prompt": "We ___ (book) the hotel tonight.", "answer": "'re going to book"}, {"prompt": "What ___ you ___ (do) tomorrow?", "answer": "are / going to do"}]},
+        {"id": "ex2", "type": "match", "title": "Predictions", "instruction": "Write a prediction with going to.", "instruction_pt": "Escreva uma previsão com going to.",
+         "items": [{"prompt": "The sky is very dark.", "answer": "It's going to rain."}, {"prompt": "He's running and the floor is wet.", "answer": "He's going to fall."}, {"prompt": "My phone is at 1%.", "answer": "It's going to die."}, {"prompt": "It's 7:55 and the class starts at 8. I'm still at home.", "answer": "I'm going to be late."}]},
+        {"id": "ex3", "type": "order_words", "title": "Questions", "instruction": "Put the words in order to make questions.", "instruction_pt": "Organize as palavras para formar perguntas.",
+         "items": [{"prompt": "going / where / you / are / to travel / ?", "answer": "Where are you going to travel?"}, {"prompt": "to / is / going / he / call / you / ?", "answer": "Is he going to call you?"}, {"prompt": "to / what / going / are / do / they / ?", "answer": "What are they going to do?"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "What are you going to do?"}, {"prompt": "2", "answer": "I'm going to visit my family."}, {"prompt": "3", "answer": "It's going to rain."}, {"prompt": "4", "answer": "We aren't going to travel this year."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "I going to buy a car.", "answer": "I'm going to buy a car."}, {"prompt": "She's going to studying abroad.", "answer": "She's going to study abroad."}, {"prompt": "Are you going travel?", "answer": "Are you going to travel?"}, {"prompt": "I'm gonna the gym now.", "answer": "I'm going to the gym now."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the dialogue", "instruction": "Complete with: going · plan · book · gonna · not.", "instruction_pt": "Complete o diálogo.",
+         "items": [{"prompt": "A: What's the ___ for Carnival?", "answer": "plan"}, {"prompt": "B: We're ___ to go to Salvador!", "answer": "going"}, {"prompt": "A: Cool! When are you going to ___ the flights?", "answer": "book"}, {"prompt": "B: Tonight. And you? — A: I'm ___ going to travel. I'm ___ sleep for four days!", "answer": "not / gonna"}]}
+      ],
+      "speaking": {
+        "instruction": "Talk about your plans: this weekend, next vacation and next year. Your partner asks follow-up questions.",
+        "instruction_pt": "Fale sobre seus planos: este fim de semana, as próximas férias e o próximo ano. O colega faz perguntas de continuação.",
+        "questions": ["What are you going to do this weekend?", "Where are you going to go on your next vacation?", "Are you going to change anything in your life this year?", "What are you going to do after this class?", "What's your biggest goal for the next five years?"]
+      },
+      "writing": {
+        "task": "Write your plans for the next 12 months (80–100 words): travel, work/study, health and one crazy idea.",
+        "task_pt": "Escreva seus planos para os próximos 12 meses (80–100 palavras): viagem, trabalho/estudo, saúde e uma ideia maluca.",
+        "model": "Next year is going to be a big year! First, I'm going to finish my English course and take an international exam. I'm also going to look for a job in a multinational company. For my health, I'm going to start running — my goal is a 10K race in December. In July, my best friend and I are going to travel to Patagonia. And my crazy idea? I'm going to learn to play the drums. My neighbors are not going to be happy! 🥁"
+      },
+      "culture_note": {
+        "title": "Gap year",
+        "text_pt": "O **gap year** — um ano sabático entre a escola e a faculdade — é comum no Reino Unido, na Austrália e cada vez mais nos EUA. Muitos jovens trabalham, viajam ou fazem voluntariado. No Brasil, a ideia está crescendo, principalmente com intercâmbios de trabalho."
+      },
+      "summary_pt": ["am/is/are + going to + verbo base.", "Planos já decididos e previsões com evidência.", "gonna = going to + verbo (fala informal).", "I'm going to the beach (lugar, sem gonna)."]
+    },
+    {
+      "id": "A2-M5-L2",
+      "title": "Are you free on Friday?",
+      "subtitle_pt": "Present continuous para compromissos futuros",
+      "duration_min": 50,
+      "source_refs": ["StartUp 1 – Unit 4 (plans to meet)", "To Go A2 – Lesson 14 (present continuous review)"],
+      "objectives": ["Usar o present continuous para compromissos marcados", "Perguntar sobre disponibilidade", "Marcar, remarcar e cancelar compromissos", "Usar expressões de agenda (I'm busy, I'm free, How about...?)"],
+      "warmup": {
+        "text_pt": "Como está sua agenda esta semana? Você usa agenda no celular ou guarda tudo na cabeça?",
+        "questions": ["What are you doing tomorrow evening?", "Are you busy this weekend?"]
+      },
+      "vocabulary": [
+        {"en": "schedule / calendar", "pt": "agenda / calendário", "say": "skédjul / kélender"},
+        {"en": "appointment", "pt": "consulta, horário marcado", "say": "apóintment"},
+        {"en": "meeting", "pt": "reunião", "say": "mítin"},
+        {"en": "free / busy", "pt": "livre / ocupado", "say": "frí / bízi"},
+        {"en": "to reschedule", "pt": "remarcar", "say": "tu riskédjul"},
+        {"en": "to cancel", "pt": "cancelar", "say": "tu kénsel"},
+        {"en": "to postpone", "pt": "adiar", "say": "tu postpôun"},
+        {"en": "to confirm", "pt": "confirmar", "say": "tu konfârm"},
+        {"en": "to fit (someone) in", "pt": "encaixar (alguém) na agenda", "say": "tu fit in"},
+        {"en": "available", "pt": "disponível", "say": "avêilabol"},
+        {"en": "something came up", "pt": "surgiu um imprevisto", "say": "sâmθin kêim âp"},
+        {"en": "the day after tomorrow", "pt": "depois de amanhã", "say": "dâ dêi éfter tumórou"}
+      ],
+      "chunks": [
+        {"en": "Are you free on Friday?", "pt": "Você está livre na sexta?"},
+        {"en": "I'm meeting a client at 3.", "pt": "Vou encontrar um cliente às 3."},
+        {"en": "Sorry, I'm busy that day.", "pt": "Desculpe, estou ocupado nesse dia."},
+        {"en": "How about Thursday instead?", "pt": "Que tal quinta, então?"},
+        {"en": "Can we reschedule?", "pt": "Podemos remarcar?"},
+        {"en": "Something came up.", "pt": "Surgiu um imprevisto."}
+      ],
+      "grammar": {
+        "title": "Present continuous para o futuro",
+        "explanation_pt": "Surpresa: o **present continuous** também fala do **futuro**! Usamos para **compromissos já combinados** — com hora, lugar ou outra pessoa envolvida (o que está \"na agenda\").\n\n- \"I**'m seeing** the dentist tomorrow at 10.\"\n- \"We**'re having** dinner with Ana on Friday.\"\n- \"What **are** you **doing** this weekend?\"\n\nÉ obrigatório ter uma **expressão de futuro** (tomorrow, on Friday, next week) ou o contexto deixar claro.\n\n**Going to x present continuous:**\n- **going to** = intenção, plano na cabeça: \"I'm going to call the dentist.\" (pretendo ligar)\n- **present continuous** = já está marcado: \"I'm seeing the dentist on Monday.\" (consulta marcada)\n\nNa prática, os dois muitas vezes funcionam. Mas para perguntar a agenda de alguém, o natural é: **\"What are you doing on Saturday?\"**",
+        "table": {
+          "headers": ["Situação", "Forma natural"],
+          "rows": [["Consulta marcada", "I'm seeing the doctor at 4."], ["Viagem com passagem comprada", "We're flying to Rio on Monday."], ["Encontro combinado", "I'm meeting Leo for lunch."], ["Perguntar a agenda", "What are you doing tonight?"], ["Intenção (sem marcar)", "I'm going to call the bank."]]
+        },
+        "examples": [
+          {"en": "I can't on Friday. I'm working late.", "pt": "Não posso na sexta. Vou trabalhar até tarde."},
+          {"en": "Are you coming to the party tomorrow?", "pt": "Você vem à festa amanhã?"},
+          {"en": "We're flying to Lisbon the day after tomorrow!", "pt": "Vamos voar para Lisboa depois de amanhã!"}
+        ],
+        "tip_pt": "Para horários **oficiais** (trens, voos, aulas, filmes), use o **simple present**: \"The train **leaves** at 8:15.\" / \"The movie **starts** at 9.\""
+      },
+      "common_mistakes": [
+        {"wrong": "What do you do tomorrow?", "right": "What are you doing tomorrow?", "why_pt": "Para perguntar planos, use o present continuous."},
+        {"wrong": "I have free on Friday.", "right": "I'm free on Friday.", "why_pt": "Estar livre = be free."},
+        {"wrong": "Can we remark the meeting?", "right": "Can we reschedule the meeting?", "why_pt": "\"Remarcar\" = reschedule. Remark = comentar!"}
+      ],
+      "pronunciation": {
+        "focus": "Schedule: americano x britânico",
+        "tip_pt": "**Schedule** tem duas pronúncias: americana \"**skédjul**\" e britânica \"**shédjul**\". As duas estão certas! O mesmo acontece com **either** (\"íder\" / \"áider\") e **tomato**.",
+        "practice": ["Let me check my schedule.", "Can we reschedule?", "Are you free on Thursday?"]
+      },
+      "dialogue": {
+        "title": "Finding a time",
+        "context_pt": "Dois colegas tentam marcar uma reunião numa semana cheia.",
+        "lines": [
+          {"speaker": "Mark", "en": "Hi, Rafaela. We need to talk about the new project. Are you free tomorrow?", "pt": "Oi, Rafaela. Precisamos conversar sobre o novo projeto. Você está livre amanhã?"},
+          {"speaker": "Rafaela", "en": "Let me check my calendar... Tomorrow morning I'm meeting a client, and in the afternoon I'm seeing the dentist.", "pt": "Deixa eu ver minha agenda... Amanhã de manhã vou encontrar um cliente, e à tarde vou ao dentista."},
+          {"speaker": "Mark", "en": "OK. What are you doing on Thursday?", "pt": "OK. E na quinta, o que você vai fazer?"},
+          {"speaker": "Rafaela", "en": "I'm working from home. How about a video call at 10?", "pt": "Vou trabalhar de casa. Que tal uma chamada de vídeo às 10?"},
+          {"speaker": "Mark", "en": "Hmm, I'm flying to Recife on Thursday. My flight leaves at 9.", "pt": "Hmm, vou voar para Recife na quinta. Meu voo sai às 9."},
+          {"speaker": "Rafaela", "en": "OK... and Friday afternoon?", "pt": "OK... e sexta à tarde?"},
+          {"speaker": "Mark", "en": "Perfect. Friday at 2. I'm sending you an invite now.", "pt": "Perfeito. Sexta às 14h. Estou te mandando um convite agora."}
+        ]
+      },
+      "listening": {
+        "title": "Voicemail: rescheduling",
+        "context_pt": "A clínica deixa um recado para remarcar uma consulta.",
+        "lines": [
+          {"speaker": "Receptionist", "en": "Hello, this is Clara from Smile Dental Clinic. This message is for Mr. Lucas Pereira. You have an appointment with Dr. Costa tomorrow at three p.m., but unfortunately something came up — Dr. Costa is attending a conference this week. Can we reschedule? She's available next Monday at ten a.m. or Tuesday at four thirty. Please call us back at five-five-five, two-one-eight-four. Thank you!"}
+        ],
+        "questions": [
+          {"q": "When is the original appointment?", "answer": "Tomorrow at 3 p.m."},
+          {"q": "Why do they need to reschedule?", "answer": "Dr. Costa is attending a conference this week."},
+          {"q": "What are the two new options?", "answer": "Monday at 10 a.m. or Tuesday at 4:30."},
+          {"q": "What's the phone number?", "answer": "555-2184."}
+        ]
+      },
+      "reading": {
+        "title": "My week ahead",
+        "text": "Monday: I'm starting my new job! I'm meeting my manager at 9.\nTuesday: Gym at 7 a.m. In the evening, I'm having dinner with my sister — her birthday.\nWednesday: Online English class at 8 p.m.\nThursday: I'm working from home. The plumber is coming at 2 to fix the shower (finally!).\nFriday: After work, we're going to a samba bar with my new coworkers.\nSaturday: I'm not doing anything. Sofa, pizza and series! 🍕",
+        "questions": [
+          {"q": "What's happening on Monday?", "answer": "She's starting a new job and meeting her manager at 9."},
+          {"q": "Why is she having dinner with her sister on Tuesday?", "answer": "It's her sister's birthday."},
+          {"q": "Who is coming on Thursday? Why?", "answer": "The plumber, to fix the shower."},
+          {"q": "What is she doing on Saturday?", "answer": "Nothing — sofa, pizza and series."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "fill_blank", "title": "Future arrangements", "instruction": "Complete with the present continuous.", "instruction_pt": "Complete com o present continuous.",
+         "items": [{"prompt": "I ___ (meet) a client tomorrow at 10.", "answer": "'m meeting"}, {"prompt": "We ___ (fly) to Natal on Saturday.", "answer": "'re flying"}, {"prompt": "What ___ you ___ (do) tonight?", "answer": "are / doing"}, {"prompt": "She ___ (not / come) to the party.", "answer": "isn't coming"}]},
+        {"id": "ex2", "type": "multiple_choice", "title": "Which future?", "instruction": "Choose the most natural option.", "instruction_pt": "Escolha a opção mais natural.",
+         "items": [{"prompt": "The train ___ at 6:40. Don't be late!", "options": ["leaves", "is going to leave", "is leaving"], "answer": "leaves"}, {"prompt": "\"What ___ on Sunday?\" \"Nothing special.\"", "options": ["do you do", "are you doing"], "answer": "are you doing"}, {"prompt": "I ___ the dentist at 4. It's in my calendar.", "options": ["'m seeing", "see"], "answer": "'m seeing"}]},
+        {"id": "ex3", "type": "match", "title": "Schedule language", "instruction": "Write the English expression.", "instruction_pt": "Escreva a expressão em inglês.",
+         "items": [{"prompt": "Podemos remarcar?", "answer": "Can we reschedule?"}, {"prompt": "Surgiu um imprevisto.", "answer": "Something came up."}, {"prompt": "Que tal quinta, então?", "answer": "How about Thursday instead?"}, {"prompt": "Estou livre depois das 5.", "answer": "I'm free after 5."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "Are you free on Friday?"}, {"prompt": "2", "answer": "I'm meeting a client at three."}, {"prompt": "3", "answer": "Can we reschedule?"}, {"prompt": "4", "answer": "How about Thursday instead?"}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "What do you do this weekend?", "answer": "What are you doing this weekend?"}, {"prompt": "I have free tomorrow.", "answer": "I'm free tomorrow."}, {"prompt": "Can we remark the appointment?", "answer": "Can we reschedule the appointment?"}, {"prompt": "I meeting Ana tonight.", "answer": "I'm meeting Ana tonight."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the chat", "instruction": "Complete with: free · busy · doing · How · seeing.", "instruction_pt": "Complete o chat.",
+         "items": [{"prompt": "A: What are you ___ on Saturday?", "answer": "doing"}, {"prompt": "B: I'm ___ in the morning. I'm ___ my grandma.", "answer": "busy / seeing"}, {"prompt": "B: But I'm ___ in the afternoon.", "answer": "free"}, {"prompt": "A: ___ about a movie at 4?", "answer": "How"}]}
+      ],
+      "speaking": {
+        "instruction": "Fill in a calendar for next week with 5 commitments. Then try to find a time to meet your partner for coffee.",
+        "instruction_pt": "Preencha uma agenda da próxima semana com 5 compromissos. Depois tente achar um horário para tomar um café com seu colega.",
+        "questions": ["What are you doing tonight?", "Are you free on Saturday afternoon?", "Do you have any appointments this week?", "Are you traveling soon?", "What's the next important event in your calendar?"]
+      },
+      "writing": {
+        "task": "Write a message to reschedule a meeting or appointment: apologize, explain and suggest two new times (40–60 words).",
+        "task_pt": "Escreva uma mensagem para remarcar uma reunião ou consulta: peça desculpas, explique e sugira dois novos horários (40–60 palavras).",
+        "model": "Hi Paulo,\nI'm so sorry, but I can't make our meeting tomorrow at 3. Something came up — my son is sick and I'm taking him to the doctor. Can we reschedule? I'm free on Thursday morning or Friday after 2 p.m.\nThanks for understanding!\nCarla"
+      },
+      "culture_note": {
+        "title": "Pontualidade e cancelamentos",
+        "text_pt": "Em países como EUA, Reino Unido e Alemanha, cancelar em cima da hora é malvisto. O ideal é avisar com pelo menos 24 horas. E se for se atrasar mesmo 5 minutos, mande uma mensagem: **\"Running 5 minutes late, sorry!\"**"
+      },
+      "summary_pt": ["Present continuous = compromisso marcado.", "What are you doing on...? = pergunta padrão.", "Horários oficiais = simple present.", "reschedule · cancel · postpone · something came up."]
+    },
+    {
+      "id": "A2-M5-L3",
+      "title": "Would you like to come?",
+      "subtitle_pt": "Convites, sugestões e respostas educadas",
+      "duration_min": 50,
+      "source_refs": ["StartUp 1 – Unit 6-7 (would like, polite expressions)", "To Go A2 – conversation lessons"],
+      "objectives": ["Fazer convites com Would you like to...? e Do you want to...?", "Sugerir com Let's... / How about...? / Why don't we...?", "Aceitar e recusar convites com educação", "Diferenciar would like de like"],
+      "warmup": {
+        "text_pt": "Como você recusa um convite sem parecer mal-educado? Em português, a gente diz \"vou ver\" e não vai... 😅",
+        "questions": ["When was the last time you invited someone out?", "Is it easy for you to say no?"]
+      },
+      "vocabulary": [
+        {"en": "to invite / invitation", "pt": "convidar / convite", "say": "tu inváit / invitêishon"},
+        {"en": "would like (I'd like)", "pt": "gostaria", "say": "ud láik (áid láik)"},
+        {"en": "to hang out", "pt": "sair, passar tempo junto", "say": "tu réng áut"},
+        {"en": "to grab (a coffee / a bite)", "pt": "tomar (um café) / comer algo rápido", "say": "tu gréb"},
+        {"en": "housewarming party", "pt": "festa de casa nova", "say": "ráusuórmin párti"},
+        {"en": "barbecue (BBQ)", "pt": "churrasco", "say": "bárbikiu"},
+        {"en": "to join", "pt": "juntar-se a", "say": "tu djóin"},
+        {"en": "I'd love to!", "pt": "Eu adoraria!", "say": "áid lâv tu"},
+        {"en": "I'm afraid I can't.", "pt": "Infelizmente não posso.", "say": "áim afrêid áiként"},
+        {"en": "maybe another time", "pt": "quem sabe outra vez", "say": "mêibi anâder táim"},
+        {"en": "rain check", "pt": "fica para a próxima", "say": "rêin tchék"},
+        {"en": "Sounds great!", "pt": "Parece ótimo!", "say": "sáundz grêit"}
+      ],
+      "chunks": [
+        {"en": "Would you like to come to my party?", "pt": "Você gostaria de vir à minha festa?"},
+        {"en": "Do you want to grab a coffee?", "pt": "Quer tomar um café?"},
+        {"en": "Let's go to the beach!", "pt": "Vamos à praia!"},
+        {"en": "I'd love to, but I'm busy.", "pt": "Eu adoraria, mas estou ocupado."},
+        {"en": "Can I take a rain check?", "pt": "Pode ficar para a próxima?"},
+        {"en": "Count me in!", "pt": "Pode contar comigo!"}
+      ],
+      "grammar": {
+        "title": "Convites e sugestões",
+        "explanation_pt": "**Convidar:**\n- **Would you like to** + verbo? (educado, neutro) → \"Would you like to come to dinner?\"\n- **Do you want to** + verbo? (informal, entre amigos) → \"Do you wanna watch a movie?\"\n\n**Would like x like:**\n- **like** = gostar (em geral): \"I **like** coffee.\"\n- **would like** = gostaria/quero (agora, educado): \"I**'d like** a coffee, please.\"\n\n**Sugerir:**\n- **Let's** + verbo → \"**Let's** order pizza!\"\n- **How about / What about** + verbo-**ing** → \"**How about going** to the movies?\"\n- **Why don't we** + verbo? → \"**Why don't we** try the new restaurant?\"\n\n**Responder:**\n✅ Aceitar: \"I'd love to!\" / \"Sounds great!\" / \"Count me in!\" / \"Sure, why not?\"\n❌ Recusar com educação: **agradecer + desculpa + motivo + (alternativa)**:\n\"**Thanks** for the invite! **I'm afraid I can't** — **I'm working** that night. **Maybe another time?**\"",
+        "table": {
+          "headers": ["Função", "Estrutura", "Exemplo"],
+          "rows": [["Convite (educado)", "Would you like to + verbo?", "Would you like to join us?"], ["Convite (informal)", "Do you want to + verbo?", "Do you want to hang out?"], ["Sugestão", "Let's + verbo", "Let's take a break."], ["Sugestão", "How about + -ing?", "How about having a BBQ?"], ["Sugestão", "Why don't we + verbo?", "Why don't we stay in?"]]
+        },
+        "examples": [
+          {"en": "Would you like to come to my housewarming party on Saturday?", "pt": "Você gostaria de vir à minha festa de casa nova no sábado?"},
+          {"en": "Thanks so much! I'd love to, but I'm visiting my parents. Can I take a rain check?", "pt": "Muito obrigado! Eu adoraria, mas vou visitar meus pais. Fica para a próxima?"},
+          {"en": "How about meeting at the park instead?", "pt": "Que tal nos encontrarmos no parque, então?"}
+        ],
+        "tip_pt": "Uma resposta só com **\"No.\"** soa muito rude em inglês. Sempre agradeça e dê um motivo, mesmo que curto."
+      },
+      "common_mistakes": [
+        {"wrong": "Would you like come?", "right": "Would you like to come?", "why_pt": "Would like + to + verbo."},
+        {"wrong": "How about go to the beach?", "right": "How about going to the beach?", "why_pt": "How about + verbo-ing."},
+        {"wrong": "Let's to go!", "right": "Let's go!", "why_pt": "Let's + verbo base, sem to."}
+      ],
+      "pronunciation": {
+        "focus": "Would you = \"wúdja\"",
+        "tip_pt": "**Would you** se junta na fala: \"**wúdja**\". **Do you want to** vira \"**dja wâna**\" ou até \"**wâna**\": \"Wanna grab a coffee?\" E **I'd** soa \"áid\" — não esqueça o D!",
+        "practice": ["Would you like to come? (\"wúdja láik tu kâm\")", "Do you wanna hang out?", "I'd love to!"]
+      },
+      "dialogue": {
+        "title": "Weekend invitation",
+        "context_pt": "Um amigo convida outro para um churrasco pelo telefone.",
+        "lines": [
+          {"speaker": "Gui", "en": "Hey, Vini! Would you like to come to a barbecue at my place on Saturday?", "pt": "E aí, Vini! Quer vir a um churrasco lá em casa no sábado?"},
+          {"speaker": "Vini", "en": "I'd love to! What time?", "pt": "Eu adoraria! Que horas?"},
+          {"speaker": "Gui", "en": "Around one. Do you want to bring your girlfriend?", "pt": "Por volta da uma. Quer trazer sua namorada?"},
+          {"speaker": "Vini", "en": "She'd love to, but she's working on Saturday. Maybe another time.", "pt": "Ela adoraria, mas vai trabalhar no sábado. Quem sabe outra vez."},
+          {"speaker": "Gui", "en": "No problem. Let's watch the game after lunch, too.", "pt": "Sem problema. Vamos ver o jogo depois do almoço também."},
+          {"speaker": "Vini", "en": "Count me in! Why don't I bring dessert?", "pt": "Pode contar comigo! Por que eu não levo a sobremesa?"},
+          {"speaker": "Gui", "en": "Sounds great! See you Saturday.", "pt": "Ótimo! Até sábado."}
+        ]
+      },
+      "listening": {
+        "title": "Three invitations",
+        "context_pt": "Três mensagens de voz com convites e as respostas.",
+        "lines": [
+          {"speaker": "Lia", "en": "Hi, Ju! Would you like to see a play with me on Friday? I have two tickets."},
+          {"speaker": "Ju", "en": "Oh, thanks! I'd love to, but I'm afraid I can't. I'm flying to Brasília on Friday. Can I take a rain check?"},
+          {"speaker": "Kai", "en": "Hey, Theo! Do you wanna play beach volleyball on Sunday morning?"},
+          {"speaker": "Theo", "en": "Sure, why not? Count me in! What time?"},
+          {"speaker": "Nina", "en": "Hi, Bel. How about having lunch together next week? There's a new vegan place near the office."},
+          {"speaker": "Bel", "en": "Sounds great! Why don't we go on Wednesday?"}
+        ],
+        "questions": [
+          {"q": "Why can't Ju go to the play?", "answer": "She's flying to Brasília on Friday."},
+          {"q": "Does Theo accept the invitation?", "answer": "Yes, he does."},
+          {"q": "What kind of restaurant does Nina suggest?", "answer": "A new vegan place near the office."},
+          {"q": "What day does Bel suggest?", "answer": "Wednesday."}
+        ]
+      },
+      "reading": {
+        "title": "The art of saying no",
+        "text": "Many people find it hard to say no to invitations. They're afraid of being rude. But experts say that a polite \"no\" is better than a \"yes\" you regret. Here's a simple formula: 1. Thank the person: \"Thanks so much for inviting me!\" 2. Say no clearly: \"I'm afraid I can't make it.\" 3. Give a short reason (optional): \"I need a quiet weekend.\" 4. Offer an alternative if you want: \"How about coffee next week?\" And remember: \"Maybe\" is not a polite answer if you mean \"no\" — it only creates expectations!",
+        "questions": [
+          {"q": "Why do people find it hard to say no?", "answer": "They're afraid of being rude."},
+          {"q": "What's the first step of the formula?", "answer": "Thank the person."},
+          {"q": "Is the reason obligatory?", "answer": "No, it's optional."},
+          {"q": "Why is \"maybe\" not a good answer?", "answer": "It only creates expectations (if you mean no)."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Invitations and suggestions", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+         "items": [{"prompt": "Would you like ___ dinner with us?", "options": ["have", "to have", "having"], "answer": "to have"}, {"prompt": "How about ___ a movie?", "options": ["watch", "to watch", "watching"], "answer": "watching"}, {"prompt": "Let's ___ a taxi.", "options": ["take", "to take", "taking"], "answer": "take"}, {"prompt": "Why don't we ___ at home?", "options": ["stay", "staying", "to stay"], "answer": "stay"}, {"prompt": "I ___ a glass of water, please.", "options": ["like", "'d like", "liking"], "answer": "'d like"}]},
+        {"id": "ex2", "type": "match", "title": "Accept or refuse?", "instruction": "Write A (accept) or R (refuse).", "instruction_pt": "Escreva A (aceita) ou R (recusa).",
+         "items": [{"prompt": "Count me in!", "answer": "A"}, {"prompt": "I'm afraid I can't make it.", "answer": "R"}, {"prompt": "Sounds great!", "answer": "A"}, {"prompt": "Can I take a rain check?", "answer": "R"}, {"prompt": "Sure, why not?", "answer": "A"}]},
+        {"id": "ex3", "type": "answer", "title": "Refuse politely", "instruction": "Refuse the invitation politely (thank + can't + reason).", "instruction_pt": "Recuse o convite com educação (agradeça + não posso + motivo).",
+         "items": [{"prompt": "Would you like to come to my birthday party on Friday?", "answer": "Thanks so much! I'd love to, but I'm afraid I can't. I'm working late on Friday. (resposta modelo)"}, {"prompt": "Do you want to go running at 6 a.m. tomorrow?", "answer": "Thanks for asking, but I can't. I'm not a morning person! Maybe another time? (resposta modelo)"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "Would you like to come to my party?"}, {"prompt": "2", "answer": "I'd love to, but I'm busy."}, {"prompt": "3", "answer": "How about going to the beach?"}, {"prompt": "4", "answer": "Count me in!"}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "Would you like go to the cinema?", "answer": "Would you like to go to the cinema?"}, {"prompt": "How about to order pizza?", "answer": "How about ordering pizza?"}, {"prompt": "Let's to start!", "answer": "Let's start!"}, {"prompt": "I like a coffee, please. (pedido agora)", "answer": "I'd like a coffee, please."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the dialogue", "instruction": "Complete with: like · love · afraid · about · Let's.", "instruction_pt": "Complete o diálogo.",
+         "items": [{"prompt": "A: Would you ___ to go hiking on Saturday?", "answer": "like"}, {"prompt": "B: I'd ___ to, but I'm ___ I can't. I'm moving house.", "answer": "love / afraid"}, {"prompt": "A: Oh! How ___ next Saturday?", "answer": "about"}, {"prompt": "B: Perfect. ___ go next Saturday!", "answer": "Let's"}]}
+      ],
+      "speaking": {
+        "instruction": "Invitation game: invite 3 classmates to different events. Each person accepts one invitation and refuses two politely.",
+        "instruction_pt": "Jogo dos convites: convide 3 colegas para eventos diferentes. Cada pessoa aceita um convite e recusa dois com educação.",
+        "questions": ["Would you like to have lunch with me this week?", "Do you want to watch a movie this weekend?", "How about going to a concert next month?", "Why don't we practice English together on Saturday?", "What's the best invitation you ever got?"]
+      },
+      "writing": {
+        "task": "Write an invitation message for an event (40–60 words) and a polite reply refusing it (30–40 words).",
+        "task_pt": "Escreva uma mensagem de convite para um evento (40–60 palavras) e uma resposta recusando com educação (30–40 palavras).",
+        "model": "Invitation:\nHi everyone! 🏡 Would you like to come to our housewarming party? It's on Saturday, May 10th, from 7 p.m. We're making pizza in our new oven! Bring something to drink if you want. Let us know by Thursday!\n\nReply:\nThanks so much for the invite, Ana and Leo! I'd love to, but I'm afraid I can't — it's my mom's birthday that day. Can I visit next week? Congratulations on the new home! 🎉"
+      },
+      "culture_note": {
+        "title": "RSVP e \"potluck\"",
+        "text_pt": "Em convites formais aparece **RSVP** (do francês \"répondez s'il vous plaît\" — responda, por favor): o anfitrião precisa saber se você vai. E um **potluck** é uma festa em que cada convidado leva um prato — como o nosso \"cada um leva alguma coisa\"."
+      },
+      "summary_pt": ["Would you like to...? / Do you want to...?", "Let's + verbo · How about + -ing · Why don't we + verbo?", "I'd love to! / I'm afraid I can't.", "Recusar = agradecer + não posso + motivo."]
+    },
+    {
+      "id": "A2-M5-L4",
+      "title": "I'll help you",
+      "subtitle_pt": "Will para decisões, ofertas, promessas e previsões",
+      "duration_min": 55,
+      "source_refs": ["To Go A2 – Lesson 15 (future, extension)", "SAM-B3 – questions practice (future)"],
+      "objectives": ["Usar will para decisões tomadas na hora", "Fazer ofertas (I'll...) e promessas (I won't...)", "Fazer previsões e opiniões sobre o futuro (I think... will)", "Escolher entre will, going to e present continuous"],
+      "warmup": {
+        "text_pt": "Como você imagina o mundo daqui a 20 anos? Carros voadores? Robôs em casa? Trabalho só 4 dias por semana?",
+        "questions": ["What do you think life will be like in 2050?", "What's a promise you always keep?"]
+      },
+      "vocabulary": [
+        {"en": "will ('ll) / won't", "pt": "(futuro) / não vai", "say": "uíl / uônt"},
+        {"en": "probably", "pt": "provavelmente", "say": "próbabli"},
+        {"en": "definitely", "pt": "com certeza", "say": "défnetli"},
+        {"en": "I promise", "pt": "eu prometo", "say": "ái prómis"},
+        {"en": "to offer", "pt": "oferecer", "say": "tu ófer"},
+        {"en": "to carry", "pt": "carregar", "say": "tu kéri"},
+        {"en": "to give (someone) a ride", "pt": "dar uma carona", "say": "tu guiv a ráid"},
+        {"en": "to pay (someone) back", "pt": "devolver o dinheiro a alguém", "say": "tu pêi bék"},
+        {"en": "to replace", "pt": "substituir", "say": "tu riplêis"},
+        {"en": "artificial intelligence (AI)", "pt": "inteligência artificial (IA)", "say": "artifíshal intélidjens (êi ái)"},
+        {"en": "self-driving car", "pt": "carro autônomo", "say": "sélf dráivin kár"},
+        {"en": "in the future", "pt": "no futuro", "say": "in dâ fiútcher"}
+      ],
+      "chunks": [
+        {"en": "I'll help you with that.", "pt": "Eu te ajudo com isso."},
+        {"en": "I'll have the chicken, please.", "pt": "Vou querer o frango, por favor."},
+        {"en": "Don't worry, I won't tell anyone.", "pt": "Não se preocupe, não vou contar para ninguém."},
+        {"en": "I promise I'll call you.", "pt": "Prometo que vou te ligar."},
+        {"en": "I think it'll rain later.", "pt": "Acho que vai chover mais tarde."},
+        {"en": "Shall I open the window?", "pt": "Quer que eu abra a janela?"}
+      ],
+      "grammar": {
+        "title": "Will (e comparação com going to)",
+        "explanation_pt": "**Estrutura:** **will** + verbo base (igual para todas as pessoas, sem -s, sem to)\n- Afirmativa: I**'ll** help. · Negativa: I **won't** (= will not) forget. · Pergunta: **Will** you be there?\n\n**Usos de will:**\n1. **Decisão na hora** (não planejada): \"The phone is ringing!\" → \"I**'ll** get it!\"\n2. **Ofertas:** \"Your bag looks heavy. I**'ll** carry it.\"\n3. **Promessas:** \"I **won't** be late, I promise.\"\n4. **Pedidos em restaurante:** \"I**'ll** have the fish.\"\n5. **Previsões/opiniões** (sem evidência concreta): \"I **think** robots **will** do most jobs.\" / \"She**'ll probably** love it.\"\n\n**Will x going to:**\n- **going to** = já decidido antes: \"I**'m going to** buy a car. I saved money for a year.\"\n- **will** = decidido agora: \"Oh, this car is on sale? OK, I**'ll** buy it!\"\n\n**Shall I...?** = Quer que eu...? (oferta, mais britânico): \"**Shall I** call a taxi?\"",
+        "table": {
+          "headers": ["Forma", "Uso", "Exemplo"],
+          "rows": [["going to", "plano já decidido / evidência", "I'm going to study medicine."], ["present continuous", "compromisso marcado", "I'm meeting Ana at 5."], ["will", "decisão na hora", "I'm cold. — I'll close the window."], ["will", "oferta / promessa", "I'll pay you back tomorrow."], ["will", "previsão / opinião", "I think it will be a great year."]]
+        },
+        "examples": [
+          {"en": "\"We don't have milk.\" \"Don't worry, I'll buy some.\"", "pt": "\"Não temos leite.\" \"Não se preocupa, eu compro.\""},
+          {"en": "I promise I won't tell anyone.", "pt": "Prometo que não vou contar para ninguém."},
+          {"en": "I think self-driving cars will be common in 2040.", "pt": "Acho que carros autônomos serão comuns em 2040."}
+        ],
+        "tip_pt": "**Won't** (will not) soa \"uônt\" — diferente de **want** (\"uónt\", querer). \"I won't go\" = não vou · \"I want to go\" = quero ir. Cuidado!"
+      },
+      "common_mistakes": [
+        {"wrong": "I will to call you.", "right": "I'll call you.", "why_pt": "Will + verbo base, sem to."},
+        {"wrong": "She wills come.", "right": "She'll come.", "why_pt": "Will não varia: sem -s."},
+        {"wrong": "\"The phone is ringing!\" \"I'm going to answer it.\"", "right": "\"I'll answer it!\"", "why_pt": "Decisão na hora = will."}
+      ],
+      "pronunciation": {
+        "focus": "'ll e won't",
+        "tip_pt": "A contração **'ll** é um L escuro rápido, quase só a língua no céu da boca: **I'll** = \"áil\", **you'll** = \"iúl\", **it'll** = \"íról\". E **won't** (\"uônt\", com o \"ô\" fechado) ≠ **want** (\"uónt\").",
+        "practice": ["I'll help you.", "It'll be fine.", "I won't forget. / I want to go."]
+      },
+      "dialogue": {
+        "title": "Moving day",
+        "context_pt": "Uma amiga está se mudando e os amigos oferecem ajuda.",
+        "lines": [
+          {"speaker": "Carol", "en": "Thanks for coming, guys! There are so many boxes...", "pt": "Obrigada por virem, gente! Tem tanta caixa..."},
+          {"speaker": "Pedro", "en": "No problem. I'll carry the heavy ones.", "pt": "Sem problema. Eu carrego as pesadas."},
+          {"speaker": "Ana", "en": "And I'll pack the kitchen. Where's the tape?", "pt": "E eu embalo a cozinha. Cadê a fita?"},
+          {"speaker": "Carol", "en": "Oh no, I forgot to buy tape!", "pt": "Ah não, esqueci de comprar fita!"},
+          {"speaker": "Pedro", "en": "Don't worry. I'll go to the store. Shall I get some pizza, too?", "pt": "Não se preocupa. Eu vou na loja. Quer que eu pegue pizza também?"},
+          {"speaker": "Carol", "en": "Yes, please! I'll pay you back, I promise.", "pt": "Sim, por favor! Eu te devolvo o dinheiro, prometo."},
+          {"speaker": "Ana", "en": "Don't drop my favorite mug, Pedro! — I won't, I promise!", "pt": "Não deixa cair minha caneca favorita, Pedro! — Não vou, prometo!"}
+        ]
+      },
+      "listening": {
+        "title": "Podcast: the future of work",
+        "context_pt": "Uma especialista fala sobre o futuro do trabalho.",
+        "lines": [
+          {"speaker": "Host", "en": "So, what will work look like in 2040?"},
+          {"speaker": "Expert", "en": "I think AI will do many repetitive tasks, like data entry. Some jobs will probably disappear, but new jobs will appear, too."},
+          {"speaker": "Host", "en": "Will robots replace teachers?"},
+          {"speaker": "Expert", "en": "I don't think so. Teachers will use AI tools, but people will always need human connection."},
+          {"speaker": "Host", "en": "And the four-day week?"},
+          {"speaker": "Expert", "en": "I think it'll be common in many countries. Some companies are already testing it, and the results are very positive."}
+        ],
+        "questions": [
+          {"q": "What tasks will AI probably do?", "answer": "Repetitive tasks, like data entry."},
+          {"q": "Will robots replace teachers, according to the expert?", "answer": "No. Teachers will use AI tools, but people need human connection."},
+          {"q": "What does she think about the four-day week?", "answer": "It'll be common in many countries."}
+        ]
+      },
+      "reading": {
+        "title": "Predictions from the past",
+        "text": "In 1900, an American engineer made predictions for the year 2000. Some were right: \"People will talk to friends in other countries by telephone,\" and \"Photos will arrive from far away in seconds.\" Others were wrong: \"There will be no letters C, X or Q in the alphabet,\" and \"Mosquitoes and flies will disappear.\" Today, experts make new predictions: we'll live longer, cities will be greener, and AI will be part of everything. Will they be right? We'll see!",
+        "questions": [
+          {"q": "When were the first predictions made?", "answer": "In 1900."},
+          {"q": "Give one prediction that was right.", "answer": "People will talk to friends in other countries by telephone / photos will arrive in seconds."},
+          {"q": "Give one prediction that was wrong.", "answer": "No C, X or Q in the alphabet / mosquitoes and flies will disappear."},
+          {"q": "What do experts predict today?", "answer": "We'll live longer, cities will be greener, AI will be part of everything."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "match", "title": "Offers", "instruction": "Respond with an offer using I'll.", "instruction_pt": "Responda com uma oferta usando I'll.",
+         "items": [{"prompt": "I'm thirsty.", "answer": "I'll get you some water."}, {"prompt": "This box is so heavy!", "answer": "I'll carry it / I'll help you."}, {"prompt": "I don't have a ride home.", "answer": "I'll give you a ride."}, {"prompt": "I don't understand this exercise.", "answer": "I'll explain it to you."}]},
+        {"id": "ex2", "type": "multiple_choice", "title": "will or going to?", "instruction": "Choose the best option.", "instruction_pt": "Escolha a melhor opção.",
+         "items": [{"prompt": "\"Someone's at the door.\" \"I ___ open it.\"", "options": ["'ll", "'m going to"], "answer": "'ll"}, {"prompt": "We ___ get married in June. We booked everything.", "options": ["'ll", "'re going to"], "answer": "'re going to"}, {"prompt": "I think Brazil ___ win the next World Cup.", "options": ["will", "is winning"], "answer": "will"}, {"prompt": "\"What would you like?\" \"I ___ have the salad.\"", "options": ["'ll", "'m going to"], "answer": "'ll"}]},
+        {"id": "ex3", "type": "fill_blank", "title": "Promises", "instruction": "Complete with will ('ll) or won't.", "instruction_pt": "Complete com will ('ll) ou won't.",
+         "items": [{"prompt": "I promise I ___ be late again.", "answer": "won't"}, {"prompt": "Don't worry, I ___ call you when I arrive.", "answer": "'ll"}, {"prompt": "I ___ tell anyone your secret.", "answer": "won't"}, {"prompt": "I ___ pay you back on Friday.", "answer": "'ll"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "I'll help you with that."}, {"prompt": "2", "answer": "I won't tell anyone."}, {"prompt": "3", "answer": "I think it'll rain later."}, {"prompt": "4", "answer": "Shall I open the window?"}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "I will to help you.", "answer": "I'll help you."}, {"prompt": "He wills be here soon.", "answer": "He'll be here soon."}, {"prompt": "I promise I don't forget.", "answer": "I promise I won't forget."}, {"prompt": "Will you to come tomorrow?", "answer": "Will you come tomorrow?"}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Which future?", "instruction": "Complete with the best future form of the verb in parentheses.", "instruction_pt": "Complete com a melhor forma de futuro.",
+         "items": [{"prompt": "I ___ (meet) my boss at 3. It's in my calendar.", "answer": "'m meeting"}, {"prompt": "Look at that car! It ___ (crash)!", "answer": "'s going to crash"}, {"prompt": "\"I left my wallet at home.\" \"No problem, I ___ (pay).\"", "answer": "'ll pay"}, {"prompt": "In 2050, people ___ (probably / live) longer.", "answer": "will probably live"}]}
+      ],
+      "speaking": {
+        "instruction": "Make predictions about the future (2050) for each topic. Agree or disagree with your partner.",
+        "instruction_pt": "Faça previsões sobre o futuro (2050) para cada tema. Concorde ou discorde do colega.",
+        "questions": ["Will people still drive cars?", "Will AI replace your job?", "Will we live on Mars?", "Will Brazil be different? How?", "What will you be like in 20 years?"]
+      },
+      "writing": {
+        "task": "Write a \"letter to my future self\" (80–100 words) with predictions and promises: I think... will..., I promise I'll / I won't...",
+        "task_pt": "Escreva uma \"carta para o meu eu do futuro\" (80–100 palavras) com previsões e promessas: I think... will..., I promise I'll / I won't...",
+        "model": "Dear future me,\nIt's 2026 and I'm studying English. I think in 2031 you'll speak English fluently and you'll probably work for an international company. Maybe you'll live in another country! I hope you'll still have your friends from school. I promise I'll keep studying every day, and I won't give up when it's difficult. I promise I'll travel more and work less. Please don't forget where you came from.\nLove,\nPast me"
+      },
+      "culture_note": {
+        "title": "\"I'll call you\" e outras promessas vazias",
+        "text_pt": "Assim como o brasileiro diz \"vamos marcar!\", em inglês há promessas que nem sempre são literais: **\"I'll call you!\"**, **\"We should hang out sometime!\"**, **\"Let's do lunch!\"**. Se a pessoa não marca dia e hora, provavelmente é só educação. 😉"
+      },
+      "summary_pt": ["will + verbo base (I'll / won't).", "Decisões na hora, ofertas, promessas, pedidos, previsões.", "going to = plano · present continuous = agendado · will = agora/opinião.", "won't (não vai) ≠ want (querer)."]
+    }
+  ],
+  "review": {
+    "intro_pt": "Revise as formas de futuro: going to, present continuous, will e convites.",
+    "exercises": [
+      {"id": "r1", "type": "multiple_choice", "title": "Choose the correct option", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+       "items": [{"prompt": "Look at the clouds. It ___ rain.", "options": ["will", "is going to", "is raining"], "answer": "is going to"}, {"prompt": "What ___ on Saturday night?", "options": ["do you do", "are you doing", "will you to do"], "answer": "are you doing"}, {"prompt": "\"I'm hungry.\" \"I ___ make you a sandwich.\"", "options": ["'ll", "'m going to", "'m making"], "answer": "'ll"}, {"prompt": "Would you like ___ with us?", "options": ["come", "to come", "coming"], "answer": "to come"}, {"prompt": "How about ___ a pizza?", "options": ["order", "to order", "ordering"], "answer": "ordering"}]},
+      {"id": "r2", "type": "fill_blank", "title": "Future forms", "instruction": "Complete with the best future form.", "instruction_pt": "Complete com a melhor forma de futuro.",
+       "items": [{"prompt": "We ___ (fly) to Rome on May 3rd. We have the tickets.", "answer": "'re flying"}, {"prompt": "I ___ (start) a diet next month. I decided yesterday.", "answer": "'m going to start"}, {"prompt": "Don't worry, I ___ (not / tell) anyone.", "answer": "won't tell"}]},
+      {"id": "r3", "type": "translate", "title": "Translate", "instruction": "Translate into English.", "instruction_pt": "Traduza para o inglês.",
+       "items": [{"prompt": "Você está livre amanhã?", "answer": "Are you free tomorrow?"}, {"prompt": "Eu adoraria, mas não posso.", "answer": "I'd love to, but I can't. / I'm afraid I can't."}, {"prompt": "Eu te ajudo!", "answer": "I'll help you!"}]},
+      {"id": "r4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+       "items": [{"prompt": "1", "answer": "I'm going to travel next year."}, {"prompt": "2", "answer": "Can we reschedule?"}, {"prompt": "3", "answer": "I promise I'll call you."}]},
+      {"id": "r5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+       "items": [{"prompt": "I going to buy a bike.", "answer": "I'm going to buy a bike."}, {"prompt": "Let's to go!", "answer": "Let's go!"}, {"prompt": "She will to come.", "answer": "She'll come. / She will come."}]}
+    ],
+    "speaking_pt": "Grave um áudio de 2 minutos falando sobre seu futuro: seus compromissos da semana, seus planos para o ano e suas previsões para daqui a 10 anos.",
+    "speaking_questions": ["What are you doing this week?", "What are you going to do next year?", "What do you think your life will be like in 10 years?", "Invite me to something! (I'll accept or refuse.)", "What's one promise you want to make to yourself?"],
+    "project_pt": "**Plan a trip:** em grupo, planeje uma viagem de fim de semana em inglês: destino, transporte, hospedagem e roteiro dia a dia (going to), horários marcados (present continuous / simple present) e previsões do que vai acontecer (will). Apresente o plano em 2 minutos."
+  }
+}

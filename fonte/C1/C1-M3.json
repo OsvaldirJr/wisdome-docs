@@ -1,0 +1,532 @@
+{
+  "id": "C1-M3",
+  "level": "C1",
+  "title": "Science and Ethics",
+  "theme_pt": "Descobertas, bioética, dados e dilemas morais",
+  "can_do": ["Usar passivas avançadas (modal passive, get passive, have something done)", "Usar o subjuntivo e estruturas formais", "Descrever dados e fazer hedging acadêmico", "Argumentar sobre ética com orações concessivas"],
+  "lessons": [
+    {
+      "id": "C1-M3-L1",
+      "title": "Breakthroughs",
+      "subtitle_pt": "Passivas avançadas: modal + passive, get passive, have something done, verbos com dois objetos",
+      "duration_min": 80,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – C1 (passive forms)", "Cambridge C1 Advanced – Reading and Use of English Part 4"],
+      "objectives": ["Usar a passiva com modais no presente e no passado (must have been, could be done)", "Usar o get passive para eventos inesperados ou negativos", "Usar have / get something done para serviços e experiências negativas", "Usar a passiva com verbos de dois objetos (I was given / It was given to me)"],
+      "warmup": {
+        "text_pt": "Na ciência, o foco geralmente está no **que foi descoberto**, não em **quem** descobriu — por isso a passiva domina textos científicos. No C1, você vai além do \"was discovered\": \"It **must have been** contaminated\", \"He **got** bitten\", \"They **had** their samples **analysed**\". Tema: as **grandes descobertas** da ciência.",
+        "questions": ["Which scientific discovery do you think has changed the world the most?", "Would you volunteer to test a new vaccine or medicine? Why / why not?"]
+      },
+      "vocabulary": [
+        {"en": "a breakthrough", "pt": "um avanço decisivo", "say": "a brêikθru"},
+        {"en": "a hypothesis (pl. hypotheses)", "pt": "uma hipótese", "say": "a raipóθesis"},
+        {"en": "to conduct / carry out an experiment", "pt": "realizar um experimento", "say": "tu kondâkt an ekspériment"},
+        {"en": "a clinical trial", "pt": "um ensaio clínico", "say": "a klínikol tráial"},
+        {"en": "peer review / peer-reviewed", "pt": "revisão por pares", "say": "pír riviú"},
+        {"en": "to replicate (results)", "pt": "replicar (resultados)", "say": "tu réplikeit"},
+        {"en": "serendipity", "pt": "acaso feliz, descoberta por acaso", "say": "serendípiti"},
+        {"en": "a side effect", "pt": "um efeito colateral", "say": "a sáid iféct"},
+        {"en": "to pave the way for", "pt": "abrir caminho para", "say": "tu pêiv dâ uêi for"},
+        {"en": "groundbreaking", "pt": "revolucionário, inovador", "say": "gráundbrêikin"},
+        {"en": "to be credited with", "pt": "receber o crédito por", "say": "tu bí kréditid uídh"},
+        {"en": "to fund / funding", "pt": "financiar / financiamento", "say": "tu fând / fândin"}
+      ],
+      "chunks": [
+        {"en": "The sample must have been contaminated.", "pt": "A amostra deve ter sido contaminada."},
+        {"en": "This could be done much more cheaply.", "pt": "Isso poderia ser feito de forma muito mais barata."},
+        {"en": "He got bitten by a mosquito.", "pt": "Ele foi picado por um mosquito."},
+        {"en": "I had my eyes tested last week.", "pt": "Fiz exame de vista semana passada."},
+        {"en": "She had her laptop stolen at the conference.", "pt": "Roubaram o laptop dela na conferência."},
+        {"en": "The researchers were awarded the Nobel Prize.", "pt": "Os pesquisadores receberam o Prêmio Nobel."}
+      ],
+      "grammar": {
+        "title": "Advanced passive forms",
+        "explanation_pt": "**1. Modal + passive**\n- Presente/futuro: **modal + be + particípio**: \"The results **must be checked**.\" / \"This **could be done** faster.\"\n- Passado: **modal + have been + particípio**: \"The sample **must have been contaminated**.\" / \"The disease **could have been prevented**.\"\n- Contínuo (raro): \"The data **might be being analysed** right now.\"\n\n**2. Get passive** (informal) → eventos **inesperados, acidentais** ou **negativos**; também mudança de estado:\n- \"He **got bitten** by a snake.\" / \"Our flight **got cancelled**.\" / \"She **got promoted**.\"\n- Mais comum na fala; evite em textos acadêmicos.\n\n**3. Have / get something done** (causativo)\n- **Serviço** feito por outra pessoa: \"I **had** my car **repaired**.\" / \"We need to **get** the samples **analysed**.\"\n- **Experiência negativa** (alguém fez algo com você): \"She **had** her bag **stolen**.\" / \"He **had** his application **rejected** three times.\"\n\n**4. Verbos com dois objetos** (give, send, offer, award, show, lend, tell, promise):\n- \"They **gave** the scientists a prize.\" →\n  • \"The scientists **were given** a prize.\" (mais comum: pessoa como sujeito)\n  • \"A prize **was given to** the scientists.\"\n\n**5. Passiva com preposição no final:**\n- \"The problem **was dealt with** quickly.\" / \"This theory **has been argued about** for years.\"\n\n**6. Passiva com verbos de percepção + infinitivo com to:**\n- Ativa: \"They **saw** him **leave**.\" → Passiva: \"He **was seen to leave**.\"\n- \"She **was made to** repeat the experiment.\" (ativa: They made her repeat...)",
+        "table": {
+          "headers": ["Forma", "Exemplo"],
+          "rows": [["modal + be + pp", "It should be tested again."], ["modal + have been + pp", "It can't have been planned."], ["get + pp", "The paper got rejected."], ["have/get + objeto + pp (serviço)", "We had the lab cleaned."], ["have + objeto + pp (negativo)", "He had his data hacked."], ["dois objetos", "She was offered a grant."], ["made/seen + to", "They were made to wait."]]
+        },
+        "examples": [
+          {"en": "Many deaths could have been prevented if the vaccine had been distributed earlier.", "pt": "Muitas mortes poderiam ter sido evitadas se a vacina tivesse sido distribuída antes."},
+          {"en": "The team had their results checked by an independent laboratory before publishing.", "pt": "A equipe teve seus resultados verificados por um laboratório independente antes de publicar."},
+          {"en": "Katalin Karikó was refused funding many times before her work was finally recognized.", "pt": "Katalin Karikó teve financiamento negado muitas vezes antes de seu trabalho finalmente ser reconhecido."}
+        ],
+        "tip_pt": "\"Fiz um exame\" / \"cortei o cabelo\" (no salão) → em inglês, use o causativo: \"I **had** a blood test **done**\" / \"I **had** my hair **cut**\". \"I cut my hair\" significa que **você mesmo** cortou!"
+      },
+      "common_mistakes": [
+        {"wrong": "The sample must have contaminated.", "right": "The sample must have been contaminated.", "why_pt": "Passiva no passado com modal: must have been + pp."},
+        {"wrong": "I cut my hair at the salon yesterday.", "right": "I had my hair cut at the salon yesterday.", "why_pt": "Serviço feito por outra pessoa = have something done."},
+        {"wrong": "The prize was given the scientists.", "right": "The scientists were given the prize. / The prize was given to the scientists.", "why_pt": "Com a coisa como sujeito, use to antes da pessoa."}
+      ],
+      "pronunciation": {
+        "focus": "must have been / could have been",
+        "tip_pt": "Na fala, **must have been** vira \"**mâstavbin**\" e **could have been** vira \"**kúdavbin**\". O **been** costuma ser fraco (\"bin\"). Já em **have something done**, o acento vai no **objeto** e no **particípio**: \"I had my **CAR** re**PAIRED**.\"",
+        "practice": ["It must've been contaminated.", "It could've been prevented.", "I had my CAR rePAIRED."]
+      },
+      "dialogue": {
+        "title": "Something went wrong in the lab",
+        "context_pt": "Duas pesquisadoras discutem um resultado inesperado no laboratório.",
+        "lines": [
+          {"speaker": "Dr. Silva", "en": "Have you seen these results? They're completely different from last month's.", "pt": "Você viu esses resultados? São completamente diferentes dos do mês passado."},
+          {"speaker": "Hana", "en": "I have. Either we've made a huge discovery, or something must have gone wrong.", "pt": "Vi. Ou fizemos uma descoberta enorme, ou alguma coisa deve ter dado errado."},
+          {"speaker": "Dr. Silva", "en": "My guess is the samples must have been contaminated. Were they stored correctly?", "pt": "Meu palpite é que as amostras devem ter sido contaminadas. Foram armazenadas corretamente?"},
+          {"speaker": "Hana", "en": "They should have been. But the freezer got switched off during the power cut last week.", "pt": "Deveriam ter sido. Mas o freezer foi desligado durante a queda de energia semana passada."},
+          {"speaker": "Dr. Silva", "en": "That could explain it. We'll need to have the remaining samples tested by the external lab.", "pt": "Isso pode explicar. Vamos precisar mandar testar as amostras restantes no laboratório externo."},
+          {"speaker": "Hana", "en": "I'll get them sent today. And if it was contamination, the whole experiment will have to be repeated.", "pt": "Vou mandar enviar hoje. E, se foi contaminação, o experimento inteiro vai ter que ser repetido."},
+          {"speaker": "Dr. Silva", "en": "Let's not panic yet. Remember, penicillin was discovered because a sample got contaminated!", "pt": "Não vamos entrar em pânico ainda. Lembre-se, a penicilina foi descoberta porque uma amostra foi contaminada!"},
+          {"speaker": "Hana", "en": "True. Maybe we'll be awarded a Nobel Prize for our broken freezer.", "pt": "Verdade. Talvez a gente ganhe um Nobel pelo nosso freezer quebrado."}
+        ]
+      },
+      "listening": {
+        "title": "Science in Brazil",
+        "context_pt": "Uma jornalista científica fala sobre contribuições brasileiras à ciência.",
+        "lines": [
+          {"speaker": "Journalist", "en": "When people think of great scientific discoveries, Brazil isn't always the first country that comes to mind. Yet Brazilian scientists have made important contributions. In 1909, the physician Carlos Chagas described a new disease — now known as Chagas disease — identifying the parasite that causes it, the insect that transmits it and its clinical symptoms, an achievement that is often described as unique in the history of medicine. The country has also been praised for its agricultural research: Embrapa, the public agricultural research company founded in the 1970s, is widely credited with helping to transform the tropical savannah of the Cerrado into productive farmland — though the environmental costs of that transformation are still debated. And during the Zika outbreak of 2015 and 2016, Brazilian researchers were among the first to establish the link between the virus and microcephaly in newborns. These achievements could not have been made without public funding, which is why cuts to research budgets are a constant concern for the scientific community."}
+        ],
+        "questions": [
+          {"q": "What did Carlos Chagas achieve in 1909?", "answer": "He described a new disease, identifying the parasite, the insect vector and the symptoms."},
+          {"q": "What is Embrapa credited with?", "answer": "Helping to transform the Cerrado into productive farmland."},
+          {"q": "What link did Brazilian researchers help establish?", "answer": "The link between the Zika virus and microcephaly."},
+          {"q": "What is a constant concern for scientists?", "answer": "Cuts to research budgets."}
+        ]
+      },
+      "reading": {
+        "title": "The scientist nobody believed",
+        "text": "For decades, the Hungarian-born biochemist Katalin Karikó was considered, by many of her colleagues, to be chasing an impossible dream. Her idea was to use messenger RNA — the molecule that carries genetic instructions inside cells — to make the body produce its own proteins, which could then be used to treat or prevent disease. The problem was that synthetic mRNA, when injected into animals, triggered a strong inflammatory reaction. Grant applications were rejected repeatedly, and in the 1990s she was demoted at the University of Pennsylvania. Most researchers would have given up. Karikó did not. In the early 2000s, working with the immunologist Drew Weissman, she discovered that the inflammatory reaction could be largely avoided if one of the building blocks of the mRNA was slightly modified. Their paper, published in 2005, attracted little attention at the time. Fifteen years later, it was fundamental to one of the fastest medical responses in history. When the COVID-19 pandemic struck, vaccines based on modified mRNA were developed, tested and approved in less than a year — a process that had traditionally taken a decade or more. Hundreds of millions of doses were administered worldwide. In 2023, Karikó and Weissman were awarded the Nobel Prize in Physiology or Medicine. Her story is often told as a lesson in persistence. But it also raises uncomfortable questions about the way science is funded. How many other good ideas have been abandoned because they could not be explained in a short grant proposal, or did not produce quick results?",
+        "questions": [
+          {"q": "What was Karikó's idea?", "answer": "To use mRNA to make the body produce its own proteins to treat or prevent disease."},
+          {"q": "What was the main problem with synthetic mRNA?", "answer": "It triggered a strong inflammatory reaction."},
+          {"q": "What did Karikó and Weissman discover?", "answer": "The reaction could be avoided by slightly modifying one of the mRNA's building blocks."},
+          {"q": "What uncomfortable question does the story raise?", "answer": "How many good ideas have been abandoned because of the way science is funded?"}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Choose the passive form", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+         "items": [{"prompt": "The data ___ before the paper was published.", "options": ["should have checked", "should have been checked", "should be checking"], "answer": "should have been checked"}, {"prompt": "This experiment ___ in a normal school laboratory.", "options": ["could be done", "could do", "could been done"], "answer": "could be done"}, {"prompt": "The researcher ___ by a snake during fieldwork.", "options": ["got bitten", "got bite", "has bitten"], "answer": "got bitten"}, {"prompt": "I need to ___ my blood pressure checked.", "options": ["have", "make", "do"], "answer": "have"}, {"prompt": "The team ___ a large grant last year.", "options": ["was awarded", "awarded", "was awarding"], "answer": "was awarded"}]},
+        {"id": "ex2", "type": "answer", "title": "Rewrite in the passive", "instruction": "Rewrite the sentences in the passive.", "instruction_pt": "Reescreva as frases na voz passiva.",
+         "items": [{"prompt": "Someone must have changed the settings.", "answer": "The settings must have been changed."}, {"prompt": "They could have prevented the accident.", "answer": "The accident could have been prevented."}, {"prompt": "The university offered her a scholarship.", "answer": "She was offered a scholarship (by the university)."}, {"prompt": "They made the volunteers wait for three hours.", "answer": "The volunteers were made to wait for three hours."}]},
+        {"id": "ex3", "type": "answer", "title": "have something done", "instruction": "Rewrite using have something done.", "instruction_pt": "Reescreva usando have something done.",
+         "items": [{"prompt": "A mechanic repaired my car yesterday.", "answer": "I had my car repaired yesterday."}, {"prompt": "Someone stole her phone on the bus.", "answer": "She had her phone stolen on the bus."}, {"prompt": "An external lab is going to analyse our samples.", "answer": "We're going to have our samples analysed by an external lab."}, {"prompt": "A doctor tested my eyes last week.", "answer": "I had my eyes tested last week."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "The sample must have been contaminated."}, {"prompt": "2", "answer": "This could be done much more cheaply."}, {"prompt": "3", "answer": "She had her laptop stolen at the conference."}, {"prompt": "4", "answer": "The researchers were awarded the Nobel Prize."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "The results can't have be correct.", "answer": "The results can't have been correct."}, {"prompt": "I cut my hair at the salon last week.", "answer": "I had my hair cut at the salon last week."}, {"prompt": "The money was given the hospital.", "answer": "The money was given to the hospital. / The hospital was given the money."}, {"prompt": "He was made repeat the test.", "answer": "He was made to repeat the test."}]},
+        {"id": "ex6", "type": "match", "title": "Science vocabulary", "instruction": "Write the English word or expression.", "instruction_pt": "Escreva a palavra ou expressão em inglês.",
+         "items": [{"prompt": "ensaio clínico", "answer": "clinical trial"}, {"prompt": "revisão por pares", "answer": "peer review"}, {"prompt": "acaso feliz", "answer": "serendipity"}, {"prompt": "abrir caminho para", "answer": "pave the way for"}, {"prompt": "replicar resultados", "answer": "replicate results"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Science detectives\": in pairs, discuss three mysteries (a lab experiment gave impossible results; a famous painting was found to be fake; a whole town got sick after a festival). Speculate about what must / might / can't have been done, using advanced passive forms.",
+        "instruction_pt": "\"Detetives da ciência\": em pares, discutam três mistérios (um experimento deu resultados impossíveis; uma pintura famosa era falsa; uma cidade inteira adoeceu depois de uma festa). Especulem sobre o que deve / pode / não pode ter sido feito, usando passivas avançadas.",
+        "questions": ["Which discovery could have been made earlier if scientists had been listened to?", "Should governments fund research that may never be useful?", "What scientific breakthrough do you hope will be made in your lifetime?", "Is Brazilian science given enough recognition? Why / why not?", "Should vaccines be made compulsory? Why / why not?"]
+      },
+      "writing": {
+        "task": "Write a short biography (280–320 words) of a scientist whose work was ignored, rejected or underestimated before being recognized. Use at least eight passive forms, including modal passives, have something done and passives with two objects.",
+        "task_pt": "Escreva uma biografia curta (280–320 palavras) de um cientista cujo trabalho foi ignorado, rejeitado ou subestimado antes de ser reconhecido. Use pelo menos oito formas passivas, incluindo modal passives, have something done e passivas com dois objetos.",
+        "model": "Ignaz Semmelweis: the doctor who asked for clean hands\n\nIn the 1840s, the maternity wards of Vienna General Hospital were divided into two clinics. In the first, women were attended by doctors and medical students; in the second, by midwives. Strangely, the death rate from a condition called childbed fever was far higher in the first clinic. Many mothers begged to be admitted to the second.\n\nThe young Hungarian doctor Ignaz Semmelweis was determined to find out why. A breakthrough was made in 1847, when a colleague died after being cut accidentally during an autopsy. His symptoms were remarkably similar to those of the dying mothers. Semmelweis concluded that the disease must have been carried by doctors who went straight from dissecting bodies to examining patients.\n\nHis solution was simple: all staff were required to have their hands washed in a chlorine solution before touching patients. The results were dramatic. Within months, the death rate in the first clinic had fallen sharply.\n\nYet his ideas were not welcomed. Many senior doctors were offended by the suggestion that they themselves could be responsible for their patients' deaths. Germ theory had not yet been developed, so his findings could not be fully explained. Semmelweis was not given a permanent position, and he eventually left Vienna.\n\nHis later years were tragic. His behaviour became increasingly erratic, and in 1865 he was committed to an asylum, where he died shortly afterwards, apparently after being beaten by guards.\n\nOnly years later, after the work of Louis Pasteur and Joseph Lister, was Semmelweis recognized as a pioneer of antiseptic practice. Today he is often called \"the saviour of mothers\". His story is a painful reminder that good evidence can be ignored when it challenges powerful people — and that many lives might have been saved if he had been listened to."
+      },
+      "culture_note": {
+        "title": "\"Publish or perish\"",
+        "text_pt": "No mundo acadêmico anglófono, a expressão **\"publish or perish\"** (publique ou pereça) resume a pressão sobre pesquisadores para publicar artigos constantemente. Críticos dizem que isso incentiva pesquisas rápidas e \"seguras\" em vez de ideias arriscadas — como as de Katalin Karikó, que levaram décadas para dar frutos."
+      },
+      "summary_pt": ["Modal + be + pp (presente) / modal + have been + pp (passado).", "get + pp: eventos inesperados/negativos (got cancelled, got bitten).", "have + objeto + pp: serviço (had my car repaired) ou experiência negativa (had my bag stolen).", "Dois objetos: She was given a prize / A prize was given to her."]
+    },
+    {
+      "id": "C1-M3-L2",
+      "title": "Playing God?",
+      "subtitle_pt": "Subjuntivo e estruturas formais: insist that he be, it is vital that, should you need, were it not for",
+      "duration_min": 80,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – C1 (subjunctive, formal structures)", "Cambridge C1 Advanced – Writing Part 1 (essay)"],
+      "objectives": ["Usar o subjuntivo depois de recommend, insist, suggest, demand e it is essential/vital that", "Usar should para hipóteses formais (Should you need any help...)", "Usar estruturas formais: were it not for, be it..., come what may", "Discutir dilemas de bioética e edição genética"],
+      "warmup": {
+        "text_pt": "\"Os especialistas recomendam que a técnica **seja** proibida.\" Em português, usamos o subjuntivo o tempo todo. Em inglês, ele existe, mas é **invisível** na maioria das vezes — e aparece em textos formais: \"They recommend that the technique **be** banned\", \"It is vital that every patient **give** consent\". Tema: **bioética**.",
+        "questions": ["If you could edit your future child's genes to prevent a disease, would you?", "Where should the limits of science be? Who should decide?"]
+      },
+      "vocabulary": [
+        {"en": "bioethics", "pt": "bioética", "say": "báioéθiks"},
+        {"en": "gene editing", "pt": "edição genética", "say": "djín éditin"},
+        {"en": "to tamper with (nature)", "pt": "mexer em, adulterar", "say": "tu témper uídh"},
+        {"en": "informed consent", "pt": "consentimento informado", "say": "infórmd konsént"},
+        {"en": "a designer baby", "pt": "um bebê \"projetado\"", "say": "a dizáiner bêibi"},
+        {"en": "a slippery slope", "pt": "um caminho perigoso (efeito dominó)", "say": "a slíperi slôup"},
+        {"en": "to cross a line", "pt": "passar dos limites", "say": "tu krós a láin"},
+        {"en": "a moratorium (on)", "pt": "uma moratória, suspensão", "say": "a moratórium"},
+        {"en": "inherited / hereditary", "pt": "herdado / hereditário", "say": "inréritid / herédítari"},
+        {"en": "to safeguard", "pt": "proteger, salvaguardar", "say": "tu sêifgard"},
+        {"en": "a loophole", "pt": "uma brecha (legal)", "say": "a lúp-hôul"},
+        {"en": "unprecedented", "pt": "sem precedentes", "say": "ânprésidentid"}
+      ],
+      "chunks": [
+        {"en": "The committee recommended that the study be suspended.", "pt": "O comitê recomendou que o estudo fosse suspenso."},
+        {"en": "It is essential that every patient give informed consent.", "pt": "É essencial que todo paciente dê consentimento informado."},
+        {"en": "Should you have any questions, please contact us.", "pt": "Caso tenha alguma dúvida, entre em contato."},
+        {"en": "Were it not for this treatment, she would not be alive.", "pt": "Não fosse esse tratamento, ela não estaria viva."},
+        {"en": "Be that as it may, the law must be respected.", "pt": "Seja como for, a lei deve ser respeitada."},
+        {"en": "This is a slippery slope.", "pt": "Isso é um caminho perigoso."}
+      ],
+      "grammar": {
+        "title": "The subjunctive and formal structures",
+        "explanation_pt": "**1. Subjuntivo presente** = **verbo base** para **todas as pessoas** (sem -s, sem do, sem tempo passado).\nAparece depois de verbos e adjetivos de **exigência, recomendação ou importância**:\n- Verbos: **recommend, suggest, insist, demand, propose, request, require, ask, urge** + **that**\n- Adjetivos: **it is essential / vital / crucial / important / necessary / imperative that**\n\n\"The doctor **recommended that** she **take** a break.\" (não \"takes\")\n\"They **insisted that** the trial **be** stopped.\" (não \"is\" / \"was\")\n\"It is **vital that** he **not** be informed yet.\" (negativa: **not** + base)\n\n⚠️ O tempo do verbo principal **não muda** o subjuntivo: \"They **demanded** that he **resign**.\"\n\n**Alternativa britânica (menos formal):** **should** + verbo: \"They recommended that the study **should be** suspended.\" Ambas são corretas.\n\n**2. Should no lugar de if (inversão)** — hipóteses educadas e formais:\n- \"**Should you need** any further information, do not hesitate to contact us.\" (= If you need...)\n\n**3. Were it not for / Had it not been for** (= se não fosse por):\n- \"**Were it not for** vaccines, millions more would die every year.\"\n- \"**Had it not been for** the transplant, he would have died.\"\n\n**4. Expressões fixas com subjuntivo** (muito comuns!):\n- **Be that as it may** (seja como for)\n- **Come what may** (aconteça o que acontecer)\n- **God save the King / Long live...**\n- **Suffice it to say** (basta dizer)\n- **If need be** (se for necessário)\n- **So be it** (que assim seja)\n- **..., be it X or Y** (seja X ou Y): \"All life, **be it** human or animal, deserves respect.\"",
+        "table": {
+          "headers": ["Estrutura", "Exemplo"],
+          "rows": [["recommend / insist + that + base", "They insisted that she leave."], ["It is vital that + base", "It is vital that he be told."], ["negativa: that + not + base", "We suggest that it not be used."], ["Should + sujeito + verbo", "Should you require help, call us."], ["Were it not for + noun", "Were it not for you, I'd have failed."], ["Expressões fixas", "Be that as it may... / Come what may..."]]
+        },
+        "examples": [
+          {"en": "Several scientists have proposed that a global moratorium be placed on inheritable gene editing.", "pt": "Vários cientistas propuseram que se estabeleça uma moratória global sobre a edição genética hereditária."},
+          {"en": "It is crucial that the public be involved in decisions about new technologies.", "pt": "É crucial que o público seja envolvido nas decisões sobre novas tecnologias."},
+          {"en": "Should the treatment prove safe, it could be offered to thousands of patients.", "pt": "Caso o tratamento se mostre seguro, ele poderá ser oferecido a milhares de pacientes."}
+        ],
+        "tip_pt": "Brasileiros acertam o subjuntivo **intuitivamente** quando pensam em português: \"insistiram que ele **saísse**\" → \"insisted that he **leave**\". O truque: use o **verbo base**, sem conjugar!"
+      },
+      "common_mistakes": [
+        {"wrong": "The doctor recommended that she takes a break.", "right": "The doctor recommended that she take a break. / ...that she should take a break.", "why_pt": "Subjuntivo = verbo base, sem -s."},
+        {"wrong": "It is essential that he is informed.", "right": "It is essential that he be informed.", "why_pt": "Em registro formal, use be (subjuntivo)."},
+        {"wrong": "If you should need help, please to contact us.", "right": "Should you need help, please contact us.", "why_pt": "Inversão com should; please + verbo base."}
+      ],
+      "pronunciation": {
+        "focus": "Ritmo formal",
+        "tip_pt": "Em frases formais longas, as palavras de conteúdo recebem acento claro e as palavras gramaticais ficam fracas: \"It is **ES**sential that **EV**ery **PA**tient **GIVE** in**FORMED** con**SENT**.\" Leia devagar, com pausas antes de **that**.",
+        "practice": ["It is ESsential | that every PAtient | give inFORMED conSENT.", "SHOULD you need any HELP, | please CONtact us.", "WERE it not for VACcines, | MILlions more would DIE."]
+      },
+      "dialogue": {
+        "title": "The ethics committee",
+        "context_pt": "Uma reunião de comitê de ética avalia uma proposta de pesquisa genética (situação fictícia).",
+        "lines": [
+          {"speaker": "Chair", "en": "Let's move on to the gene therapy proposal. Dr. Lima, could you summarize your concerns?", "pt": "Vamos para a proposta de terapia gênica. Dr. Lima, poderia resumir suas preocupações?"},
+          {"speaker": "Dr. Lima", "en": "Certainly. The science is promising, but I would recommend that the trial be limited to adult patients at first.", "pt": "Claro. A ciência é promissora, mas eu recomendaria que o ensaio fosse limitado a pacientes adultos inicialmente."},
+          {"speaker": "Chair", "en": "And informed consent?", "pt": "E o consentimento informado?"},
+          {"speaker": "Dr. Lima", "en": "That's my main point. It is essential that every participant fully understand the risks. Some of these patients are desperate, and desperation can affect judgement.", "pt": "Esse é meu ponto principal. É essencial que cada participante entenda plenamente os riscos. Alguns desses pacientes estão desesperados, e o desespero pode afetar o julgamento."},
+          {"speaker": "Juliana", "en": "With respect, were it not for trials like this, these patients would have no hope at all. Delaying it also has a cost.", "pt": "Com todo o respeito, não fossem ensaios como este, esses pacientes não teriam esperança nenhuma. Adiar também tem um custo."},
+          {"speaker": "Dr. Lima", "en": "Be that as it may, we have a duty to protect them. I'd also insist that an independent team monitor the results.", "pt": "Seja como for, temos o dever de protegê-los. Eu também insistiria que uma equipe independente monitorasse os resultados."},
+          {"speaker": "Juliana", "en": "That's reasonable. Should any serious side effects appear, the trial could be stopped immediately.", "pt": "Isso é razoável. Caso surjam efeitos colaterais graves, o ensaio poderia ser interrompido imediatamente."},
+          {"speaker": "Chair", "en": "So, I propose that we approve the trial, subject to those two conditions. All in favour?", "pt": "Então, proponho que aprovemos o ensaio, sujeito a essas duas condições. Todos a favor?"}
+        ]
+      },
+      "listening": {
+        "title": "The CRISPR babies",
+        "context_pt": "Uma jornalista científica relata o caso dos bebês editados geneticamente na China.",
+        "lines": [
+          {"speaker": "Journalist", "en": "In November 2018, the Chinese scientist He Jiankui announced that he had used the gene-editing tool CRISPR to alter the DNA of human embryos, resulting in the birth of twin girls. His stated aim was to make them resistant to HIV. The reaction from the scientific community was almost universally negative. Critics argued that the procedure was medically unnecessary, that its long-term effects were unknown, and that the changes could be passed on to future generations. Many questioned whether the parents had given truly informed consent. He was later sentenced to prison in China. The case led to calls from leading scientists that a global moratorium be placed on heritable genome editing until its safety and ethics could be properly assessed. It's worth noting that gene editing in non-reproductive cells — which only affects the patient — is a different matter, and therapies of this kind have already been approved in some countries. The line, most experts agree, is crossed when changes are made that will be inherited."}
+        ],
+        "questions": [
+          {"q": "What did He Jiankui announce in 2018?", "answer": "He had edited the DNA of human embryos, resulting in the birth of twin girls."},
+          {"q": "Name two criticisms of the procedure.", "answer": "It was medically unnecessary / long-term effects unknown / changes could be inherited / doubts about consent."},
+          {"q": "What did leading scientists call for?", "answer": "A global moratorium on heritable genome editing."},
+          {"q": "Where is the line crossed, according to most experts?", "answer": "When changes are made that will be inherited."}
+        ]
+      },
+      "reading": {
+        "title": "Who decides?",
+        "text": "Few technologies have raised hopes and fears as dramatically as gene editing. Tools such as CRISPR, whose developers Jennifer Doudna and Emmanuelle Charpentier were awarded the Nobel Prize in Chemistry in 2020, allow scientists to modify DNA with a precision that would have been unimaginable a generation ago. The potential benefits are enormous. Inherited diseases that have caused suffering for centuries could, in theory, be corrected. In 2023, regulators in the United Kingdom and the United States approved the first therapy based on CRISPR, designed to treat sickle cell disease. Yet the same technology raises profound ethical questions. If it becomes possible to eliminate a disease, should it also be possible to select for height, intelligence or appearance? Critics warn of a slippery slope towards \"designer babies\" and a world in which genetic advantages are available only to the wealthy. Disability rights advocates have also asked who gets to decide which human traits count as \"defects\". Most scientific bodies currently insist that a clear distinction be maintained between somatic editing, which affects only the individual patient, and germline editing, whose changes would be inherited by future generations. The first is increasingly accepted; the second remains, in most countries, prohibited. But laws vary from one country to another, and technology tends to move faster than regulation. Were it not for international cooperation, the rules could easily be bypassed by researchers moving to countries with weaker oversight. Perhaps the most important question is not what science can do, but who should decide what it ought to do — scientists, governments, patients or society as a whole. Be that as it may, it seems essential that these decisions not be left to a few laboratories alone.",
+        "questions": [
+          {"q": "Who developed CRISPR and what were they awarded?", "answer": "Jennifer Doudna and Emmanuelle Charpentier; the 2020 Nobel Prize in Chemistry."},
+          {"q": "What was approved in 2023?", "answer": "The first CRISPR-based therapy, for sickle cell disease (UK and US)."},
+          {"q": "What is the difference between somatic and germline editing?", "answer": "Somatic affects only the patient; germline changes are inherited."},
+          {"q": "Why is international cooperation important?", "answer": "Otherwise researchers could move to countries with weaker oversight."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Subjunctive", "instruction": "Choose the most formal correct option.", "instruction_pt": "Escolha a opção formal correta.",
+         "items": [{"prompt": "The committee insisted that the study ___ immediately.", "options": ["is stopped", "be stopped", "was stopping"], "answer": "be stopped"}, {"prompt": "It is vital that every volunteer ___ the form.", "options": ["signs", "sign", "signed"], "answer": "sign"}, {"prompt": "The doctor suggested that he ___ smoking.", "options": ["stop", "stops", "to stop"], "answer": "stop"}, {"prompt": "We recommend that the drug ___ be given to children.", "options": ["doesn't", "not", "isn't"], "answer": "not"}, {"prompt": "___ you require further information, please contact us.", "options": ["Should", "Would", "Were"], "answer": "Should"}]},
+        {"id": "ex2", "type": "answer", "title": "Make it formal", "instruction": "Rewrite the sentences using the structure in brackets.", "instruction_pt": "Reescreva usando a estrutura indicada.",
+         "items": [{"prompt": "If you need any help, call this number. (Should...)", "answer": "Should you need any help, call this number."}, {"prompt": "If it weren't for organ donors, many patients would die. (Were it not...)", "answer": "Were it not for organ donors, many patients would die."}, {"prompt": "Everyone must be told the truth — it's essential. (It is essential that...)", "answer": "It is essential that everyone be told the truth."}, {"prompt": "They said the scientist had to resign. (demanded that...)", "answer": "They demanded that the scientist resign."}]},
+        {"id": "ex3", "type": "match", "title": "Fixed expressions", "instruction": "Write the English fixed expression.", "instruction_pt": "Escreva a expressão fixa em inglês.",
+         "items": [{"prompt": "seja como for", "answer": "be that as it may"}, {"prompt": "aconteça o que acontecer", "answer": "come what may"}, {"prompt": "basta dizer", "answer": "suffice it to say"}, {"prompt": "se for necessário", "answer": "if need be"}, {"prompt": "que assim seja", "answer": "so be it"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "It is essential that every patient give informed consent."}, {"prompt": "2", "answer": "Should you have any questions, please contact us."}, {"prompt": "3", "answer": "Were it not for this treatment, she would not be alive."}, {"prompt": "4", "answer": "Be that as it may, the law must be respected."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake (formal register).", "instruction_pt": "Encontre e corrija o erro (registro formal).",
+         "items": [{"prompt": "They recommended that he takes a week off.", "answer": "They recommended that he take a week off."}, {"prompt": "It is crucial that the patient is not told yet.", "answer": "It is crucial that the patient not be told yet."}, {"prompt": "Should you will need help, please ask.", "answer": "Should you need help, please ask."}, {"prompt": "Were not it for the vaccine, more people would die.", "answer": "Were it not for the vaccine, more people would die."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the guidelines", "instruction": "Complete with: be · should · were · not · give.", "instruction_pt": "Complete as diretrizes.",
+         "items": [{"prompt": "1. It is essential that all participants ___ written consent.", "answer": "give"}, {"prompt": "2. The committee requires that all data ___ stored securely.", "answer": "be"}, {"prompt": "3. ___ any participant wish to leave the study, they may do so at any time.", "answer": "Should"}, {"prompt": "4. We recommend that names ___ be published. ___ it not for these rules, public trust would be lost.", "answer": "not / Were"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Ethics committee\": in groups of four, play a committee deciding on three cases (editing an embryo to prevent a fatal disease; a pill that improves memory for healthy students; cloning a pet). For each, make formal recommendations using the subjunctive, should-inversion and fixed expressions.",
+        "instruction_pt": "\"Comitê de ética\": em grupos de quatro, simulem um comitê que decide três casos (editar um embrião para evitar uma doença fatal; uma pílula que melhora a memória de estudantes saudáveis; clonar um animal de estimação). Para cada um, façam recomendações formais com subjuntivo, inversão com should e expressões fixas.",
+        "questions": ["Should gene editing be allowed to prevent serious diseases? What about enhancing intelligence?", "Who should decide the limits of science?", "Is it ethical to test new drugs on animals?", "Would you have your own DNA sequenced? What would you want to know?", "Is \"playing God\" a fair criticism of scientists?"]
+      },
+      "writing": {
+        "task": "Write a formal essay (280–320 words): \"Gene editing should be used only to treat disease, never to enhance human abilities.\" Discuss both sides and give your opinion. Use at least four subjunctive forms and two other formal structures from this lesson.",
+        "task_pt": "Escreva uma redação formal (280–320 palavras): \"A edição genética deveria ser usada apenas para tratar doenças, nunca para melhorar capacidades humanas.\" Discuta os dois lados e dê sua opinião. Use pelo menos quatro formas de subjuntivo e duas outras estruturas formais da aula.",
+        "model": "Treatment or enhancement? The limits of gene editing\n\nAdvances in gene-editing technology have made it possible, for the first time in history, to alter human DNA with remarkable precision. While few would object to its use in curing devastating diseases, many experts insist that a firm line be drawn between treatment and enhancement. This essay will examine whether such a line is both desirable and realistic.\n\nThe case for restricting gene editing to medical treatment is a strong one. Were it not for clear limits, the technology could easily be used to create genetic advantages for those who could afford them, deepening existing inequalities. Moreover, our understanding of the human genome remains incomplete. A change intended to improve one characteristic might have unforeseen consequences elsewhere, and if made in embryos, those consequences would be inherited by future generations. It is therefore vital that any intervention be justified by a serious medical need.\n\nOn the other hand, critics argue that the distinction between treatment and enhancement is far from clear. Is strengthening the immune system a treatment or an enhancement? What about reducing the risk of a condition that may never develop? Some have also pointed out that we already accept many forms of enhancement, from vaccines to education, and that refusing genetic improvements on principle may be inconsistent.\n\nBe that as it may, I believe the risks of allowing enhancement currently outweigh the potential benefits. The technology is too new, its long-term effects too uncertain and its social consequences too unpredictable. I would therefore recommend that its use be limited to the treatment of serious diseases, and that any change to that policy be decided through public debate rather than by scientists or companies alone. Should our knowledge improve significantly in the future, the question could be reconsidered. Until then, caution seems the wisest course."
+      },
+      "culture_note": {
+        "title": "O subjuntivo: EUA x Reino Unido",
+        "text_pt": "O subjuntivo (\"I suggest that he **go**\") é **mais comum no inglês americano**, inclusive na fala. No inglês britânico, é mais frequente usar **should** (\"I suggest that he **should go**\") ou até o indicativo (\"I suggest that he **goes**\") em contextos informais. Em provas e textos formais, qualquer uma das duas primeiras formas é segura."
+      },
+      "summary_pt": ["recommend / insist / suggest / demand + that + verbo base.", "It is vital / essential / crucial that + verbo base (negativa: not + base).", "Should you need... (= if you need...); Were it not for... (= se não fosse por...).", "Expressões: be that as it may, come what may, if need be, suffice it to say."]
+    },
+    {
+      "id": "C1-M3-L3",
+      "title": "Reading the numbers",
+      "subtitle_pt": "Linguagem acadêmica: hedging, aproximações e descrição de dados",
+      "duration_min": 80,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – C1 (academic language, hedging, describing data)", "IELTS Academic – Writing Task 1"],
+      "objectives": ["Descrever gráficos e tendências com precisão (peaked, plummeted, a threefold increase)", "Usar aproximações (roughly, just over, the vast majority)", "Fazer hedging acadêmico (it would appear that, the data suggest)", "Interpretar estatísticas com espírito crítico (correlação x causalidade)"],
+      "warmup": {
+        "text_pt": "\"Os números não mentem\" — mas quem os apresenta pode distorcê-los. No C1, você precisa **descrever dados com precisão**, **suavizar afirmações** quando a evidência é limitada e **questionar** estatísticas. Essas habilidades são cobradas no **IELTS Academic** e essenciais em qualquer carreira.",
+        "questions": ["Do you trust statistics you see in the news or on social media?", "Can you think of a statistic that surprised you recently?"]
+      },
+      "vocabulary": [
+        {"en": "to peak / to reach a peak", "pt": "atingir o pico", "say": "tu pík"},
+        {"en": "to plummet / to soar", "pt": "despencar / disparar", "say": "tu plâmit / tu sór"},
+        {"en": "to fluctuate", "pt": "oscilar", "say": "tu flâktchueit"},
+        {"en": "to level off / to stabilize", "pt": "estabilizar", "say": "tu lévol óf"},
+        {"en": "a threefold / fourfold increase", "pt": "um aumento de três / quatro vezes", "say": "a θrífôuld ínkris"},
+        {"en": "a marginal / substantial change", "pt": "uma mudança mínima / substancial", "say": "a márdjinol / sabsténshol"},
+        {"en": "the vast majority", "pt": "a grande maioria", "say": "dâ vést madjóriti"},
+        {"en": "a correlation / causation", "pt": "uma correlação / causalidade", "say": "a korelêishan / kozêishan"},
+        {"en": "a sample (size)", "pt": "uma amostra (tamanho da)", "say": "a sémpol (sáiz)"},
+        {"en": "statistically significant", "pt": "estatisticamente significativo", "say": "statístikli signífikant"},
+        {"en": "an outlier", "pt": "um ponto fora da curva", "say": "an áutláier"},
+        {"en": "to account for", "pt": "representar (uma proporção); explicar", "say": "tu akáunt for"}
+      ],
+      "chunks": [
+        {"en": "Sales peaked in 2019 before plummeting the following year.", "pt": "As vendas atingiram o pico em 2019 antes de despencarem no ano seguinte."},
+        {"en": "There was a threefold increase in users.", "pt": "Houve um aumento de três vezes no número de usuários."},
+        {"en": "Just over half of the respondents agreed.", "pt": "Pouco mais da metade dos entrevistados concordou."},
+        {"en": "The data would appear to suggest that...", "pt": "Os dados parecem sugerir que..."},
+        {"en": "Correlation does not imply causation.", "pt": "Correlação não implica causalidade."},
+        {"en": "Women accounted for 60% of graduates.", "pt": "As mulheres representaram 60% dos formados."}
+      ],
+      "grammar": {
+        "title": "Describing data and academic hedging",
+        "explanation_pt": "**1. Descrevendo tendências** — duas estruturas equivalentes:\n- **Verbo + advérbio:** \"Sales **rose sharply**.\" / \"Prices **fell slightly**.\"\n- **Adjetivo + substantivo:** \"There was **a sharp rise** in sales.\" / \"**a slight fall** in prices.\"\n\n**Verbos:** rise, increase, grow, climb, **soar**, **rocket** ↗ · fall, decrease, drop, decline, **plummet**, **plunge** ↘ · **fluctuate** ↕ · **level off**, **stabilize**, remain steady → · **peak**, reach a high/low\n**Advérbios/adjetivos de intensidade:** dramatically, sharply, significantly, considerably, steadily, gradually, slightly, marginally\n\n**Preposições** (erro comum!):\n- rose **from** 10% **to** 25% · rose **by** 15 percentage points · **a** rise **in** prices · **a** rise **of** 15% · peaked **at** 30%\n\n**Multiplicadores:** doubled / tripled / a **threefold** increase / **twice as many as** / **three times as high as**\n\n**2. Aproximações:**\n- **just over / just under / roughly / approximately / around / nearly / almost**\n- **the vast majority / a significant minority / a small proportion / one in five / a quarter**\n\n**3. Hedging acadêmico** (suavizar quando a evidência é limitada):\n- Verbos: **appear to, seem to, tend to, suggest, indicate**\n- Modais: **may, might, could**\n- Expressões: **it would appear that / there is evidence to suggest that / to some extent / in some cases / it is likely that**\n- Advérbios: **possibly, probably, arguably, apparently**\n\nCompare:\n- Forte demais: \"Social media **causes** depression.\"\n- Acadêmico: \"There **is some evidence to suggest** that heavy social media use **may be associated with** higher rates of depression.\"\n\n**Boosters** (quando a evidência é forte): clearly, undoubtedly, it is evident that, the data **demonstrate**.",
+        "table": {
+          "headers": ["Movimento", "Verbo + advérbio", "Adjetivo + substantivo"],
+          "rows": [["↗ muito", "soared / rose sharply", "a dramatic / sharp rise"], ["↗ pouco", "rose slightly", "a slight / marginal increase"], ["↘ muito", "plummeted / fell dramatically", "a steep / sharp fall"], ["↕", "fluctuated", "fluctuations"], ["→", "levelled off / remained stable", "a period of stability"], ["topo", "peaked at 40%", "reached a peak of 40%"]]
+        },
+        "examples": [
+          {"en": "The number of internet users in Brazil rose steadily throughout the 2010s, reaching the vast majority of the population by the end of the decade.", "pt": "O número de usuários de internet no Brasil cresceu de forma constante nos anos 2010, alcançando a grande maioria da população no fim da década."},
+          {"en": "There appears to be a correlation between hours of sleep and exam performance, although further research would be needed to establish causation.", "pt": "Parece haver uma correlação entre horas de sono e desempenho em provas, embora fossem necessárias mais pesquisas para estabelecer causalidade."},
+          {"en": "Just under a third of respondents said they had never used a public library.", "pt": "Pouco menos de um terço dos entrevistados disse nunca ter usado uma biblioteca pública."}
+        ],
+        "tip_pt": "Atenção à diferença: **percent** (%) x **percentage points**. Se a taxa de desemprego vai de 10% para 12%, ela subiu **2 percentage points** — mas aumentou **20 percent** em termos relativos. Jornalistas confundem isso o tempo todo!"
+      },
+      "common_mistakes": [
+        {"wrong": "There was a sharp rise of sales.", "right": "There was a sharp rise in sales.", "why_pt": "a rise IN + o que subiu; a rise OF + quantidade (a rise of 10%)."},
+        {"wrong": "The data proves that coffee causes cancer.", "right": "The data suggest that coffee may be associated with...", "why_pt": "Use hedging quando há só correlação. (Em estilo acadêmico, data costuma ser plural.)"},
+        {"wrong": "Prices increased in 5% to 10%.", "right": "Prices increased from 5% to 10%. / increased by 5 percentage points.", "why_pt": "from... to / by (diferença)."}
+      ],
+      "pronunciation": {
+        "focus": "Números e porcentagens",
+        "tip_pt": "Atenção: **thirty** (30) x **thirteen** (13) — em **thirTEEN** o acento cai no final; em **THIRty**, no começo. **Percent** = \"per-SÉNT\". Decimais: **2.5** = \"two point five\" (ponto, não vírgula!). Datas: **2019** = \"twenty nineteen\".",
+        "practice": ["thirTEEN percent x THIRty percent", "two point five percent", "It peaked in twenty nineteen."]
+      },
+      "dialogue": {
+        "title": "That headline is misleading",
+        "context_pt": "Um editor e uma jornalista discutem a manchete de uma matéria baseada em um estudo.",
+        "lines": [
+          {"speaker": "Editor", "en": "I love this headline: \"Coffee drinkers live longer, study proves.\" It'll get thousands of clicks.", "pt": "Adorei essa manchete: \"Quem bebe café vive mais, prova estudo.\" Vai ter milhares de cliques."},
+          {"speaker": "Paula", "en": "It might, but it's not accurate. The study found a correlation, not causation.", "pt": "Pode ser, mas não é precisa. O estudo encontrou uma correlação, não causalidade."},
+          {"speaker": "Editor", "en": "What's the difference, in practice?", "pt": "Qual é a diferença, na prática?"},
+          {"speaker": "Paula", "en": "Coffee drinkers in the study also tended to be wealthier and more active. Those factors could account for the longer lives.", "pt": "Quem bebia café no estudo também tendia a ser mais rico e mais ativo. Esses fatores poderiam explicar a vida mais longa."},
+          {"speaker": "Editor", "en": "Fine. How big was the effect, anyway?", "pt": "Tá bom. E qual foi o tamanho do efeito?"},
+          {"speaker": "Paula", "en": "Fairly modest. And the risk reduction is relative — the absolute difference is much smaller than the headline suggests.", "pt": "Bem modesto. E a redução de risco é relativa — a diferença absoluta é muito menor do que a manchete sugere."},
+          {"speaker": "Editor", "en": "So what would you write?", "pt": "Então o que você escreveria?"},
+          {"speaker": "Paula", "en": "Something like: \"Coffee may be linked to a longer life, study suggests — but experts urge caution.\" Less dramatic, but honest.", "pt": "Algo como: \"Café pode estar ligado a uma vida mais longa, sugere estudo — mas especialistas pedem cautela.\" Menos dramático, mas honesto."},
+          {"speaker": "Editor", "en": "Fewer clicks, though.", "pt": "Mas menos cliques."},
+          {"speaker": "Paula", "en": "Arguably. But more trust.", "pt": "Talvez. Mas mais confiança."}
+        ]
+      },
+      "listening": {
+        "title": "Describing a graph",
+        "context_pt": "Uma professora de IELTS mostra como descrever um gráfico sobre o uso de bicicletas (dados fictícios criados para a aula).",
+        "lines": [
+          {"speaker": "Teacher", "en": "Let's look at this example. The line graph shows the number of daily bicycle trips in a fictional city between 2010 and 2025. Overall, cycling increased dramatically over the period, although there were some fluctuations. In 2010, there were roughly 20,000 daily trips. This figure remained fairly stable until 2014, when the city opened its first network of cycle lanes. Over the following four years, the number of trips more than doubled, reaching just over 45,000 in 2018. There was a sharp fall in 2020, when trips plummeted to around 25,000, which would appear to be linked to lockdown restrictions. However, the figure recovered rapidly, peaking at approximately 60,000 in 2023 — a threefold increase compared with 2010 — before levelling off. Notice what I did there: an overview first, then the key figures, and a careful \"would appear to be linked\" — because the graph alone can't prove the cause."}
+        ],
+        "questions": [
+          {"q": "How many daily trips were there in 2010?", "answer": "Roughly 20,000."},
+          {"q": "What happened after 2014?", "answer": "Cycle lanes opened and trips more than doubled by 2018 (just over 45,000)."},
+          {"q": "What happened in 2020, and why might it have happened?", "answer": "Trips plummeted to around 25,000, probably linked to lockdowns."},
+          {"q": "Why does the teacher use \"would appear to be linked\"?", "answer": "Because the graph alone can't prove the cause."}
+        ]
+      },
+      "video": {
+        "title": "The best stats you've ever seen",
+        "speaker": "Hans Rosling",
+        "url": "https://www.ted.com/search?q=hans+rosling+the+best+stats+you%27ve+ever+seen",
+        "task_pt": "Assista à palestra (cerca de 20 minutos). Rosling usa gráficos animados para desafiar ideias sobre o mundo. Responda usando a linguagem de dados e hedging da aula:",
+        "questions": ["What misconception about the world does the speaker challenge?", "Describe one of the trends he shows, using precise language (rose sharply, a threefold increase...).", "Why does he argue that averages can be misleading?", "Have your own ideas about the world been challenged by data? Give an example."]
+      },
+      "reading": {
+        "title": "How to lie with statistics",
+        "text": "In 1954, the American writer Darrell Huff published a small book with a provocative title: How to Lie with Statistics. Despite its age, many of its warnings remain remarkably relevant. Perhaps the most common trap is confusing correlation with causation. Countries that consume more chocolate per person, for example, tend to have won more Nobel Prizes per capita — a correlation highlighted, half-jokingly, in a 2012 article in a medical journal. Few would seriously conclude that chocolate makes people smarter. A far more likely explanation is that both are associated with a third factor: national wealth. Yet similar reasoning appears regularly in headlines about diet, technology and health. A second trap involves relative and absolute risk. A headline announcing that a medicine \"doubles the risk\" of a side effect sounds alarming. But if the risk rises from one in 10,000 to two in 10,000, the absolute increase is tiny. Both statements are technically true; only one gives the reader a fair picture. Third, there is the problem of the sample. A survey of 200 enthusiastic app users cannot tell us much about the population as a whole, however impressive its results may appear. Finally, graphs themselves can mislead. By starting the vertical axis at a number other than zero, a designer can make a marginal change look dramatic. None of this means that statistics are useless — quite the opposite. Used carefully, they are among the most powerful tools we have for understanding the world. The point is that numbers, like words, need to be read critically. As a rule of thumb, it would seem wise to ask three questions of any statistic: compared to what, measured how, and according to whom?",
+        "questions": [
+          {"q": "What is the chocolate example meant to show?", "answer": "That correlation doesn't imply causation (both linked to national wealth)."},
+          {"q": "What is the difference between relative and absolute risk in the example?", "answer": "\"Doubles\" sounds big, but the absolute rise is only from 1 to 2 in 10,000."},
+          {"q": "How can graphs mislead?", "answer": "By starting the vertical axis at a number other than zero."},
+          {"q": "What three questions does the writer suggest asking?", "answer": "Compared to what, measured how, and according to whom?"}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Prepositions with data", "instruction": "Choose the correct preposition.", "instruction_pt": "Escolha a preposição correta.",
+         "items": [{"prompt": "There was a sharp increase ___ unemployment.", "options": ["in", "of", "on"], "answer": "in"}, {"prompt": "Prices rose ___ 10% to 15%.", "options": ["from", "by", "in"], "answer": "from"}, {"prompt": "Sales fell ___ 3 percentage points.", "options": ["in", "by", "of"], "answer": "by"}, {"prompt": "There was a rise ___ 20% in the number of visitors.", "options": ["of", "in", "by"], "answer": "of"}, {"prompt": "The figure peaked ___ 45,000 in 2023.", "options": ["at", "in", "on"], "answer": "at"}]},
+        {"id": "ex2", "type": "answer", "title": "Verb ↔ noun", "instruction": "Rewrite each sentence using the other structure (verb + adverb ↔ adjective + noun).", "instruction_pt": "Reescreva usando a outra estrutura.",
+         "items": [{"prompt": "Car sales fell dramatically in 2020.", "answer": "There was a dramatic fall in car sales in 2020."}, {"prompt": "There was a steady increase in online shopping.", "answer": "Online shopping increased steadily."}, {"prompt": "Unemployment rose slightly last year.", "answer": "There was a slight rise in unemployment last year."}, {"prompt": "There was a sharp decline in birth rates.", "answer": "Birth rates declined sharply."}]},
+        {"id": "ex3", "type": "answer", "title": "Add hedging", "instruction": "Rewrite the claims in a more cautious, academic style.", "instruction_pt": "Reescreva as afirmações num estilo mais cauteloso e acadêmico.",
+         "items": [{"prompt": "Video games make children violent.", "answer": "There is some evidence to suggest that certain video games may be associated with aggressive behaviour in some children."}, {"prompt": "This diet cures diabetes.", "answer": "This diet would appear to help some patients manage diabetes. / The data suggest that this diet may improve..."}, {"prompt": "Remote workers are more productive.", "answer": "Remote workers tend to be more productive in some sectors. / It would appear that remote work can increase productivity."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "Sales peaked in 2019 before plummeting the following year."}, {"prompt": "2", "answer": "Just over half of the respondents agreed."}, {"prompt": "3", "answer": "Correlation does not imply causation."}, {"prompt": "4", "answer": "There was a threefold increase in users."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "There was a dramatically rise in prices.", "answer": "There was a dramatic rise in prices."}, {"prompt": "The number of users rose in 2,000 to 6,000.", "answer": "The number of users rose from 2,000 to 6,000."}, {"prompt": "The study proves that sleep causes good grades.", "answer": "The study suggests that sleep may be linked to better grades."}, {"prompt": "Women accounted 55% of the participants.", "answer": "Women accounted for 55% of the participants."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Describe the data", "instruction": "Complete with: peaked · vast · plummeted · threefold · levelled · just.", "instruction_pt": "Complete a descrição dos dados.",
+         "items": [{"prompt": "Visitor numbers rose steadily and ___ at 90,000 in August.", "answer": "peaked"}, {"prompt": "They then ___ to 30,000 in September, after the rainy season began.", "answer": "plummeted"}, {"prompt": "Compared with 2015, this represents a ___ increase.", "answer": "threefold"}, {"prompt": "The figure then ___ off. The ___ majority of visitors were Brazilian, and ___ under 10% came from abroad.", "answer": "levelled / vast / just"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Fact-check the headline\": your teacher (or your partner) gives you three dramatic headlines based on statistics. Explain what the data probably show, what might be misleading and how you would rewrite each headline using appropriate hedging.",
+        "instruction_pt": "\"Checagem de manchete\": o professor (ou colega) apresenta três manchetes dramáticas baseadas em estatísticas. Explique o que os dados provavelmente mostram, o que pode ser enganoso e como você reescreveria cada manchete com hedging adequado.",
+        "questions": ["Which statistics about Brazil do you think most people get wrong?", "Have you ever been misled by a graph or a number?", "Why do headlines exaggerate scientific findings?", "Should schools teach statistical literacy as a separate subject?", "When is it OK to state something without hedging?"]
+      },
+      "writing": {
+        "task": "IELTS Task 1–style report (180–220 words): describe a graph showing the percentage of Brazilians who used three types of transport to commute (car, public transport, bicycle) in 2005, 2015 and 2025 (invent realistic data). Include an overview, key figures, comparisons and appropriate hedging.",
+        "task_pt": "Relatório no estilo IELTS Task 1 (180–220 palavras): descreva um gráfico com a porcentagem de pessoas que usavam três meios de transporte para ir ao trabalho (carro, transporte público, bicicleta) em 2005, 2015 e 2025 (invente dados realistas). Inclua visão geral, números principais, comparações e hedging adequado.",
+        "model": "The bar chart illustrates the proportion of commuters in a large Brazilian city who travelled to work by car, public transport and bicycle in 2005, 2015 and 2025. (The figures are fictional.)\n\nOverall, public transport remained the most common way of commuting throughout the period, while cycling, although still a minority choice, grew considerably. The use of cars, by contrast, rose and then fell.\n\nIn 2005, just over half of commuters (52%) used public transport, compared with roughly a third (34%) who drove. Only a very small proportion — around 2% — cycled to work. Over the following decade, car use increased to 41%, which would appear to reflect the rise in car ownership during that period, while the share of public transport fell slightly to 47%.\n\nBetween 2015 and 2025, however, this trend was reversed. The proportion of car commuters fell sharply to 30%, whereas public transport recovered to 50%. Most strikingly, cycling more than tripled, reaching 7% by 2025. This increase may be linked to the expansion of cycle lanes, although other factors, such as the growth of shared bicycles, could also account for it.\n\nIn summary, the data suggest a gradual shift towards more sustainable forms of transport in recent years."
+      },
+      "culture_note": {
+        "title": "\"Lies, damned lies, and statistics\"",
+        "text_pt": "A frase **\"There are three kinds of lies: lies, damned lies, and statistics\"** foi popularizada por Mark Twain, que a atribuiu ao primeiro-ministro britânico Benjamin Disraeli — mas não há registro de Disraeli tê-la dito. Ironicamente, a origem dessa frase sobre dados enganosos é, ela mesma, incerta!"
+      },
+      "summary_pt": ["rose sharply = a sharp rise IN; from X to Y; by X points; peaked AT.", "Multiplicadores: doubled, a threefold increase, three times as high as.", "Aproximações: just over / under, roughly, the vast majority.", "Hedging: appear to, the data suggest, may be associated with. Correlação ≠ causalidade."]
+    },
+    {
+      "id": "C1-M3-L4",
+      "title": "Where do you stand?",
+      "subtitle_pt": "Concessão avançada: much as, however much, whatever, admittedly, be that as it may",
+      "duration_min": 80,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – C1 (concession, complex sentences)", "Cambridge C1 Advanced – Speaking Part 4"],
+      "objectives": ["Usar however / whatever / whoever / no matter + oração", "Fazer concessões com admittedly, granted, while it is true that...", "Usar adjetivo + though / as (Difficult though it is...)", "Debater dilemas éticos reconhecendo o lado oposto"],
+      "warmup": {
+        "text_pt": "Num debate de alto nível, quem convence não é quem ignora o outro lado — é quem o **reconhece** e depois o **supera**: \"**Admittedly**, the plan is expensive. **However much** it costs, though, ...\" Esse é o **movimento concessivo**, marca do pensamento crítico. Tema: **dilemas éticos**.",
+        "questions": ["Is it ever acceptable to lie? Give an example.", "Would you sacrifice one person to save five? Why / why not?"]
+      },
+      "vocabulary": [
+        {"en": "a dilemma / a moral dilemma", "pt": "um dilema / dilema moral", "say": "a dilêma"},
+        {"en": "the greater good", "pt": "o bem maior", "say": "dâ grêiter gud"},
+        {"en": "to justify / justifiable", "pt": "justificar / justificável", "say": "tu djâstifai"},
+        {"en": "a trade-off", "pt": "uma troca, um custo-benefício", "say": "a trêidóf"},
+        {"en": "the lesser of two evils", "pt": "o mal menor", "say": "dâ léser ov tú ívolz"},
+        {"en": "a grey area", "pt": "uma zona cinzenta", "say": "a grêi ériâ"},
+        {"en": "integrity", "pt": "integridade", "say": "intégriti"},
+        {"en": "to take a stand (on)", "pt": "tomar uma posição", "say": "tu têik a sténd"},
+        {"en": "admittedly", "pt": "é verdade que, reconhecidamente", "say": "admítidli"},
+        {"en": "granted", "pt": "concedo que, é verdade", "say": "gréntid"},
+        {"en": "to outweigh", "pt": "superar, pesar mais que", "say": "tu autuêi"},
+        {"en": "to sit on the fence", "pt": "ficar em cima do muro", "say": "tu sit on dâ féns"}
+      ],
+      "chunks": [
+        {"en": "However hard I try, I can't agree.", "pt": "Por mais que eu tente, não consigo concordar."},
+        {"en": "Whatever you decide, I'll support you.", "pt": "O que quer que você decida, vou te apoiar."},
+        {"en": "Admittedly, it's a difficult choice.", "pt": "É verdade que é uma escolha difícil."},
+        {"en": "Difficult though it may be, we must act.", "pt": "Por mais difícil que seja, precisamos agir."},
+        {"en": "The benefits outweigh the risks.", "pt": "Os benefícios superam os riscos."},
+        {"en": "Stop sitting on the fence!", "pt": "Pare de ficar em cima do muro!"}
+      ],
+      "grammar": {
+        "title": "Advanced concession",
+        "explanation_pt": "**1. However / Whatever / Whoever / Wherever / Whenever + oração** (= não importa como/o que/quem...)\n- **However + adjetivo/advérbio + S + V**: \"**However hard** I try, I can't understand it.\" / \"**However much** it costs, we'll pay.\"\n- \"**Whatever** you decide, I'll support you.\" / \"**Whoever** wins, the country will be divided.\"\n- Com **may** (mais formal): \"**However** difficult it **may** be, ...\"\n\n**2. No matter + what / how / who / where / when**\n- \"**No matter how** many times I explain, he doesn't listen.\" (≈ However many times...)\n- \"**No matter what** happens, stay calm.\"\n\n**3. Adjetivo / advérbio + though / as + S + V** (formal, enfático):\n- \"**Difficult though** it is, we must decide.\" / \"**Tempting as** it may be, we should not lie.\"\n\n**4. Concessão com advérbios e expressões** (reconhecer → contrapor):\n- **Admittedly**, ... / **Granted**, ... / **It is true that** ..., **but** ...\n- **While it is true that** ..., ... / **Although it may be argued that** ..., ...\n- **Be that as it may**, ... / **Even so**, ... / **All the same**, ... / **That said**, ...\n- \"**Admittedly**, lying can sometimes protect people. **Even so**, I believe honesty is the better policy in the long run.\"\n\n**5. Much as / However much** (revisão da M1-L3): \"**Much as** I admire her, I can't agree.\"\n\n**Estrutura de argumento concessivo:**\n**reconhecer** (Admittedly / Granted / While it is true that...) → **contrapor** (However / Even so / Be that as it may) → **reforçar a sua posição**.",
+        "table": {
+          "headers": ["Estrutura", "Exemplo"],
+          "rows": [["However + adj + S + V", "However rich you are, you can't buy time."], ["Whatever / Whoever / Wherever", "Whatever happens, call me."], ["No matter how / what", "No matter what they say, I'm going."], ["Adj + though/as + S + V", "Strange though it sounds, it's true."], ["Admittedly / Granted, ... Even so, ...", "Granted, it's risky. Even so, it's worth it."], ["While it is true that..., ...", "While it is true that it's costly, it saves lives."]]
+        },
+        "examples": [
+          {"en": "However carefully self-driving cars are programmed, they will occasionally face situations in which every option causes harm.", "pt": "Por mais cuidadosamente que carros autônomos sejam programados, ocasionalmente enfrentarão situações em que toda opção causa dano."},
+          {"en": "Admittedly, animal testing has contributed to many medical advances. Even so, alternatives should be used wherever possible.", "pt": "É verdade que os testes em animais contribuíram para muitos avanços médicos. Mesmo assim, alternativas devem ser usadas sempre que possível."},
+          {"en": "Tempting though it may be to blame individuals, the problem is largely structural.", "pt": "Por mais tentador que seja culpar indivíduos, o problema é em grande parte estrutural."}
+        ],
+        "tip_pt": "\"**Por mais que**\" tem várias traduções elegantes: **However much** I love it... / **Much as** I love it... / **No matter how much** I love it... / **Hard as** I tried... (para esforço). Varie para mostrar repertório C1!"
+      },
+      "common_mistakes": [
+        {"wrong": "However I try hard, I can't do it.", "right": "However hard I try, I can't do it.", "why_pt": "However + adjetivo/advérbio juntos, depois sujeito + verbo."},
+        {"wrong": "No matter what happen, call me.", "right": "No matter what happens, call me.", "why_pt": "O verbo da oração concorda normalmente (happens)."},
+        {"wrong": "Difficult though it may is, we must try.", "right": "Difficult though it may be, we must try.", "why_pt": "may + verbo base (be)."}
+      ],
+      "pronunciation": {
+        "focus": "Entonação concessiva",
+        "tip_pt": "No movimento concessivo, a primeira parte (o reconhecimento) tem entonação **ascendente/suspensa**, preparando o contraste; a segunda (sua posição) tem entonação **descendente e firme**: \"Admittedly, it's expensive ↗... | Even so, it's worth it ↘.\"",
+        "practice": ["Admittedly, it's expensive ↗... | Even so, it's worth it ↘.", "However hard I try ↗, | I can't agree ↘.", "Granted, it's risky ↗. | But we have no choice ↘."]
+      },
+      "dialogue": {
+        "title": "The self-driving dilemma",
+        "context_pt": "Dois engenheiros discutem como programar um carro autônomo para situações de acidente inevitável.",
+        "lines": [
+          {"speaker": "Rodrigo", "en": "Here's the scenario we have to program for: the brakes fail, and the car must either hit a group of pedestrians or swerve into a wall, possibly killing the passenger.", "pt": "Este é o cenário para o qual precisamos programar: os freios falham, e o carro precisa atingir um grupo de pedestres ou desviar para um muro, possivelmente matando o passageiro."},
+          {"speaker": "Ellen", "en": "Mathematically, it's simple — one life versus several. The car should swerve.", "pt": "Matematicamente, é simples — uma vida contra várias. O carro deveria desviar."},
+          {"speaker": "Rodrigo", "en": "Admittedly, that saves more lives. But who would buy a car that might decide to kill them?", "pt": "É verdade que isso salva mais vidas. Mas quem compraria um carro que pode decidir matá-lo?"},
+          {"speaker": "Ellen", "en": "Fair point. Even so, whatever we program, someone will be harmed. We can't avoid the choice.", "pt": "Bom argumento. Mesmo assim, o que quer que programemos, alguém sairá ferido. Não podemos evitar a escolha."},
+          {"speaker": "Rodrigo", "en": "Granted. But however carefully we design the rules, real accidents are messier than thought experiments.", "pt": "Concordo. Mas, por mais cuidadosamente que desenhemos as regras, acidentes reais são mais complicados que experimentos mentais."},
+          {"speaker": "Ellen", "en": "True. Strange though it sounds, the best answer might be to focus on making these situations almost impossible — better sensors, slower speeds in cities.", "pt": "Verdade. Por mais estranho que pareça, a melhor resposta talvez seja focar em tornar essas situações quase impossíveis — sensores melhores, velocidades menores nas cidades."},
+          {"speaker": "Rodrigo", "en": "I agree. Be that as it may, the regulators still want an answer for the rare cases.", "pt": "Concordo. Seja como for, os reguladores ainda querem uma resposta para os casos raros."},
+          {"speaker": "Ellen", "en": "Then we can't sit on the fence. Let's present both options with the data — and let society decide.", "pt": "Então não podemos ficar em cima do muro. Vamos apresentar as duas opções com os dados — e deixar a sociedade decidir."}
+        ]
+      },
+      "listening": {
+        "title": "The Moral Machine",
+        "context_pt": "Uma pesquisadora apresenta os resultados de um grande experimento online sobre dilemas morais.",
+        "lines": [
+          {"speaker": "Researcher", "en": "In 2016, researchers at MIT launched an online experiment called the Moral Machine. It presented visitors with variations of the famous trolley problem, adapted for self-driving cars: should the car save its passengers or the pedestrians? The young or the elderly? More lives or fewer? Millions of people from over two hundred countries and territories took part, and the results were published in Nature in 2018. Some preferences were broadly shared: in general, people chose to spare more lives rather than fewer, humans rather than animals, and the young rather than the old. But there were also notable cultural differences. Participants from some regions, for example, showed a weaker preference for sparing younger people. Whatever you think of the method — and it has been criticized for oversimplifying real situations — the study raises a difficult question. However universal our moral instincts may seem, they may not be the same everywhere. So whose values should a machine follow?"}
+        ],
+        "questions": [
+          {"q": "What did the Moral Machine present to visitors?", "answer": "Variations of the trolley problem adapted for self-driving cars."},
+          {"q": "How many people took part, roughly?", "answer": "Millions, from over 200 countries and territories."},
+          {"q": "Name two broadly shared preferences.", "answer": "Sparing more lives, humans over animals, the young over the old."},
+          {"q": "What criticism of the method is mentioned?", "answer": "It oversimplifies real situations."}
+        ]
+      },
+      "reading": {
+        "title": "Is it ever right to lie?",
+        "text": "Few moral questions are as old, or as practical, as this one. The eighteenth-century philosopher Immanuel Kant took an uncompromising position. Lying, he argued, is always wrong, whatever the consequences — even, in a much-debated example, when a murderer comes to your door asking where your friend is hiding. However extreme this may sound, Kant's reasoning was that a lie treats other people as mere instruments and undermines the trust on which all communication depends. Most people find this conclusion hard to accept. Admittedly, honesty is a value almost every culture shares. Even so, few of us believe we should tell a friend that their wedding speech was boring, or tell a terrified patient every grim statistic at once. Consequentialist philosophers, following thinkers such as John Stuart Mill, argue that the morality of an action depends on its outcomes. If a lie prevents serious harm, it may be not only permissible but right. Yet this view has its own difficulties. Who decides which consequences matter, and how far ahead must we look? A \"white lie\" that spares someone's feelings today may damage their trust tomorrow. Psychologists add an interesting twist. Research suggests that most of us lie more often than we think, and that we tend to judge our own lies far more generously than those of others. Much as we may admire honesty in principle, our everyday behaviour is more complicated. Perhaps the most realistic answer is that honesty is a strong default, not an absolute rule. Granted, that leaves us with grey areas. But moral life, whatever philosophers may wish, has always been full of them.",
+        "questions": [
+          {"q": "What was Kant's position on lying?", "answer": "Lying is always wrong, whatever the consequences."},
+          {"q": "Why did Kant believe this?", "answer": "A lie treats people as instruments and undermines trust."},
+          {"q": "What do consequentialists argue?", "answer": "The morality of an action depends on its outcomes."},
+          {"q": "What does research suggest about how we judge lies?", "answer": "We judge our own lies more generously than others'."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Concession structures", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+         "items": [{"prompt": "___ hard she tried, she couldn't convince them.", "options": ["However", "Whatever", "No matter"], "answer": "However"}, {"prompt": "___ you choose, someone will be disappointed.", "options": ["However", "Whichever", "No matter how"], "answer": "Whichever"}, {"prompt": "No matter ___ expensive it is, it's worth it.", "options": ["what", "how", "however"], "answer": "how"}, {"prompt": "Tempting ___ it may be, we shouldn't accept the offer.", "options": ["though", "however", "although"], "answer": "though"}, {"prompt": "___, the plan has some weaknesses. Even so, it's the best we have.", "options": ["Admittedly", "Whatever", "However much"], "answer": "Admittedly"}]},
+        {"id": "ex2", "type": "answer", "title": "Rewrite with the structure given", "instruction": "Rewrite the sentences using the words given.", "instruction_pt": "Reescreva usando as palavras indicadas.",
+         "items": [{"prompt": "It doesn't matter how hard you work; you won't finish today. (However...)", "answer": "However hard you work, you won't finish today."}, {"prompt": "It doesn't matter what happens; don't panic. (No matter...)", "answer": "No matter what happens, don't panic."}, {"prompt": "Although it is difficult, we must make a decision. (Difficult though...)", "answer": "Difficult though it is, we must make a decision."}, {"prompt": "It doesn't matter who calls; tell them I'm busy. (Whoever...)", "answer": "Whoever calls, tell them I'm busy."}]},
+        {"id": "ex3", "type": "answer", "title": "Concede and counter", "instruction": "Write a concessive argument for each topic: acknowledge the other side, then give your view.", "instruction_pt": "Escreva um argumento concessivo: reconheça o outro lado e depois dê sua opinião.",
+         "items": [{"prompt": "Zoos", "answer": "Model: Admittedly, zoos help protect some endangered species. Even so, I believe most animals would be better off in protected natural habitats."}, {"prompt": "White lies", "answer": "Model: Granted, a white lie can spare someone's feelings. Be that as it may, repeated small lies can damage trust in the long run."}, {"prompt": "Animal testing", "answer": "Model: While it is true that animal testing has led to medical advances, alternatives should be used wherever possible."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "However hard I try, I can't agree."}, {"prompt": "2", "answer": "Whatever you decide, I'll support you."}, {"prompt": "3", "answer": "Difficult though it may be, we must act."}, {"prompt": "4", "answer": "The benefits outweigh the risks."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "However I am tired, I'll finish the report.", "answer": "However tired I am, I'll finish the report."}, {"prompt": "No matter what do you say, I won't change my mind.", "answer": "No matter what you say, I won't change my mind."}, {"prompt": "Strange though it sound, I enjoy exams.", "answer": "Strange though it sounds, I enjoy exams."}, {"prompt": "Whatever happen, stay calm.", "answer": "Whatever happens, stay calm."}]},
+        {"id": "ex6", "type": "match", "title": "Ethics vocabulary", "instruction": "Write the English expression.", "instruction_pt": "Escreva a expressão em inglês.",
+         "items": [{"prompt": "o mal menor", "answer": "the lesser of two evils"}, {"prompt": "zona cinzenta", "answer": "grey area"}, {"prompt": "ficar em cima do muro", "answer": "sit on the fence"}, {"prompt": "superar, pesar mais", "answer": "outweigh"}, {"prompt": "tomar uma posição", "answer": "take a stand"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Moral maze\": discuss three dilemmas in groups (lying to protect a friend; a self-driving car's choice; stealing medicine for a sick child you can't afford to treat). For each, every person must concede one point to the other side before defending their own view.",
+        "instruction_pt": "\"Labirinto moral\": discutam três dilemas em grupo (mentir para proteger um amigo; a escolha de um carro autônomo; roubar um remédio para uma criança doente que você não pode pagar). Para cada um, cada pessoa deve conceder um ponto ao outro lado antes de defender sua opinião.",
+        "questions": ["Is it ever right to lie? Where do you draw the line?", "Should machines be allowed to make life-or-death decisions?", "Can breaking the law ever be morally right?", "Are moral values universal or cultural?", "When was the last time you changed your mind about a moral question?"]
+      },
+      "writing": {
+        "task": "Write a discursive essay (280–320 words): \"Is it ever right to break the law?\" Present both sides, use at least five concessive structures and reach a clear conclusion.",
+        "task_pt": "Escreva uma redação discursiva (280–320 palavras): \"É certo, em alguma situação, desobedecer à lei?\" Apresente os dois lados, use pelo menos cinco estruturas concessivas e chegue a uma conclusão clara.",
+        "model": "Is it ever right to break the law?\n\nIn a democratic society, laws are meant to reflect shared values and protect citizens. It might therefore seem obvious that they should always be obeyed. However, history offers numerous examples of people who broke the law and are now remembered as heroes. This essay will consider whether breaking the law can ever be justified.\n\nThere are strong arguments for obeying the law in all circumstances. If individuals could ignore any law they disagreed with, the result would be chaos. Whatever our personal views, the rule of law protects the weak from the strong and allows disagreements to be resolved peacefully. Admittedly, laws are sometimes unjust. Even so, democratic societies offer legal ways of changing them, such as elections, protests and the courts.\n\nOn the other hand, it is difficult to argue that every law deserves obedience. Rosa Parks broke the law when she refused to give up her bus seat in 1955, yet few people today would say she was wrong. However legitimate a government may appear, its laws can still be deeply immoral, and legal routes to change can be slow or blocked entirely. In such cases, peaceful civil disobedience may be the only way to draw attention to injustice.\n\nGranted, the line between principled disobedience and simple law-breaking is not always clear. Much as we may admire activists, we should be wary of anyone who claims the right to decide which laws apply to them.\n\nIn conclusion, I believe that breaking the law can be justified, but only in exceptional circumstances: when the law is clearly unjust, when legal options have been exhausted, and when the act is peaceful and open, with the person willing to accept the consequences. Difficult though it may be to define these limits precisely, they distinguish conscience from mere convenience."
+      },
+      "culture_note": {
+        "title": "O \"trolley problem\"",
+        "text_pt": "O famoso **trolley problem** (problema do bonde) foi formulado pela filósofa britânica **Philippa Foot** em 1967 e popularizado depois por **Judith Jarvis Thomson**. Virou meme na internet e ganhou nova relevância com os carros autônomos. Em inglês, dizer que algo é \"a real trolley problem\" significa que todas as opções têm um custo moral."
+      },
+      "summary_pt": ["However + adj/adv + S + V; Whatever / Whoever / Wherever.", "No matter how / what / who + oração.", "Adj + though/as + S + V: Difficult though it is...", "Reconhecer → contrapor: Admittedly / Granted... Even so / Be that as it may..."]
+    }
+  ],
+  "review": {
+    "intro_pt": "Revise passivas avançadas, subjuntivo, linguagem de dados e hedging, e concessão.",
+    "exercises": [
+      {"id": "r1", "type": "multiple_choice", "title": "Choose the correct option", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+       "items": [{"prompt": "The error must ___ by the software.", "options": ["have caused", "have been caused", "be causing"], "answer": "have been caused"}, {"prompt": "I'm having my car ___ tomorrow.", "options": ["repair", "repaired", "repairing"], "answer": "repaired"}, {"prompt": "The board insisted that she ___ the report.", "options": ["rewrites", "rewrite", "rewrote"], "answer": "rewrite"}, {"prompt": "There was a sharp rise ___ inflation.", "options": ["of", "in", "on"], "answer": "in"}, {"prompt": "___ hard he tried, he failed.", "options": ["However", "Whatever", "No matter"], "answer": "However"}]},
+      {"id": "r2", "type": "answer", "title": "Transform", "instruction": "Rewrite the sentences as instructed.", "instruction_pt": "Reescreva as frases como indicado.",
+       "items": [{"prompt": "If you need help, call us. (Should...)", "answer": "Should you need help, call us."}, {"prompt": "Sales fell dramatically. (There was...)", "answer": "There was a dramatic fall in sales."}, {"prompt": "Although it sounds strange, it's true. (Strange though...)", "answer": "Strange though it sounds, it's true."}]},
+      {"id": "r3", "type": "translate", "title": "Translate", "instruction": "Translate into English.", "instruction_pt": "Traduza para o inglês.",
+       "items": [{"prompt": "Roubaram o celular dele no metrô. (have something done)", "answer": "He had his phone stolen on the metro."}, {"prompt": "É essencial que todos sejam informados.", "answer": "It is essential that everyone be informed."}, {"prompt": "Correlação não implica causalidade.", "answer": "Correlation does not imply causation."}]},
+      {"id": "r4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+       "items": [{"prompt": "1", "answer": "Many deaths could have been prevented."}, {"prompt": "2", "answer": "Were it not for vaccines, millions more would die."}, {"prompt": "3", "answer": "Admittedly, it's a difficult choice."}]},
+      {"id": "r5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+       "items": [{"prompt": "The results can't have be correct.", "answer": "The results can't have been correct."}, {"prompt": "They recommended that he takes a rest.", "answer": "They recommended that he take a rest."}, {"prompt": "However I try hard, I can't remember.", "answer": "However hard I try, I can't remember."}]}
+    ],
+    "speaking_pt": "Faça uma apresentação de 5 minutos sobre uma questão de ciência e ética (edição genética, IA na medicina, testes em animais, vacinação obrigatória): explique o contexto científico (passivas), apresente dados com hedging, faça recomendações formais (subjuntivo) e argumente reconhecendo o lado oposto (concessão).",
+    "speaking_questions": ["Which scientific advance excites you most? Which worries you most?", "Should scientists be free to research anything they want?", "How can ordinary people judge scientific claims?", "Is it ever right to break the rules for a good cause?", "Who should decide the ethical limits of technology?"],
+    "project_pt": "**\"Citizens' assembly\":** a turma simula uma assembleia cidadã sobre uma questão de bioética. Grupos pesquisam e apresentam dados (com hedging), especialistas convidados (colegas) dão depoimentos, e a assembleia redige um documento final de recomendações (300 palavras) usando subjuntivo e linguagem formal."
+  }
+}

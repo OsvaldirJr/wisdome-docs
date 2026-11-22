@@ -1,0 +1,530 @@
+{
+  "id": "A2-M3",
+  "level": "A2",
+  "title": "Stories",
+  "theme_pt": "Passado simples completo, past continuous e narrativas",
+  "can_do": ["Usar was/were em todas as formas", "Usar o simple past com verbos regulares e irregulares", "Fazer perguntas e negativas com did/didn't", "Descrever o que estava acontecendo com past continuous", "Contar uma história curta com começo, meio e fim"],
+  "lessons": [
+    {
+      "id": "A2-M3-L1",
+      "title": "Where were you?",
+      "subtitle_pt": "Was / were: todas as formas",
+      "duration_min": 50,
+      "source_refs": ["To Go A2 – Lesson 11 (verb to be in the past)", "StartUp 1 – Unit 10 (simple past with be)"],
+      "objectives": ["Usar was/were na afirmativa, negativa e pergunta", "Usar expressões de tempo passado (yesterday, last, ago)", "Usar there was / there were", "Falar sobre onde você estava e como foi"],
+      "warmup": {
+        "text_pt": "Onde você estava ontem às 20h? E há 10 anos? Você se lembra?",
+        "questions": ["Where were you last night?", "What was your favorite thing when you were a child?"]
+      },
+      "vocabulary": [
+        {"en": "yesterday / the day before yesterday", "pt": "ontem / anteontem", "say": "iésterdei / dâ dêi bifór iésterdei"},
+        {"en": "last night / last week / last year", "pt": "ontem à noite / semana passada / ano passado", "say": "lést náit / lést uík / lést iír"},
+        {"en": "two days ago / a long time ago", "pt": "dois dias atrás / muito tempo atrás", "say": "tú dêiz agôu / a lóng táim agôu"},
+        {"en": "when I was a child", "pt": "quando eu era criança", "say": "uén ái uóz a tcháild"},
+        {"en": "crowded / empty", "pt": "lotado / vazio", "say": "kráudid / émpti"},
+        {"en": "delicious / awful", "pt": "delicioso / horrível", "say": "dilíshas / óful"},
+        {"en": "fun / funny", "pt": "divertido / engraçado", "say": "fân / fâni"},
+        {"en": "worth it", "pt": "valeu a pena", "say": "uârθ it"},
+        {"en": "show / concert", "pt": "show", "say": "shôu / kónsert"},
+        {"en": "line (US) / queue (UK)", "pt": "fila", "say": "láin / kiú"},
+        {"en": "ticket", "pt": "ingresso", "say": "tíket"},
+        {"en": "power outage", "pt": "queda de energia", "say": "páuer áutidj"}
+      ],
+      "chunks": [
+        {"en": "Where were you last night?", "pt": "Onde você estava ontem à noite?"},
+        {"en": "I was at home.", "pt": "Eu estava em casa."},
+        {"en": "How was it?", "pt": "Como foi?"},
+        {"en": "It was worth it!", "pt": "Valeu a pena!"},
+        {"en": "There were a lot of people.", "pt": "Tinha muita gente."},
+        {"en": "When I was a kid...", "pt": "Quando eu era criança..."}
+      ],
+      "grammar": {
+        "title": "Was / were + there was / there were",
+        "explanation_pt": "O passado do verbo to be tem só duas formas:\n- **was** → I, he, she, it\n- **were** → you, we, they\n\n**Negativa:** wasn't / weren't · **Pergunta:** Was he...? / Were they...?\n\n**There was / there were** = \"tinha / havia\" (no passado):\n- There **was** a problem. (singular)\n- There **were** many people. (plural)\n\n**Expressões de passado:**\n- **yesterday** (ontem), **yesterday morning**\n- **last** + night/week/month/year/Friday (sem the!)\n- tempo + **ago**: two hours ago, five years ago (ago vem **depois**)",
+        "table": {
+          "headers": ["Afirmativa", "Negativa", "Pergunta", "Resposta curta"],
+          "rows": [["I was tired.", "I wasn't tired.", "Was I late?", "Yes, I was. / No, I wasn't."], ["She was at work.", "She wasn't at work.", "Was she at work?", "Yes, she was. / No, she wasn't."], ["They were happy.", "They weren't happy.", "Were they happy?", "Yes, they were. / No, they weren't."], ["There was a party.", "There wasn't a party.", "Was there a party?", "Yes, there was."]]
+        },
+        "examples": [
+          {"en": "Where were you yesterday? I was at the dentist.", "pt": "Onde você estava ontem? Estava no dentista."},
+          {"en": "The concert was amazing, but there were too many people.", "pt": "O show foi incrível, mas tinha gente demais."},
+          {"en": "I wasn't at the meeting. Was it important?", "pt": "Eu não estava na reunião. Foi importante?"}
+        ],
+        "tip_pt": "Repare que **was/were** traduzem **era, estava, foi** ao mesmo tempo. \"It was great\" = Foi ótimo. \"I was tired\" = Eu estava cansado. \"He was a teacher\" = Ele era professor."
+      },
+      "common_mistakes": [
+        {"wrong": "They was at the beach.", "right": "They were at the beach.", "why_pt": "They usa were."},
+        {"wrong": "Had many people at the party.", "right": "There were many people at the party.", "why_pt": "\"Tinha\" (existência) = there was/were, não had."},
+        {"wrong": "I was there ago two years.", "right": "I was there two years ago.", "why_pt": "Ago vem depois do período de tempo."}
+      ],
+      "pronunciation": {
+        "focus": "Was e were fracos",
+        "tip_pt": "Na frase, **was** e **were** são fracos: \"I wəz tired\" (\"ái uâz\"), \"We wər late\" (\"uí uâr\"). Mas na resposta curta e na negativa são fortes: \"Yes, I **WAS**.\" / \"I **WASN'T**.\"",
+        "practice": ["I was at home.", "We were late.", "Yes, I was. / No, they weren't."]
+      },
+      "dialogue": {
+        "title": "Monday small talk",
+        "context_pt": "Na segunda-feira, uma colega pergunta sobre o show do fim de semana.",
+        "lines": [
+          {"speaker": "Jess", "en": "Hey! Were you at the concert on Saturday?", "pt": "Ei! Você foi ao show no sábado?"},
+          {"speaker": "Tiago", "en": "Yes, I was! It was amazing.", "pt": "Fui! Foi incrível."},
+          {"speaker": "Jess", "en": "Was it crowded?", "pt": "Estava lotado?"},
+          {"speaker": "Tiago", "en": "Very! There were about 50,000 people. The line was huge.", "pt": "Muito! Tinha umas 50 mil pessoas. A fila estava enorme."},
+          {"speaker": "Jess", "en": "And were the tickets expensive?", "pt": "E os ingressos eram caros?"},
+          {"speaker": "Tiago", "en": "Yes, they were. But it was worth it! Where were you? You weren't online all weekend.", "pt": "Eram. Mas valeu a pena! E você, onde estava? Não ficou online o fim de semana inteiro."},
+          {"speaker": "Jess", "en": "I was at my grandparents' farm. There wasn't any Wi-Fi!", "pt": "Estava no sítio dos meus avós. Não tinha Wi-Fi!"}
+        ]
+      },
+      "listening": {
+        "title": "The blackout",
+        "context_pt": "Um morador conta como foi o apagão na cidade.",
+        "lines": [
+          {"speaker": "Man", "en": "Last Tuesday there was a big power outage in my neighborhood. It was about seven p.m. I was at home with my kids. There wasn't any light, and our phones were almost dead. The streets were dark and very quiet. But honestly, it was a nice night! We were together in the living room with candles, and there were no screens. The kids were a bit scared at first, but then they were happy."}
+        ],
+        "questions": [
+          {"q": "When was the power outage?", "answer": "Last Tuesday, at about 7 p.m."},
+          {"q": "Where was he?", "answer": "At home with his kids."},
+          {"q": "How were the streets?", "answer": "Dark and very quiet."},
+          {"q": "How were the kids at first?", "answer": "A bit scared."}
+        ]
+      },
+      "reading": {
+        "title": "Childhood memories",
+        "text": "We asked readers: what was your childhood like? \"My childhood was simple and happy. There were a lot of kids on my street, and we were always outside playing soccer.\" — Marcos, 52. \"I was a shy kid. My best friends were my books!\" — Helena, 34. \"There weren't any smartphones when I was a child. Our entertainment was the TV — there were only three channels!\" — Sônia, 61. \"My parents were very strict. I wasn't allowed to go out at night.\" — Igor, 27.",
+        "questions": [
+          {"q": "Where were Marcos and the other kids?", "answer": "Outside, playing soccer."},
+          {"q": "Who was a shy kid?", "answer": "Helena."},
+          {"q": "How many TV channels were there for Sônia?", "answer": "Only three."},
+          {"q": "What were Igor's parents like?", "answer": "Very strict."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "fill_blank", "title": "was or were?", "instruction": "Complete with was, were, wasn't or weren't.", "instruction_pt": "Complete com was, were, wasn't ou weren't.",
+         "items": [{"prompt": "The food ___ delicious.", "answer": "was"}, {"prompt": "We ___ at the beach last weekend.", "answer": "were"}, {"prompt": "I ___ at the meeting. I was sick. (−)", "answer": "wasn't"}, {"prompt": "___ your parents strict?", "answer": "Were"}, {"prompt": "There ___ many people. It was empty. (−)", "answer": "weren't"}]},
+        {"id": "ex2", "type": "multiple_choice", "title": "Time expressions", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+         "items": [{"prompt": "I was in Paris ___.", "options": ["last year", "the last year", "in last year"], "answer": "last year"}, {"prompt": "She was here ___.", "options": ["ago two hours", "two hours ago", "before two hours"], "answer": "two hours ago"}, {"prompt": "We were tired ___.", "options": ["yesterday night", "last night", "the last night"], "answer": "last night"}]},
+        {"id": "ex3", "type": "answer", "title": "Questions and short answers", "instruction": "Make the question and give the short answer.", "instruction_pt": "Faça a pergunta e dê a resposta curta.",
+         "items": [{"prompt": "you / at home last night (✔)", "answer": "Were you at home last night? Yes, I was."}, {"prompt": "the movie / good (✘)", "answer": "Was the movie good? No, it wasn't."}, {"prompt": "there / a lot of people (✔)", "answer": "Were there a lot of people? Yes, there were."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "Where were you last night?"}, {"prompt": "2", "answer": "There were a lot of people."}, {"prompt": "3", "answer": "It wasn't very expensive."}, {"prompt": "4", "answer": "I was there two years ago."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "We was very tired.", "answer": "We were very tired."}, {"prompt": "Had a problem with the car.", "answer": "There was a problem with the car."}, {"prompt": "I was in Japan in the last year.", "answer": "I was in Japan last year."}, {"prompt": "Was they at the party?", "answer": "Were they at the party?"}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the dialogue", "instruction": "Complete with: were · was · How · There · worth.", "instruction_pt": "Complete o diálogo.",
+         "items": [{"prompt": "A: ___ was the trip?", "answer": "How"}, {"prompt": "B: It ___ great! The hotel ___ beautiful.", "answer": "was / was"}, {"prompt": "A: ___ the beaches crowded?", "answer": "Were"}, {"prompt": "B: No! ___ were only a few people. It was ___ it!", "answer": "There / worth"}]}
+      ],
+      "speaking": {
+        "instruction": "Answer and ask follow-up questions (How was it? Who were you with?).",
+        "instruction_pt": "Responda e faça perguntas de continuação (How was it? Who were you with?).",
+        "questions": ["Where were you last Saturday night?", "What was your last trip like?", "What were you like as a child?", "Who was your favorite teacher? Why?", "Was there a special place in your childhood?"]
+      },
+      "writing": {
+        "task": "Write about a childhood memory (60–80 words): where you were, who was there, how it was.",
+        "task_pt": "Escreva sobre uma lembrança de infância (60–80 palavras): onde estava, quem estava lá, como foi.",
+        "model": "When I was eight, I was at my grandma's house every summer. It was a small house near a river in Minas Gerais. There were chickens, a dog and a big mango tree. My cousins were there, too. We were always dirty and happy! The food was delicious — her cheese bread was the best in the world. Those summers were the best days of my childhood."
+      },
+      "culture_note": {
+        "title": "\"How was your weekend?\" — versão 2.0",
+        "text_pt": "No A1 você respondeu \"It was great!\". No A2, mostre interesse com perguntas de continuação: **\"Oh nice, where were you?\"**, **\"Was it crowded?\"**, **\"Who were you with?\"**. Em conversas em inglês, fazer perguntas de volta é sinal de boa educação."
+      },
+      "summary_pt": ["was (I/he/she/it) · were (you/we/they).", "there was / there were = tinha/havia.", "last + período (sem the) · período + ago.", "was/were = era, estava, foi."]
+    },
+    {
+      "id": "A2-M3-L2",
+      "title": "What did you do?",
+      "subtitle_pt": "Simple past: regulares, irregulares e did/didn't",
+      "duration_min": 60,
+      "source_refs": ["To Go A1 – Lessons 19-26 (past simple, verb chart)", "StartUp 1 – Unit 10 (simple past statements and questions)"],
+      "objectives": ["Usar o simple past com os 40 verbos irregulares mais comuns", "Formar negativas com didn't + verbo base", "Fazer perguntas com did e wh- questions", "Contar o que você fez ontem e no fim de semana"],
+      "warmup": {
+        "text_pt": "No A1 você conheceu went, had, saw, ate. Agora vamos dominar o passado. O que você fez ontem? Tente contar 3 coisas.",
+        "questions": ["What did you do yesterday?", "What did you have for dinner last night?"]
+      },
+      "vocabulary": [
+        {"en": "get → got", "pt": "pegar, receber, chegar", "say": "gót"},
+        {"en": "make → made", "pt": "fazer (produzir)", "say": "mêid"},
+        {"en": "take → took", "pt": "pegar, levar, tomar", "say": "túk"},
+        {"en": "come → came", "pt": "vir", "say": "kêim"},
+        {"en": "buy → bought", "pt": "comprar", "say": "bót"},
+        {"en": "think → thought", "pt": "pensar, achar", "say": "θót"},
+        {"en": "say → said / tell → told", "pt": "dizer / contar", "say": "séd / tôuld"},
+        {"en": "find → found / lose → lost", "pt": "encontrar / perder", "say": "fáund / lóst"},
+        {"en": "leave → left", "pt": "sair, deixar", "say": "léft"},
+        {"en": "meet → met", "pt": "conhecer, encontrar", "say": "mét"},
+        {"en": "spend → spent / pay → paid", "pt": "gastar / pagar", "say": "spént / pêid"},
+        {"en": "forget → forgot", "pt": "esquecer", "say": "forgót"}
+      ],
+      "chunks": [
+        {"en": "What did you do last weekend?", "pt": "O que você fez no fim de semana passado?"},
+        {"en": "I didn't do much.", "pt": "Não fiz muita coisa."},
+        {"en": "Did you have a good time?", "pt": "Você se divertiu?"},
+        {"en": "I forgot my keys!", "pt": "Esqueci minhas chaves!"},
+        {"en": "Where did you get that?", "pt": "Onde você conseguiu isso?"},
+        {"en": "I told you so!", "pt": "Eu te avisei!"}
+      ],
+      "grammar": {
+        "title": "Simple past completo",
+        "explanation_pt": "**Afirmativa:** verbo no passado — igual para todas as pessoas.\n- Regulares: **-ed** (worked, played, studied, stopped)\n- Irregulares: forma própria (went, got, bought) — veja a tabela de verbos no fim do módulo e **memorize em chunks** (\"I got home\", \"I bought a...\").\n\n**Negativa:** **didn't** + verbo **base**\n- I **didn't go**. She **didn't buy** it. (nunca \"didn't went\")\n\n**Pergunta:** **Did** + sujeito + verbo **base**?\n- **Did** you **see** the game? — Yes, I did. / No, I didn't.\n- **What did** you **do**? / **Where did** she **go**? / **When did** they **arrive**?\n\n**Ortografia dos regulares:** study → stud**ied** (consoante + y) · stop → sto**pp**ed (CVC) · like → lik**ed** (termina em e: só +d).",
+        "table": {
+          "headers": ["Afirmativa", "Negativa", "Pergunta"],
+          "rows": [["I watched a movie.", "I didn't watch a movie.", "Did you watch a movie?"], ["She went to Rio.", "She didn't go to Rio.", "Did she go to Rio?"], ["They bought a car.", "They didn't buy a car.", "What did they buy?"], ["He got home late.", "He didn't get home late.", "When did he get home?"]]
+        },
+        "examples": [
+          {"en": "I left home at 7, but I forgot my laptop!", "pt": "Saí de casa às 7, mas esqueci o notebook!"},
+          {"en": "Did you meet anyone interesting at the event?", "pt": "Você conheceu alguém interessante no evento?"},
+          {"en": "We didn't spend much money. We cooked at home.", "pt": "Não gastamos muito dinheiro. Cozinhamos em casa."}
+        ],
+        "tip_pt": "Com **was/were** não se usa did: \"**Were** you tired?\" (e não \"Did you be tired?\"). Did é para todos os outros verbos."
+      },
+      "common_mistakes": [
+        {"wrong": "I didn't went to class.", "right": "I didn't go to class.", "why_pt": "Depois de didn't, o verbo volta à forma base."},
+        {"wrong": "Where you went?", "right": "Where did you go?", "why_pt": "Perguntas no passado precisam de did (exceto com was/were)."},
+        {"wrong": "I meeted my wife in 2015.", "right": "I met my wife in 2015.", "why_pt": "Meet é irregular: met."}
+      ],
+      "pronunciation": {
+        "focus": "Did you = \"didja\"",
+        "tip_pt": "Na fala rápida, **did you** vira \"**dídja**\" e **what did you** vira \"**uórdidja**\" ou até \"**uádja**\". Reconhecer isso muda sua compreensão de séries e filmes!",
+        "practice": ["Did you see it? (\"dídja sí it\")", "What did you do? (\"uórdidja dú\")", "Where did you go?"]
+      },
+      "dialogue": {
+        "title": "The worst day",
+        "context_pt": "Uma amiga conta para outra o dia desastroso que teve.",
+        "lines": [
+          {"speaker": "Bia", "en": "You look terrible! What happened?", "pt": "Você está com uma cara péssima! O que aconteceu?"},
+          {"speaker": "Nanda", "en": "Worst day ever. First, my alarm didn't ring, so I woke up late.", "pt": "Pior dia da vida. Primeiro, meu despertador não tocou, então acordei atrasada."},
+          {"speaker": "Bia", "en": "Oh no! Did you get to work on time?", "pt": "Ah não! Você chegou no trabalho a tempo?"},
+          {"speaker": "Nanda", "en": "No, I didn't. I took an Uber, but there was a huge traffic jam. And I forgot my laptop at home!", "pt": "Não. Peguei um Uber, mas tinha um engarrafamento enorme. E esqueci meu notebook em casa!"},
+          {"speaker": "Bia", "en": "Seriously? What did your boss say?", "pt": "Sério? O que seu chefe disse?"},
+          {"speaker": "Nanda", "en": "Nothing. He didn't come to work. He was sick!", "pt": "Nada. Ele não veio trabalhar. Estava doente!"},
+          {"speaker": "Bia", "en": "Ha! Well, at least that was lucky.", "pt": "Ha! Bom, pelo menos isso foi sorte."}
+        ]
+      },
+      "listening": {
+        "title": "Police report: a lost wallet",
+        "context_pt": "Um turista relata a perda da carteira para um policial.",
+        "lines": [
+          {"speaker": "Officer", "en": "OK, sir. When did you lose your wallet?"},
+          {"speaker": "Tourist", "en": "This morning. I left the hotel at nine and I took the subway to the museum."},
+          {"speaker": "Officer", "en": "Did you buy anything?"},
+          {"speaker": "Tourist", "en": "Yes, I bought a ticket at the museum. I paid with my card, and I put the wallet in my jacket."},
+          {"speaker": "Officer", "en": "And when did you notice?"},
+          {"speaker": "Tourist", "en": "At lunch. I wanted to pay, but the wallet wasn't there."},
+          {"speaker": "Officer", "en": "Good news — someone found a wallet at the museum and brought it here. Is this yours?"}
+        ],
+        "questions": [
+          {"q": "What time did he leave the hotel?", "answer": "At nine."},
+          {"q": "How did he get to the museum?", "answer": "He took the subway."},
+          {"q": "When did he notice the wallet was gone?", "answer": "At lunch."},
+          {"q": "What happened to the wallet?", "answer": "Someone found it at the museum and brought it to the police."}
+        ]
+      },
+      "reading": {
+        "title": "The day I met my best friend",
+        "text": "I met my best friend, Lu, on my first day of college, fifteen years ago. I didn't know anybody, and I was very nervous. I sat in the last row. Then a girl came in late, sat next to me and asked, \"Did I miss anything?\" I said, \"Only the teacher's name.\" We laughed, and after class we went for coffee. We talked for three hours! We didn't know it then, but that day changed our lives. Last year, I was her bridesmaid.",
+        "questions": [
+          {"q": "When did the writer meet Lu?", "answer": "On her first day of college, fifteen years ago."},
+          {"q": "Where did the writer sit?", "answer": "In the last row."},
+          {"q": "What did they do after class?", "answer": "They went for coffee and talked for three hours."},
+          {"q": "What happened last year?", "answer": "The writer was Lu's bridesmaid (at her wedding)."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "answer", "title": "Irregular verbs", "instruction": "Write the past form.", "instruction_pt": "Escreva a forma do passado.",
+         "items": [{"prompt": "buy", "answer": "bought"}, {"prompt": "think", "answer": "thought"}, {"prompt": "leave", "answer": "left"}, {"prompt": "tell", "answer": "told"}, {"prompt": "pay", "answer": "paid"}, {"prompt": "forget", "answer": "forgot"}, {"prompt": "study", "answer": "studied"}, {"prompt": "stop", "answer": "stopped"}]},
+        {"id": "ex2", "type": "fill_blank", "title": "Negatives and questions", "instruction": "Complete with did, didn't and the verb in parentheses.", "instruction_pt": "Complete com did, didn't e o verbo entre parênteses.",
+         "items": [{"prompt": "I ___ (not / see) the message.", "answer": "didn't see"}, {"prompt": "___ you ___ (call) your mom?", "answer": "Did / call"}, {"prompt": "Where ___ they ___ (go) on vacation?", "answer": "did / go"}, {"prompt": "She ___ (not / come) to the party.", "answer": "didn't come"}, {"prompt": "What ___ he ___ (say)?", "answer": "did / say"}]},
+        {"id": "ex3", "type": "answer", "title": "Write the question", "instruction": "Write the question for the answer in CAPS.", "instruction_pt": "Escreva a pergunta para a resposta em CAPS.",
+         "items": [{"prompt": "I went TO BAHIA.", "answer": "Where did you go?"}, {"prompt": "She bought A NEW PHONE.", "answer": "What did she buy?"}, {"prompt": "They arrived AT MIDNIGHT.", "answer": "When/What time did they arrive?"}, {"prompt": "I met MY WIFE at work.", "answer": "Who did you meet at work?"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "What did you do last weekend?"}, {"prompt": "2", "answer": "I didn't do much."}, {"prompt": "3", "answer": "I forgot my keys!"}, {"prompt": "4", "answer": "Did you have a good time?"}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "She didn't bought anything.", "answer": "She didn't buy anything."}, {"prompt": "What you did yesterday?", "answer": "What did you do yesterday?"}, {"prompt": "I buyed a new phone.", "answer": "I bought a new phone."}, {"prompt": "Did you was at home?", "answer": "Were you at home?"}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the story", "instruction": "Complete with the past form: wake · take · forget · get · say.", "instruction_pt": "Complete com o passado dos verbos.",
+         "items": [{"prompt": "Yesterday I ___ up at 5 a.m.", "answer": "woke"}, {"prompt": "I ___ a taxi to the airport.", "answer": "took"}, {"prompt": "At the airport, I noticed I ___ my passport!", "answer": "forgot"}, {"prompt": "I ___ home at 6 and the driver ___, \"Again?\"", "answer": "got / said"}]}
+      ],
+      "speaking": {
+        "instruction": "Play \"Two truths and a lie\": say three things you did last year. Your partner asks questions with did and guesses the lie.",
+        "instruction_pt": "Jogue \"Duas verdades e uma mentira\": diga três coisas que fez no ano passado. O colega faz perguntas com did e adivinha a mentira.",
+        "questions": ["What did you do last weekend?", "When did you last travel? Where did you go?", "What did you buy recently?", "Did you forget anything important this week?", "How did you meet your best friend?"]
+      },
+      "writing": {
+        "task": "Write about \"The worst (or best) day of my life\" (80–100 words) using at least 8 past verbs.",
+        "task_pt": "Escreva sobre \"O pior (ou melhor) dia da minha vida\" (80–100 palavras) usando pelo menos 8 verbos no passado.",
+        "model": "The best day of my life was in March 2022. I got a message from a company in Lisbon: they offered me a job! I didn't believe it. I called my mom and she cried. Then I told my best friend and we went out to celebrate. We had dinner at our favorite restaurant and we talked for hours. I didn't sleep that night — I was too excited. Two months later, I moved to Portugal."
+      },
+      "culture_note": {
+        "title": "Storytelling no trabalho",
+        "text_pt": "Em entrevistas de emprego em inglês, é comum ouvir **\"Tell me about a time when you...\"** (fale de uma vez em que você...). A resposta esperada é uma história no **simple past** seguindo o método **STAR**: Situation, Task, Action, Result."
+      },
+      "summary_pt": ["Afirmativa: -ed ou irregular.", "Negativa: didn't + base.", "Pergunta: (Wh-) + did + sujeito + base?", "Com was/were, sem did."]
+    },
+    {
+      "id": "A2-M3-L3",
+      "title": "I was cooking when...",
+      "subtitle_pt": "Past continuous + when / while",
+      "duration_min": 55,
+      "source_refs": ["To Go A2 – Lesson 11 (verb to be in the past continuous)", "Basic II – Lessons (questions in the past)"],
+      "objectives": ["Formar o past continuous (was/were + -ing)", "Descrever o que estava acontecendo em um momento do passado", "Combinar past continuous e simple past com when e while", "Contar pequenos acidentes e imprevistos"],
+      "warmup": {
+        "text_pt": "Você lembra o que estava fazendo quando recebeu uma grande notícia? Ou quando acabou a luz da última vez?",
+        "questions": ["What were you doing at 8 p.m. yesterday?", "Do you remember a funny accident?"]
+      },
+      "vocabulary": [
+        {"en": "when / while", "pt": "quando / enquanto", "say": "uén / uáil"},
+        {"en": "suddenly", "pt": "de repente", "say": "sâdenli"},
+        {"en": "to fall (fell)", "pt": "cair", "say": "tu fól (fél)"},
+        {"en": "to break (broke)", "pt": "quebrar", "say": "tu brêik (brôuk)"},
+        {"en": "to drop", "pt": "deixar cair", "say": "tu dróp"},
+        {"en": "to slip", "pt": "escorregar", "say": "tu slip"},
+        {"en": "to burn", "pt": "queimar", "say": "tu bârn"},
+        {"en": "to hurt (hurt)", "pt": "machucar", "say": "tu rârt"},
+        {"en": "to ring (rang)", "pt": "tocar (telefone, campainha)", "say": "tu ring (réng)"},
+        {"en": "to happen", "pt": "acontecer", "say": "tu répen"},
+        {"en": "accident", "pt": "acidente", "say": "éksident"},
+        {"en": "embarrassing", "pt": "constrangedor, vergonhoso", "say": "imbérassin"}
+      ],
+      "chunks": [
+        {"en": "What were you doing when...?", "pt": "O que você estava fazendo quando...?"},
+        {"en": "I was taking a shower when the doorbell rang.", "pt": "Eu estava no banho quando a campainha tocou."},
+        {"en": "While I was walking, I slipped.", "pt": "Enquanto eu caminhava, escorreguei."},
+        {"en": "It was so embarrassing!", "pt": "Foi tão constrangedor!"},
+        {"en": "What happened next?", "pt": "O que aconteceu depois?"}
+      ],
+      "grammar": {
+        "title": "Past continuous + simple past",
+        "explanation_pt": "O **past continuous** descreve uma ação **em andamento** em um momento do passado. É o \"estava fazendo\".\n\n**Estrutura:** was / were + verbo-ing\n- I **was cooking** at 8 p.m. (às 20h eu estava cozinhando)\n\nO uso mais comum é com o **simple past**, para mostrar uma ação longa (**background**) **interrompida** por uma ação curta:\n\n- I **was cooking** (ação longa) **when** the phone **rang** (ação curta).\n- **While** I **was walking** to work, I **saw** an accident.\n\n**When** + simple past (ação curta) · **While** + past continuous (ação longa).\n\nDuas ações longas ao mesmo tempo: \"**While** I **was working**, my kids **were playing**.\"",
+        "table": {
+          "headers": ["Ação longa (past continuous)", "Ação curta (simple past)"],
+          "rows": [["I was driving", "when my phone rang."], ["She was cooking", "when she burned her finger."], ["While we were watching TV,", "the power went out."], ["While he was running,", "he fell."]]
+        },
+        "examples": [
+          {"en": "I was taking a shower when the doorbell rang.", "pt": "Eu estava tomando banho quando a campainha tocou."},
+          {"en": "While she was texting, she walked into a pole!", "pt": "Enquanto mandava mensagem, ela bateu num poste!"},
+          {"en": "What were you doing when the earthquake happened?", "pt": "O que você estava fazendo quando o terremoto aconteceu?"}
+        ],
+        "tip_pt": "Stative verbs também não usam -ing no passado: \"I **knew** the answer\" (e não \"I was knowing\")."
+      },
+      "common_mistakes": [
+        {"wrong": "I cooked when the phone was ringing.", "right": "I was cooking when the phone rang.", "why_pt": "A ação longa fica no past continuous; a curta, no simple past."},
+        {"wrong": "While I walked to work, I was seeing an accident.", "right": "While I was walking to work, I saw an accident.", "why_pt": "While + ação longa (past continuous); a interrupção no simple past."},
+        {"wrong": "They was sleeping.", "right": "They were sleeping.", "why_pt": "They usa were."}
+      ],
+      "pronunciation": {
+        "focus": "Was/were fracos no past continuous",
+        "tip_pt": "Em \"I was cooking\", o **was** é rápido e fraco (\"ái uâz kúkin\"). A força vai no verbo principal: \"I was **COOK**ing when the phone **RANG**.\"",
+        "practice": ["I was COOKing when the phone RANG.", "We were WATCHing TV.", "What were you DOing?"]
+      },
+      "dialogue": {
+        "title": "How did you break your arm?",
+        "context_pt": "Um colega aparece no trabalho com o braço engessado.",
+        "lines": [
+          {"speaker": "Ellen", "en": "Caio! What happened to your arm?", "pt": "Caio! O que aconteceu com o seu braço?"},
+          {"speaker": "Caio", "en": "I broke it on Saturday. It's a silly story.", "pt": "Quebrei no sábado. É uma história boba."},
+          {"speaker": "Ellen", "en": "Tell me! Were you playing soccer?", "pt": "Conta! Você estava jogando futebol?"},
+          {"speaker": "Caio", "en": "No. I was dancing at my cousin's wedding. Everybody was watching me.", "pt": "Não. Eu estava dançando no casamento do meu primo. Todo mundo estava me olhando."},
+          {"speaker": "Ellen", "en": "And then?", "pt": "E aí?"},
+          {"speaker": "Caio", "en": "While I was doing my best move, I slipped on some champagne and fell!", "pt": "Enquanto eu fazia meu melhor passo, escorreguei num champanhe e caí!"},
+          {"speaker": "Ellen", "en": "Oh no! Was anyone filming?", "pt": "Ah não! Alguém estava filmando?"},
+          {"speaker": "Caio", "en": "Of course. My cousin posted it. It was so embarrassing!", "pt": "Claro. Meu primo postou. Foi tão constrangedor!"}
+        ]
+      },
+      "listening": {
+        "title": "Witness statement",
+        "context_pt": "Uma testemunha descreve um pequeno acidente de trânsito.",
+        "lines": [
+          {"speaker": "Officer", "en": "Can you tell me what happened?"},
+          {"speaker": "Witness", "en": "Sure. I was waiting at the bus stop. It was raining a lot. A man was riding a scooter, and he was looking at his phone."},
+          {"speaker": "Officer", "en": "And the car?"},
+          {"speaker": "Witness", "en": "The car was stopping at the traffic light. The man didn't see it, and he hit the back of the car. He fell, but he wasn't badly hurt."},
+          {"speaker": "Officer", "en": "What was the driver doing?"},
+          {"speaker": "Witness", "en": "Nothing wrong. She was waiting for the green light."}
+        ],
+        "questions": [
+          {"q": "Where was the witness?", "answer": "At the bus stop."},
+          {"q": "What was the weather like?", "answer": "It was raining a lot."},
+          {"q": "What was the man on the scooter doing?", "answer": "He was looking at his phone."},
+          {"q": "Was he badly hurt?", "answer": "No, he wasn't."}
+        ]
+      },
+      "reading": {
+        "title": "Where were you when...?",
+        "text": "Some moments are so important that people remember exactly what they were doing. On July 20, 1969, millions of people were watching TV when Neil Armstrong walked on the Moon. In 2014, many Brazilians were watching the World Cup semi-final when Germany scored seven goals. And in March 2020, a lot of people were working in their offices when they heard: \"From tomorrow, everyone works from home.\" Psychologists call these \"flashbulb memories\".",
+        "questions": [
+          {"q": "What were people doing when Armstrong walked on the Moon?", "answer": "They were watching TV."},
+          {"q": "What happened in 2014?", "answer": "Germany scored seven goals against Brazil in the World Cup semi-final."},
+          {"q": "What were many people doing in March 2020?", "answer": "Working in their offices."},
+          {"q": "What are \"flashbulb memories\"?", "answer": "Very clear memories of important moments."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "fill_blank", "title": "Past continuous", "instruction": "Complete with was/were + -ing.", "instruction_pt": "Complete com was/were + -ing.",
+         "items": [{"prompt": "At 9 p.m. I ___ (study).", "answer": "was studying"}, {"prompt": "The kids ___ (play) in the yard.", "answer": "were playing"}, {"prompt": "It ___ (not / rain).", "answer": "wasn't raining"}, {"prompt": "What ___ you ___ (do)?", "answer": "were / doing"}]},
+        {"id": "ex2", "type": "multiple_choice", "title": "Simple or continuous?", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+         "items": [{"prompt": "I ___ dinner when you called.", "options": ["made", "was making"], "answer": "was making"}, {"prompt": "She ___ her phone while she was running.", "options": ["dropped", "was dropping"], "answer": "dropped"}, {"prompt": "___ I was sleeping, the cat broke a glass.", "options": ["When", "While"], "answer": "While"}, {"prompt": "We were driving ___ we saw the accident.", "options": ["when", "while"], "answer": "when"}]},
+        {"id": "ex3", "type": "fill_blank", "title": "Interrupted actions", "instruction": "Complete with the past continuous or simple past.", "instruction_pt": "Complete com past continuous ou simple past.",
+         "items": [{"prompt": "I ___ (take) a shower when the water ___ (stop).", "answer": "was taking / stopped"}, {"prompt": "While they ___ (walk) on the beach, they ___ (find) a turtle.", "answer": "were walking / found"}, {"prompt": "He ___ (burn) his hand while he ___ (cook).", "answer": "burned / was cooking"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "I was cooking when the phone rang."}, {"prompt": "2", "answer": "While I was walking, I slipped."}, {"prompt": "3", "answer": "What were you doing?"}, {"prompt": "4", "answer": "It was so embarrassing!"}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "I watched TV when the power was going out.", "answer": "I was watching TV when the power went out."}, {"prompt": "While I drove, a cat crossed the street.", "answer": "While I was driving, a cat crossed the street."}, {"prompt": "We was sleeping.", "answer": "We were sleeping."}, {"prompt": "I was knowing the answer.", "answer": "I knew the answer."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the story", "instruction": "Complete with: was · were · when · while · fell.", "instruction_pt": "Complete a história.",
+         "items": [{"prompt": "Last Sunday, I ___ riding my bike in the park.", "answer": "was"}, {"prompt": "My friends ___ having a picnic.", "answer": "were"}, {"prompt": "___ I was waving to them, I didn't see a dog.", "answer": "While"}, {"prompt": "I ___ off the bike ___ the dog jumped in front of me!", "answer": "fell / when"}]}
+      ],
+      "speaking": {
+        "instruction": "Tell your partner about a small accident or embarrassing moment. Use was/were + -ing and when/while. Your partner asks \"What happened next?\".",
+        "instruction_pt": "Conte ao colega um pequeno acidente ou momento constrangedor. Use was/were + -ing e when/while. O colega pergunta \"What happened next?\".",
+        "questions": ["What were you doing at 7 a.m. today?", "What were you doing when you heard some big news?", "Did you ever break something? What were you doing?", "What's your most embarrassing moment?", "What were you doing in March 2020?"]
+      },
+      "writing": {
+        "task": "Write an \"embarrassing moment\" story (80–100 words) using past continuous and simple past.",
+        "task_pt": "Escreva uma história de \"momento constrangedor\" (80–100 palavras) usando past continuous e simple past.",
+        "model": "Last year, I was presenting a project in an online meeting with our clients from the US. Everything was going well. While I was talking, my son came into the room. He was wearing only his Spider-Man underwear and he was shouting, \"Mom, I need help!\" My camera was on, and everyone was watching. I turned red! But then the client laughed and said, \"I have three kids. I understand!\" We got the contract."
+      },
+      "culture_note": {
+        "title": "Flashbulb memories",
+        "text_pt": "Pergunte a um americano **\"Where were you on 9/11?\"** e ele saberá responder com detalhes. No Brasil, eventos como o **7 a 1** ou o início da pandemia criaram o mesmo efeito. São ótimos temas para praticar o past continuous!"
+      },
+      "summary_pt": ["was/were + -ing = estava fazendo.", "Ação longa (past continuous) + interrupção (simple past).", "when + ação curta · while + ação longa.", "Stative verbs: sem -ing."]
+    },
+    {
+      "id": "A2-M3-L4",
+      "title": "Once upon a time",
+      "subtitle_pt": "Contando histórias: conectores de narrativa",
+      "duration_min": 55,
+      "source_refs": ["Book III / Basic II – \"Once upon a time\" storytelling sections", "To Go A2 – review lessons"],
+      "objectives": ["Organizar uma história com first, then, after that, finally", "Usar conectores: so, because, but, suddenly, in the end", "Reagir a histórias (Really? No way! What happened next?)", "Contar uma história pessoal de 1 a 2 minutos"],
+      "warmup": {
+        "text_pt": "Qual é a melhor história que você conta em festas? Todo mundo tem uma! Pense na sua.",
+        "questions": ["Who is the best storyteller you know?", "What's a story your family always tells?"]
+      },
+      "vocabulary": [
+        {"en": "once upon a time", "pt": "era uma vez", "say": "uâns apón a táim"},
+        {"en": "one day / one night", "pt": "um dia / uma noite", "say": "uân dêi / uân náit"},
+        {"en": "at first", "pt": "no começo", "say": "ét fârst"},
+        {"en": "then / after that", "pt": "então / depois disso", "say": "dén / éfter dét"},
+        {"en": "suddenly", "pt": "de repente", "say": "sâdenli"},
+        {"en": "so", "pt": "então, por isso", "say": "sôu"},
+        {"en": "luckily / unfortunately", "pt": "por sorte / infelizmente", "say": "lâkili / ânfórtchunetli"},
+        {"en": "in the end / finally", "pt": "no final / finalmente", "say": "in dâ énd / fáinali"},
+        {"en": "No way!", "pt": "Não acredito!", "say": "nôu uêi"},
+        {"en": "What happened next?", "pt": "O que aconteceu depois?", "say": "uót répend nékst"},
+        {"en": "to realize", "pt": "perceber", "say": "tu ríalaiz"},
+        {"en": "to decide", "pt": "decidir", "say": "tu disáid"}
+      ],
+      "chunks": [
+        {"en": "You won't believe what happened!", "pt": "Você não vai acreditar no que aconteceu!"},
+        {"en": "It all started when...", "pt": "Tudo começou quando..."},
+        {"en": "And then, suddenly...", "pt": "E então, de repente..."},
+        {"en": "Luckily, ...", "pt": "Por sorte, ..."},
+        {"en": "In the end, everything was fine.", "pt": "No final, deu tudo certo."},
+        {"en": "Really? No way!", "pt": "Sério? Não acredito!"}
+      ],
+      "grammar": {
+        "title": "Conectores de narrativa",
+        "explanation_pt": "Uma boa história em inglês tem **estrutura** e **conectores**:\n\n**1. Começo (cenário)** — past continuous + was/were:\n\"It **was** a rainy Friday. I **was driving** home...\"\n**2. Problema** — simple past + **suddenly**:\n\"**Suddenly**, the car **stopped**.\"\n**3. Sequência** — **then, after that, so, because, but**:\n\"I **called** my brother, **but** he didn't answer, **so** I **walked**.\"\n**4. Final** — **luckily / unfortunately, in the end, finally**:\n\"**In the end**, a nice guy **helped** me.\"\n\n**So x because:** so mostra a **consequência** (então); because mostra a **causa** (porque).\n- It was late, **so** I took a taxi. / I took a taxi **because** it was late.\n\n**Reagir** também faz parte: Really? / No way! / Oh no! / Then what? / What happened next?",
+        "table": {
+          "headers": ["Função", "Conectores"],
+          "rows": [["Começo", "One day... / It all started when... / At first..."], ["Sequência", "Then... / After that... / Later..."], ["Surpresa", "Suddenly... / All of a sudden..."], ["Causa / consequência", "because... / so..."], ["Contraste", "but... / However,..."], ["Final", "Luckily... / Unfortunately... / In the end... / Finally..."]]
+        },
+        "examples": [
+          {"en": "It all started when I was waiting for my flight in Lima.", "pt": "Tudo começou quando eu esperava meu voo em Lima."},
+          {"en": "The flight was cancelled, so I stayed one more night.", "pt": "O voo foi cancelado, então fiquei mais uma noite."},
+          {"en": "Unfortunately, my bag didn't arrive. Luckily, I had my passport.", "pt": "Infelizmente, minha mala não chegou. Por sorte, eu estava com meu passaporte."}
+        ],
+        "tip_pt": "**In the end** = no final (da história). **At the end** (of) = no fim de algo: at the end of the movie, at the end of the street."
+      },
+      "common_mistakes": [
+        {"wrong": "It was late, because I took a taxi.", "right": "It was late, so I took a taxi.", "why_pt": "So = consequência; because = causa."},
+        {"wrong": "In the final, everything was OK.", "right": "In the end, everything was OK.", "why_pt": "\"No final\" = in the end."},
+        {"wrong": "Then, after, then, after...", "right": "Then... After that... Later... Finally...", "why_pt": "Varie os conectores para a história ficar natural."}
+      ],
+      "pronunciation": {
+        "focus": "Pausas e ênfase ao contar histórias",
+        "tip_pt": "Bons contadores de histórias fazem **pausas** antes do momento importante e **enfatizam** as palavras-chave: \"And then... (pausa) SUDDENLY... the lights went OUT.\" Grave-se contando e ouça!",
+        "practice": ["And then... suddenly... the lights went out!", "You won't believe what happened!", "Luckily, in the end, everything was fine."]
+      },
+      "dialogue": {
+        "title": "The airport story",
+        "context_pt": "Num bar, um amigo conta uma história de viagem e o outro reage.",
+        "lines": [
+          {"speaker": "Rafael", "en": "You won't believe what happened on my trip to Chile!", "pt": "Você não vai acreditar no que aconteceu na minha viagem ao Chile!"},
+          {"speaker": "Mark", "en": "What happened?", "pt": "O que aconteceu?"},
+          {"speaker": "Rafael", "en": "Well, it all started at the airport. I was waiting for my flight and I fell asleep.", "pt": "Bom, tudo começou no aeroporto. Eu estava esperando meu voo e peguei no sono."},
+          {"speaker": "Mark", "en": "No way! Did you miss the flight?", "pt": "Não acredito! Você perdeu o voo?"},
+          {"speaker": "Rafael", "en": "Almost! Suddenly, I heard my name: \"Last call for passenger Rafael Lima!\" So I ran to the gate.", "pt": "Quase! De repente, ouvi meu nome: \"Última chamada para o passageiro Rafael Lima!\" Então corri para o portão."},
+          {"speaker": "Mark", "en": "And then?", "pt": "E aí?"},
+          {"speaker": "Rafael", "en": "Luckily, they waited for me. But everybody on the plane was looking at me. In the end, the woman next to me became a good friend!", "pt": "Por sorte, eles me esperaram. Mas todo mundo no avião estava olhando para mim. No final, a mulher ao meu lado virou uma boa amiga!"}
+        ]
+      },
+      "listening": {
+        "title": "Story time podcast",
+        "context_pt": "Uma ouvinte conta uma história em um podcast.",
+        "lines": [
+          {"speaker": "Paula", "en": "One night last winter, I was walking home from work. It was cold and dark. At first, everything was normal. Then I realized someone was following me. I walked faster, and the person walked faster too! I was really scared, so I went into a pharmacy. Suddenly, the person came in and said, \"Excuse me! You dropped this!\" It was my wallet. In the end, he wasn't a criminal — he was a very nice guy. I felt so silly!"}
+        ],
+        "questions": [
+          {"q": "Where was Paula going?", "answer": "Home from work."},
+          {"q": "What did she realize?", "answer": "Someone was following her."},
+          {"q": "Why did she go into a pharmacy?", "answer": "Because she was scared."},
+          {"q": "Why was the man following her?", "answer": "Because she dropped her wallet and he wanted to give it back."}
+        ]
+      },
+      "reading": {
+        "title": "A short story: The last bus",
+        "text": "It was a rainy night in London, and Ana was waiting for the last bus. She was tired after a long day at the restaurant. At first, the street was empty. Then an old man arrived. He was carrying a big box. \"Is this the bus to Camden?\" he asked. \"Yes,\" said Ana. Suddenly, the box moved! The man smiled and opened it: there was a small, wet puppy inside. \"I found him in the rain,\" he said, \"but I can't keep him. My apartment doesn't allow dogs.\" Ana looked at the puppy, and the puppy looked at Ana. In the end, two passengers got off the bus that night: Ana and her new dog, Lucky.",
+        "questions": [
+          {"q": "Why was Ana tired?", "answer": "Because she worked a long day at the restaurant."},
+          {"q": "What was in the box?", "answer": "A small, wet puppy."},
+          {"q": "Why couldn't the man keep the puppy?", "answer": "Because his apartment doesn't allow dogs."},
+          {"q": "How does the story end?", "answer": "Ana took the puppy home and named him Lucky."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "so or because?", "instruction": "Choose so or because.", "instruction_pt": "Escolha so ou because.",
+         "items": [{"prompt": "I was hungry, ___ I ordered a pizza.", "options": ["so", "because"], "answer": "so"}, {"prompt": "She was late ___ she missed the bus.", "options": ["so", "because"], "answer": "because"}, {"prompt": "It was raining, ___ we stayed home.", "options": ["so", "because"], "answer": "so"}, {"prompt": "He was happy ___ he got the job.", "options": ["so", "because"], "answer": "because"}]},
+        {"id": "ex2", "type": "fill_blank", "title": "Story connectors", "instruction": "Complete with: One day · Suddenly · so · Luckily · In the end.", "instruction_pt": "Complete com os conectores.",
+         "items": [{"prompt": "___, I was hiking in the mountains.", "answer": "One day"}, {"prompt": "___, a big storm started.", "answer": "Suddenly"}, {"prompt": "I didn't have a jacket, ___ I was very cold.", "answer": "so"}, {"prompt": "___, there was a small cabin near the trail.", "answer": "Luckily"}, {"prompt": "___, I was safe and I had a great story to tell!", "answer": "In the end"}]},
+        {"id": "ex3", "type": "match", "title": "React to the story", "instruction": "Write a good reaction.", "instruction_pt": "Escreva uma boa reação.",
+         "items": [{"prompt": "I met Neymar at the airport!", "answer": "No way! / Really?"}, {"prompt": "And then my phone fell in the toilet.", "answer": "Oh no!"}, {"prompt": "So I opened the door and...", "answer": "What happened next? / And then?"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "You won't believe what happened!"}, {"prompt": "2", "answer": "It all started when I was at the airport."}, {"prompt": "3", "answer": "Suddenly, the lights went out."}, {"prompt": "4", "answer": "In the end, everything was fine."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "It was cold, because I wore a jacket.", "answer": "It was cold, so I wore a jacket."}, {"prompt": "In the final, we were friends.", "answer": "In the end, we were friends."}, {"prompt": "Suddenly, the dog was running away. (ação curta)", "answer": "Suddenly, the dog ran away."}, {"prompt": "Once upon a time, there were a king.", "answer": "Once upon a time, there was a king."}]},
+        {"id": "ex6", "type": "order_words", "title": "Put the story in order", "instruction": "Put the sentences in the correct order (write the letters).", "instruction_pt": "Coloque as frases na ordem certa (escreva as letras).",
+         "items": [{"prompt": "a) Suddenly, I heard a noise in the kitchen. / b) In the end, it was my cat eating the cake! / c) One night, I was watching a movie alone. / d) I was scared, so I took my phone and walked slowly to the kitchen.", "answer": "c, a, d, b"}]}
+      ],
+      "speaking": {
+        "instruction": "Tell a 1–2 minute story (true or invented). Use at least 5 connectors. Your partner reacts and asks questions.",
+        "instruction_pt": "Conte uma história de 1–2 minutos (verdadeira ou inventada). Use pelo menos 5 conectores. O colega reage e faz perguntas.",
+        "questions": ["Tell me about a crazy trip.", "Tell me about a time you were really scared.", "Tell me about a lucky moment in your life.", "What's a funny family story?", "Tell me about a time something went wrong."]
+      },
+      "writing": {
+        "task": "Write a short story (100–120 words) that starts with \"It was a dark and stormy night...\" or a true story from your life. Use past simple, past continuous and connectors.",
+        "task_pt": "Escreva uma história curta (100–120 palavras) começando com \"It was a dark and stormy night...\" ou uma história real da sua vida. Use past simple, past continuous e conectores.",
+        "model": "It was a dark and stormy night. I was home alone, and I was reading a book in bed. Suddenly, the lights went out. At first, I wasn't worried, so I looked for a candle. Then I heard footsteps in the living room! I was terrified, but I took my umbrella — my only weapon — and walked slowly to the door. I opened it and screamed. Luckily, it was only my brother. He forgot his keys, so he came in through the window. In the end, we laughed for hours and ate ice cream in the dark."
+      },
+      "culture_note": {
+        "title": "Storytelling e stand-up",
+        "text_pt": "A cultura de língua inglesa valoriza muito contar histórias: o stand-up comedy, os podcasts como **The Moth** e os TED Talks são basicamente histórias pessoais bem contadas. Assistir a esses formatos é ótimo treino de listening no passado."
+      },
+      "summary_pt": ["Começo (past continuous) → problema (suddenly) → sequência → final.", "so = consequência · because = causa.", "In the end = no final.", "Reaja: Really? No way! What happened next?"]
+    }
+  ],
+  "review": {
+    "intro_pt": "Revise o passado completo: was/were, simple past, past continuous e narrativas.",
+    "exercises": [
+      {"id": "r1", "type": "multiple_choice", "title": "Choose the correct option", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+       "items": [{"prompt": "___ you at the party last night?", "options": ["Did", "Were", "Was"], "answer": "Were"}, {"prompt": "She didn't ___ the email.", "options": ["sent", "send", "sends"], "answer": "send"}, {"prompt": "I ___ when you called.", "options": ["slept", "was sleeping", "sleeping"], "answer": "was sleeping"}, {"prompt": "It was late, ___ we went home.", "options": ["because", "so", "but"], "answer": "so"}, {"prompt": "There ___ a lot of cars on the road.", "options": ["was", "were", "had"], "answer": "were"}]},
+      {"id": "r2", "type": "answer", "title": "Irregular verbs", "instruction": "Write the past form.", "instruction_pt": "Escreva a forma do passado.",
+       "items": [{"prompt": "meet", "answer": "met"}, {"prompt": "fall", "answer": "fell"}, {"prompt": "spend", "answer": "spent"}, {"prompt": "break", "answer": "broke"}, {"prompt": "say", "answer": "said"}]},
+      {"id": "r3", "type": "translate", "title": "Translate", "instruction": "Translate into English.", "instruction_pt": "Traduza para o inglês.",
+       "items": [{"prompt": "Onde você foi nas férias?", "answer": "Where did you go on vacation?"}, {"prompt": "Eu estava dirigindo quando vi o acidente.", "answer": "I was driving when I saw the accident."}, {"prompt": "Tinha muita gente no show.", "answer": "There were a lot of people at the concert."}]},
+      {"id": "r4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+       "items": [{"prompt": "1", "answer": "What did you do yesterday?"}, {"prompt": "2", "answer": "While I was cooking, I burned my finger."}, {"prompt": "3", "answer": "Luckily, they waited for me."}]},
+      {"id": "r5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+       "items": [{"prompt": "Where you went last night?", "answer": "Where did you go last night?"}, {"prompt": "I didn't saw him.", "answer": "I didn't see him."}, {"prompt": "We was watching a movie.", "answer": "We were watching a movie."}]}
+    ],
+    "speaking_pt": "Grave um áudio de 2 minutos contando uma história real da sua vida (viagem, acidente engraçado, um encontro importante). Use todos os tempos do passado deste módulo.",
+    "speaking_questions": ["Where were you and what were you doing?", "What happened suddenly?", "What did you do then?", "How did it end?", "How did you feel?"],
+    "project_pt": "**Story night:** organize uma \"noite de histórias\" com a turma (ou grave um mini-podcast): cada pessoa conta uma história de 1 a 2 minutos e os outros reagem e fazem perguntas. Bônus: vote na melhor história!"
+  }
+}

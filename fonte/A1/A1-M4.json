@@ -1,0 +1,2235 @@
+{
+  "id": "A1-M4",
+  "level": "A1",
+  "title": "Hello, World!",
+  "theme_pt": "Cumprimentos, apresentações e informações pessoais",
+  "can_do": [
+    "Cumprimentar e me despedir em situações formais e informais",
+    "Dizer meu nome, idade, cidade e país",
+    "Soletrar meu nome e meu e-mail",
+    "Preencher e apresentar um perfil simples"
+  ],
+  "lessons": [
+    {
+      "id": "A1-M4-L1",
+      "title": "Hi! I'm Ana",
+      "subtitle_pt": "Cumprimentos e apresentações",
+      "duration_min": 50,
+      "source_refs": [
+        "To Go A1 – Lesson 1 (greetings)",
+        "StartUp 1 – Welcome Unit"
+      ],
+      "objectives": [
+        "Cumprimentar pessoas em diferentes horários do dia",
+        "Dizer seu nome e perguntar o nome de alguém",
+        "Usar I am / you are",
+        "Se despedir de forma natural"
+      ],
+      "warmup": {
+        "text_pt": "Você já conhece várias palavras em inglês! Quantas destas você vê todo dia no celular? **OK, Wi-Fi, online, login, like, share, play, download**. O inglês já está na sua vida — agora vamos usá-lo para conversar.",
+        "questions": [
+          "Como você cumprimenta um amigo? E o seu chefe?",
+          "Que palavras em inglês você usa no trabalho ou nas redes sociais?"
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "Hi / Hello",
+          "pt": "Oi / Olá",
+          "say": "rái / rêlou"
+        },
+        {
+          "en": "Good morning",
+          "pt": "Bom dia",
+          "say": "gud mórnin"
+        },
+        {
+          "en": "Good afternoon",
+          "pt": "Boa tarde",
+          "say": "gud éfternun"
+        },
+        {
+          "en": "Good evening",
+          "pt": "Boa noite (ao chegar)",
+          "say": "gud ívnin"
+        },
+        {
+          "en": "Good night",
+          "pt": "Boa noite (ao sair/dormir)",
+          "say": "gud náit"
+        },
+        {
+          "en": "Bye / See you",
+          "pt": "Tchau / Até mais",
+          "say": "bái / sí iú"
+        },
+        {
+          "en": "Please",
+          "pt": "Por favor",
+          "say": "plíz"
+        },
+        {
+          "en": "Thank you / Thanks",
+          "pt": "Obrigado(a)",
+          "say": "fénk iú / fénks"
+        },
+        {
+          "en": "You're welcome",
+          "pt": "De nada",
+          "say": "iór uélkam"
+        },
+        {
+          "en": "Nice to meet you",
+          "pt": "Prazer em conhecer você",
+          "say": "náis tu mít iú"
+        },
+        {
+          "en": "name",
+          "pt": "nome",
+          "say": "nêim"
+        },
+        {
+          "en": "friend",
+          "pt": "amigo(a)",
+          "say": "frénd"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "What's your name?",
+          "pt": "Qual é o seu nome?"
+        },
+        {
+          "en": "My name is... / I'm...",
+          "pt": "Meu nome é... / Eu sou..."
+        },
+        {
+          "en": "How are you?",
+          "pt": "Como você está?"
+        },
+        {
+          "en": "I'm fine, thanks. And you?",
+          "pt": "Estou bem, obrigado. E você?"
+        },
+        {
+          "en": "Nice to meet you, too.",
+          "pt": "Prazer em conhecer você também."
+        },
+        {
+          "en": "See you tomorrow!",
+          "pt": "Até amanhã!"
+        }
+      ],
+      "grammar": {
+        "title": "Verb to be — I am / You are",
+        "explanation_pt": "O verbo **to be** significa **ser** e **estar** ao mesmo tempo. Em inglês, a frase **sempre precisa de sujeito**: não dá para dizer só \"am Ana\" — é obrigatório o **I**.\n\nNa conversa, quase sempre usamos a forma **contraída** (curta): **I'm** e **you're**. A forma longa (I am) soa formal ou enfática.",
+        "table": {
+          "headers": [
+            "Forma longa",
+            "Contração",
+            "Português"
+          ],
+          "rows": [
+            [
+              "I am",
+              "I'm",
+              "Eu sou / estou"
+            ],
+            [
+              "You are",
+              "You're",
+              "Você é / está"
+            ],
+            [
+              "I am not",
+              "I'm not",
+              "Eu não sou / estou"
+            ],
+            [
+              "You are not",
+              "You aren't / You're not",
+              "Você não é / está"
+            ],
+            [
+              "Are you...?",
+              "—",
+              "Você é / está...?"
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "I'm Ana. I'm from Brazil.",
+            "pt": "Eu sou a Ana. Sou do Brasil."
+          },
+          {
+            "en": "You're my teacher.",
+            "pt": "Você é meu professor."
+          },
+          {
+            "en": "I'm not tired.",
+            "pt": "Eu não estou cansado."
+          },
+          {
+            "en": "Are you OK?",
+            "pt": "Você está bem?"
+          }
+        ],
+        "tip_pt": "Para perguntar, inverta: **You are** → **Are you...?** Não use \"do\" com o verbo to be."
+      },
+      "common_mistakes": [
+        {
+          "wrong": "Am Ana.",
+          "right": "I'm Ana.",
+          "why_pt": "Em inglês o sujeito é obrigatório. Sempre use I."
+        },
+        {
+          "wrong": "Good night! (ao chegar numa festa à noite)",
+          "right": "Good evening! / Hi!",
+          "why_pt": "Good night é só para despedida ou na hora de dormir."
+        },
+        {
+          "wrong": "I have 25 years.",
+          "right": "I'm 25 (years old).",
+          "why_pt": "Idade em inglês usa o verbo to be, não have."
+        }
+      ],
+      "pronunciation": {
+        "focus": "O som de H",
+        "tip_pt": "O **H** no começo das palavras em inglês tem som de **R** de \"rato\" (aspirado, suave): **hi** = \"rái\", **hello** = \"rêlou\". E cuidado: não coloque \"i\" no final das palavras — **name** é \"nêim\", não \"nêimi\".",
+        "practice": [
+          "Hi, Helen! How are you?",
+          "Hello! I'm Hugo.",
+          "Nice to meet you, Kate."
+        ]
+      },
+      "dialogue": {
+        "title": "First day at work",
+        "context_pt": "Ana começa a trabalhar em uma startup e conhece o colega Leo na primeira reunião online.",
+        "lines": [
+          {
+            "speaker": "Leo",
+            "en": "Hi! Good morning. Are you the new designer?",
+            "pt": "Oi! Bom dia. Você é a nova designer?"
+          },
+          {
+            "speaker": "Ana",
+            "en": "Yes, I am. I'm Ana. Nice to meet you.",
+            "pt": "Sim, sou eu. Eu sou a Ana. Prazer."
+          },
+          {
+            "speaker": "Leo",
+            "en": "Nice to meet you, too. I'm Leo. How are you?",
+            "pt": "O prazer é meu. Eu sou o Leo. Como você está?"
+          },
+          {
+            "speaker": "Ana",
+            "en": "I'm fine, thanks. A little nervous!",
+            "pt": "Estou bem, obrigada. Um pouco nervosa!"
+          },
+          {
+            "speaker": "Leo",
+            "en": "Don't worry. You're welcome here!",
+            "pt": "Não se preocupe. Você é bem-vinda aqui!"
+          },
+          {
+            "speaker": "Ana",
+            "en": "Thank you, Leo. See you later!",
+            "pt": "Obrigada, Leo. Até mais!"
+          }
+        ]
+      },
+      "reading": {
+        "title": "A message in the group",
+        "text": "Hello, everyone! My name is Marcos. I'm the new English student in the group. I'm from Curitiba, Brazil. I'm 32 years old and I'm a nurse. Nice to meet you all! 👋",
+        "questions": [
+          {
+            "q": "What's his name?",
+            "answer": "Marcos."
+          },
+          {
+            "q": "Where is he from?",
+            "answer": "Curitiba, Brazil."
+          },
+          {
+            "q": "How old is he?",
+            "answer": "He's 32 (years old)."
+          },
+          {
+            "q": "What is his job?",
+            "answer": "He's a nurse."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "multiple_choice",
+          "title": "Qual cumprimento?",
+          "instruction_pt": "Escolha a expressão correta para cada situação.",
+          "items": [
+            {
+              "prompt": "São 9h e você chega no escritório.",
+              "options": [
+                "Good morning!",
+                "Good night!",
+                "Good evening!"
+              ],
+              "answer": "Good morning!"
+            },
+            {
+              "prompt": "São 15h e você entra numa loja.",
+              "options": [
+                "Good evening!",
+                "Good afternoon!",
+                "Bye!"
+              ],
+              "answer": "Good afternoon!"
+            },
+            {
+              "prompt": "Você vai dormir.",
+              "options": [
+                "Good evening!",
+                "Hello!",
+                "Good night!"
+              ],
+              "answer": "Good night!"
+            },
+            {
+              "prompt": "Alguém diz \"Thank you!\" para você.",
+              "options": [
+                "Please.",
+                "You're welcome.",
+                "Nice to meet you."
+              ],
+              "answer": "You're welcome."
+            }
+          ],
+          "instruction": "Choose the correct expression for each situation."
+        },
+        {
+          "id": "ex2",
+          "type": "fill_blank",
+          "title": "Complete com am, are ou 'm",
+          "instruction_pt": "Complete as frases com a forma correta do verbo to be.",
+          "items": [
+            {
+              "prompt": "I ___ Carla.",
+              "answer": "am ('m)"
+            },
+            {
+              "prompt": "You ___ my friend.",
+              "answer": "are ('re)"
+            },
+            {
+              "prompt": "___ you OK?",
+              "answer": "Are"
+            },
+            {
+              "prompt": "I ___ not tired.",
+              "answer": "am ('m)"
+            },
+            {
+              "prompt": "You ___ not late.",
+              "answer": "are"
+            }
+          ],
+          "instruction": "Complete the sentences with the correct form of the verb to be."
+        },
+        {
+          "id": "ex3",
+          "type": "translate",
+          "title": "Traduza em chunks",
+          "instruction_pt": "Traduza para o inglês. Pense na frase inteira, não palavra por palavra.",
+          "items": [
+            {
+              "prompt": "Oi, eu sou o Pedro. Prazer em conhecer você.",
+              "answer": "Hi, I'm Pedro. Nice to meet you."
+            },
+            {
+              "prompt": "Como você está?",
+              "answer": "How are you?"
+            },
+            {
+              "prompt": "Estou bem, obrigado. E você?",
+              "answer": "I'm fine, thanks. And you?"
+            },
+            {
+              "prompt": "Qual é o seu nome?",
+              "answer": "What's your name?"
+            }
+          ],
+          "instruction": "Translate into English. Think of the whole sentence, not word by word."
+        },
+        {
+          "id": "ex4",
+          "type": "order_words",
+          "title": "Organize as palavras",
+          "instruction_pt": "Coloque as palavras na ordem certa.",
+          "items": [
+            {
+              "prompt": "name / your / what's / ?",
+              "answer": "What's your name?"
+            },
+            {
+              "prompt": "meet / to / nice / you",
+              "answer": "Nice to meet you."
+            },
+            {
+              "prompt": "not / I'm / tired",
+              "answer": "I'm not tired."
+            }
+          ],
+          "instruction": "Put the words in the correct order."
+        },
+        {
+          "id": "ex5",
+          "type": "dictation",
+          "title": "Dictation",
+          "instruction": "Listen and write the sentence.",
+          "instruction_pt": "Ouça e escreva a frase.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "Nice to meet you."
+            },
+            {
+              "prompt": "2",
+              "answer": "I'm fine, thanks. And you?"
+            },
+            {
+              "prompt": "3",
+              "answer": "What's your name?"
+            },
+            {
+              "prompt": "4",
+              "answer": "See you tomorrow!"
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the mistake.",
+          "instruction_pt": "Encontre e corrija o erro.",
+          "items": [
+            {
+              "prompt": "Am Pedro.",
+              "answer": "I'm Pedro."
+            },
+            {
+              "prompt": "I have 30 years.",
+              "answer": "I'm 30 (years old)."
+            },
+            {
+              "prompt": "You is my friend.",
+              "answer": "You are my friend."
+            },
+            {
+              "prompt": "Good night! (arriving at a party at 8 p.m.)",
+              "answer": "Good evening!"
+            }
+          ]
+        },
+        {
+          "id": "ex7",
+          "type": "fill_blank",
+          "title": "Complete the dialogue",
+          "instruction": "Complete with: I'm · are · meet · fine · name.",
+          "instruction_pt": "Complete o diálogo.",
+          "items": [
+            {
+              "prompt": "A: Hi! What's your ___?",
+              "answer": "name"
+            },
+            {
+              "prompt": "B: ___ Lara. Nice to ___ you.",
+              "answer": "I'm / meet"
+            },
+            {
+              "prompt": "A: How ___ you?",
+              "answer": "are"
+            },
+            {
+              "prompt": "B: I'm ___, thanks.",
+              "answer": "fine"
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction_pt": "Pratique com um colega ou grave um áudio respondendo. Responda com frases completas.",
+        "questions": [
+          "Hi! What's your name?",
+          "How are you today?",
+          "Are you a student?",
+          "Are you tired today?",
+          "Nice to meet you! (responda)"
+        ],
+        "instruction": "Practice with a partner or record an audio with your answers. Answer with complete sentences."
+      },
+      "writing": {
+        "task_pt": "Escreva uma mensagem curta de apresentação para o grupo da turma (3 a 4 frases).",
+        "model": "Hi, everyone! I'm Júlia. I'm from Recife.\nI'm a student and I'm 19.\nNice to meet you!",
+        "task": "Write a short introduction message for your class group (3 to 4 sentences)."
+      },
+      "culture_note": {
+        "title": "\"How are you?\" não é uma pergunta de verdade",
+        "text_pt": "Nos EUA e no Reino Unido, \"How are you?\" muitas vezes é só um cumprimento, como \"e aí?\". A resposta esperada é curta: \"Good, thanks. And you?\" — não é hora de contar seus problemas! 😄"
+      },
+      "summary_pt": [
+        "Cumprimentos variam com o horário: morning, afternoon, evening.",
+        "Good night = só na despedida.",
+        "I'm / You're: o sujeito é obrigatório.",
+        "Idade usa to be: I'm 25."
+      ],
+      "listening": {
+        "title": "First online class",
+        "context_pt": "Primeira aula online: a professora cumprimenta os alunos.",
+        "lines": [
+          {
+            "speaker": "Teacher",
+            "en": "Good evening, everyone! I'm Sarah, your English teacher. How are you today?"
+          },
+          {
+            "speaker": "Paulo",
+            "en": "Good evening! I'm fine, thanks. I'm Paulo."
+          },
+          {
+            "speaker": "Teacher",
+            "en": "Nice to meet you, Paulo. Are you tired?"
+          },
+          {
+            "speaker": "Paulo",
+            "en": "A little. I'm at work now!"
+          },
+          {
+            "speaker": "Teacher",
+            "en": "Oh no! And you? What's your name?"
+          },
+          {
+            "speaker": "Rita",
+            "en": "Hi, I'm Rita. Nice to meet you. I'm not tired. I'm very happy!"
+          }
+        ],
+        "questions": [
+          {
+            "q": "What's the teacher's name?",
+            "answer": "Sarah."
+          },
+          {
+            "q": "Is Paulo tired?",
+            "answer": "A little."
+          },
+          {
+            "q": "Where is Paulo now?",
+            "answer": "At work."
+          },
+          {
+            "q": "How is Rita?",
+            "answer": "She's very happy (not tired)."
+          }
+        ]
+      }
+    },
+    {
+      "id": "A1-M4-L2",
+      "title": "Where are you from?",
+      "subtitle_pt": "Países, nacionalidades e o verbo to be com he/she/it",
+      "duration_min": 50,
+      "source_refs": [
+        "StartUp 1 – Unit 1",
+        "To Go A2 – Lesson 1-2 (to be he/she/it)"
+      ],
+      "objectives": [
+        "Dizer de onde você é",
+        "Perguntar a origem de alguém",
+        "Usar is / isn't com he, she e it",
+        "Reconhecer países e nacionalidades"
+      ],
+      "warmup": {
+        "text_pt": "Pense em 3 países que você gostaria de visitar. Você sabe o nome deles em inglês?",
+        "questions": [
+          "What countries do you know in English?",
+          "Where is your favorite singer from?"
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "Brazil — Brazilian",
+          "pt": "Brasil — brasileiro(a)",
+          "say": "brazíl — brazílian"
+        },
+        {
+          "en": "the USA — American",
+          "pt": "EUA — americano(a)",
+          "say": "dâ iú és êi — américan"
+        },
+        {
+          "en": "Canada — Canadian",
+          "pt": "Canadá — canadense",
+          "say": "kénada — kanêidian"
+        },
+        {
+          "en": "Mexico — Mexican",
+          "pt": "México — mexicano(a)",
+          "say": "méksikou — méksikan"
+        },
+        {
+          "en": "Argentina — Argentinian",
+          "pt": "Argentina — argentino(a)",
+          "say": "arjentína — arjentínian"
+        },
+        {
+          "en": "Portugal — Portuguese",
+          "pt": "Portugal — português(a)",
+          "say": "pórtchugal — portchugíz"
+        },
+        {
+          "en": "Spain — Spanish",
+          "pt": "Espanha — espanhol(a)",
+          "say": "spêin — spénish"
+        },
+        {
+          "en": "the UK — British",
+          "pt": "Reino Unido — britânico(a)",
+          "say": "dâ iú kêi — brítish"
+        },
+        {
+          "en": "Japan — Japanese",
+          "pt": "Japão — japonês(a)",
+          "say": "djapén — djapaníz"
+        },
+        {
+          "en": "China — Chinese",
+          "pt": "China — chinês(a)",
+          "say": "tcháina — tchainíz"
+        },
+        {
+          "en": "city",
+          "pt": "cidade",
+          "say": "síri"
+        },
+        {
+          "en": "country",
+          "pt": "país",
+          "say": "kântri"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "Where are you from?",
+          "pt": "De onde você é?"
+        },
+        {
+          "en": "I'm from São Paulo, Brazil.",
+          "pt": "Eu sou de São Paulo, Brasil."
+        },
+        {
+          "en": "Where is she from?",
+          "pt": "De onde ela é?"
+        },
+        {
+          "en": "He's Brazilian.",
+          "pt": "Ele é brasileiro."
+        },
+        {
+          "en": "Is it a big city?",
+          "pt": "É uma cidade grande?"
+        }
+      ],
+      "grammar": {
+        "title": "Verb to be — he / she / it",
+        "explanation_pt": "Com **he** (ele), **she** (ela) e **it** (para coisas, lugares e animais), o verbo to be vira **is**. A contração é **'s**: he's, she's, it's.\n\n**It** não existe em português! Use para tudo que não é pessoa: \"**It's** a big city\" (É uma cidade grande). Nunca comece a frase sem sujeito: \"Is a big city\" está errado.\n\nPara negar, use **is not → isn't**. Para perguntar, inverta: **Is he...?**",
+        "table": {
+          "headers": [
+            "Afirmativa",
+            "Negativa",
+            "Pergunta",
+            "Resposta curta"
+          ],
+          "rows": [
+            [
+              "He's Mexican.",
+              "He isn't Mexican.",
+              "Is he Mexican?",
+              "Yes, he is. / No, he isn't."
+            ],
+            [
+              "She's from Lisbon.",
+              "She isn't from Porto.",
+              "Is she from Lisbon?",
+              "Yes, she is. / No, she isn't."
+            ],
+            [
+              "It's a big city.",
+              "It isn't small.",
+              "Is it big?",
+              "Yes, it is. / No, it isn't."
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "Shakira is from Colombia. She's Colombian.",
+            "pt": "A Shakira é da Colômbia. Ela é colombiana."
+          },
+          {
+            "en": "Tokyo is in Japan. It's a big city.",
+            "pt": "Tóquio fica no Japão. É uma cidade grande."
+          },
+          {
+            "en": "Is he your brother? No, he isn't.",
+            "pt": "Ele é seu irmão? Não, não é."
+          }
+        ],
+        "tip_pt": "Na resposta curta afirmativa **não** se usa contração: \"Yes, he is.\" (e não \"Yes, he's.\")"
+      },
+      "common_mistakes": [
+        {
+          "wrong": "Is a beautiful city.",
+          "right": "It's a beautiful city.",
+          "why_pt": "O sujeito it é obrigatório para coisas e lugares."
+        },
+        {
+          "wrong": "She is brazilian.",
+          "right": "She is Brazilian.",
+          "why_pt": "Nacionalidades, países e idiomas começam com letra maiúscula em inglês."
+        },
+        {
+          "wrong": "Yes, she's.",
+          "right": "Yes, she is.",
+          "why_pt": "Respostas curtas afirmativas não usam contração."
+        }
+      ],
+      "pronunciation": {
+        "focus": "Sílaba tônica das nacionalidades",
+        "tip_pt": "A força da palavra muda! Bra**zil** → Bra**zil**ian, **Ca**nada → Ca**na**dian, **Ja**pan? Não: Ja**pan** → Japa**nese**. Repita batendo palmas na sílaba forte.",
+        "practice": [
+          "Bra-ZIL-ian",
+          "ca-NA-dian",
+          "ja-pa-NESE",
+          "A-MER-ican"
+        ]
+      },
+      "dialogue": {
+        "title": "At the hostel",
+        "context_pt": "Rafa está em um hostel em Lisboa e conhece outra hóspede na cozinha.",
+        "lines": [
+          {
+            "speaker": "Rafa",
+            "en": "Hi! I'm Rafa. Where are you from?",
+            "pt": "Oi! Eu sou o Rafa. De onde você é?"
+          },
+          {
+            "speaker": "Yuki",
+            "en": "Hi, Rafa. I'm Yuki. I'm from Osaka, Japan.",
+            "pt": "Oi, Rafa. Eu sou a Yuki. Sou de Osaka, Japão."
+          },
+          {
+            "speaker": "Rafa",
+            "en": "Cool! Is Osaka a big city?",
+            "pt": "Legal! Osaka é uma cidade grande?"
+          },
+          {
+            "speaker": "Yuki",
+            "en": "Yes, it is. It's very big. And you? Are you Spanish?",
+            "pt": "Sim. É muito grande. E você? Você é espanhol?"
+          },
+          {
+            "speaker": "Rafa",
+            "en": "No, I'm not. I'm Brazilian. I'm from Salvador.",
+            "pt": "Não. Sou brasileiro. Sou de Salvador."
+          },
+          {
+            "speaker": "Yuki",
+            "en": "Oh, nice! And who's he?",
+            "pt": "Ah, que legal! E quem é ele?"
+          },
+          {
+            "speaker": "Rafa",
+            "en": "That's Tom. He's British. He's my roommate.",
+            "pt": "Aquele é o Tom. Ele é britânico. Ele divide o quarto comigo."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Our international team",
+        "text": "Welcome to our team page! Sofia is our manager. She's from Buenos Aires, Argentina. Daniel is our developer. He's Canadian, from Toronto. Mei is our designer. She isn't from China — she's from Singapore! Our office is in São Paulo. It's a big, busy city.",
+        "questions": [
+          {
+            "q": "Is Sofia from Mexico?",
+            "answer": "No, she isn't. She's from Argentina."
+          },
+          {
+            "q": "Where is Daniel from?",
+            "answer": "He's from Toronto, Canada."
+          },
+          {
+            "q": "Is Mei Chinese?",
+            "answer": "No, she isn't. She's from Singapore."
+          },
+          {
+            "q": "Where is the office?",
+            "answer": "It's in São Paulo."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "match",
+          "title": "País e nacionalidade",
+          "instruction_pt": "Escreva a nacionalidade de cada país.",
+          "items": [
+            {
+              "prompt": "Brazil",
+              "answer": "Brazilian"
+            },
+            {
+              "prompt": "Japan",
+              "answer": "Japanese"
+            },
+            {
+              "prompt": "Canada",
+              "answer": "Canadian"
+            },
+            {
+              "prompt": "Spain",
+              "answer": "Spanish"
+            },
+            {
+              "prompt": "the UK",
+              "answer": "British"
+            }
+          ],
+          "instruction": "Write the nationality for each country."
+        },
+        {
+          "id": "ex2",
+          "type": "fill_blank",
+          "title": "am, is ou are?",
+          "instruction_pt": "Complete com a forma correta do verbo to be.",
+          "items": [
+            {
+              "prompt": "She ___ from Chile.",
+              "answer": "is ('s)"
+            },
+            {
+              "prompt": "I ___ from Manaus.",
+              "answer": "am ('m)"
+            },
+            {
+              "prompt": "___ he Portuguese?",
+              "answer": "Is"
+            },
+            {
+              "prompt": "It ___ a small city.",
+              "answer": "is ('s)"
+            },
+            {
+              "prompt": "You ___ Mexican.",
+              "answer": "are ('re)"
+            }
+          ],
+          "instruction": "Complete with the correct form of the verb to be."
+        },
+        {
+          "id": "ex3",
+          "type": "answer",
+          "title": "Respostas curtas",
+          "instruction_pt": "Responda com uma resposta curta (Yes, ... / No, ...).",
+          "items": [
+            {
+              "prompt": "Is Neymar Brazilian?",
+              "answer": "Yes, he is."
+            },
+            {
+              "prompt": "Is London in Spain?",
+              "answer": "No, it isn't."
+            },
+            {
+              "prompt": "Is Taylor Swift American?",
+              "answer": "Yes, she is."
+            },
+            {
+              "prompt": "Are you from Japan?",
+              "answer": "No, I'm not. (resposta pessoal)"
+            }
+          ],
+          "instruction": "Answer with a short answer (Yes, ... / No, ...)."
+        },
+        {
+          "id": "ex4",
+          "type": "true_false",
+          "title": "Verdadeiro ou falso? (Diálogo)",
+          "instruction_pt": "Releia o diálogo e marque True ou False.",
+          "items": [
+            {
+              "prompt": "Yuki is from Tokyo.",
+              "answer": false
+            },
+            {
+              "prompt": "Rafa is Spanish.",
+              "answer": false
+            },
+            {
+              "prompt": "Tom is British.",
+              "answer": true
+            },
+            {
+              "prompt": "Osaka is a big city.",
+              "answer": true
+            }
+          ],
+          "instruction": "Read the dialogue again. True or False?"
+        },
+        {
+          "id": "ex5",
+          "type": "dictation",
+          "title": "Dictation",
+          "instruction": "Listen and write the sentence.",
+          "instruction_pt": "Ouça e escreva a frase.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "Where are you from?"
+            },
+            {
+              "prompt": "2",
+              "answer": "She's Brazilian."
+            },
+            {
+              "prompt": "3",
+              "answer": "Is it a big city?"
+            },
+            {
+              "prompt": "4",
+              "answer": "No, he isn't."
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the mistake.",
+          "instruction_pt": "Encontre e corrija o erro.",
+          "items": [
+            {
+              "prompt": "Is a beautiful city.",
+              "answer": "It's a beautiful city."
+            },
+            {
+              "prompt": "He is canadian.",
+              "answer": "He is Canadian."
+            },
+            {
+              "prompt": "Yes, she's.",
+              "answer": "Yes, she is."
+            },
+            {
+              "prompt": "She are from Chile.",
+              "answer": "She is from Chile."
+            }
+          ]
+        },
+        {
+          "id": "ex7",
+          "type": "fill_blank",
+          "title": "Complete the dialogue",
+          "instruction": "Complete with: is · isn't · from · it · Japanese.",
+          "instruction_pt": "Complete o diálogo.",
+          "items": [
+            {
+              "prompt": "A: Where is Kenji ___?",
+              "answer": "from"
+            },
+            {
+              "prompt": "B: He's from Japan. He's ___.",
+              "answer": "Japanese"
+            },
+            {
+              "prompt": "A: ___ he from Tokyo?",
+              "answer": "Is"
+            },
+            {
+              "prompt": "B: No, he ___. He's from Kyoto. ___'s a beautiful city.",
+              "answer": "isn't / It"
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction_pt": "Responda às perguntas em voz alta. Depois, faça as mesmas perguntas a um colega.",
+        "questions": [
+          "Where are you from?",
+          "Is your city big or small?",
+          "Where is your best friend from?",
+          "Who is your favorite singer? Where is he/she from?",
+          "What country do you want to visit?"
+        ],
+        "instruction": "Answer the questions aloud. Then ask a partner the same questions."
+      },
+      "writing": {
+        "task_pt": "Escolha 3 pessoas famosas e escreva de onde elas são e a nacionalidade.",
+        "model": "Lionel Messi is from Rosario. He's Argentinian.\nBTS is from Seoul. They're Korean.\nAnitta is from Rio. She's Brazilian.",
+        "task": "Choose 3 famous people and write where they are from and their nationality."
+      },
+      "culture_note": {
+        "title": "American ou from the USA?",
+        "text_pt": "Para quem é dos Estados Unidos, o mais comum é dizer **American**. Na escrita usamos **the USA** ou **the US** — sempre com **the**, assim como **the UK**."
+      },
+      "summary_pt": [
+        "He / she / it + is (he's, she's, it's).",
+        "It = sujeito para coisas e lugares.",
+        "Nacionalidades com letra maiúscula.",
+        "Respostas curtas: Yes, she is. / No, she isn't."
+      ],
+      "listening": {
+        "title": "Language exchange app",
+        "context_pt": "Áudios de apresentação em um app de troca de idiomas.",
+        "lines": [
+          {
+            "speaker": "Hana",
+            "en": "Hello! I'm Hana. I'm from Seoul, South Korea. I'm Korean. Seoul is a big city. I'm a student."
+          },
+          {
+            "speaker": "Diego",
+            "en": "Hi! I'm Diego. I'm not from Spain — I'm from Mexico! I'm Mexican. I'm from Guadalajara."
+          },
+          {
+            "speaker": "Emma",
+            "en": "Hey! I'm Emma. I'm from Dublin. Dublin isn't in the UK — it's in Ireland. I'm Irish."
+          }
+        ],
+        "questions": [
+          {
+            "q": "Where is Hana from?",
+            "answer": "Seoul, South Korea."
+          },
+          {
+            "q": "Is Diego Spanish?",
+            "answer": "No, he isn't. He's Mexican."
+          },
+          {
+            "q": "What city is Diego from?",
+            "answer": "Guadalajara."
+          },
+          {
+            "q": "Is Dublin in the UK?",
+            "answer": "No, it isn't. It's in Ireland."
+          }
+        ]
+      }
+    },
+    {
+      "id": "A1-M4-L3",
+      "title": "Spell it, please",
+      "subtitle_pt": "Alfabeto, números, telefone e e-mail",
+      "duration_min": 50,
+      "source_refs": [
+        "StartUp 1 – Unit 1 (contact information)",
+        "To Go A2 – Lesson 6 (numbers)"
+      ],
+      "objectives": [
+        "Soletrar nomes e palavras",
+        "Contar de 0 a 100",
+        "Dizer número de telefone e e-mail",
+        "Pedir para alguém repetir"
+      ],
+      "warmup": {
+        "text_pt": "Quantas vezes você já teve que soletrar seu nome ou e-mail por telefone? Em inglês, isso é ainda mais comum — e as letras têm nomes bem diferentes!",
+        "questions": [
+          "Can you say the alphabet in English?",
+          "Which letters are difficult for you?"
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "A",
+          "pt": "a",
+          "say": "êi"
+        },
+        {
+          "en": "E",
+          "pt": "e",
+          "say": "í"
+        },
+        {
+          "en": "I",
+          "pt": "i",
+          "say": "ái"
+        },
+        {
+          "en": "G / J",
+          "pt": "g / j",
+          "say": "djí / djêi"
+        },
+        {
+          "en": "R",
+          "pt": "r",
+          "say": "ar"
+        },
+        {
+          "en": "Y",
+          "pt": "y",
+          "say": "uái"
+        },
+        {
+          "en": "W",
+          "pt": "w",
+          "say": "dâbliu"
+        },
+        {
+          "en": "@ (at)",
+          "pt": "arroba",
+          "say": "ét"
+        },
+        {
+          "en": ". (dot)",
+          "pt": "ponto",
+          "say": "dót"
+        },
+        {
+          "en": "_ (underscore)",
+          "pt": "underline",
+          "say": "ândersskór"
+        },
+        {
+          "en": "phone number",
+          "pt": "número de telefone",
+          "say": "fôun nâmber"
+        },
+        {
+          "en": "zero / oh",
+          "pt": "zero",
+          "say": "zírou / ôu"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "How do you spell that?",
+          "pt": "Como se escreve isso?"
+        },
+        {
+          "en": "Can you repeat, please?",
+          "pt": "Pode repetir, por favor?"
+        },
+        {
+          "en": "What's your phone number?",
+          "pt": "Qual é o seu telefone?"
+        },
+        {
+          "en": "What's your email?",
+          "pt": "Qual é o seu e-mail?"
+        },
+        {
+          "en": "Sorry, one more time?",
+          "pt": "Desculpe, mais uma vez?"
+        },
+        {
+          "en": "Double L",
+          "pt": "Dois L (LL)"
+        }
+      ],
+      "grammar": {
+        "title": "Perguntas com What's...? e números",
+        "explanation_pt": "**What's** = **What is** (O que é / Qual é). É a pergunta mais útil para informações pessoais: What's your name? What's your number? What's your email?\n\n**Números 0–100:** de 13 a 19 terminam em **-teen** (thirteen, fourteen...). As dezenas terminam em **-ty** (twenty, thirty...). Para 21–99, junte com hífen: **twenty-one**, **forty-five**.\n\n**Telefone:** fale número por número. O **0** pode ser **zero** ou **oh**. Dois números iguais: **double** (55 = double five).",
+        "table": {
+          "headers": [
+            "Número",
+            "Inglês",
+            "Número",
+            "Inglês"
+          ],
+          "rows": [
+            [
+              "11",
+              "eleven",
+              "20",
+              "twenty"
+            ],
+            [
+              "12",
+              "twelve",
+              "30",
+              "thirty"
+            ],
+            [
+              "13",
+              "thirteen",
+              "40",
+              "forty"
+            ],
+            [
+              "15",
+              "fifteen",
+              "50",
+              "fifty"
+            ],
+            [
+              "18",
+              "eighteen",
+              "80",
+              "eighty"
+            ],
+            [
+              "19",
+              "nineteen",
+              "100",
+              "one hundred"
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "My number is 9 8765-4321: nine, eight, seven, six, five, four, three, two, one.",
+            "pt": "Meu número é 9 8765-4321."
+          },
+          {
+            "en": "My email is ana_lima@mail.com: ana underscore lima at mail dot com.",
+            "pt": "Meu e-mail é ana_lima@mail.com."
+          },
+          {
+            "en": "How do you spell 'Souza'? S-O-U-Z-A.",
+            "pt": "Como se escreve 'Souza'? S-O-U-Z-A."
+          }
+        ],
+        "tip_pt": "Cuidado com **thirteen** (13) x **thirty** (30): em -teen a força vai no final (thir**TEEN**); em -ty, no começo (**THIR**ty)."
+      },
+      "common_mistakes": [
+        {
+          "wrong": "My e-mail is ana arroba mail ponto com.",
+          "right": "ana at mail dot com",
+          "why_pt": "@ = at, . = dot."
+        },
+        {
+          "wrong": "fourty",
+          "right": "forty",
+          "why_pt": "40 não tem U: forty."
+        },
+        {
+          "wrong": "Ler 'E' como 'é' e 'I' como 'i'",
+          "right": "E = /í/, I = /ái/",
+          "why_pt": "As vogais em inglês têm nomes diferentes. É a principal confusão ao soletrar."
+        }
+      ],
+      "pronunciation": {
+        "focus": "As vogais do alfabeto",
+        "tip_pt": "Agrupe as letras pelo som para memorizar: **/êi/** A H J K · **/í/** B C D E G P T V Z · **/é/** F L M N S X · **/ái/** I Y · **/ôu/** O · **/iú/** Q U W · **/ar/** R.",
+        "practice": [
+          "A-H-J-K",
+          "B-C-D-E-G-P-T-V-Z",
+          "F-L-M-N-S-X",
+          "I-Y · O · Q-U-W · R"
+        ]
+      },
+      "dialogue": {
+        "title": "Signing up at the gym",
+        "context_pt": "Bruno faz a matrícula numa academia em Miami e o recepcionista pede os dados.",
+        "lines": [
+          {
+            "speaker": "Receptionist",
+            "en": "Hello! What's your name, please?",
+            "pt": "Olá! Qual é o seu nome, por favor?"
+          },
+          {
+            "speaker": "Bruno",
+            "en": "Bruno Guimarães.",
+            "pt": "Bruno Guimarães."
+          },
+          {
+            "speaker": "Receptionist",
+            "en": "How do you spell your last name?",
+            "pt": "Como se escreve seu sobrenome?"
+          },
+          {
+            "speaker": "Bruno",
+            "en": "G-U-I-M-A-R-A-E-S.",
+            "pt": "G-U-I-M-A-R-A-E-S."
+          },
+          {
+            "speaker": "Receptionist",
+            "en": "Thanks. And what's your phone number?",
+            "pt": "Obrigado. E qual é o seu telefone?"
+          },
+          {
+            "speaker": "Bruno",
+            "en": "It's 305 555 0142.",
+            "pt": "É 305 555 0142."
+          },
+          {
+            "speaker": "Receptionist",
+            "en": "Sorry, can you repeat, please?",
+            "pt": "Desculpe, pode repetir, por favor?"
+          },
+          {
+            "speaker": "Bruno",
+            "en": "Sure. Three-oh-five, triple five, oh-one-four-two.",
+            "pt": "Claro. Três-zero-cinco, cinco-cinco-cinco, zero-um-quatro-dois."
+          },
+          {
+            "speaker": "Receptionist",
+            "en": "Perfect. And your email?",
+            "pt": "Perfeito. E seu e-mail?"
+          },
+          {
+            "speaker": "Bruno",
+            "en": "bruno.g at mail dot com.",
+            "pt": "bruno.g arroba mail ponto com."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Contact card",
+        "text": "NAME: Larissa Costa · AGE: 27 · CITY: Belo Horizonte · PHONE: +55 31 99812-4470 · EMAIL: lari.costa@mail.com · INSTAGRAM: @laricosta_bh",
+        "questions": [
+          {
+            "q": "What's her last name?",
+            "answer": "Costa."
+          },
+          {
+            "q": "How old is she?",
+            "answer": "She's 27 (twenty-seven)."
+          },
+          {
+            "q": "Say her email in English.",
+            "answer": "lari dot costa at mail dot com"
+          },
+          {
+            "q": "Say her Instagram in English.",
+            "answer": "at lari costa underscore b h"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "answer",
+          "title": "Escreva os números",
+          "instruction_pt": "Escreva os números por extenso em inglês.",
+          "items": [
+            {
+              "prompt": "14",
+              "answer": "fourteen"
+            },
+            {
+              "prompt": "40",
+              "answer": "forty"
+            },
+            {
+              "prompt": "27",
+              "answer": "twenty-seven"
+            },
+            {
+              "prompt": "63",
+              "answer": "sixty-three"
+            },
+            {
+              "prompt": "100",
+              "answer": "one hundred"
+            }
+          ],
+          "instruction": "Write the numbers in words."
+        },
+        {
+          "id": "ex2",
+          "type": "multiple_choice",
+          "title": "Qual letra?",
+          "instruction_pt": "Qual letra tem este som?",
+          "items": [
+            {
+              "prompt": "/í/",
+              "options": [
+                "I",
+                "E",
+                "A"
+              ],
+              "answer": "E"
+            },
+            {
+              "prompt": "/ái/",
+              "options": [
+                "I",
+                "E",
+                "Y"
+              ],
+              "answer": "I"
+            },
+            {
+              "prompt": "/êi/",
+              "options": [
+                "E",
+                "A",
+                "I"
+              ],
+              "answer": "A"
+            },
+            {
+              "prompt": "/djí/",
+              "options": [
+                "J",
+                "G",
+                "Z"
+              ],
+              "answer": "G"
+            }
+          ],
+          "instruction": "Which letter has this sound?"
+        },
+        {
+          "id": "ex3",
+          "type": "fill_blank",
+          "title": "Complete o diálogo",
+          "instruction_pt": "Complete com: spell / repeat / what's / at.",
+          "items": [
+            {
+              "prompt": "___ your email?",
+              "answer": "What's"
+            },
+            {
+              "prompt": "It's joao ___ mail dot com.",
+              "answer": "at"
+            },
+            {
+              "prompt": "Can you ___, please?",
+              "answer": "repeat"
+            },
+            {
+              "prompt": "How do you ___ your name?",
+              "answer": "spell"
+            }
+          ],
+          "instruction": "Complete with: spell / repeat / what's / at."
+        },
+        {
+          "id": "ex4",
+          "type": "dictation",
+          "title": "Dictation: spelling and numbers",
+          "instruction": "Listen and write the word, number or email.",
+          "instruction_pt": "Ouça e escreva a palavra, número ou e-mail.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "J-E-S-S-I-C-A"
+            },
+            {
+              "prompt": "2",
+              "answer": "forty-seven (47)"
+            },
+            {
+              "prompt": "3",
+              "answer": "thirteen (13)"
+            },
+            {
+              "prompt": "4",
+              "answer": "pedro_lima@mail.com"
+            }
+          ]
+        },
+        {
+          "id": "ex5",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the mistake.",
+          "instruction_pt": "Encontre e corrija o erro.",
+          "items": [
+            {
+              "prompt": "fourty",
+              "answer": "forty"
+            },
+            {
+              "prompt": "How do you spell that? — Is S-I-L-V-A.",
+              "answer": "It's S-I-L-V-A."
+            },
+            {
+              "prompt": "My email is ana arroba mail ponto com.",
+              "answer": "My email is ana at mail dot com."
+            },
+            {
+              "prompt": "Can you repeat, for favor?",
+              "answer": "Can you repeat, please?"
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "fill_blank",
+          "title": "Complete the dialogue",
+          "instruction": "Complete with: spell · number · repeat · dot · at.",
+          "instruction_pt": "Complete o diálogo.",
+          "items": [
+            {
+              "prompt": "A: What's your phone ___?",
+              "answer": "number"
+            },
+            {
+              "prompt": "A: Sorry, can you ___, please?",
+              "answer": "repeat"
+            },
+            {
+              "prompt": "A: How do you ___ your name?",
+              "answer": "spell"
+            },
+            {
+              "prompt": "B: My email is leo ___ mail ___ com.",
+              "answer": "at / dot"
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction_pt": "Em dupla: um faz as perguntas e anota as respostas; depois troquem. No app, grave suas respostas.",
+        "questions": [
+          "What's your full name?",
+          "How do you spell your last name?",
+          "What's your phone number? (pode inventar)",
+          "What's your email? (pode inventar)",
+          "How old is your best friend?"
+        ],
+        "instruction": "In pairs: one person asks the questions and writes the answers; then change. In the app, record your answers."
+      },
+      "writing": {
+        "task_pt": "Crie o seu cartão de contato (pode usar dados fictícios) com nome, idade, cidade, telefone, e-mail e rede social.",
+        "model": "NAME: Diego Alves\nAGE: 35\nCITY: Porto Alegre\nPHONE: 51 98123-0099\nEMAIL: diego.alves@mail.com",
+        "task": "Create your contact card (you can use fictional information) with name, age, city, phone, email and social media."
+      },
+      "culture_note": {
+        "title": "Zero ou oh?",
+        "text_pt": "Em números de telefone, quartos de hotel e anos, americanos e britânicos costumam dizer **oh** para o zero: room 405 = \"four-oh-five\". Em matemática e temperatura, use **zero**."
+      },
+      "summary_pt": [
+        "What's = What is.",
+        "13–19: -teen / 20, 30...: -ty.",
+        "@ = at, . = dot, _ = underscore.",
+        "Can you repeat, please? salva qualquer conversa!"
+      ],
+      "listening": {
+        "title": "Hotel check-in",
+        "context_pt": "Uma hóspede faz check-in e a recepcionista confirma os dados.",
+        "lines": [
+          {
+            "speaker": "Receptionist",
+            "en": "Good evening. What's your last name, please?"
+          },
+          {
+            "speaker": "Guest",
+            "en": "Fagundes. F-A-G-U-N-D-E-S."
+          },
+          {
+            "speaker": "Receptionist",
+            "en": "Thank you, Ms. Fagundes. What's your phone number?"
+          },
+          {
+            "speaker": "Guest",
+            "en": "It's five-five, one-one, nine-eight-seven, six-four, three-two-one-oh."
+          },
+          {
+            "speaker": "Receptionist",
+            "en": "And your email?"
+          },
+          {
+            "speaker": "Guest",
+            "en": "It's carla dot f at mail dot com."
+          },
+          {
+            "speaker": "Receptionist",
+            "en": "Perfect. Your room is four-oh-eight, on the fourth floor."
+          }
+        ],
+        "questions": [
+          {
+            "q": "How do you spell her last name?",
+            "answer": "F-A-G-U-N-D-E-S."
+          },
+          {
+            "q": "What's her email?",
+            "answer": "carla.f@mail.com"
+          },
+          {
+            "q": "What's her room number?",
+            "answer": "408."
+          },
+          {
+            "q": "What floor is the room on?",
+            "answer": "The fourth floor."
+          }
+        ]
+      }
+    },
+    {
+      "id": "A1-M4-L4",
+      "title": "My profile",
+      "subtitle_pt": "Verb to be completo e possessive adjectives",
+      "duration_min": 55,
+      "source_refs": [
+        "To Go A2 – Lesson 3 (to be we/you/they)",
+        "StartUp 1 – Unit 1-2"
+      ],
+      "objectives": [
+        "Usar o verbo to be com todas as pessoas",
+        "Usar my, your, his, her, our, their",
+        "Apresentar outras pessoas",
+        "Criar um perfil pessoal"
+      ],
+      "warmup": {
+        "text_pt": "Pense nos perfis que você tem: LinkedIn, Instagram, apps de transporte... Que informações você coloca neles?",
+        "questions": [
+          "What apps do you use every day?",
+          "Is your profile public or private?"
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "first name",
+          "pt": "primeiro nome",
+          "say": "fêrst nêim"
+        },
+        {
+          "en": "last name / surname",
+          "pt": "sobrenome",
+          "say": "lést nêim / sârnêim"
+        },
+        {
+          "en": "age",
+          "pt": "idade",
+          "say": "êidj"
+        },
+        {
+          "en": "job",
+          "pt": "profissão / emprego",
+          "say": "djób"
+        },
+        {
+          "en": "married",
+          "pt": "casado(a)",
+          "say": "méríd"
+        },
+        {
+          "en": "single",
+          "pt": "solteiro(a)",
+          "say": "síngol"
+        },
+        {
+          "en": "classmate",
+          "pt": "colega de turma",
+          "say": "klésmêit"
+        },
+        {
+          "en": "coworker",
+          "pt": "colega de trabalho",
+          "say": "kôuuôrker"
+        },
+        {
+          "en": "favorite",
+          "pt": "favorito(a)",
+          "say": "fêivorit"
+        },
+        {
+          "en": "about me",
+          "pt": "sobre mim",
+          "say": "abáut mí"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "This is my friend, Lucas.",
+          "pt": "Este é meu amigo, Lucas."
+        },
+        {
+          "en": "We're classmates.",
+          "pt": "Nós somos colegas de turma."
+        },
+        {
+          "en": "They're from Fortaleza.",
+          "pt": "Eles são de Fortaleza."
+        },
+        {
+          "en": "Her name is Bia.",
+          "pt": "O nome dela é Bia."
+        },
+        {
+          "en": "What's his job?",
+          "pt": "Qual é a profissão dele?"
+        }
+      ],
+      "grammar": {
+        "title": "To be completo + possessive adjectives",
+        "explanation_pt": "Agora o verbo to be completo. **We** (nós), **you** (vocês) e **they** (eles/elas) usam **are**.\n\nOs **possessive adjectives** mostram de quem é algo. Diferente do português, eles **concordam com o dono**, não com a coisa: \"**his** sister\" (a irmã **dele**), \"**her** brother\" (o irmão **dela**).",
+        "table": {
+          "headers": [
+            "Pronome",
+            "To be",
+            "Possessivo",
+            "Exemplo"
+          ],
+          "rows": [
+            [
+              "I",
+              "am ('m)",
+              "my",
+              "My name is Ana."
+            ],
+            [
+              "you",
+              "are ('re)",
+              "your",
+              "Your phone is new."
+            ],
+            [
+              "he",
+              "is ('s)",
+              "his",
+              "His name is Leo."
+            ],
+            [
+              "she",
+              "is ('s)",
+              "her",
+              "Her job is cool."
+            ],
+            [
+              "it",
+              "is ('s)",
+              "its",
+              "Its color is blue."
+            ],
+            [
+              "we",
+              "are ('re)",
+              "our",
+              "Our class is fun."
+            ],
+            [
+              "they",
+              "are ('re)",
+              "their",
+              "Their city is big."
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "We're from Goiânia. Our city is hot!",
+            "pt": "Nós somos de Goiânia. Nossa cidade é quente!"
+          },
+          {
+            "en": "They aren't married. They're single.",
+            "pt": "Eles não são casados. São solteiros."
+          },
+          {
+            "en": "This is Paula. Her husband is Chilean.",
+            "pt": "Esta é a Paula. O marido dela é chileno."
+          }
+        ],
+        "tip_pt": "**You** serve para \"você\" e \"vocês\". O contexto mostra qual é."
+      },
+      "common_mistakes": [
+        {
+          "wrong": "Her husband is name John.",
+          "right": "Her husband's name is John.",
+          "why_pt": "\"O nome do marido dela\" = her husband's name. O 's indica posse."
+        },
+        {
+          "wrong": "Maria and his husband.",
+          "right": "Maria and her husband.",
+          "why_pt": "His = dele, her = dela. O possessivo concorda com o dono (Maria), não com a coisa (husband)."
+        },
+        {
+          "wrong": "They is my friends.",
+          "right": "They are my friends.",
+          "why_pt": "They sempre usa are."
+        }
+      ],
+      "pronunciation": {
+        "focus": "Contrações rápidas",
+        "tip_pt": "Na fala natural, as contrações se juntam à próxima palavra: **we're from** = \"uír from\", **they're my** = \"dér mái\". Their, they're e there têm o **mesmo som**: \"dér\".",
+        "practice": [
+          "We're from Brazil.",
+          "They're my coworkers.",
+          "Their office is there."
+        ]
+      },
+      "dialogue": {
+        "title": "Video call introductions",
+        "context_pt": "Na primeira aula online, a professora pede que os alunos apresentem um colega.",
+        "lines": [
+          {
+            "speaker": "Teacher",
+            "en": "OK, Carol. Please introduce your partner.",
+            "pt": "OK, Carol. Por favor, apresente seu colega."
+          },
+          {
+            "speaker": "Carol",
+            "en": "This is Igor. He's from Belém and he's 24.",
+            "pt": "Este é o Igor. Ele é de Belém e tem 24 anos."
+          },
+          {
+            "speaker": "Teacher",
+            "en": "Nice! What's his job?",
+            "pt": "Legal! Qual é a profissão dele?"
+          },
+          {
+            "speaker": "Carol",
+            "en": "He's a software developer. His company is in Canada!",
+            "pt": "Ele é desenvolvedor. A empresa dele é no Canadá!"
+          },
+          {
+            "speaker": "Igor",
+            "en": "And this is Carol. She's a teacher, too. We're classmates and coworkers!",
+            "pt": "E esta é a Carol. Ela também é professora. Somos colegas de turma e de trabalho!"
+          },
+          {
+            "speaker": "Teacher",
+            "en": "Wow! Are you from the same city?",
+            "pt": "Uau! Vocês são da mesma cidade?"
+          },
+          {
+            "speaker": "Carol",
+            "en": "No, we aren't. But our families are friends.",
+            "pt": "Não. Mas nossas famílias são amigas."
+          }
+        ]
+      },
+      "reading": {
+        "title": "About me",
+        "text": "Hi! I'm Bianca, but my friends call me Bia. I'm 29 and I'm a physiotherapist. I'm married. My husband's name is Thiago. He's a chef. We're from Florianópolis, but now we're in Dublin, Ireland. Our apartment is small, but it's cozy. My parents are in Brazil. They're retired. My favorite app? Duolingo, of course! 😉",
+        "questions": [
+          {
+            "q": "What's her nickname?",
+            "answer": "Bia."
+          },
+          {
+            "q": "What's her husband's job?",
+            "answer": "He's a chef."
+          },
+          {
+            "q": "Where are they now?",
+            "answer": "They're in Dublin, Ireland."
+          },
+          {
+            "q": "Are her parents in Ireland?",
+            "answer": "No, they aren't. They're in Brazil."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "fill_blank",
+          "title": "Possessive adjectives",
+          "instruction_pt": "Complete com my, your, his, her, our ou their.",
+          "items": [
+            {
+              "prompt": "I'm Rita. ___ last name is Souza.",
+              "answer": "My"
+            },
+            {
+              "prompt": "This is Pedro. ___ wife is a doctor.",
+              "answer": "His"
+            },
+            {
+              "prompt": "Marta is here with ___ son.",
+              "answer": "her"
+            },
+            {
+              "prompt": "We're students. ___ teacher is great.",
+              "answer": "Our"
+            },
+            {
+              "prompt": "They're from Peru. ___ city is Lima.",
+              "answer": "Their"
+            }
+          ],
+          "instruction": "Complete with my, your, his, her, our or their."
+        },
+        {
+          "id": "ex2",
+          "type": "multiple_choice",
+          "title": "Verb to be",
+          "instruction_pt": "Escolha a forma correta.",
+          "items": [
+            {
+              "prompt": "We ___ coworkers.",
+              "options": [
+                "is",
+                "are",
+                "am"
+              ],
+              "answer": "are"
+            },
+            {
+              "prompt": "They ___ married.",
+              "options": [
+                "isn't",
+                "aren't",
+                "am not"
+              ],
+              "answer": "aren't"
+            },
+            {
+              "prompt": "___ your parents from Recife?",
+              "options": [
+                "Is",
+                "Are",
+                "Am"
+              ],
+              "answer": "Are"
+            },
+            {
+              "prompt": "My sister ___ single.",
+              "options": [
+                "is",
+                "are",
+                "am"
+              ],
+              "answer": "is"
+            }
+          ],
+          "instruction": "Choose the correct form."
+        },
+        {
+          "id": "ex3",
+          "type": "translate",
+          "title": "Traduza",
+          "instruction_pt": "Traduza para o inglês.",
+          "items": [
+            {
+              "prompt": "Nós somos de Natal.",
+              "answer": "We're from Natal."
+            },
+            {
+              "prompt": "O nome dela é Laura.",
+              "answer": "Her name is Laura."
+            },
+            {
+              "prompt": "Eles não são casados.",
+              "answer": "They aren't married."
+            },
+            {
+              "prompt": "A empresa dele é grande.",
+              "answer": "His company is big."
+            }
+          ],
+          "instruction": "Translate into English."
+        },
+        {
+          "id": "ex4",
+          "type": "dictation",
+          "title": "Dictation",
+          "instruction": "Listen and write the sentence.",
+          "instruction_pt": "Ouça e escreva a frase.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "We're classmates."
+            },
+            {
+              "prompt": "2",
+              "answer": "Her name is Bia."
+            },
+            {
+              "prompt": "3",
+              "answer": "They're from Fortaleza."
+            },
+            {
+              "prompt": "4",
+              "answer": "Their apartment is small."
+            }
+          ]
+        },
+        {
+          "id": "ex5",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the mistake.",
+          "instruction_pt": "Encontre e corrija o erro.",
+          "items": [
+            {
+              "prompt": "They is my friends.",
+              "answer": "They are my friends."
+            },
+            {
+              "prompt": "Maria and his husband are here.",
+              "answer": "Maria and her husband are here."
+            },
+            {
+              "prompt": "Lucas and her wife are from Rio.",
+              "answer": "Lucas and his wife are from Rio."
+            },
+            {
+              "prompt": "We is married.",
+              "answer": "We are married."
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "fill_blank",
+          "title": "Complete the text",
+          "instruction": "Complete with: our · their · his · her · are.",
+          "instruction_pt": "Complete o texto.",
+          "items": [
+            {
+              "prompt": "This is Rui. ___ wife is Ana.",
+              "answer": "His"
+            },
+            {
+              "prompt": "Ana is a doctor. ___ hospital is downtown.",
+              "answer": "Her"
+            },
+            {
+              "prompt": "They ___ my neighbors. ___ dog is very cute.",
+              "answer": "are / Their"
+            },
+            {
+              "prompt": "We love ___ neighborhood.",
+              "answer": "our"
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction_pt": "Apresente-se e apresente uma pessoa importante para você (amigo, parceiro, familiar).",
+        "questions": [
+          "Tell me about you: name, age, city, job.",
+          "Are you married or single?",
+          "Who is your best friend? What's his/her name?",
+          "Where are your parents from?",
+          "What's your favorite app?"
+        ],
+        "instruction": "Introduce yourself and introduce an important person in your life (friend, partner, family member)."
+      },
+      "writing": {
+        "task_pt": "Escreva a seção \"About me\" do seu perfil (5 a 6 frases). Inclua uma pessoa da sua vida usando his/her.",
+        "model": "Hi! I'm Rodrigo. I'm 41 and I'm an accountant.\nI'm from Campinas. I'm married. My wife's name is Juliana.\nShe's a lawyer. Our kids are 8 and 10.\nMy favorite app is Spotify!",
+        "task": "Write the \"About me\" section of your profile (5 to 6 sentences). Include a person from your life using his/her."
+      },
+      "culture_note": {
+        "title": "First name x last name",
+        "text_pt": "Em formulários internacionais, **first name** é o primeiro nome e **last name/surname** é o último sobrenome. Brasileiros com vários sobrenomes costumam escolher o último (ex.: Ana Paula Souza **Lima** → last name: Lima). Em nomes portugueses, isso pode confundir o sistema — vale conferir!"
+      },
+      "summary_pt": [
+        "We / you / they + are.",
+        "my, your, his, her, its, our, their.",
+        "His = dele, her = dela (concorda com o dono).",
+        "Their / they're / there têm o mesmo som."
+      ],
+      "listening": {
+        "title": "Introducing the team",
+        "context_pt": "Uma gerente apresenta a equipe em uma reunião online.",
+        "lines": [
+          {
+            "speaker": "Manager",
+            "en": "Welcome, everyone! Let me introduce our team. This is Julio. His job is sales, and he's from Bogotá. These are Priya and Sam. They're developers. Their office is in London. And this is Fernanda. Her son is our youngest customer — he's eight! We're a small team, but our clients are all over the world."
+          }
+        ],
+        "questions": [
+          {
+            "q": "Where is Julio from?",
+            "answer": "Bogotá."
+          },
+          {
+            "q": "What are Priya and Sam's jobs?",
+            "answer": "They're developers."
+          },
+          {
+            "q": "Where is their office?",
+            "answer": "In London."
+          },
+          {
+            "q": "How old is Fernanda's son?",
+            "answer": "He's eight."
+          }
+        ]
+      }
+    }
+  ],
+  "review": {
+    "intro_pt": "Revise tudo do módulo 4 antes de seguir para o módulo 5.",
+    "exercises": [
+      {
+        "id": "r1",
+        "type": "multiple_choice",
+        "title": "To be",
+        "instruction_pt": "Escolha a opção correta.",
+        "items": [
+          {
+            "prompt": "My parents ___ from Bahia.",
+            "options": [
+              "is",
+              "are",
+              "am"
+            ],
+            "answer": "are"
+          },
+          {
+            "prompt": "___ she Canadian?",
+            "options": [
+              "Are",
+              "Is",
+              "Do"
+            ],
+            "answer": "Is"
+          },
+          {
+            "prompt": "I ___ 30 years old.",
+            "options": [
+              "have",
+              "am",
+              "is"
+            ],
+            "answer": "am"
+          },
+          {
+            "prompt": "It ___ a big city.",
+            "options": [
+              "is",
+              "are",
+              "—"
+            ],
+            "answer": "is"
+          },
+          {
+            "prompt": "Is Pedro your brother? Yes, he ___.",
+            "options": [
+              "is",
+              "'s",
+              "are"
+            ],
+            "answer": "is"
+          }
+        ],
+        "instruction": "Choose the correct option."
+      },
+      {
+        "id": "r2",
+        "type": "fill_blank",
+        "title": "Possessivos",
+        "instruction_pt": "Complete com o possessive adjective correto.",
+        "items": [
+          {
+            "prompt": "Lucas and ___ wife are from Recife.",
+            "answer": "his"
+          },
+          {
+            "prompt": "Ana and ___ brother are students.",
+            "answer": "her"
+          },
+          {
+            "prompt": "We love ___ new apartment.",
+            "answer": "our"
+          },
+          {
+            "prompt": "What's ___ name? (perguntando a alguém)",
+            "answer": "your"
+          }
+        ],
+        "instruction": "Complete with the correct possessive adjective."
+      },
+      {
+        "id": "r3",
+        "type": "answer",
+        "title": "Escreva por extenso",
+        "instruction_pt": "Escreva em inglês como você falaria.",
+        "items": [
+          {
+            "prompt": "45",
+            "answer": "forty-five"
+          },
+          {
+            "prompt": "19",
+            "answer": "nineteen"
+          },
+          {
+            "prompt": "maria.silva@mail.com",
+            "answer": "maria dot silva at mail dot com"
+          },
+          {
+            "prompt": "Boa noite! (chegando numa festa)",
+            "answer": "Good evening! / Hi!"
+          }
+        ],
+        "instruction": "Write it in English the way you say it."
+      },
+      {
+        "id": "r4",
+        "type": "translate",
+        "title": "Traduza",
+        "instruction_pt": "Traduza para o inglês.",
+        "items": [
+          {
+            "prompt": "De onde você é?",
+            "answer": "Where are you from?"
+          },
+          {
+            "prompt": "Ela não é japonesa. Ela é chinesa.",
+            "answer": "She isn't Japanese. She's Chinese."
+          },
+          {
+            "prompt": "Como se escreve seu sobrenome?",
+            "answer": "How do you spell your last name?"
+          },
+          {
+            "prompt": "Nós somos colegas de trabalho.",
+            "answer": "We're coworkers."
+          }
+        ],
+        "instruction": "Translate into English."
+      },
+      {
+        "id": "r5",
+        "type": "dictation",
+        "title": "Dictation",
+        "instruction": "Listen and write the sentence.",
+        "instruction_pt": "Ouça e escreva a frase.",
+        "items": [
+          {
+            "prompt": "1",
+            "answer": "My parents are from Bahia."
+          },
+          {
+            "prompt": "2",
+            "answer": "How do you spell your last name?"
+          },
+          {
+            "prompt": "3",
+            "answer": "She isn't Japanese."
+          }
+        ]
+      },
+      {
+        "id": "r6",
+        "type": "correct_error",
+        "title": "Fix the mistake",
+        "instruction": "Find and correct the mistake.",
+        "instruction_pt": "Encontre e corrija o erro.",
+        "items": [
+          {
+            "prompt": "I have 25 years.",
+            "answer": "I'm 25."
+          },
+          {
+            "prompt": "Is a big country.",
+            "answer": "It's a big country."
+          },
+          {
+            "prompt": "They is from Peru.",
+            "answer": "They are from Peru."
+          }
+        ]
+      }
+    ],
+    "speaking_pt": "Grave um vídeo de 1 minuto respondendo às perguntas abaixo, sem ler.",
+    "speaking_questions": [
+      "What's your name? How do you spell it?",
+      "Where are you from? Is it a big city?",
+      "How old are you?",
+      "Who is your best friend? Where is he/she from?",
+      "What's your email? (pode inventar)"
+    ],
+    "project_pt": "**My profile video:** grave um vídeo curto se apresentando como se fosse para um novo grupo de trabalho internacional: nome, cidade, país, profissão e uma pessoa importante para você."
+  }
+}

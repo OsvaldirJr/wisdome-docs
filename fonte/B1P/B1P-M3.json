@@ -1,0 +1,2137 @@
+{
+  "id": "B1P-M3",
+  "level": "B1+",
+  "title": "Marketing and Communication",
+  "theme_pt": "Marcas, publicidade, opiniões, divulgação científica e networking",
+  "can_do": [
+    "Usar artigos (a, an, the, sem artigo) com precisão em textos e apresentações",
+    "Descrever produtos e pessoas com relative clauses (who, which, that, whose, where)",
+    "Escolher a forma de futuro adequada (will, going to, present continuous, present simple)",
+    "Explicar ideias complexas de forma simples para um público leigo",
+    "Iniciar e manter conversas de networking em eventos profissionais"
+  ],
+  "lessons": [
+    {
+      "id": "B1P-M3-L1",
+      "title": "Your brand online",
+      "subtitle_pt": "Artigos: a / an / the / zero article",
+      "duration_min": 65,
+      "source_refs": [
+        "Keynote Intermediate – Unit 5.1 (3 ways to (usefully) lose control of your brand)",
+        "Keynote Intermediate – Grammar summary (articles)"
+      ],
+      "objectives": [
+        "Usar a/an para primeira menção e the para algo já conhecido ou único",
+        "Saber quando não usar artigo (generalizações, plurais, incontáveis)",
+        "Usar the com superlativos, instrumentos, nomes de países específicos",
+        "Discutir marcas, reputação online e marketing de influência"
+      ],
+      "warmup": {
+        "text_pt": "Pense numa marca que você ama e numa que você evita. Por quê? Hoje as marcas não controlam mais totalmente o que se diz sobre elas — os clientes também constroem a reputação.",
+        "questions": [
+          "Which brand do you trust the most? Why?",
+          "Have you ever posted a review about a company?"
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "brand / branding",
+          "pt": "marca / construção de marca",
+          "say": "brénd / bréndin"
+        },
+        {
+          "en": "reputation",
+          "pt": "reputação",
+          "say": "repiutêishon"
+        },
+        {
+          "en": "target audience",
+          "pt": "público-alvo",
+          "say": "tárguet ódiens"
+        },
+        {
+          "en": "campaign",
+          "pt": "campanha",
+          "say": "kempêin"
+        },
+        {
+          "en": "word of mouth",
+          "pt": "boca a boca",
+          "say": "uârd ov máuθ"
+        },
+        {
+          "en": "user-generated content",
+          "pt": "conteúdo gerado pelo usuário",
+          "say": "iúzer djénereitid kóntent"
+        },
+        {
+          "en": "engagement",
+          "pt": "engajamento",
+          "say": "inguêidjment"
+        },
+        {
+          "en": "to go wrong / to backfire",
+          "pt": "dar errado / sair pela culatra",
+          "say": "tu gôu róng / tu békfaier"
+        },
+        {
+          "en": "authentic / authenticity",
+          "pt": "autêntico / autenticidade",
+          "say": "oθéntik / oθentísiti"
+        },
+        {
+          "en": "loyal customers / loyalty",
+          "pt": "clientes fiéis / fidelidade",
+          "say": "lóial kâstomerz"
+        },
+        {
+          "en": "a slogan / a logo",
+          "pt": "um slogan / um logotipo",
+          "say": "a slôugan / a lôugou"
+        },
+        {
+          "en": "to lose control of",
+          "pt": "perder o controle de",
+          "say": "tu lúz kontrôul ov"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "The brand has a great reputation.",
+          "pt": "A marca tem uma ótima reputação."
+        },
+        {
+          "en": "Customers trust other customers more than ads.",
+          "pt": "Clientes confiam mais em outros clientes do que em anúncios."
+        },
+        {
+          "en": "The campaign backfired.",
+          "pt": "A campanha saiu pela culatra."
+        },
+        {
+          "en": "Who's the target audience?",
+          "pt": "Quem é o público-alvo?"
+        },
+        {
+          "en": "It went viral for the wrong reasons.",
+          "pt": "Viralizou pelos motivos errados."
+        },
+        {
+          "en": "Authenticity is the new currency.",
+          "pt": "Autenticidade é a nova moeda."
+        }
+      ],
+      "grammar": {
+        "title": "Articles",
+        "explanation_pt": "Artigos são um dos maiores desafios para brasileiros, porque em português usamos \"o/a\" muito mais.\n\n**A / an** → algo **não específico** ou mencionado pela **primeira vez**; profissões:\n- \"They launched **a** new campaign.\" / \"She's **an** influencer.\"\n\n**The** → algo **específico**, **já mencionado**, **único** ou que todos sabem qual é:\n- \"They launched a new campaign. **The** campaign was a disaster.\" (já mencionada)\n- \"**The** CEO of the company...\" (só há um)\n- \"**The** internet / **the** environment / **the** world\"\n- superlativos: \"**the** best brand\"; ordinais: \"**the** first ad\"\n- instrumentos musicais: \"play **the** guitar\"\n- países com plural/União: **the** USA, **the** UK, **the** Netherlands\n\n**Zero article (sem artigo)** → **generalizações** com plurais e incontáveis — aqui o português usa artigo, o inglês **não**:\n- \"**Customers** trust **reviews**.\" (os clientes em geral) ❌ \"The customers trust the reviews\"\n- \"**Marketing** is changing.\" / \"**Social media** is powerful.\" / \"I love **coffee**.\"\n- nomes de pessoas, cidades, a maioria dos países, idiomas, refeições, esportes: \"**Brazil**\", \"**English**\", \"have **lunch**\", \"play **soccer**\"\n- go to **work / school / bed / church** (função), at **home**\n\n**Teste rápido:** a frase fala de **algo em geral** ou de **algo específico**? Geral → sem artigo. Específico → the.",
+        "table": {
+          "headers": [
+            "Uso",
+            "Exemplo"
+          ],
+          "rows": [
+            [
+              "a/an: primeira menção",
+              "There's a new coffee shop near my house."
+            ],
+            [
+              "the: já mencionado",
+              "The coffee shop has great reviews."
+            ],
+            [
+              "the: único / específico",
+              "The CEO of Nike / the internet"
+            ],
+            [
+              "zero: generalização (plural)",
+              "People trust recommendations."
+            ],
+            [
+              "zero: generalização (incontável)",
+              "Advertising is everywhere."
+            ],
+            [
+              "the: generalização específica",
+              "The people in my office love this brand."
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "Brands can't control what people say about them on social media.",
+            "pt": "As marcas não controlam o que as pessoas dizem sobre elas nas redes sociais."
+          },
+          {
+            "en": "The brands that listen to their customers usually grow faster.",
+            "pt": "As marcas que ouvem seus clientes geralmente crescem mais rápido."
+          },
+          {
+            "en": "She's a marketing manager at an airline in the UK.",
+            "pt": "Ela é gerente de marketing numa companhia aérea no Reino Unido."
+          }
+        ],
+        "tip_pt": "Repare no segundo exemplo: **\"The brands that listen...\"** leva *the* porque não são todas as marcas, mas um grupo **específico** (as que ouvem os clientes)."
+      },
+      "common_mistakes": [
+        {
+          "wrong": "The people love the social media.",
+          "right": "People love social media.",
+          "why_pt": "Generalizações não levam artigo em inglês."
+        },
+        {
+          "wrong": "She is marketing manager.",
+          "right": "She is a marketing manager.",
+          "why_pt": "Profissão no singular leva a/an."
+        },
+        {
+          "wrong": "I live in the Brazil and I speak the Portuguese.",
+          "right": "I live in Brazil and I speak Portuguese.",
+          "why_pt": "A maioria dos países e todos os idiomas: sem artigo."
+        }
+      ],
+      "pronunciation": {
+        "focus": "The: \"dâ\" ou \"dí\"",
+        "tip_pt": "**The** tem dois sons: \"**dâ**\" antes de som de consoante (the brand, the campaign) e \"**dí**\" antes de som de vogal (the internet, the end, the hour). E **a** é quase sempre fraco: \"â\".",
+        "practice": [
+          "the brand · the campaign · the logo",
+          "the internet · the end · the only one",
+          "It's a brand with an amazing logo."
+        ]
+      },
+      "dialogue": {
+        "title": "A marketing crisis",
+        "context_pt": "Uma equipe de marketing discute uma crise nas redes sociais.",
+        "lines": [
+          {
+            "speaker": "Laura",
+            "en": "Have you seen the comments? A customer posted a video of our delivery driver throwing a package over a gate.",
+            "pt": "Vocês viram os comentários? Um cliente postou um vídeo do nosso entregador jogando um pacote por cima do portão."
+          },
+          {
+            "speaker": "Theo",
+            "en": "I saw it. The video has two million views. People are angry.",
+            "pt": "Vi. O vídeo tem dois milhões de visualizações. As pessoas estão bravas."
+          },
+          {
+            "speaker": "Laura",
+            "en": "We need to respond today. Silence is the worst strategy on the internet.",
+            "pt": "Precisamos responder hoje. Silêncio é a pior estratégia na internet."
+          },
+          {
+            "speaker": "Theo",
+            "en": "Should the CEO make a statement?",
+            "pt": "O CEO deveria fazer um pronunciamento?"
+          },
+          {
+            "speaker": "Laura",
+            "en": "I think a short video from the head of operations would be more authentic. Customers want honesty, not a press release.",
+            "pt": "Acho que um vídeo curto do diretor de operações seria mais autêntico. Os clientes querem honestidade, não um comunicado de imprensa."
+          },
+          {
+            "speaker": "Theo",
+            "en": "And the customer who posted it?",
+            "pt": "E o cliente que postou?"
+          },
+          {
+            "speaker": "Laura",
+            "en": "We'll contact her privately, apologize and replace the product. If we handle this well, the story could even improve our reputation.",
+            "pt": "Vamos entrar em contato com ela no privado, pedir desculpas e trocar o produto. Se lidarmos bem com isso, a história pode até melhorar nossa reputação."
+          }
+        ]
+      },
+      "listening": {
+        "title": "The power of reviews",
+        "context_pt": "Uma especialista em marketing digital fala num podcast sobre avaliações online.",
+        "lines": [
+          {
+            "speaker": "Expert",
+            "en": "Today, the first thing most people do before buying a product is read reviews. Many consumers say they trust online reviews almost as much as personal recommendations. That's a big change. In the past, brands controlled the message through advertising. Now, customers write the story. A single negative review that goes viral can damage a reputation built over decades. But there's good news too: the brands that respond to reviews — especially negative ones — usually earn more trust. A polite, honest reply shows that there are real people behind the logo."
+          }
+        ],
+        "questions": [
+          {
+            "q": "What's the first thing most people do before buying a product?",
+            "answer": "Read reviews."
+          },
+          {
+            "q": "How did brands control the message in the past?",
+            "answer": "Through advertising."
+          },
+          {
+            "q": "What can a single viral negative review do?",
+            "answer": "Damage a reputation built over decades."
+          },
+          {
+            "q": "What do brands that respond to reviews earn?",
+            "answer": "More trust."
+          }
+        ]
+      },
+      "video": {
+        "title": "3 ways to (usefully) lose control of your brand",
+        "speaker": "Tim Leberecht",
+        "url": "https://www.ted.com/search?q=3+ways+to+usefully+lose+control+of+your+brand",
+        "playlist": "https://www.youtube.com/watch?v=sAQfzHBpRsc&list=PLdIk6oC5e9pYKMTeYKp9dEOSeoNEEJ0BJ",
+        "task_pt": "Assista à palestra e anote as três ideias principais. Depois responda — preste atenção aos artigos nas suas respostas!",
+        "questions": [
+          "What are the speaker's three ideas, in your own words?",
+          "Why might losing control be good for a brand?",
+          "Can you think of a brand that let its customers shape its image?",
+          "Would this approach work for a bank or a hospital? Why or why not?"
+        ]
+      },
+      "reading": {
+        "title": "From influencers to \"de-influencers\"",
+        "text": "For more than a decade, influencer marketing has been one of the fastest-growing areas of advertising. Brands pay creators — from celebrities with millions of followers to \"micro-influencers\" with just a few thousand — to recommend their products. The logic is simple: people trust people more than they trust ads. But audiences have become more skeptical. Many followers now know that a glowing review may be a paid partnership, and regulators in several countries require influencers to label sponsored posts clearly. In this context, a new trend has appeared: \"de-influencing\". Creators post videos explaining which popular products are not worth the money and suggesting cheaper alternatives. Ironically, de-influencing has itself become a marketing strategy, as some brands now position themselves as the honest alternative. The lesson for marketers is clear: in a world full of advertising, authenticity is the most valuable — and the most difficult — thing to sell.",
+        "questions": [
+          {
+            "q": "Why does influencer marketing work?",
+            "answer": "People trust people more than ads."
+          },
+          {
+            "q": "What do regulators in several countries require?",
+            "answer": "That influencers clearly label sponsored posts."
+          },
+          {
+            "q": "What is de-influencing?",
+            "answer": "Creators explaining which popular products aren't worth the money and suggesting cheaper alternatives."
+          },
+          {
+            "q": "Why is it ironic?",
+            "answer": "De-influencing has itself become a marketing strategy."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "fill_blank",
+          "title": "a, an, the or —?",
+          "instruction": "Complete with a, an, the or — (no article).",
+          "instruction_pt": "Complete com a, an, the ou — (sem artigo).",
+          "items": [
+            {
+              "prompt": "___ advertising is everywhere these days.",
+              "answer": "—"
+            },
+            {
+              "prompt": "My sister works for ___ airline in Dubai.",
+              "answer": "an"
+            },
+            {
+              "prompt": "She posted ___ video. ___ video went viral.",
+              "answer": "a / The"
+            },
+            {
+              "prompt": "Who is ___ CEO of your company?",
+              "answer": "the"
+            },
+            {
+              "prompt": "___ people usually trust ___ reviews more than ads.",
+              "answer": "— / —"
+            },
+            {
+              "prompt": "It's ___ best campaign I've ever seen.",
+              "answer": "the"
+            }
+          ]
+        },
+        {
+          "id": "ex2",
+          "type": "multiple_choice",
+          "title": "General or specific?",
+          "instruction": "Choose the correct option.",
+          "instruction_pt": "Escolha a opção correta.",
+          "items": [
+            {
+              "prompt": "___ coffee is the most popular drink in my office.",
+              "options": [
+                "The coffee",
+                "Coffee"
+              ],
+              "answer": "Coffee"
+            },
+            {
+              "prompt": "___ coffee in this café is terrible!",
+              "options": [
+                "The",
+                "—"
+              ],
+              "answer": "The"
+            },
+            {
+              "prompt": "I'm studying ___ marketing at university.",
+              "options": [
+                "the",
+                "—"
+              ],
+              "answer": "—"
+            },
+            {
+              "prompt": "She lives in ___ Netherlands.",
+              "options": [
+                "the",
+                "—"
+              ],
+              "answer": "the"
+            }
+          ]
+        },
+        {
+          "id": "ex3",
+          "type": "match",
+          "title": "Marketing vocabulary",
+          "instruction": "Write the English expression.",
+          "instruction_pt": "Escreva a expressão em inglês.",
+          "items": [
+            {
+              "prompt": "público-alvo",
+              "answer": "target audience"
+            },
+            {
+              "prompt": "sair pela culatra",
+              "answer": "backfire"
+            },
+            {
+              "prompt": "boca a boca",
+              "answer": "word of mouth"
+            },
+            {
+              "prompt": "clientes fiéis",
+              "answer": "loyal customers"
+            },
+            {
+              "prompt": "conteúdo gerado pelo usuário",
+              "answer": "user-generated content"
+            }
+          ]
+        },
+        {
+          "id": "ex4",
+          "type": "dictation",
+          "title": "Dictation",
+          "instruction": "Listen and write the sentence.",
+          "instruction_pt": "Ouça e escreva a frase.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "Customers trust other customers more than ads."
+            },
+            {
+              "prompt": "2",
+              "answer": "The campaign backfired."
+            },
+            {
+              "prompt": "3",
+              "answer": "Who's the target audience?"
+            },
+            {
+              "prompt": "4",
+              "answer": "It went viral for the wrong reasons."
+            }
+          ]
+        },
+        {
+          "id": "ex5",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the article mistakes.",
+          "instruction_pt": "Corrija os erros de artigo.",
+          "items": [
+            {
+              "prompt": "The social media is changing the marketing.",
+              "answer": "Social media is changing marketing."
+            },
+            {
+              "prompt": "He is engineer at the Google.",
+              "answer": "He is an engineer at Google."
+            },
+            {
+              "prompt": "I play a guitar in a band.",
+              "answer": "I play the guitar in a band."
+            },
+            {
+              "prompt": "She is the most creative person in office.",
+              "answer": "She is the most creative person in the office."
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "fill_blank",
+          "title": "Complete the text",
+          "instruction": "Complete with a, an, the or —.",
+          "instruction_pt": "Complete o texto com a, an, the ou —.",
+          "items": [
+            {
+              "prompt": "Last year, ___ small Brazilian brand launched ___ campaign with real customers instead of models.",
+              "answer": "a / a"
+            },
+            {
+              "prompt": "___ campaign was ___ huge success.",
+              "answer": "The / a"
+            },
+            {
+              "prompt": "___ customers loved seeing ___ people like them in ___ ads.",
+              "answer": "— / — / the"
+            },
+            {
+              "prompt": "Now it's one of ___ fastest-growing brands in ___ country.",
+              "answer": "the / the"
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction": "In groups, analyze a famous brand: its target audience, its image, a campaign that worked and one that backfired. Present your analysis in 2 minutes (watch your articles!).",
+        "instruction_pt": "Em grupos, analisem uma marca famosa: público-alvo, imagem, uma campanha que funcionou e uma que saiu pela culatra. Apresentem em 2 minutos (atenção aos artigos!).",
+        "questions": [
+          "Which brands do you feel loyal to? Why?",
+          "Do you trust influencers' recommendations?",
+          "Have you ever bought something because of a review?",
+          "What makes a brand authentic?",
+          "What's the best ad you've ever seen?"
+        ]
+      },
+      "writing": {
+        "task": "Write a short brand analysis (150–180 words) of a company you like: who its target audience is, how it communicates, and one thing it could do better online.",
+        "task_pt": "Escreva uma análise curta (150–180 palavras) de uma empresa de que você gosta: público-alvo, como se comunica e uma coisa que poderia fazer melhor online.",
+        "model": "One brand I really admire is a Brazilian cosmetics company that started as a small shop in Curitiba. Its target audience is mainly young women who care about sustainability and natural ingredients. What makes the brand special is the way it communicates. Instead of using famous models, the company shows real customers in its ads, with different body types, ages and skin tones. On social media, the tone is friendly and honest: when a product has a problem, the company says so publicly. This authenticity has created a community of loyal customers who recommend the brand to friends. However, there is one thing the company could do better: customer service. The online chat is often slow, and many complaints on review sites are about late deliveries. If the brand answered customers faster, it would protect the reputation it has worked so hard to build."
+      },
+      "culture_note": {
+        "title": "#ad e #publi",
+        "text_pt": "Nos EUA, a FTC exige que influenciadores sinalizem conteúdo pago com **#ad** ou **#sponsored**. No Reino Unido, a ASA tem regras parecidas. No Brasil, o CONAR orienta o uso de **#publi** ou **#publicidade**. Em inglês: **\"This post is sponsored by...\"** / **\"paid partnership with...\"**."
+      },
+      "summary_pt": [
+        "a/an = primeira menção / profissão.",
+        "the = específico, já conhecido, único, superlativo.",
+        "Sem artigo = generalizações (People love coffee).",
+        "the + grupo específico: The people in my office..."
+      ]
+    },
+    {
+      "id": "B1P-M3-L2",
+      "title": "What do you think of it?",
+      "subtitle_pt": "Relative clauses: who, which, that, whose, where",
+      "duration_min": 65,
+      "source_refs": [
+        "Keynote Intermediate – Unit 5.4 (What do you think of it?)",
+        "Keynote Intermediate – Grammar summary (relative clauses)"
+      ],
+      "objectives": [
+        "Usar who, which, that, whose e where para definir pessoas, coisas e lugares",
+        "Saber quando é possível omitir o pronome relativo",
+        "Usar non-defining relative clauses (com vírgulas)",
+        "Descrever e opinar sobre produtos, apps e serviços"
+      ],
+      "warmup": {
+        "text_pt": "\"É aquele app que te ajuda a dividir a conta\", \"é a menina cujo pai é chef\", \"é o restaurante onde a gente se conheceu\". Para descrever coisas e pessoas com precisão, usamos **relative clauses**.",
+        "questions": [
+          "What's an app that you can't live without?",
+          "Describe a person who has influenced you."
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "feature",
+          "pt": "funcionalidade, recurso",
+          "say": "fítcher"
+        },
+        {
+          "en": "user-friendly / intuitive",
+          "pt": "fácil de usar / intuitivo",
+          "say": "iúzer fréndli / intúitiv"
+        },
+        {
+          "en": "overpriced / good value",
+          "pt": "caro demais / bom custo-benefício",
+          "say": "ôuverpráist / gud véliu"
+        },
+        {
+          "en": "durable / fragile",
+          "pt": "durável / frágil",
+          "say": "diúrabol / frédjail"
+        },
+        {
+          "en": "sleek / bulky",
+          "pt": "elegante, fino / volumoso",
+          "say": "slík / bâlki"
+        },
+        {
+          "en": "it does the job",
+          "pt": "cumpre o que promete, serve",
+          "say": "it dâz dâ djób"
+        },
+        {
+          "en": "a must-have",
+          "pt": "item indispensável",
+          "say": "a mâst rév"
+        },
+        {
+          "en": "to live up to (expectations)",
+          "pt": "corresponder (às expectativas)",
+          "say": "tu liv âp tu"
+        },
+        {
+          "en": "a gadget",
+          "pt": "um aparelho, dispositivo",
+          "say": "a gádjet"
+        },
+        {
+          "en": "a rip-off",
+          "pt": "um roubo (preço abusivo)",
+          "say": "a ríp óf"
+        },
+        {
+          "en": "to be worth it",
+          "pt": "valer a pena",
+          "say": "tu bí uârθ it"
+        },
+        {
+          "en": "pros and cons",
+          "pt": "prós e contras",
+          "say": "prôuz end kónz"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "It's an app that helps you save money.",
+          "pt": "É um app que te ajuda a economizar."
+        },
+        {
+          "en": "She's the designer who created the logo.",
+          "pt": "Ela é a designer que criou o logo."
+        },
+        {
+          "en": "That's the café where we first met.",
+          "pt": "Esse é o café onde nos conhecemos."
+        },
+        {
+          "en": "He's the guy whose startup was sold for millions.",
+          "pt": "Ele é o cara cuja startup foi vendida por milhões."
+        },
+        {
+          "en": "What do you think of it?",
+          "pt": "O que você acha disso?"
+        },
+        {
+          "en": "It didn't live up to the hype.",
+          "pt": "Não correspondeu ao hype."
+        }
+      ],
+      "grammar": {
+        "title": "Relative clauses",
+        "explanation_pt": "**Relative clauses** adicionam informação sobre um substantivo:\n\n- **who** → pessoas: \"The woman **who** designed this app is Brazilian.\"\n- **which** → coisas e animais: \"The phone **which** I bought last year is already slow.\"\n- **that** → pessoas ou coisas (informal, muito comum nas defining clauses): \"It's a gadget **that** everyone wants.\"\n- **whose** → posse (cujo/cuja): \"I have a friend **whose** brother works at Apple.\"\n- **where** → lugares: \"This is the shop **where** I bought my laptop.\"\n- **when** → tempo: \"I remember the day **when** I got my first phone.\"\n\n**1. Defining relative clauses** (sem vírgulas) → informação **essencial** para saber de quem/do que falamos:\n\"The app **that** I use for running is free.\"\n➡ Quando o pronome é **objeto** do verbo seguinte, pode ser **omitido**: \"The app (that) **I use**...\" / \"The man (who) **we met**...\"\n➡ Quando é **sujeito**, não pode: \"The app **that helps** you...\" (❌ \"The app helps you...\")\n\n**2. Non-defining relative clauses** (com vírgulas) → informação **extra**, não essencial. Use **who/which** (nunca **that**) e nunca omita:\n\"My laptop, **which** I bought in 2020, still works perfectly.\"\n\"Melissa Marshall, **who** teaches communication, gave a great talk.\"\n\n**Which** também pode se referir à frase inteira: \"The battery lasts two days, **which** is amazing.\"",
+        "table": {
+          "headers": [
+            "Pronome",
+            "Para",
+            "Exemplo"
+          ],
+          "rows": [
+            [
+              "who / that",
+              "pessoas",
+              "The teacher who helped me..."
+            ],
+            [
+              "which / that",
+              "coisas",
+              "The phone that I bought..."
+            ],
+            [
+              "whose",
+              "posse",
+              "The friend whose car we borrowed..."
+            ],
+            [
+              "where",
+              "lugares",
+              "The city where I was born..."
+            ],
+            [
+              "when",
+              "tempo",
+              "The year when we met..."
+            ],
+            [
+              "which (non-defining)",
+              "frase inteira",
+              "It was free, which was great."
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "It's a feature that most users never discover.",
+            "pt": "É uma funcionalidade que a maioria dos usuários nunca descobre."
+          },
+          {
+            "en": "The headphones I bought online didn't live up to the reviews.",
+            "pt": "Os fones que comprei online não corresponderam às avaliações."
+          },
+          {
+            "en": "My grandmother, who is 82, uses video calls every day, which I think is amazing.",
+            "pt": "Minha avó, que tem 82 anos, faz chamadas de vídeo todo dia, o que eu acho incrível."
+          }
+        ],
+        "tip_pt": "Em português usamos \"que\" para tudo. Em inglês, nunca use **what** como pronome relativo: ❌ \"The phone what I bought\" ✅ \"The phone **that/which** I bought\"."
+      },
+      "common_mistakes": [
+        {
+          "wrong": "The man which called you is my boss.",
+          "right": "The man who/that called you is my boss.",
+          "why_pt": "Para pessoas, use who ou that."
+        },
+        {
+          "wrong": "The app what I use is free.",
+          "right": "The app (that/which) I use is free.",
+          "why_pt": "What não é pronome relativo."
+        },
+        {
+          "wrong": "My phone, that I bought in 2020, still works.",
+          "right": "My phone, which I bought in 2020, still works.",
+          "why_pt": "Non-defining (com vírgulas) não aceita that."
+        }
+      ],
+      "pronunciation": {
+        "focus": "Pausas nas non-defining clauses",
+        "tip_pt": "Na fala, as vírgulas viram **pausas** curtas e a voz cai um pouco no meio: \"My sister — who lives in Paris — is coming next week.\" Já as defining clauses são ditas de uma vez, sem pausa.",
+        "practice": [
+          "The app that I use is free. (sem pausa)",
+          "My laptop, which is old, still works. (com pausas)",
+          "She's the person whose idea won."
+        ]
+      },
+      "dialogue": {
+        "title": "Is it worth it?",
+        "context_pt": "Dois amigos discutem se vale a pena comprar um relógio inteligente.",
+        "lines": [
+          {
+            "speaker": "Bruno",
+            "en": "I'm thinking of buying a smartwatch. What do you think of the one you have?",
+            "pt": "Estou pensando em comprar um relógio inteligente. O que você acha do que você tem?"
+          },
+          {
+            "speaker": "Jade",
+            "en": "Honestly? It's a gadget that I loved for a month and then forgot about.",
+            "pt": "Sinceramente? É um aparelho que amei por um mês e depois esqueci."
+          },
+          {
+            "speaker": "Bruno",
+            "en": "Really? The reviews I read were amazing.",
+            "pt": "Sério? As avaliações que li eram incríveis."
+          },
+          {
+            "speaker": "Jade",
+            "en": "It's good for people who exercise a lot. It tracks your heart rate, your sleep, your steps... But the battery, which lasts only a day, drove me crazy.",
+            "pt": "É bom para quem se exercita muito. Mede batimentos, sono, passos... Mas a bateria, que dura só um dia, me deixou louca."
+          },
+          {
+            "speaker": "Bruno",
+            "en": "Hmm. I run three times a week. Do you know anyone whose watch has a longer battery?",
+            "pt": "Hmm. Eu corro três vezes por semana. Você conhece alguém cujo relógio tem bateria mais duradoura?"
+          },
+          {
+            "speaker": "Jade",
+            "en": "My brother has a running watch that lasts ten days. It's less sleek, but it does the job.",
+            "pt": "Meu irmão tem um relógio de corrida que dura dez dias. É menos elegante, mas cumpre o que promete."
+          },
+          {
+            "speaker": "Bruno",
+            "en": "That sounds better for me. The expensive ones seem a bit of a rip-off.",
+            "pt": "Parece melhor para mim. Os caros parecem meio que um roubo."
+          },
+          {
+            "speaker": "Jade",
+            "en": "Go to the store where I bought mine — they let you try them first.",
+            "pt": "Vai na loja onde comprei o meu — eles deixam você experimentar antes."
+          }
+        ]
+      },
+      "listening": {
+        "title": "Tech review video",
+        "context_pt": "Uma youtuber de tecnologia avalia um celular novo.",
+        "lines": [
+          {
+            "speaker": "Reviewer",
+            "en": "Hi everyone! Today I'm reviewing the new X5, which was launched last week. Let's start with the pros. The camera, which has three lenses, takes amazing photos at night. The battery, which is the biggest the brand has ever made, easily lasts two days. Now, the cons. The phone is heavy — it's not for people who want something light. And the price is high: it costs more than most laptops. So, is it worth it? If you're someone whose phone is your main camera, yes. If you just use social media and WhatsApp, a cheaper model will do the job."
+          }
+        ],
+        "questions": [
+          {
+            "q": "When was the X5 launched?",
+            "answer": "Last week."
+          },
+          {
+            "q": "What's special about the camera?",
+            "answer": "It has three lenses and takes amazing photos at night."
+          },
+          {
+            "q": "Who is the phone not for?",
+            "answer": "People who want something light."
+          },
+          {
+            "q": "Who is the phone worth it for?",
+            "answer": "People whose phone is their main camera."
+          }
+        ]
+      },
+      "reading": {
+        "title": "The products that changed everyday life",
+        "text": "Some products are so ordinary that we forget they were once revolutionary. Take the ballpoint pen, which was patented in 1938 by László Bíró, a Hungarian journalist who was tired of smudged ink. Or the shopping cart, which was invented in the 1930s by a supermarket owner in Oklahoma whose customers stopped shopping when their baskets got too heavy. At first, shoppers refused to use carts — men thought they looked weak and women thought they looked like baby strollers — so the owner hired actors to push them around the store. In Brazil, an example of a product that changed daily life is the flip-flop. Havaianas, which were created in 1962, were inspired by Japanese zori sandals, and for decades they were seen as cheap shoes for poor people. A clever marketing strategy in the 1990s transformed them into a fashion item that celebrities wear all over the world. The lesson? A good product is important, but the story that people tell about it can matter just as much.",
+        "questions": [
+          {
+            "q": "Who invented the ballpoint pen?",
+            "answer": "László Bíró, a Hungarian journalist."
+          },
+          {
+            "q": "Why did the supermarket owner invent the shopping cart?",
+            "answer": "His customers stopped shopping when their baskets got too heavy."
+          },
+          {
+            "q": "How did he convince shoppers to use carts?",
+            "answer": "He hired actors to push them around the store."
+          },
+          {
+            "q": "How did the image of Havaianas change?",
+            "answer": "From cheap shoes for poor people to an international fashion item (after a marketing strategy in the 1990s)."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "fill_blank",
+          "title": "Choose the relative pronoun",
+          "instruction": "Complete with who, which, whose, where or when.",
+          "instruction_pt": "Complete com who, which, whose, where ou when.",
+          "items": [
+            {
+              "prompt": "That's the woman ___ created the app.",
+              "answer": "who"
+            },
+            {
+              "prompt": "I lost the headphones ___ you gave me.",
+              "answer": "which"
+            },
+            {
+              "prompt": "This is the restaurant ___ we had our first date.",
+              "answer": "where"
+            },
+            {
+              "prompt": "He's the musician ___ songs are on every playlist.",
+              "answer": "whose"
+            },
+            {
+              "prompt": "I'll never forget the day ___ I got my first job.",
+              "answer": "when"
+            }
+          ]
+        },
+        {
+          "id": "ex2",
+          "type": "multiple_choice",
+          "title": "Can you omit it?",
+          "instruction": "Can the relative pronoun be omitted? Choose YES or NO.",
+          "instruction_pt": "O pronome relativo pode ser omitido? Escolha YES ou NO.",
+          "items": [
+            {
+              "prompt": "The book that I'm reading is great.",
+              "options": [
+                "YES",
+                "NO"
+              ],
+              "answer": "YES"
+            },
+            {
+              "prompt": "The man who lives next door is a chef.",
+              "options": [
+                "YES",
+                "NO"
+              ],
+              "answer": "NO"
+            },
+            {
+              "prompt": "The app which I downloaded yesterday is useless.",
+              "options": [
+                "YES",
+                "NO"
+              ],
+              "answer": "YES"
+            },
+            {
+              "prompt": "My mom, who is 60, runs marathons.",
+              "options": [
+                "YES",
+                "NO"
+              ],
+              "answer": "NO"
+            }
+          ]
+        },
+        {
+          "id": "ex3",
+          "type": "answer",
+          "title": "Join the sentences",
+          "instruction": "Join the sentences with a relative clause.",
+          "instruction_pt": "Junte as frases com uma relative clause.",
+          "items": [
+            {
+              "prompt": "I have a friend. Her brother is a pilot.",
+              "answer": "I have a friend whose brother is a pilot."
+            },
+            {
+              "prompt": "This is the app. I told you about it.",
+              "answer": "This is the app (that/which) I told you about."
+            },
+            {
+              "prompt": "My laptop is ten years old. It still works perfectly.",
+              "answer": "My laptop, which is ten years old, still works perfectly."
+            },
+            {
+              "prompt": "That's the city. My parents met there.",
+              "answer": "That's the city where my parents met."
+            }
+          ]
+        },
+        {
+          "id": "ex4",
+          "type": "dictation",
+          "title": "Dictation",
+          "instruction": "Listen and write the sentence.",
+          "instruction_pt": "Ouça e escreva a frase.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "It's an app that helps you save money."
+            },
+            {
+              "prompt": "2",
+              "answer": "That's the café where we first met."
+            },
+            {
+              "prompt": "3",
+              "answer": "He's the guy whose startup was sold for millions."
+            },
+            {
+              "prompt": "4",
+              "answer": "It didn't live up to the hype."
+            }
+          ]
+        },
+        {
+          "id": "ex5",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the mistake.",
+          "instruction_pt": "Encontre e corrija o erro.",
+          "items": [
+            {
+              "prompt": "The phone what I bought is broken.",
+              "answer": "The phone (that/which) I bought is broken."
+            },
+            {
+              "prompt": "She's the girl which won the prize.",
+              "answer": "She's the girl who/that won the prize."
+            },
+            {
+              "prompt": "Rio, that is my favorite city, is beautiful.",
+              "answer": "Rio, which is my favorite city, is beautiful."
+            },
+            {
+              "prompt": "That's the man who his car was stolen.",
+              "answer": "That's the man whose car was stolen."
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "fill_blank",
+          "title": "Product review",
+          "instruction": "Complete with: which · who · worth · value · does.",
+          "instruction_pt": "Complete a avaliação.",
+          "items": [
+            {
+              "prompt": "These earbuds, ___ cost only R$150, are great ___ for money.",
+              "answer": "which / value"
+            },
+            {
+              "prompt": "They're perfect for people ___ go to the gym.",
+              "answer": "who"
+            },
+            {
+              "prompt": "The sound isn't amazing, but it ___ the job.",
+              "answer": "does"
+            },
+            {
+              "prompt": "Are they ___ it? Definitely.",
+              "answer": "worth"
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction": "\"Guess what it is\": describe a product, app, person or place using relative clauses without saying its name. Your partner guesses.",
+        "instruction_pt": "\"Adivinhe o que é\": descreva um produto, app, pessoa ou lugar usando relative clauses sem dizer o nome. O colega adivinha.",
+        "questions": [
+          "What's a product that you think is overpriced?",
+          "Describe a gadget that didn't live up to your expectations.",
+          "Who's a person whose career you admire?",
+          "What's the place where you feel most relaxed?",
+          "What do you think of smartwatches?"
+        ]
+      },
+      "writing": {
+        "task": "Write an online review (150–180 words) of a product, app or service, including pros and cons. Use at least 5 relative clauses (defining and non-defining).",
+        "task_pt": "Escreva uma avaliação online (150–180 palavras) de um produto, app ou serviço, com prós e contras. Use pelo menos 5 relative clauses (defining e non-defining).",
+        "model": "⭐⭐⭐⭐ Review: the language app LinguaGo\n\nI've been using LinguaGo, which a colleague recommended to me, for about six months. It's an app that combines short lessons with conversations with real people, which makes it different from most apps I've tried.\n\nPros: the lessons, which only take ten minutes, are perfect for people who don't have much free time. I also love the conversation feature, where you can talk to native speakers from different countries. The teachers I've had were patient and friendly.\n\nCons: the free version, which has a lot of ads, is quite limited. And the premium plan, whose price went up last month, is a bit overpriced compared to similar apps.\n\nOverall, it's an app that really helped me feel more confident speaking. It isn't perfect, but if you're someone who needs to practice conversation, it's definitely worth it."
+      },
+      "culture_note": {
+        "title": "\"Hype\" e \"overrated\"",
+        "text_pt": "Ao opinar sobre produtos, falantes nativos usam muito: **\"It's overhyped / overrated\"** (superestimado), **\"It's underrated\"** (subestimado), **\"It lives up to the hype\"** (corresponde à expectativa) e **\"It's a game changer\"** (revolucionário)."
+      },
+      "summary_pt": [
+        "who (pessoas) · which (coisas) · that (ambos) · whose (posse) · where (lugar).",
+        "Defining: sem vírgula; objeto pode ser omitido.",
+        "Non-defining: com vírgulas; nunca that.",
+        "Nunca \"what\" como pronome relativo."
+      ]
+    },
+    {
+      "id": "B1P-M3-L3",
+      "title": "Talk nerdy to me",
+      "subtitle_pt": "Formas de futuro e como explicar ciência de forma simples",
+      "duration_min": 70,
+      "source_refs": [
+        "Keynote Intermediate – Unit 6.1 (Talk nerdy to me)",
+        "Keynote Intermediate – Grammar summary (future forms)"
+      ],
+      "objectives": [
+        "Escolher entre will, going to, present continuous e present simple para o futuro",
+        "Usar will para previsões e decisões, going to para planos e evidências",
+        "Explicar uma ideia técnica para um público leigo",
+        "Usar linguagem de apresentação (Today I'm going to talk about...)"
+      ],
+      "warmup": {
+        "text_pt": "Você já tentou explicar seu trabalho para sua avó? Cientistas, engenheiros e médicos muitas vezes têm dificuldade em comunicar suas ideias para o público. Hoje vamos aprender a \"falar nerd\" de um jeito que todo mundo entende.",
+        "questions": [
+          "Can you explain your job or studies to a 10-year-old?",
+          "Who's the best explainer you know (teacher, YouTuber, scientist)?"
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "jargon",
+          "pt": "jargão",
+          "say": "djárgon"
+        },
+        {
+          "en": "to simplify",
+          "pt": "simplificar",
+          "say": "tu símplifai"
+        },
+        {
+          "en": "the general public / a layperson",
+          "pt": "o público em geral / um leigo",
+          "say": "dâ djéneral pâblik / a lêipârson"
+        },
+        {
+          "en": "an analogy",
+          "pt": "uma analogia",
+          "say": "an anélodji"
+        },
+        {
+          "en": "to engage (an audience)",
+          "pt": "envolver (o público)",
+          "say": "tu inguêidj"
+        },
+        {
+          "en": "a slide / a visual",
+          "pt": "um slide / um recurso visual",
+          "say": "a sláid / a víjual"
+        },
+        {
+          "en": "research / a researcher",
+          "pt": "pesquisa / um pesquisador",
+          "say": "risârtch / a risârtcher"
+        },
+        {
+          "en": "a breakthrough",
+          "pt": "um avanço importante",
+          "say": "a brêikθru"
+        },
+        {
+          "en": "to make sense of",
+          "pt": "entender, dar sentido a",
+          "say": "tu mêik séns ov"
+        },
+        {
+          "en": "science communicator",
+          "pt": "divulgador(a) científico(a)",
+          "say": "sáiens komiúnikeitor"
+        },
+        {
+          "en": "to get the message across",
+          "pt": "transmitir a mensagem",
+          "say": "tu guét dâ mésidj akrós"
+        },
+        {
+          "en": "in a nutshell",
+          "pt": "resumindo, em poucas palavras",
+          "say": "in a nâtshel"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "Today I'm going to talk about...",
+          "pt": "Hoje vou falar sobre..."
+        },
+        {
+          "en": "In a nutshell, ...",
+          "pt": "Resumindo, ..."
+        },
+        {
+          "en": "Think of it like a...",
+          "pt": "Pense nisso como um(a)..."
+        },
+        {
+          "en": "In other words, ...",
+          "pt": "Em outras palavras, ..."
+        },
+        {
+          "en": "I think this will change everything.",
+          "pt": "Acho que isso vai mudar tudo."
+        },
+        {
+          "en": "The conference starts at 9 tomorrow.",
+          "pt": "A conferência começa às 9 amanhã."
+        }
+      ],
+      "grammar": {
+        "title": "Future forms (revisão avançada)",
+        "explanation_pt": "No A2 você conheceu as formas de futuro. No B1+, use-as com precisão — especialmente em apresentações e no trabalho:\n\n**will + verbo:**\n- **previsão / opinião** (sem evidência concreta): \"I think AI **will** change medicine.\" / \"Scientists probably **won't** find a cure soon.\"\n- **decisão no momento**: \"The projector isn't working. — I**'ll** call IT.\"\n- **promessa / oferta**: \"I**'ll** send you the slides after the talk.\"\n\n**be going to + verbo:**\n- **plano / intenção** já decidido: \"In this talk, I**'m going to** explain three ideas.\"\n- **previsão com evidência** visível agora: \"Look at the data — the temperature **is going to** rise.\"\n\n**Present continuous:** **compromisso marcado** (agenda): \"I**'m presenting** at the conference on Friday.\"\n\n**Present simple:** **horários fixos** e programações: \"The talk **starts** at 10 and **finishes** at 11.\"\n\n**Expressões úteis para graduar certeza:** will **definitely** / will **probably** / **might** / probably **won't** / definitely **won't**.\n\n**Na estrutura de uma apresentação:**\n- Abertura (plano): \"Today **I'm going to** talk about...\"\n- Transição: \"Now **I'm going to** show you...\" / \"Let's move on to...\"\n- Previsão: \"In ten years, this technology **will** probably...\"\n- Encerramento (oferta): \"**I'll** be happy to answer your questions.\"",
+        "table": {
+          "headers": [
+            "Forma",
+            "Uso",
+            "Exemplo"
+          ],
+          "rows": [
+            [
+              "will",
+              "previsão / opinião",
+              "I think robots will do most housework."
+            ],
+            [
+              "will",
+              "decisão na hora / oferta",
+              "I'll explain that again."
+            ],
+            [
+              "going to",
+              "plano / intenção",
+              "I'm going to show you three examples."
+            ],
+            [
+              "going to",
+              "previsão com evidência",
+              "Look at this graph — sales are going to fall."
+            ],
+            [
+              "present continuous",
+              "compromisso marcado",
+              "I'm giving a talk on Monday."
+            ],
+            [
+              "present simple",
+              "horário fixo",
+              "The session starts at 2 p.m."
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "Today I'm going to explain how vaccines train your immune system.",
+            "pt": "Hoje vou explicar como as vacinas treinam seu sistema imunológico."
+          },
+          {
+            "en": "Think of your immune system like a security guard. The vaccine is a photo of the criminal.",
+            "pt": "Pense no seu sistema imunológico como um segurança. A vacina é uma foto do criminoso."
+          },
+          {
+            "en": "I'm presenting my research at a conference in Lisbon next month. It starts on the 15th.",
+            "pt": "Vou apresentar minha pesquisa numa conferência em Lisboa mês que vem. Começa dia 15."
+          }
+        ],
+        "tip_pt": "Na dúvida em apresentações, **going to** para anunciar o que você vai fazer e **will** para previsões e ofertas resolvem 90% dos casos."
+      },
+      "common_mistakes": [
+        {
+          "wrong": "Today I will talk about climate change. (abertura de apresentação já planejada)",
+          "right": "Today I'm going to talk about climate change.",
+          "why_pt": "Plano já decidido = going to (will soa como decisão na hora)."
+        },
+        {
+          "wrong": "The conference is starting at 9 a.m. tomorrow, according to the program.",
+          "right": "The conference starts at 9 a.m. tomorrow.",
+          "why_pt": "Horários de programação: present simple é o mais natural."
+        },
+        {
+          "wrong": "\"The mic isn't working.\" \"I'm going to check it.\"",
+          "right": "\"I'll check it.\"",
+          "why_pt": "Decisão tomada na hora = will."
+        }
+      ],
+      "pronunciation": {
+        "focus": "Ênfase em apresentações",
+        "tip_pt": "Bons apresentadores **variam o ritmo**: falam devagar nas ideias importantes e fazem **pausas** antes delas. \"The answer is... (pausa) ...simpler than you think.\" Evite ler os slides — olhe para o público.",
+        "practice": [
+          "Today, I'm going to talk about... (pausa) ...sleep.",
+          "In a nutshell, ...",
+          "Think of it like a library in your brain."
+        ]
+      },
+      "dialogue": {
+        "title": "Practicing a talk",
+        "context_pt": "Uma pesquisadora ensaia uma palestra para o público geral com um amigo.",
+        "lines": [
+          {
+            "speaker": "Bel",
+            "en": "OK, I'm giving this talk at the science festival on Saturday. Can I practice with you?",
+            "pt": "OK, vou dar esta palestra no festival de ciência no sábado. Posso ensaiar com você?"
+          },
+          {
+            "speaker": "Rafa",
+            "en": "Sure. What's it about?",
+            "pt": "Claro. É sobre o quê?"
+          },
+          {
+            "speaker": "Bel",
+            "en": "\"Today I'm going to talk about how bacteria develop antimicrobial resistance through horizontal gene transfer...\"",
+            "pt": "\"Hoje vou falar sobre como as bactérias desenvolvem resistência antimicrobiana por meio de transferência horizontal de genes...\""
+          },
+          {
+            "speaker": "Rafa",
+            "en": "Stop! You've already lost me. That's a lot of jargon for a festival.",
+            "pt": "Para! Você já me perdeu. É muito jargão para um festival."
+          },
+          {
+            "speaker": "Bel",
+            "en": "You're right. OK... \"Today I'm going to talk about why some medicines are stopping working — and what we can do about it.\"",
+            "pt": "Você tem razão. OK... \"Hoje vou falar sobre por que alguns remédios estão parando de funcionar — e o que podemos fazer.\""
+          },
+          {
+            "speaker": "Rafa",
+            "en": "Much better! Now I want to listen. Can you use an analogy?",
+            "pt": "Muito melhor! Agora quero ouvir. Você consegue usar uma analogia?"
+          },
+          {
+            "speaker": "Bel",
+            "en": "\"Think of bacteria like students sharing answers in an exam. When one learns how to beat the antibiotic, it passes the answer to the others.\"",
+            "pt": "\"Pense nas bactérias como alunos passando cola numa prova. Quando uma aprende a vencer o antibiótico, passa a resposta para as outras.\""
+          },
+          {
+            "speaker": "Rafa",
+            "en": "Perfect. People will remember that. I think your talk is going to be a hit!",
+            "pt": "Perfeito. As pessoas vão lembrar disso. Acho que sua palestra vai ser um sucesso!"
+          }
+        ]
+      },
+      "listening": {
+        "title": "Conference announcements",
+        "context_pt": "Anúncios no primeiro dia de uma conferência de tecnologia.",
+        "lines": [
+          {
+            "speaker": "Host",
+            "en": "Good morning and welcome! Just a few announcements. The opening keynote starts in ten minutes in the main hall. After that, at 11, we're running three parallel sessions. Dr. Patel is presenting her research on AI in hospitals in Room A. Lunch is from 12:30 to 1:30. Because of the rain, we're going to move the networking event indoors, to the second floor. And if you've lost your badge, don't worry — just go to the registration desk and we'll print a new one for you. Enjoy the conference!"
+          }
+        ],
+        "questions": [
+          {
+            "q": "When does the opening keynote start?",
+            "answer": "In ten minutes."
+          },
+          {
+            "q": "What is Dr. Patel presenting?",
+            "answer": "Her research on AI in hospitals (in Room A)."
+          },
+          {
+            "q": "Why are they moving the networking event?",
+            "answer": "Because of the rain (to the second floor)."
+          },
+          {
+            "q": "What should you do if you've lost your badge?",
+            "answer": "Go to the registration desk and they'll print a new one."
+          }
+        ]
+      },
+      "video": {
+        "title": "Talk nerdy to me",
+        "speaker": "Melissa Marshall",
+        "url": "https://www.ted.com/search?q=talk+nerdy+to+me",
+        "playlist": "https://www.youtube.com/watch?v=sAQfzHBpRsc&list=PLdIk6oC5e9pYKMTeYKp9dEOSeoNEEJ0BJ",
+        "task_pt": "Assista à palestra (cerca de 4 minutos) e anote as dicas que a palestrante dá para cientistas. Depois responda:",
+        "questions": [
+          "Who is the speaker talking to, and what does she ask them to do?",
+          "Which of her tips do you think is the most useful? Why?",
+          "Think of a concept from your work or studies. How would you explain it to a teenager?",
+          "Do you think scientists have a responsibility to communicate with the public?"
+        ]
+      },
+      "reading": {
+        "title": "Why explaining matters",
+        "text": "During the COVID-19 pandemic, millions of people suddenly needed to understand complex scientific ideas: how viruses spread, how vaccines work, what an \"R number\" is. Scientists who could explain these ideas clearly became incredibly influential, while those who used technical language often failed to reach the public — and misinformation filled the gap. Experts in science communication say there are a few simple rules. First, start with why it matters to the audience, not with the method. Second, use analogies: comparing the immune system to a security team or DNA to a recipe book helps people make sense of abstract ideas. Third, avoid jargon, or explain it the first time you use it. Fourth, tell stories: people remember narratives far better than statistics. Finally, be honest about uncertainty. Saying \"we don't know yet, but we're going to find out\" builds more trust than pretending to have all the answers. In the future, many experts believe these communication skills will be as important for scientists as research itself.",
+        "questions": [
+          {
+            "q": "What happened to scientists who could explain ideas clearly during the pandemic?",
+            "answer": "They became incredibly influential."
+          },
+          {
+            "q": "What should you start with when explaining science?",
+            "answer": "Why it matters to the audience."
+          },
+          {
+            "q": "Give an example of an analogy from the text.",
+            "answer": "The immune system as a security team / DNA as a recipe book."
+          },
+          {
+            "q": "Why should scientists be honest about uncertainty?",
+            "answer": "It builds more trust than pretending to have all the answers."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "multiple_choice",
+          "title": "Which future form?",
+          "instruction": "Choose the best option.",
+          "instruction_pt": "Escolha a melhor opção.",
+          "items": [
+            {
+              "prompt": "Today ___ about three ways to sleep better. (abertura planejada)",
+              "options": [
+                "I'll talk",
+                "I'm going to talk"
+              ],
+              "answer": "I'm going to talk"
+            },
+            {
+              "prompt": "\"I don't understand that slide.\" \"OK, ___ it again.\"",
+              "options": [
+                "I'll explain",
+                "I'm explaining"
+              ],
+              "answer": "I'll explain"
+            },
+            {
+              "prompt": "The workshop ___ at 2 p.m. according to the program.",
+              "options": [
+                "starts",
+                "will be starting"
+              ],
+              "answer": "starts"
+            },
+            {
+              "prompt": "I ___ my thesis next Monday. It's all booked.",
+              "options": [
+                "'m presenting",
+                "will present"
+              ],
+              "answer": "'m presenting"
+            },
+            {
+              "prompt": "I think quantum computers ___ change medicine.",
+              "options": [
+                "will",
+                "are going to"
+              ],
+              "answer": "will"
+            },
+            {
+              "prompt": "Look at these numbers! We ___ break our sales record.",
+              "options": [
+                "will",
+                "'re going to"
+              ],
+              "answer": "'re going to"
+            }
+          ]
+        },
+        {
+          "id": "ex2",
+          "type": "match",
+          "title": "Simplify the jargon",
+          "instruction": "Rewrite the jargon in simple English.",
+          "instruction_pt": "Reescreva o jargão em inglês simples.",
+          "items": [
+            {
+              "prompt": "We need to optimize our cross-functional synergies.",
+              "answer": "Our teams need to work better together."
+            },
+            {
+              "prompt": "The patient presents with cephalalgia.",
+              "answer": "The patient has a headache."
+            },
+            {
+              "prompt": "Let's circle back offline.",
+              "answer": "Let's talk about it later, privately."
+            }
+          ]
+        },
+        {
+          "id": "ex3",
+          "type": "fill_blank",
+          "title": "Presentation language",
+          "instruction": "Complete with: going · move · nutshell · words · questions.",
+          "instruction_pt": "Complete com a linguagem de apresentação.",
+          "items": [
+            {
+              "prompt": "Good morning. Today I'm ___ to talk about urban gardens.",
+              "answer": "going"
+            },
+            {
+              "prompt": "Let's ___ on to the second point.",
+              "answer": "move"
+            },
+            {
+              "prompt": "In other ___, small gardens can feed whole neighborhoods.",
+              "answer": "words"
+            },
+            {
+              "prompt": "In a ___, cities can produce food. I'll be happy to answer your ___.",
+              "answer": "nutshell / questions"
+            }
+          ]
+        },
+        {
+          "id": "ex4",
+          "type": "dictation",
+          "title": "Dictation",
+          "instruction": "Listen and write the sentence.",
+          "instruction_pt": "Ouça e escreva a frase.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "Today I'm going to talk about sleep."
+            },
+            {
+              "prompt": "2",
+              "answer": "Think of it like a library in your brain."
+            },
+            {
+              "prompt": "3",
+              "answer": "The conference starts at nine tomorrow."
+            },
+            {
+              "prompt": "4",
+              "answer": "I'll be happy to answer your questions."
+            }
+          ]
+        },
+        {
+          "id": "ex5",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the mistake.",
+          "instruction_pt": "Encontre e corrija o erro.",
+          "items": [
+            {
+              "prompt": "\"Someone's at the door.\" \"I'm going to open it.\"",
+              "answer": "I'll open it."
+            },
+            {
+              "prompt": "I will present at a conference next week. It's in my calendar.",
+              "answer": "I'm presenting at a conference next week."
+            },
+            {
+              "prompt": "I think AI is going to replace some jobs one day, maybe.",
+              "answer": "I think AI will (probably) replace some jobs one day."
+            },
+            {
+              "prompt": "The train will leave at 8:15 from platform 3. (timetable)",
+              "answer": "The train leaves at 8:15 from platform 3."
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "fill_blank",
+          "title": "Plan your talk",
+          "instruction": "Complete with the correct future form of the verb in parentheses.",
+          "instruction_pt": "Complete com a forma de futuro correta.",
+          "items": [
+            {
+              "prompt": "In this talk, I ___ (show) you why bees are important.",
+              "answer": "'m going to show"
+            },
+            {
+              "prompt": "If bees disappear, many crops ___ (probably / fail).",
+              "answer": "will probably fail"
+            },
+            {
+              "prompt": "My talk ___ (finish) at 4, so there's time for questions.",
+              "answer": "finishes"
+            },
+            {
+              "prompt": "After the talk, I ___ (send) you the slides — I promise!",
+              "answer": "'ll send"
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction": "\"Talk nerdy\" challenge: choose a concept from your job or studies and explain it in 1 minute to the class, using an analogy and no jargon. The audience votes on the clearest explanation.",
+        "instruction_pt": "Desafio \"Talk nerdy\": escolha um conceito do seu trabalho ou estudo e explique-o em 1 minuto para a turma, usando uma analogia e sem jargão. O público vota na explicação mais clara.",
+        "questions": [
+          "What's something from your field that people often misunderstand?",
+          "What will your profession look like in 20 years?",
+          "What are you going to learn next?",
+          "Who explains science well on the internet?",
+          "Is jargon ever useful? When?"
+        ]
+      },
+      "writing": {
+        "task": "Write the script for the first 90 seconds of a short talk (150–180 words) about a topic you know well. Include an opening with going to, an analogy, a prediction with will and a closing offer.",
+        "task_pt": "Escreva o roteiro dos primeiros 90 segundos de uma palestra curta (150–180 palavras) sobre um tema que você conhece bem. Inclua abertura com going to, uma analogia, uma previsão com will e uma oferta de encerramento.",
+        "model": "Good evening, everyone. Have you ever wondered why you feel so tired after a night of bad sleep, even if you've spent eight hours in bed? Today I'm going to talk about something that happens in your brain every night while you sleep.\n\nThink of your brain like a busy city. During the day, the city produces a lot of garbage. At night, while you're sleeping, a cleaning team comes out and washes the streets. Scientists have discovered that during deep sleep, a fluid in your brain does exactly that: it removes waste that builds up during the day.\n\nIn other words, sleep isn't just rest — it's maintenance. And when we don't sleep enough, the garbage stays in the streets.\n\nIn the next few minutes, I'm going to show you three simple habits that help your brain's cleaning team do its job. I'm sure that by the end of this talk, you'll never think of sleep in the same way. And of course, I'll be happy to answer your questions at the end."
+      },
+      "culture_note": {
+        "title": "Elevator pitch",
+        "text_pt": "Um **elevator pitch** é a explicação de uma ideia, projeto ou de você mesmo no tempo de uma viagem de elevador: 30 a 60 segundos. É muito usado em eventos, entrevistas e startups. A regra é a mesma da divulgação científica: comece pelo **porquê**, use linguagem simples e termine com um **call to action**."
+      },
+      "summary_pt": [
+        "will = previsão/opinião, decisão na hora, promessa.",
+        "going to = plano, previsão com evidência.",
+        "present continuous = compromisso marcado · present simple = horário fixo.",
+        "Explique com: why it matters → analogia → sem jargão → história."
+      ]
+    },
+    {
+      "id": "B1P-M3-L4",
+      "title": "Is it your first time here?",
+      "subtitle_pt": "Networking: iniciar, manter e encerrar conversas em eventos",
+      "duration_min": 65,
+      "source_refs": [
+        "Keynote Intermediate – Unit 6.4 (Is it your first time here?)",
+        "Keynote Intermediate – Unit 6 (Real life: networking)"
+      ],
+      "objectives": [
+        "Iniciar conversas com desconhecidos em eventos profissionais",
+        "Apresentar-se e apresentar outras pessoas",
+        "Manter a conversa com perguntas abertas e comentários",
+        "Encerrar a conversa com elegância e trocar contatos"
+      ],
+      "warmup": {
+        "text_pt": "Você vai a um evento profissional onde não conhece ninguém. O que faz? Fica no celular, procura o buffet ou puxa conversa? Networking em inglês é uma habilidade que se aprende — e hoje você vai praticar.",
+        "questions": [
+          "Do you enjoy networking events?",
+          "What's your strategy when you don't know anyone at an event?"
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "to network / networking",
+          "pt": "fazer networking",
+          "say": "tu nétuârk"
+        },
+        {
+          "en": "to introduce (someone to someone)",
+          "pt": "apresentar (alguém a alguém)",
+          "say": "tu introdiús"
+        },
+        {
+          "en": "a business card",
+          "pt": "um cartão de visita",
+          "say": "a bíznes kárd"
+        },
+        {
+          "en": "to keep in touch",
+          "pt": "manter contato",
+          "say": "tu kíp in tâtch"
+        },
+        {
+          "en": "to connect on LinkedIn",
+          "pt": "conectar-se no LinkedIn",
+          "say": "tu konékt on línktin"
+        },
+        {
+          "en": "an icebreaker",
+          "pt": "algo para quebrar o gelo",
+          "say": "an áisbreiker"
+        },
+        {
+          "en": "in common",
+          "pt": "em comum",
+          "say": "in kâmon"
+        },
+        {
+          "en": "the keynote speaker",
+          "pt": "o palestrante principal",
+          "say": "dâ kínout spíker"
+        },
+        {
+          "en": "a panel / a workshop",
+          "pt": "um painel / uma oficina",
+          "say": "a pénel / a uórkshop"
+        },
+        {
+          "en": "to mingle",
+          "pt": "circular e conversar",
+          "say": "tu míngol"
+        },
+        {
+          "en": "to excuse oneself",
+          "pt": "pedir licença para sair",
+          "say": "tu ikskiúz uânsélf"
+        },
+        {
+          "en": "to follow up",
+          "pt": "dar seguimento, entrar em contato depois",
+          "say": "tu fálou âp"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "Is it your first time here?",
+          "pt": "É sua primeira vez aqui?"
+        },
+        {
+          "en": "Mind if I join you?",
+          "pt": "Se importa se eu me juntar a você?"
+        },
+        {
+          "en": "What did you think of the keynote?",
+          "pt": "O que achou da palestra principal?"
+        },
+        {
+          "en": "Have you met Carla? She works in fintech too.",
+          "pt": "Você já conhece a Carla? Ela também trabalha com fintech."
+        },
+        {
+          "en": "It's been great talking to you.",
+          "pt": "Foi ótimo conversar com você."
+        },
+        {
+          "en": "Let's keep in touch.",
+          "pt": "Vamos manter contato."
+        }
+      ],
+      "grammar": {
+        "title": "Linguagem funcional de networking",
+        "explanation_pt": "Networking usa estruturas que você já conhece, combinadas em **funções**:\n\n**1. Abrir a conversa (comentário + pergunta):**\n- Comentário sobre o contexto + tag question ou pergunta: \"Great talk, **wasn't it**?\" / \"Is it your first time **at this conference**?\"\n- Pedir para se juntar: \"**Mind if I join you?**\" / \"**Do you mind if** I sit here?\"\n\n**2. Apresentar-se e apresentar outros:**\n- \"I don't think we've met. I'm Ana, **I work for**... / **I'm in charge of**...\"\n- \"**Have you met** Pedro? Pedro, **this is** Laura. **She's the one who** organized the event.\" (relative clause!)\n\n**3. Manter a conversa — perguntas abertas** (What / How / Why), não sim/não:\n- \"**What brings you** here?\" / \"**How did you get into** marketing?\" / \"**What are you working on** at the moment?\"\n- **Comentários de interesse:** \"Oh, that sounds fascinating!\" / \"Really? How interesting.\"\n- **Encontrar algo em comum:** \"**So do I!**\" / \"**Me too** — I've been working in tech for five years.\"\n\n**4. Encerrar com elegância** (nunca sair sem dizer nada):\n- \"**I'll let you** go and mingle.\" / \"**I should** go and say hi to my colleague.\"\n- \"**It's been** great talking to you.\" (present perfect!)\n- \"**Let's** connect on LinkedIn.\" / \"**I'll** send you an email next week.\" (will = promessa)",
+        "table": {
+          "headers": [
+            "Função",
+            "Frases"
+          ],
+          "rows": [
+            [
+              "Abrir",
+              "Is it your first time here? / Mind if I join you?"
+            ],
+            [
+              "Apresentar-se",
+              "I don't think we've met. I'm..."
+            ],
+            [
+              "Apresentar outros",
+              "Have you met...? / This is..., who..."
+            ],
+            [
+              "Manter",
+              "What brings you here? / How did you get into...?"
+            ],
+            [
+              "Reagir",
+              "That sounds fascinating! / So do I!"
+            ],
+            [
+              "Encerrar",
+              "I'll let you mingle. / It's been great talking to you."
+            ],
+            [
+              "Seguimento",
+              "Let's connect on LinkedIn. / I'll email you."
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "Excuse me, is this seat taken? — No, go ahead. — Thanks. Is it your first time at this conference?",
+            "pt": "Com licença, este lugar está ocupado? — Não, fique à vontade. — Obrigado. É sua primeira vez nesta conferência?"
+          },
+          {
+            "en": "Have you met Leo? He's the developer who built our app.",
+            "pt": "Você conhece o Leo? Ele é o desenvolvedor que construiu nosso app."
+          },
+          {
+            "en": "Anyway, I'll let you get some coffee. It's been great talking to you — let's keep in touch!",
+            "pt": "Enfim, vou te deixar pegar um café. Foi ótimo conversar — vamos manter contato!"
+          }
+        ],
+        "tip_pt": "Brasileiros costumam ser ótimos em networking pela simpatia natural. O desafio em inglês é **encerrar a conversa** — use as frases de encerramento para não ficar preso nem sair de forma abrupta."
+      },
+      "common_mistakes": [
+        {
+          "wrong": "Do you work here? — Yes. (silêncio)",
+          "right": "Yes, I'm in the marketing team. What about you?",
+          "why_pt": "Respostas curtas matam a conversa. Responda e devolva uma pergunta."
+        },
+        {
+          "wrong": "I present you Pedro.",
+          "right": "Let me introduce you to Pedro. / This is Pedro.",
+          "why_pt": "\"Apresentar alguém\" = introduce (present é apresentar um trabalho/projeto)."
+        },
+        {
+          "wrong": "Was a pleasure.",
+          "right": "It was a pleasure. / It's been great talking to you.",
+          "why_pt": "A frase precisa de sujeito."
+        }
+      ],
+      "pronunciation": {
+        "focus": "Entonação entusiasmada",
+        "tip_pt": "Em inglês, demonstrar interesse exige **mais variação de entonação** do que em português. \"That sounds **FAS**cinating!\" com a voz subindo e descendo bastante. Uma entonação plana pode soar como desinteresse.",
+        "practice": [
+          "That sounds FAScinating!",
+          "Really? How INteresting!",
+          "It's been GREAT talking to you!"
+        ]
+      },
+      "dialogue": {
+        "title": "At a tech conference",
+        "context_pt": "No intervalo de uma conferência de tecnologia em Lisboa, Mateus puxa conversa com uma participante.",
+        "lines": [
+          {
+            "speaker": "Mateus",
+            "en": "Hi! Mind if I join you? This seems to be the only quiet corner.",
+            "pt": "Oi! Se importa se eu me juntar a você? Parece ser o único canto tranquilo."
+          },
+          {
+            "speaker": "Ellen",
+            "en": "Not at all! It's packed, isn't it? Is it your first time at this conference?",
+            "pt": "De jeito nenhum! Está lotado, né? É sua primeira vez nesta conferência?"
+          },
+          {
+            "speaker": "Mateus",
+            "en": "Yes, it is. I'm Mateus, by the way. I work for a fintech in São Paulo.",
+            "pt": "Sim. A propósito, sou o Mateus. Trabalho numa fintech em São Paulo."
+          },
+          {
+            "speaker": "Ellen",
+            "en": "Nice to meet you. I'm Ellen. I'm a product designer at a health-tech startup in Dublin. What brings you to Lisbon?",
+            "pt": "Prazer. Sou a Ellen. Sou designer de produto numa startup de saúde em Dublin. O que te traz a Lisboa?"
+          },
+          {
+            "speaker": "Mateus",
+            "en": "We're planning to expand to Europe, so I'm here to learn and meet people. What did you think of the keynote?",
+            "pt": "Estamos planejando expandir para a Europa, então vim aprender e conhecer pessoas. O que achou da palestra principal?"
+          },
+          {
+            "speaker": "Ellen",
+            "en": "I loved it, especially the part about designing for older users. That's exactly what I'm working on at the moment.",
+            "pt": "Adorei, principalmente a parte sobre design para usuários mais velhos. É exatamente no que estou trabalhando agora."
+          },
+          {
+            "speaker": "Mateus",
+            "en": "Really? That sounds fascinating. Actually, have you met my colleague Rita? She's the one who leads our accessibility project. I think you two would have a lot in common.",
+            "pt": "Sério? Parece fascinante. Na verdade, você conhece minha colega Rita? Ela é quem lidera nosso projeto de acessibilidade. Acho que vocês teriam muito em comum."
+          },
+          {
+            "speaker": "Ellen",
+            "en": "I'd love to meet her. Anyway, the next session is starting. It's been great talking to you — let's connect on LinkedIn!",
+            "pt": "Adoraria conhecê-la. Enfim, a próxima sessão está começando. Foi ótimo conversar com você — vamos nos conectar no LinkedIn!"
+          }
+        ]
+      },
+      "listening": {
+        "title": "Networking tips from an expert",
+        "context_pt": "Uma especialista em carreira dá dicas de networking num webinar.",
+        "lines": [
+          {
+            "speaker": "Coach",
+            "en": "Many people hate networking because they think it's about selling themselves. It isn't. Good networking is about being curious. Here are my top tips. First, arrive early — it's much easier to start conversations when the room is half empty. Second, prepare three open questions, like \"What are you working on at the moment?\" Third, listen more than you talk; people remember how you made them feel, not your job title. Fourth, don't stay with the same person all night — after ten minutes, politely move on. And finally, follow up within 48 hours. Send a short message mentioning something specific you talked about. That's how a five-minute conversation becomes a long-term relationship."
+          }
+        ],
+        "questions": [
+          {
+            "q": "What is good networking about, according to the coach?",
+            "answer": "Being curious (not selling yourself)."
+          },
+          {
+            "q": "Why should you arrive early?",
+            "answer": "It's easier to start conversations when the room is half empty."
+          },
+          {
+            "q": "What do people remember, according to her?",
+            "answer": "How you made them feel, not your job title."
+          },
+          {
+            "q": "When should you follow up?",
+            "answer": "Within 48 hours, mentioning something specific."
+          }
+        ]
+      },
+      "reading": {
+        "title": "The strength of weak ties",
+        "text": "Who is most likely to help you find your next job: your best friend, or someone you met once at a conference? Surprisingly, research suggests it's often the second. In a classic 1973 study, sociologist Mark Granovetter interviewed people who had recently changed jobs and found that many of them had heard about the opportunity through acquaintances — people they saw only occasionally — rather than close friends. He called this \"the strength of weak ties\". The explanation is simple: your close friends usually know the same people and hear about the same opportunities as you. Acquaintances, on the other hand, move in different circles, so they bring new information. A large study published in 2022, which analyzed data from millions of LinkedIn users, found further support for the idea, showing that moderately weak connections were the most useful for job mobility. So the next time you're at an event and feel tempted to talk only to your colleagues, remember: the stranger by the coffee machine might be the key to your next opportunity.",
+        "questions": [
+          {
+            "q": "What did Granovetter find?",
+            "answer": "Many people heard about new jobs through acquaintances rather than close friends."
+          },
+          {
+            "q": "Why are acquaintances useful?",
+            "answer": "They move in different circles and bring new information."
+          },
+          {
+            "q": "What did the 2022 LinkedIn study show?",
+            "answer": "Moderately weak connections were the most useful for job mobility."
+          },
+          {
+            "q": "What's the advice at the end?",
+            "answer": "Talk to people you don't know at events, not only your colleagues."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "match",
+          "title": "Networking functions",
+          "instruction": "Write the function: OPEN, INTRODUCE, KEEP GOING or CLOSE.",
+          "instruction_pt": "Escreva a função: OPEN, INTRODUCE, KEEP GOING ou CLOSE.",
+          "items": [
+            {
+              "prompt": "Mind if I join you?",
+              "answer": "OPEN"
+            },
+            {
+              "prompt": "Have you met Carla?",
+              "answer": "INTRODUCE"
+            },
+            {
+              "prompt": "How did you get into marketing?",
+              "answer": "KEEP GOING"
+            },
+            {
+              "prompt": "I'll let you go and mingle.",
+              "answer": "CLOSE"
+            },
+            {
+              "prompt": "That sounds fascinating! What happened next?",
+              "answer": "KEEP GOING"
+            },
+            {
+              "prompt": "Let's connect on LinkedIn.",
+              "answer": "CLOSE"
+            }
+          ]
+        },
+        {
+          "id": "ex2",
+          "type": "answer",
+          "title": "Open questions",
+          "instruction": "Turn the yes/no questions into open questions.",
+          "instruction_pt": "Transforme as perguntas de sim/não em perguntas abertas.",
+          "items": [
+            {
+              "prompt": "Do you like your job?",
+              "answer": "What do you like about your job? / How do you like your job?"
+            },
+            {
+              "prompt": "Did you enjoy the talk?",
+              "answer": "What did you think of the talk?"
+            },
+            {
+              "prompt": "Are you working on a project?",
+              "answer": "What are you working on at the moment?"
+            }
+          ]
+        },
+        {
+          "id": "ex3",
+          "type": "order_words",
+          "title": "Polite phrases",
+          "instruction": "Put the words in order.",
+          "instruction_pt": "Organize as palavras.",
+          "items": [
+            {
+              "prompt": "think / met / don't / we've / I",
+              "answer": "I don't think we've met."
+            },
+            {
+              "prompt": "talking / it's / to / been / great / you",
+              "answer": "It's been great talking to you."
+            },
+            {
+              "prompt": "brings / here / you / what / ?",
+              "answer": "What brings you here?"
+            },
+            {
+              "prompt": "keep / let's / touch / in",
+              "answer": "Let's keep in touch."
+            }
+          ]
+        },
+        {
+          "id": "ex4",
+          "type": "dictation",
+          "title": "Dictation",
+          "instruction": "Listen and write the sentence.",
+          "instruction_pt": "Ouça e escreva a frase.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "Is it your first time here?"
+            },
+            {
+              "prompt": "2",
+              "answer": "What did you think of the keynote?"
+            },
+            {
+              "prompt": "3",
+              "answer": "Have you met Carla? She works in fintech too."
+            },
+            {
+              "prompt": "4",
+              "answer": "It's been great talking to you."
+            }
+          ]
+        },
+        {
+          "id": "ex5",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the mistake.",
+          "instruction_pt": "Encontre e corrija o erro.",
+          "items": [
+            {
+              "prompt": "Let me present you my boss.",
+              "answer": "Let me introduce you to my boss."
+            },
+            {
+              "prompt": "Was great to meet you.",
+              "answer": "It was great to meet you."
+            },
+            {
+              "prompt": "Mind if I join to you?",
+              "answer": "Mind if I join you?"
+            },
+            {
+              "prompt": "What brings you for here?",
+              "answer": "What brings you here?"
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "fill_blank",
+          "title": "Follow-up message",
+          "instruction": "Complete the LinkedIn message with: met · touch · enjoyed · mentioned · coffee.",
+          "instruction_pt": "Complete a mensagem do LinkedIn.",
+          "items": [
+            {
+              "prompt": "Hi Ellen, it was great to have ___ you at the Lisbon conference.",
+              "answer": "met"
+            },
+            {
+              "prompt": "I really ___ our conversation about accessibility.",
+              "answer": "enjoyed"
+            },
+            {
+              "prompt": "As I ___, my colleague Rita would love to talk to you.",
+              "answer": "mentioned"
+            },
+            {
+              "prompt": "Maybe we could have a virtual ___ next week? Let's keep in ___!",
+              "answer": "coffee / touch"
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction": "Networking event simulation: everyone receives a role card (job, company, city). Mingle for 15 minutes: start conversations, introduce people to each other, find things in common and close politely. Goal: collect 4 \"contacts\".",
+        "instruction_pt": "Simulação de evento de networking: cada um recebe um cartão de personagem (profissão, empresa, cidade). Circulem por 15 minutos: iniciem conversas, apresentem pessoas umas às outras, encontrem algo em comum e encerrem com educação. Meta: coletar 4 \"contatos\".",
+        "questions": [
+          "Is it your first time at an event like this?",
+          "What brings you here?",
+          "How did you get into your field?",
+          "What are you working on at the moment?",
+          "What's the best opportunity you got through a contact?"
+        ]
+      },
+      "writing": {
+        "task": "Write a follow-up email or LinkedIn message (100–130 words) to someone you met at an event. Mention something specific, suggest a next step and keep a friendly, professional tone.",
+        "task_pt": "Escreva um e-mail ou mensagem de LinkedIn de seguimento (100–130 palavras) para alguém que você conheceu num evento. Mencione algo específico, sugira um próximo passo e mantenha um tom amigável e profissional.",
+        "model": "Subject: Great to meet you at TechWeek!\n\nHi Ellen,\n\nIt was great to meet you at the TechWeek conference in Lisbon on Thursday. I really enjoyed our conversation about designing apps for older users — I've been thinking about your idea of testing prototypes with grandparents ever since!\n\nAs I mentioned, my colleague Rita leads our accessibility project, and she'd love to hear about your experience. Would you be available for a 30-minute video call sometime next week? Tuesday or Thursday afternoon (Lisbon time) would work well for us.\n\nI've also attached the article about inclusive design that I told you about.\n\nLooking forward to keeping in touch.\n\nBest regards,\nMateus Lima"
+      },
+      "culture_note": {
+        "title": "Cartão de visita x LinkedIn",
+        "text_pt": "Em muitos eventos internacionais, o cartão de visita foi substituído pelo **QR code do LinkedIn**: \"**Can I scan your QR code?**\". Mas no Japão e na China, o cartão físico ainda é um ritual importante — receba com as duas mãos e leia com atenção antes de guardar."
+      },
+      "summary_pt": [
+        "Abrir: comentário + pergunta (Is it your first time here?).",
+        "Apresentar: Have you met...? This is..., who...",
+        "Manter: perguntas abertas + reações + algo em comum.",
+        "Encerrar: I'll let you mingle / It's been great talking to you / Let's keep in touch."
+      ]
+    }
+  ],
+  "review": {
+    "intro_pt": "Revise artigos, relative clauses, formas de futuro e linguagem de networking.",
+    "exercises": [
+      {
+        "id": "r1",
+        "type": "multiple_choice",
+        "title": "Choose the correct option",
+        "instruction": "Choose the correct option.",
+        "instruction_pt": "Escolha a opção correta.",
+        "items": [
+          {
+            "prompt": "___ people trust online reviews.",
+            "options": [
+              "The",
+              "—",
+              "A"
+            ],
+            "answer": "—"
+          },
+          {
+            "prompt": "She's ___ engineer at ___ startup in Recife.",
+            "options": [
+              "an / a",
+              "a / an",
+              "the / a"
+            ],
+            "answer": "an / a"
+          },
+          {
+            "prompt": "That's the woman ___ company won the award.",
+            "options": [
+              "who",
+              "whose",
+              "which"
+            ],
+            "answer": "whose"
+          },
+          {
+            "prompt": "My phone, ___ I bought last year, is broken.",
+            "options": [
+              "that",
+              "which",
+              "what"
+            ],
+            "answer": "which"
+          },
+          {
+            "prompt": "Today ___ talk about three ideas. (plano)",
+            "options": [
+              "I'll",
+              "I'm going to"
+            ],
+            "answer": "I'm going to"
+          }
+        ]
+      },
+      {
+        "id": "r2",
+        "type": "fill_blank",
+        "title": "Mixed practice",
+        "instruction": "Complete with the correct word or form.",
+        "instruction_pt": "Complete com a palavra ou forma correta.",
+        "items": [
+          {
+            "prompt": "This is the café ___ I work on Fridays.",
+            "answer": "where"
+          },
+          {
+            "prompt": "The workshop ___ (start) at 3 p.m. according to the program.",
+            "answer": "starts"
+          },
+          {
+            "prompt": "Have you ___ Leo? He's the one who built the app.",
+            "answer": "met"
+          },
+          {
+            "prompt": "It's been great ___ to you.",
+            "answer": "talking"
+          }
+        ]
+      },
+      {
+        "id": "r3",
+        "type": "translate",
+        "title": "Translate",
+        "instruction": "Translate into English.",
+        "instruction_pt": "Traduza para o inglês.",
+        "items": [
+          {
+            "prompt": "As redes sociais estão mudando o marketing.",
+            "answer": "Social media is changing marketing."
+          },
+          {
+            "prompt": "É um app que te ajuda a dormir melhor.",
+            "answer": "It's an app that helps you sleep better."
+          },
+          {
+            "prompt": "Vou apresentar minha pesquisa na sexta. (marcado)",
+            "answer": "I'm presenting my research on Friday."
+          }
+        ]
+      },
+      {
+        "id": "r4",
+        "type": "dictation",
+        "title": "Dictation",
+        "instruction": "Listen and write the sentence.",
+        "instruction_pt": "Ouça e escreva a frase.",
+        "items": [
+          {
+            "prompt": "1",
+            "answer": "The campaign backfired."
+          },
+          {
+            "prompt": "2",
+            "answer": "That's the café where we first met."
+          },
+          {
+            "prompt": "3",
+            "answer": "In a nutshell, sleep is maintenance."
+          }
+        ]
+      },
+      {
+        "id": "r5",
+        "type": "correct_error",
+        "title": "Fix the mistake",
+        "instruction": "Find and correct the mistake.",
+        "instruction_pt": "Encontre e corrija o erro.",
+        "items": [
+          {
+            "prompt": "The marketing is my passion.",
+            "answer": "Marketing is my passion."
+          },
+          {
+            "prompt": "The app what I use is free.",
+            "answer": "The app (that/which) I use is free."
+          },
+          {
+            "prompt": "Let me present you my colleague.",
+            "answer": "Let me introduce you to my colleague."
+          }
+        ]
+      }
+    ],
+    "speaking_pt": "Grave um elevator pitch de 60 a 90 segundos sobre você ou um projeto, como se estivesse num evento internacional: quem você é, o que faz (sem jargão, com uma analogia), o que vai fazer em seguida e um convite para manter contato.",
+    "speaking_questions": [
+      "Describe a brand you admire and why.",
+      "Describe a product that didn't live up to the hype.",
+      "Explain something from your field as if I were 12 years old.",
+      "What are you going to focus on in your career next year?",
+      "How would you start a conversation with a stranger at a conference?"
+    ],
+    "project_pt": "**Launch campaign:** em grupo, criem uma campanha de lançamento para um produto fictício: nome, público-alvo, slogan, uma descrição com relative clauses, um post para redes sociais e um pitch de 2 minutos para investidores (com previsões usando will e planos com going to)."
+  }
+}

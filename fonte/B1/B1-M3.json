@@ -1,0 +1,2139 @@
+{
+  "id": "B1-M3",
+  "level": "B1",
+  "title": "Can, Could, Should, Must",
+  "theme_pt": "Verbos modais na prática: habilidade, pedidos, conselhos, obrigação e possibilidade",
+  "can_do": [
+    "Falar de habilidades presentes, passadas e futuras (can, could, be able to)",
+    "Fazer pedidos e favores com diferentes níveis de formalidade",
+    "Dar conselhos e recomendações com should, ought to e had better",
+    "Falar de regras, obrigações e proibições (must, have to, don't have to, mustn't)",
+    "Expressar possibilidade e fazer deduções (might, may, could, must)"
+  ],
+  "lessons": [
+    {
+      "id": "B1-M3-L1",
+      "title": "How fast can you run?",
+      "subtitle_pt": "Can, could e be able to: habilidades",
+      "duration_min": 60,
+      "source_refs": [
+        "SAM-B3 – Lesson 1 (can questions)",
+        "SAM-B3 – Lesson 2 (could: past ability)"
+      ],
+      "objectives": [
+        "Usar can / can't para habilidades presentes",
+        "Usar could / couldn't para habilidades no passado",
+        "Usar be able to em tempos onde can não funciona (futuro, present perfect)",
+        "Fazer perguntas com How + adjetivo/advérbio + can"
+      ],
+      "warmup": {
+        "text_pt": "Quando você era criança, o que conseguia fazer que hoje não consegue mais? E o que você ainda não sabe fazer, mas quer aprender?",
+        "questions": [
+          "What could you do as a child that you can't do now?",
+          "What would you like to be able to do?"
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "ability / skill",
+          "pt": "habilidade",
+          "say": "abíliti / skil"
+        },
+        {
+          "en": "to manage to",
+          "pt": "conseguir (com esforço)",
+          "say": "tu ménidj tu"
+        },
+        {
+          "en": "to hold your breath",
+          "pt": "prender a respiração",
+          "say": "tu rôuld iór bréθ"
+        },
+        {
+          "en": "flexible",
+          "pt": "flexível",
+          "say": "fléksibol"
+        },
+        {
+          "en": "to juggle",
+          "pt": "fazer malabarismo",
+          "say": "tu djâgol"
+        },
+        {
+          "en": "to whistle",
+          "pt": "assobiar",
+          "say": "tu uísol"
+        },
+        {
+          "en": "to touch your toes",
+          "pt": "encostar nos dedos dos pés",
+          "say": "tu tâtch iór tôuz"
+        },
+        {
+          "en": "to keep a secret",
+          "pt": "guardar um segredo",
+          "say": "tu kíp a síkret"
+        },
+        {
+          "en": "fluently",
+          "pt": "fluentemente",
+          "say": "flúentli"
+        },
+        {
+          "en": "by heart",
+          "pt": "de cor",
+          "say": "bái rárt"
+        },
+        {
+          "en": "talent",
+          "pt": "talento",
+          "say": "tálent"
+        },
+        {
+          "en": "to give up",
+          "pt": "desistir",
+          "say": "tu guív âp"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "How fast can you type?",
+          "pt": "Com que velocidade você digita?"
+        },
+        {
+          "en": "I could swim when I was four.",
+          "pt": "Eu sabia nadar com quatro anos."
+        },
+        {
+          "en": "I couldn't sleep last night.",
+          "pt": "Não consegui dormir ontem à noite."
+        },
+        {
+          "en": "I'll be able to help you tomorrow.",
+          "pt": "Vou poder te ajudar amanhã."
+        },
+        {
+          "en": "I've never been able to whistle.",
+          "pt": "Nunca consegui assobiar."
+        },
+        {
+          "en": "Can you keep a secret?",
+          "pt": "Você sabe guardar segredo?"
+        }
+      ],
+      "grammar": {
+        "title": "Can / could / be able to",
+        "explanation_pt": "**Can** = habilidade **presente** (saber, conseguir, poder):\n\"I **can** speak three languages.\" / \"**Can** you swim?\"\n\n**Could** = habilidade **geral no passado**:\n\"I **could** read when I was five.\" / \"I **couldn't** sleep last night.\"\n\n**Be able to** = o mesmo sentido de can, mas funciona em **todos os tempos**, onde can não pode ir:\n- futuro: \"I**'ll be able to** come tomorrow.\" (❌ \"I'll can\")\n- present perfect: \"I**'ve never been able to** whistle.\" (❌ \"I've could\")\n- depois de outro verbo: \"I'd like **to be able to** play the piano.\"\n\n**Sucesso numa situação específica do passado:** use **was able to** ou **managed to** (não could):\n\"The fire was huge, but everyone **was able to** escape.\" / \"I **managed to** finish on time.\"\nNa negativa, **couldn't** funciona sempre: \"I **couldn't** find my keys.\"\n\n**Perguntas com How:** How **fast** can you run? How **long** can you hold your breath? How **well** can you cook? How **far** can you swim?",
+        "table": {
+          "headers": [
+            "Tempo",
+            "Forma",
+            "Exemplo"
+          ],
+          "rows": [
+            [
+              "Presente",
+              "can / can't",
+              "I can cook very well."
+            ],
+            [
+              "Passado (geral)",
+              "could / couldn't",
+              "She could dance at age 3."
+            ],
+            [
+              "Passado (situação específica)",
+              "was able to / managed to",
+              "We managed to get tickets!"
+            ],
+            [
+              "Futuro",
+              "will be able to",
+              "You'll be able to drive next year."
+            ],
+            [
+              "Present perfect",
+              "have been able to",
+              "I haven't been able to call her."
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "How long can you hold your breath under water?",
+            "pt": "Por quanto tempo você consegue prender a respiração debaixo d'água?"
+          },
+          {
+            "en": "My grandma couldn't read, but she could tell amazing stories.",
+            "pt": "Minha avó não sabia ler, mas sabia contar histórias incríveis."
+          },
+          {
+            "en": "After this course, you'll be able to give presentations in English.",
+            "pt": "Depois deste curso, você vai conseguir fazer apresentações em inglês."
+          }
+        ],
+        "tip_pt": "**Can** também significa \"poder\" no sentido de **permissão** (\"Can I go?\") e **possibilidade** (\"It can be cold in June\"). O contexto mostra qual é."
+      },
+      "common_mistakes": [
+        {
+          "wrong": "I will can go tomorrow.",
+          "right": "I'll be able to go tomorrow.",
+          "why_pt": "Can não tem futuro com will. Use will be able to."
+        },
+        {
+          "wrong": "I can to speak English.",
+          "right": "I can speak English.",
+          "why_pt": "Modais não levam to."
+        },
+        {
+          "wrong": "Yesterday I could finish the report on time. (sucesso específico)",
+          "right": "Yesterday I managed to / was able to finish the report on time.",
+          "why_pt": "Para um sucesso numa situação específica do passado, prefira was able to / managed to."
+        }
+      ],
+      "pronunciation": {
+        "focus": "Could, couldn't e o L mudo",
+        "tip_pt": "**Could** = \"kúd\" (L mudo, como would e should). **Couldn't** = \"kúdent\" — e o T final muitas vezes some: \"I kúden(t) sleep\". **Able** = \"êibol\".",
+        "practice": [
+          "I could swim when I was four.",
+          "I couldn't sleep last night.",
+          "Will you be able to come?"
+        ]
+      },
+      "dialogue": {
+        "title": "Hidden talents",
+        "context_pt": "Num happy hour, colegas brincam de descobrir talentos escondidos uns dos outros.",
+        "lines": [
+          {
+            "speaker": "Kai",
+            "en": "OK, hidden talents. Igor, what can you do that nobody knows?",
+            "pt": "OK, talentos escondidos. Igor, o que você sabe fazer que ninguém sabe?"
+          },
+          {
+            "speaker": "Igor",
+            "en": "I can juggle five balls. I learned when I was a kid — I could juggle three by age eight.",
+            "pt": "Sei fazer malabarismo com cinco bolas. Aprendi criança — com oito anos já fazia com três."
+          },
+          {
+            "speaker": "Malu",
+            "en": "No way! I can't even juggle two. I've never been able to do it.",
+            "pt": "Não acredito! Eu não consigo nem com duas. Nunca consegui."
+          },
+          {
+            "speaker": "Kai",
+            "en": "Malu, your turn.",
+            "pt": "Malu, sua vez."
+          },
+          {
+            "speaker": "Malu",
+            "en": "I can say the alphabet backwards in three seconds. Z-Y-X-W... see?",
+            "pt": "Consigo falar o alfabeto de trás para frente em três segundos. Z-Y-X-W... viu?"
+          },
+          {
+            "speaker": "Igor",
+            "en": "Impressive! And you, Kai?",
+            "pt": "Impressionante! E você, Kai?"
+          },
+          {
+            "speaker": "Kai",
+            "en": "Well, I used to be very flexible. I could touch my toes easily. Now I can't even reach my knees!",
+            "pt": "Bom, eu era muito flexível. Encostava nos dedos dos pés fácil. Agora não alcanço nem os joelhos!"
+          },
+          {
+            "speaker": "Malu",
+            "en": "Start yoga with me! In a few months, you'll be able to do it again.",
+            "pt": "Começa yoga comigo! Em alguns meses, você vai conseguir de novo."
+          }
+        ]
+      },
+      "listening": {
+        "title": "Amazing animals",
+        "context_pt": "Trecho de um documentário sobre habilidades incríveis de animais.",
+        "lines": [
+          {
+            "speaker": "Narrator",
+            "en": "Animals can do incredible things. A cheetah can run at more than one hundred kilometers per hour, but only for about thirty seconds. A sperm whale can hold its breath for ninety minutes and dive more than two kilometers deep. Some parrots can learn hundreds of words, and one famous parrot, Alex, was able to identify colors and shapes. And the tiny tardigrade? Scientists have discovered that it can survive in space, without water or oxygen. Humans, on the other hand, can't run very fast or hold their breath for long — but we can do something no animal can: we can tell stories about all of them."
+          }
+        ],
+        "questions": [
+          {
+            "q": "How fast can a cheetah run?",
+            "answer": "More than 100 km/h (for about 30 seconds)."
+          },
+          {
+            "q": "How long can a sperm whale hold its breath?",
+            "answer": "For ninety minutes."
+          },
+          {
+            "q": "What was Alex the parrot able to do?",
+            "answer": "Identify colors and shapes."
+          },
+          {
+            "q": "Where can the tardigrade survive?",
+            "answer": "In space, without water or oxygen."
+          }
+        ]
+      },
+      "reading": {
+        "title": "It's never too late",
+        "text": "Many adults believe that they can't learn new skills after a certain age. \"I couldn't learn a language now — my brain is too old,\" they say. Neuroscience says otherwise. Thanks to neuroplasticity, our brains can create new connections throughout our lives. Children may learn some things faster, but adults have advantages too: they can organize their study, understand grammar rules and connect new information to what they already know. Consider Dona Neusa from Minas Gerais: she couldn't read until she was 70. She went back to school, and two years later she was able to read her first novel. \"I've been able to do things I never imagined,\" she says. Her secret? \"I never gave up.\"",
+        "questions": [
+          {
+            "q": "What do many adults believe?",
+            "answer": "That they can't learn new skills after a certain age."
+          },
+          {
+            "q": "What is neuroplasticity?",
+            "answer": "The brain's ability to create new connections throughout life."
+          },
+          {
+            "q": "What advantages do adults have?",
+            "answer": "They can organize study, understand rules and connect new information to what they know."
+          },
+          {
+            "q": "What was Dona Neusa able to do two years after going back to school?",
+            "answer": "Read her first novel."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "multiple_choice",
+          "title": "can, could or be able to?",
+          "instruction": "Choose the correct option.",
+          "instruction_pt": "Escolha a opção correta.",
+          "items": [
+            {
+              "prompt": "I ___ swim when I was five.",
+              "options": [
+                "can",
+                "could",
+                "will be able to"
+              ],
+              "answer": "could"
+            },
+            {
+              "prompt": "Next year, I ___ vote.",
+              "options": [
+                "can",
+                "could",
+                "'ll be able to"
+              ],
+              "answer": "'ll be able to"
+            },
+            {
+              "prompt": "I haven't ___ sleep well lately.",
+              "options": [
+                "could",
+                "been able to",
+                "can"
+              ],
+              "answer": "been able to"
+            },
+            {
+              "prompt": "___ you speak Spanish?",
+              "options": [
+                "Can",
+                "Are you able",
+                "Could you to"
+              ],
+              "answer": "Can"
+            },
+            {
+              "prompt": "The exam was hard, but I ___ pass it!",
+              "options": [
+                "could",
+                "managed to",
+                "can"
+              ],
+              "answer": "managed to"
+            }
+          ]
+        },
+        {
+          "id": "ex2",
+          "type": "fill_blank",
+          "title": "How questions",
+          "instruction": "Complete the questions with: fast · long · far · well · many.",
+          "instruction_pt": "Complete as perguntas.",
+          "items": [
+            {
+              "prompt": "How ___ can you type? — 70 words per minute.",
+              "answer": "fast"
+            },
+            {
+              "prompt": "How ___ can you hold your breath? — About a minute.",
+              "answer": "long"
+            },
+            {
+              "prompt": "How ___ can you swim? — About 2 km.",
+              "answer": "far"
+            },
+            {
+              "prompt": "How ___ can you cook? — Not very well!",
+              "answer": "well"
+            },
+            {
+              "prompt": "How ___ languages can you speak? — Three.",
+              "answer": "many"
+            }
+          ]
+        },
+        {
+          "id": "ex3",
+          "type": "translate",
+          "title": "Translate",
+          "instruction": "Translate into English.",
+          "instruction_pt": "Traduza para o inglês.",
+          "items": [
+            {
+              "prompt": "Não consegui dormir ontem.",
+              "answer": "I couldn't sleep yesterday."
+            },
+            {
+              "prompt": "Você vai conseguir vir amanhã?",
+              "answer": "Will you be able to come tomorrow?"
+            },
+            {
+              "prompt": "Nunca consegui assobiar.",
+              "answer": "I've never been able to whistle."
+            },
+            {
+              "prompt": "Eu sabia ler com quatro anos.",
+              "answer": "I could read when I was four."
+            }
+          ]
+        },
+        {
+          "id": "ex4",
+          "type": "dictation",
+          "title": "Dictation",
+          "instruction": "Listen and write the sentence.",
+          "instruction_pt": "Ouça e escreva a frase.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "How fast can you run?"
+            },
+            {
+              "prompt": "2",
+              "answer": "I couldn't sleep last night."
+            },
+            {
+              "prompt": "3",
+              "answer": "I'll be able to help you tomorrow."
+            },
+            {
+              "prompt": "4",
+              "answer": "Can you keep a secret?"
+            }
+          ]
+        },
+        {
+          "id": "ex5",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the mistake.",
+          "instruction_pt": "Encontre e corrija o erro.",
+          "items": [
+            {
+              "prompt": "I will can call you later.",
+              "answer": "I'll be able to call you later."
+            },
+            {
+              "prompt": "She can to dance very well.",
+              "answer": "She can dance very well."
+            },
+            {
+              "prompt": "I haven't could finish it.",
+              "answer": "I haven't been able to finish it."
+            },
+            {
+              "prompt": "Do you can help me?",
+              "answer": "Can you help me?"
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "fill_blank",
+          "title": "Complete the story",
+          "instruction": "Complete with: could · couldn't · managed · able · can.",
+          "instruction_pt": "Complete a história.",
+          "items": [
+            {
+              "prompt": "When I was a teenager, I ___ run 10 km easily.",
+              "answer": "could"
+            },
+            {
+              "prompt": "Then I stopped exercising, and for years I ___ run even 1 km.",
+              "answer": "couldn't"
+            },
+            {
+              "prompt": "Last year I started again, and in June I ___ to run a half marathon!",
+              "answer": "managed"
+            },
+            {
+              "prompt": "Now I ___ run 15 km, and next year I hope I'll be ___ to run a full marathon.",
+              "answer": "can / able"
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction": "Answer the SAM-style questions with complete sentences. Then ask your partner and compare your abilities.",
+        "instruction_pt": "Responda às perguntas no estilo SAM com frases completas. Depois pergunte ao colega e comparem as habilidades.",
+        "questions": [
+          "How fast can you run? Can you run further than me?",
+          "How long can you hold your breath under water?",
+          "What could you do as a child that you can't do now?",
+          "What can't you eat?",
+          "What would you like to be able to do in five years?",
+          "Can you name three pieces of furniture in English?"
+        ]
+      },
+      "writing": {
+        "task": "Write about your abilities: past, present and future (100–120 words). Use can, could, be able to and managed to.",
+        "task_pt": "Escreva sobre suas habilidades: passado, presente e futuro (100–120 palavras). Use can, could, be able to e managed to.",
+        "model": "When I was a child, I could climb any tree in my grandparents' garden, and I could speak a bit of Italian with my grandmother. Sadly, I can't do either now! I've never been able to sing well — my family asks me to stop at birthday parties. But I can cook very well, and I can make a perfect feijoada. Last year I managed to finish my first 10K race, which was a big achievement for me. My goal for next year is to be able to have a conversation in English without feeling nervous. I'm sure I'll be able to do it if I practice every day."
+      },
+      "culture_note": {
+        "title": "\"Can-do\" attitude",
+        "text_pt": "Em inglês, **a can-do attitude** é uma atitude positiva e proativa — muito valorizada em entrevistas e no trabalho. O CEFR (o quadro de níveis que este curso segue) também usa **\"can-do statements\"**: \"I can introduce myself\", \"I can describe experiences\"..."
+      },
+      "summary_pt": [
+        "can = habilidade presente.",
+        "could / couldn't = habilidade geral no passado.",
+        "be able to = qualquer tempo (will be able to, have been able to).",
+        "Sucesso específico no passado = was able to / managed to."
+      ]
+    },
+    {
+      "id": "B1-M3-L2",
+      "title": "Could you do me a favor?",
+      "subtitle_pt": "Pedidos, favores e reações (could, would, How could you...?)",
+      "duration_min": 55,
+      "source_refs": [
+        "SAM-B3 – Lesson 2 (could questions: requests, How could you...?)",
+        "SAM-B3 – Lesson 4 (would questions)"
+      ],
+      "objectives": [
+        "Fazer pedidos com Can / Could / Would you...?",
+        "Pedir favores maiores com educação",
+        "Aceitar e recusar pedidos",
+        "Usar How could you...? e Why couldn't you...? para reclamar ou se surpreender"
+      ],
+      "warmup": {
+        "text_pt": "Qual é o maior favor que alguém já te pediu? E você — tem facilidade de pedir ajuda?",
+        "questions": [
+          "Is it easy for you to ask for favors?",
+          "Who do you call when you need help?"
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "to do (someone) a favor",
+          "pt": "fazer um favor (a alguém)",
+          "say": "tu dú a fêivor"
+        },
+        {
+          "en": "to owe (someone)",
+          "pt": "dever (a alguém)",
+          "say": "tu ôu"
+        },
+        {
+          "en": "to pick (someone) up",
+          "pt": "buscar (alguém)",
+          "say": "tu pik âp"
+        },
+        {
+          "en": "to drop (someone) off",
+          "pt": "deixar (alguém em algum lugar)",
+          "say": "tu dróp óf"
+        },
+        {
+          "en": "to water the plants",
+          "pt": "regar as plantas",
+          "say": "tu uórer dâ plénts"
+        },
+        {
+          "en": "to feed (the cat)",
+          "pt": "alimentar (o gato)",
+          "say": "tu fíd"
+        },
+        {
+          "en": "to lend a hand",
+          "pt": "dar uma mão, ajudar",
+          "say": "tu lénd a rénd"
+        },
+        {
+          "en": "to set the table",
+          "pt": "pôr a mesa",
+          "say": "tu sét dâ têibol"
+        },
+        {
+          "en": "to do the dishes",
+          "pt": "lavar a louça",
+          "say": "tu dú dâ díshiz"
+        },
+        {
+          "en": "no problem / no worries",
+          "pt": "sem problema",
+          "say": "nôu próblem / nôu uâriz"
+        },
+        {
+          "en": "I'd rather not",
+          "pt": "prefiro não",
+          "say": "áid réder nót"
+        },
+        {
+          "en": "to lock yourself out",
+          "pt": "ficar trancado do lado de fora",
+          "say": "tu lók iórsélf áut"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "Could you do me a favor?",
+          "pt": "Você poderia me fazer um favor?"
+        },
+        {
+          "en": "Would you mind picking me up?",
+          "pt": "Você se importaria de me buscar?"
+        },
+        {
+          "en": "I owe you one!",
+          "pt": "Fico te devendo uma!"
+        },
+        {
+          "en": "Sure, no problem.",
+          "pt": "Claro, sem problema."
+        },
+        {
+          "en": "I'm sorry, I can't this time.",
+          "pt": "Desculpe, dessa vez não dá."
+        },
+        {
+          "en": "How could you forget my birthday?",
+          "pt": "Como você pôde esquecer meu aniversário?"
+        }
+      ],
+      "grammar": {
+        "title": "Pedidos e How could you...?",
+        "explanation_pt": "**Escala de educação dos pedidos:**\n1. **Can you** + verbo? → informal, amigos e família\n2. **Could you** + verbo? → educado, o mais versátil\n3. **Would you** + verbo? → educado\n4. **Would you mind** + verbo-**ing**? → muito educado (bom para favores grandes)\n5. **I was wondering if you could** + verbo → muito indireto e formal\n\nPara pedidos grandes, **prepare o terreno**: \"Could you do me a **big** favor?\" / \"I hate to ask, but...\"\n\n**Respostas:**\n- Sim: Sure! / Of course. / No problem. / I'd be happy to.\n- Não (com educação): I'm sorry, I can't. I... / I'd love to help, but... / I'm afraid I'm busy.\n\n**How could you...?** = Como você pôde...? (indignação ou surpresa no passado)\n\"**How could you** leave your keys at home **again**?!\"\n\n**Why couldn't you...?** = Por que você não conseguiu / não pôde...?\n\"**Why couldn't you** call me earlier?\"",
+        "table": {
+          "headers": [
+            "Nível",
+            "Exemplo"
+          ],
+          "rows": [
+            [
+              "Informal",
+              "Can you pass the salt?"
+            ],
+            [
+              "Educado",
+              "Could you close the window, please?"
+            ],
+            [
+              "Educado",
+              "Would you help me with this box?"
+            ],
+            [
+              "Muito educado",
+              "Would you mind watering my plants?"
+            ],
+            [
+              "Formal / indireto",
+              "I was wondering if you could review my CV."
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "Could you do me a favor? Could you feed my cat this weekend?",
+            "pt": "Você poderia me fazer um favor? Poderia alimentar meu gato neste fim de semana?"
+          },
+          {
+            "en": "I was wondering if you could write me a recommendation letter.",
+            "pt": "Eu queria saber se você poderia me escrever uma carta de recomendação."
+          },
+          {
+            "en": "How could you lock yourself out of the house again?",
+            "pt": "Como você conseguiu se trancar do lado de fora de novo?"
+          }
+        ],
+        "tip_pt": "Depois de um favor, diga **\"I owe you one!\"** (te devo uma) ou **\"You're a lifesaver!\"** (você salvou minha vida). E para responder a um agradecimento: **\"Anytime!\"** (quando precisar)."
+      },
+      "common_mistakes": [
+        {
+          "wrong": "Could you to help me?",
+          "right": "Could you help me?",
+          "why_pt": "Could + verbo base."
+        },
+        {
+          "wrong": "Would you mind to pick me up?",
+          "right": "Would you mind picking me up?",
+          "why_pt": "Would you mind + -ing."
+        },
+        {
+          "wrong": "Can you make me a favor?",
+          "right": "Can you do me a favor?",
+          "why_pt": "Fazer um favor = do a favor (não make)."
+        }
+      ],
+      "pronunciation": {
+        "focus": "Entonação de pedidos",
+        "tip_pt": "Um pedido com entonação **subindo** e voz suave soa educado: \"Could you help me? ↗\". A mesma frase com entonação descendo e voz seca soa como ordem. E **How could you...?!** tem ênfase forte no **could**: \"How **COULD** you?!\"",
+        "practice": [
+          "Could you do me a favor? ↗",
+          "Would you mind picking me up? ↗",
+          "How COULD you forget?!"
+        ]
+      },
+      "dialogue": {
+        "title": "A big favor",
+        "context_pt": "Laura vai viajar e precisa pedir vários favores à vizinha.",
+        "lines": [
+          {
+            "speaker": "Laura",
+            "en": "Hi, Ellen! Sorry to bother you. Could you do me a big favor?",
+            "pt": "Oi, Ellen! Desculpe incomodar. Você poderia me fazer um grande favor?"
+          },
+          {
+            "speaker": "Ellen",
+            "en": "Sure, what do you need?",
+            "pt": "Claro, do que você precisa?"
+          },
+          {
+            "speaker": "Laura",
+            "en": "I'm traveling for work next week. Would you mind feeding my cat? Just once a day.",
+            "pt": "Vou viajar a trabalho semana que vem. Você se importaria de alimentar meu gato? Só uma vez por dia."
+          },
+          {
+            "speaker": "Ellen",
+            "en": "Not at all. I love Mingau! Anything else?",
+            "pt": "De jeito nenhum. Eu amo o Mingau! Mais alguma coisa?"
+          },
+          {
+            "speaker": "Laura",
+            "en": "Could you water the plants on the balcony, too? And... I was wondering if you could pick up a package for me on Wednesday.",
+            "pt": "Você poderia regar as plantas da varanda também? E... eu queria saber se você poderia receber uma encomenda para mim na quarta."
+          },
+          {
+            "speaker": "Ellen",
+            "en": "Wednesday is a bit difficult — I work late. But my son can pick it up. No problem.",
+            "pt": "Quarta é um pouco difícil — trabalho até tarde. Mas meu filho pode pegar. Sem problema."
+          },
+          {
+            "speaker": "Laura",
+            "en": "You're a lifesaver! I owe you one. I'll bring you something from Chile.",
+            "pt": "Você salvou minha vida! Fico te devendo uma. Vou te trazer algo do Chile."
+          },
+          {
+            "speaker": "Ellen",
+            "en": "Anytime! Just don't forget to leave me the keys this time!",
+            "pt": "Quando precisar! Só não esqueça de deixar as chaves comigo desta vez!"
+          }
+        ]
+      },
+      "listening": {
+        "title": "Roommate argument",
+        "context_pt": "Dois colegas de apartamento discutem sobre um esquecimento.",
+        "lines": [
+          {
+            "speaker": "Bel",
+            "en": "Rafa, how could you forget to pay the electricity bill? They've cut the power!"
+          },
+          {
+            "speaker": "Rafa",
+            "en": "I'm so sorry! I thought it was next week. Why couldn't you remind me?"
+          },
+          {
+            "speaker": "Bel",
+            "en": "I did! I sent you three messages. Could you at least call the company now?"
+          },
+          {
+            "speaker": "Rafa",
+            "en": "Of course. I'll pay it online and ask them to reconnect it today. Would you mind lending me your laptop? Mine's out of battery."
+          },
+          {
+            "speaker": "Bel",
+            "en": "Seriously? ... Fine. But you're doing the dishes for a week."
+          }
+        ],
+        "questions": [
+          {
+            "q": "What did Rafa forget to do?",
+            "answer": "Pay the electricity bill."
+          },
+          {
+            "q": "What's the consequence?",
+            "answer": "They've cut the power."
+          },
+          {
+            "q": "Why does Rafa need Bel's laptop?",
+            "answer": "His is out of battery."
+          },
+          {
+            "q": "What does Rafa have to do for a week?",
+            "answer": "The dishes."
+          }
+        ]
+      },
+      "reading": {
+        "title": "The Ben Franklin effect",
+        "text": "Do you want someone to like you more? Ask them for a favor. It sounds strange, but it's a well-known psychological phenomenon called the Ben Franklin effect. In the 18th century, Benjamin Franklin had a political rival who didn't like him. Instead of being extra nice to him, Franklin wrote a polite letter asking if he could borrow a rare book from the man's library. The rival lent it, Franklin returned it with a warm thank-you note, and the two became friends. Psychologists explain that when we do someone a favor, our brain looks for a reason: \"I helped this person, so I must like them.\" The lesson? Small favors — \"Could you recommend a good restaurant?\" — can build relationships. Just don't ask for too many!",
+        "questions": [
+          {
+            "q": "What is the Ben Franklin effect?",
+            "answer": "People like you more after doing you a favor."
+          },
+          {
+            "q": "What did Franklin ask his rival?",
+            "answer": "If he could borrow a rare book from his library."
+          },
+          {
+            "q": "How do psychologists explain the effect?",
+            "answer": "Our brain thinks: \"I helped this person, so I must like them.\""
+          },
+          {
+            "q": "What is the warning at the end?",
+            "answer": "Don't ask for too many favors."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "order_words",
+          "title": "Polite requests",
+          "instruction": "Put the words in order to make polite requests.",
+          "instruction_pt": "Organize as palavras para formar pedidos educados.",
+          "items": [
+            {
+              "prompt": "do / could / a favor / you / me / ?",
+              "answer": "Could you do me a favor?"
+            },
+            {
+              "prompt": "mind / would / me / you / up / picking / ?",
+              "answer": "Would you mind picking me up?"
+            },
+            {
+              "prompt": "if / I / wondering / could / was / you / help me",
+              "answer": "I was wondering if you could help me."
+            }
+          ]
+        },
+        {
+          "id": "ex2",
+          "type": "multiple_choice",
+          "title": "Choose the best request",
+          "instruction": "Choose the most appropriate request for the situation.",
+          "instruction_pt": "Escolha o pedido mais adequado para a situação.",
+          "items": [
+            {
+              "prompt": "(para seu irmão) passar o controle remoto",
+              "options": [
+                "Can you pass me the remote?",
+                "I was wondering if you could pass me the remote."
+              ],
+              "answer": "Can you pass me the remote?"
+            },
+            {
+              "prompt": "(para um professor) escrever uma carta de recomendação",
+              "options": [
+                "Write me a letter.",
+                "I was wondering if you could write me a recommendation letter."
+              ],
+              "answer": "I was wondering if you could write me a recommendation letter."
+            },
+            {
+              "prompt": "(para um colega) cobrir seu turno",
+              "options": [
+                "Would you mind covering my shift on Friday?",
+                "Cover my shift."
+              ],
+              "answer": "Would you mind covering my shift on Friday?"
+            }
+          ]
+        },
+        {
+          "id": "ex3",
+          "type": "match",
+          "title": "How could you...?",
+          "instruction": "Write a reaction with How could you...? or Why couldn't you...?",
+          "instruction_pt": "Escreva uma reação com How could you...? ou Why couldn't you...?",
+          "items": [
+            {
+              "prompt": "Your friend forgot your birthday.",
+              "answer": "How could you forget my birthday?"
+            },
+            {
+              "prompt": "Your colleague didn't call you about the meeting change.",
+              "answer": "Why couldn't you call me?"
+            },
+            {
+              "prompt": "Your roommate ate your birthday cake.",
+              "answer": "How could you eat my cake?"
+            }
+          ]
+        },
+        {
+          "id": "ex4",
+          "type": "dictation",
+          "title": "Dictation",
+          "instruction": "Listen and write the sentence.",
+          "instruction_pt": "Ouça e escreva a frase.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "Could you do me a favor?"
+            },
+            {
+              "prompt": "2",
+              "answer": "Would you mind picking me up?"
+            },
+            {
+              "prompt": "3",
+              "answer": "I owe you one!"
+            },
+            {
+              "prompt": "4",
+              "answer": "How could you forget my birthday?"
+            }
+          ]
+        },
+        {
+          "id": "ex5",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the mistake.",
+          "instruction_pt": "Encontre e corrija o erro.",
+          "items": [
+            {
+              "prompt": "Can you make me a favor?",
+              "answer": "Can you do me a favor?"
+            },
+            {
+              "prompt": "Would you mind to help me?",
+              "answer": "Would you mind helping me?"
+            },
+            {
+              "prompt": "Could you to send me the file?",
+              "answer": "Could you send me the file?"
+            },
+            {
+              "prompt": "I was wondering if you can help me.",
+              "answer": "I was wondering if you could help me."
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "fill_blank",
+          "title": "Complete the dialogue",
+          "instruction": "Complete with: favor · mind · owe · problem · could.",
+          "instruction_pt": "Complete o diálogo.",
+          "items": [
+            {
+              "prompt": "A: Could you do me a ___?",
+              "answer": "favor"
+            },
+            {
+              "prompt": "A: Would you ___ dropping me off at the airport tomorrow?",
+              "answer": "mind"
+            },
+            {
+              "prompt": "B: No ___! What time?",
+              "answer": "problem"
+            },
+            {
+              "prompt": "A: At 6 a.m. Sorry! I ___ you one. — B: 6 a.m.?! How ___ you book such an early flight?",
+              "answer": "owe / could"
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction": "Answer the SAM-style questions. Then role-play: ask your partner for three favors (small, medium, big) with different levels of politeness.",
+        "instruction_pt": "Responda às perguntas no estilo SAM. Depois, role-play: peça ao colega três favores (pequeno, médio e grande) com diferentes níveis de educação.",
+        "questions": [
+          "Could you make a chocolate cake?",
+          "Could you order us a pizza?",
+          "How could you forget about the class yesterday? (invent an excuse!)",
+          "Why couldn't you call me earlier? (invent an excuse!)",
+          "What's the biggest favor you've ever done for someone?",
+          "How could someone get a promotion quickly?"
+        ]
+      },
+      "writing": {
+        "task": "Write two messages asking for a favor (60–80 words each): one informal to a friend, one formal to a teacher or manager.",
+        "task_pt": "Escreva duas mensagens pedindo um favor (60–80 palavras cada): uma informal para um amigo e uma formal para um professor ou gestor.",
+        "model": "Informal:\nHey Leo! Can you do me a huge favor? My car broke down and I need to pick up my mom at the airport on Saturday at 10. Could you drive me there? I'll buy you lunch after — promise! I owe you one. 🙏\n\nFormal:\nDear Professor Martins,\nI hope you are well. I'm applying for a master's program in Portugal, and I was wondering if you could write me a letter of recommendation. The deadline is May 30th. I would be happy to send you my CV and any information you need.\nThank you very much for considering my request.\nBest regards,\nAna Souza"
+      },
+      "culture_note": {
+        "title": "Pedir ajuda no trabalho",
+        "text_pt": "Em muitas empresas de cultura anglo-saxã, pedir ajuda é visto como sinal de maturidade, não de fraqueza. Frases úteis: **\"Do you have a minute?\"**, **\"Could I pick your brain about something?\"** (posso aproveitar seu conhecimento?) e **\"Could you walk me through this?\"** (pode me explicar passo a passo?)."
+      },
+      "summary_pt": [
+        "Can (informal) → Could / Would → Would you mind + -ing → I was wondering if you could.",
+        "do a favor (não make).",
+        "How could you...? = indignação · Why couldn't you...? = cobrança.",
+        "I owe you one! / Anytime!"
+      ]
+    },
+    {
+      "id": "B1-M3-L3",
+      "title": "You should try it",
+      "subtitle_pt": "Conselhos: should, ought to, had better, If I were you",
+      "duration_min": 55,
+      "source_refs": [
+        "SAM-B3 – Lesson 3 (should questions)",
+        "Keynote Intermediate – Unit 12 (well-being, advice)"
+      ],
+      "objectives": [
+        "Dar e pedir conselhos com should / shouldn't",
+        "Usar ought to e had better (com aviso)",
+        "Usar If I were you, I'd... e Why don't you...?",
+        "Responder a conselhos com educação"
+      ],
+      "warmup": {
+        "text_pt": "Qual foi o melhor conselho que você já recebeu? E o pior? Você costuma seguir os conselhos dos outros?",
+        "questions": [
+          "What's the best advice you've ever received?",
+          "Who do you ask for advice?"
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "advice (uncountable) / to advise",
+          "pt": "conselho / aconselhar",
+          "say": "edváis / tu edváiz"
+        },
+        {
+          "en": "to recommend / recommendation",
+          "pt": "recomendar / recomendação",
+          "say": "tu rekoménd"
+        },
+        {
+          "en": "to suggest / suggestion",
+          "pt": "sugerir / sugestão",
+          "say": "tu sadjést"
+        },
+        {
+          "en": "had better ('d better)",
+          "pt": "é melhor (aviso)",
+          "say": "réd bérer"
+        },
+        {
+          "en": "ought to",
+          "pt": "deveria",
+          "say": "ót tu (órâ)"
+        },
+        {
+          "en": "burnout",
+          "pt": "esgotamento",
+          "say": "bârnaut"
+        },
+        {
+          "en": "work-life balance",
+          "pt": "equilíbrio entre trabalho e vida",
+          "say": "uórk láif bélans"
+        },
+        {
+          "en": "to take a break",
+          "pt": "fazer uma pausa",
+          "say": "tu têik a brêik"
+        },
+        {
+          "en": "to set boundaries",
+          "pt": "estabelecer limites",
+          "say": "tu sét báundriz"
+        },
+        {
+          "en": "to sleep on it",
+          "pt": "pensar com calma (dormir sobre o assunto)",
+          "say": "tu slíp on it"
+        },
+        {
+          "en": "to give it a try",
+          "pt": "experimentar, tentar",
+          "say": "tu guív it a trái"
+        },
+        {
+          "en": "to regret",
+          "pt": "arrepender-se",
+          "say": "tu rigrét"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "What should I do?",
+          "pt": "O que eu devo fazer?"
+        },
+        {
+          "en": "If I were you, I'd talk to her.",
+          "pt": "Se eu fosse você, falaria com ela."
+        },
+        {
+          "en": "You'd better hurry, or you'll miss the bus.",
+          "pt": "É melhor você se apressar, ou vai perder o ônibus."
+        },
+        {
+          "en": "Why don't you give it a try?",
+          "pt": "Por que você não experimenta?"
+        },
+        {
+          "en": "That's good advice. Thanks!",
+          "pt": "É um bom conselho. Obrigado!"
+        },
+        {
+          "en": "I'll sleep on it.",
+          "pt": "Vou pensar com calma."
+        }
+      ],
+      "grammar": {
+        "title": "Conselhos: should, ought to, had better",
+        "explanation_pt": "**Should / shouldn't** + verbo base → conselho, opinião (o mais comum):\n\"You **should** see a doctor.\" / \"You **shouldn't** work so late.\" / \"**Should** I call him?\"\n\n**Ought to** + verbo base → mesmo sentido de should, um pouco mais formal e menos comum em perguntas e negativas:\n\"You **ought to** apologize.\"\n\n**Had better ('d better)** + verbo base → conselho **forte, com aviso** de consequência negativa (é presente/futuro, apesar do \"had\"):\n\"You**'d better** leave now, **or** you'll miss your flight.\"\nNegativa: \"You**'d better not** tell her.\"\n\n**Outras formas de aconselhar:**\n- **If I were you, I'd** + verbo → \"If I were you, I'd take the job.\" (note: **were** para todas as pessoas)\n- **Why don't you** + verbo? → \"Why don't you try yoga?\"\n- **Have you tried** + -ing? → \"Have you tried meditating?\"\n- **I'd recommend** + -ing → \"I'd recommend talking to HR.\"\n\nLembre-se: **advice** é incontável → \"some advice\", \"a piece of advice\" (❌ \"an advice\", \"advices\").",
+        "table": {
+          "headers": [
+            "Forma",
+            "Força",
+            "Exemplo"
+          ],
+          "rows": [
+            [
+              "Why don't you...? / Have you tried...?",
+              "sugestão leve",
+              "Why don't you take a break?"
+            ],
+            [
+              "should / ought to",
+              "conselho",
+              "You should rest more."
+            ],
+            [
+              "If I were you, I'd...",
+              "conselho pessoal",
+              "If I were you, I'd quit."
+            ],
+            [
+              "had better",
+              "aviso forte",
+              "You'd better call her now."
+            ],
+            [
+              "must",
+              "muito forte / ordem",
+              "You must see this movie!"
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "Should I accept the job offer in São Paulo? — If I were you, I'd sleep on it.",
+            "pt": "Devo aceitar a proposta em São Paulo? — Se eu fosse você, pensaria com calma."
+          },
+          {
+            "en": "You'd better back up your files, or you might lose everything.",
+            "pt": "É melhor você fazer backup dos arquivos, ou pode perder tudo."
+          },
+          {
+            "en": "Have you tried turning off your phone an hour before bed?",
+            "pt": "Você já tentou desligar o celular uma hora antes de dormir?"
+          }
+        ],
+        "tip_pt": "**Had better** soa como ameaça se usado com chefes ou pessoas mais velhas (\"You'd better pay me!\"). Com eles, prefira **should** ou **If I were you**."
+      },
+      "common_mistakes": [
+        {
+          "wrong": "You should to rest.",
+          "right": "You should rest.",
+          "why_pt": "Should + verbo base, sem to."
+        },
+        {
+          "wrong": "You had better to go.",
+          "right": "You'd better go.",
+          "why_pt": "Had better + verbo base, sem to."
+        },
+        {
+          "wrong": "Can you give me an advice?",
+          "right": "Can you give me some advice?",
+          "why_pt": "Advice é incontável."
+        }
+      ],
+      "pronunciation": {
+        "focus": "You'd better / ought to",
+        "tip_pt": "**You'd better** na fala rápida vira \"iúd bérer\" — e muitas vezes o 'd some: \"You better go!\" (informal). **Ought to** = \"órâ\" no americano. **Should** = \"shúd\" (L mudo).",
+        "practice": [
+          "You'd better hurry!",
+          "You ought to apologize.",
+          "If I were you, I'd call her."
+        ]
+      },
+      "dialogue": {
+        "title": "Burnout",
+        "context_pt": "Um amigo percebe que o outro está esgotado e dá conselhos.",
+        "lines": [
+          {
+            "speaker": "Theo",
+            "en": "You look exhausted, Rodrigo. Are you OK?",
+            "pt": "Você está com uma cara exausta, Rodrigo. Está tudo bem?"
+          },
+          {
+            "speaker": "Rodrigo",
+            "en": "Not really. I've been working twelve hours a day for months. I can't sleep, and I'm always stressed. What should I do?",
+            "pt": "Não muito. Trabalho doze horas por dia há meses. Não consigo dormir e estou sempre estressado. O que eu devo fazer?"
+          },
+          {
+            "speaker": "Theo",
+            "en": "Honestly, you should talk to your manager. That's not sustainable.",
+            "pt": "Sinceramente, você deveria falar com seu gestor. Isso não é sustentável."
+          },
+          {
+            "speaker": "Rodrigo",
+            "en": "I know, but I don't want to look weak.",
+            "pt": "Eu sei, mas não quero parecer fraco."
+          },
+          {
+            "speaker": "Theo",
+            "en": "It's not weakness. If I were you, I'd also take a few days off. Have you tried turning off notifications after 7 p.m.?",
+            "pt": "Não é fraqueza. Se eu fosse você, também tiraria uns dias de folga. Já tentou desligar as notificações depois das 19h?"
+          },
+          {
+            "speaker": "Rodrigo",
+            "en": "No... my boss sends messages at midnight.",
+            "pt": "Não... meu chefe manda mensagens à meia-noite."
+          },
+          {
+            "speaker": "Theo",
+            "en": "Then you'd better set some boundaries — or you'll burn out completely. Why don't you see a therapist, too?",
+            "pt": "Então é melhor você estabelecer limites — ou vai ter um burnout completo. Por que você não procura um terapeuta também?"
+          },
+          {
+            "speaker": "Rodrigo",
+            "en": "That's good advice. Thanks, man. I'll talk to my manager on Monday.",
+            "pt": "É um bom conselho. Valeu, cara. Vou falar com meu gestor na segunda."
+          }
+        ]
+      },
+      "listening": {
+        "title": "Advice radio show",
+        "context_pt": "Uma ouvinte liga para um programa de rádio pedindo conselho.",
+        "lines": [
+          {
+            "speaker": "Host",
+            "en": "Our next caller is Jéssica. Hi, Jéssica, how can we help?"
+          },
+          {
+            "speaker": "Jéssica",
+            "en": "Hi! I've received two job offers. One pays more, but it's two hours from home. The other pays less, but I could walk to work. Which one should I accept?"
+          },
+          {
+            "speaker": "Host",
+            "en": "Great question. First, you should calculate the real cost of the commute: transport, time, energy. Four hours a day is a lot."
+          },
+          {
+            "speaker": "Jéssica",
+            "en": "That's true. I hadn't thought about the time."
+          },
+          {
+            "speaker": "Host",
+            "en": "If I were you, I'd also ask about remote work. Some companies are flexible. But you'd better decide quickly — offers don't wait forever!"
+          }
+        ],
+        "questions": [
+          {
+            "q": "What's the difference between the two offers?",
+            "answer": "One pays more but is two hours from home; the other pays less but she could walk."
+          },
+          {
+            "q": "What should she calculate?",
+            "answer": "The real cost of the commute (transport, time, energy)."
+          },
+          {
+            "q": "What would the host ask about?",
+            "answer": "Remote work."
+          },
+          {
+            "q": "Why had she better decide quickly?",
+            "answer": "Because offers don't wait forever."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Advice from 100-year-olds",
+        "text": "What can we learn from people who have lived for a century? Journalists and researchers who have interviewed centenarians around the world have noticed some common advice. \"You shouldn't worry so much about money — you can't take it with you,\" said a 102-year-old woman from Okinawa, Japan. A former farmer from Sardinia, Italy, recommended: \"Walk every day, and eat with your family.\" Many said that people ought to forgive more easily, because holding grudges only hurts yourself. And almost all of them mentioned relationships: \"If I were you, I'd call my friends more often. In the end, people are what matter.\" Interestingly, very few of them talked about work or success. Maybe we'd better listen to them before it's too late.",
+        "questions": [
+          {
+            "q": "What did the woman from Okinawa say about money?",
+            "answer": "You shouldn't worry so much about it — you can't take it with you."
+          },
+          {
+            "q": "What did the farmer from Sardinia recommend?",
+            "answer": "Walking every day and eating with your family."
+          },
+          {
+            "q": "Why ought people to forgive more easily?",
+            "answer": "Because holding grudges only hurts yourself."
+          },
+          {
+            "q": "What did very few centenarians talk about?",
+            "answer": "Work or success."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "match",
+          "title": "Give advice",
+          "instruction": "Give advice using should, If I were you or Why don't you.",
+          "instruction_pt": "Dê um conselho usando should, If I were you ou Why don't you.",
+          "items": [
+            {
+              "prompt": "I can't sleep at night.",
+              "answer": "You should stop using your phone in bed. / Why don't you try meditation?"
+            },
+            {
+              "prompt": "My English isn't improving.",
+              "answer": "If I were you, I'd practice speaking every day."
+            },
+            {
+              "prompt": "I had a fight with my best friend.",
+              "answer": "You should apologize / talk to her."
+            },
+            {
+              "prompt": "I'm always late for work.",
+              "answer": "You should leave home earlier."
+            }
+          ]
+        },
+        {
+          "id": "ex2",
+          "type": "multiple_choice",
+          "title": "should, had better or ought to?",
+          "instruction": "Choose the best option.",
+          "instruction_pt": "Escolha a melhor opção.",
+          "items": [
+            {
+              "prompt": "The store closes in 5 minutes. We ___ hurry!",
+              "options": [
+                "'d better",
+                "ought"
+              ],
+              "answer": "'d better"
+            },
+            {
+              "prompt": "I think you ___ try the fish here. It's great.",
+              "options": [
+                "should",
+                "'d better"
+              ],
+              "answer": "should"
+            },
+            {
+              "prompt": "You ___ to call your grandmother more often.",
+              "options": [
+                "should",
+                "ought"
+              ],
+              "answer": "ought"
+            },
+            {
+              "prompt": "You'd better ___ tell anyone about this.",
+              "options": [
+                "not",
+                "don't",
+                "no"
+              ],
+              "answer": "not"
+            }
+          ]
+        },
+        {
+          "id": "ex3",
+          "type": "translate",
+          "title": "Translate",
+          "instruction": "Translate into English.",
+          "instruction_pt": "Traduza para o inglês.",
+          "items": [
+            {
+              "prompt": "O que eu devo fazer?",
+              "answer": "What should I do?"
+            },
+            {
+              "prompt": "Se eu fosse você, aceitaria a vaga.",
+              "answer": "If I were you, I'd accept the job."
+            },
+            {
+              "prompt": "É melhor você ligar para ela agora.",
+              "answer": "You'd better call her now."
+            },
+            {
+              "prompt": "Você pode me dar um conselho?",
+              "answer": "Can you give me some advice?"
+            }
+          ]
+        },
+        {
+          "id": "ex4",
+          "type": "dictation",
+          "title": "Dictation",
+          "instruction": "Listen and write the sentence.",
+          "instruction_pt": "Ouça e escreva a frase.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "What should I do?"
+            },
+            {
+              "prompt": "2",
+              "answer": "If I were you, I'd talk to her."
+            },
+            {
+              "prompt": "3",
+              "answer": "You'd better hurry, or you'll miss the bus."
+            },
+            {
+              "prompt": "4",
+              "answer": "Why don't you give it a try?"
+            }
+          ]
+        },
+        {
+          "id": "ex5",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the mistake.",
+          "instruction_pt": "Encontre e corrija o erro.",
+          "items": [
+            {
+              "prompt": "You should to drink more water.",
+              "answer": "You should drink more water."
+            },
+            {
+              "prompt": "If I was you, I'd go.",
+              "answer": "If I were you, I'd go."
+            },
+            {
+              "prompt": "She gave me a good advice.",
+              "answer": "She gave me some good advice. / a good piece of advice."
+            },
+            {
+              "prompt": "You'd better to leave now.",
+              "answer": "You'd better leave now."
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "fill_blank",
+          "title": "Complete the conversation",
+          "instruction": "Complete with: should · were · better · tried · advice.",
+          "instruction_pt": "Complete a conversa.",
+          "items": [
+            {
+              "prompt": "A: I need some ___. My neighbor plays loud music every night.",
+              "answer": "advice"
+            },
+            {
+              "prompt": "B: Have you ___ talking to him?",
+              "answer": "tried"
+            },
+            {
+              "prompt": "A: Not yet. ___ I write a note?",
+              "answer": "Should"
+            },
+            {
+              "prompt": "B: If I ___ you, I'd talk face to face. But you'd ___ be polite!",
+              "answer": "were / better"
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction": "Answer the SAM-style questions. Then play \"Agony aunt\": one person describes a problem, the others give advice using different structures.",
+        "instruction_pt": "Responda às perguntas no estilo SAM. Depois jogue \"Conselheira sentimental\": uma pessoa descreve um problema e as outras dão conselhos com estruturas diferentes.",
+        "questions": [
+          "Should you study more on weekends?",
+          "Should we tell a friend the truth, even if it hurts?",
+          "Should people have two jobs?",
+          "What should a tourist do in your city?",
+          "What advice would you give your 15-year-old self?",
+          "What shouldn't people do in a job interview?"
+        ]
+      },
+      "writing": {
+        "task": "Write a reply to an advice column letter (120–150 words). Problem: \"I've been offered a job abroad, but my family wants me to stay. What should I do?\"",
+        "task_pt": "Escreva uma resposta para uma carta de coluna de conselhos (120–150 palavras). Problema: \"Recebi uma oferta de emprego no exterior, mas minha família quer que eu fique. O que devo fazer?\"",
+        "model": "Dear Confused,\nFirst of all, congratulations on the offer! It's completely normal to feel divided. Here's my advice. You should start by making a list of pros and cons — not only about the job, but about your life, your goals and your relationships. Then, why don't you talk openly with your family? They probably want you to stay because they'll miss you, not because they don't believe in you. If I were you, I'd also ask the company if you could try it for a year. That way, the decision doesn't feel permanent. Finally, remember: you ought to make this decision for yourself, not for others. Many people regret the chances they didn't take more than the ones they took. Sleep on it — but don't wait too long!\nGood luck,\nAunt Bia"
+      },
+      "culture_note": {
+        "title": "Conselho não pedido",
+        "text_pt": "Em culturas anglo-saxãs, dar **unsolicited advice** (conselho não pedido) pode ser malvisto, principalmente sobre peso, filhos ou dinheiro. Antes, pergunte: **\"Do you want my advice, or do you just need to vent?\"** (Quer um conselho ou só precisa desabafar?)."
+      },
+      "summary_pt": [
+        "should / ought to + verbo base = conselho.",
+        "had better ('d better) = aviso forte (or...).",
+        "If I were you, I'd... / Why don't you...? / Have you tried + -ing?",
+        "advice = incontável (some advice)."
+      ]
+    },
+    {
+      "id": "B1-M3-L4",
+      "title": "You must not park here",
+      "subtitle_pt": "Obrigação, proibição e possibilidade (must, have to, might, may)",
+      "duration_min": 65,
+      "source_refs": [
+        "SAM-B3 – Lesson 6 (might questions)",
+        "Keynote Intermediate – Unit 9 (modal verbs: must, have to, should)"
+      ],
+      "objectives": [
+        "Expressar obrigação com must e have to",
+        "Diferenciar mustn't (proibido) de don't have to (não precisa)",
+        "Expressar possibilidade com might, may e could",
+        "Fazer deduções com must be / can't be"
+      ],
+      "warmup": {
+        "text_pt": "Quais são as regras do seu trabalho ou da sua casa? E o que pode acontecer no futuro que você não tem certeza?",
+        "questions": [
+          "What do you have to do every day?",
+          "What might happen in your life next year?"
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "rule / law",
+          "pt": "regra / lei",
+          "say": "rúl / ló"
+        },
+        {
+          "en": "allowed / not allowed",
+          "pt": "permitido / não permitido",
+          "say": "aláud / nót aláud"
+        },
+        {
+          "en": "forbidden / prohibited",
+          "pt": "proibido",
+          "say": "forbíden / prohíbitid"
+        },
+        {
+          "en": "compulsory / mandatory",
+          "pt": "obrigatório",
+          "say": "kompâlsori / méndatori"
+        },
+        {
+          "en": "optional",
+          "pt": "opcional",
+          "say": "ópshonal"
+        },
+        {
+          "en": "fine",
+          "pt": "multa",
+          "say": "fáin"
+        },
+        {
+          "en": "seatbelt",
+          "pt": "cinto de segurança",
+          "say": "sítbelt"
+        },
+        {
+          "en": "to wear a uniform",
+          "pt": "usar uniforme",
+          "say": "tu uér a iúniform"
+        },
+        {
+          "en": "to clock in / out",
+          "pt": "bater o ponto (entrada / saída)",
+          "say": "tu klók in / áut"
+        },
+        {
+          "en": "possibly / perhaps / maybe",
+          "pt": "possivelmente / talvez",
+          "say": "pósibli / perréps / mêibi"
+        },
+        {
+          "en": "likely / unlikely",
+          "pt": "provável / improvável",
+          "say": "láikli / ânláikli"
+        },
+        {
+          "en": "self-aware",
+          "pt": "autoconsciente",
+          "say": "sélf auér"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "You must wear a seatbelt.",
+          "pt": "Você deve usar cinto de segurança."
+        },
+        {
+          "en": "You mustn't smoke here.",
+          "pt": "Você não pode fumar aqui."
+        },
+        {
+          "en": "You don't have to come if you don't want to.",
+          "pt": "Você não precisa vir se não quiser."
+        },
+        {
+          "en": "I have to work on Saturday.",
+          "pt": "Tenho que trabalhar no sábado."
+        },
+        {
+          "en": "It might rain later.",
+          "pt": "Pode ser que chova mais tarde."
+        },
+        {
+          "en": "You must be tired!",
+          "pt": "Você deve estar cansado!"
+        }
+      ],
+      "grammar": {
+        "title": "must / have to / mustn't / don't have to + might / may",
+        "explanation_pt": "**OBRIGAÇÃO**\n- **Must** + verbo → obrigação forte, regras escritas, ou algo que **você** acha necessário: \"Passengers **must** wear seatbelts.\" / \"I **must** call my mom.\"\n- **Have to** + verbo → obrigação externa, do dia a dia (regras, circunstâncias). É mais comum na fala e funciona em todos os tempos: \"I **have to** work on Saturday.\" / \"She **has to** wear a uniform.\" / \"I **had to** wait for an hour.\" / \"You'll **have to** pay a fine.\"\n\n**⚠️ A grande pegadinha das negativas:**\n- **mustn't** = **proibido** (não pode!): \"You **mustn't** use your phone while driving.\"\n- **don't have to** = **não precisa** (é opcional): \"You **don't have to** wear a tie. It's casual Friday.\"\n\n**POSSIBILIDADE (talvez)**\n- **might / may / could** + verbo = pode ser que, talvez: \"It **might** rain.\" / \"She **may** be late.\" / \"That **could** be a problem.\"\n- Negativa: **might not / may not** (não could not): \"I **might not** go.\"\n\n**DEDUÇÃO (tenho quase certeza)**\n- **must be** = deve ser (certeza positiva): \"You worked 12 hours? You **must be** exhausted!\"\n- **can't be** = não pode ser (certeza negativa): \"That **can't be** Ana — she's in Paris.\"",
+        "table": {
+          "headers": [
+            "Forma",
+            "Sentido",
+            "Exemplo"
+          ],
+          "rows": [
+            [
+              "must / have to",
+              "obrigação",
+              "You have to show your ID."
+            ],
+            [
+              "mustn't",
+              "proibição",
+              "You mustn't park here."
+            ],
+            [
+              "don't have to",
+              "não é necessário",
+              "You don't have to pay. It's free."
+            ],
+            [
+              "might / may / could",
+              "possibilidade (talvez)",
+              "We might move to Lisbon."
+            ],
+            [
+              "must be",
+              "dedução positiva",
+              "He must be at home."
+            ],
+            [
+              "can't be",
+              "dedução negativa",
+              "It can't be true!"
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "Visitors must not touch the paintings.",
+            "pt": "Visitantes não podem tocar nos quadros."
+          },
+          {
+            "en": "You don't have to bring anything — we have everything.",
+            "pt": "Você não precisa trazer nada — temos tudo."
+          },
+          {
+            "en": "Might an AI robot become self-aware some day? — It might, but it's unlikely soon.",
+            "pt": "Será que um robô com IA pode se tornar autoconsciente um dia? — Pode ser, mas é improvável tão cedo."
+          }
+        ],
+        "tip_pt": "**Must** não tem passado. Para obrigação no passado, use **had to**: \"Yesterday I **had to** work late\" (❌ \"I musted\")."
+      },
+      "common_mistakes": [
+        {
+          "wrong": "You mustn't come to the party if you're tired. (querendo dizer \"não precisa\")",
+          "right": "You don't have to come to the party if you're tired.",
+          "why_pt": "Mustn't = proibido. \"Não precisa\" = don't have to."
+        },
+        {
+          "wrong": "I must to go now.",
+          "right": "I must go now. / I have to go now.",
+          "why_pt": "Must + verbo base, sem to (mas have to tem to!)."
+        },
+        {
+          "wrong": "Yesterday I must work late.",
+          "right": "Yesterday I had to work late.",
+          "why_pt": "Obrigação no passado = had to."
+        }
+      ],
+      "pronunciation": {
+        "focus": "Have to = \"réfta\" / mustn't",
+        "tip_pt": "**Have to** soa \"**réfta**\" (com F!), **has to** = \"**résta**\", **had to** = \"**rétta**\". **Mustn't** = \"mâsent\" — o primeiro T é mudo. **Might** = \"máit\", com T leve.",
+        "practice": [
+          "I have to go. (\"ái réfta gôu\")",
+          "She has to work. (\"shí résta uórk\")",
+          "You mustn't smoke here."
+        ]
+      },
+      "dialogue": {
+        "title": "First day on the job",
+        "context_pt": "Uma nova funcionária de um hotel recebe as orientações do gerente.",
+        "lines": [
+          {
+            "speaker": "Manager",
+            "en": "Welcome, Duda! Let me explain the main rules. You have to clock in by 7 a.m. every day.",
+            "pt": "Bem-vinda, Duda! Deixa eu explicar as regras principais. Você tem que bater o ponto até as 7h todo dia."
+          },
+          {
+            "speaker": "Duda",
+            "en": "OK. Do I have to wear a uniform?",
+            "pt": "OK. Tenho que usar uniforme?"
+          },
+          {
+            "speaker": "Manager",
+            "en": "Yes, you must wear it at all times in public areas. But you don't have to wear it in the staff room.",
+            "pt": "Sim, você deve usá-lo o tempo todo nas áreas públicas. Mas não precisa usar na sala dos funcionários."
+          },
+          {
+            "speaker": "Duda",
+            "en": "Can I use my phone at the front desk?",
+            "pt": "Posso usar o celular na recepção?"
+          },
+          {
+            "speaker": "Manager",
+            "en": "No, you mustn't use your personal phone with guests around. And you must never give out room numbers.",
+            "pt": "Não, você não pode usar o celular pessoal com hóspedes por perto. E nunca deve dar números de quartos."
+          },
+          {
+            "speaker": "Duda",
+            "en": "Understood. Will I have to work weekends?",
+            "pt": "Entendido. Vou ter que trabalhar nos fins de semana?"
+          },
+          {
+            "speaker": "Manager",
+            "en": "You might, during the high season. We'll see. You must be nervous — but don't worry, you'll be great.",
+            "pt": "Pode ser, na alta temporada. Veremos. Você deve estar nervosa — mas não se preocupe, vai se sair muito bem."
+          }
+        ]
+      },
+      "listening": {
+        "title": "Airport and visa rules",
+        "context_pt": "Uma agente de viagens explica regras para uma viagem aos EUA.",
+        "lines": [
+          {
+            "speaker": "Agent",
+            "en": "OK, a few important things for your trip to the US. First, you must have a valid visa — Brazilians have to apply in advance. You don't have to show your return ticket at check-in, but immigration officers may ask for it, so keep it on your phone. In your carry-on, you mustn't have liquids over 100 milliliters. And remember, the weather in Chicago in March might be very cold — it could even snow. You'd better pack a good coat!"
+          }
+        ],
+        "questions": [
+          {
+            "q": "What must Brazilians have?",
+            "answer": "A valid visa (they have to apply in advance)."
+          },
+          {
+            "q": "Do you have to show your return ticket at check-in?",
+            "answer": "No, but immigration officers may ask for it."
+          },
+          {
+            "q": "What mustn't you have in your carry-on?",
+            "answer": "Liquids over 100 ml."
+          },
+          {
+            "q": "What might the weather be like in Chicago in March?",
+            "answer": "Very cold; it could even snow."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Strange laws around the world",
+        "text": "Every country has its rules, but some laws might surprise you. In Singapore, you mustn't chew gum in most situations — selling it has been illegal since 1992 to keep the streets clean. In Switzerland, some apartment buildings have rules saying residents mustn't flush the toilet late at night because of the noise. In Japan, companies with employees aged 40 to 74 have to measure their waists during health checks — a policy to fight obesity. In Denmark, parents must choose their babies' names from an official list of approved names, or ask for special permission. These laws might seem strange, but each one tells us something about the culture that created it.",
+        "questions": [
+          {
+            "q": "Why is selling gum illegal in Singapore?",
+            "answer": "To keep the streets clean."
+          },
+          {
+            "q": "What mustn't residents of some Swiss buildings do late at night?",
+            "answer": "Flush the toilet (because of the noise)."
+          },
+          {
+            "q": "What do some Japanese companies have to do?",
+            "answer": "Measure the waists of employees aged 40 to 74."
+          },
+          {
+            "q": "What must parents in Denmark do?",
+            "answer": "Choose their babies' names from an official list (or ask permission)."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "multiple_choice",
+          "title": "mustn't or don't have to?",
+          "instruction": "Choose mustn't or don't have to.",
+          "instruction_pt": "Escolha mustn't ou don't have to.",
+          "items": [
+            {
+              "prompt": "You ___ drink and drive. It's illegal.",
+              "options": [
+                "mustn't",
+                "don't have to"
+              ],
+              "answer": "mustn't"
+            },
+            {
+              "prompt": "You ___ pay. The museum is free on Sundays.",
+              "options": [
+                "mustn't",
+                "don't have to"
+              ],
+              "answer": "don't have to"
+            },
+            {
+              "prompt": "Students ___ cheat on exams.",
+              "options": [
+                "mustn't",
+                "don't have to"
+              ],
+              "answer": "mustn't"
+            },
+            {
+              "prompt": "We ___ get up early tomorrow. It's a holiday!",
+              "options": [
+                "mustn't",
+                "don't have to"
+              ],
+              "answer": "don't have to"
+            }
+          ]
+        },
+        {
+          "id": "ex2",
+          "type": "fill_blank",
+          "title": "have to in all tenses",
+          "instruction": "Complete with the correct form of have to.",
+          "instruction_pt": "Complete com a forma correta de have to.",
+          "items": [
+            {
+              "prompt": "Yesterday I ___ wait two hours at the doctor's.",
+              "answer": "had to"
+            },
+            {
+              "prompt": "My sister ___ wear a uniform at school.",
+              "answer": "has to"
+            },
+            {
+              "prompt": "___ you ___ work this weekend?",
+              "answer": "Do / have to"
+            },
+            {
+              "prompt": "Next year, we ___ pay more taxes.",
+              "answer": "'ll have to / will have to"
+            }
+          ]
+        },
+        {
+          "id": "ex3",
+          "type": "multiple_choice",
+          "title": "Possibility and deduction",
+          "instruction": "Choose the best option.",
+          "instruction_pt": "Escolha a melhor opção.",
+          "items": [
+            {
+              "prompt": "Take an umbrella. It ___ rain.",
+              "options": [
+                "might",
+                "must"
+              ],
+              "answer": "might"
+            },
+            {
+              "prompt": "She's been traveling for 20 hours. She ___ be tired.",
+              "options": [
+                "must",
+                "might not"
+              ],
+              "answer": "must"
+            },
+            {
+              "prompt": "That ___ be Leo. He's in Japan this week!",
+              "options": [
+                "can't",
+                "must"
+              ],
+              "answer": "can't"
+            },
+            {
+              "prompt": "I'm not sure. I ___ go to the party.",
+              "options": [
+                "may not",
+                "can't"
+              ],
+              "answer": "may not"
+            }
+          ]
+        },
+        {
+          "id": "ex4",
+          "type": "dictation",
+          "title": "Dictation",
+          "instruction": "Listen and write the sentence.",
+          "instruction_pt": "Ouça e escreva a frase.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "You don't have to come if you don't want to."
+            },
+            {
+              "prompt": "2",
+              "answer": "You mustn't smoke here."
+            },
+            {
+              "prompt": "3",
+              "answer": "It might rain later."
+            },
+            {
+              "prompt": "4",
+              "answer": "You must be tired!"
+            }
+          ]
+        },
+        {
+          "id": "ex5",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the mistake.",
+          "instruction_pt": "Encontre e corrija o erro.",
+          "items": [
+            {
+              "prompt": "I must to finish this today.",
+              "answer": "I must finish this today."
+            },
+            {
+              "prompt": "Yesterday I must stay late at work.",
+              "answer": "Yesterday I had to stay late at work."
+            },
+            {
+              "prompt": "She have to wear glasses.",
+              "answer": "She has to wear glasses."
+            },
+            {
+              "prompt": "It mights rain tomorrow.",
+              "answer": "It might rain tomorrow."
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "fill_blank",
+          "title": "Complete the conversation",
+          "instruction": "Complete with: have to · mustn't · don't have to · might · must.",
+          "instruction_pt": "Complete a conversa.",
+          "items": [
+            {
+              "prompt": "A: Do I ___ book a table at the restaurant?",
+              "answer": "have to"
+            },
+            {
+              "prompt": "B: No, you ___. It's never full on Mondays.",
+              "answer": "don't have to"
+            },
+            {
+              "prompt": "B: But you ___ be late — the kitchen closes at 10.",
+              "answer": "mustn't"
+            },
+            {
+              "prompt": "A: OK. I ___ bring my sister. — B: Great! She ___ be excited, it's her favorite place.",
+              "answer": "might / must"
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction": "Answer the SAM-style questions. Then create 5 rules for a perfect workplace, school or home, using must, have to, mustn't and don't have to.",
+        "instruction_pt": "Responda às perguntas no estilo SAM. Depois crie 5 regras para o trabalho, a escola ou a casa perfeita usando must, have to, mustn't e don't have to.",
+        "questions": [
+          "What do you have to do every day that you don't like?",
+          "What are you not allowed to do at work or school?",
+          "Might an AI robot become self-aware some day?",
+          "What might happen if you drank 5 cans of soda a day for a month?",
+          "What might happen if you went to the beach without sunscreen?",
+          "What do you think your life might be like in 10 years?"
+        ]
+      },
+      "writing": {
+        "task": "Write the house rules (120–150 words) for a shared apartment or a vacation rental: obligations, prohibitions, what's optional and some possibilities.",
+        "task_pt": "Escreva as regras da casa (120–150 palavras) para um apartamento compartilhado ou um aluguel de temporada: obrigações, proibições, o que é opcional e algumas possibilidades.",
+        "model": "Welcome to Casa Azul! 🏡 House rules:\n\n• Check-in is from 3 p.m. You have to send us your arrival time the day before.\n• You must keep the front gate locked at all times.\n• You mustn't smoke inside the house — you can smoke on the balcony.\n• Quiet hours: 10 p.m. to 8 a.m. You mustn't play loud music after 10.\n• You don't have to wash the sheets or towels, but please do the dishes before you leave.\n• Pets are welcome, but they mustn't sleep on the beds.\n• The Wi-Fi might be slow during storms — sorry, we live in the mountains!\n• Check-out is at 11 a.m. If you need a late check-out, just ask — it might be possible.\n\nEnjoy your stay!"
+      },
+      "culture_note": {
+        "title": "\"You must try it!\"",
+        "text_pt": "Na fala informal, **must** também é usado para **recomendações entusiasmadas**: \"You **must** visit Lisbon!\" / \"This book is a **must-read**!\" / \"It's a **must-see**!\". Não é uma obrigação — é empolgação."
+      },
+      "summary_pt": [
+        "must / have to = obrigação (had to no passado).",
+        "mustn't = proibido · don't have to = não precisa.",
+        "might / may / could = talvez.",
+        "must be = deve ser · can't be = não pode ser."
+      ]
+    }
+  ],
+  "review": {
+    "intro_pt": "Revise todos os modais: habilidade, pedidos, conselhos, obrigação e possibilidade.",
+    "exercises": [
+      {
+        "id": "r1",
+        "type": "multiple_choice",
+        "title": "Choose the correct modal",
+        "instruction": "Choose the correct option.",
+        "instruction_pt": "Escolha a opção correta.",
+        "items": [
+          {
+            "prompt": "I ___ swim when I was six.",
+            "options": [
+              "can",
+              "could",
+              "must"
+            ],
+            "answer": "could"
+          },
+          {
+            "prompt": "___ you do me a favor?",
+            "options": [
+              "Could",
+              "Must",
+              "Should"
+            ],
+            "answer": "Could"
+          },
+          {
+            "prompt": "You look sick. You ___ see a doctor.",
+            "options": [
+              "should",
+              "mustn't",
+              "might"
+            ],
+            "answer": "should"
+          },
+          {
+            "prompt": "You ___ wear a suit. It's a casual party.",
+            "options": [
+              "mustn't",
+              "don't have to",
+              "can't"
+            ],
+            "answer": "don't have to"
+          },
+          {
+            "prompt": "Take a jacket. It ___ get cold tonight.",
+            "options": [
+              "might",
+              "must",
+              "should to"
+            ],
+            "answer": "might"
+          }
+        ]
+      },
+      {
+        "id": "r2",
+        "type": "fill_blank",
+        "title": "Modals in context",
+        "instruction": "Complete with the correct modal form.",
+        "instruction_pt": "Complete com a forma correta do modal.",
+        "items": [
+          {
+            "prompt": "Next year, I'll ___ ___ to speak English fluently. (habilidade, futuro)",
+            "answer": "be able"
+          },
+          {
+            "prompt": "Yesterday I ___ ___ take a taxi because the subway was closed. (obrigação, passado)",
+            "answer": "had to"
+          },
+          {
+            "prompt": "If I ___ you, I'd accept the offer.",
+            "answer": "were"
+          }
+        ]
+      },
+      {
+        "id": "r3",
+        "type": "translate",
+        "title": "Translate",
+        "instruction": "Translate into English.",
+        "instruction_pt": "Traduza para o inglês.",
+        "items": [
+          {
+            "prompt": "Você se importaria de me buscar?",
+            "answer": "Would you mind picking me up?"
+          },
+          {
+            "prompt": "É melhor você ir agora.",
+            "answer": "You'd better go now."
+          },
+          {
+            "prompt": "Você não precisa pagar.",
+            "answer": "You don't have to pay."
+          },
+          {
+            "prompt": "Ele deve estar cansado.",
+            "answer": "He must be tired."
+          }
+        ]
+      },
+      {
+        "id": "r4",
+        "type": "dictation",
+        "title": "Dictation",
+        "instruction": "Listen and write the sentence.",
+        "instruction_pt": "Ouça e escreva a frase.",
+        "items": [
+          {
+            "prompt": "1",
+            "answer": "I've never been able to whistle."
+          },
+          {
+            "prompt": "2",
+            "answer": "How could you forget?"
+          },
+          {
+            "prompt": "3",
+            "answer": "You mustn't use your phone while driving."
+          }
+        ]
+      },
+      {
+        "id": "r5",
+        "type": "correct_error",
+        "title": "Fix the mistake",
+        "instruction": "Find and correct the mistake.",
+        "instruction_pt": "Encontre e corrija o erro.",
+        "items": [
+          {
+            "prompt": "I will can help you tomorrow.",
+            "answer": "I'll be able to help you tomorrow."
+          },
+          {
+            "prompt": "You should to sleep more.",
+            "answer": "You should sleep more."
+          },
+          {
+            "prompt": "Would you mind to wait?",
+            "answer": "Would you mind waiting?"
+          }
+        ]
+      }
+    ],
+    "speaking_pt": "Sessão SAM livre: responda às perguntas por 2 a 3 minutos, desenvolvendo cada resposta com exemplos. Use o máximo de modais diferentes.",
+    "speaking_questions": [
+      "What can you do now that you couldn't do five years ago?",
+      "What's a favor you would never ask anyone?",
+      "What should the government do to improve education?",
+      "What do you have to do this week that you don't want to?",
+      "What might the world be like in 2050?"
+    ],
+    "project_pt": "**Survival guide:** crie em grupo um \"Survival guide for new employees\" (ou para novos alunos, ou para turistas na sua cidade) em inglês: o que eles podem e não podem fazer, o que têm e não têm que fazer, conselhos e o que pode acontecer. Formato: um cartaz, slides ou vídeo de 2 minutos."
+  }
+}

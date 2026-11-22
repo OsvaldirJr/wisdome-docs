@@ -1,0 +1,540 @@
+{
+  "id": "B2-M6",
+  "level": "B2",
+  "title": "Mind and Future",
+  "theme_pt": "Psicologia, criatividade, expressões idiomáticas e preparação final",
+  "can_do": ["Especular e criticar o passado com modais perfeitos (needn't have, could have, would have)", "Usar gerúndio e infinitivo em formas perfeitas e passivas", "Usar collocations e expressões idiomáticas naturais", "Fazer uma apresentação e uma prova oral no padrão B2"],
+  "lessons": [
+    {
+      "id": "B2-M6-L1",
+      "title": "You needn't have worried",
+      "subtitle_pt": "Modais no passado: needn't have x didn't need to, should have, could have, would have, might have",
+      "duration_min": 75,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – B2 (past modals)", "TopNotch 3B Teacher's Book – Unit 7 (mistakes and luck)"],
+      "objectives": ["Diferenciar needn't have + pp de didn't need to", "Criticar e lamentar com should have / ought to have", "Falar de possibilidades não realizadas com could have / might have", "Falar de erros, sorte e ansiedade"],
+      "warmup": {
+        "text_pt": "\"Você **não precisava ter** se preocupado — deu tudo certo!\" \"Eu **poderia ter** me machucado!\" \"Ele **deveria ter** avisado.\" No B1+ você viu should have e must have. Agora, vamos completar o quadro dos **modais no passado** — e falar de ansiedade, erros e sorte.",
+        "questions": ["Have you ever worried a lot about something that turned out fine?", "What's a mistake you've learned a lot from?"]
+      },
+      "vocabulary": [
+        {"en": "to overthink", "pt": "pensar demais, ficar remoendo", "say": "tu ôuverθink"},
+        {"en": "anxiety / anxious", "pt": "ansiedade / ansioso", "say": "enzáieti / énkshas"},
+        {"en": "a blessing in disguise", "pt": "há males que vêm para bem", "say": "a blésin in disgáiz"},
+        {"en": "a stroke of luck", "pt": "um golpe de sorte", "say": "a strôuk ov lâk"},
+        {"en": "a narrow escape", "pt": "uma escapada por pouco", "say": "a nérou eskêip"},
+        {"en": "to get away with (sth)", "pt": "sair impune, se safar", "say": "tu guét auêi uídh"},
+        {"en": "in vain", "pt": "em vão", "say": "in vêin"},
+        {"en": "a wake-up call", "pt": "um alerta, um sinal", "say": "a uêik âp kól"},
+        {"en": "to jump to conclusions", "pt": "tirar conclusões precipitadas", "say": "tu djâmp tu konklúzhanz"},
+        {"en": "to make a fuss (about)", "pt": "fazer tempestade (num copo d'água)", "say": "tu mêik a fâs"},
+        {"en": "unnecessary / unnecessarily", "pt": "desnecessário / desnecessariamente", "say": "ânnéseseri"},
+        {"en": "to know better", "pt": "ter juízo, saber que não deveria", "say": "tu nôu bérer"}
+      ],
+      "chunks": [
+        {"en": "You needn't have worried.", "pt": "Você não precisava ter se preocupado (mas se preocupou)."},
+        {"en": "I didn't need to take a taxi, so I walked.", "pt": "Não precisei pegar táxi, então fui a pé."},
+        {"en": "You could have hurt yourself!", "pt": "Você poderia ter se machucado!"},
+        {"en": "I should have known better.", "pt": "Eu deveria ter tido mais juízo."},
+        {"en": "It might have been worse.", "pt": "Poderia ter sido pior."},
+        {"en": "It turned out to be a blessing in disguise.", "pt": "No fim, foi um mal que veio para bem."}
+      ],
+      "grammar": {
+        "title": "Past modals",
+        "explanation_pt": "**1. Needn't have + pp** x **didn't need to + verbo**\n- **needn't have done** = você **fez**, mas **não era necessário** (esforço desperdiçado):\n\"You **needn't have brought** a cake — we already had three!\" (você trouxe, mas não precisava)\n- **didn't need to do** = **não era necessário** (geralmente a pessoa **não fez**):\n\"I **didn't need to** take a taxi because Ana gave me a lift.\"\n\n**2. Should have / Ought to have + pp** → crítica ou arrependimento (o certo não aconteceu)\n- \"You **should have told** me!\" / \"I **ought to have checked** the date.\"\n- Negativa: \"I **shouldn't have eaten** so much.\"\n\n**3. Could have + pp** → possibilidade que **não aconteceu**, ou crítica\n- \"You **could have been** killed!\" (podia ter acontecido)\n- \"You **could have called**!\" (crítica: você podia ter ligado — e não ligou)\n- **Couldn't have + pp** = impossível no passado: \"I **couldn't have done** it without you.\"\n\n**4. Might have / May have + pp** → especulação sobre o passado (talvez)\n- \"She **might have missed** the bus.\" / \"It **may have been** a mistake.\"\n- \"It **might have been** worse.\" (poderia ter sido pior)\n\n**5. Would have + pp** → disposição/vontade no passado (ligado a condições)\n- \"I **would have helped** you, but you didn't ask.\"\n- \"I **wouldn't have** done that.\" (eu, no seu lugar, não teria feito)\n\n**6. Revisão B1+:** **must have** (dedução: certeza) · **can't have** (impossível).\n\n**Na fala:** should've = \"**shúdav**\", could've = \"**kúdav**\", needn't have = \"**nídentav**\".",
+        "table": {
+          "headers": ["Modal", "Significado", "Exemplo"],
+          "rows": [["needn't have + pp", "fez, mas não precisava", "You needn't have cooked — we ate out."], ["didn't need to", "não era necessário", "I didn't need to wait; the bus came."], ["should(n't) have + pp", "crítica / arrependimento", "I should have saved more."], ["could have + pp", "possibilidade não realizada / crítica", "You could have told me!"], ["might / may have + pp", "talvez (especulação)", "He might have forgotten."], ["would have + pp", "teria (vontade)", "I would have come, but I was ill."], ["must / can't have + pp", "dedução", "She must have left. / He can't have known."]]
+        },
+        "examples": [
+          {"en": "I spent the whole night preparing for the interview, but I needn't have worried — they offered me the job in ten minutes.", "pt": "Passei a noite toda me preparando para a entrevista, mas não precisava ter me preocupado — me ofereceram o emprego em dez minutos."},
+          {"en": "We didn't need to book a table, so we just turned up.", "pt": "Não precisávamos reservar mesa, então simplesmente aparecemos."},
+          {"en": "Losing that job might have been the best thing that ever happened to me.", "pt": "Perder aquele emprego pode ter sido a melhor coisa que já me aconteceu."}
+        ],
+        "tip_pt": "Em português, \"podia ter\" serve para tudo. Em inglês, escolha: **could have** (era possível), **should have** (era o certo), **might have** (talvez tenha acontecido)."
+      },
+      "common_mistakes": [
+        {"wrong": "You needn't to have brought anything.", "right": "You needn't have brought anything.", "why_pt": "needn't have + particípio, sem to."},
+        {"wrong": "I should have went to the doctor.", "right": "I should have gone to the doctor.", "why_pt": "Modal + have + particípio (gone)."},
+        {"wrong": "You could called me!", "right": "You could have called me!", "why_pt": "Não esqueça o have."}
+      ],
+      "pronunciation": {
+        "focus": "Formas reduzidas: should've, could've, needn't have",
+        "tip_pt": "Nativos reduzem o **have** a um \"av\" fraco, colado no modal: **should've** \"shúdav\", **could've** \"kúdav\", **might've** \"máitav\", **needn't have** \"nídentav\". ⚠️ Na escrita, nunca escreva \"should of\" — é um erro comum até entre nativos, por causa da pronúncia.",
+        "practice": ["You should've told me.", "You could've been hurt!", "You needn't've worried."]
+      },
+      "dialogue": {
+        "title": "All that worry for nothing",
+        "context_pt": "Duas amigas conversam depois de uma apresentação importante no trabalho.",
+        "lines": [
+          {"speaker": "Hana", "en": "So? How did the presentation go? You were so stressed last night.", "pt": "E aí? Como foi a apresentação? Você estava tão estressada ontem à noite."},
+          {"speaker": "Juliana", "en": "Honestly? Fine! I needn't have stayed up until 3 a.m. rehearsing. The client loved it.", "pt": "Sinceramente? Tudo bem! Eu não precisava ter ficado acordada até as 3 ensaiando. O cliente adorou."},
+          {"speaker": "Hana", "en": "I told you! You should have gone to bed. You always overthink these things.", "pt": "Eu te disse! Você deveria ter ido dormir. Você sempre pensa demais nessas coisas."},
+          {"speaker": "Juliana", "en": "I know, I know. And I didn't even need to use the backup slides I'd prepared.", "pt": "Eu sei, eu sei. E nem precisei usar os slides reserva que eu tinha preparado."},
+          {"speaker": "Hana", "en": "Was there anything that went wrong?", "pt": "Deu alguma coisa errada?"},
+          {"speaker": "Juliana", "en": "Just one thing: the projector stopped working for a minute. It could have been a disaster, but I just kept talking.", "pt": "Só uma coisa: o projetor parou por um minuto. Poderia ter sido um desastre, mas eu continuei falando."},
+          {"speaker": "Hana", "en": "See? You couldn't have handled it better. Most people would have panicked.", "pt": "Viu? Você não poderia ter lidado melhor. A maioria das pessoas teria entrado em pânico."},
+          {"speaker": "Juliana", "en": "Maybe. Next time, remind me that I might be worrying in vain.", "pt": "Talvez. Da próxima vez, me lembre de que posso estar me preocupando em vão."}
+        ]
+      },
+      "listening": {
+        "title": "The worry experiment",
+        "context_pt": "Um psicólogo fala num podcast sobre preocupações que nunca se concretizam.",
+        "lines": [
+          {"speaker": "Psychologist", "en": "Here's an exercise I often suggest. For two weeks, write down every worry you have — \"I might lose my job\", \"My presentation will be a disaster\" — and then check later whether it actually happened. In a small study at Penn State University, researchers asked people with generalized anxiety to do something similar. They found that most of the participants' worries did not come true, and when something negative did happen, people often coped better than they had expected. In other words, they needn't have worried so much. Of course, this doesn't mean all worry is useless. Some concern helps us prepare. But if you look back at your list and see that you spent hours worrying about things that never happened, it can be a real wake-up call. You might decide to save your energy for the problems that actually appear."}
+        ],
+        "questions": [
+          {"q": "What exercise does the psychologist suggest?", "answer": "Writing down every worry for two weeks and checking later whether it happened."},
+          {"q": "What did the Penn State researchers find?", "answer": "Most worries did not come true, and people coped better than expected."},
+          {"q": "Is all worry useless, according to the speaker?", "answer": "No — some concern helps us prepare."},
+          {"q": "What can the list become?", "answer": "A wake-up call."}
+        ]
+      },
+      "video": {
+        "title": "How to make stress your friend",
+        "speaker": "Kelly McGonigal",
+        "url": "https://www.ted.com/search?q=kelly+mcgonigal+how+to+make+stress+your+friend",
+        "task_pt": "Assista à palestra (cerca de 14 minutos) e responda usando modais no passado quando possível (should have, needn't have, might have...).",
+        "questions": ["What did the speaker say she had been telling people about stress — and why did she change her mind?", "According to the talk, how might our beliefs about stress affect our health?", "Think of a stressful situation in your past. How could you have seen it differently?", "Do you agree with her message? Why / why not?"]
+      },
+      "reading": {
+        "title": "Lucky breaks",
+        "text": "History is full of people whose failures turned out to be blessings in disguise. Take the author J.K. Rowling, who has said in interviews that her manuscript for the first Harry Potter book was rejected by many publishers before Bloomsbury accepted it. Any one of those editors could have changed literary history; they simply didn't. Steve Jobs, forced out of Apple in 1985, later described being fired as one of the best things that could have happened to him, because it freed him to start again. Of course, survivor stories like these can be misleading. For every person whose rejection led to success, there are many others who might have been equally talented but never got a second chance. Psychologist Richard Wiseman, who studied people who considered themselves lucky or unlucky, suggested that \"lucky\" people tend to notice opportunities, listen to their intuition and recover quickly from bad experiences. In one of his well-known experiments, participants were asked to count the photographs in a newspaper. Many of the \"unlucky\" ones missed a large message inside it telling them they needn't have kept counting. Perhaps luck is partly a matter of where we choose to look.",
+        "questions": [
+          {"q": "What happened to J.K. Rowling's first manuscript?", "answer": "It was rejected by many publishers before Bloomsbury accepted it."},
+          {"q": "How did Steve Jobs later describe being fired?", "answer": "As one of the best things that could have happened to him."},
+          {"q": "Why can survivor stories be misleading?", "answer": "Many equally talented people never got a second chance."},
+          {"q": "What did \"unlucky\" people miss in Wiseman's experiment?", "answer": "A large message in the newspaper saying they needn't keep counting."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "needn't have or didn't need to?", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+         "items": [{"prompt": "I ___ cooked so much food — only half the guests came. (cozinhei)", "options": ["needn't have", "didn't need to"], "answer": "needn't have"}, {"prompt": "I ___ go to the bank because I paid online. (não fui)", "options": ["needn't have gone", "didn't need to"], "answer": "didn't need to"}, {"prompt": "You ___ bought me a present! That's so kind. (comprou)", "options": ["needn't have", "didn't need to"], "answer": "needn't have"}, {"prompt": "We ___ wait long — the doctor saw us immediately.", "options": ["needn't have", "didn't need to"], "answer": "didn't need to"}]},
+        {"id": "ex2", "type": "multiple_choice", "title": "Choose the modal", "instruction": "Choose the best option.", "instruction_pt": "Escolha a melhor opção.",
+         "items": [{"prompt": "You ___ told me you were coming! I'd have cleaned the house.", "options": ["could have", "must have", "needn't have"], "answer": "could have"}, {"prompt": "He isn't answering. He ___ fallen asleep.", "options": ["should have", "might have", "needn't have"], "answer": "might have"}, {"prompt": "I ___ eaten that third piece of cake. I feel sick.", "options": ["shouldn't have", "couldn't have", "mustn't have"], "answer": "shouldn't have"}, {"prompt": "Thank you! I ___ done it without your help.", "options": ["couldn't have", "shouldn't have", "needn't have"], "answer": "couldn't have"}, {"prompt": "The streets are wet. It ___ rained last night.", "options": ["must have", "should have", "could have"], "answer": "must have"}]},
+        {"id": "ex3", "type": "answer", "title": "React to the situation", "instruction": "Write a reaction using the modal in brackets.", "instruction_pt": "Escreva uma reação usando o modal indicado.",
+         "items": [{"prompt": "Your friend drove home after drinking. (could)", "answer": "You could have had an accident!"}, {"prompt": "You studied all night, but the exam was cancelled. (needn't)", "answer": "I needn't have studied all night."}, {"prompt": "You forgot your mum's birthday. (should)", "answer": "I should have written it in my calendar. / I should have remembered."}, {"prompt": "Your colleague is late. Maybe there was traffic. (might)", "answer": "He might have got stuck in traffic."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "You needn't have worried."}, {"prompt": "2", "answer": "You could have hurt yourself!"}, {"prompt": "3", "answer": "I should have known better."}, {"prompt": "4", "answer": "It turned out to be a blessing in disguise."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "You should of called me.", "answer": "You should have called me."}, {"prompt": "I needn't to have worried.", "answer": "I needn't have worried."}, {"prompt": "She might has forgotten.", "answer": "She might have forgotten."}, {"prompt": "We could went to the beach.", "answer": "We could have gone to the beach."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the story", "instruction": "Complete with: needn't · should · could · might · would.", "instruction_pt": "Complete a história.",
+         "items": [{"prompt": "I missed my flight to Salvador. I ___ have left home earlier.", "answer": "should"}, {"prompt": "I was furious at first. It ___ have ruined the whole holiday.", "answer": "could"}, {"prompt": "But the next flight was half empty and cheaper. I ___ have panicked so much.", "answer": "needn't"}, {"prompt": "And I met my future business partner on that plane! If I'd caught the first flight, I ___ never have met him. It ___ have been fate!", "answer": "would / might"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Worry audit\": think of three things you worried about last year. For each, say what happened, whether you needn't have worried, what you should / could have done differently and what lesson you learned.",
+        "instruction_pt": "\"Auditoria das preocupações\": pense em três coisas que te preocuparam no ano passado. Para cada uma, diga o que aconteceu, se você não precisava ter se preocupado, o que deveria/poderia ter feito diferente e que lição aprendeu.",
+        "questions": ["What's something you worried about that turned out fine?", "Tell me about a narrow escape you've had.", "Has anything bad that happened to you turned out to be a blessing in disguise?", "Do you believe some people are luckier than others?", "What do you do when you start overthinking?"]
+      },
+      "writing": {
+        "task": "Write a personal blog post (200–250 words) titled \"The best mistake I ever made\". Describe the mistake, what you should or could have done, what might have happened and why it turned out well. Use at least 7 past modals.",
+        "task_pt": "Escreva um post de blog pessoal (200–250 palavras) intitulado \"O melhor erro que já cometi\". Descreva o erro, o que você deveria ou poderia ter feito, o que poderia ter acontecido e por que deu certo no final. Use pelo menos 7 modais no passado.",
+        "model": "The best mistake I ever made\n\nThree years ago, I sent an email that I definitely shouldn't have sent. I was working in a marketing agency, and after a terrible meeting I wrote a long message complaining about our biggest client. I meant to send it to my best friend. Instead, I sent it to my boss.\n\nI should have read the address twice. I could have waited until I was calmer. I certainly needn't have used so many capital letters! My heart stopped when I realized what I'd done. I was sure I would be fired — and honestly, many bosses would have fired me on the spot.\n\nBut my boss called me into her office and, to my surprise, she said she agreed with most of my points. She'd been thinking the same about that client for months. She might have been annoyed by my tone, but she said I'd shown that I really cared about the quality of our work.\n\nTwo weeks later, she asked me to lead a new project to improve how we managed difficult clients. Within a year, I'd been promoted.\n\nLooking back, it could have ended very badly. I was lucky, and I don't recommend sending angry emails! But the mistake taught me something important: sometimes being honest — in the right way — can open doors. These days, though, I always check the address."
+      },
+      "culture_note": {
+        "title": "\"Should of\"?",
+        "text_pt": "Como **should've** soa igual a \"should **of**\", muitos nativos escrevem \"should of\", \"could of\" e \"would of\". Isso é considerado **erro** na escrita padrão e é uma das reclamações mais comuns de professores em países de língua inglesa. Se você escrever \"should have\", estará escrevendo melhor que muitos nativos!"
+      },
+      "summary_pt": ["needn't have + pp = fez, mas não precisava · didn't need to = não era preciso.", "should have = crítica/arrependimento · could have = possibilidade/crítica.", "might/may have = talvez · would have = teria.", "Nunca \"should of\" na escrita."]
+    },
+    {
+      "id": "B2-M6-L2",
+      "title": "Being understood",
+      "subtitle_pt": "Gerúndio e infinitivo avançados: formas perfeitas e passivas",
+      "duration_min": 75,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – B2 (gerunds and infinitives: perfect and passive)", "Keynote Intermediate – Unit 8 (communication)"],
+      "objectives": ["Usar o gerúndio passivo (being told) e perfeito (having done)", "Usar o infinitivo passivo (to be told) e perfeito (to have done)", "Usar verbos que mudam de sentido com -ing ou to (remember, stop, try, regret)", "Falar sobre comunicação, empatia e psicologia"],
+      "warmup": {
+        "text_pt": "\"Eu odeio **ser interrompido**.\" \"Ela parece **ter esquecido**.\" \"Ele nega **ter dito** isso.\" Para expressar ideias mais complexas, o inglês usa gerúndios e infinitivos **passivos** e **perfeitos**. Hoje você vai usá-los para falar sobre comunicação e como queremos ser tratados.",
+        "questions": ["What do you hate being asked?", "Do you prefer to be told the truth, even if it hurts?"]
+      },
+      "vocabulary": [
+        {"en": "to be taken seriously", "pt": "ser levado a sério", "say": "tu bí têiken síriasli"},
+        {"en": "to feel heard / understood", "pt": "sentir-se ouvido / compreendido", "say": "tu fíl rârd / ânderstud"},
+        {"en": "empathy / empathetic", "pt": "empatia / empático", "say": "émpaθi / empaθétik"},
+        {"en": "body language", "pt": "linguagem corporal", "say": "bódi lénguidj"},
+        {"en": "active listening", "pt": "escuta ativa", "say": "éktiv lísenin"},
+        {"en": "to interrupt", "pt": "interromper", "say": "tu interâpt"},
+        {"en": "to misunderstand", "pt": "entender mal", "say": "tu misânderstend"},
+        {"en": "to be left out", "pt": "ser deixado de lado", "say": "tu bí léft áut"},
+        {"en": "to deny / to admit", "pt": "negar / admitir", "say": "tu dinái / tu admít"},
+        {"en": "to appreciate", "pt": "valorizar, apreciar", "say": "tu aprísieit"},
+        {"en": "feedback / constructive criticism", "pt": "feedback / crítica construtiva", "say": "fídbék / konstrâktiv krítisizm"},
+        {"en": "to read between the lines", "pt": "ler nas entrelinhas", "say": "tu ríd bituín dâ láinz"}
+      ],
+      "chunks": [
+        {"en": "I hate being interrupted.", "pt": "Odeio ser interrompido."},
+        {"en": "Everyone wants to be taken seriously.", "pt": "Todo mundo quer ser levado a sério."},
+        {"en": "He denied having said that.", "pt": "Ele negou ter dito aquilo."},
+        {"en": "She seems to have forgotten.", "pt": "Ela parece ter esquecido."},
+        {"en": "I appreciate being given feedback.", "pt": "Aprecio receber feedback."},
+        {"en": "I remember telling you. / Remember to tell her.", "pt": "Lembro de ter te contado. / Lembre-se de contar a ela."}
+      ],
+      "grammar": {
+        "title": "Advanced gerunds and infinitives",
+        "explanation_pt": "Você já sabe quais verbos pedem **-ing** (enjoy, avoid, deny, mind...) e quais pedem **to** (want, decide, seem, expect...). Agora vamos às formas **passivas** e **perfeitas**:\n\n| | Gerúndio | Infinitivo |\n|---|---|---|\n| simples | doing | to do |\n| **passivo** | **being done** | **to be done** |\n| **perfeito** | **having done** | **to have done** |\n| **perfeito passivo** | having been done | to have been done |\n\n**1. Passivo** → o sujeito **recebe** a ação:\n- \"I hate **being interrupted**.\" (eu sou interrompido)\n- \"Nobody likes **being criticized** in public.\"\n- \"Everyone wants **to be taken** seriously.\"\n- \"The report needs **to be finished** today.\"\n\n**2. Perfeito** → ação **anterior** ao verbo principal:\n- \"He denied **having taken** the money.\" (negou ter pegado)\n- \"She seems **to have forgotten** our meeting.\" (parece ter esquecido)\n- \"I regret **not having studied** more.\" (= I regret not studying more — também correto)\n- \"He's thought **to have left** the country.\" (formal)\n\n**3. Verbos que mudam de sentido:**\n- **remember / forget + -ing** = lembrar/esquecer de algo que **aconteceu** (\"I remember **meeting** her.\")\n- **remember / forget + to** = lembrar/esquecer de **fazer** algo (\"Remember **to call** her.\")\n- **stop + -ing** = parar uma atividade · **stop + to** = parar **para** fazer outra coisa\n- **try + -ing** = experimentar (\"Try **turning** it off and on.\") · **try + to** = tentar com esforço (\"I tried **to open** it, but I couldn't.\")\n- **regret + -ing** = arrepender-se · **regret + to** = lamentar informar (formal: \"We regret **to inform** you...\")",
+        "table": {
+          "headers": ["Forma", "Exemplo", "Tradução"],
+          "rows": [["being + pp", "I hate being ignored.", "Odeio ser ignorado."], ["to be + pp", "She expects to be paid.", "Ela espera ser paga."], ["having + pp", "He admitted having lied.", "Ele admitiu ter mentido."], ["to have + pp", "They seem to have left.", "Parece que eles foram embora."], ["remember + -ing", "I remember locking the door.", "Lembro de ter trancado a porta."], ["remember + to", "Remember to lock the door.", "Lembre-se de trancar a porta."]]
+        },
+        "examples": [
+          {"en": "Most employees appreciate being given clear feedback.", "pt": "A maioria dos funcionários gosta de receber feedback claro."},
+          {"en": "The suspect denies having been at the scene of the crime.", "pt": "O suspeito nega ter estado na cena do crime."},
+          {"en": "I'm lucky to have had such good teachers.", "pt": "Tenho sorte de ter tido professores tão bons."}
+        ],
+        "tip_pt": "Em português usamos \"ter + particípio\" (\"negou **ter dito**\") — em inglês, o paralelo é **having said** (depois de verbos com -ing) ou **to have said** (depois de verbos com to)."
+      },
+      "common_mistakes": [
+        {"wrong": "I don't like to being told what to do.", "right": "I don't like being told what to do.", "why_pt": "like + being + particípio (não \"to being\")."},
+        {"wrong": "He denied to have taken the money.", "right": "He denied having taken the money. / He denied taking the money.", "why_pt": "deny + -ing."},
+        {"wrong": "I stopped to smoke last year. (= parei de fumar)", "right": "I stopped smoking last year.", "why_pt": "stop + -ing = parar de; stop + to = parar para."}
+      ],
+      "pronunciation": {
+        "focus": "being / been",
+        "tip_pt": "Não confunda: **being** = \"BÍ-in\" (duas sílabas) e **been** = \"bín\" (uma sílaba; no americano às vezes \"bin\"). \"I hate **being** interrupted\" x \"I've **been** interrupted\".",
+        "practice": ["I hate BEING interrupted.", "I've BEEN interrupted three times.", "having BEEN told..."]
+      },
+      "dialogue": {
+        "title": "Feedback conversation",
+        "context_pt": "Uma gestora dá feedback a um funcionário que se sentiu ignorado nas reuniões.",
+        "lines": [
+          {"speaker": "Ms. Park", "en": "Thanks for coming in, Mateus. You mentioned you wanted to talk about the team meetings.", "pt": "Obrigada por vir, Mateus. Você comentou que queria falar sobre as reuniões da equipe."},
+          {"speaker": "Mateus", "en": "Yes. To be honest, I don't feel heard. I hate being interrupted every time I share an idea.", "pt": "Sim. Para ser sincero, não me sinto ouvido. Odeio ser interrompido toda vez que compartilho uma ideia."},
+          {"speaker": "Ms. Park", "en": "I appreciate you telling me. I don't remember noticing it, which is my fault. Can you give me an example?", "pt": "Agradeço por me contar. Não me lembro de ter percebido isso, o que é culpa minha. Pode me dar um exemplo?"},
+          {"speaker": "Mateus", "en": "Last Tuesday, I suggested the new client process. Ricardo interrupted, and then presented the same idea ten minutes later. He seems to have forgotten that it was mine.", "pt": "Na terça passada, sugeri o novo processo de clientes. O Ricardo interrompeu e depois apresentou a mesma ideia dez minutos depois. Parece que ele esqueceu que era minha."},
+          {"speaker": "Ms. Park", "en": "That's not acceptable. Everyone deserves to be taken seriously. I'll remember to make sure people finish their points.", "pt": "Isso não é aceitável. Todo mundo merece ser levado a sério. Vou lembrar de garantir que as pessoas terminem de falar."},
+          {"speaker": "Mateus", "en": "Thank you. I didn't want to be seen as someone who complains.", "pt": "Obrigado. Eu não queria ser visto como alguém que reclama."},
+          {"speaker": "Ms. Park", "en": "Not at all. I'm glad to have been told. And I'd like you to present that process properly at the next meeting.", "pt": "De jeito nenhum. Fico feliz por ter sido avisada. E gostaria que você apresentasse aquele processo direito na próxima reunião."},
+          {"speaker": "Mateus", "en": "I'd love to. I really appreciate being given the chance.", "pt": "Adoraria. Agradeço muito por ter a oportunidade."}
+        ]
+      },
+      "listening": {
+        "title": "The art of listening",
+        "context_pt": "Uma especialista em comunicação explica a escuta ativa.",
+        "lines": [
+          {"speaker": "Speaker", "en": "Most of us think we're good listeners. But research on communication suggests that we often listen in order to reply, not to understand. While the other person is talking, we're planning what to say next. Active listening is different. It means giving the person your full attention, avoiding being distracted by your phone, and trying not to interrupt. It also means checking that you've understood: \"So what you're saying is...\" People who are listened to in this way feel respected. They're more likely to trust you, and less likely to feel misunderstood. A simple exercise: in your next conversation, try waiting two seconds before you reply. You'll be surprised how much more you notice — including what's said between the lines."}
+        ],
+        "questions": [
+          {"q": "Why do we often listen, according to research?", "answer": "In order to reply, not to understand."},
+          {"q": "Name two things active listening involves.", "answer": "Full attention / not being distracted by your phone / not interrupting / checking understanding."},
+          {"q": "How do people feel when they are listened to this way?", "answer": "Respected (and more trusting, less misunderstood)."},
+          {"q": "What simple exercise does she suggest?", "answer": "Waiting two seconds before you reply."}
+        ]
+      },
+      "video": {
+        "title": "10 ways to have a better conversation",
+        "speaker": "Celeste Headlee",
+        "url": "https://www.ted.com/search?q=celeste+headlee+10+ways+to+have+a+better+conversation",
+        "task_pt": "Assista à palestra (cerca de 12 minutos). Anote o máximo de \"regras\" de conversa que conseguir e responda:",
+        "questions": ["Which of her tips do you find most useful? Why?", "Which tip is the hardest for you to follow?", "Do you agree that most people don't listen to understand? Give an example.", "What do you hate being asked or told in a conversation?"]
+      },
+      "reading": {
+        "title": "Why we want to be understood",
+        "text": "Being understood is one of our deepest psychological needs. Researchers studying relationships have found that people who feel understood by their partners tend to report higher satisfaction, and in some studies even smaller increases in stress during conflict. Interestingly, it seems that what matters most is not having our ideas accepted, but being listened to. In one line of research, participants who were allowed to explain their point of view — even when the other person disagreed — reported feeling more respected than those who were simply agreed with quickly. Feeling misunderstood, on the other hand, can be painful. Many people describe being left out or not being taken seriously at work as one of the most frustrating experiences of their professional lives. Psychologists suggest a few habits for helping others feel understood: asking open questions, repeating key points in your own words and avoiding being too quick to give advice. Admitting to having made assumptions also helps: \"I think I misunderstood you — can you explain again?\" Sometimes, the most powerful thing we can do is not to have the right answer, but to have truly listened.",
+        "questions": [
+          {"q": "What have researchers found about people who feel understood by their partners?", "answer": "They tend to report higher satisfaction (and sometimes less stress during conflict)."},
+          {"q": "What matters most, according to the text?", "answer": "Being listened to, not having our ideas accepted."},
+          {"q": "What is one of the most frustrating experiences at work for many people?", "answer": "Being left out or not being taken seriously."},
+          {"q": "Name two habits that help others feel understood.", "answer": "Asking open questions / repeating key points / not giving advice too quickly / admitting assumptions."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Passive or active?", "instruction": "Choose the correct form.", "instruction_pt": "Escolha a forma correta.",
+         "items": [{"prompt": "I hate ___ what to do.", "options": ["telling", "being told", "to tell"], "answer": "being told"}, {"prompt": "Everyone wants ___ seriously.", "options": ["to take", "to be taken", "being taken"], "answer": "to be taken"}, {"prompt": "He denied ___ the window.", "options": ["having broken", "to have broken", "to break"], "answer": "having broken"}, {"prompt": "She seems ___ her keys again.", "options": ["having lost", "to have lost", "being lost"], "answer": "to have lost"}, {"prompt": "The house needs ___ before we sell it.", "options": ["to paint", "to be painted", "being painted"], "answer": "to be painted"}]},
+        {"id": "ex2", "type": "multiple_choice", "title": "Change of meaning", "instruction": "Choose the correct form.", "instruction_pt": "Escolha a forma correta.",
+         "items": [{"prompt": "I remember ___ him at a party years ago.", "options": ["meeting", "to meet"], "answer": "meeting"}, {"prompt": "Please remember ___ the lights when you leave.", "options": ["turning off", "to turn off"], "answer": "to turn off"}, {"prompt": "We stopped ___ a coffee on the way to Santos.", "options": ["having", "to have"], "answer": "to have"}, {"prompt": "If your computer freezes, try ___ it.", "options": ["restarting", "to restart"], "answer": "restarting"}, {"prompt": "We regret ___ you that the flight has been cancelled.", "options": ["informing", "to inform"], "answer": "to inform"}]},
+        {"id": "ex3", "type": "answer", "title": "Rewrite the sentences", "instruction": "Rewrite using a perfect or passive gerund/infinitive.", "instruction_pt": "Reescreva usando gerúndio/infinitivo perfeito ou passivo.",
+         "items": [{"prompt": "It seems that she has left already.", "answer": "She seems to have left already."}, {"prompt": "He admitted that he had made a mistake.", "answer": "He admitted having made a mistake."}, {"prompt": "I don't like it when people ignore me.", "answer": "I don't like being ignored."}, {"prompt": "I expect that they will pay me on Friday.", "answer": "I expect to be paid on Friday."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "I hate being interrupted."}, {"prompt": "2", "answer": "Everyone wants to be taken seriously."}, {"prompt": "3", "answer": "He denied having said that."}, {"prompt": "4", "answer": "She seems to have forgotten."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "I don't mind to be told the truth.", "answer": "I don't mind being told the truth."}, {"prompt": "He seems to forgotten my name.", "answer": "He seems to have forgotten my name."}, {"prompt": "She stopped to eat meat five years ago. (= parou de comer)", "answer": "She stopped eating meat five years ago."}, {"prompt": "I appreciate to be given feedback.", "answer": "I appreciate being given feedback."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the advice", "instruction": "Complete with the correct form of the verbs in parentheses.", "instruction_pt": "Complete com a forma correta dos verbos.",
+         "items": [{"prompt": "Nobody enjoys ___ (criticize) in front of colleagues.", "answer": "being criticized"}, {"prompt": "Most people want ___ (listen to) before they're given advice.", "answer": "to be listened to"}, {"prompt": "If you've made an assumption, admit ___ (make) it.", "answer": "having made"}, {"prompt": "Remember ___ (ask) open questions, and try ___ (repeat) key points in your own words.", "answer": "to ask / repeating"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Active listening practice\": in pairs, one person talks for 2 minutes about something that matters to them. The other listens actively (no interrupting, open questions, \"So what you're saying is...\"). Then swap and discuss how it felt to be listened to.",
+        "instruction_pt": "\"Prática de escuta ativa\": em pares, uma pessoa fala por 2 minutos sobre algo importante para ela. A outra escuta ativamente (sem interromper, perguntas abertas, \"So what you're saying is...\"). Depois troquem e discutam como foi ser ouvido.",
+        "questions": ["What do you hate being asked at family gatherings?", "When was the last time you felt really listened to?", "Do you prefer to be given direct or gentle feedback?", "What do you remember being told as a child that still influences you?", "Are you a good listener? What could you improve?"]
+      },
+      "writing": {
+        "task": "Write a short article (200–240 words) for a company newsletter titled \"How to make your colleagues feel heard\". Use at least 6 passive or perfect gerunds/infinitives and 2 verbs that change meaning (remember, stop, try).",
+        "task_pt": "Escreva um artigo curto (200–240 palavras) para o boletim de uma empresa intitulado \"Como fazer seus colegas se sentirem ouvidos\". Use pelo menos 6 gerúndios/infinitivos passivos ou perfeitos e 2 verbos que mudam de sentido (remember, stop, try).",
+        "model": "How to make your colleagues feel heard\n\nIn our last staff survey, many of you said that you wanted to be listened to more in meetings. Nobody likes being interrupted or having their ideas ignored. Here are four simple habits that can help.\n\n1. Stop multitasking. When a colleague is speaking, try putting your phone face down. Being given someone's full attention is rare these days — and people notice it.\n\n2. Let people finish. Many of us interrupt without realizing it. If you remember interrupting someone, go back to them: \"Sorry, I cut you off — please continue.\"\n\n3. Give credit. Nothing is more frustrating than seeing your idea presented by someone else. If you build on a colleague's idea, mention them. Everyone deserves to be recognized for their contributions.\n\n4. Check your understanding. Before you reply, try repeating the main point in your own words. If you realize you've misunderstood, admit having made an assumption. It shows respect.\n\nThese habits take practice. Several team leaders who tested them last month said they were surprised to have noticed so many changes in their meetings. One said: \"People seem to have become more confident about sharing ideas.\"\n\nNext time you're in a meeting, remember to listen as carefully as you'd like to be listened to."
+      },
+      "culture_note": {
+        "title": "Comunicação direta x indireta",
+        "text_pt": "Culturas variam no nível de **franqueza**. Holandeses e alemães são conhecidos por feedback direto; britânicos, por indiretas (\"**That's an interesting idea**\" pode significar \"não gostei\"). Brasileiros costumam suavizar críticas e valorizar a relação. Em equipes internacionais, **read between the lines** — e, se não tiver certeza, pergunte."
+      },
+      "summary_pt": ["Passivo: being told / to be taken.", "Perfeito: having done / to have done (ação anterior).", "remember/forget + -ing (passado) x + to (fazer).", "stop/try/regret mudam de sentido com -ing ou to."]
+    },
+    {
+      "id": "B2-M6-L3",
+      "title": "Speaking like a native",
+      "subtitle_pt": "Collocations e expressões idiomáticas",
+      "duration_min": 75,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – B2 (collocations, idiomatic language)", "Cambridge English – B2 First Reading & Use of English Part 1 (lexical choice)"],
+      "objectives": ["Usar collocations com make, do, take, have e pay", "Usar collocations de adjetivo + substantivo e advérbio + adjetivo", "Entender e usar idioms comuns no dia a dia", "Evitar traduções literais do português"],
+      "warmup": {
+        "text_pt": "Por que nativos dizem \"**make** a mistake\" e não \"do a mistake\"? \"**heavy** rain\" e não \"strong rain\"? Não há regra lógica: são **collocations** — palavras que \"andam juntas\". Dominá-las é o que faz seu inglês soar natural. E os **idioms** dão o tempero.",
+        "questions": ["Can you think of an English expression that doesn't make sense if you translate it literally?", "What's your favourite Brazilian expression? How would you explain it in English?"]
+      },
+      "vocabulary": [
+        {"en": "a collocation", "pt": "uma combinação natural de palavras", "say": "a kolokêishan"},
+        {"en": "an idiom / idiomatic", "pt": "uma expressão idiomática / idiomático", "say": "an ídiam / idiomátik"},
+        {"en": "make a decision / an effort / progress", "pt": "tomar uma decisão / fazer esforço / progredir", "say": "mêik a disízhan"},
+        {"en": "do research / your best / a favour", "pt": "fazer pesquisa / o melhor / um favor", "say": "dú risârtch"},
+        {"en": "take a break / a risk / part in", "pt": "fazer uma pausa / arriscar / participar de", "say": "têik a brêik"},
+        {"en": "pay attention / a compliment", "pt": "prestar atenção / fazer um elogio", "say": "pêi atênshan"},
+        {"en": "heavy rain / heavy traffic", "pt": "chuva forte / trânsito pesado", "say": "révi rêin / révi tréfik"},
+        {"en": "highly recommended / deeply grateful", "pt": "muito recomendado / profundamente grato", "say": "ráili rekoméndid"},
+        {"en": "a piece of cake", "pt": "moleza, muito fácil", "say": "a pís ov kêik"},
+        {"en": "to break the ice", "pt": "quebrar o gelo", "say": "tu brêik dí áis"},
+        {"en": "to cost an arm and a leg", "pt": "custar os olhos da cara", "say": "tu kóst an árm énd a lég"},
+        {"en": "to hit the nail on the head", "pt": "acertar em cheio", "say": "tu rit dâ nêil on dâ réd"}
+      ],
+      "chunks": [
+        {"en": "I made a mistake.", "pt": "Cometi um erro."},
+        {"en": "Let's take a break.", "pt": "Vamos fazer uma pausa."},
+        {"en": "Could you do me a favour?", "pt": "Você poderia me fazer um favor?"},
+        {"en": "It was a piece of cake.", "pt": "Foi moleza."},
+        {"en": "That costs an arm and a leg!", "pt": "Isso custa os olhos da cara!"},
+        {"en": "You've hit the nail on the head.", "pt": "Você acertou em cheio."}
+      ],
+      "grammar": {
+        "title": "Collocations and idioms",
+        "explanation_pt": "**1. Collocations com verbos \"leves\"**\n- **make** (criar, produzir, resultado): make a mistake, a decision, a plan, a complaint, an effort, progress, money, friends, a difference, an excuse, a phone call\n- **do** (tarefas, trabalho, atividades): do homework, the housework, research, business, a course, your best, a favour, damage, exercise\n- **take** (ações, oportunidades): take a break, a risk, a photo, an exam, part in, place, advantage of, responsibility for, care of\n- **have** (experiências, refeições): have a look, a chat, a good time, an argument, a shower, lunch, a go\n- **pay** (dar algo): pay attention, a visit, a compliment, the price\n\n**2. Adjetivo + substantivo** (\"forte\" muda em inglês!):\n- **heavy** rain / traffic / smoker · **strong** coffee / wind / accent · **high** temperature / price / risk · **deep** sleep / concern · **bitter** disappointment · **close** friend · **broad** smile\n\n**3. Advérbio + adjetivo** (intensificadores naturais):\n- **highly** recommended / unlikely / successful · **deeply** grateful / concerned · **bitterly** disappointed / cold · **fully** aware · **completely** different · **perfectly** normal\n\n**4. Idioms (expressões idiomáticas)**\n- Use com moderação — idioms demais soam forçados.\n- Muitos são **parecidos** com o português (break the ice = quebrar o gelo), mas outros **não**: \"it's raining cats and dogs\" ≈ \"está chovendo canivetes\"; \"cost an arm and a leg\" ≈ \"custar os olhos da cara\".\n- Idioms são **fixos**: não troque palavras (❌ \"a piece of pie\").\n\n**Estratégia:** ao aprender uma palavra nova, anote **com o que ela combina**, não só a tradução.",
+        "table": {
+          "headers": ["Verbo", "Collocations"],
+          "rows": [["make", "a mistake, a decision, progress, an effort, a difference, money"], ["do", "homework, research, your best, a favour, business, exercise"], ["take", "a break, a risk, part in, place, advantage of, care of"], ["have", "a look, a chat, an argument, a go, fun"], ["pay", "attention, a visit, a compliment"]]
+        },
+        "examples": [
+          {"en": "I've made a lot of progress this year, but I still need to pay more attention to my pronunciation.", "pt": "Progredi muito este ano, mas ainda preciso prestar mais atenção à minha pronúncia."},
+          {"en": "The restaurant was highly recommended, but it cost an arm and a leg.", "pt": "O restaurante foi muito recomendado, mas custou os olhos da cara."},
+          {"en": "We were bitterly disappointed when the concert was cancelled due to heavy rain.", "pt": "Ficamos profundamente decepcionados quando o show foi cancelado por causa da chuva forte."}
+        ],
+        "tip_pt": "Os erros de collocation mais comuns de brasileiros: ❌ \"do a mistake\" (✅ make), ❌ \"make a question\" (✅ **ask** a question), ❌ \"take a decision\" (✅ **make** — embora \"take\" seja aceito no inglês britânico), ❌ \"strong rain\" (✅ heavy rain), ❌ \"lose the bus\" (✅ **miss** the bus)."
+      },
+      "common_mistakes": [
+        {"wrong": "I did a mistake.", "right": "I made a mistake.", "why_pt": "make a mistake."},
+        {"wrong": "Can I make a question?", "right": "Can I ask a question?", "why_pt": "ask a question (não make)."},
+        {"wrong": "There was a strong rain yesterday.", "right": "There was heavy rain yesterday.", "why_pt": "heavy rain (chuva forte)."}
+      ],
+      "pronunciation": {
+        "focus": "Collocations como blocos",
+        "tip_pt": "Collocations e idioms são pronunciados como **um bloco só**, com as palavras ligadas: \"make a mistake\" = \"mêikamistêik\", \"take a break\" = \"têikabrêik\", \"a piece of cake\" = \"apísovkêik\". Aprender em blocos melhora a **fluência** e a **velocidade**.",
+        "practice": ["make-a-mistake", "take-a-break", "a-piece-of-cake", "pay-attention"]
+      },
+      "dialogue": {
+        "title": "First day nerves",
+        "context_pt": "Duas colegas conversam no primeiro dia de uma delas numa empresa internacional.",
+        "lines": [
+          {"speaker": "Kate", "en": "So, how's your first day going? Settling in OK?", "pt": "E aí, como está o primeiro dia? Se adaptando bem?"},
+          {"speaker": "Letícia", "en": "I think so! I was so nervous this morning. I was worried I'd make a mistake in front of everyone.", "pt": "Acho que sim! Estava tão nervosa hoje de manhã. Estava com medo de cometer um erro na frente de todo mundo."},
+          {"speaker": "Kate", "en": "Don't worry — everyone makes mistakes at first. Just do your best and ask questions.", "pt": "Não se preocupe — todo mundo comete erros no começo. Só dê o seu melhor e faça perguntas."},
+          {"speaker": "Letícia", "en": "Thanks. The welcome meeting really broke the ice. And the training was a piece of cake.", "pt": "Obrigada. A reunião de boas-vindas quebrou o gelo mesmo. E o treinamento foi moleza."},
+          {"speaker": "Kate", "en": "Great. Have you had lunch yet? The café downstairs is highly recommended — though it costs an arm and a leg.", "pt": "Ótimo. Você já almoçou? O café lá embaixo é muito recomendado — mas custa os olhos da cara."},
+          {"speaker": "Letícia", "en": "Ha! Maybe I'll bring my own lunch, then. Can I ask you something? Who should I talk to about taking part in the language exchange programme?", "pt": "Ha! Talvez eu traga meu almoço então. Posso te perguntar uma coisa? Com quem eu falo para participar do programa de intercâmbio de idiomas?"},
+          {"speaker": "Kate", "en": "That's Tom in HR. He'll be happy to help. You're really making an effort — I'm impressed!", "pt": "É o Tom do RH. Ele vai ficar feliz em ajudar. Você está se esforçando muito — estou impressionada!"},
+          {"speaker": "Letícia", "en": "Thanks! I want to make a good impression. Shall we take a break and get a coffee?", "pt": "Obrigada! Quero causar uma boa impressão. Vamos fazer uma pausa e tomar um café?"}
+        ]
+      },
+      "listening": {
+        "title": "Idioms around the world",
+        "context_pt": "Um podcast compara expressões idiomáticas em diferentes línguas.",
+        "lines": [
+          {"speaker": "Host", "en": "Today we're comparing idioms from different languages. Let's start with rain. In English, when it's raining heavily, people sometimes say \"it's raining cats and dogs\" — though, honestly, most people just say \"it's pouring\". In Brazilian Portuguese, it's \"raining pocket knives\"."},
+          {"speaker": "Guest", "en": "I love that one! And when something is very expensive, English speakers say it \"costs an arm and a leg\", whereas Brazilians say it \"costs the eyes of the face\". Same idea — very valuable parts of the body!"},
+          {"speaker": "Host", "en": "Exactly. And some idioms are almost identical. \"Break the ice\" exists in English, Portuguese and many other languages."},
+          {"speaker": "Guest", "en": "My advice to learners: don't try to use too many idioms. Collocations are more important. If you say \"make a decision\" and \"heavy traffic\" correctly, you'll sound more natural than if you use five idioms in one sentence!"}
+        ],
+        "questions": [
+          {"q": "What do most English speakers actually say when it's raining heavily?", "answer": "\"It's pouring.\""},
+          {"q": "What is the Portuguese equivalent of \"cost an arm and a leg\"?", "answer": "\"Custar os olhos da cara\" (cost the eyes of the face)."},
+          {"q": "Which idiom exists in many languages?", "answer": "Break the ice."},
+          {"q": "What is the guest's advice to learners?", "answer": "Don't use too many idioms; collocations are more important."}
+        ]
+      },
+      "reading": {
+        "title": "Chunks, not words",
+        "text": "For most of the twentieth century, language teaching focused on two things: grammar rules and individual words. But in the 1990s, the linguist Michael Lewis proposed what he called the \"Lexical Approach\". His central idea was simple but powerful: language is not made of grammar and words, but largely of \"chunks\" — groups of words that native speakers store and use as single units. Phrases like \"by the way\", \"I'm not sure\", \"make a decision\" or \"as far as I know\" are not built word by word each time we speak; they come ready-made. Corpus research — the study of very large collections of real texts — supports this view, showing that a large part of everyday language consists of recurring combinations. This helps explain why learners can know thousands of words and still sound unnatural: they combine words in ways that are grammatically correct but that native speakers simply don't use, like \"do a decision\" or \"strong rain\". It also explains why fluent speakers can talk so quickly: they don't need to build every sentence from scratch. For learners, the practical lesson is clear. When you meet a new word, don't just learn its translation. Notice the words around it, write down the whole chunk, and practise it until it comes out automatically.",
+        "questions": [
+          {"q": "What did Michael Lewis propose?", "answer": "The Lexical Approach: language is largely made of chunks."},
+          {"q": "What does corpus research show?", "answer": "A large part of everyday language consists of recurring combinations."},
+          {"q": "Why can learners know many words and still sound unnatural?", "answer": "They combine words in ways native speakers don't use."},
+          {"q": "What is the practical lesson for learners?", "answer": "Learn whole chunks, not just translations, and practise them."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "make, do, take or have?", "instruction": "Choose the correct verb.", "instruction_pt": "Escolha o verbo correto.",
+         "items": [{"prompt": "I need to ___ a decision by Friday.", "options": ["make", "do", "take"], "answer": "make"}, {"prompt": "Could you ___ me a favour?", "options": ["make", "do", "have"], "answer": "do"}, {"prompt": "Let's ___ a break — we've been working for hours.", "options": ["do", "make", "take"], "answer": "take"}, {"prompt": "She's ___ a lot of progress this year.", "options": ["done", "made", "had"], "answer": "made"}, {"prompt": "Can I ___ a look at your notes?", "options": ["have", "do", "make"], "answer": "have"}]},
+        {"id": "ex2", "type": "multiple_choice", "title": "Adjective + noun", "instruction": "Choose the natural collocation.", "instruction_pt": "Escolha a combinação natural.",
+         "items": [{"prompt": "We were delayed by ___ traffic.", "options": ["heavy", "strong", "big"], "answer": "heavy"}, {"prompt": "I need a ___ coffee to wake up.", "options": ["heavy", "strong", "high"], "answer": "strong"}, {"prompt": "There's a ___ risk of flooding this week.", "options": ["high", "heavy", "strong"], "answer": "high"}, {"prompt": "This hotel is ___ recommended.", "options": ["highly", "strongly", "heavily"], "answer": "highly"}, {"prompt": "We were ___ disappointed with the result.", "options": ["bitterly", "heavily", "highly"], "answer": "bitterly"}]},
+        {"id": "ex3", "type": "match", "title": "Idioms", "instruction": "Write the English idiom.", "instruction_pt": "Escreva a expressão idiomática em inglês.",
+         "items": [{"prompt": "moleza", "answer": "a piece of cake"}, {"prompt": "quebrar o gelo", "answer": "break the ice"}, {"prompt": "custar os olhos da cara", "answer": "cost an arm and a leg"}, {"prompt": "acertar em cheio", "answer": "hit the nail on the head"}, {"prompt": "há males que vêm para bem", "answer": "a blessing in disguise"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "Could you do me a favour?"}, {"prompt": "2", "answer": "It was a piece of cake."}, {"prompt": "3", "answer": "That costs an arm and a leg!"}, {"prompt": "4", "answer": "You've hit the nail on the head."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the collocation mistake.", "instruction_pt": "Encontre e corrija o erro de collocation.",
+         "items": [{"prompt": "I did a terrible mistake.", "answer": "I made a terrible mistake."}, {"prompt": "Can I make a question?", "answer": "Can I ask a question?"}, {"prompt": "There was a strong rain last night.", "answer": "There was heavy rain last night."}, {"prompt": "I lost the bus this morning.", "answer": "I missed the bus this morning."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the email", "instruction": "Complete with: pay · take · made · do · broke.", "instruction_pt": "Complete o e-mail.",
+         "items": [{"prompt": "Thank you for organizing the team lunch. It really ___ the ice with the new interns.", "answer": "broke"}, {"prompt": "I think we've ___ a lot of progress this month.", "answer": "made"}, {"prompt": "Next week, I'd like everyone to ___ part in the training.", "answer": "take"}, {"prompt": "Please ___ attention to the new deadlines, and ___ your best to finish on time.", "answer": "pay / do"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Collocation challenge\": tell a 2-minute story about a challenging week using at least 8 collocations (make, do, take, have, pay + adjective/adverb collocations) and 2 idioms. Your partner counts them and gives you feedback.",
+        "instruction_pt": "\"Desafio das collocations\": conte uma história de 2 minutos sobre uma semana desafiadora usando pelo menos 8 collocations (make, do, take, have, pay + adjetivo/advérbio) e 2 idioms. Seu colega conta e dá feedback.",
+        "questions": ["What's the biggest decision you've made this year?", "When was the last time you took a risk?", "What's something that was a piece of cake for you but hard for others?", "What costs an arm and a leg in Brazil?", "How do you usually break the ice with new people?"]
+      },
+      "writing": {
+        "task": "Write a review (200–240 words) of a restaurant, hotel, course or app for an English-language website. Use at least 10 natural collocations (including adverb + adjective) and 2 idioms. Underline them.",
+        "task_pt": "Escreva uma resenha (200–240 palavras) de um restaurante, hotel, curso ou app para um site em inglês. Use pelo menos 10 collocations naturais (incluindo advérbio + adjetivo) e 2 idioms. Sublinhe-as.",
+        "model": "Review: A weekend at Pousada Mar Azul, Ilhabela\n\nI'd been working long hours for months, so I decided to take a break and spend a weekend on Ilhabela. A friend had highly recommended Pousada Mar Azul, and I'm deeply grateful she did.\n\nThe staff made a real effort to make us feel welcome. The owner, Dona Célia, paid us a visit on the first evening, broke the ice with some funny stories about the island and gave us excellent advice about where to go.\n\nThe rooms are simple but spotlessly clean, with a breathtaking view of the sea. On the second day there was heavy rain, but it turned out to be a blessing in disguise: we had a long chat with other guests in the lounge and made friends with a lovely couple from Chile.\n\nBreakfast deserves a special mention. The coffee was strong, the fruit was fresh and the homemade cakes were absolutely delicious.\n\nThe only downside? Getting there. The ferry queue on a Friday afternoon can be extremely long, so pay attention to the timetable and arrive early.\n\nIt isn't cheap, but it certainly doesn't cost an arm and a leg either, especially compared with other places on the island. All in all, it's a perfect place to relax, and I'd have no hesitation in recommending it. Five stars."
+      },
+      "culture_note": {
+        "title": "Idioms que confundem",
+        "text_pt": "Cuidado com idioms que **parecem** traduções mas não são: **\"to pull someone's leg\"** = zoar alguém (não \"puxar o pé\"); **\"break a leg!\"** = boa sorte (no teatro); **\"it's not my cup of tea\"** = não é a minha praia; **\"once in a blue moon\"** = muito raramente. E o português **\"pagar mico\"** seria **\"to make a fool of yourself\"**."
+      },
+      "summary_pt": ["make (resultado) · do (tarefa) · take (ação/oportunidade) · have (experiência) · pay (attention).", "heavy rain/traffic · strong coffee · highly recommended · bitterly disappointed.", "ask a question · miss the bus.", "Idioms são fixos — use com moderação."]
+    },
+    {
+      "id": "B2-M6-L4",
+      "title": "Ready for B2",
+      "subtitle_pt": "Revisão geral + estratégias de exame (B2 First / IELTS) e apresentação final",
+      "duration_min": 90,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – B2 (revisão)", "Cambridge English – B2 First (formato da prova)", "IELTS – Speaking test (formato)"],
+      "objectives": ["Revisar as principais estruturas do B2", "Conhecer o formato das provas B2 First e IELTS Speaking", "Usar estratégias para ganhar tempo, parafrasear e organizar respostas", "Fazer uma apresentação final de nível B2"],
+      "warmup": {
+        "text_pt": "Parabéns — você chegou ao fim do B2! Este nível é um marco: é o mínimo exigido por muitas universidades e empresas internacionais. Hoje você vai revisar tudo, conhecer o formato das provas oficiais e aprender **estratégias** para mostrar o seu melhor inglês sob pressão.",
+        "questions": ["What has been the most useful thing you've learned in this course?", "Would you like to take an official exam? Why / why not?"]
+      },
+      "vocabulary": [
+        {"en": "a certificate / to be certified", "pt": "um certificado / ser certificado", "say": "a sertífikat"},
+        {"en": "to sit / take an exam", "pt": "fazer uma prova", "say": "tu sit / têik an igzém"},
+        {"en": "to pass / to fail", "pt": "passar / reprovar", "say": "tu pés / tu fêil"},
+        {"en": "a band score", "pt": "uma nota (no IELTS)", "say": "a bénd skór"},
+        {"en": "to paraphrase", "pt": "parafrasear", "say": "tu pérafreiz"},
+        {"en": "fluency / accuracy", "pt": "fluência / precisão", "say": "flúensi / ékiurasi"},
+        {"en": "range (of vocabulary)", "pt": "variedade (de vocabulário)", "say": "rêindj"},
+        {"en": "coherent / coherence", "pt": "coerente / coerência", "say": "kourírent"},
+        {"en": "to buy time", "pt": "ganhar tempo", "say": "tu bái táim"},
+        {"en": "to elaborate (on)", "pt": "desenvolver, detalhar", "say": "tu iléboreit"},
+        {"en": "to self-correct", "pt": "se autocorrigir", "say": "tu sélf korékt"},
+        {"en": "a milestone", "pt": "um marco", "say": "a máilstoun"}
+      ],
+      "chunks": [
+        {"en": "That's an interesting question. Let me think...", "pt": "Que pergunta interessante. Deixe-me pensar..."},
+        {"en": "I've never really thought about it, but I'd say...", "pt": "Nunca pensei muito nisso, mas eu diria..."},
+        {"en": "What I mean is...", "pt": "O que quero dizer é..."},
+        {"en": "Sorry, could you repeat the question?", "pt": "Desculpe, poderia repetir a pergunta?"},
+        {"en": "I see your point, but on the other hand...", "pt": "Entendo seu ponto, mas por outro lado..."},
+        {"en": "To sum up, I'd say that...", "pt": "Resumindo, eu diria que..."}
+      ],
+      "grammar": {
+        "title": "B2 review and exam strategies",
+        "explanation_pt": "**Revisão das grandes estruturas do B2:**\n- **Narrativa:** past perfect continuous, would / used to, inversão (\"Never have I...\")\n- **Futuro:** future continuous / perfect (\"By 2030, I'll have finished...\")\n- **Passiva e reporting:** \"It is believed that...\", \"He is said to be...\"\n- **Condicionais:** third, mixed, wish / if only, alternativas ao if\n- **Orações:** relative clauses avançadas, participle clauses\n- **Coesão:** although / despite / whereas / however, linkers formais\n- **Modais no passado:** needn't have, should have, could have, might have\n- **Gerúndio / infinitivo:** being told, having done, to have done\n- **Léxico:** collocations e idioms\n\n**Formato das provas:**\n\n**Cambridge B2 First** — 4 partes:\n- **Reading & Use of English** (1h15): gramática, vocabulário e leitura\n- **Writing** (1h20): essay obrigatório + uma tarefa à escolha (artigo, e-mail/carta, relatório ou resenha)\n- **Listening** (cerca de 40 min)\n- **Speaking** (cerca de 14 min, **em dupla**): entrevista, comparação de fotos, tarefa colaborativa e discussão\n\n**IELTS Speaking** (11–14 min, individual):\n- **Part 1**: perguntas sobre você (casa, trabalho, hobbies)\n- **Part 2**: fale **1–2 minutos** sobre um tema de um cartão (1 min para preparar)\n- **Part 3**: discussão mais abstrata sobre o tema da Part 2\n- Critérios: fluência e coerência, vocabulário, gramática e pronúncia. No IELTS, B2 corresponde aproximadamente às bandas 5.5–6.5.\n\n**Estratégias para o speaking:**\n1. **Ganhe tempo** com naturalidade: \"That's an interesting question...\", \"Let me think...\"\n2. **Desenvolva** (elaborate): responda + motivo + exemplo. Nunca só \"yes\" ou \"no\".\n3. **Parafraseie** quando faltar uma palavra: \"It's a kind of... / It's something you use to...\"\n4. **Autocorrija-se** rapidamente: \"I goed — sorry, I went...\"  — isso mostra controle.\n5. Na prova em dupla, **interaja**: \"What do you think?\", \"I see your point, but...\"\n6. **Mostre variedade**: use estruturas do B2 de propósito (conditionals, passivas, relative clauses).",
+        "table": {
+          "headers": ["Estratégia", "Frases úteis"],
+          "rows": [["Ganhar tempo", "That's a good question. / Let me think about that for a second."], ["Parafrasear", "I can't remember the word, but it's a kind of... / It's what you use to..."], ["Desenvolver", "The main reason is... For example, ... That's why..."], ["Interagir", "What do you think? / Would you agree? / I see your point, but..."], ["Esclarecer", "Sorry, could you repeat the question? / Do you mean...?"], ["Concluir", "So, all in all, I'd say... / To sum up, ..."]]
+        },
+        "examples": [
+          {"en": "That's an interesting question. I've never really thought about it, but I'd say that technology has made us more connected and, at the same time, lonelier.", "pt": "Que pergunta interessante. Nunca pensei muito nisso, mas eu diria que a tecnologia nos tornou mais conectados e, ao mesmo tempo, mais solitários."},
+          {"en": "I can't remember the exact word, but it's a kind of tool you use to measure temperature.", "pt": "Não lembro a palavra exata, mas é um tipo de ferramenta que você usa para medir temperatura."},
+          {"en": "If I had known how useful English would be, I would have started studying much earlier.", "pt": "Se eu soubesse o quanto o inglês seria útil, teria começado a estudar bem mais cedo."}
+        ],
+        "tip_pt": "Na prova oral, **o examinador avalia o seu inglês, não as suas ideias**. Você não precisa dizer algo brilhante — precisa dizer algo **claro, desenvolvido e com variedade**. Se não tiver opinião, invente uma!"
+      },
+      "common_mistakes": [
+        {"wrong": "Examiner: Do you like reading? — Student: Yes.", "right": "Yes, I do, especially novels. I usually read before bed, because it helps me relax.", "why_pt": "Sempre desenvolva: resposta + motivo + exemplo."},
+        {"wrong": "I don't know how to say this in English, so... (silêncio)", "right": "I can't think of the word, but it's a kind of...", "why_pt": "Parafraseie em vez de parar."},
+        {"wrong": "Usar só estruturas simples para não errar.", "right": "Arriscar estruturas do B2 (If I had..., It is said that..., Having...)", "why_pt": "A variedade conta pontos — pequenos erros com estruturas complexas são aceitáveis."}
+      ],
+      "pronunciation": {
+        "focus": "Fluência: chunks e pausas naturais",
+        "tip_pt": "Fluência não é falar rápido — é falar **sem pausas longas no lugar errado**. Faça pausas **entre** blocos de sentido (não no meio de um chunk), use **fillers** naturais (well, actually, I mean, you know) com moderação e ligue as palavras dentro de cada bloco.",
+        "practice": ["Well, | to be honest, | I've never really thought about it.", "Actually, | I'd say that | it depends on the situation.", "I mean, | if I had known, | I would have done it differently."]
+      },
+      "dialogue": {
+        "title": "Mock speaking test",
+        "context_pt": "Simulação da parte colaborativa da prova oral B2 First: dois candidatos discutem uma pergunta.",
+        "lines": [
+          {"speaker": "Examiner", "en": "Now, I'd like you to talk together about how people can improve their mental well-being. Here are some ideas: exercise, spending time in nature, using less social media, talking to friends and learning something new. You have two minutes.", "pt": "Agora, gostaria que vocês conversassem sobre como as pessoas podem melhorar seu bem-estar mental. Aqui estão algumas ideias: exercício, tempo na natureza, usar menos redes sociais, conversar com amigos e aprender algo novo. Vocês têm dois minutos."},
+          {"speaker": "Ana", "en": "Shall we start with exercise? I think it's one of the most effective options. It is often said that even a short walk can improve your mood. What do you think?", "pt": "Vamos começar com exercício? Acho que é uma das opções mais eficazes. Diz-se com frequência que até uma caminhada curta pode melhorar o humor. O que você acha?"},
+          {"speaker": "Bruno", "en": "I agree, although not everyone has time to go to the gym. Having said that, you don't need a gym — you could just walk to work.", "pt": "Concordo, embora nem todo mundo tenha tempo de ir à academia. Dito isso, você não precisa de academia — poderia simplesmente ir a pé para o trabalho."},
+          {"speaker": "Ana", "en": "That's a good point. What about social media? If I had spent less time on my phone last year, I think I would have been much less anxious.", "pt": "Bom argumento. E as redes sociais? Se eu tivesse passado menos tempo no celular no ano passado, acho que teria ficado bem menos ansiosa."},
+          {"speaker": "Bruno", "en": "Me too. But I wouldn't say it's all negative. It can also help you stay in touch with friends who live far away, which links to the next idea.", "pt": "Eu também. Mas eu não diria que é tudo negativo. Também pode ajudar a manter contato com amigos que moram longe, o que se liga à próxima ideia."},
+          {"speaker": "Ana", "en": "True. And learning something new? I'd say it's important because it gives you a sense of progress. Learning English has definitely done that for me!", "pt": "Verdade. E aprender algo novo? Eu diria que é importante porque dá uma sensação de progresso. Aprender inglês com certeza fez isso por mim!"},
+          {"speaker": "Bruno", "en": "Ha, absolutely. So, if we had to choose the most important one, I'd go for talking to friends. What about you?", "pt": "Ha, com certeza. Então, se tivéssemos que escolher a mais importante, eu ficaria com conversar com amigos. E você?"},
+          {"speaker": "Ana", "en": "I see your point, but I'd choose exercise, because it helps both your body and your mind. Shall we say both?", "pt": "Entendo seu ponto, mas eu escolheria exercício, porque ajuda o corpo e a mente. Vamos dizer as duas?"}
+        ]
+      },
+      "listening": {
+        "title": "IELTS Part 2: a long turn",
+        "context_pt": "Um candidato responde a um cartão do IELTS Speaking Part 2: \"Describe a skill you learned that has been useful to you.\"",
+        "lines": [
+          {"speaker": "Candidate", "en": "OK, so I'd like to talk about a skill that has been incredibly useful to me, which is speaking English. I started learning it at school, but to be honest, I didn't take it very seriously back then. It wasn't until I was about twenty-five, having just been offered a job in an international company, that I realized how much I needed it. So I signed up for an evening course. At first, it was really challenging — I remember being terrified of speaking in class. But my teacher encouraged us to make mistakes, which made a huge difference. The skill has been useful in so many ways. At work, I now lead meetings with colleagues in four countries. I've also travelled a lot more, and I've made friends from all over the world. If I hadn't learned English, I wouldn't have the job I have today. Looking back, I wish I'd started taking it seriously much earlier — I needn't have waited until I was twenty-five!"}
+        ],
+        "questions": [
+          {"q": "What skill does the candidate talk about?", "answer": "Speaking English."},
+          {"q": "When did the candidate realize they needed English?", "answer": "At about 25, after being offered a job in an international company."},
+          {"q": "What made a huge difference in class?", "answer": "The teacher encouraged them to make mistakes."},
+          {"q": "Find two B2 structures the candidate uses.", "answer": "Examples: having just been offered / I remember being terrified / If I hadn't learned..., I wouldn't have / I wish I'd started / I needn't have waited / It wasn't until..."}
+        ]
+      },
+      "reading": {
+        "title": "What does B2 really mean?",
+        "text": "According to the Common European Framework of Reference (CEFR), a B2 user is an \"independent user\" who can understand the main ideas of complex texts, interact with native speakers with a degree of fluency and spontaneity, and produce clear, detailed texts on a wide range of subjects. In practical terms, this is a significant milestone. Many universities around the world accept B2 as a minimum level of English for some courses, and many international employers consider it the point at which someone can work effectively in English. However, reaching B2 does not mean that you will understand everything. You may still struggle with fast speech, strong regional accents, jokes and cultural references. You will continue to make mistakes — but, crucially, they will rarely prevent communication, and you will often be able to notice and correct them yourself. Perhaps the most important change is psychological. At B2, English stops being only a subject that you study and becomes a tool that you use: to read the news, watch series without subtitles, follow a TED talk or argue your point in a meeting. From here, progress depends less on courses and more on exposure. The more you read, listen and speak, the closer you will get to C1 — and, more importantly, the richer your life in English will become.",
+        "questions": [
+          {"q": "How does the CEFR describe a B2 user?", "answer": "An independent user who understands complex texts, interacts with fluency and produces clear, detailed texts."},
+          {"q": "Why is B2 a significant milestone?", "answer": "Many universities and employers accept it as a minimum level."},
+          {"q": "What might you still struggle with at B2?", "answer": "Fast speech, strong accents, jokes and cultural references."},
+          {"q": "What does progress depend on after B2?", "answer": "More on exposure (reading, listening, speaking) than on courses."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "B2 grammar review", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+         "items": [{"prompt": "Never ___ such a beautiful place.", "options": ["I have seen", "have I seen", "I saw"], "answer": "have I seen"}, {"prompt": "By 2030, I ___ my degree.", "options": ["will finish", "will have finished", "finish"], "answer": "will have finished"}, {"prompt": "The painting is believed ___ in the 17th century.", "options": ["to paint", "to have been painted", "painting"], "answer": "to have been painted"}, {"prompt": "If I had known, I ___ you.", "options": ["would tell", "would have told", "will tell"], "answer": "would have told"}, {"prompt": "___ the rain, the event was a success.", "options": ["Although", "Despite", "However"], "answer": "Despite"}]},
+        {"id": "ex2", "type": "answer", "title": "Key word transformations (B2 First style)", "instruction": "Complete the second sentence so it means the same as the first. Use the word in CAPS and between two and five words.", "instruction_pt": "Complete a segunda frase com o mesmo sentido da primeira, usando a palavra em CAPS e de duas a cinco palavras.",
+         "items": [{"prompt": "It wasn't necessary for you to buy flowers, but you did. (NEEDN'T) → You ___ flowers.", "answer": "needn't have bought"}, {"prompt": "People say that he is a genius. (SAID) → He ___ a genius.", "answer": "is said to be"}, {"prompt": "I regret not studying harder. (WISH) → I ___ harder.", "answer": "wish I had studied"}, {"prompt": "Although she was tired, she kept working. (SPITE) → In ___ tired, she kept working.", "answer": "spite of being"}]},
+        {"id": "ex3", "type": "match", "title": "Exam strategies", "instruction": "Match the situation to a useful phrase.", "instruction_pt": "Ligue a situação a uma frase útil.",
+         "items": [{"prompt": "You need time to think.", "answer": "That's an interesting question. Let me think..."}, {"prompt": "You can't remember a word.", "answer": "It's a kind of... / It's something you use to..."}, {"prompt": "You didn't understand the question.", "answer": "Sorry, could you repeat the question?"}, {"prompt": "You want your partner's opinion.", "answer": "What do you think?"}, {"prompt": "You want to disagree politely.", "answer": "I see your point, but..."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "That's an interesting question. Let me think."}, {"prompt": "2", "answer": "I've never really thought about it, but I'd say it depends."}, {"prompt": "3", "answer": "I see your point, but on the other hand, it's expensive."}, {"prompt": "4", "answer": "To sum up, I'd say that it was worth it."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "If I would have known, I would have come.", "answer": "If I had known, I would have come."}, {"prompt": "Despite of the traffic, we arrived on time.", "answer": "Despite the traffic, we arrived on time."}, {"prompt": "The traffic was terrible, what made us late.", "answer": "The traffic was terrible, which made us late."}, {"prompt": "I did a big mistake in the exam.", "answer": "I made a big mistake in the exam."}]},
+        {"id": "ex6", "type": "answer", "title": "Elaborate your answer", "instruction": "Answer each exam question with at least three sentences: answer + reason + example.", "instruction_pt": "Responda cada pergunta da prova com pelo menos três frases: resposta + motivo + exemplo.",
+         "items": [{"prompt": "Do you prefer living in a city or in the countryside?", "answer": "Model: I'd say I prefer the city, mainly because there are more opportunities. For example, I can walk to work and go to concerts. Having said that, I'd love to have a house in the countryside one day."}, {"prompt": "What's the best way to learn a language?", "answer": "Model: In my opinion, the best way is through exposure. If I hadn't started watching series in English, my listening wouldn't be so good. Classes are important, but you need to use the language every day."}, {"prompt": "How has technology changed the way people communicate?", "answer": "Model: It has changed it enormously. People are more connected than ever, whereas in the past it was hard to stay in touch. However, some people argue that face-to-face conversations have become less common."}]}
+      ],
+      "speaking": {
+        "instruction": "\"Final presentation\": prepare a 5-minute presentation titled \"My journey with English\" (or a topic of your choice). Include: where you started, turning points (third / mixed conditionals), what you wish you'd done differently, what you've learned about learning, and your plans (future perfect). Then answer two questions from the class.",
+        "instruction_pt": "\"Apresentação final\": prepare uma apresentação de 5 minutos intitulada \"Minha jornada com o inglês\" (ou um tema à sua escolha). Inclua: de onde você partiu, momentos decisivos (third / mixed conditionals), o que você gostaria de ter feito diferente, o que aprendeu sobre aprender e seus planos (future perfect). Depois responda duas perguntas da turma.",
+        "questions": ["Describe a skill you learned that has been useful to you. (IELTS Part 2 — speak for 2 minutes)", "Should everyone learn a second language? Why / why not?", "How do you think language learning will change with AI?", "What advice would you give to someone starting English today?", "Where do you see yourself, in terms of English, in five years?"]
+      },
+      "writing": {
+        "task": "Write a B2 First–style essay (140–190 words): \"Some people believe that with translation apps and AI, learning foreign languages is no longer necessary. Do you agree?\" Write about 1) communication and relationships, 2) work and careers, and 3) your own idea. Show a wide range of B2 structures.",
+        "task_pt": "Escreva uma redação no estilo B2 First (140–190 palavras): \"Algumas pessoas acreditam que, com apps de tradução e IA, aprender línguas estrangeiras não é mais necessário. Você concorda?\" Escreva sobre 1) comunicação e relacionamentos, 2) trabalho e carreira e 3) uma ideia sua. Mostre variedade de estruturas do B2.",
+        "model": "Is learning languages still necessary?\n\nTranslation apps have improved enormously in recent years. As a result, it could be argued that learning a foreign language is no longer worth the effort. However, I believe this view is mistaken.\n\nFirstly, language is not only about exchanging information but also about building relationships. Although an app can translate words, it cannot easily capture humour, emotion or cultural references. Having made friends abroad, I know that real connection happens when you speak someone's language.\n\nSecondly, in the job market, speaking English is still seen as an essential skill. Employers want people who can lead meetings and negotiate, which is extremely difficult to do through an app.\n\nFinally, learning a language changes the way we think. It is widely believed that bilingual people are more flexible and open to other cultures.\n\nIn conclusion, while translation technology is a useful tool, it is not a substitute for learning. If I had relied on apps, I would never have had the experiences that English has given me."
+      },
+      "culture_note": {
+        "title": "Depois do B2",
+        "text_pt": "O próximo passo é o **C1 (Advanced)**. Para chegar lá, o segredo é a **exposição**: leia notícias (BBC, The Guardian), ouça podcasts, assista séries e palestras sem legenda (ou com legenda em inglês) e **fale** sempre que puder. Se quiser certificar seu nível, pesquise as provas **Cambridge B2 First**, **IELTS** e **TOEFL** — cada uma tem formato e reconhecimento diferentes. Congratulations — and keep going!"
+      },
+      "summary_pt": ["Revisão: narrativa, futuro, passiva, condicionais, orações, coesão, modais, gerúndio/infinitivo, léxico.", "B2 First: Reading & Use of English, Writing, Listening, Speaking (em dupla).", "IELTS Speaking: Part 1, Part 2 (1–2 min), Part 3.", "Estratégias: ganhar tempo, desenvolver, parafrasear, autocorrigir, interagir."]
+    }
+  ],
+  "review": {
+    "intro_pt": "Revisão final do B2: modais no passado, gerúndio/infinitivo avançados, collocations, idioms e estratégias de prova.",
+    "exercises": [
+      {"id": "r1", "type": "multiple_choice", "title": "Choose the correct option", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+       "items": [{"prompt": "You ___ washed the dishes — I was going to use the dishwasher. (você lavou)", "options": ["needn't have", "didn't need to", "mustn't have"], "answer": "needn't have"}, {"prompt": "I hate ___ what to do.", "options": ["telling", "being told", "to tell"], "answer": "being told"}, {"prompt": "She seems ___ the job. She looks very happy.", "options": ["to get", "to have got", "having got"], "answer": "to have got"}, {"prompt": "We need to ___ a decision today.", "options": ["do", "make", "take part"], "answer": "make"}, {"prompt": "The trip was ___ — everything was easy.", "options": ["a piece of cake", "an arm and a leg", "a blessing in disguise"], "answer": "a piece of cake"}]},
+      {"id": "r2", "type": "answer", "title": "Key word transformations", "instruction": "Complete the second sentence using the word in CAPS (2–5 words).", "instruction_pt": "Complete a segunda frase usando a palavra em CAPS (2–5 palavras).",
+       "items": [{"prompt": "It was a mistake to leave so late. (SHOULD) → We ___ earlier.", "answer": "should have left"}, {"prompt": "It seems that he has lost his wallet. (SEEMS) → He ___ his wallet.", "answer": "seems to have lost"}, {"prompt": "Perhaps she missed the train. (MIGHT) → She ___ the train.", "answer": "might have missed"}]},
+      {"id": "r3", "type": "translate", "title": "Translate", "instruction": "Translate into English.", "instruction_pt": "Traduza para o inglês.",
+       "items": [{"prompt": "Você não precisava ter se preocupado.", "answer": "You needn't have worried."}, {"prompt": "Todo mundo quer ser levado a sério.", "answer": "Everyone wants to be taken seriously."}, {"prompt": "Isso custa os olhos da cara!", "answer": "That costs an arm and a leg!"}]},
+      {"id": "r4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+       "items": [{"prompt": "1", "answer": "I should have known better."}, {"prompt": "2", "answer": "He denied having said that."}, {"prompt": "3", "answer": "That's an interesting question. Let me think."}]},
+      {"id": "r5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+       "items": [{"prompt": "You should of told me.", "answer": "You should have told me."}, {"prompt": "I don't mind to be criticized.", "answer": "I don't mind being criticized."}, {"prompt": "Can I make a question?", "answer": "Can I ask a question?"}]}
+    ],
+    "speaking_pt": "**Simulado de prova oral (15 minutos, em dupla):** Parte 1 — responda 3 perguntas pessoais desenvolvendo cada uma. Parte 2 — fale 2 minutos sobre \"a decision that changed your life\". Parte 3 — discuta com seu colega \"the most important skills for the future\". Parte 4 — responda às perguntas abaixo. Grave e avalie: fluência, variedade, precisão e pronúncia.",
+    "speaking_questions": ["What's something you needn't have worried about?", "What do you hate being asked?", "What's the most useful English expression you've learned?", "What would you have done differently in your English learning?", "What are your plans for your English after this course?"],
+    "project_pt": "**Projeto final do B2 — \"My English portfolio\":** reúna (1) o vídeo \"This is me\" do A1, (2) sua palestra do B1+ e (3) uma nova apresentação de 5 minutos, \"My journey with English\". Escreva uma reflexão (250 palavras) comparando as três: o que mudou na sua fluência, vocabulário e confiança? Termine com três metas concretas para chegar ao C1."
+  }
+}

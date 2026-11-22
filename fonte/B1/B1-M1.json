@@ -1,0 +1,533 @@
+{
+  "id": "B1-M1",
+  "level": "B1",
+  "title": "Small Talk",
+  "theme_pt": "Conversas sociais, experiências de vida e etiqueta internacional",
+  "can_do": ["Puxar e manter uma conversa casual com desconhecidos", "Confirmar informações com tag questions", "Falar sobre experiências de vida com o present perfect", "Entender e explicar regras de etiqueta de diferentes culturas", "Escolher o nível de formalidade adequado (nomes, títulos, tratamento)"],
+  "lessons": [
+    {
+      "id": "B1-M1-L1",
+      "title": "Nice day, isn't it?",
+      "subtitle_pt": "Tag questions e a arte do small talk",
+      "duration_min": 60,
+      "source_refs": ["Top Notch 3A – Unit 1, Lesson 1 (make small talk, tag questions)", "Top Notch 3 Teacher's Book – Unit 1"],
+      "objectives": ["Formar tag questions com to be, auxiliares e modais", "Usar a entonação certa (confirmar x perguntar de verdade)", "Iniciar, manter e encerrar uma conversa casual", "Escolher temas seguros de small talk"],
+      "warmup": {
+        "text_pt": "Você está esperando o elevador com um colega estrangeiro que mal conhece. O silêncio é constrangedor. O que você diz? Em inglês, isso tem nome: **small talk**.",
+        "questions": ["Do you enjoy talking to strangers?", "What topics are safe for small talk in Brazil?"]
+      },
+      "vocabulary": [
+        {"en": "small talk", "pt": "conversa casual, papo leve", "say": "smól tók"},
+        {"en": "to break the ice", "pt": "quebrar o gelo", "say": "tu brêik dâ áis"},
+        {"en": "awkward", "pt": "constrangedor, sem graça", "say": "ókuard"},
+        {"en": "acquaintance", "pt": "conhecido(a)", "say": "akuêintans"},
+        {"en": "to run into (someone)", "pt": "encontrar por acaso", "say": "tu rân íntu"},
+        {"en": "to catch up", "pt": "colocar o papo em dia", "say": "tu kétch âp"},
+        {"en": "by the way", "pt": "a propósito", "say": "bái dâ uêi"},
+        {"en": "anyway", "pt": "enfim, de qualquer forma", "say": "éniuei"},
+        {"en": "to wrap up (a conversation)", "pt": "encerrar (uma conversa)", "say": "tu rép âp"},
+        {"en": "safe topic / sensitive topic", "pt": "assunto seguro / assunto delicado", "say": "sêif tópik / sénsitiv tópik"},
+        {"en": "follow-up question", "pt": "pergunta de continuação", "say": "fálou âp kuéstchon"},
+        {"en": "to keep the conversation going", "pt": "manter a conversa", "say": "tu kíp dâ konversêishon gôuin"}
+      ],
+      "chunks": [
+        {"en": "Beautiful day, isn't it?", "pt": "Dia lindo, né?"},
+        {"en": "You're new here, aren't you?", "pt": "Você é novo aqui, né?"},
+        {"en": "So, how do you know the host?", "pt": "Então, de onde você conhece o anfitrião?"},
+        {"en": "By the way, I'm Carla.", "pt": "A propósito, eu sou a Carla."},
+        {"en": "It was great talking to you.", "pt": "Foi ótimo conversar com você."},
+        {"en": "Anyway, I'd better get going.", "pt": "Enfim, preciso ir."}
+      ],
+      "grammar": {
+        "title": "Tag questions",
+        "explanation_pt": "**Tag questions** são as perguntinhas no fim da frase, como o nosso **\"né?\"**, **\"não é?\"**, **\"certo?\"**. Servem para **confirmar** algo ou **puxar conversa**.\n\n**Regra de ouro:** frase **afirmativa** → tag **negativa**; frase **negativa** → tag **afirmativa**.\n\nA tag repete o **auxiliar** (ou to be / modal) da frase e usa um **pronome**:\n- It**'s** cold, **isn't it**?\n- You **work** here, **don't you**? (simple present → do/does)\n- She **went** home, **didn't she**? (simple past → did)\n- They **can** swim, **can't they**?\n- You **haven't** been to Japan, **have you**?\n- He **won't** come, **will he**?\n\n**Casos especiais:**\n- **I am** → **aren't I**? (\"I'm late, aren't I?\")\n- **Let's** → **shall we**? (\"Let's go, shall we?\")\n- Imperativo → **will you?** (\"Close the door, will you?\")\n- **There is** → **isn't there**?\n\n**Entonação:** voz **descendo** ↘ = você tem certeza, só quer concordância (small talk). Voz **subindo** ↗ = pergunta real, você não tem certeza.",
+        "table": {
+          "headers": ["Frase", "Tag", "Tempo / auxiliar"],
+          "rows": [["It's a great party,", "isn't it?", "to be"], ["You live nearby,", "don't you?", "simple present"], ["She doesn't eat meat,", "does she?", "simple present (neg.)"], ["They met in college,", "didn't they?", "simple past"], ["You've been here before,", "haven't you?", "present perfect"], ["We can't park here,", "can we?", "modal"], ["I'm on the list,", "aren't I?", "exceção"]]
+        },
+        "examples": [
+          {"en": "This coffee is really good, isn't it? ↘", "pt": "Esse café é muito bom, né?"},
+          {"en": "You're Paula's brother, aren't you? ↗", "pt": "Você é irmão da Paula, não é? (dúvida real)"},
+          {"en": "We haven't met before, have we?", "pt": "A gente não se conhece, né?"}
+        ],
+        "tip_pt": "Na dúvida, falantes nativos usam formas informais como **\"..., right?\"** ou **\"..., yeah?\"** — funcionam com qualquer frase e são ótimas para começar."
+      },
+      "common_mistakes": [
+        {"wrong": "You live in Recife, isn't it?", "right": "You live in Recife, don't you?", "why_pt": "A tag repete o auxiliar da frase (simple present → do), não é sempre \"isn't it\"."},
+        {"wrong": "She can't drive, can't she?", "right": "She can't drive, can she?", "why_pt": "Frase negativa pede tag afirmativa."},
+        {"wrong": "I'm right, am not I?", "right": "I'm right, aren't I?", "why_pt": "A tag de I am é a exceção: aren't I."}
+      ],
+      "pronunciation": {
+        "focus": "Entonação das tag questions",
+        "tip_pt": "A mesma frase muda de sentido pela entonação. **\"You're coming, aren't you? ↘\"** (tenho certeza, confirmando). **\"You're coming, aren't you? ↗\"** (não tenho certeza, quero saber). No small talk, quase sempre é ↘.",
+        "practice": ["Nice weather, isn't it? ↘", "You work in marketing, don't you? ↗", "We've met before, haven't we? ↘"]
+      },
+      "dialogue": {
+        "title": "At a conference",
+        "context_pt": "Num coffee break de uma conferência em Toronto, Mateus puxa conversa com uma participante.",
+        "lines": [
+          {"speaker": "Mateus", "en": "Great talk this morning, wasn't it?", "pt": "Ótima palestra hoje de manhã, né?"},
+          {"speaker": "Kate", "en": "It really was. The speaker was so inspiring. You're not from Toronto, are you?", "pt": "Foi mesmo. O palestrante foi muito inspirador. Você não é de Toronto, é?"},
+          {"speaker": "Mateus", "en": "No, I'm from Brazil — Porto Alegre. It's my first time in Canada. By the way, I'm Mateus.", "pt": "Não, sou do Brasil — Porto Alegre. É minha primeira vez no Canadá. A propósito, sou o Mateus."},
+          {"speaker": "Kate", "en": "Nice to meet you, Mateus. I'm Kate. So, what brings you here?", "pt": "Prazer, Mateus. Sou a Kate. E o que te traz aqui?"},
+          {"speaker": "Mateus", "en": "I work in renewable energy. Our company is opening an office here. And you?", "pt": "Trabalho com energia renovável. Nossa empresa está abrindo um escritório aqui. E você?"},
+          {"speaker": "Kate", "en": "I'm a journalist. I cover tech and climate. It's freezing outside, isn't it? Are you surviving the cold?", "pt": "Sou jornalista. Cubro tecnologia e clima. Está congelando lá fora, né? Você está sobrevivendo ao frio?"},
+          {"speaker": "Mateus", "en": "Barely! Anyway, the next session is starting. It was really nice talking to you.", "pt": "Por pouco! Enfim, a próxima sessão está começando. Foi muito bom conversar com você."},
+          {"speaker": "Kate", "en": "You too. Let's connect on LinkedIn, shall we?", "pt": "Igualmente. Vamos nos conectar no LinkedIn, que tal?"}
+        ]
+      },
+      "listening": {
+        "title": "Elevator small talk",
+        "context_pt": "Três conversas curtas no elevador de um prédio comercial.",
+        "lines": [
+          {"speaker": "Woman", "en": "Morning! It's going to rain again, isn't it?"},
+          {"speaker": "Man", "en": "Looks like it. Third day in a row! You work on the twelfth floor, don't you?"},
+          {"speaker": "Woman", "en": "That's right, at the law firm. And you're with the design studio, aren't you?"},
+          {"speaker": "Man", "en": "Yes! We moved in last month. The coffee machine on our floor doesn't work, does it? It's been broken for a week."},
+          {"speaker": "Woman", "en": "You can use ours. Twelfth floor, on the left. Here's my floor — have a good one!"}
+        ],
+        "questions": [
+          {"q": "What's the weather like?", "answer": "It's going to rain again (third day in a row)."},
+          {"q": "Where does the woman work?", "answer": "At the law firm on the 12th floor."},
+          {"q": "When did the design studio move in?", "answer": "Last month."},
+          {"q": "What does the woman offer?", "answer": "To use the coffee machine on her floor."}
+        ]
+      },
+      "reading": {
+        "title": "Why small talk matters",
+        "text": "Many people hate small talk. \"It's superficial,\" they say. But research in psychology suggests the opposite: short, friendly conversations with strangers — the barista, a neighbor, someone on the train — can make us happier and less lonely. In one study, commuters who talked to a stranger reported a more positive journey than those who sat in silence, even though most of them expected the opposite. Small talk is also the first step to deeper conversations: we rarely make friends or business contacts without it. The secret is curiosity. Ask open questions (\"What brings you here?\"), listen to the answer, and ask a follow-up. Safe topics include the weather, the place you're in, travel, food and work. Avoid politics, religion, money and personal appearance — at least until you know the person better.",
+        "questions": [
+          {"q": "What does research suggest about small talk?", "answer": "It can make us happier and less lonely."},
+          {"q": "What happened in the study with commuters?", "answer": "Those who talked to a stranger had a more positive journey, though they expected the opposite."},
+          {"q": "What is \"the secret\" of good small talk?", "answer": "Curiosity: open questions, listening and follow-up questions."},
+          {"q": "Name three topics to avoid.", "answer": "Politics, religion, money, personal appearance."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "fill_blank", "title": "Add the tag", "instruction": "Complete with the correct tag question.", "instruction_pt": "Complete com a tag question correta.",
+         "items": [{"prompt": "It's a beautiful city, ___?", "answer": "isn't it"}, {"prompt": "You don't speak Japanese, ___?", "answer": "do you"}, {"prompt": "She went to the party, ___?", "answer": "didn't she"}, {"prompt": "They've finished the project, ___?", "answer": "haven't they"}, {"prompt": "We can't smoke here, ___?", "answer": "can we"}, {"prompt": "I'm late, ___?", "answer": "aren't I"}, {"prompt": "Let's take a break, ___?", "answer": "shall we"}]},
+        {"id": "ex2", "type": "multiple_choice", "title": "Safe or sensitive?", "instruction": "Is this a good small talk question with a stranger? Choose.", "instruction_pt": "É uma boa pergunta de small talk com um desconhecido? Escolha.",
+         "items": [{"prompt": "How much do you earn?", "options": ["safe", "sensitive"], "answer": "sensitive"}, {"prompt": "Have you tried the food here?", "options": ["safe", "sensitive"], "answer": "safe"}, {"prompt": "Who did you vote for?", "options": ["safe", "sensitive"], "answer": "sensitive"}, {"prompt": "How do you know the host?", "options": ["safe", "sensitive"], "answer": "safe"}, {"prompt": "Did you gain weight?", "options": ["safe", "sensitive"], "answer": "sensitive"}]},
+        {"id": "ex3", "type": "match", "title": "Conversation stages", "instruction": "Write the stage: START, KEEP GOING or END.", "instruction_pt": "Escreva a etapa: START, KEEP GOING ou END.",
+         "items": [{"prompt": "Great party, isn't it?", "answer": "START"}, {"prompt": "Oh really? What was that like?", "answer": "KEEP GOING"}, {"prompt": "Anyway, I'd better get going.", "answer": "END"}, {"prompt": "So, what brings you here?", "answer": "START"}, {"prompt": "It was great talking to you.", "answer": "END"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "You're not from here, are you?"}, {"prompt": "2", "answer": "So, what brings you here?"}, {"prompt": "3", "answer": "It was really nice talking to you."}, {"prompt": "4", "answer": "We haven't met before, have we?"}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake in the tag.", "instruction_pt": "Encontre e corrija o erro na tag.",
+         "items": [{"prompt": "You like sushi, isn't it?", "answer": "You like sushi, don't you?"}, {"prompt": "He isn't coming, isn't he?", "answer": "He isn't coming, is he?"}, {"prompt": "They lived in Spain, didn't you?", "answer": "They lived in Spain, didn't they?"}, {"prompt": "You've been to Chile, didn't you?", "answer": "You've been to Chile, haven't you?"}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the conversation", "instruction": "Complete with: brings · way · catch · isn't · talking.", "instruction_pt": "Complete a conversa.",
+         "items": [{"prompt": "A: Amazing view, ___ it?", "answer": "isn't"}, {"prompt": "B: It is! So, what ___ you to Lisbon?", "answer": "brings"}, {"prompt": "A: Work. By the ___, I'm Rui.", "answer": "way"}, {"prompt": "B: Great ___ to you, Rui. Let's ___ up later!", "answer": "talking / catch"}]}
+      ],
+      "speaking": {
+        "instruction": "Mingle activity: imagine you're at a party. Start a conversation with 3 people using a tag question, ask 2 follow-up questions, and end the conversation politely.",
+        "instruction_pt": "Atividade de circulação: imagine que está numa festa. Comece uma conversa com 3 pessoas usando uma tag question, faça 2 perguntas de continuação e encerre com educação.",
+        "questions": ["Do you find small talk easy or difficult? Why?", "What's a good question to break the ice?", "What topics do you avoid with strangers?", "Tell me about an interesting stranger you met.", "How do you end a conversation politely?"]
+      },
+      "writing": {
+        "task": "Write a short guide (100–120 words) for a foreign colleague: \"How to make small talk in Brazil\" — safe topics, topics to avoid and three useful phrases.",
+        "task_pt": "Escreva um guia curto (100–120 palavras) para um colega estrangeiro: \"Como fazer small talk no Brasil\" — temas seguros, temas a evitar e três frases úteis.",
+        "model": "Small talk in Brazil is easy — Brazilians love to chat! Good topics are food, football, music, travel and the weather (especially if it's very hot). People will probably ask where you're from and if you like Brazil — say yes! Brazilians are usually comfortable with personal questions about family, but avoid politics with people you've just met: it can get heated. Three useful phrases: \"Tudo bem?\" (How are you?), \"Que calor, né?\" (It's so hot, isn't it?) and \"Você é de onde?\" (Where are you from?). Finally, don't be surprised if people stand close or touch your arm when they talk — it's just friendliness."
+      },
+      "culture_note": {
+        "title": "\"Have a good one!\"",
+        "text_pt": "Para encerrar conversas curtas nos EUA, são comuns **\"Have a good one!\"**, **\"Take care!\"** e **\"Catch you later!\"**. No Reino Unido, ouve-se **\"Cheers!\"** (obrigado/tchau) e **\"Mind how you go!\"**. E o famoso **\"Nice weather, isn't it?\"** é quase um esporte nacional britânico."
+      },
+      "summary_pt": ["Afirmativa → tag negativa; negativa → tag afirmativa.", "A tag repete o auxiliar: do/does/did, have, can, will, be.", "I am → aren't I? · Let's → shall we?", "↘ confirmar · ↗ perguntar de verdade."]
+    },
+    {
+      "id": "B1-M1-L2",
+      "title": "Have you ever...?",
+      "subtitle_pt": "Present perfect para experiências de vida",
+      "duration_min": 60,
+      "source_refs": ["Book III English – Present Perfect", "Top Notch 3A – Unit 1 (present perfect for experiences)"],
+      "objectives": ["Formar o present perfect (have/has + particípio)", "Falar sobre experiências de vida com ever / never", "Diferenciar been e gone", "Continuar a conversa com o simple past (When? Where? How was it?)"],
+      "warmup": {
+        "text_pt": "Já pulou de paraquedas? Já comeu algo muito estranho? Já conheceu alguém famoso? Em inglês, para falar de \"já fiz / nunca fiz\" na vida, usamos o **present perfect**.",
+        "questions": ["What's the most adventurous thing you've done?", "Is there anything you've never done but want to do?"]
+      },
+      "vocabulary": [
+        {"en": "ever / never", "pt": "alguma vez, já / nunca", "say": "éver / néver"},
+        {"en": "past participle", "pt": "particípio passado", "say": "pést pártisipol"},
+        {"en": "been (be)", "pt": "estado, ido", "say": "bín"},
+        {"en": "done (do) / seen (see)", "pt": "feito / visto", "say": "dân / sín"},
+        {"en": "eaten (eat) / drunk (drink)", "pt": "comido / bebido", "say": "íten / drânk"},
+        {"en": "flown (fly) / ridden (ride)", "pt": "voado / andado (de)", "say": "flôun / ríden"},
+        {"en": "met (meet) / won (win)", "pt": "conhecido / ganhado", "say": "mét / uân"},
+        {"en": "bucket list", "pt": "lista de coisas para fazer antes de morrer", "say": "bâket list"},
+        {"en": "skydiving / scuba diving", "pt": "paraquedismo / mergulho", "say": "skáidaivin / skúba dáivin"},
+        {"en": "once / twice / several times", "pt": "uma vez / duas vezes / várias vezes", "say": "uâns / tuáis / sévral táimz"},
+        {"en": "in my life", "pt": "na minha vida", "say": "in mái láif"},
+        {"en": "unforgettable", "pt": "inesquecível", "say": "ânforguétabol"}
+      ],
+      "chunks": [
+        {"en": "Have you ever been to Europe?", "pt": "Você já foi à Europa?"},
+        {"en": "I've never tried sushi.", "pt": "Nunca experimentei sushi."},
+        {"en": "I've been there twice.", "pt": "Já fui lá duas vezes."},
+        {"en": "It's on my bucket list.", "pt": "Está na minha lista de desejos."},
+        {"en": "What was it like?", "pt": "Como foi?"},
+        {"en": "Not yet, but I'd love to!", "pt": "Ainda não, mas adoraria!"}
+      ],
+      "grammar": {
+        "title": "Present perfect: experiências",
+        "explanation_pt": "O **present perfect** liga o passado ao presente. O primeiro uso: **experiências de vida**, quando **não importa quando** aconteceu — só se aconteceu ou não.\n\n**Estrutura:** **have / has** + **particípio passado**\n- I**'ve** (I have) **been** to Chile.\n- She**'s** (she has) **eaten** snails.\n- I **haven't** seen that movie. / He **hasn't** flown before.\n- **Have** you **ever** **tried** surfing?\n\n**Particípio:** regulares = igual ao passado (-ed): worked, visited, tried. Irregulares têm uma **terceira forma** (go – went – **gone**, see – saw – **seen**, eat – ate – **eaten**). Revise a lista de verbos!\n\n**Ever** (alguma vez) aparece em perguntas: Have you **ever**...? **Never** (nunca) em afirmativas com sentido negativo: I've **never**...\n\n**Been x gone:**\n- She's **been** to Paris. (foi e já voltou — experiência)\n- She's **gone** to Paris. (foi e ainda está lá)\n\n**Present perfect → simple past:** a pergunta de experiência usa present perfect, mas quando você dá **detalhes** (quando, onde, como foi), muda para o **simple past**:\n\"Have you ever been to Peru?\" \"Yes, I **have**. I **went** in 2022. It **was** amazing.\"",
+        "table": {
+          "headers": ["Afirmativa", "Negativa", "Pergunta", "Resposta curta"],
+          "rows": [["I've been to Japan.", "I haven't been to Japan.", "Have you ever been to Japan?", "Yes, I have. / No, I haven't."], ["She's met a celebrity.", "She's never met a celebrity.", "Has she ever met a celebrity?", "Yes, she has. / No, she hasn't."], ["They've tried acarajé.", "They haven't tried acarajé.", "Have they ever tried it?", "Yes, they have. / No, never."]]
+        },
+        "examples": [
+          {"en": "Have you ever ridden a camel? — Yes, once, in Morocco. It was hilarious!", "pt": "Você já andou de camelo? — Sim, uma vez, no Marrocos. Foi hilário!"},
+          {"en": "I've never lived abroad, but I've traveled a lot.", "pt": "Nunca morei fora, mas já viajei muito."},
+          {"en": "My parents have been to Portugal three times.", "pt": "Meus pais já foram a Portugal três vezes."}
+        ],
+        "tip_pt": "**Nunca** use present perfect com tempo passado definido (yesterday, in 2019, last year, when I was a child). Nesses casos, é simple past: \"I **went** to Rio **in 2019**\" (e não \"I've been to Rio in 2019\")."
+      },
+      "common_mistakes": [
+        {"wrong": "Did you ever go to London?", "right": "Have you ever been to London?", "why_pt": "Para experiências de vida, sem tempo definido, use present perfect."},
+        {"wrong": "I've been to Bahia last year.", "right": "I went to Bahia last year.", "why_pt": "Com tempo definido (last year), use simple past."},
+        {"wrong": "I've never ate sushi.", "right": "I've never eaten sushi.", "why_pt": "Present perfect usa o particípio (eaten), não o passado (ate)."}
+      ],
+      "pronunciation": {
+        "focus": "Contrações: I've, she's, haven't",
+        "tip_pt": "Na fala, **have** quase sempre vira **'ve** (\"áiv\", \"uív\", \"dêiv\") e **has** vira **'s**. O **'ve** é bem curto — às vezes só um \"v\" leve: \"I've been\" = \"áivbin\". **Been** é fraco: \"bin\" (EUA), não \"bíin\".",
+        "practice": ["I've been to Chile.", "She's never seen snow.", "Have you ever tried it? — No, I haven't."]
+      },
+      "dialogue": {
+        "title": "Bucket lists",
+        "context_pt": "Dois amigos comparam suas listas de desejos durante um almoço.",
+        "lines": [
+          {"speaker": "Rafa", "en": "Have you ever been skydiving?", "pt": "Você já fez paraquedismo?"},
+          {"speaker": "Lia", "en": "Yes, I have! I did it in Boituva two years ago. It was terrifying and amazing at the same time.", "pt": "Já! Fiz em Boituva há dois anos. Foi aterrorizante e incrível ao mesmo tempo."},
+          {"speaker": "Rafa", "en": "No way! I've never done anything like that. It's on my bucket list, though.", "pt": "Não acredito! Nunca fiz nada assim. Mas está na minha lista."},
+          {"speaker": "Lia", "en": "What else is on your list?", "pt": "O que mais está na sua lista?"},
+          {"speaker": "Rafa", "en": "Seeing the Northern Lights. Have you been to Norway?", "pt": "Ver a aurora boreal. Você já foi à Noruega?"},
+          {"speaker": "Lia", "en": "No, I haven't. But my sister has gone to Iceland for a year — she's living there now. She's seen the lights several times!", "pt": "Não. Mas minha irmã foi para a Islândia por um ano — está morando lá agora. Ela já viu a aurora várias vezes!"},
+          {"speaker": "Rafa", "en": "Lucky her! Maybe we should visit her.", "pt": "Sorte dela! Talvez a gente devesse visitá-la."},
+          {"speaker": "Lia", "en": "Have you ever seen snow? Iceland in winter is cold, you know.", "pt": "Você já viu neve? A Islândia no inverno é fria, sabia?"},
+          {"speaker": "Rafa", "en": "Never! That's another item for the list.", "pt": "Nunca! Mais um item para a lista."}
+        ]
+      },
+      "listening": {
+        "title": "Podcast: the world traveler",
+        "context_pt": "Um podcast entrevista uma brasileira que já visitou mais de 100 países.",
+        "lines": [
+          {"speaker": "Host", "en": "Carolina, you've visited 112 countries. Which ones haven't you been to?"},
+          {"speaker": "Carolina", "en": "Ha! Quite a few. I've never been to Australia, believe it or not. It's so far and so expensive."},
+          {"speaker": "Host", "en": "What's the strangest thing you've ever eaten?"},
+          {"speaker": "Carolina", "en": "Fried tarantula in Cambodia. I ate it in 2018. It tasted like crunchy chicken, honestly."},
+          {"speaker": "Host", "en": "Have you ever been in danger?"},
+          {"speaker": "Carolina", "en": "Once or twice. I got lost in the desert in Jordan, but a family of Bedouins helped me. They're still my friends today."}
+        ],
+        "questions": [
+          {"q": "How many countries has Carolina visited?", "answer": "112."},
+          {"q": "Which country hasn't she visited? Why?", "answer": "Australia, because it's far and expensive."},
+          {"q": "What's the strangest thing she's eaten?", "answer": "Fried tarantula (in Cambodia, in 2018)."},
+          {"q": "What happened in Jordan?", "answer": "She got lost in the desert and a Bedouin family helped her."}
+        ]
+      },
+      "reading": {
+        "title": "Experiences vs. things",
+        "text": "Have you ever wondered why a trip makes you happier than a new phone? Psychologists who study happiness have found that spending money on experiences — travel, concerts, courses, dinners with friends — usually brings more lasting happiness than spending on things. One reason is adaptation: we get used to new objects quickly, but memories of experiences often get better with time. Another reason is connection: experiences are usually shared with other people and become part of our identity and our stories. \"I've climbed a volcano\" says more about who you are than \"I've bought a new TV.\" Of course, things matter too — but next time you have some extra money, consider buying a memory instead of an object.",
+        "questions": [
+          {"q": "What brings more lasting happiness, according to psychologists?", "answer": "Spending money on experiences."},
+          {"q": "What is \"adaptation\"?", "answer": "We get used to new objects quickly."},
+          {"q": "What happens to memories of experiences?", "answer": "They often get better with time."},
+          {"q": "Why does \"I've climbed a volcano\" say more about you?", "answer": "Because experiences become part of our identity and stories."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "answer", "title": "Past participles", "instruction": "Write the past participle.", "instruction_pt": "Escreva o particípio passado.",
+         "items": [{"prompt": "go", "answer": "gone (been)"}, {"prompt": "see", "answer": "seen"}, {"prompt": "eat", "answer": "eaten"}, {"prompt": "fly", "answer": "flown"}, {"prompt": "write", "answer": "written"}, {"prompt": "drink", "answer": "drunk"}, {"prompt": "try", "answer": "tried"}, {"prompt": "meet", "answer": "met"}]},
+        {"id": "ex2", "type": "fill_blank", "title": "Experiences", "instruction": "Complete with the present perfect of the verb in parentheses.", "instruction_pt": "Complete com o present perfect.",
+         "items": [{"prompt": "___ you ever ___ (ride) a horse?", "answer": "Have / ridden"}, {"prompt": "I ___ never ___ (see) the ocean.", "answer": "'ve / seen"}, {"prompt": "My dad ___ (be) to Argentina four times.", "answer": "'s been / has been"}, {"prompt": "She ___ (not / try) Thai food.", "answer": "hasn't tried"}, {"prompt": "___ your parents ever ___ (fly)?", "answer": "Have / flown"}]},
+        {"id": "ex3", "type": "multiple_choice", "title": "Present perfect or simple past?", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+         "items": [{"prompt": "I ___ to Mexico in 2021.", "options": ["went", "'ve been"], "answer": "went"}, {"prompt": "___ you ever ___ a famous person?", "options": ["Did / meet", "Have / met"], "answer": "Have / met"}, {"prompt": "\"Have you tried it?\" \"Yes, I ___ it last week.\"", "options": ["tried", "'ve tried"], "answer": "tried"}, {"prompt": "She isn't here. She ___ to the bank.", "options": ["'s been", "'s gone"], "answer": "'s gone"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "Have you ever been to Europe?"}, {"prompt": "2", "answer": "I've never tried sushi."}, {"prompt": "3", "answer": "She's been there twice."}, {"prompt": "4", "answer": "What was it like?"}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "Did you ever see a ghost?", "answer": "Have you ever seen a ghost?"}, {"prompt": "I've met him yesterday.", "answer": "I met him yesterday."}, {"prompt": "She has went to Japan.", "answer": "She has gone/been to Japan."}, {"prompt": "I haven't never flown.", "answer": "I've never flown. / I haven't ever flown."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the conversation", "instruction": "Complete with: ever · have · went · was · never.", "instruction_pt": "Complete a conversa.",
+         "items": [{"prompt": "A: Have you ___ been to a Formula 1 race?", "answer": "ever"}, {"prompt": "B: Yes, I ___! I ___ to Interlagos in 2023.", "answer": "have / went"}, {"prompt": "A: How ___ it?", "answer": "was"}, {"prompt": "B: Loud! And you? — A: I've ___ been to one.", "answer": "never"}]}
+      ],
+      "speaking": {
+        "instruction": "Play \"Find someone who...\": ask Have you ever...? questions. When someone says yes, ask 2 follow-up questions in the simple past.",
+        "instruction_pt": "Jogue \"Encontre alguém que...\": faça perguntas Have you ever...? Quando alguém disser sim, faça 2 perguntas de continuação no simple past.",
+        "questions": ["Have you ever lived in another city or country?", "Have you ever met someone famous?", "What's the strangest food you've ever eaten?", "Have you ever done something really brave?", "What's on your bucket list that you haven't done yet?"]
+      },
+      "writing": {
+        "task": "Write your \"life experiences\" post (100–120 words): 3 things you've done (with details in the simple past) and 3 things you've never done but want to do.",
+        "task_pt": "Escreva seu post de \"experiências de vida\" (100–120 palavras): 3 coisas que você já fez (com detalhes no simple past) e 3 que nunca fez mas quer fazer.",
+        "model": "Things I've done: I've run a half marathon — I did it in São Paulo in 2023 and I cried at the finish line! I've lived alone in another city: I moved to Curitiba for a job when I was 24. And I've sung karaoke in Japanese, very badly. Things I've never done: I've never seen snow, I've never been on a cruise, and I've never learned to play an instrument. This year, I'm going to start guitar lessons. One down, two to go!"
+      },
+      "culture_note": {
+        "title": "Bucket list",
+        "text_pt": "A expressão **bucket list** vem de **\"kick the bucket\"** (gíria para morrer) e ficou famosa com o filme \"Antes de Partir\" (The Bucket List, 2007). Hoje é usada para qualquer lista de sonhos: \"Seeing the pyramids is on my bucket list.\""
+      },
+      "summary_pt": ["have/has + particípio = experiência de vida.", "Have you ever...? / I've never...", "been (foi e voltou) x gone (foi e está lá).", "Detalhes (quando, como foi) → simple past."]
+    },
+    {
+      "id": "B1-M1-L3",
+      "title": "Etiquette around the world",
+      "subtitle_pt": "Be supposed to, it's polite / rude to e regras culturais",
+      "duration_min": 60,
+      "source_refs": ["Top Notch 3A – Unit 1 (etiquette, customs)", "Top Notch 3 Teacher's Book – Unit 1"],
+      "objectives": ["Explicar costumes com be supposed to / be expected to", "Falar sobre o que é educado ou rude com it's polite / rude to + verbo", "Usar it's customary / acceptable / common", "Comparar etiqueta em diferentes culturas"],
+      "warmup": {
+        "text_pt": "No Brasil, é normal chegar 30 minutos atrasado a uma festa. Na Alemanha, isso pode ser muito malvisto. Que outras diferenças culturais você conhece?",
+        "questions": ["What's something polite in Brazil that might be rude elsewhere?", "Have you ever made a cultural mistake abroad?"]
+      },
+      "vocabulary": [
+        {"en": "etiquette / manners", "pt": "etiqueta / boas maneiras", "say": "étiket / ménerz"},
+        {"en": "custom / tradition", "pt": "costume / tradição", "say": "kâstom / tradíshon"},
+        {"en": "polite / impolite / rude", "pt": "educado / mal-educado / grosseiro", "say": "poláit / impoláit / rúd"},
+        {"en": "appropriate / inappropriate", "pt": "apropriado / inapropriado", "say": "aprôupriet / inaprôupriet"},
+        {"en": "acceptable", "pt": "aceitável", "say": "akséptabol"},
+        {"en": "to bow", "pt": "fazer reverência", "say": "tu báu"},
+        {"en": "to shake hands", "pt": "apertar as mãos", "say": "tu shêik rénds"},
+        {"en": "to take off (shoes)", "pt": "tirar (os sapatos)", "say": "tu têik óf"},
+        {"en": "to tip", "pt": "dar gorjeta", "say": "tu tip"},
+        {"en": "on time / fashionably late", "pt": "pontual / atrasado de propósito (elegante)", "say": "on táim / féshonabli lêit"},
+        {"en": "to offend", "pt": "ofender", "say": "tu ofénd"},
+        {"en": "faux pas", "pt": "gafe", "say": "fôu pá"}
+      ],
+      "chunks": [
+        {"en": "You're supposed to take off your shoes.", "pt": "É esperado que você tire os sapatos."},
+        {"en": "It's rude to point at people.", "pt": "É falta de educação apontar para as pessoas."},
+        {"en": "It's customary to bring a gift.", "pt": "É costume levar um presente."},
+        {"en": "Is it OK to call him by his first name?", "pt": "Tudo bem chamá-lo pelo primeiro nome?"},
+        {"en": "I didn't mean to offend anyone.", "pt": "Não quis ofender ninguém."},
+        {"en": "When in Rome, do as the Romans do.", "pt": "Em Roma, faça como os romanos."}
+      ],
+      "grammar": {
+        "title": "Be supposed to · It's + adjetivo + to + verbo",
+        "explanation_pt": "**Be supposed to + verbo** = o que é **esperado** por regra, costume ou combinação (\"é para...\", \"deveria\"):\n- In Japan, you**'re supposed to** bow when you greet someone.\n- You**'re not supposed to** eat on the subway in Singapore.\n- **Am I supposed to** tip here?\n- No passado = o que deveria ter acontecido (e não aconteceu): \"I **was supposed to** call her, but I forgot.\"\n\n**It's + adjetivo + to + verbo** para falar de costumes:\n- **It's polite to** bring flowers.\n- **It's rude to** blow your nose at the table.\n- **It's customary to** shake hands.\n- **It's (not) acceptable to** arrive late.\n- **It's common to** kiss on the cheek.\n\nPara negar o costume, use **not**: \"It's **not** polite **to**...\" ou \"You'**re not supposed to**...\". Para opções: \"You **don't have to** tip, but you **can**.\"",
+        "table": {
+          "headers": ["Estrutura", "Exemplo", "Sentido"],
+          "rows": [["be supposed to", "You're supposed to arrive on time.", "regra/expectativa"], ["be not supposed to", "You're not supposed to touch the art.", "proibido por regra"], ["was supposed to", "The train was supposed to leave at 8.", "expectativa não cumprida"], ["It's polite to", "It's polite to say thank you.", "educado"], ["It's rude to", "It's rude to interrupt.", "grosseiro"], ["It's customary to", "It's customary to tip 15%.", "costume"]]
+        },
+        "examples": [
+          {"en": "In many Asian countries, you're supposed to take off your shoes before entering a home.", "pt": "Em muitos países asiáticos, você deve tirar os sapatos antes de entrar numa casa."},
+          {"en": "It's rude to check your phone during a business meal in Japan.", "pt": "É falta de educação olhar o celular durante uma refeição de negócios no Japão."},
+          {"en": "The meeting was supposed to start at 9, but the boss was late.", "pt": "A reunião era para começar às 9, mas o chefe se atrasou."}
+        ],
+        "tip_pt": "**Supposed** se pronuncia \"sapôust\" — o D quase some antes do \"to\": \"sapôusta\"."
+      },
+      "common_mistakes": [
+        {"wrong": "You are suppose to arrive early.", "right": "You are supposed to arrive early.", "why_pt": "A forma é sempre supposed (com -d)."},
+        {"wrong": "Is polite to bring wine.", "right": "It's polite to bring wine.", "why_pt": "A frase precisa do sujeito it."},
+        {"wrong": "It's educated to say thank you.", "right": "It's polite to say thank you.", "why_pt": "\"Educado\" (maneiras) = polite. Educated = que tem estudo, instruído."}
+      ],
+      "pronunciation": {
+        "focus": "Supposed to = \"sapôusta\"",
+        "tip_pt": "Na fala natural, **supposed to** soa como \"**sapôusta**\" e **used to** como \"**iústa**\". O D desaparece e o \"to\" fica fraco.",
+        "practice": ["You're supposed to bow. (\"sapôusta\")", "I was supposed to call her.", "It's rude to point."]
+      },
+      "dialogue": {
+        "title": "Dinner in Tokyo",
+        "context_pt": "Caio vai jantar na casa de um colega japonês e pede dicas a uma amiga que morou no Japão.",
+        "lines": [
+          {"speaker": "Caio", "en": "Yuki, I'm going to have dinner at my coworker's house in Tokyo. What am I supposed to do?", "pt": "Yuki, vou jantar na casa de um colega em Tóquio. O que eu devo fazer?"},
+          {"speaker": "Yuki", "en": "First, you're supposed to take off your shoes at the entrance. They'll give you slippers.", "pt": "Primeiro, você deve tirar os sapatos na entrada. Eles vão te dar chinelos."},
+          {"speaker": "Caio", "en": "OK. Should I bring a gift?", "pt": "OK. Devo levar um presente?"},
+          {"speaker": "Yuki", "en": "Yes, it's customary to bring something small, like sweets. And it's polite to offer it with both hands.", "pt": "Sim, é costume levar algo pequeno, como doces. E é educado oferecer com as duas mãos."},
+          {"speaker": "Caio", "en": "Good to know. What about chopsticks? I'm terrible with them.", "pt": "Bom saber. E os hashis? Sou péssimo com eles."},
+          {"speaker": "Yuki", "en": "Just don't stick them upright in your rice. It's associated with funerals, so it's considered very rude.", "pt": "Só não espete eles em pé no arroz. É associado a funerais, então é considerado muito grosseiro."},
+          {"speaker": "Caio", "en": "Wow. And am I supposed to finish everything on my plate?", "pt": "Uau. E devo comer tudo do prato?"},
+          {"speaker": "Yuki", "en": "Yes, it shows you liked the food. And say \"gochisousama deshita\" at the end — they'll love it!", "pt": "Sim, mostra que você gostou da comida. E diga \"gochisousama deshita\" no final — eles vão adorar!"}
+        ]
+      },
+      "listening": {
+        "title": "Business etiquette tips",
+        "context_pt": "Uma consultora dá dicas rápidas de etiqueta de negócios em um webinar.",
+        "lines": [
+          {"speaker": "Consultant", "en": "Let's look at three countries. In Germany, you're supposed to be exactly on time — five minutes late is considered rude. People usually use last names and titles, like Herr Doktor Schmidt, until invited to use first names. In the United States, it's common to use first names right away, and small talk before a meeting is short. In China, it's polite to receive a business card with both hands and look at it carefully. You're not supposed to write on it or put it in your back pocket. Remember: when in doubt, observe and copy your hosts."}
+        ],
+        "questions": [
+          {"q": "What's considered rude in Germany?", "answer": "Being five minutes late."},
+          {"q": "How do Germans usually address people at first?", "answer": "With last names and titles."},
+          {"q": "What's common in the United States?", "answer": "Using first names right away (and short small talk)."},
+          {"q": "What aren't you supposed to do with a business card in China?", "answer": "Write on it or put it in your back pocket."}
+        ]
+      },
+      "reading": {
+        "title": "Tipping around the world",
+        "text": "Tipping is one of the most confusing parts of traveling. In the United States, servers depend on tips because their salaries are low, so you're supposed to leave 15 to 20 percent in restaurants. Not tipping is seen as very rude. In Japan, it's the opposite: tipping can be considered strange or even insulting, because good service is simply expected. In most of Europe, a service charge is often included in the bill, and leaving a few extra coins is a nice gesture but not required. In Brazil, restaurants usually add 10% to the bill, and you can choose not to pay it — although most people do. The golden rule? Check the local custom before you travel, and when you're not sure, ask: \"Is service included?\"",
+        "questions": [
+          {"q": "Why are you supposed to tip in the US?", "answer": "Because servers depend on tips (their salaries are low)."},
+          {"q": "How can tipping be seen in Japan?", "answer": "As strange or even insulting."},
+          {"q": "What's the situation in most of Europe?", "answer": "A service charge is often included; extra coins are nice but not required."},
+          {"q": "What question can you ask when you're not sure?", "answer": "\"Is service included?\""}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "fill_blank", "title": "Be supposed to", "instruction": "Complete with the correct form of be supposed to.", "instruction_pt": "Complete com a forma correta de be supposed to.",
+         "items": [{"prompt": "You ___ wear a helmet on a motorcycle. It's the law.", "answer": "'re supposed to"}, {"prompt": "We ___ use our phones in the library.", "answer": "'re not supposed to / aren't supposed to"}, {"prompt": "The package ___ arrive yesterday, but it didn't.", "answer": "was supposed to"}, {"prompt": "___ I ___ bring something to the party?", "answer": "Am / supposed to"}]},
+        {"id": "ex2", "type": "multiple_choice", "title": "Polite or rude?", "instruction": "Choose the correct adjective.", "instruction_pt": "Escolha o adjetivo correto.",
+         "items": [{"prompt": "In most cultures, it's ___ to say thank you.", "options": ["polite", "rude"], "answer": "polite"}, {"prompt": "It's ___ to talk loudly on the phone in a Japanese train.", "options": ["polite", "rude"], "answer": "rude"}, {"prompt": "It's ___ to bring a gift when visiting someone's home.", "options": ["customary", "unacceptable"], "answer": "customary"}, {"prompt": "In formal emails, it's ___ to use slang.", "options": ["appropriate", "inappropriate"], "answer": "inappropriate"}]},
+        {"id": "ex3", "type": "translate", "title": "Translate", "instruction": "Translate into English.", "instruction_pt": "Traduza para o inglês.",
+         "items": [{"prompt": "É falta de educação interromper as pessoas.", "answer": "It's rude to interrupt people."}, {"prompt": "Você deve tirar os sapatos.", "answer": "You're supposed to take off your shoes."}, {"prompt": "A reunião era para começar às 10.", "answer": "The meeting was supposed to start at 10."}, {"prompt": "É costume dar gorjeta aqui?", "answer": "Is it customary to tip here?"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "You're supposed to take off your shoes."}, {"prompt": "2", "answer": "It's rude to point at people."}, {"prompt": "3", "answer": "It's customary to bring a gift."}, {"prompt": "4", "answer": "I didn't mean to offend anyone."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "You're suppose to arrive on time.", "answer": "You're supposed to arrive on time."}, {"prompt": "Is rude to eat with your hands here.", "answer": "It's rude to eat with your hands here."}, {"prompt": "It's very educated to bring flowers.", "answer": "It's very polite to bring flowers."}, {"prompt": "It's polite say goodbye.", "answer": "It's polite to say goodbye."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the text", "instruction": "Complete with: supposed · rude · customary · polite · offend.", "instruction_pt": "Complete o texto.",
+         "items": [{"prompt": "In Brazil, it's ___ to kiss on the cheek when you meet a woman.", "answer": "customary"}, {"prompt": "But you're not ___ to do that in a job interview!", "answer": "supposed"}, {"prompt": "It's ___ to ask about someone's family — it shows interest.", "answer": "polite"}, {"prompt": "But asking about salary is ___ and can ___ people.", "answer": "rude / offend"}]}
+      ],
+      "speaking": {
+        "instruction": "Create a \"Brazil etiquette guide\" for foreigners with a partner. Use be supposed to and it's polite/rude to. Then compare with another culture you know.",
+        "instruction_pt": "Crie com um colega um \"guia de etiqueta do Brasil\" para estrangeiros. Use be supposed to e it's polite/rude to. Depois compare com outra cultura que vocês conheçam.",
+        "questions": ["What are visitors to Brazil supposed to know?", "What's rude in Brazil but OK in other countries?", "Have you ever made a faux pas? What happened?", "Is it rude to arrive late to a party in Brazil?", "What custom from another country do you admire?"]
+      },
+      "writing": {
+        "task": "Write an email (100–120 words) to a foreign friend who is visiting your family for the first time. Explain what they're supposed to do and what's polite or rude.",
+        "task_pt": "Escreva um e-mail (100–120 palavras) para um amigo estrangeiro que vai visitar sua família pela primeira vez. Explique o que é esperado e o que é educado ou grosseiro.",
+        "model": "Hi Tom,\nI'm so happy you're coming to Sunday lunch with my family! Here are some tips. You're not supposed to arrive exactly on time — 15 or 20 minutes late is perfect. It's polite to bring something, like a dessert or a bottle of wine. My grandma will probably kiss you on the cheek — that's normal, don't be shy! You're supposed to try a bit of everything, and it's rude to say no to a second plate, at least at first. 😄 Lunch can last four hours, so don't make plans for the afternoon. And compliment my mom's feijoada!\nSee you Sunday,\nJu"
+      },
+      "culture_note": {
+        "title": "Gestos que mudam de sentido",
+        "text_pt": "O gesto de **\"OK\"** (polegar e indicador em círculo) é positivo nos EUA, mas ofensivo no Brasil — e em alguns países também. O **polegar para cima** é positivo na maioria dos lugares, mas pode ser rude em partes do Oriente Médio. Na dúvida, use palavras!"
+      },
+      "summary_pt": ["be supposed to = é esperado / é para.", "was supposed to = era para (e não aconteceu).", "It's polite / rude / customary + to + verbo.", "polite = educado (educated = instruído)."]
+    },
+    {
+      "id": "B1-M1-L4",
+      "title": "Call me Jim",
+      "subtitle_pt": "Formas de tratamento, formal x informal",
+      "duration_min": 55,
+      "source_refs": ["Top Notch 3A – Unit 1 (ways to ask about proper address)", "Top Notch 3 Teacher's Book – Unit 1"],
+      "objectives": ["Usar títulos: Mr., Mrs., Ms., Dr., Professor", "Perguntar como alguém prefere ser chamado", "Adaptar o registro (formal x informal) em e-mails e conversas", "Usar Would you mind if...? / Do you mind if...?"],
+      "warmup": {
+        "text_pt": "No Brasil chamamos o chefe pelo primeiro nome e até de \"você\". Em outros países, isso pode ser estranho. Como você trata pessoas mais velhas ou em cargos altos?",
+        "questions": ["How do you address your boss?", "Do you prefer formal or informal environments?"]
+      },
+      "vocabulary": [
+        {"en": "Mr. / Mrs. / Ms. / Miss", "pt": "Sr. / Sra. (casada) / Sra. (neutro) / Srta.", "say": "míster / mísiz / míz / mis"},
+        {"en": "Dr. / Professor", "pt": "Dr. (médico ou doutor) / professor universitário", "say": "dóktor / proféssor"},
+        {"en": "first name / last name", "pt": "primeiro nome / sobrenome", "say": "fârst nêim / lést nêim"},
+        {"en": "nickname", "pt": "apelido", "say": "níknêim"},
+        {"en": "to address (someone)", "pt": "dirigir-se a (alguém)", "say": "tu adrés"},
+        {"en": "formal / informal / casual", "pt": "formal / informal / descontraído", "say": "fórmal / infórmal / kéjual"},
+        {"en": "register / tone", "pt": "registro / tom", "say": "rédjister / tôun"},
+        {"en": "pronouns", "pt": "pronomes", "say": "prôunauns"},
+        {"en": "Dear... / Hi...", "pt": "Prezado(a)... / Oi...", "say": "dír / rái"},
+        {"en": "Best regards / Cheers", "pt": "Atenciosamente / Abraço", "say": "bést rigárdz / tchírz"},
+        {"en": "to go by (a name)", "pt": "ser chamado de, usar (um nome)", "say": "tu gôu bái"},
+        {"en": "senior / junior", "pt": "sênior / júnior", "say": "sínior / djúnior"}
+      ],
+      "chunks": [
+        {"en": "What would you like to be called?", "pt": "Como você gostaria de ser chamado?"},
+        {"en": "Please, call me Jim.", "pt": "Por favor, me chame de Jim."},
+        {"en": "Do you mind if I call you Ana?", "pt": "Você se importa se eu te chamar de Ana?"},
+        {"en": "I go by Beto.", "pt": "Me chamam de Beto. / Uso o nome Beto."},
+        {"en": "How do you pronounce your name?", "pt": "Como se pronuncia seu nome?"},
+        {"en": "Should I use Ms. or Mrs.?", "pt": "Devo usar Ms. ou Mrs.?"}
+      ],
+      "grammar": {
+        "title": "Do you mind if...? / Would you mind if...?",
+        "explanation_pt": "Para pedir **permissão** de forma educada:\n- **Do you mind if** I + **simple present**? → \"Do you mind if I **call** you Ana?\"\n- **Would you mind if** I + **simple past**? (mais formal) → \"Would you mind if I **called** you Ana?\"\n\n⚠️ **Atenção à resposta!** \"Mind\" significa \"se importar\". Então:\n- **\"No, not at all.\" / \"No, go ahead.\"** = **pode sim** (não me importo) ✅\n- **\"Yes, I do mind.\" / \"Actually, I'd rather you didn't.\"** = **não pode** ❌\n\nPara pedir que **outra pessoa** faça algo: **Would you mind + verbo-ing?** → \"Would you mind **spelling** your name?\"\n\n**Títulos:**\n- **Mr.** (homens) + sobrenome: Mr. Smith\n- **Ms.** (mulheres — neutro, o mais seguro no trabalho) + sobrenome: Ms. Lopez\n- **Mrs.** (mulher casada) / **Miss** (jovem/solteira — pouco usado hoje)\n- **Dr.** + sobrenome (médicos e doutores) · **Professor** + sobrenome (professores universitários)\n- Nunca use título + primeiro nome: ❌ \"Mr. John\" (comum no Brasil, estranho em inglês) → ✅ \"Mr. Smith\" ou \"John\".",
+        "table": {
+          "headers": ["Pedido", "Sim, pode", "Não, prefiro que não"],
+          "rows": [["Do you mind if I sit here?", "No, not at all. / Go ahead.", "Sorry, it's taken."], ["Would you mind if I opened the window?", "No, of course not.", "Actually, I'm a bit cold."], ["Would you mind waiting a minute?", "Not at all.", "Sorry, I'm in a hurry."]]
+        },
+        "examples": [
+          {"en": "Do you mind if I call you Bia? — Not at all, everyone does!", "pt": "Você se importa se eu te chamar de Bia? — De jeito nenhum, todo mundo chama!"},
+          {"en": "Would you mind spelling your last name for me?", "pt": "Você se importaria de soletrar seu sobrenome para mim?"},
+          {"en": "Good morning, Dr. Patel. Thank you for seeing me.", "pt": "Bom dia, Dr. Patel. Obrigado por me receber."}
+        ],
+        "tip_pt": "Se não sabe como tratar alguém num e-mail, use **nome completo**: \"Dear Alex Morgan,\" — evita erros de gênero e de título. Muitas pessoas também indicam os **pronomes** na assinatura (she/her, he/him, they/them)."
+      },
+      "common_mistakes": [
+        {"wrong": "Hello, Mr. Paulo!", "right": "Hello, Mr. Santos! / Hello, Paulo!", "why_pt": "Em inglês, títulos vão com o sobrenome, nunca com o primeiro nome."},
+        {"wrong": "\"Do you mind if I sit here?\" \"Yes, sit!\"", "right": "\"No, not at all. Go ahead!\"", "why_pt": "Mind = se importar. \"Yes\" significaria \"sim, me importo\"!"},
+        {"wrong": "Would you mind to wait?", "right": "Would you mind waiting?", "why_pt": "Would you mind + -ing."}
+      ],
+      "pronunciation": {
+        "focus": "Mr. / Mrs. / Ms. / Miss",
+        "tip_pt": "Diferencie bem: **Mr.** = \"míster\" · **Mrs.** = \"mísiz\" · **Ms.** = \"míz\" (com som de Z zumbindo) · **Miss** = \"mís\" (S chiado). Ms. e Miss são os mais confundidos!",
+        "practice": ["Good morning, Mr. Brown.", "Ms. Lee will see you now.", "Mrs. Clarke and Miss Clarke are here."]
+      },
+      "dialogue": {
+        "title": "First day in London",
+        "context_pt": "Bruna começa num escritório em Londres e conversa com o diretor no primeiro dia.",
+        "lines": [
+          {"speaker": "Director", "en": "Welcome to the team! I'm James Whitmore, the managing director.", "pt": "Bem-vinda à equipe! Sou James Whitmore, diretor geral."},
+          {"speaker": "Bruna", "en": "Nice to meet you, Mr. Whitmore. Thank you for having me.", "pt": "Prazer, Sr. Whitmore. Obrigada por me receber."},
+          {"speaker": "Director", "en": "Oh, please, call me Jim. Everyone does. And what would you like to be called?", "pt": "Ah, por favor, me chame de Jim. Todo mundo chama. E como você gostaria de ser chamada?"},
+          {"speaker": "Bruna", "en": "My full name is Bruna Carvalho, but I go by Bru.", "pt": "Meu nome completo é Bruna Carvalho, mas me chamam de Bru."},
+          {"speaker": "Director", "en": "Bru. Lovely. Do you mind if I ask how to pronounce your last name? I don't want to get it wrong.", "pt": "Bru. Ótimo. Você se importa se eu perguntar como se pronuncia seu sobrenome? Não quero errar."},
+          {"speaker": "Bruna", "en": "Not at all. It's \"Car-VA-lyo\". But don't worry, nobody here gets it right!", "pt": "De jeito nenhum. É \"Carvalho\". Mas não se preocupe, ninguém aqui acerta!"},
+          {"speaker": "Director", "en": "Car-VA-lyo. I'll practice. By the way, our client meeting tomorrow is quite formal — please address them as Dr. Hughes and Ms. Kerr.", "pt": "Carvalho. Vou praticar. A propósito, a reunião com o cliente amanhã é bem formal — por favor, trate-os como Dr. Hughes e Ms. Kerr."},
+          {"speaker": "Bruna", "en": "Got it. Formal tomorrow, \"Jim\" today.", "pt": "Entendi. Formal amanhã, \"Jim\" hoje."}
+        ]
+      },
+      "listening": {
+        "title": "Email etiquette tips",
+        "context_pt": "Um professor de inglês para negócios explica como começar e terminar e-mails.",
+        "lines": [
+          {"speaker": "Teacher", "en": "The way you open and close an email shows your tone. For a formal email to someone you don't know, start with \"Dear Mr. Lee\" or \"Dear Ms. Santos\". If you don't know the name, \"Dear Hiring Manager\" is better than \"To whom it may concern\", which sounds old-fashioned. For colleagues, \"Hi Ana\" is perfect. Close formal emails with \"Kind regards\" or \"Best regards\". \"Cheers\" is friendly, especially in the UK and Australia, but don't use it with a new client. And please — never write \"Kisses\" or \"Hugs\" in a business email, even if Brazilians do it with friends!"}
+        ],
+        "questions": [
+          {"q": "How should you start a formal email to someone you don't know?", "answer": "\"Dear Mr. Lee\" / \"Dear Ms. Santos\"."},
+          {"q": "What's better than \"To whom it may concern\"?", "answer": "\"Dear Hiring Manager\"."},
+          {"q": "When is \"Cheers\" OK?", "answer": "With colleagues/friendly contacts (especially in the UK and Australia), not new clients."},
+          {"q": "What should you never write in a business email?", "answer": "\"Kisses\" or \"Hugs\"."}
+        ]
+      },
+      "reading": {
+        "title": "Is \"Mr.\" disappearing?",
+        "text": "In many English-speaking workplaces, titles are becoming less common. Tech companies in Silicon Valley are famous for their informal culture: the CEO is \"Mark\" or \"Sundar\", and nobody wears a tie. Many universities and hospitals, however, still prefer titles like \"Professor\" and \"Dr.\", especially with students and patients. In the UK, older generations often expect \"Mr.\" or \"Mrs.\" until they say otherwise. Another change is the use of \"Ms.\" instead of \"Mrs.\" or \"Miss\": it doesn't reveal whether a woman is married, and it's now the standard in professional situations. Some people prefer gender-neutral titles like \"Mx.\" The safest strategy? Follow the other person's lead. If someone signs an email \"Jennifer\", you can reply \"Hi Jennifer\". If they sign \"Dr. Jennifer Adams\", start with \"Dear Dr. Adams\".",
+        "questions": [
+          {"q": "Where are titles becoming less common?", "answer": "In many English-speaking workplaces, especially tech companies."},
+          {"q": "Where are titles still preferred?", "answer": "In universities and hospitals (with students and patients) and with older generations in the UK."},
+          {"q": "Why is \"Ms.\" the standard now?", "answer": "It doesn't reveal whether a woman is married."},
+          {"q": "What's the safest strategy?", "answer": "Follow the other person's lead (how they sign their emails)."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Answer correctly", "instruction": "Choose the answer that means YES, YOU CAN.", "instruction_pt": "Escolha a resposta que significa SIM, PODE.",
+         "items": [{"prompt": "Do you mind if I open the window?", "options": ["Yes, I do.", "No, go ahead.", "Yes, please mind."], "answer": "No, go ahead."}, {"prompt": "Would you mind if I sat here?", "options": ["Not at all.", "Yes, I would.", "I mind."], "answer": "Not at all."}, {"prompt": "Do you mind if I call you Jo?", "options": ["Yes, of course I mind.", "No, of course not!", "Mind it."], "answer": "No, of course not!"}]},
+        {"id": "ex2", "type": "fill_blank", "title": "Do you mind / Would you mind", "instruction": "Complete with the correct verb form.", "instruction_pt": "Complete com a forma correta do verbo.",
+         "items": [{"prompt": "Do you mind if I ___ (use) your charger?", "answer": "use"}, {"prompt": "Would you mind if I ___ (leave) early?", "answer": "left"}, {"prompt": "Would you mind ___ (repeat) that?", "answer": "repeating"}, {"prompt": "Would you mind ___ (send) me the file?", "answer": "sending"}]},
+        {"id": "ex3", "type": "match", "title": "Formal or informal?", "instruction": "Write F (formal) or I (informal).", "instruction_pt": "Escreva F (formal) ou I (informal).",
+         "items": [{"prompt": "Dear Ms. Johnson,", "answer": "F"}, {"prompt": "Hey Tom!", "answer": "I"}, {"prompt": "Best regards,", "answer": "F"}, {"prompt": "Cheers,", "answer": "I"}, {"prompt": "I look forward to hearing from you.", "answer": "F"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "What would you like to be called?"}, {"prompt": "2", "answer": "Please, call me Jim."}, {"prompt": "3", "answer": "Do you mind if I call you Ana?"}, {"prompt": "4", "answer": "Would you mind spelling your name?"}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "Good morning, Mr. Carlos.", "answer": "Good morning, Mr. Silva. (title + last name) / Good morning, Carlos."}, {"prompt": "Would you mind to close the door?", "answer": "Would you mind closing the door?"}, {"prompt": "Would you mind if I take a photo?", "answer": "Would you mind if I took a photo?"}, {"prompt": "\"Do you mind if I sit here?\" \"Yes, sure, sit down!\"", "answer": "No, not at all. Go ahead."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the email", "instruction": "Complete with: Dear · regards · forward · Ms. · would.", "instruction_pt": "Complete o e-mail.",
+         "items": [{"prompt": "___ ___ Rivera,", "answer": "Dear / Ms."}, {"prompt": "I ___ like to schedule a meeting next week.", "answer": "would"}, {"prompt": "I look ___ to hearing from you.", "answer": "forward"}, {"prompt": "Best ___, Paulo Mendes", "answer": "regards"}]}
+      ],
+      "speaking": {
+        "instruction": "Role-play: meet a new colleague, a new boss and a new client. Ask how they prefer to be addressed and adapt your register.",
+        "instruction_pt": "Role-play: conheça um novo colega, um novo chefe e um novo cliente. Pergunte como preferem ser chamados e adapte o registro.",
+        "questions": ["What would you like to be called?", "Do you have a nickname? Where does it come from?", "Is it OK to call your boss by their first name in Brazil?", "When do you think titles are important?", "Have you ever been addressed in a way you didn't like?"]
+      },
+      "writing": {
+        "task": "Write two short emails with the same message (asking to reschedule a meeting): one formal to a new client, one informal to a colleague (50–70 words each).",
+        "task_pt": "Escreva dois e-mails curtos com a mesma mensagem (pedindo para remarcar uma reunião): um formal para um cliente novo e um informal para um colega (50–70 palavras cada).",
+        "model": "Formal:\nDear Ms. Kerr,\nI'm afraid I need to reschedule our meeting on Thursday due to an unexpected trip. Would it be possible to meet on Monday or Tuesday next week instead? Please let me know what time suits you best. I apologize for any inconvenience.\nBest regards,\nBruna Carvalho\n\nInformal:\nHi Jake,\nSorry, something came up and I can't make Thursday's meeting. Do you mind if we move it to Monday or Tuesday? Whatever works for you!\nCheers,\nBru"
+      },
+      "culture_note": {
+        "title": "\"Seu\" e \"Dona\" não têm tradução direta",
+        "text_pt": "No Brasil, dizemos \"Seu João\" e \"Dona Maria\" — título + primeiro nome, com respeito e carinho. Em inglês não há equivalente: \"Mr. John\" soa errado. Com pessoas mais velhas, use **Mr./Mrs. + sobrenome** até que elas digam **\"Please, call me...\"**."
+      },
+      "summary_pt": ["Título + sobrenome (Mr. Smith), nunca + primeiro nome.", "Ms. = padrão profissional para mulheres.", "Do you mind if I + presente? / Would you mind if I + passado?", "Resposta \"No, not at all\" = pode sim!"]
+    }
+  ],
+  "review": {
+    "intro_pt": "Revise tag questions, present perfect para experiências, etiqueta e formas de tratamento.",
+    "exercises": [
+      {"id": "r1", "type": "multiple_choice", "title": "Choose the correct option", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+       "items": [{"prompt": "You work with Ana, ___?", "options": ["isn't it", "don't you", "aren't you"], "answer": "don't you"}, {"prompt": "___ you ever been to Africa?", "options": ["Did", "Have", "Were"], "answer": "Have"}, {"prompt": "I ___ Lisbon in 2022.", "options": ["visited", "have visited"], "answer": "visited"}, {"prompt": "You're ___ to bow in Japan.", "options": ["suppose", "supposed", "supposing"], "answer": "supposed"}, {"prompt": "Would you mind ___ the door?", "options": ["to close", "closing", "close"], "answer": "closing"}]},
+      {"id": "r2", "type": "fill_blank", "title": "Mixed practice", "instruction": "Complete the sentences.", "instruction_pt": "Complete as frases.",
+       "items": [{"prompt": "She hasn't called yet, ___ she?", "answer": "has"}, {"prompt": "I've never ___ (fly) in a helicopter.", "answer": "flown"}, {"prompt": "It's ___ to talk with your mouth full. (grosseiro)", "answer": "rude"}, {"prompt": "Good morning, ___ Lopez. (mulher, formal)", "answer": "Ms."}]},
+      {"id": "r3", "type": "translate", "title": "Translate", "instruction": "Translate into English.", "instruction_pt": "Traduza para o inglês.",
+       "items": [{"prompt": "Você já viu neve?", "answer": "Have you ever seen snow?"}, {"prompt": "Dia lindo, né?", "answer": "Beautiful day, isn't it?"}, {"prompt": "Você se importa se eu te chamar de Leo?", "answer": "Do you mind if I call you Leo?"}]},
+      {"id": "r4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+       "items": [{"prompt": "1", "answer": "You're new here, aren't you?"}, {"prompt": "2", "answer": "I've been to Chile twice."}, {"prompt": "3", "answer": "It's polite to bring a gift."}]},
+      {"id": "r5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+       "items": [{"prompt": "She speaks French, isn't it?", "answer": "She speaks French, doesn't she?"}, {"prompt": "I've seen that movie last night.", "answer": "I saw that movie last night."}, {"prompt": "Hello, Mrs. Maria!", "answer": "Hello, Mrs. Souza! (title + last name) / Hello, Maria!"}]}
+    ],
+    "speaking_pt": "Grave um vídeo de 2 minutos se apresentando em um evento internacional: puxe assunto com uma tag question, conte duas experiências de vida (present perfect + simple past) e explique um costume brasileiro que estrangeiros deveriam conhecer.",
+    "speaking_questions": ["How would you start a conversation at an international event?", "What's the most interesting thing you've ever done?", "Have you ever been to another country? What was it like?", "What are foreigners supposed to know about Brazil?", "How do you like to be addressed at work?"],
+    "project_pt": "**Culture guide:** crie um mini-guia ilustrado (carrossel, PDF ou vídeo) \"Doing business with Brazilians\" para estrangeiros: small talk, formas de tratamento, pontualidade, gestos e o que é educado ou grosseiro. Use be supposed to, it's polite/rude to e tag questions."
+  }
+}

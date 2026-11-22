@@ -1,0 +1,537 @@
+{
+  "id": "B1-M4",
+  "level": "B1",
+  "title": "Getting Things Done",
+  "theme_pt": "Serviços, preferências, padrões verbais e recomendações",
+  "can_do": ["Dizer que pedi a alguém para fazer um serviço (get / have something done)", "Expressar preferências com would rather e prefer", "Usar verbos seguidos de gerúndio ou infinitivo corretamente", "Fazer perguntas de sujeito e de objeto (Who called? / Who did you call?)", "Pedir e dar recomendações de profissionais e lugares"],
+  "lessons": [
+    {
+      "id": "B1-M4-L1",
+      "title": "I need to get my phone fixed",
+      "subtitle_pt": "Causative: get / have something done",
+      "duration_min": 60,
+      "source_refs": ["Top Notch 3A – Unit 3 (getting things done, causative)", "Top Notch 3 Teacher's Book – Unit 3"],
+      "objectives": ["Usar get/have + objeto + particípio para serviços", "Falar sobre serviços do dia a dia (cabelo, carro, celular, roupas)", "Perguntar onde e quando algo pode ser feito", "Diferenciar \"fiz\" (eu mesmo) de \"mandei fazer\""],
+      "warmup": {
+        "text_pt": "Em português, dizemos \"cortei o cabelo\" mesmo quando foi o cabeleireiro que cortou. Em inglês, isso faria parecer que você mesmo cortou! Que serviços você costuma contratar?",
+        "questions": ["When did you last get your hair cut?", "Do you fix things yourself or pay someone?"]
+      },
+      "vocabulary": [
+        {"en": "to get (something) fixed / repaired", "pt": "mandar consertar (algo)", "say": "tu guét fikst / ripérd"},
+        {"en": "to get a haircut / to get my hair cut", "pt": "cortar o cabelo (no salão)", "say": "tu guét a rérkât"},
+        {"en": "to have (something) cleaned", "pt": "mandar limpar (algo)", "say": "tu rév klínd"},
+        {"en": "dry cleaner's", "pt": "lavanderia (a seco)", "say": "drái klínerz"},
+        {"en": "repair shop / mechanic", "pt": "assistência técnica / mecânico", "say": "ripér shóp / mekénik"},
+        {"en": "tailor", "pt": "alfaiate, costureira", "say": "têilor"},
+        {"en": "to alter / to shorten", "pt": "ajustar / encurtar (roupa)", "say": "tu ólter / tu shórten"},
+        {"en": "screen protector / cracked screen", "pt": "película / tela trincada", "say": "skrín protéktor / krékt skrín"},
+        {"en": "to deliver / delivery", "pt": "entregar / entrega", "say": "tu dilíver"},
+        {"en": "to frame (a picture)", "pt": "emoldurar (um quadro)", "say": "tu frêim"},
+        {"en": "estimate / quote", "pt": "orçamento", "say": "éstimat / kuôut"},
+        {"en": "to drop off / to pick up", "pt": "deixar / buscar", "say": "tu dróp óf / tu pik âp"}
+      ],
+      "chunks": [
+        {"en": "I need to get my phone fixed.", "pt": "Preciso mandar consertar meu celular."},
+        {"en": "Where can I get my suit dry-cleaned?", "pt": "Onde posso levar meu terno para lavar a seco?"},
+        {"en": "I had my car serviced last week.", "pt": "Fiz a revisão do carro semana passada."},
+        {"en": "How long will it take?", "pt": "Quanto tempo vai levar?"},
+        {"en": "Could you give me a quote?", "pt": "Pode me passar um orçamento?"},
+        {"en": "When can I pick it up?", "pt": "Quando posso buscar?"}
+      ],
+      "grammar": {
+        "title": "Causative: get / have + objeto + particípio",
+        "explanation_pt": "Quando **outra pessoa** faz algo **para você** (geralmente um serviço pago), use o **causative**:\n\n**get / have + objeto + particípio passado**\n- I **got my hair cut**. (o cabeleireiro cortou — não eu)\n- She **had her car washed**.\n- We need to **get the roof repaired**.\n\nCompare:\n- \"I **cut my hair**.\" = eu mesmo cortei (com tesoura em casa! ✂️)\n- \"I **got my hair cut**.\" = cortei no salão\n\n**Get** é mais informal e comum na fala; **have** é um pouco mais formal. O sentido é o mesmo.\n\nO causative funciona em **todos os tempos** — só muda o get/have:\n- presente: I **get** my nails done every two weeks.\n- passado: I **had** my eyes tested yesterday.\n- futuro: I**'m going to get** my car fixed.\n- present perfect: Have you **had** your passport renewed?\n- modal: Where **can** I **get** this printed?\n\n**Perguntas:** \"Where **did** you **get** your hair **cut**?\" / \"Where can I **have** my shoes **repaired**?\"",
+        "table": {
+          "headers": ["Eu mesmo faço", "Outra pessoa faz (causative)"],
+          "rows": [["I fixed my bike.", "I got my bike fixed."], ["She cleans her house.", "She has her house cleaned."], ["We painted the kitchen.", "We had the kitchen painted."], ["I'm going to cut my hair.", "I'm going to get my hair cut."]]
+        },
+        "examples": [
+          {"en": "I dropped my phone again. I need to get the screen replaced.", "pt": "Deixei o celular cair de novo. Preciso trocar a tela."},
+          {"en": "Where did you get your glasses made? They look great!", "pt": "Onde você fez seus óculos? Ficaram ótimos!"},
+          {"en": "We're having our apartment painted next week, so we're staying with my parents.", "pt": "Vamos pintar o apartamento semana que vem, então vamos ficar com meus pais."}
+        ],
+        "tip_pt": "Expressões fixas muito úteis: **get your nails done** (fazer as unhas), **get a tattoo** (fazer uma tatuagem), **get your eyes tested** (fazer exame de vista), **get your teeth cleaned** (fazer limpeza nos dentes)."
+      },
+      "common_mistakes": [
+        {"wrong": "I cut my hair yesterday. (no salão)", "right": "I got my hair cut yesterday.", "why_pt": "Se outra pessoa cortou, use o causative."},
+        {"wrong": "I need to fix my car in the mechanic.", "right": "I need to get my car fixed at the mechanic's.", "why_pt": "O mecânico conserta: causative + at the mechanic's."},
+        {"wrong": "I got my phone fix.", "right": "I got my phone fixed.", "why_pt": "O verbo vai no particípio (fixed)."}
+      ],
+      "pronunciation": {
+        "focus": "Particípios com -ed: /t/, /d/, /ɪd/",
+        "tip_pt": "No causative, o particípio fica no fim e é bem audível. Lembre os três sons: **fixed** (\"fikst\"), **cleaned** (\"klínd\"), **painted** (\"pêintid\"). E **cut**, **done**, **made** são irregulares.",
+        "practice": ["I got my phone fixed.", "She had her house painted.", "Where can I get this cleaned?"]
+      },
+      "dialogue": {
+        "title": "Errands before the trip",
+        "context_pt": "Dois amigos conversam sobre tudo o que precisam resolver antes de uma viagem.",
+        "lines": [
+          {"speaker": "Ju", "en": "I have so many things to do before our trip! I still need to get my passport renewed.", "pt": "Tenho tanta coisa para fazer antes da viagem! Ainda preciso renovar meu passaporte."},
+          {"speaker": "Leo", "en": "Seriously? The trip is in three weeks! You'd better hurry.", "pt": "Sério? A viagem é daqui a três semanas! É melhor você se apressar."},
+          {"speaker": "Ju", "en": "I know. I've already booked the appointment. And I need to get my suitcase repaired — the wheel broke.", "pt": "Eu sei. Já marquei o horário. E preciso consertar minha mala — a rodinha quebrou."},
+          {"speaker": "Leo", "en": "I had mine fixed at a shop downtown. They did it in one day.", "pt": "Mandei consertar a minha numa loja no centro. Fizeram em um dia."},
+          {"speaker": "Ju", "en": "Great, send me the address. What about you? Is everything ready?", "pt": "Ótimo, me manda o endereço. E você? Está tudo pronto?"},
+          {"speaker": "Leo", "en": "Almost. I'm getting my hair cut tomorrow, and I'm having my car serviced on Friday so it's ready when we get back.", "pt": "Quase. Vou cortar o cabelo amanhã, e vou fazer a revisão do carro na sexta para estar pronto quando voltarmos."},
+          {"speaker": "Ju", "en": "So organized! I haven't even had my vaccines checked yet.", "pt": "Que organizado! Eu ainda nem verifiquei minhas vacinas."}
+        ]
+      },
+      "listening": {
+        "title": "At the phone repair shop",
+        "context_pt": "Uma cliente leva o celular quebrado para uma assistência técnica.",
+        "lines": [
+          {"speaker": "Technician", "en": "Hi! How can I help?"},
+          {"speaker": "Customer", "en": "Hi. I dropped my phone and the screen cracked. I need to get it replaced. How much is it?"},
+          {"speaker": "Technician", "en": "Let me see... For this model, a new screen is 650 reais. We can also have the battery checked — it looks a bit swollen."},
+          {"speaker": "Customer", "en": "OK, please check it. How long will it take?"},
+          {"speaker": "Technician", "en": "The screen takes about two hours. If you need a new battery, we'll have to order it, so that could take three days."},
+          {"speaker": "Customer", "en": "Let's do the screen today. I'll pick it up at five."}
+        ],
+        "questions": [
+          {"q": "What happened to the phone?", "answer": "She dropped it and the screen cracked."},
+          {"q": "How much is the new screen?", "answer": "650 reais."},
+          {"q": "Why does the technician want to check the battery?", "answer": "It looks a bit swollen."},
+          {"q": "When will she pick up the phone?", "answer": "At five (today)."}
+        ]
+      },
+      "reading": {
+        "title": "The right to repair",
+        "text": "Have you ever had a phone repaired, only to be told that it's cheaper to buy a new one? You're not alone. For years, many manufacturers have made it difficult for customers to get their devices fixed: special screws, glued batteries, and parts that only official stores can buy. Now, a global movement called \"Right to Repair\" is fighting back. The European Union and several US states have passed laws requiring companies to sell spare parts and repair manuals for many products. Supporters say this will reduce electronic waste — one of the fastest-growing types of waste in the world — and save consumers money. In Brazil, small repair shops have always been part of the culture: we get our shoes resoled, our clothes altered and our appliances fixed. Maybe the rest of the world is finally catching up.",
+        "questions": [
+          {"q": "How have manufacturers made repairs difficult?", "answer": "Special screws, glued batteries, parts only official stores can buy."},
+          {"q": "What do the new laws require?", "answer": "Companies must sell spare parts and repair manuals."},
+          {"q": "What are two benefits, according to supporters?", "answer": "Less electronic waste and saving consumers money."},
+          {"q": "What does the text say about Brazil?", "answer": "Small repair shops have always been part of the culture."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "fill_blank", "title": "Causative", "instruction": "Rewrite using get or have + object + past participle.", "instruction_pt": "Reescreva usando get ou have + objeto + particípio.",
+         "items": [{"prompt": "A mechanic fixed my car. → I ___.", "answer": "got/had my car fixed"}, {"prompt": "A photographer took our wedding photos. → We ___.", "answer": "had/got our wedding photos taken"}, {"prompt": "Someone is going to paint my house. → I'm going to ___.", "answer": "get/have my house painted"}, {"prompt": "A tailor shortened my pants. → I ___.", "answer": "got/had my pants shortened"}]},
+        {"id": "ex2", "type": "multiple_choice", "title": "Myself or someone else?", "instruction": "Choose the correct sentence.", "instruction_pt": "Escolha a frase correta.",
+         "items": [{"prompt": "(Você foi ao salão)", "options": ["I cut my hair.", "I got my hair cut."], "answer": "I got my hair cut."}, {"prompt": "(Você mesmo lavou o carro em casa)", "options": ["I washed my car.", "I had my car washed."], "answer": "I washed my car."}, {"prompt": "(O dentista limpou seus dentes)", "options": ["I cleaned my teeth.", "I had my teeth cleaned."], "answer": "I had my teeth cleaned."}]},
+        {"id": "ex3", "type": "match", "title": "Where can I get...?", "instruction": "Where do you get these things done? Write the place.", "instruction_pt": "Onde você manda fazer estas coisas? Escreva o lugar.",
+         "items": [{"prompt": "get my suit cleaned", "answer": "at the dry cleaner's"}, {"prompt": "get my car repaired", "answer": "at the mechanic's / repair shop"}, {"prompt": "get my hair cut", "answer": "at the hair salon / barber's"}, {"prompt": "get my pants altered", "answer": "at the tailor's"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "I need to get my phone fixed."}, {"prompt": "2", "answer": "I had my car serviced last week."}, {"prompt": "3", "answer": "Could you give me a quote?"}, {"prompt": "4", "answer": "When can I pick it up?"}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "I got my nails do yesterday.", "answer": "I got my nails done yesterday."}, {"prompt": "Where did you cut your hair? It looks great! (no salão)", "answer": "Where did you get your hair cut?"}, {"prompt": "I'm going to have repaired my laptop.", "answer": "I'm going to have my laptop repaired."}, {"prompt": "She had her house clean.", "answer": "She had her house cleaned."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the conversation", "instruction": "Complete with: get · done · quote · fixed · pick.", "instruction_pt": "Complete a conversa.",
+         "items": [{"prompt": "A: My laptop is so slow. I need to get it ___.", "answer": "fixed"}, {"prompt": "B: Why don't you ___ it checked at the shop on my street?", "answer": "get"}, {"prompt": "A: Do they give you a ___ first?", "answer": "quote"}, {"prompt": "B: Yes, and they usually get everything ___ in a day. You can ___ it up the next morning.", "answer": "done / pick"}]}
+      ],
+      "speaking": {
+        "instruction": "Talk about services: what you do yourself and what you pay others to do. Ask for and give recommendations of places in your city.",
+        "instruction_pt": "Fale sobre serviços: o que você faz sozinho e o que paga para outros fazerem. Peça e dê recomendações de lugares na sua cidade.",
+        "questions": ["Where do you get your hair cut? Would you recommend it?", "What have you had fixed recently?", "Do you clean your house yourself or have it cleaned?", "What's something you'd never do yourself?", "Have you ever had something done that went wrong?"]
+      },
+      "writing": {
+        "task": "Write a review (80–100 words) of a service you used: what you had done, how it went and whether you'd recommend it.",
+        "task_pt": "Escreva uma avaliação (80–100 palavras) de um serviço que você usou: o que mandou fazer, como foi e se recomendaria.",
+        "model": "⭐⭐⭐⭐⭐ Zé's Repair Shop\nI had my old coffee machine fixed here last week, and I'm very impressed. Two other shops told me it was cheaper to buy a new one, but Zé found the problem in ten minutes — just a small broken part. He gave me a fair quote, and I picked it up the next day. I've also had my vacuum cleaner repaired here before. Honest, fast and friendly service. Highly recommended if you want to get things fixed instead of throwing them away!"
+      },
+      "culture_note": {
+        "title": "DIY culture",
+        "text_pt": "Nos EUA e no Reino Unido, mão de obra é cara, então a cultura **DIY (Do It Yourself)** é muito forte: pessoas pintam a própria casa, montam móveis e consertam coisas com tutoriais. Lojas como Home Depot e IKEA vivem disso. No Brasil, é mais comum **get things done** — contratar alguém."
+      },
+      "summary_pt": ["get / have + objeto + particípio = alguém fez para mim.", "I cut my hair (eu mesmo) x I got my hair cut (no salão).", "Funciona em todos os tempos (got, 'm getting, will get...).", "at the mechanic's / dry cleaner's / tailor's."]
+    },
+    {
+      "id": "B1-M4-L2",
+      "title": "I'd rather stay home",
+      "subtitle_pt": "Preferências: would rather, prefer, would prefer",
+      "duration_min": 55,
+      "source_refs": ["SAM-B3 – Lesson 4 (would questions)", "Top Notch 3A – Unit 2 (preferences)"],
+      "objectives": ["Expressar preferências gerais com prefer (... to ...)", "Expressar preferências específicas com would rather e would prefer", "Usar would rather + than / would prefer + to", "Discutir escolhas e dilemas"],
+      "warmup": {
+        "text_pt": "Praia ou montanha? Cachorro ou gato? Ligar ou mandar mensagem? Hoje vamos falar sobre preferências — e escolhas difíceis!",
+        "questions": ["Would you rather call or text?", "Do you prefer staying in or going out on Friday nights?"]
+      },
+      "vocabulary": [
+        {"en": "to prefer / preference", "pt": "preferir / preferência", "say": "tu prifâr / préferens"},
+        {"en": "would rather ('d rather)", "pt": "preferiria", "say": "uúd réder (áid réder)"},
+        {"en": "would prefer ('d prefer)", "pt": "preferiria", "say": "uúd prifâr"},
+        {"en": "instead (of)", "pt": "em vez (de)", "say": "instéd"},
+        {"en": "either / neither", "pt": "qualquer um / nenhum dos dois", "say": "íder / níder"},
+        {"en": "it's up to you", "pt": "você que sabe, você decide", "say": "its âp tu iú"},
+        {"en": "I don't mind", "pt": "tanto faz para mim", "say": "ái dôunt máind"},
+        {"en": "a dilemma", "pt": "um dilema", "say": "a diléma"},
+        {"en": "to stay in / to go out", "pt": "ficar em casa / sair", "say": "tu stêi in / tu gôu áut"},
+        {"en": "homebody", "pt": "pessoa caseira", "say": "rôumbodi"},
+        {"en": "tough choice", "pt": "escolha difícil", "say": "tâf tchóis"},
+        {"en": "to be torn between", "pt": "estar dividido entre", "say": "tu bí tórn bituín"}
+      ],
+      "chunks": [
+        {"en": "I'd rather stay home tonight.", "pt": "Prefiro ficar em casa hoje à noite."},
+        {"en": "I prefer tea to coffee.", "pt": "Prefiro chá a café."},
+        {"en": "Would you rather go to the beach or the mountains?", "pt": "Você prefere ir à praia ou às montanhas?"},
+        {"en": "I'd prefer not to talk about it.", "pt": "Prefiro não falar sobre isso."},
+        {"en": "I don't mind. It's up to you.", "pt": "Tanto faz. Você decide."},
+        {"en": "That's a tough choice!", "pt": "Que escolha difícil!"}
+      ],
+      "grammar": {
+        "title": "prefer / would prefer / would rather",
+        "explanation_pt": "**Prefer** → preferência **geral** (sempre):\n- prefer + **substantivo** + **to** + substantivo: \"I prefer **tea to** coffee.\"\n- prefer + **-ing** + **to** + -ing: \"I prefer **walking to** driving.\"\n\n**Would prefer ('d prefer)** → preferência **específica** (agora, nesta situação):\n- 'd prefer + **to** + verbo: \"I'd prefer **to stay** home tonight.\"\n- 'd prefer + substantivo: \"I'd prefer a window seat.\"\n\n**Would rather ('d rather)** → preferência **específica**, muito comum na fala:\n- 'd rather + verbo **base** (sem to!): \"I'd rather **stay** home.\"\n- comparação com **than**: \"I'd rather **walk than take** the bus.\"\n- negativa: \"I'd rather **not** go.\"\n- pergunta: \"**Would you rather** watch a movie **or** go out?\"\n\nResumo das estruturas:\n- prefer A **to** B\n- would prefer **to** do A (**rather than** do B)\n- would rather do A **than** do B",
+        "table": {
+          "headers": ["Estrutura", "Exemplo", "Uso"],
+          "rows": [["prefer + noun + to + noun", "I prefer dogs to cats.", "geral"], ["prefer + -ing + to + -ing", "She prefers reading to watching TV.", "geral"], ["would prefer + to + verbo", "I'd prefer to eat at home.", "específico"], ["would rather + verbo", "I'd rather eat at home.", "específico"], ["would rather + verbo + than + verbo", "I'd rather cook than order food.", "comparação"], ["would rather not", "I'd rather not say.", "recusa educada"]]
+        },
+        "examples": [
+          {"en": "Would you rather live in a big city or a small town?", "pt": "Você preferiria morar numa cidade grande ou numa cidade pequena?"},
+          {"en": "I usually prefer texting to calling, but today I'd rather talk in person.", "pt": "Geralmente prefiro mensagem a ligação, mas hoje prefiro falar pessoalmente."},
+          {"en": "\"Pizza or sushi?\" \"I don't mind. It's up to you.\"", "pt": "\"Pizza ou sushi?\" \"Tanto faz. Você decide.\""}
+        ],
+        "tip_pt": "**I'd rather not** é uma ótima forma educada de recusar sem dar explicações: \"How much do you earn?\" — \"**I'd rather not say.**\""
+      },
+      "common_mistakes": [
+        {"wrong": "I'd rather to stay home.", "right": "I'd rather stay home.", "why_pt": "Would rather + verbo base, sem to."},
+        {"wrong": "I prefer coffee than tea.", "right": "I prefer coffee to tea.", "why_pt": "Prefer A to B (não than)."},
+        {"wrong": "I'd prefer stay home.", "right": "I'd prefer to stay home.", "why_pt": "Would prefer + to + verbo."}
+      ],
+      "pronunciation": {
+        "focus": "I'd rather = \"áid réder\"",
+        "tip_pt": "**I'd rather** soa \"**áid réder**\" (americano) ou \"**áid ráde**\" (britânico). O 'd é curto mas importante — sem ele, \"I rather\" está errado. **Either** e **neither** têm duas pronúncias: \"íder / áider\".",
+        "practice": ["I'd rather stay home.", "Would you rather walk or drive?", "I'd rather not say."]
+      },
+      "dialogue": {
+        "title": "Planning the weekend",
+        "context_pt": "Um casal tenta decidir o que fazer no fim de semana.",
+        "lines": [
+          {"speaker": "Pedro", "en": "So, what do you want to do this weekend? Would you rather go to the beach or stay in the city?", "pt": "Então, o que você quer fazer no fim de semana? Prefere ir à praia ou ficar na cidade?"},
+          {"speaker": "Ana", "en": "Honestly, I'd rather stay in the city. The traffic to the beach on Saturdays is terrible.", "pt": "Sinceramente, prefiro ficar na cidade. O trânsito para a praia aos sábados é terrível."},
+          {"speaker": "Pedro", "en": "Fair enough. There's a food festival in the park. Or we could go to that new exhibition.", "pt": "Justo. Tem um festival gastronômico no parque. Ou podemos ir àquela exposição nova."},
+          {"speaker": "Ana", "en": "I'd prefer the festival. I prefer being outdoors to being in a museum on a sunny day.", "pt": "Prefiro o festival. Prefiro ficar ao ar livre a ficar num museu num dia de sol."},
+          {"speaker": "Pedro", "en": "Great. And on Sunday? Should we have lunch with my parents?", "pt": "Ótimo. E no domingo? Almoçamos com meus pais?"},
+          {"speaker": "Ana", "en": "Hmm, I'd rather not this week. I'm exhausted. Could we just stay home and watch a movie?", "pt": "Hmm, prefiro que não esta semana. Estou exausta. Podemos só ficar em casa e ver um filme?"},
+          {"speaker": "Pedro", "en": "Sure. Comedy or drama?", "pt": "Claro. Comédia ou drama?"},
+          {"speaker": "Ana", "en": "I don't mind. It's up to you — as long as there's popcorn!", "pt": "Tanto faz. Você decide — desde que tenha pipoca!"}
+        ]
+      },
+      "listening": {
+        "title": "\"Would you rather\" game",
+        "context_pt": "Amigos jogam \"Would you rather\" em um podcast de humor.",
+        "lines": [
+          {"speaker": "Host", "en": "OK, first question: would you rather be able to fly or be invisible?"},
+          {"speaker": "Nina", "en": "Fly, definitely. I'd rather save money on plane tickets than spy on people!"},
+          {"speaker": "Host", "en": "Ha! Next: would you rather never use social media again or never watch TV again?"},
+          {"speaker": "Theo", "en": "Tough choice... I'd rather give up social media. I prefer series to scrolling."},
+          {"speaker": "Host", "en": "Last one: would you rather live without music or without coffee?"},
+          {"speaker": "Nina", "en": "Without coffee? Impossible. I'd rather not answer that question!"}
+        ],
+        "questions": [
+          {"q": "What would Nina rather do: fly or be invisible?", "answer": "Fly."},
+          {"q": "Why?", "answer": "She'd rather save money on plane tickets than spy on people."},
+          {"q": "What would Theo rather give up?", "answer": "Social media."},
+          {"q": "How does Nina answer the last question?", "answer": "She'd rather not answer (she can't live without coffee)."}
+        ]
+      },
+      "reading": {
+        "title": "Introverts and extroverts at work",
+        "text": "Some people would rather work in a quiet room alone; others prefer a busy open office full of conversation. Psychologists often describe this difference using the terms introvert and extrovert. Introverts usually prefer deep one-on-one conversations to big group meetings, and many would rather write an email than make a phone call. Extroverts, on the other hand, often get energy from people and prefer brainstorming out loud. Most people, however, are somewhere in the middle — sometimes called ambiverts. The problem is that many workplaces are designed for extroverts: open-plan offices, constant meetings and team-building events. Smart companies now offer options: quiet zones, \"no-meeting\" days and flexible work. After all, people do their best work when they can choose how they work.",
+        "questions": [
+          {"q": "What do introverts usually prefer?", "answer": "Deep one-on-one conversations to big group meetings; writing emails rather than calling."},
+          {"q": "Where do extroverts get energy from?", "answer": "From people."},
+          {"q": "What are ambiverts?", "answer": "People somewhere in the middle."},
+          {"q": "What options do smart companies offer?", "answer": "Quiet zones, no-meeting days and flexible work."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Structures of preference", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+         "items": [{"prompt": "I'd rather ___ home tonight.", "options": ["stay", "to stay", "staying"], "answer": "stay"}, {"prompt": "I'd prefer ___ a taxi.", "options": ["take", "to take", "taking"], "answer": "to take"}, {"prompt": "She prefers swimming ___ running.", "options": ["than", "to", "of"], "answer": "to"}, {"prompt": "I'd rather walk ___ wait for the bus.", "options": ["than", "to", "that"], "answer": "than"}, {"prompt": "\"How old are you?\" \"I'd rather ___ say.\"", "options": ["don't", "not", "no"], "answer": "not"}]},
+        {"id": "ex2", "type": "fill_blank", "title": "Rewrite", "instruction": "Rewrite with the word in parentheses.", "instruction_pt": "Reescreva com a palavra entre parênteses.",
+         "items": [{"prompt": "I prefer to cook at home. (rather) → I'd ___.", "answer": "rather cook at home"}, {"prompt": "I like tea more than coffee. (prefer) → I ___.", "answer": "prefer tea to coffee"}, {"prompt": "I don't want to go out tonight. (rather) → I'd ___ tonight.", "answer": "rather not go out"}]},
+        {"id": "ex3", "type": "translate", "title": "Translate", "instruction": "Translate into English.", "instruction_pt": "Traduza para o inglês.",
+         "items": [{"prompt": "Prefiro caminhar a dirigir.", "answer": "I'd rather walk than drive. / I prefer walking to driving."}, {"prompt": "Tanto faz. Você decide.", "answer": "I don't mind. It's up to you."}, {"prompt": "Você prefere praia ou montanha?", "answer": "Would you rather go to the beach or the mountains?"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "I'd rather stay home tonight."}, {"prompt": "2", "answer": "I prefer tea to coffee."}, {"prompt": "3", "answer": "I'd prefer not to talk about it."}, {"prompt": "4", "answer": "That's a tough choice!"}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "I'd rather to eat later.", "answer": "I'd rather eat later."}, {"prompt": "I prefer summer than winter.", "answer": "I prefer summer to winter."}, {"prompt": "I'd prefer go by train.", "answer": "I'd prefer to go by train."}, {"prompt": "I rather stay here.", "answer": "I'd rather stay here."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the conversation", "instruction": "Complete with: rather · prefer · mind · than · up.", "instruction_pt": "Complete a conversa.",
+         "items": [{"prompt": "A: Would you ___ eat Italian or Japanese?", "answer": "rather"}, {"prompt": "B: I don't ___. It's ___ to you.", "answer": "mind / up"}, {"prompt": "A: OK, Japanese. Would you ___ to sit inside or outside?", "answer": "prefer"}, {"prompt": "B: Inside. I'd rather be warm ___ have a nice view!", "answer": "than"}]}
+      ],
+      "speaking": {
+        "instruction": "Play \"Would you rather...?\" with the SAM-style questions. Always explain your choice with because or than.",
+        "instruction_pt": "Jogue \"Would you rather...?\" com as perguntas no estilo SAM. Sempre explique sua escolha com because ou than.",
+        "questions": ["Would you go on a trip alone?", "Would you live anywhere else? Where?", "Would you rather have a high salary or a lot of free time?", "Would you get a tattoo? Why or why not?", "Would you rather be famous or rich?", "Do you prefer working in a team or alone?"]
+      },
+      "writing": {
+        "task": "Write a short opinion text (120–150 words): \"Would you rather live in a big city or in the countryside?\" Give reasons and use prefer, would rather and would prefer.",
+        "task_pt": "Escreva um texto de opinião curto (120–150 palavras): \"Você preferiria morar numa cidade grande ou no interior?\" Dê motivos e use prefer, would rather e would prefer.",
+        "model": "I was born in São Paulo, and I've always lived in big cities. However, if I had to choose now, I'd rather live in the countryside. I used to prefer the energy of the city to the quiet of small towns, but things have changed. Today I'd rather spend my weekends in nature than in shopping malls, and I prefer cooking with fresh food to ordering delivery. Of course, there are disadvantages: fewer job opportunities and longer distances to hospitals. That's why I'd prefer to live in a small town near a big city, not in the middle of nowhere. With remote work, I think it's possible to have the best of both worlds: a calm life and a good career."
+      },
+      "culture_note": {
+        "title": "\"Either is fine\"",
+        "text_pt": "Quando alguém oferece duas opções e você não tem preferência, diga **\"Either is fine\"** ou **\"I'm easy\"** (informal britânico, = tanto faz). Mas atenção: em algumas culturas, \"I don't mind\" repetido demais pode parecer falta de opinião. Às vezes, é educado escolher!"
+      },
+      "summary_pt": ["prefer A to B (geral).", "would prefer + to + verbo (específico).", "would rather + verbo base + than (específico).", "I'd rather not = prefiro não (recusa educada)."]
+    },
+    {
+      "id": "B1-M4-L3",
+      "title": "Enjoy doing, want to do",
+      "subtitle_pt": "Verb patterns: gerúndio x infinitivo",
+      "duration_min": 60,
+      "source_refs": ["Keynote Intermediate – Unit 1 (verb patterns)", "Top Notch 3A – Unit 4 (gerunds and infinitives)"],
+      "objectives": ["Usar verbos seguidos de -ing (enjoy, avoid, finish, mind...)", "Usar verbos seguidos de to + verbo (want, decide, hope, plan...)", "Usar -ing depois de preposições (interested in, good at...)", "Conhecer verbos que mudam de sentido (stop, remember, try)"],
+      "warmup": {
+        "text_pt": "\"Gosto de cozinhar\", \"decidi viajar\", \"parei de fumar\". Em português, tudo é infinitivo. Em inglês, cada verbo tem seu \"par\" preferido: -ing ou to. Vamos descobrir os mais importantes.",
+        "questions": ["What do you enjoy doing on weekends?", "What have you decided to change this year?"]
+      },
+      "vocabulary": [
+        {"en": "to enjoy (+ -ing)", "pt": "gostar de, curtir", "say": "tu indjói"},
+        {"en": "to avoid (+ -ing)", "pt": "evitar", "say": "tu avóid"},
+        {"en": "to keep (+ -ing)", "pt": "continuar, ficar (fazendo)", "say": "tu kíp"},
+        {"en": "to give up (+ -ing)", "pt": "desistir de, parar de", "say": "tu guív âp"},
+        {"en": "to consider (+ -ing)", "pt": "considerar", "say": "tu konsíder"},
+        {"en": "to decide (+ to)", "pt": "decidir", "say": "tu disáid"},
+        {"en": "to hope / to expect (+ to)", "pt": "esperar (ter esperança / expectativa)", "say": "tu rôup / tu ikspékt"},
+        {"en": "to afford (+ to)", "pt": "ter condições de (pagar)", "say": "tu afórd"},
+        {"en": "to refuse (+ to)", "pt": "recusar-se a", "say": "tu rifiúz"},
+        {"en": "to promise (+ to)", "pt": "prometer", "say": "tu prómis"},
+        {"en": "to look forward to (+ -ing)", "pt": "estar ansioso por (positivo)", "say": "tu luk fóruard tu"},
+        {"en": "to be used to (+ -ing)", "pt": "estar acostumado a", "say": "tu bí iúst tu"}
+      ],
+      "chunks": [
+        {"en": "I enjoy cooking for friends.", "pt": "Gosto de cozinhar para os amigos."},
+        {"en": "I've decided to learn Spanish.", "pt": "Decidi aprender espanhol."},
+        {"en": "I'm thinking of changing jobs.", "pt": "Estou pensando em mudar de emprego."},
+        {"en": "I can't afford to travel this year.", "pt": "Não tenho condições de viajar este ano."},
+        {"en": "I look forward to hearing from you.", "pt": "Aguardo seu retorno."},
+        {"en": "I'm not used to waking up early.", "pt": "Não estou acostumado a acordar cedo."}
+      ],
+      "grammar": {
+        "title": "Verb + -ing / verb + to",
+        "explanation_pt": "**1. Verbos + -ing (gerúndio):**\nenjoy, avoid, finish, mind, keep, give up, consider, suggest, miss, practice, can't stand, don't mind\n\"I **enjoy reading**.\" / \"She **gave up smoking**.\" / \"Do you **mind waiting**?\"\n\n**2. Verbos + to + verbo (infinitivo):**\nwant, need, decide, hope, plan, expect, agree, refuse, promise, learn, afford, manage, offer, would like\n\"I **want to travel**.\" / \"They **decided to move**.\" / \"I can't **afford to buy** a car.\"\n\n**3. Preposição + -ing (sempre!):**\n\"I'm interested **in learning**.\" / \"She's good **at drawing**.\" / \"Thanks **for coming**.\" / \"I'm thinking **of moving**.\" / \"**Before leaving**, check the windows.\"\nAtenção: **look forward to** e **be used to** terminam em preposição **to**, então pedem **-ing**: \"I look forward to **meeting** you.\"\n\n**4. Verbos que mudam de sentido:**\n- **stop + -ing** = parar de fazer: \"I **stopped smoking**.\" · **stop + to** = parar para fazer: \"I **stopped to buy** water.\"\n- **remember + to** = lembrar de fazer (antes): \"**Remember to lock** the door!\" · **remember + -ing** = lembrar de ter feito: \"I **remember meeting** him in 2010.\"\n- **try + to** = tentar (esforço): \"I **tried to open** the jar.\" · **try + -ing** = experimentar: \"**Try drinking** tea with ginger.\"\n\n**5. Like, love, hate, start, begin, continue** → aceitam os dois com pouca diferença: \"I like **swimming** / **to swim**.\"",
+        "table": {
+          "headers": ["+ -ing", "+ to + verbo", "preposição + -ing"],
+          "rows": [["enjoy cooking", "want to cook", "good at cooking"], ["avoid driving", "decide to drive", "afraid of driving"], ["finish working", "plan to work", "tired of working"], ["miss living there", "hope to live there", "used to living there"], ["suggest going", "agree to go", "look forward to going"]]
+        },
+        "examples": [
+          {"en": "I've been considering moving abroad, but I can't afford to leave my job yet.", "pt": "Tenho considerado morar fora, mas ainda não tenho condições de deixar meu emprego."},
+          {"en": "Remember to send the report! — Don't worry, I remember sending it yesterday.", "pt": "Lembre de enviar o relatório! — Não se preocupe, lembro de ter enviado ontem."},
+          {"en": "I'm really looking forward to seeing you next week.", "pt": "Estou muito ansioso para te ver semana que vem."}
+        ],
+        "tip_pt": "Aprenda esses verbos **em chunks**, não em listas: \"enjoy doing\", \"want to do\", \"good at doing\", \"look forward to doing\". Repetir os blocos é mais eficiente que decorar regras."
+      },
+      "common_mistakes": [
+        {"wrong": "I enjoy to cook.", "right": "I enjoy cooking.", "why_pt": "Enjoy + -ing."},
+        {"wrong": "I look forward to see you.", "right": "I look forward to seeing you.", "why_pt": "Look forward to + -ing (o to é preposição)."},
+        {"wrong": "I'm interested in learn Japanese.", "right": "I'm interested in learning Japanese.", "why_pt": "Depois de preposição, sempre -ing."}
+      ],
+      "pronunciation": {
+        "focus": "Want to = \"wanna\", going to = \"gonna\", have to = \"hafta\"",
+        "tip_pt": "Com verbos + to, a fala informal funde as palavras: **want to** → \"**wâna**\", **got to** → \"**gára**\", **have to** → \"**réfta**\". Você vai ouvir muito em séries: \"I wanna go\", \"I gotta go\". Use na fala informal; na escrita, a forma completa.",
+        "practice": ["I want to go. (\"ái wâna gôu\")", "I've got to leave. (\"áiv gára lív\")", "I enjoy cooking."]
+      },
+      "dialogue": {
+        "title": "Career crossroads",
+        "context_pt": "Duas amigas conversam sobre mudanças de vida durante uma caminhada.",
+        "lines": [
+          {"speaker": "Luana", "en": "I've decided to quit my job.", "pt": "Decidi pedir demissão."},
+          {"speaker": "Jade", "en": "Really? I thought you enjoyed working there.", "pt": "Sério? Achei que você gostava de trabalhar lá."},
+          {"speaker": "Luana", "en": "I used to. But I can't stand spending four hours a day in traffic. I've been thinking of starting my own business.", "pt": "Gostava. Mas não aguento passar quatro horas por dia no trânsito. Tenho pensado em abrir meu próprio negócio."},
+          {"speaker": "Jade", "en": "Wow. What kind of business?", "pt": "Uau. Que tipo de negócio?"},
+          {"speaker": "Luana", "en": "A bakery. I've always been good at baking, and I miss doing something creative.", "pt": "Uma padaria. Sempre fui boa em confeitaria e sinto falta de fazer algo criativo."},
+          {"speaker": "Jade", "en": "That's amazing! Can you afford to stop working for a while?", "pt": "Que incrível! Você tem condições de parar de trabalhar por um tempo?"},
+          {"speaker": "Luana", "en": "I've managed to save some money. And I've promised myself to try for one year. If it doesn't work, I'll go back to an office job.", "pt": "Consegui economizar um dinheiro. E prometi a mim mesma tentar por um ano. Se não der certo, volto para um escritório."},
+          {"speaker": "Jade", "en": "I'm looking forward to tasting your bread! Remember to save me a croissant.", "pt": "Estou ansiosa para provar seu pão! Lembre de guardar um croissant para mim."}
+        ]
+      },
+      "listening": {
+        "title": "Habit coach",
+        "context_pt": "Um coach de hábitos dá dicas em um vídeo curto.",
+        "lines": [
+          {"speaker": "Coach", "en": "Want to build better habits? Here's my advice. First, avoid trying to change everything at once. Choose one habit and practice doing it every day. Second, stop waiting for motivation — it comes after you start, not before. Third, if you keep forgetting, remember to attach your new habit to an old one: \"After brushing my teeth, I'll read for ten minutes.\" And finally, don't give up doing it if you miss one day. Nobody's perfect. I look forward to hearing about your progress!"}
+        ],
+        "questions": [
+          {"q": "What should you avoid?", "answer": "Trying to change everything at once."},
+          {"q": "When does motivation come, according to the coach?", "answer": "After you start, not before."},
+          {"q": "How can you remember a new habit?", "answer": "Attach it to an old one (e.g., after brushing your teeth)."},
+          {"q": "What should you do if you miss one day?", "answer": "Not give up (keep going)."}
+        ]
+      },
+      "reading": {
+        "title": "Why we procrastinate",
+        "text": "We all know the feeling: you need to finish a report, but you keep checking your phone, cleaning your desk, or watching \"just one more\" video. Most people think procrastination is about being lazy, but psychologists disagree. Research suggests that procrastination is mainly about avoiding negative emotions — boredom, anxiety, fear of failure. When a task makes us feel bad, our brain decides to look for something more pleasant. So how can we stop procrastinating? Experts suggest breaking big tasks into tiny steps (\"open the document\" instead of \"write the report\"), using a timer to work for just 25 minutes, and forgiving yourself for procrastinating in the past. Interestingly, people who forgive themselves are less likely to procrastinate again. Now, stop reading and go do that thing you've been avoiding!",
+        "questions": [
+          {"q": "What do most people think procrastination is about?", "answer": "Being lazy."},
+          {"q": "What is it really about, according to research?", "answer": "Avoiding negative emotions (boredom, anxiety, fear of failure)."},
+          {"q": "Give two tips from experts.", "answer": "Break tasks into tiny steps, use a 25-minute timer, forgive yourself."},
+          {"q": "What's interesting about people who forgive themselves?", "answer": "They're less likely to procrastinate again."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "-ing or to?", "instruction": "Choose the correct form.", "instruction_pt": "Escolha a forma correta.",
+         "items": [{"prompt": "I enjoy ___ new restaurants.", "options": ["trying", "to try"], "answer": "trying"}, {"prompt": "We've decided ___ a house.", "options": ["buying", "to buy"], "answer": "to buy"}, {"prompt": "She avoids ___ at night.", "options": ["driving", "to drive"], "answer": "driving"}, {"prompt": "I can't afford ___ a new car.", "options": ["buying", "to buy"], "answer": "to buy"}, {"prompt": "He's good at ___ people laugh.", "options": ["making", "to make"], "answer": "making"}, {"prompt": "I hope ___ you soon.", "options": ["seeing", "to see"], "answer": "to see"}]},
+        {"id": "ex2", "type": "fill_blank", "title": "Verb patterns", "instruction": "Complete with the correct form of the verb in parentheses.", "instruction_pt": "Complete com a forma correta do verbo.",
+         "items": [{"prompt": "I'm thinking of ___ (move) to Portugal.", "answer": "moving"}, {"prompt": "They agreed ___ (help) us.", "answer": "to help"}, {"prompt": "Do you mind ___ (open) the window?", "answer": "opening"}, {"prompt": "I look forward to ___ (hear) from you.", "answer": "hearing"}, {"prompt": "She's finally given up ___ (smoke).", "answer": "smoking"}]},
+        {"id": "ex3", "type": "multiple_choice", "title": "stop, remember, try", "instruction": "Choose the option that matches the meaning.", "instruction_pt": "Escolha a opção que corresponde ao sentido.",
+         "items": [{"prompt": "Parei de comer carne.", "options": ["I stopped eating meat.", "I stopped to eat meat."], "answer": "I stopped eating meat."}, {"prompt": "Paramos para tomar um café.", "options": ["We stopped having coffee.", "We stopped to have coffee."], "answer": "We stopped to have coffee."}, {"prompt": "Lembre de trancar a porta!", "options": ["Remember locking the door!", "Remember to lock the door!"], "answer": "Remember to lock the door!"}, {"prompt": "Experimente beber água com limão.", "options": ["Try drinking water with lemon.", "Try to drink water with lemon."], "answer": "Try drinking water with lemon."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "I've decided to learn Spanish."}, {"prompt": "2", "answer": "I'm thinking of changing jobs."}, {"prompt": "3", "answer": "I look forward to hearing from you."}, {"prompt": "4", "answer": "I'm not used to waking up early."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "I want learning English.", "answer": "I want to learn English."}, {"prompt": "I'm used to wake up at 6.", "answer": "I'm used to waking up at 6."}, {"prompt": "She suggested to go to the beach.", "answer": "She suggested going to the beach."}, {"prompt": "Thanks for help me.", "answer": "Thanks for helping me."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the email", "instruction": "Complete with the correct form: work · join · meet · hear · learn.", "instruction_pt": "Complete o e-mail com a forma correta.",
+         "items": [{"prompt": "Dear Ms. Clark, I'm very interested in ___ for your company.", "answer": "working"}, {"prompt": "I would love to ___ your team in Toronto.", "answer": "join"}, {"prompt": "I'm always keen to ___ new skills.", "answer": "learn"}, {"prompt": "I hope to ___ you soon, and I look forward to ___ from you.", "answer": "meet / hearing"}]}
+      ],
+      "speaking": {
+        "instruction": "Talk about your life using verb patterns. Your partner must use at least 3 verbs from each group (-ing / to / preposition + -ing).",
+        "instruction_pt": "Fale sobre sua vida usando verb patterns. O colega deve usar pelo menos 3 verbos de cada grupo (-ing / to / preposição + -ing).",
+        "questions": ["What do you enjoy doing in your free time?", "What do you avoid doing if you can?", "What have you decided to change this year?", "What are you looking forward to?", "What did you stop doing that you miss?", "What are you good at? What aren't you good at?"]
+      },
+      "writing": {
+        "task": "Write a cover letter paragraph (120–150 words) for a job or course you want. Use at least 8 verb patterns correctly.",
+        "task_pt": "Escreva um parágrafo de carta de apresentação (120–150 palavras) para uma vaga ou curso que você quer. Use pelo menos 8 verb patterns corretamente.",
+        "model": "Dear Hiring Manager,\nI am writing to apply for the position of Customer Success Analyst. I have always enjoyed helping people solve problems, and I am particularly interested in working for a company that values innovation. In my current role, I have managed to reduce response times by 30%, and I have learned to use several CRM tools. I am used to working with international clients, and I am good at explaining complex information in a simple way. Although I am happy in my current job, I have decided to look for new challenges in a global environment. I would love to contribute to your team, and I am willing to relocate if necessary. Thank you for considering my application. I look forward to hearing from you.\nSincerely,\nCamila Torres"
+      },
+      "culture_note": {
+        "title": "\"Looking forward to...\" nos e-mails",
+        "text_pt": "**\"I look forward to hearing from you\"** é a frase de encerramento mais comum em e-mails formais em inglês. Versões mais informais: **\"Looking forward to it!\"**, **\"Can't wait!\"**, **\"Talk soon!\"**. Lembre: sempre com **-ing** depois de forward to."
+      },
+      "summary_pt": ["enjoy / avoid / finish / mind / keep + -ing.", "want / decide / hope / plan / afford + to.", "Preposição + -ing (good at doing, look forward to doing).", "stop / remember / try mudam de sentido."]
+    },
+    {
+      "id": "B1-M4-L4",
+      "title": "Who did you ask?",
+      "subtitle_pt": "Subject x object questions e recomendações",
+      "duration_min": 55,
+      "source_refs": ["Top Notch 3A – Unit 3 (recommendations)", "Keynote Intermediate – Unit 6 (subject and object questions)"],
+      "objectives": ["Diferenciar perguntas de sujeito (Who called?) e de objeto (Who did you call?)", "Usar who, what, which em perguntas de sujeito sem auxiliar", "Pedir e dar recomendações de profissionais e serviços", "Fazer perguntas indiretas simples (Do you know who...?)"],
+      "warmup": {
+        "text_pt": "\"Quem te ligou?\" e \"Para quem você ligou?\" — em português a diferença é pequena, mas em inglês a estrutura da pergunta muda completamente!",
+        "questions": ["Who recommended this course to you?", "Who do you ask for recommendations?"]
+      },
+      "vocabulary": [
+        {"en": "to recommend (someone / something)", "pt": "recomendar", "say": "tu rekoménd"},
+        {"en": "word of mouth", "pt": "boca a boca", "say": "uârd ov máuθ"},
+        {"en": "reliable / trustworthy", "pt": "confiável", "say": "riláiabol / trâstuârdi"},
+        {"en": "reasonable (price)", "pt": "razoável (preço)", "say": "rízonabol"},
+        {"en": "skilled", "pt": "habilidoso, qualificado", "say": "skild"},
+        {"en": "plumber / electrician", "pt": "encanador / eletricista", "say": "plâmer / iletríshan"},
+        {"en": "accountant / lawyer", "pt": "contador / advogado", "say": "akáuntant / lóier"},
+        {"en": "dentist / vet", "pt": "dentista / veterinário", "say": "déntist / vét"},
+        {"en": "to rip (someone) off / a rip-off", "pt": "explorar, cobrar caro / um roubo", "say": "tu rip óf / a ríp óf"},
+        {"en": "to come highly recommended", "pt": "vir muito bem recomendado", "say": "tu kâm ráili rekoméndid"},
+        {"en": "referral", "pt": "indicação", "say": "rifâral"},
+        {"en": "to vouch for", "pt": "garantir, responder por", "say": "tu váutch for"}
+      ],
+      "chunks": [
+        {"en": "Who told you about it?", "pt": "Quem te contou sobre isso?"},
+        {"en": "Who did you talk to?", "pt": "Com quem você falou?"},
+        {"en": "Can you recommend a good dentist?", "pt": "Você pode recomendar um bom dentista?"},
+        {"en": "She comes highly recommended.", "pt": "Ela vem muito bem recomendada."},
+        {"en": "I can vouch for him.", "pt": "Eu garanto o trabalho dele."},
+        {"en": "Do you know who fixed it?", "pt": "Você sabe quem consertou?"}
+      ],
+      "grammar": {
+        "title": "Subject x object questions",
+        "explanation_pt": "Quando a pergunta é sobre o **objeto** (quem **recebe** a ação), use o auxiliar normal (do/does/did):\n- \"**Who did** you **call**?\" → \"I called **my mom**.\" (você ligou para alguém — quem?)\n- \"**What did** she **buy**?\" → \"She bought **a car**.\"\n\nQuando a pergunta é sobre o **sujeito** (quem **faz** a ação), **não use auxiliar** — a question word **é** o sujeito e o verbo fica na forma afirmativa:\n- \"**Who called** you?\" → \"**My mom** called me.\" (alguém ligou — quem?)\n- \"**What happened**?\" (❌ \"What did happen?\")\n- \"**Which** app **works** best?\"\n- \"**How many people came** to the party?\"\n\nCompare:\n- **Who loves** Ana? (alguém ama a Ana — quem?) → Pedro loves Ana.\n- **Who does** Ana **love**? (a Ana ama alguém — quem?) → Ana loves Pedro.\n\n**Perguntas indiretas** (mais educadas): depois de \"Do you know...?\" / \"Can you tell me...?\", use a ordem de **afirmativa**:\n- \"Where **is** the bank?\" → \"Do you know where **the bank is**?\"\n- \"Who **did** you **call**?\" → \"Can you tell me who **you called**?\"",
+        "table": {
+          "headers": ["Pergunta de sujeito (sem auxiliar)", "Pergunta de objeto (com auxiliar)"],
+          "rows": [["Who called you?", "Who did you call?"], ["Who recommended this place?", "Who did you recommend?"], ["What made you laugh?", "What did you make?"], ["Which team won?", "Which team did you support?"], ["How many people live here?", "How many people do you know here?"]]
+        },
+        "examples": [
+          {"en": "Who fixed your laptop? — A guy my brother recommended.", "pt": "Quem consertou seu notebook? — Um cara que meu irmão indicou."},
+          {"en": "Who did you hire to paint the house?", "pt": "Quem você contratou para pintar a casa?"},
+          {"en": "Do you know who designed this logo?", "pt": "Você sabe quem fez esse logo?"}
+        ],
+        "tip_pt": "**What happened?** e **Who knows?** são perguntas de sujeito superfrequentes — nunca use \"did\" nelas."
+      },
+      "common_mistakes": [
+        {"wrong": "What did happen?", "right": "What happened?", "why_pt": "What é o sujeito: sem auxiliar."},
+        {"wrong": "Who did call you?", "right": "Who called you?", "why_pt": "Who é o sujeito (quem ligou): sem auxiliar."},
+        {"wrong": "Do you know where is the station?", "right": "Do you know where the station is?", "why_pt": "Perguntas indiretas usam ordem de afirmativa."}
+      ],
+      "pronunciation": {
+        "focus": "Entonação em perguntas indiretas",
+        "tip_pt": "Perguntas indiretas que começam com **Do you know / Can you tell me** têm entonação de pergunta de sim/não — sobem no final: \"Do you know where the station is? ↗\". Isso as deixa mais suaves e educadas.",
+        "practice": ["Who called you? ↘", "Who did you call? ↘", "Do you know who fixed it? ↗"]
+      },
+      "dialogue": {
+        "title": "Finding a good plumber",
+        "context_pt": "Uma moradora pede indicação de encanador no grupo do prédio e depois conversa com a vizinha.",
+        "lines": [
+          {"speaker": "Rosa", "en": "Hi, Ellen. I've got a leak in my kitchen. Can you recommend a good plumber?", "pt": "Oi, Ellen. Estou com um vazamento na cozinha. Você pode recomendar um bom encanador?"},
+          {"speaker": "Ellen", "en": "Sure. Who fixed your bathroom last year? Wasn't he good?", "pt": "Claro. Quem consertou seu banheiro ano passado? Ele não era bom?"},
+          {"speaker": "Rosa", "en": "No, he was a total rip-off! He charged me twice the quote.", "pt": "Não, ele foi um roubo! Cobrou o dobro do orçamento."},
+          {"speaker": "Ellen", "en": "Oh no. Well, I use a guy called Marcos. He comes highly recommended — half the building uses him.", "pt": "Ah não. Bom, eu uso um rapaz chamado Marcos. Ele vem muito bem recomendado — metade do prédio usa."},
+          {"speaker": "Rosa", "en": "Who recommended him to you?", "pt": "Quem te indicou ele?"},
+          {"speaker": "Ellen", "en": "The building manager. And I can vouch for him: he's reliable and his prices are reasonable.", "pt": "O síndico. E eu garanto: ele é confiável e os preços são razoáveis."},
+          {"speaker": "Rosa", "en": "Perfect. Do you know if he works on Saturdays?", "pt": "Perfeito. Você sabe se ele trabalha aos sábados?"},
+          {"speaker": "Ellen", "en": "I think so. I'll send you his number. Tell him I sent you!", "pt": "Acho que sim. Vou te mandar o número dele. Diga que fui eu que indiquei!"}
+        ]
+      },
+      "listening": {
+        "title": "Office mystery",
+        "context_pt": "Colegas tentam descobrir quem fez uma surpresa no escritório.",
+        "lines": [
+          {"speaker": "Mark", "en": "Who brought this cake? It's delicious!"},
+          {"speaker": "Rita", "en": "I don't know. Who arrived first this morning?"},
+          {"speaker": "Mark", "en": "Igor did. Igor, did you bring the cake?"},
+          {"speaker": "Igor", "en": "No, but I saw who put it there. It was the new intern, Bia."},
+          {"speaker": "Rita", "en": "Really? What did she say?"},
+          {"speaker": "Igor", "en": "She said it's her birthday and she wanted to thank everyone for helping her in her first month. Who wants to sign the card for her?"}
+        ],
+        "questions": [
+          {"q": "Who arrived first?", "answer": "Igor."},
+          {"q": "Who brought the cake?", "answer": "Bia, the new intern."},
+          {"q": "Why did she bring it?", "answer": "It's her birthday and she wanted to thank everyone for helping her."},
+          {"q": "What does Igor suggest at the end?", "answer": "Signing a card for her."}
+        ]
+      },
+      "reading": {
+        "title": "The power of word of mouth",
+        "text": "Who do you trust more: an advertisement or a friend? For most people, the answer is obvious. Marketing studies have repeatedly shown that personal recommendations are among the most trusted forms of advertising. That's why so many businesses invest in referral programs: \"Recommend a friend and you both get 20% off.\" Online reviews have become a digital version of word of mouth — but they have a problem. Who writes them? Some companies pay for fake five-star reviews, and some competitors post fake negative ones. How can you tell what's real? Experts suggest reading the three-star reviews, which are often the most honest, looking for specific details, and checking whether the same reviewer has written many similar reviews. And, of course, asking someone you actually know.",
+        "questions": [
+          {"q": "What have marketing studies shown?", "answer": "Personal recommendations are among the most trusted forms of advertising."},
+          {"q": "How do referral programs work?", "answer": "You recommend a friend and you both get a discount."},
+          {"q": "What's the problem with online reviews?", "answer": "Some are fake (paid positive or competitors' negative)."},
+          {"q": "Why should you read three-star reviews?", "answer": "They're often the most honest."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Subject or object?", "instruction": "Choose the correct question.", "instruction_pt": "Escolha a pergunta correta.",
+         "items": [{"prompt": "Alguém te ligou. Quem?", "options": ["Who called you?", "Who did you call?"], "answer": "Who called you?"}, {"prompt": "Você ligou para alguém. Para quem?", "options": ["Who called you?", "Who did you call?"], "answer": "Who did you call?"}, {"prompt": "O que aconteceu?", "options": ["What happened?", "What did happen?"], "answer": "What happened?"}, {"prompt": "Qual time ganhou?", "options": ["Which team won?", "Which team did win?"], "answer": "Which team won?"}]},
+        {"id": "ex2", "type": "answer", "title": "Write the question", "instruction": "Write a question for the words in CAPS.", "instruction_pt": "Escreva uma pergunta para as palavras em CAPS.",
+         "items": [{"prompt": "MY SISTER recommended this restaurant.", "answer": "Who recommended this restaurant?"}, {"prompt": "I recommended THIS RESTAURANT.", "answer": "What did you recommend?"}, {"prompt": "THE STORM broke the window.", "answer": "What broke the window?"}, {"prompt": "Lia invited PEDRO to the party.", "answer": "Who did Lia invite to the party?"}]},
+        {"id": "ex3", "type": "order_words", "title": "Indirect questions", "instruction": "Put the words in order to make polite indirect questions.", "instruction_pt": "Organize as palavras para formar perguntas indiretas educadas.",
+         "items": [{"prompt": "know / do / you / the pharmacy / where / is / ?", "answer": "Do you know where the pharmacy is?"}, {"prompt": "tell / me / can / you / fixed / who / it / ?", "answer": "Can you tell me who fixed it?"}, {"prompt": "know / do / you / costs / how much / it / ?", "answer": "Do you know how much it costs?"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "Who told you about it?"}, {"prompt": "2", "answer": "Who did you talk to?"}, {"prompt": "3", "answer": "Can you recommend a good dentist?"}, {"prompt": "4", "answer": "Do you know who fixed it?"}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "Who did break the vase?", "answer": "Who broke the vase?"}, {"prompt": "What did happen yesterday?", "answer": "What happened yesterday?"}, {"prompt": "Who you saw at the party?", "answer": "Who did you see at the party?"}, {"prompt": "Do you know what time does the store open?", "answer": "Do you know what time the store opens?"}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the conversation", "instruction": "Complete with: recommended · vouch · who · reliable · did.", "instruction_pt": "Complete a conversa.",
+         "items": [{"prompt": "A: Your website looks amazing! ___ designed it?", "answer": "Who"}, {"prompt": "B: A freelancer my cousin ___.", "answer": "recommended"}, {"prompt": "A: How ___ you find your cousin's freelancer? Was he expensive?", "answer": "did"}, {"prompt": "B: Not at all, and he's very ___. I can ___ for him.", "answer": "reliable / vouch"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Recommendation exchange\": each person needs a professional (dentist, mechanic, hairdresser...). Ask the group for recommendations and find out who recommended whom.",
+        "instruction_pt": "\"Troca de recomendações\": cada pessoa precisa de um profissional (dentista, mecânico, cabeleireiro...). Peça recomendações ao grupo e descubra quem indicou quem.",
+        "questions": ["Who taught you to ride a bike?", "Who did you call last?", "What made you start studying English?", "Who do you ask for recommendations? Why?", "What's the best thing someone has ever recommended to you?"]
+      },
+      "writing": {
+        "task": "Write a message (80–100 words) recommending a professional or business you trust to a friend. Say who it is, who recommended them to you and why you can vouch for them.",
+        "task_pt": "Escreva uma mensagem (80–100 palavras) recomendando a um amigo um profissional ou negócio em que você confia. Diga quem é, quem indicou para você e por que você garante.",
+        "model": "Hi Carol! You asked who did my kitchen, right? It was a guy called Seu Jorge — he's a carpenter and he comes highly recommended. My neighbor recommended him after he built her wardrobe, and I've had three things done by him since then. He's reliable, he always gives you a fair quote before starting, and he finishes on time (rare!). He isn't the cheapest, but he's definitely not a rip-off. I can vouch for him 100%. I'll send you his number — tell him I sent you! 😊"
+      },
+      "culture_note": {
+        "title": "Referências no mercado de trabalho",
+        "text_pt": "Em países de língua inglesa, **references** (referências) e **referrals** (indicações) têm grande peso em contratações. É comum o empregador ligar para um ex-chefe seu. E muitas vagas são preenchidas por indicação interna — por isso o **networking** é tão valorizado."
+      },
+      "summary_pt": ["Pergunta de sujeito: Who called? (sem auxiliar).", "Pergunta de objeto: Who did you call? (com auxiliar).", "What happened? (nunca \"did happen\").", "Indiretas: Do you know where the station is?"]
+    }
+  ],
+  "review": {
+    "intro_pt": "Revise causative, preferências, verb patterns e perguntas de sujeito/objeto.",
+    "exercises": [
+      {"id": "r1", "type": "multiple_choice", "title": "Choose the correct option", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+       "items": [{"prompt": "I need to ___ my car repaired.", "options": ["get", "do", "make"], "answer": "get"}, {"prompt": "I'd rather ___ by train.", "options": ["go", "to go", "going"], "answer": "go"}, {"prompt": "She's thinking of ___ abroad.", "options": ["study", "to study", "studying"], "answer": "studying"}, {"prompt": "Who ___ you this book?", "options": ["gave", "did give", "did gave"], "answer": "gave"}, {"prompt": "I prefer tea ___ coffee.", "options": ["than", "to", "of"], "answer": "to"}]},
+      {"id": "r2", "type": "fill_blank", "title": "Mixed practice", "instruction": "Complete with the correct form.", "instruction_pt": "Complete com a forma correta.",
+       "items": [{"prompt": "I had my eyes ___ (test) last week.", "answer": "tested"}, {"prompt": "We decided ___ (stay) home.", "answer": "to stay"}, {"prompt": "I look forward to ___ (meet) you.", "answer": "meeting"}, {"prompt": "Who ___ (call) you last night?", "answer": "called"}]},
+      {"id": "r3", "type": "translate", "title": "Translate", "instruction": "Translate into English.", "instruction_pt": "Traduza para o inglês.",
+       "items": [{"prompt": "Cortei o cabelo ontem (no salão).", "answer": "I got my hair cut yesterday."}, {"prompt": "Prefiro não falar sobre isso.", "answer": "I'd rather not talk about it."}, {"prompt": "O que aconteceu?", "answer": "What happened?"}]},
+      {"id": "r4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+       "items": [{"prompt": "1", "answer": "Where can I get this printed?"}, {"prompt": "2", "answer": "I'd rather walk than take the bus."}, {"prompt": "3", "answer": "I've decided to quit my job."}]},
+      {"id": "r5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+       "items": [{"prompt": "I enjoy to travel.", "answer": "I enjoy traveling."}, {"prompt": "Who did fix your phone?", "answer": "Who fixed your phone?"}, {"prompt": "I'd rather to eat at home.", "answer": "I'd rather eat at home."}]}
+    ],
+    "speaking_pt": "Grave um áudio de 2 minutos falando sobre sua \"lista de serviços e preferências\": o que você manda fazer e o que faz sozinho, suas preferências de estilo de vida e algo que decidiu mudar.",
+    "speaking_questions": ["What have you had done recently?", "Would you rather fix things yourself or pay someone?", "What do you enjoy doing that most people don't?", "What have you decided to do differently this year?", "Who has influenced you the most? What did they teach you?"],
+    "project_pt": "**Neighborhood guide:** crie em grupo um guia de serviços confiáveis do seu bairro ou cidade em inglês (cabeleireiro, mecânico, costureira, assistência técnica...). Para cada um: o que você pode mandar fazer, preço aproximado, quem recomendou e por quê."
+  }
+}

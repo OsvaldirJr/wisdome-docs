@@ -1,0 +1,520 @@
+{
+  "id": "A2-M1",
+  "level": "A2",
+  "title": "Who Are You Now?",
+  "theme_pt": "Verb to be em profundidade, sentimentos, internet, datas e posse",
+  "can_do": ["Usar o verbo to be com segurança em todas as formas", "Falar sobre sentimentos e estados (hungry, late, nervous)", "Fazer perguntas com question words + to be", "Dizer datas, aniversários e números ordinais", "Perguntar e dizer de quem é algo (whose, mine, yours)"],
+  "lessons": [
+    {
+      "id": "A2-M1-L1",
+      "title": "I'm not a morning person",
+      "subtitle_pt": "To be: ser x estar, sentimentos e estados",
+      "duration_min": 55,
+      "source_refs": ["To Go A2 – Lessons 1-5 (verb to be, adjectives)", "To Go A2 – Questions TG (Lesson One)"],
+      "objectives": ["Usar to be para características e estados", "Falar sobre como você está se sentindo", "Usar contrações na fala natural", "Responder com respostas curtas"],
+      "warmup": {
+        "text_pt": "No A1 você aprendeu o verbo to be. Agora vamos usá-lo de verdade: para falar de **sentimentos**, **estados** e **personalidade**. Como você está agora? Com fome? Cansado? Animado?",
+        "questions": ["How are you today, really?", "Are you a morning person or a night owl?"]
+      },
+      "vocabulary": [
+        {"en": "hungry / thirsty", "pt": "com fome / com sede", "say": "rângri / θârsti"},
+        {"en": "tired / sleepy", "pt": "cansado / com sono", "say": "táierd / slípi"},
+        {"en": "late / early", "pt": "atrasado / adiantado, cedo", "say": "lêit / ârli"},
+        {"en": "busy", "pt": "ocupado", "say": "bízi"},
+        {"en": "nervous / stressed", "pt": "nervoso / estressado", "say": "nârvas / strést"},
+        {"en": "excited", "pt": "animado, empolgado", "say": "iksáirid"},
+        {"en": "bored", "pt": "entediado", "say": "bórd"},
+        {"en": "sick", "pt": "doente", "say": "sik"},
+        {"en": "interested (in)", "pt": "interessado (em)", "say": "íntrestid"},
+        {"en": "afraid (of)", "pt": "com medo (de)", "say": "afrêid"},
+        {"en": "a morning person / a night owl", "pt": "pessoa matinal / pessoa noturna", "say": "a mórnin pârson / a náit ául"},
+        {"en": "in a good mood / in a bad mood", "pt": "de bom humor / de mau humor", "say": "in a gud múd"}
+      ],
+      "chunks": [
+        {"en": "I'm starving!", "pt": "Estou morrendo de fome!"},
+        {"en": "I'm running late.", "pt": "Estou atrasado(a)."},
+        {"en": "I'm not in the mood.", "pt": "Não estou no clima."},
+        {"en": "Are you OK? You look tired.", "pt": "Você está bem? Parece cansado(a)."},
+        {"en": "I'm so excited about the trip!", "pt": "Estou tão animado(a) com a viagem!"}
+      ],
+      "grammar": {
+        "title": "To be para estados e sentimentos",
+        "explanation_pt": "Em português, usamos **ter** e **estar** para várias sensações: \"**tenho** fome\", \"**tenho** medo\", \"**estou** atrasado\". Em inglês, **todas** usam **to be**:\n\n- tenho fome → **I'm hungry**\n- tenho medo de altura → **I'm afraid of heights**\n- tenho 30 anos → **I'm 30**\n- estou com frio → **I'm cold**\n\nNa fala, use sempre as **contrações**: I'm, you're, he's, she's, it's, we're, they're / isn't, aren't. Na negativa, há duas formas: **you aren't** = **you're not**, **he isn't** = **he's not** (ambas corretas).\n\nPara intensificar: **so** (tão), **really** (muito), **a bit** (um pouco).",
+        "table": {
+          "headers": ["Português", "Inglês (to be)"],
+          "rows": [["Tenho fome / sede", "I'm hungry / thirsty"], ["Tenho frio / calor", "I'm cold / hot"], ["Tenho medo de...", "I'm afraid of..."], ["Tenho razão", "I'm right"], ["Tenho sorte", "I'm lucky"], ["Estou com pressa", "I'm in a hurry"]]
+        },
+        "examples": [
+          {"en": "I'm so hungry. Is the food ready?", "pt": "Estou com tanta fome. A comida está pronta?"},
+          {"en": "She's not a morning person. She's always in a bad mood before coffee.", "pt": "Ela não é uma pessoa matinal. Sempre está de mau humor antes do café."},
+          {"en": "We're a bit nervous about the interview.", "pt": "Estamos um pouco nervosos com a entrevista."}
+        ],
+        "tip_pt": "Cuidado com **-ed** x **-ing**: **bored** = entediado (como você se sente); **boring** = chato (como algo é). \"I'm bored\" ≠ \"I'm boring\" (eu sou chato)! O mesmo com excited/exciting, interested/interesting, tired/tiring."
+      },
+      "common_mistakes": [
+        {"wrong": "I have hungry.", "right": "I'm hungry.", "why_pt": "Sensações como fome, sede, frio, calor e medo usam to be."},
+        {"wrong": "I'm boring in this class.", "right": "I'm bored in this class.", "why_pt": "Bored = entediado. Boring = chato. Cuidado para não se chamar de chato!"},
+        {"wrong": "I have reason.", "right": "I'm right.", "why_pt": "\"Ter razão\" = be right."}
+      ],
+      "pronunciation": {
+        "focus": "Contrações naturais",
+        "tip_pt": "Na fala real, quase ninguém diz \"I am\" ou \"they are\". As contrações são rápidas e unidas à palavra seguinte: **I'm hungry** = \"áim rângri\", **they're late** = \"dér lêit\", **it's OK** = \"itsôukêi\".",
+        "practice": ["I'm hungry.", "They're late again.", "It's OK. We're not in a hurry."]
+      },
+      "dialogue": {
+        "title": "Morning meeting",
+        "context_pt": "Antes de uma reunião online, dois colegas conversam enquanto esperam os outros entrarem.",
+        "lines": [
+          {"speaker": "Jack", "en": "Morning, Paula! Are you OK? You look tired.", "pt": "Bom dia, Paula! Você está bem? Parece cansada."},
+          {"speaker": "Paula", "en": "I'm exhausted. My baby is sick, and I'm not a morning person!", "pt": "Estou exausta. Meu bebê está doente, e eu não sou uma pessoa matinal!"},
+          {"speaker": "Jack", "en": "Oh no. Is he better now?", "pt": "Ah, não. Ele está melhor agora?"},
+          {"speaker": "Paula", "en": "Yes, he's fine now. He's at his grandma's. And you? You're in a good mood!", "pt": "Sim, ele está bem agora. Está na casa da avó. E você? Está de bom humor!"},
+          {"speaker": "Jack", "en": "I'm excited. My vacation starts on Friday!", "pt": "Estou animado. Minhas férias começam na sexta!"},
+          {"speaker": "Paula", "en": "Lucky you! Where are the others? They're late.", "pt": "Que sorte a sua! Cadê os outros? Estão atrasados."},
+          {"speaker": "Jack", "en": "They're not late. We're early!", "pt": "Eles não estão atrasados. Nós é que estamos adiantados!"}
+        ]
+      },
+      "listening": {
+        "title": "Voicemail: running late",
+        "context_pt": "Uma amiga deixa uma mensagem de voz avisando do atraso.",
+        "lines": [
+          {"speaker": "Bruna", "en": "Hi, Leo, it's Bruna. I'm so sorry, I'm running late. I'm on the bus, but the traffic is terrible. I'm about twenty minutes away. Are you at the restaurant? If you're hungry, please order. I'm not very hungry — just a salad for me. And don't worry, I'm not angry about the bus. I'm just embarrassed! See you soon."}
+        ],
+        "questions": [
+          {"q": "Where is Bruna?", "answer": "On the bus."},
+          {"q": "Why is she late?", "answer": "Because the traffic is terrible."},
+          {"q": "How far away is she?", "answer": "About twenty minutes."},
+          {"q": "Is she very hungry?", "answer": "No, she isn't. She just wants a salad."}
+        ]
+      },
+      "reading": {
+        "title": "Are you a lark or an owl?",
+        "text": "Scientists say people have different \"chronotypes\". Larks are morning people: they're full of energy at 6 a.m. and they're sleepy at 10 p.m. Owls are the opposite: they're tired in the morning and they're very productive at night. Most people are in the middle. The problem? Schools and offices usually start early, so owls are often tired and stressed. Some companies are now flexible: employees are free to choose their hours.",
+        "questions": [
+          {"q": "What are larks?", "answer": "Morning people (full of energy early, sleepy at night)."},
+          {"q": "When are owls productive?", "answer": "At night."},
+          {"q": "Why are owls often tired and stressed?", "answer": "Because schools and offices usually start early."},
+          {"q": "What are some companies doing?", "answer": "They're flexible: employees choose their hours."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "translate", "title": "Ter or be?", "instruction": "Translate into English. Remember: use to be!", "instruction_pt": "Traduza para o inglês. Lembre-se: use to be!",
+         "items": [{"prompt": "Estou com fome.", "answer": "I'm hungry."}, {"prompt": "Ela tem medo de cachorro.", "answer": "She's afraid of dogs."}, {"prompt": "Você tem razão.", "answer": "You're right."}, {"prompt": "Estamos com pressa.", "answer": "We're in a hurry."}, {"prompt": "Eles estão com frio?", "answer": "Are they cold?"}]},
+        {"id": "ex2", "type": "multiple_choice", "title": "-ed or -ing?", "instruction": "Choose the correct adjective.", "instruction_pt": "Escolha o adjetivo correto.",
+         "items": [{"prompt": "This movie is so ___.", "options": ["bored", "boring"], "answer": "boring"}, {"prompt": "I'm ___ in history.", "options": ["interested", "interesting"], "answer": "interested"}, {"prompt": "We're ___ about the concert!", "options": ["excited", "exciting"], "answer": "excited"}, {"prompt": "My job is very ___.", "options": ["tired", "tiring"], "answer": "tiring"}]},
+        {"id": "ex3", "type": "fill_blank", "title": "Contractions", "instruction": "Complete with the correct contraction: 'm · 's · 're · isn't · aren't.", "instruction_pt": "Complete com a contração correta.",
+         "items": [{"prompt": "They ___ late. They're early! (−)", "answer": "aren't"}, {"prompt": "I___ not a night owl.", "answer": "'m"}, {"prompt": "He ___ sick today. He's fine. (−)", "answer": "isn't"}, {"prompt": "We___ so tired.", "answer": "'re"}, {"prompt": "It___ cold in here!", "answer": "'s"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "I'm running late."}, {"prompt": "2", "answer": "Are you OK? You look tired."}, {"prompt": "3", "answer": "She's not a morning person."}, {"prompt": "4", "answer": "We're so excited about the trip!"}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "I have thirsty.", "answer": "I'm thirsty."}, {"prompt": "My brother have 20 years.", "answer": "My brother is 20."}, {"prompt": "I'm boring. Let's go out!", "answer": "I'm bored. Let's go out!"}, {"prompt": "They is in a bad mood.", "answer": "They're in a bad mood."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the dialogue", "instruction": "Complete with: hungry · look · starving · mood · right.", "instruction_pt": "Complete o diálogo.",
+         "items": [{"prompt": "A: You ___ stressed. Are you OK?", "answer": "look"}, {"prompt": "B: I'm just ___. No breakfast today!", "answer": "hungry"}, {"prompt": "A: Me too, I'm ___! Let's get some food.", "answer": "starving"}, {"prompt": "B: You're ___. Food first. Then I'm in a good ___!", "answer": "right / mood"}]}
+      ],
+      "speaking": {
+        "instruction": "Answer with complete sentences and give a reason (because...).",
+        "instruction_pt": "Responda com frases completas e dê um motivo (because...).",
+        "questions": ["How are you today? Why?", "Are you a morning person or a night owl?", "What are you afraid of?", "When are you usually in a bad mood?", "What are you excited about this month?"]
+      },
+      "writing": {
+        "task": "Write a status update for social media about how you feel today and why (4 to 5 sentences).",
+        "task_pt": "Escreva um status para redes sociais sobre como você está hoje e por quê (4 a 5 frases).",
+        "model": "Monday mood: I'm so tired! 😴\nI'm not a morning person, and my alarm is at 5:30.\nBut I'm excited because it's my first day at a new job.\nI'm a bit nervous, too. Wish me luck! 🍀"
+      },
+      "culture_note": {
+        "title": "\"How are you?\" e honestidade",
+        "text_pt": "No A1 você viu que \"How are you?\" costuma ser só um cumprimento. Mas entre amigos, perguntas como **\"Are you OK?\"** ou **\"How are you, really?\"** são um convite para falar a verdade. Respostas comuns: **\"I'm hanging in there\"** (vou levando) e **\"Not too bad\"** (nada mal)."
+      },
+      "summary_pt": ["Fome, sede, frio, medo, idade = to be.", "-ed (como me sinto) x -ing (como algo é).", "Contrações sempre na fala.", "so / really / a bit para graduar."]
+    },
+    {
+      "id": "A2-M1-L2",
+      "title": "Are they online?",
+      "subtitle_pt": "Perguntas com to be + question words, internet e redes sociais",
+      "duration_min": 50,
+      "source_refs": ["To Go A2 – Lessons 4-5 (all forms of to be, dialogues)", "StartUp 1 – Unit 9 (technology)"],
+      "objectives": ["Fazer perguntas com what, where, who, how + to be", "Usar how old, how far, how long, what time", "Falar sobre internet e redes sociais", "Resolver problemas simples de tecnologia"],
+      "warmup": {
+        "text_pt": "Quantos apps de mensagem você usa? Você está sempre online ou desativa as notificações?",
+        "questions": ["What's your favorite app right now?", "Who is your most active contact?"]
+      },
+      "vocabulary": [
+        {"en": "online / offline", "pt": "online / offline", "say": "ónlain / ófláin"},
+        {"en": "password", "pt": "senha", "say": "péssuârd"},
+        {"en": "username", "pt": "nome de usuário", "say": "iúzernêim"},
+        {"en": "account", "pt": "conta", "say": "akáunt"},
+        {"en": "follower", "pt": "seguidor(a)", "say": "fálouer"},
+        {"en": "post / story / reel", "pt": "post / story / reels", "say": "pôust / stóri / ríl"},
+        {"en": "link", "pt": "link", "say": "link"},
+        {"en": "signal / connection", "pt": "sinal / conexão", "say": "sígnal / konékshon"},
+        {"en": "battery / charger", "pt": "bateria / carregador", "say": "bérari / tchárdjer"},
+        {"en": "update", "pt": "atualização", "say": "âpdêit"},
+        {"en": "muted", "pt": "silenciado", "say": "miúrid"},
+        {"en": "available", "pt": "disponível", "say": "avêilabol"}
+      ],
+      "chunks": [
+        {"en": "What's the Wi-Fi password?", "pt": "Qual é a senha do Wi-Fi?"},
+        {"en": "Where's my charger?", "pt": "Cadê meu carregador?"},
+        {"en": "My battery is low.", "pt": "Minha bateria está fraca."},
+        {"en": "The connection is really bad.", "pt": "A conexão está muito ruim."},
+        {"en": "You're on mute!", "pt": "Você está no mudo!"},
+        {"en": "Is this link correct?", "pt": "Este link está certo?"}
+      ],
+      "grammar": {
+        "title": "Question words + to be",
+        "explanation_pt": "Com o verbo to be, a pergunta é simples: **question word + to be + sujeito**. Sem do/does!\n\n- **What** is your username?\n- **Where** are my headphones?\n- **Who** is that girl in your story?\n- **Why** are you offline?\n\n**How + adjetivo** cria perguntas muito úteis:\n- **How old** is your phone? (Quantos anos tem...)\n- **How far** is the airport? (Qual a distância...)\n- **How long** is the video? (Qual a duração...)\n- **How much** is the subscription? (Quanto custa...)\n\nRespostas curtas com question words geralmente usam **it's** / **they're**: \"Where are my keys?\" — \"They're on the table.\"",
+        "table": {
+          "headers": ["Pergunta", "Resposta"],
+          "rows": [["What's your username?", "It's @mari_travels."], ["Where's the charger?", "It's in my bag."], ["Who are they?", "They're my coworkers."], ["How old is your laptop?", "It's five years old."], ["How long is the video?", "It's about ten minutes."], ["Why are you offline?", "Because my battery is dead."]]
+        },
+        "examples": [
+          {"en": "Why are you on mute? We can't hear you!", "pt": "Por que você está no mudo? Não conseguimos te ouvir!"},
+          {"en": "How much is the premium plan? It's $9.99 a month.", "pt": "Quanto é o plano premium? 9,99 por mês."},
+          {"en": "Who's online now? Only Rafa.", "pt": "Quem está online agora? Só o Rafa."}
+        ],
+        "tip_pt": "Em perguntas com **who/what** como sujeito, a resposta curta usa o verbo: \"Who's ready?\" — \"**I am!**\""
+      },
+      "common_mistakes": [
+        {"wrong": "Where is the keys?", "right": "Where are the keys?", "why_pt": "Keys é plural: are."},
+        {"wrong": "How many years is your phone?", "right": "How old is your phone?", "why_pt": "Para idade (de pessoas e coisas), use how old."},
+        {"wrong": "What is your senha?", "right": "What's your password?", "why_pt": "Senha = password. Cuidado com o \"portunglês\"!"}
+      ],
+      "pronunciation": {
+        "focus": "Where's / What's / Who's",
+        "tip_pt": "As formas contraídas são as mais naturais: **Where's** (\"uérz\"), **What's** (\"uóts\"), **Who's** (\"rúz\"). Atenção: **Who's** (who is) e **Whose** (de quem) têm o **mesmo som**!",
+        "practice": ["Where's my phone?", "What's the password?", "Who's online?"]
+      },
+      "dialogue": {
+        "title": "Video call problems",
+        "context_pt": "Uma reunião online começa com os problemas de sempre.",
+        "lines": [
+          {"speaker": "Laura", "en": "Hi, everyone! Can you hear me?", "pt": "Oi, pessoal! Vocês me ouvem?"},
+          {"speaker": "Diego", "en": "Yes, we can. But where's your video?", "pt": "Sim. Mas cadê seu vídeo?"},
+          {"speaker": "Laura", "en": "Sorry, my camera is off. One second... Is it OK now?", "pt": "Desculpe, minha câmera está desligada. Um segundo... Está ok agora?"},
+          {"speaker": "Diego", "en": "Perfect. Who's missing? Is Tom online?", "pt": "Perfeito. Quem está faltando? O Tom está online?"},
+          {"speaker": "Laura", "en": "He's online, but he's on mute. Tom, you're on mute!", "pt": "Ele está online, mas está no mudo. Tom, você está no mudo!"},
+          {"speaker": "Tom", "en": "Sorry! My connection is terrible today. I'm in a coffee shop.", "pt": "Desculpe! Minha conexão está terrível hoje. Estou numa cafeteria."},
+          {"speaker": "Diego", "en": "No problem. How long is the meeting?", "pt": "Sem problema. Quanto tempo dura a reunião?"},
+          {"speaker": "Laura", "en": "It's only thirty minutes. Let's start!", "pt": "Só trinta minutos. Vamos começar!"}
+        ]
+      },
+      "listening": {
+        "title": "Tech support call",
+        "context_pt": "Um cliente liga para o suporte técnico de um app.",
+        "lines": [
+          {"speaker": "Agent", "en": "Hello, StreamPlus support. How can I help you?"},
+          {"speaker": "Customer", "en": "Hi. My account is blocked. I can't log in."},
+          {"speaker": "Agent", "en": "OK. What's your username?"},
+          {"speaker": "Customer", "en": "It's rodrigo underscore r-j."},
+          {"speaker": "Agent", "en": "Thank you. And what's the email on your account?"},
+          {"speaker": "Customer", "en": "It's rodrigo dot rj at mail dot com."},
+          {"speaker": "Agent", "en": "I see. Your password is old. Please check your email — the reset link is there. It's valid for one hour."}
+        ],
+        "questions": [
+          {"q": "What's the problem?", "answer": "His account is blocked (he can't log in)."},
+          {"q": "What's his username?", "answer": "rodrigo_rj"},
+          {"q": "Where is the reset link?", "answer": "In his email."},
+          {"q": "How long is the link valid?", "answer": "One hour."}
+        ]
+      },
+      "reading": {
+        "title": "Digital wellbeing tips",
+        "text": "Are you always online? Is your phone the first thing you see in the morning? You aren't alone. Here are three tips. 1. Notifications are not emergencies — mute group chats. 2. Your bedroom is for sleeping: the charger is better in the living room. 3. Weekends are for people, not screens. Are you ready for the challenge?",
+        "questions": [
+          {"q": "What is tip number 1?", "answer": "Mute group chats (notifications are not emergencies)."},
+          {"q": "Where is the charger better?", "answer": "In the living room."},
+          {"q": "What are weekends for?", "answer": "For people, not screens."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "fill_blank", "title": "Question words", "instruction": "Complete with: What · Where · Who · Why · How old · How long.", "instruction_pt": "Complete com a question word correta.",
+         "items": [{"prompt": "___ is your phone? — It's two years old.", "answer": "How old"}, {"prompt": "___ are my earbuds? — They're on the sofa.", "answer": "Where"}, {"prompt": "___'s your username? — @ju.costa.", "answer": "What"}, {"prompt": "___ is the podcast? — About an hour.", "answer": "How long"}, {"prompt": "___ are you offline? — My battery is dead.", "answer": "Why"}, {"prompt": "___'s that guy? — He's my new boss.", "answer": "Who"}]},
+        {"id": "ex2", "type": "order_words", "title": "Make questions", "instruction": "Put the words in order to make questions.", "instruction_pt": "Organize as palavras para formar perguntas.",
+         "items": [{"prompt": "password / the / what's / Wi-Fi / ?", "answer": "What's the Wi-Fi password?"}, {"prompt": "on / why / you / mute / are / ?", "answer": "Why are you on mute?"}, {"prompt": "how / the airport / far / is / ?", "answer": "How far is the airport?"}, {"prompt": "online / who's / now / ?", "answer": "Who's online now?"}]},
+        {"id": "ex3", "type": "answer", "title": "Write the question", "instruction": "Write the question for each answer.", "instruction_pt": "Escreva a pergunta para cada resposta.",
+         "items": [{"prompt": "It's $12 a month.", "answer": "How much is it? / How much is the subscription?"}, {"prompt": "They're in my backpack.", "answer": "Where are they? (Where are my...?)"}, {"prompt": "She's my cousin.", "answer": "Who is she?"}, {"prompt": "It's about 15 minutes long.", "answer": "How long is it?"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "What's the Wi-Fi password?"}, {"prompt": "2", "answer": "You're on mute!"}, {"prompt": "3", "answer": "My battery is low."}, {"prompt": "4", "answer": "How old is your laptop?"}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "Where is my headphones?", "answer": "Where are my headphones?"}, {"prompt": "How many years is your car?", "answer": "How old is your car?"}, {"prompt": "Why you are offline?", "answer": "Why are you offline?"}, {"prompt": "Who's online? — Me am!", "answer": "I am!"}]},
+        {"id": "ex6", "type": "true_false", "title": "Dialogue", "instruction": "Read the dialogue again. True or False?", "instruction_pt": "Releia o diálogo e marque True ou False.",
+         "items": [{"prompt": "Laura's camera is off at the start.", "answer": true}, {"prompt": "Tom is offline.", "answer": false}, {"prompt": "Tom is at home.", "answer": false}, {"prompt": "The meeting is thirty minutes long.", "answer": true}]}
+      ],
+      "speaking": {
+        "instruction": "Interview a partner about their digital life. Ask follow-up questions.",
+        "instruction_pt": "Entreviste um colega sobre a vida digital dele. Faça perguntas de continuação.",
+        "questions": ["What's your favorite app? Why?", "How old is your phone?", "Who's your most active contact?", "Are you always online?", "Where's your phone at night?"]
+      },
+      "writing": {
+        "task": "Write a short bio for a social media profile (40–60 words).",
+        "task_pt": "Escreva uma bio curta para um perfil de rede social (40–60 palavras).",
+        "model": "📍 Recife, Brazil | 28\nI'm a nurse and a coffee lover ☕\nI'm not a morning person, but I'm always on time!\nMy posts are about food, travel and my dog, Biscoito 🐶\nDMs are open!"
+      },
+      "culture_note": {
+        "title": "Gírias da internet",
+        "text_pt": "Abreviações comuns em mensagens: **BRB** (be right back – já volto), **IDK** (I don't know), **TBH** (to be honest), **DM** (mensagem direta), **lol** (rindo). Use com amigos, nunca em e-mails de trabalho!"
+      },
+      "summary_pt": ["Question word + to be + sujeito (sem do).", "How old / how far / how long / how much.", "Who's = Whose (mesmo som).", "password = senha; account = conta."]
+    },
+    {
+      "id": "A2-M1-L3",
+      "title": "Save the date",
+      "subtitle_pt": "Números ordinais, datas e meses",
+      "duration_min": 50,
+      "source_refs": ["To Go A2 – Lesson 6 (days of the week and numbers)", "StartUp 1 – Unit 6 (dates)"],
+      "objectives": ["Usar números ordinais (first, second, third...)", "Dizer e escrever datas no formato americano e britânico", "Falar sobre aniversários e feriados", "Usar in, on e at com datas"],
+      "warmup": {
+        "text_pt": "Quando é o seu aniversário? E qual é a data mais importante do ano para você?",
+        "questions": ["When's your birthday?", "What's your favorite holiday?"]
+      },
+      "vocabulary": [
+        {"en": "January / February / March", "pt": "janeiro / fevereiro / março", "say": "djéniueri / fébrueri / mártch"},
+        {"en": "April / May / June", "pt": "abril / maio / junho", "say": "êipril / mêi / djún"},
+        {"en": "July / August / September", "pt": "julho / agosto / setembro", "say": "djulái / ógast / septémber"},
+        {"en": "October / November / December", "pt": "outubro / novembro / dezembro", "say": "októuber / novémber / disémber"},
+        {"en": "first / second / third", "pt": "primeiro / segundo / terceiro", "say": "fârst / sékond / θârd"},
+        {"en": "fourth / fifth / twelfth", "pt": "quarto / quinto / décimo segundo", "say": "fórθ / fifθ / tuélfθ"},
+        {"en": "twentieth / twenty-first", "pt": "vigésimo / vigésimo primeiro", "say": "tuéntiéθ / tuénti fârst"},
+        {"en": "birthday", "pt": "aniversário", "say": "bârθdei"},
+        {"en": "holiday", "pt": "feriado", "say": "rólidei"},
+        {"en": "anniversary", "pt": "aniversário (de casamento, empresa)", "say": "aniversári"},
+        {"en": "deadline", "pt": "prazo", "say": "dédlain"},
+        {"en": "save the date", "pt": "reserve a data", "say": "sêiv dâ dêit"}
+      ],
+      "chunks": [
+        {"en": "When's your birthday?", "pt": "Quando é seu aniversário?"},
+        {"en": "It's on May 3rd.", "pt": "É dia 3 de maio."},
+        {"en": "What's the date today?", "pt": "Que dia é hoje?"},
+        {"en": "The deadline is on the 15th.", "pt": "O prazo é dia 15."},
+        {"en": "Happy birthday! Many happy returns!", "pt": "Feliz aniversário! Muitos anos de vida!"}
+      ],
+      "grammar": {
+        "title": "Ordinais e datas",
+        "explanation_pt": "**Ordinais** indicam ordem e são usados nas **datas**. A maioria termina em **-th** (fourth, sixth, tenth), mas há exceções:\n- 1st = **first**, 2nd = **second**, 3rd = **third**\n- 5th = **fifth**, 8th = **eighth**, 9th = **ninth**, 12th = **twelfth**\n- 21st = twenty-**first**, 22nd = twenty-**second**, 23rd = twenty-**third**\n\n**Datas:**\n- 🇺🇸 EUA: escrevem **May 3** e falam \"May **third**\". Formato numérico: **mês/dia** (5/3).\n- 🇬🇧 Reino Unido: escrevem **3 May** e falam \"the third **of** May\". Formato: **dia/mês** (3/5).\n- Ano: 2026 = \"twenty twenty-six\"; 1998 = \"nineteen ninety-eight\".\n\n**Preposições:** **on** + data/dia (on May 3rd, on my birthday) · **in** + mês/ano (in May, in 2027) · **at** + horário (at 8 p.m.).",
+        "table": {
+          "headers": ["Escrita", "EUA fala", "UK fala"],
+          "rows": [["July 4 / 4 July", "July fourth", "the fourth of July"], ["Dec. 25 / 25 Dec.", "December twenty-fifth", "the twenty-fifth of December"], ["Feb. 1 / 1 Feb.", "February first", "the first of February"]]
+        },
+        "examples": [
+          {"en": "My birthday is on October 12th.", "pt": "Meu aniversário é dia 12 de outubro."},
+          {"en": "Carnival is in February or March.", "pt": "O Carnaval é em fevereiro ou março."},
+          {"en": "The party is on Saturday, the 21st, at 9 p.m.", "pt": "A festa é no sábado, dia 21, às 21h."}
+        ],
+        "tip_pt": "Meses e dias da semana **sempre** com letra maiúscula: **M**onday, **J**une."
+      },
+      "common_mistakes": [
+        {"wrong": "My birthday is in May 3.", "right": "My birthday is on May 3rd.", "why_pt": "Data completa usa on; só o mês usa in."},
+        {"wrong": "It's the day three.", "right": "It's the third. / It's May third.", "why_pt": "Datas usam números ordinais."},
+        {"wrong": "06/07 (para 7 de junho, escrevendo para um americano)", "right": "June 7 (por extenso)", "why_pt": "Para evitar confusão entre formatos, escreva o mês por extenso."}
+      ],
+      "pronunciation": {
+        "focus": "O som TH em ordinais",
+        "tip_pt": "Quase todos os ordinais terminam com o **TH surdo** /θ/: língua entre os dentes, solte o ar. **Fifth** e **twelfth** são difíceis — pratique devagar: \"fif-θ\", \"tuelf-θ\". Não diga \"fifti\" nem \"fift\".",
+        "practice": ["fourth · fifth · sixth", "the twelfth of March", "It's on the thirteenth."]
+      },
+      "dialogue": {
+        "title": "Planning a surprise party",
+        "context_pt": "Dois amigos planejam uma festa surpresa para uma amiga.",
+        "lines": [
+          {"speaker": "Kai", "en": "When's Bia's birthday? Is it in August?", "pt": "Quando é o aniversário da Bia? É em agosto?"},
+          {"speaker": "Malu", "en": "No, it's in September. It's on September 14th.", "pt": "Não, é em setembro. É dia 14 de setembro."},
+          {"speaker": "Kai", "en": "That's a Monday this year. What about a party on Saturday, the 12th?", "pt": "Cai numa segunda este ano. Que tal uma festa no sábado, dia 12?"},
+          {"speaker": "Malu", "en": "Perfect. At my place, at 8 p.m.?", "pt": "Perfeito. Lá em casa, às 20h?"},
+          {"speaker": "Kai", "en": "Great. I'm on the guest list. You're on the cake!", "pt": "Ótimo. Eu fico com a lista de convidados. Você com o bolo!"},
+          {"speaker": "Malu", "en": "Deal. And it's a secret, OK? Her birthday is her favorite day of the year.", "pt": "Combinado. E é segredo, ok? O aniversário é o dia favorito dela no ano."}
+        ]
+      },
+      "listening": {
+        "title": "Event reminders",
+        "context_pt": "Lembretes de voz de um assistente virtual.",
+        "lines": [
+          {"speaker": "Assistant", "en": "Good morning! Today is Tuesday, March third. You have three reminders. First: your dentist appointment is on Thursday, the fifth, at ten thirty a.m. Second: the project deadline is on March twentieth. Third: your mom's birthday is next Sunday, the eighth. Don't forget the cake!"}
+        ],
+        "questions": [
+          {"q": "What's the date today?", "answer": "Tuesday, March 3rd."},
+          {"q": "When is the dentist appointment?", "answer": "On Thursday, the 5th, at 10:30 a.m."},
+          {"q": "When is the deadline?", "answer": "On March 20th."},
+          {"q": "When is the mom's birthday?", "answer": "Next Sunday, the 8th."}
+        ]
+      },
+      "reading": {
+        "title": "Holidays in English-speaking countries",
+        "text": "In the USA, Independence Day is on July 4th, with fireworks and barbecues. Thanksgiving is on the fourth Thursday of November: families eat turkey and say what they're thankful for. In the UK, Bonfire Night is on November 5th. In Canada and the UK, Boxing Day is on December 26th — a day of big sales. And Halloween, on October 31st, is now popular all over the world, including Brazil!",
+        "questions": [
+          {"q": "When is Independence Day in the USA?", "answer": "On July 4th."},
+          {"q": "When is Thanksgiving?", "answer": "On the fourth Thursday of November."},
+          {"q": "What's special about Boxing Day?", "answer": "Big sales."},
+          {"q": "When is Halloween?", "answer": "On October 31st."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "answer", "title": "Ordinal numbers", "instruction": "Write the ordinal number in words.", "instruction_pt": "Escreva o número ordinal por extenso.",
+         "items": [{"prompt": "1st", "answer": "first"}, {"prompt": "3rd", "answer": "third"}, {"prompt": "5th", "answer": "fifth"}, {"prompt": "12th", "answer": "twelfth"}, {"prompt": "22nd", "answer": "twenty-second"}, {"prompt": "31st", "answer": "thirty-first"}]},
+        {"id": "ex2", "type": "fill_blank", "title": "in, on or at?", "instruction": "Complete with in, on or at.", "instruction_pt": "Complete com in, on ou at.",
+         "items": [{"prompt": "My birthday is ___ June.", "answer": "in"}, {"prompt": "The meeting is ___ June 10th.", "answer": "on"}, {"prompt": "The class starts ___ 7 p.m.", "answer": "at"}, {"prompt": "I was born ___ 1995.", "answer": "in"}, {"prompt": "See you ___ my birthday!", "answer": "on"}]},
+        {"id": "ex3", "type": "answer", "title": "Say the date", "instruction": "Write how you say the date (American English).", "instruction_pt": "Escreva como se fala a data (inglês americano).",
+         "items": [{"prompt": "Dec. 25", "answer": "December twenty-fifth"}, {"prompt": "Apr. 1", "answer": "April first"}, {"prompt": "Sept. 7, 2027", "answer": "September seventh, twenty twenty-seven"}, {"prompt": "Nov. 15", "answer": "November fifteenth"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the date or sentence.", "instruction_pt": "Ouça e escreva a data ou a frase.",
+         "items": [{"prompt": "1", "answer": "My birthday is on May third."}, {"prompt": "2", "answer": "The deadline is on the fifteenth."}, {"prompt": "3", "answer": "When's your birthday?"}, {"prompt": "4", "answer": "The party is on Saturday, the twelfth."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "My birthday is in April 9th.", "answer": "My birthday is on April 9th."}, {"prompt": "The party is in Friday.", "answer": "The party is on Friday."}, {"prompt": "Today is the two of March.", "answer": "Today is the second of March. / Today is March second."}, {"prompt": "See you in december!", "answer": "See you in December!"}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the dialogue", "instruction": "Complete with: When's · on · in · date · fifth.", "instruction_pt": "Complete o diálogo.",
+         "items": [{"prompt": "A: What's the ___ today?", "answer": "date"}, {"prompt": "B: It's the ___ of June. (5)", "answer": "fifth"}, {"prompt": "A: ___ your vacation?", "answer": "When's"}, {"prompt": "B: It's ___ July. I leave ___ July 2nd.", "answer": "in / on"}]}
+      ],
+      "speaking": {
+        "instruction": "Ask your classmates and make a \"birthday calendar\" of the group.",
+        "instruction_pt": "Pergunte aos colegas e monte um \"calendário de aniversários\" da turma.",
+        "questions": ["When's your birthday?", "How do you usually celebrate?", "What's the most important date of the year for you?", "What's your favorite holiday? When is it?", "When is your next vacation?"]
+      },
+      "writing": {
+        "task": "Write a \"Save the date\" invitation for an event (date, time, place and what to bring).",
+        "task_pt": "Escreva um convite \"Save the date\" para um evento (data, horário, local e o que levar).",
+        "model": "🎉 SAVE THE DATE 🎉\nJu's 30th birthday party!\nSaturday, October 18th, at 8 p.m.\nPlace: Bar do Zé, Rua das Flores, 120\nBring your best dance moves! 💃"
+      },
+      "culture_note": {
+        "title": "Formato de data: cuidado no trabalho",
+        "text_pt": "Uma data como **04/05/2027** é 4 de maio no Brasil e no Reino Unido, mas **5 de abril** nos EUA! Em e-mails internacionais, escreva o mês por extenso (\"May 4, 2027\") ou use o formato ISO (2027-05-04)."
+      },
+      "summary_pt": ["1st, 2nd, 3rd, depois -th (com exceções).", "EUA: May 3rd · UK: the 3rd of May.", "on + data · in + mês/ano · at + hora.", "Meses com letra maiúscula."]
+    },
+    {
+      "id": "A2-M1-L4",
+      "title": "Whose phone is this?",
+      "subtitle_pt": "Whose e possessive pronouns (mine, yours, hers...)",
+      "duration_min": 50,
+      "source_refs": ["To Go A2 – Lesson 7 (possessives)", "StartUp 1 – Unit 9 (possessive nouns)"],
+      "objectives": ["Perguntar de quem é algo com whose", "Usar possessive pronouns: mine, yours, his, hers, ours, theirs", "Diferenciar my x mine", "Resolver situações de objetos perdidos"],
+      "warmup": {
+        "text_pt": "Você já pegou o carregador de alguém por engano? Ou já perdeu algo em uma viagem?",
+        "questions": ["What do you often lose?", "Do you share things with your roommates or family?"]
+      },
+      "vocabulary": [
+        {"en": "whose", "pt": "de quem", "say": "rúz"},
+        {"en": "mine", "pt": "meu(s), minha(s)", "say": "máin"},
+        {"en": "yours", "pt": "seu(s), sua(s); de vocês", "say": "iórz"},
+        {"en": "his / hers", "pt": "dele / dela", "say": "riz / rârz"},
+        {"en": "ours", "pt": "nosso(s), nossa(s)", "say": "áuerz"},
+        {"en": "theirs", "pt": "deles, delas", "say": "dérz"},
+        {"en": "lost and found", "pt": "achados e perdidos", "say": "lóst end fáund"},
+        {"en": "suitcase / luggage", "pt": "mala / bagagem", "say": "sútkeis / lâguidj"},
+        {"en": "belongings", "pt": "pertences", "say": "bilónginz"},
+        {"en": "to belong to", "pt": "pertencer a", "say": "tu bilóng tu"},
+        {"en": "to borrow / to lend", "pt": "pegar emprestado / emprestar", "say": "tu bórou / tu lénd"},
+        {"en": "by mistake", "pt": "por engano", "say": "bái mistêik"}
+      ],
+      "chunks": [
+        {"en": "Whose is this?", "pt": "De quem é isto?"},
+        {"en": "It's mine!", "pt": "É meu!"},
+        {"en": "Is this yours?", "pt": "Isto é seu?"},
+        {"en": "I think it's hers.", "pt": "Acho que é dela."},
+        {"en": "Can I borrow your charger?", "pt": "Posso pegar seu carregador emprestado?"},
+        {"en": "I took it by mistake.", "pt": "Peguei por engano."}
+      ],
+      "grammar": {
+        "title": "Whose + possessive pronouns",
+        "explanation_pt": "Você já conhece os **possessive adjectives** (my, your, his, her...), que vêm **antes** de um substantivo: **my** phone.\n\nOs **possessive pronouns** **substituem** o substantivo e ficam sozinhos: This phone is **mine**.\n\n**Whose** pergunta \"de quem\": **Whose** bag is this? / **Whose** is this?\n\nTambém dá para responder com o **'s**: \"Whose car is that?\" — \"It's **Paulo's**.\"",
+        "table": {
+          "headers": ["Adjective (+ noun)", "Pronoun (sozinho)", "Exemplo"],
+          "rows": [["my", "mine", "It's my bag. → It's mine."], ["your", "yours", "Is this your key? → Is this yours?"], ["his", "his", "It's his jacket. → It's his."], ["her", "hers", "It's her laptop. → It's hers."], ["our", "ours", "It's our car. → It's ours."], ["their", "theirs", "They're their dogs. → They're theirs."]]
+        },
+        "examples": [
+          {"en": "Whose suitcase is this? — It's mine.", "pt": "De quem é esta mala? — É minha."},
+          {"en": "This isn't my charger. Mine is white.", "pt": "Este não é meu carregador. O meu é branco."},
+          {"en": "Our apartment is small, but theirs is huge!", "pt": "Nosso apartamento é pequeno, mas o deles é enorme!"}
+        ],
+        "tip_pt": "**Whose** e **who's** (who is) têm o mesmo som. Pense no contexto: \"**Whose** is it?\" (de quem) x \"**Who's** there?\" (quem está aí)."
+      },
+      "common_mistakes": [
+        {"wrong": "This is mine phone.", "right": "This is my phone. / This phone is mine.", "why_pt": "Mine fica sozinho; antes de substantivo use my."},
+        {"wrong": "Who is this bag?", "right": "Whose bag is this?", "why_pt": "\"De quem\" = whose, não who."},
+        {"wrong": "Can you borrow me your pen?", "right": "Can you lend me your pen? / Can I borrow your pen?", "why_pt": "Lend = emprestar (dar); borrow = pegar emprestado (receber)."}
+      ],
+      "pronunciation": {
+        "focus": "Hers, yours, ours, theirs",
+        "tip_pt": "O **s** final desses pronomes soa como **z**: hers (\"rârz\"), yours (\"iórz\"), ours (\"áuerz\"), theirs (\"dérz\"). E **ours** soa quase igual a **hours**!",
+        "practice": ["It's hers, not yours.", "Is it ours or theirs?", "Whose is it? It's mine."]
+      },
+      "dialogue": {
+        "title": "At baggage claim",
+        "context_pt": "Na esteira de bagagens do aeroporto, duas malas pretas iguais causam confusão.",
+        "lines": [
+          {"speaker": "Rafa", "en": "Excuse me, I think that suitcase is mine.", "pt": "Com licença, acho que essa mala é minha."},
+          {"speaker": "Woman", "en": "Really? It looks like mine. Mine is black with a red tag.", "pt": "Sério? Parece com a minha. A minha é preta com uma etiqueta vermelha."},
+          {"speaker": "Rafa", "en": "Mine has a red tag, too! Whose name is on it?", "pt": "A minha também tem etiqueta vermelha! De quem é o nome nela?"},
+          {"speaker": "Woman", "en": "Let me see... \"Rafael Souza\". Oh, it's yours. Sorry!", "pt": "Deixa eu ver... \"Rafael Souza\". Ah, é sua. Desculpe!"},
+          {"speaker": "Rafa", "en": "No problem. Is that one yours? The black one over there?", "pt": "Sem problema. Aquela é a sua? A preta ali?"},
+          {"speaker": "Woman", "en": "Yes! That's definitely mine. It's huge — my kids' toys are in it!", "pt": "Sim! Essa com certeza é minha. É enorme — os brinquedos dos meus filhos estão nela!"}
+        ]
+      },
+      "listening": {
+        "title": "Lost and found at the gym",
+        "context_pt": "A recepcionista da academia anuncia os objetos esquecidos.",
+        "lines": [
+          {"speaker": "Receptionist", "en": "Attention, please! We have some items in our lost and found. A blue water bottle — whose is it? Also, a pair of white earbuds, a black jacket, and some car keys. If they're yours, please come to the front desk. Oh, and Mr. Lima, your daughter's backpack is here. It isn't yours, it's hers, but please take it home!"}
+        ],
+        "questions": [
+          {"q": "What color is the water bottle?", "answer": "Blue."},
+          {"q": "What color are the earbuds?", "answer": "White."},
+          {"q": "Where do people go to get their items?", "answer": "To the front desk."},
+          {"q": "Whose backpack is it?", "answer": "Mr. Lima's daughter's (it's hers)."}
+        ]
+      },
+      "reading": {
+        "title": "The sharing economy",
+        "text": "Is it mine, yours or ours? Today, many people don't buy everything — they share. In some cities, bikes and scooters are everyone's: you use an app, ride, and leave them for the next person. Neighbors share tools in apps, and students borrow books from each other. Some people even lend their cars when they aren't using them. The idea is simple: why have it if you can borrow it?",
+        "questions": [
+          {"q": "How do people use shared bikes and scooters?", "answer": "With an app: they ride and leave them for the next person."},
+          {"q": "What do neighbors share?", "answer": "Tools."},
+          {"q": "What is the main idea?", "answer": "Why have something if you can borrow it?"}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "fill_blank", "title": "Possessive pronouns", "instruction": "Complete with: mine · yours · his · hers · ours · theirs.", "instruction_pt": "Complete com o possessive pronoun.",
+         "items": [{"prompt": "This is my laptop. It's ___.", "answer": "mine"}, {"prompt": "That's Ana's bag. It's ___.", "answer": "hers"}, {"prompt": "Is this your umbrella? Is it ___?", "answer": "yours"}, {"prompt": "That's our car. It's ___.", "answer": "ours"}, {"prompt": "Those are Leo and Bia's kids. They're ___.", "answer": "theirs"}, {"prompt": "This is Pedro's phone. It's ___.", "answer": "his"}]},
+        {"id": "ex2", "type": "multiple_choice", "title": "my or mine?", "instruction": "Choose the correct word.", "instruction_pt": "Escolha a palavra correta.",
+         "items": [{"prompt": "This is ___ key.", "options": ["my", "mine"], "answer": "my"}, {"prompt": "The blue jacket is ___.", "options": ["her", "hers"], "answer": "hers"}, {"prompt": "___ bag is this?", "options": ["Who", "Whose", "Who's"], "answer": "Whose"}, {"prompt": "Is this ___ coffee?", "options": ["your", "yours"], "answer": "your"}, {"prompt": "Their house is old. ___ is new.", "options": ["Our", "Ours"], "answer": "Ours"}]},
+        {"id": "ex3", "type": "multiple_choice", "title": "borrow or lend?", "instruction": "Choose the correct verb.", "instruction_pt": "Escolha o verbo correto.",
+         "items": [{"prompt": "Can I ___ your pen?", "options": ["borrow", "lend"], "answer": "borrow"}, {"prompt": "Can you ___ me some money?", "options": ["borrow", "lend"], "answer": "lend"}, {"prompt": "My brother never ___ me his car.", "options": ["borrows", "lends"], "answer": "lends"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "Whose bag is this?"}, {"prompt": "2", "answer": "I think it's hers."}, {"prompt": "3", "answer": "Can I borrow your charger?"}, {"prompt": "4", "answer": "This isn't mine."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "Who is this jacket?", "answer": "Whose jacket is this?"}, {"prompt": "It's mine bag.", "answer": "It's my bag. / It's mine."}, {"prompt": "Can you borrow me your car?", "answer": "Can you lend me your car?"}, {"prompt": "This book is your.", "answer": "This book is yours."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the dialogue", "instruction": "Complete with: Whose · mine · yours · his · lend.", "instruction_pt": "Complete o diálogo.",
+         "items": [{"prompt": "A: ___ headphones are these?", "answer": "Whose"}, {"prompt": "B: They aren't ___. Mine are black.", "answer": "mine"}, {"prompt": "A: Are they Tiago's? — B: Yes, I think they're ___.", "answer": "his"}, {"prompt": "A: Is this charger ___? Can you ___ it to me for a minute?", "answer": "yours / lend"}]}
+      ],
+      "speaking": {
+        "instruction": "Put 5 objects from different people on a table. Ask and answer: \"Whose is this?\"",
+        "instruction_pt": "Coloque 5 objetos de pessoas diferentes numa mesa. Pergunte e responda: \"Whose is this?\"",
+        "questions": ["What do you often borrow from friends?", "What do you never lend?", "Do you share things with your family? What?", "What's the most important object you own?", "Do you use sharing apps (bikes, scooters, cars)?"]
+      },
+      "writing": {
+        "task": "Write a lost-and-found post for a group chat: describe the item and ask whose it is (40–60 words).",
+        "task_pt": "Escreva um post de achados e perdidos para um grupo: descreva o objeto e pergunte de quem é (40–60 palavras).",
+        "model": "Hi, neighbors! 👋 I found a set of keys in the elevator this morning.\nThere are three keys and a small yellow keychain with a cat.\nWhose are they? They aren't mine or my husband's.\nThey're with the doorman now. 🔑"
+      },
+      "culture_note": {
+        "title": "Borrow, lend e a cultura do \"empresta?\"",
+        "text_pt": "No Brasil, é comum pedir \"empresta aí?\". Em inglês, o pedido educado é **\"Can I borrow...?\"** ou **\"Do you mind if I borrow...?\"**. E quem pega emprestado costuma dizer **\"I'll give it back tomorrow\"** (devolvo amanhã)."
+      },
+      "summary_pt": ["Whose...? = De quem...?", "my/your + substantivo · mine/yours sozinhos.", "mine, yours, his, hers, ours, theirs.", "borrow (pegar) x lend (emprestar)."]
+    }
+  ],
+  "review": {
+    "intro_pt": "Revise o verbo to be em profundidade, perguntas, datas e posse.",
+    "exercises": [
+      {"id": "r1", "type": "multiple_choice", "title": "Choose the correct option", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+       "items": [{"prompt": "I ___ afraid of spiders.", "options": ["have", "am", "do"], "answer": "am"}, {"prompt": "This class is so ___!", "options": ["bored", "boring"], "answer": "boring"}, {"prompt": "___ old is your car?", "options": ["How", "What", "Which"], "answer": "How"}, {"prompt": "My birthday is ___ March 8th.", "options": ["in", "on", "at"], "answer": "on"}, {"prompt": "Is this pen ___?", "options": ["your", "yours", "you"], "answer": "yours"}]},
+      {"id": "r2", "type": "translate", "title": "Translate", "instruction": "Translate into English.", "instruction_pt": "Traduza para o inglês.",
+       "items": [{"prompt": "Tenho 35 anos e estou com fome.", "answer": "I'm 35 and I'm hungry."}, {"prompt": "De quem é este carregador?", "answer": "Whose charger is this?"}, {"prompt": "A reunião é dia 3 de abril.", "answer": "The meeting is on April 3rd."}, {"prompt": "Posso pegar seu livro emprestado?", "answer": "Can I borrow your book?"}]},
+      {"id": "r3", "type": "answer", "title": "Ordinals", "instruction": "Write the ordinal in words.", "instruction_pt": "Escreva o ordinal por extenso.",
+       "items": [{"prompt": "2nd", "answer": "second"}, {"prompt": "9th", "answer": "ninth"}, {"prompt": "23rd", "answer": "twenty-third"}]},
+      {"id": "r4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+       "items": [{"prompt": "1", "answer": "Why are you on mute?"}, {"prompt": "2", "answer": "It's on December twenty-fifth."}, {"prompt": "3", "answer": "That suitcase is mine."}]},
+      {"id": "r5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+       "items": [{"prompt": "I have cold. Close the window!", "answer": "I'm cold. Close the window!"}, {"prompt": "Where is my glasses?", "answer": "Where are my glasses?"}, {"prompt": "Who is this phone?", "answer": "Whose phone is this?"}]}
+    ],
+    "speaking_pt": "Grave um áudio de 1 a 2 minutos se reapresentando: como você está, como é sua vida digital, sua data favorita do ano e um objeto importante para você.",
+    "speaking_questions": ["How are you these days, really?", "Are you a morning person or a night owl?", "What's your favorite app? Why?", "When's your birthday? How do you celebrate?", "What object is really important to you? Whose was it before?"],
+    "project_pt": "**Group calendar:** crie com a turma (ou família) um calendário compartilhado em inglês com aniversários, feriados e prazos importantes do próximo trimestre. Cada pessoa adiciona 3 datas e descreve uma delas em voz alta."
+  }
+}

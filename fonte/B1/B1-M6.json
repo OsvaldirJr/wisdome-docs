@@ -1,0 +1,2224 @@
+{
+  "id": "B1-M6",
+  "level": "B1",
+  "title": "What If?",
+  "theme_pt": "Condicionais, hipóteses, metas e conversa livre",
+  "can_do": [
+    "Falar de fatos gerais e consequências reais com zero e first conditional",
+    "Imaginar situações hipotéticas com o second conditional",
+    "Usar unless, as soon as, when e until para falar do futuro",
+    "Expressar desejos com I wish",
+    "Manter uma conversa livre de 5 minutos sobre temas variados"
+  ],
+  "lessons": [
+    {
+      "id": "B1-M6-L1",
+      "title": "If it rains, we'll stay in",
+      "subtitle_pt": "Zero e first conditional",
+      "duration_min": 60,
+      "source_refs": [
+        "Keynote Intermediate – Unit 9 (zero and first conditional)",
+        "Top Notch 3A – Unit 5 (factual and future conditionals)"
+      ],
+      "objectives": [
+        "Usar o zero conditional para fatos e verdades gerais",
+        "Usar o first conditional para situações reais e prováveis no futuro",
+        "Usar imperativos e modais em condicionais",
+        "Fazer planos com plano B (If..., we'll...)"
+      ],
+      "warmup": {
+        "text_pt": "Se chover no fim de semana, o que você vai fazer? E o que sempre acontece com você se dorme pouco? Condicionais estão em todo lugar!",
+        "questions": [
+          "What will you do if it rains this weekend?",
+          "What happens if you don't drink coffee in the morning?"
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "if / when",
+          "pt": "se / quando",
+          "say": "if / uén"
+        },
+        {
+          "en": "plan B / backup plan",
+          "pt": "plano B",
+          "say": "plén bí / békâp plén"
+        },
+        {
+          "en": "to cancel / to call off",
+          "pt": "cancelar",
+          "say": "tu kénsel / tu kól óf"
+        },
+        {
+          "en": "to boil / to freeze / to melt",
+          "pt": "ferver / congelar / derreter",
+          "say": "tu bóil / tu fríz / tu mélt"
+        },
+        {
+          "en": "to run out of",
+          "pt": "ficar sem, acabar",
+          "say": "tu rân áut ov"
+        },
+        {
+          "en": "to miss (a flight / a bus)",
+          "pt": "perder (voo / ônibus)",
+          "say": "tu mis"
+        },
+        {
+          "en": "to oversleep",
+          "pt": "perder a hora (dormir demais)",
+          "say": "tu ôuverslíp"
+        },
+        {
+          "en": "to get a refund",
+          "pt": "receber reembolso",
+          "say": "tu guét a rífând"
+        },
+        {
+          "en": "forecast",
+          "pt": "previsão do tempo",
+          "say": "fórkest"
+        },
+        {
+          "en": "just in case",
+          "pt": "só por precaução",
+          "say": "djâst in kêis"
+        },
+        {
+          "en": "otherwise",
+          "pt": "caso contrário",
+          "say": "âderuaiz"
+        },
+        {
+          "en": "deal",
+          "pt": "combinado, acordo",
+          "say": "díl"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "If it rains, we'll stay in.",
+          "pt": "Se chover, vamos ficar em casa."
+        },
+        {
+          "en": "If you heat ice, it melts.",
+          "pt": "Se você aquece o gelo, ele derrete."
+        },
+        {
+          "en": "If you need help, call me.",
+          "pt": "Se precisar de ajuda, me ligue."
+        },
+        {
+          "en": "What will you do if they say no?",
+          "pt": "O que você vai fazer se disserem não?"
+        },
+        {
+          "en": "Take an umbrella, just in case.",
+          "pt": "Leve um guarda-chuva, só por precaução."
+        },
+        {
+          "en": "Deal!",
+          "pt": "Combinado!"
+        }
+      ],
+      "grammar": {
+        "title": "Zero and first conditional",
+        "explanation_pt": "**Zero conditional** → fatos, verdades gerais, coisas que **sempre** acontecem:\n**If + present simple, present simple**\n- \"If you **heat** water to 100°C, it **boils**.\"\n- \"If I **drink** coffee after 6 p.m., I **can't** sleep.\"\n(Aqui, **if** = **when**: sempre que.)\n\n**First conditional** → situações **reais e possíveis no futuro** e suas consequências:\n**If + present simple, will + verbo**\n- \"If it **rains** tomorrow, we**'ll stay** home.\"\n- \"If you **don't hurry**, you**'ll miss** the bus.\"\n- \"What **will** you **do** if you **don't get** the job?\"\n\n⚠️ **Regra de ouro:** depois de **if**, **nunca** use will: ❌ \"If it will rain...\" ✅ \"If it **rains**...\" (em português usamos o futuro do subjuntivo — \"se chover\" — mas em inglês é presente simples).\n\nA ordem pode inverter (sem vírgula): \"We'll stay home **if** it rains.\"\n\n**Variações comuns na segunda parte:**\n- modal: \"If you finish early, you **can** go home.\" / \"If it's sunny, we **might** go to the beach.\"\n- imperativo: \"If you see Ana, **tell** her to call me.\"\n- going to: \"If he's late again, I**'m going to** talk to him.\"",
+        "table": {
+          "headers": [
+            "Tipo",
+            "If-clause",
+            "Main clause",
+            "Exemplo"
+          ],
+          "rows": [
+            [
+              "Zero",
+              "present simple",
+              "present simple",
+              "If you mix blue and yellow, you get green."
+            ],
+            [
+              "First",
+              "present simple",
+              "will + verbo",
+              "If you study, you'll pass."
+            ],
+            [
+              "First (modal)",
+              "present simple",
+              "can / might / should",
+              "If it's sunny, we might go out."
+            ],
+            [
+              "First (imperativo)",
+              "present simple",
+              "imperativo",
+              "If you need anything, call me."
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "If we leave now, we'll get there before the traffic.",
+            "pt": "Se sairmos agora, vamos chegar antes do trânsito."
+          },
+          {
+            "en": "If plants don't get enough light, they die.",
+            "pt": "Se as plantas não recebem luz suficiente, elas morrem."
+          },
+          {
+            "en": "If the flight is cancelled, you'll get a refund.",
+            "pt": "Se o voo for cancelado, você vai receber reembolso."
+          }
+        ],
+        "tip_pt": "O mesmo vale para **when**, **as soon as**, **before**, **after**, **until** falando do futuro: \"I'll call you **when** I **arrive**\" (❌ \"when I will arrive\"). Você vai ver mais na lição 3."
+      },
+      "common_mistakes": [
+        {
+          "wrong": "If it will rain, we will stay home.",
+          "right": "If it rains, we'll stay home.",
+          "why_pt": "Depois de if, use o presente simples (não will)."
+        },
+        {
+          "wrong": "If you will need help, call me.",
+          "right": "If you need help, call me.",
+          "why_pt": "Depois de if, presente simples."
+        },
+        {
+          "wrong": "If I'll have time, I'll go.",
+          "right": "If I have time, I'll go.",
+          "why_pt": "O will vai só na outra parte da frase."
+        }
+      ],
+      "pronunciation": {
+        "focus": "'ll fraco e entonação do if",
+        "tip_pt": "Na frase condicional, a voz **sobe** no fim da parte com if e **desce** no fim da consequência: \"If it rains ↗, we'll stay home ↘.\" O **'ll** é rápido: \"we'll\" = \"uíl\", \"you'll\" = \"iúl\", \"it'll\" = \"íról\".",
+        "practice": [
+          "If it rains ↗, we'll stay in ↘.",
+          "If you need help ↗, call me ↘.",
+          "You'll miss the bus if you don't hurry."
+        ]
+      },
+      "dialogue": {
+        "title": "Planning a trip with plan B",
+        "context_pt": "Amigos planejam uma trilha no fim de semana e pensam em alternativas.",
+        "lines": [
+          {
+            "speaker": "Duda",
+            "en": "So, the plan is to hike Pedra Bonita on Saturday. What if it rains?",
+            "pt": "Então, o plano é fazer a trilha da Pedra Bonita no sábado. E se chover?"
+          },
+          {
+            "speaker": "Igor",
+            "en": "If it rains, the trail will be too dangerous. We'll go to the Botanical Garden instead.",
+            "pt": "Se chover, a trilha vai ficar perigosa demais. Vamos ao Jardim Botânico no lugar."
+          },
+          {
+            "speaker": "Duda",
+            "en": "Good plan B. What time should we leave?",
+            "pt": "Bom plano B. Que horas devemos sair?"
+          },
+          {
+            "speaker": "Igor",
+            "en": "At 6. If we leave later, it'll be too hot at the top. And if you get there late, you won't see the sunrise.",
+            "pt": "Às 6. Se sairmos mais tarde, vai estar quente demais no topo. E se chegar tarde, não vai ver o nascer do sol."
+          },
+          {
+            "speaker": "Duda",
+            "en": "6 a.m.?! If I go to bed late on Friday, I'll never wake up.",
+            "pt": "6 da manhã?! Se eu dormir tarde na sexta, não acordo nunca."
+          },
+          {
+            "speaker": "Igor",
+            "en": "Then don't go out on Friday! And bring water — if you don't drink enough, you get dizzy on that trail.",
+            "pt": "Então não saia na sexta! E leve água — se você não bebe o suficiente, fica tonto nessa trilha."
+          },
+          {
+            "speaker": "Duda",
+            "en": "OK, deal. If I oversleep, call me. Twice.",
+            "pt": "OK, combinado. Se eu perder a hora, me liga. Duas vezes."
+          }
+        ]
+      },
+      "listening": {
+        "title": "Airline announcement",
+        "context_pt": "Um anúncio no aeroporto sobre um voo atrasado.",
+        "lines": [
+          {
+            "speaker": "Announcer",
+            "en": "Attention, passengers on flight 3307 to Recife. Due to bad weather, your flight is delayed. If the weather improves, we will start boarding at 8:45. If the flight is cancelled, you will receive a hotel voucher and you'll be rebooked on the first flight tomorrow morning. If you have a connecting flight, please go to the service desk near gate 14. If you need to eat while you wait, meal vouchers are available at the same desk. We apologize for the inconvenience."
+          }
+        ],
+        "questions": [
+          {
+            "q": "Why is the flight delayed?",
+            "answer": "Due to bad weather."
+          },
+          {
+            "q": "When will boarding start if the weather improves?",
+            "answer": "At 8:45."
+          },
+          {
+            "q": "What will passengers get if the flight is cancelled?",
+            "answer": "A hotel voucher and rebooking on the first flight tomorrow."
+          },
+          {
+            "q": "Where should passengers with connecting flights go?",
+            "answer": "To the service desk near gate 14."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Small habits, big results",
+        "text": "If you read ten pages a day, you'll read about a dozen books a year. If you save ten reais a day, you'll have more than 3,600 reais in twelve months. This is the logic behind \"small habits\", an idea popularized by writers like James Clear. The concept is simple: small actions, repeated consistently, produce big results over time. It works the other way too: if you sleep one hour less every night, you'll lose more than 300 hours of sleep in a year — and your health will suffer. Experts suggest using \"if-then\" plans to build new habits: \"If it's 7 a.m., I'll drink a glass of water.\" \"If I feel like checking social media, I'll do five push-ups first.\" Studies show that people who make if-then plans are much more likely to achieve their goals.",
+        "questions": [
+          {
+            "q": "What will happen if you read ten pages a day?",
+            "answer": "You'll read about a dozen books a year."
+          },
+          {
+            "q": "What's the concept of small habits?",
+            "answer": "Small actions, repeated consistently, produce big results over time."
+          },
+          {
+            "q": "What will happen if you sleep one hour less every night?",
+            "answer": "You'll lose more than 300 hours of sleep a year and your health will suffer."
+          },
+          {
+            "q": "What are if-then plans?",
+            "answer": "Plans that connect a situation to an action (If X, I'll do Y)."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "fill_blank",
+          "title": "Zero conditional",
+          "instruction": "Complete with the present simple.",
+          "instruction_pt": "Complete com o presente simples.",
+          "items": [
+            {
+              "prompt": "If you ___ (heat) ice, it ___ (melt).",
+              "answer": "heat / melts"
+            },
+            {
+              "prompt": "If I ___ (eat) too much, I ___ (feel) sick.",
+              "answer": "eat / feel"
+            },
+            {
+              "prompt": "If plants ___ (not / get) water, they ___ (die).",
+              "answer": "don't get / die"
+            },
+            {
+              "prompt": "If you ___ (press) this button, the machine ___ (stop).",
+              "answer": "press / stops"
+            }
+          ]
+        },
+        {
+          "id": "ex2",
+          "type": "fill_blank",
+          "title": "First conditional",
+          "instruction": "Complete with the correct form (present simple or will).",
+          "instruction_pt": "Complete com a forma correta (presente simples ou will).",
+          "items": [
+            {
+              "prompt": "If it ___ (be) sunny tomorrow, we ___ (go) to the beach.",
+              "answer": "is / 'll go"
+            },
+            {
+              "prompt": "If you ___ (not / study), you ___ (fail) the test.",
+              "answer": "don't study / 'll fail"
+            },
+            {
+              "prompt": "She ___ (be) angry if you ___ (forget) her birthday.",
+              "answer": "'ll be / forget"
+            },
+            {
+              "prompt": "What ___ you ___ (do) if you ___ (not / get) the job?",
+              "answer": "will / do / don't get"
+            }
+          ]
+        },
+        {
+          "id": "ex3",
+          "type": "match",
+          "title": "Match the halves",
+          "instruction": "Complete each sentence with a logical consequence.",
+          "instruction_pt": "Complete cada frase com uma consequência lógica.",
+          "items": [
+            {
+              "prompt": "If you don't hurry,",
+              "answer": "you'll miss the bus."
+            },
+            {
+              "prompt": "If you mix red and white,",
+              "answer": "you get pink."
+            },
+            {
+              "prompt": "If you see Pedro,",
+              "answer": "tell him to call me."
+            },
+            {
+              "prompt": "If it's cold tonight,",
+              "answer": "we might light the fireplace."
+            }
+          ]
+        },
+        {
+          "id": "ex4",
+          "type": "dictation",
+          "title": "Dictation",
+          "instruction": "Listen and write the sentence.",
+          "instruction_pt": "Ouça e escreva a frase.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "If it rains, we'll stay in."
+            },
+            {
+              "prompt": "2",
+              "answer": "If you need help, call me."
+            },
+            {
+              "prompt": "3",
+              "answer": "What will you do if they say no?"
+            },
+            {
+              "prompt": "4",
+              "answer": "Take an umbrella, just in case."
+            }
+          ]
+        },
+        {
+          "id": "ex5",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the mistake.",
+          "instruction_pt": "Encontre e corrija o erro.",
+          "items": [
+            {
+              "prompt": "If it will be sunny, we'll go out.",
+              "answer": "If it's sunny, we'll go out."
+            },
+            {
+              "prompt": "If you will call me, I'll answer.",
+              "answer": "If you call me, I'll answer."
+            },
+            {
+              "prompt": "If I see her, I tell her. (futuro)",
+              "answer": "If I see her, I'll tell her."
+            },
+            {
+              "prompt": "We'll go if you will want.",
+              "answer": "We'll go if you want."
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "fill_blank",
+          "title": "Complete the dialogue",
+          "instruction": "Complete with: if · 'll · just in case · don't · deal.",
+          "instruction_pt": "Complete o diálogo.",
+          "items": [
+            {
+              "prompt": "A: ___ you finish early, can you pick up the kids?",
+              "answer": "If"
+            },
+            {
+              "prompt": "B: Sure. I ___ text you when I leave.",
+              "answer": "'ll"
+            },
+            {
+              "prompt": "A: And if they ___ have their jackets, buy them some hot chocolate.",
+              "answer": "don't"
+            },
+            {
+              "prompt": "B: OK. I'll take an umbrella, ___. — A: Perfect, ___!",
+              "answer": "just in case / deal"
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction": "Chain game: start a first conditional sentence and your partner continues with the consequence as a new condition (If I win the race, I'll get a medal. If I get a medal, I'll...).",
+        "instruction_pt": "Jogo em cadeia: comece uma frase no first conditional e o colega continua com a consequência como nova condição (If I win the race, I'll get a medal. If I get a medal, I'll...).",
+        "questions": [
+          "What will you do if it rains this weekend?",
+          "What happens if you don't sleep enough?",
+          "If you get a raise this year, what will you do with the money?",
+          "What will you do if you don't understand something in a meeting in English?",
+          "If you could start one small habit tomorrow, what would it be? Why?"
+        ]
+      },
+      "writing": {
+        "task": "Write 6 \"if-then\" plans (zero or first conditional) to build a new habit or reach a goal, then a short paragraph (60–80 words) explaining your plan B if things go wrong.",
+        "task_pt": "Escreva 6 planos \"se-então\" (zero ou first conditional) para criar um hábito ou atingir uma meta e depois um parágrafo curto (60–80 palavras) explicando seu plano B se algo der errado.",
+        "model": "Goal: run a 10K in six months.\n1. If it's Monday, Wednesday or Friday, I'll run after work.\n2. If it rains, I'll do a home workout video.\n3. If I feel tired, I'll walk instead of running — but I won't skip.\n4. If I run 3 times in a week, I'll treat myself to açaí.\n5. If I don't sleep 7 hours, I get injured more easily, so I'll go to bed at 10:30.\n6. If I lose motivation, I'll call my running buddy.\nPlan B: If I get injured, I'll stop running and see a physiotherapist. If the injury is serious, I'll choose a later race and focus on swimming, which is easier on the knees. If I can't do the 10K in six months, I'll do a 5K first. The important thing is not to give up."
+      },
+      "culture_note": {
+        "title": "\"Just in case\" e o \"plano B\"",
+        "text_pt": "Em inglês, ter um **backup plan** é sinal de profissionalismo. Expressões úteis: **\"What if...?\"** (E se...?), **\"Let's hope for the best and prepare for the worst\"** e **\"Better safe than sorry\"** (melhor prevenir do que remediar)."
+      },
+      "summary_pt": [
+        "Zero: If + present, present (fatos gerais).",
+        "First: If + present, will + verbo (futuro real).",
+        "Nunca will depois de if.",
+        "Pode usar modal ou imperativo na consequência."
+      ]
+    },
+    {
+      "id": "B1-M6-L2",
+      "title": "If I won the lottery",
+      "subtitle_pt": "Second conditional e I wish",
+      "duration_min": 60,
+      "source_refs": [
+        "Keynote Intermediate – Unit 12 (second conditional)",
+        "SAM-B3 – Lesson 4 (would questions)"
+      ],
+      "objectives": [
+        "Usar o second conditional para situações hipotéticas ou imaginárias",
+        "Usar were para todas as pessoas (If I were...)",
+        "Diferenciar first e second conditional",
+        "Expressar desejos sobre o presente com I wish + passado"
+      ],
+      "warmup": {
+        "text_pt": "Se você ganhasse na loteria amanhã, o que faria? Se pudesse morar em qualquer país, qual escolheria? Hoje vamos sonhar — em inglês!",
+        "questions": [
+          "What would you do if you won the lottery?",
+          "If you could have any superpower, what would it be?"
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "to win the lottery",
+          "pt": "ganhar na loteria",
+          "say": "tu uín dâ lótari"
+        },
+        {
+          "en": "to quit (my job)",
+          "pt": "largar (o emprego)",
+          "say": "tu kuít"
+        },
+        {
+          "en": "to give away",
+          "pt": "doar, dar",
+          "say": "tu guív auêi"
+        },
+        {
+          "en": "to travel the world",
+          "pt": "viajar o mundo",
+          "say": "tu trével dâ uârld"
+        },
+        {
+          "en": "superpower",
+          "pt": "superpoder",
+          "say": "súperpauer"
+        },
+        {
+          "en": "invisible",
+          "pt": "invisível",
+          "say": "invízibol"
+        },
+        {
+          "en": "to read minds",
+          "pt": "ler mentes",
+          "say": "tu ríd máindz"
+        },
+        {
+          "en": "time machine",
+          "pt": "máquina do tempo",
+          "say": "táim mashín"
+        },
+        {
+          "en": "desert island",
+          "pt": "ilha deserta",
+          "say": "dézert áiland"
+        },
+        {
+          "en": "to be in charge",
+          "pt": "estar no comando",
+          "say": "tu bí in tchárdj"
+        },
+        {
+          "en": "I wish...",
+          "pt": "Eu queria que... / Quem me dera...",
+          "say": "ái uísh"
+        },
+        {
+          "en": "realistic / hypothetical",
+          "pt": "realista / hipotético",
+          "say": "rialístik / raipoθétikal"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "If I won the lottery, I'd travel the world.",
+          "pt": "Se eu ganhasse na loteria, viajaria o mundo."
+        },
+        {
+          "en": "If I were you, I'd say yes.",
+          "pt": "Se eu fosse você, diria sim."
+        },
+        {
+          "en": "What would you do if you were president?",
+          "pt": "O que você faria se fosse presidente?"
+        },
+        {
+          "en": "I wouldn't do that if I were you.",
+          "pt": "Eu não faria isso se fosse você."
+        },
+        {
+          "en": "I wish I had more time.",
+          "pt": "Queria ter mais tempo."
+        },
+        {
+          "en": "I wish I could speak French.",
+          "pt": "Quem me dera falar francês."
+        }
+      ],
+      "grammar": {
+        "title": "Second conditional + I wish",
+        "explanation_pt": "**Second conditional** → situações **imaginárias, hipotéticas ou improváveis** (no presente ou futuro):\n**If + past simple, would + verbo**\n- \"If I **won** the lottery, I**'d buy** a house in the mountains.\"\n- \"If I **had** more time, I**'d learn** to play the guitar.\"\n- \"What **would** you **do** if you **lost** your job?\"\n\nO passado aqui **não fala do passado** — ele mostra **distância da realidade** (como o \"se eu ganhasse\" do português).\n\n**If I were...** → com o verbo to be, use **were** para todas as pessoas (formal e recomendado): \"If I **were** rich...\" / \"If she **were** here...\" (Na fala informal, \"if I was\" também aparece.)\n\n**Could / might** também funcionam: \"If I had a car, I **could** visit you more often.\"\n\n**First x second:**\n- \"If it **rains** tomorrow, I**'ll** stay home.\" → possível, realista\n- \"If it **snowed** in Rio, I**'d** build a snowman.\" → imaginário, improvável\n\n**I wish + past simple** → desejo de que o **presente** fosse diferente:\n- \"I **wish** I **lived** near the beach.\" (mas não moro)\n- \"I **wish** I **were** taller.\"\n- \"I **wish** I **could** speak Japanese.\" (habilidade → could)",
+        "table": {
+          "headers": [
+            "Realidade",
+            "Second conditional / wish"
+          ],
+          "rows": [
+            [
+              "I don't have money.",
+              "If I had money, I'd travel."
+            ],
+            [
+              "I'm not you.",
+              "If I were you, I'd apologize."
+            ],
+            [
+              "I can't drive.",
+              "If I could drive, I'd go by car. / I wish I could drive."
+            ],
+            [
+              "I live far from work.",
+              "I wish I lived closer to work."
+            ],
+            [
+              "She isn't here.",
+              "If she were here, she'd know what to do."
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "If I could have any superpower, I'd choose teleportation. No more traffic!",
+            "pt": "Se eu pudesse ter qualquer superpoder, escolheria teletransporte. Chega de trânsito!"
+          },
+          {
+            "en": "Would you live abroad if you had the chance?",
+            "pt": "Você moraria fora se tivesse a chance?"
+          },
+          {
+            "en": "I wish I had more free time, but I wouldn't change my job.",
+            "pt": "Queria ter mais tempo livre, mas não mudaria de emprego."
+          }
+        ],
+        "tip_pt": "O **'d** pode ser **would** ou **had**. No second conditional, a parte com **'d** é sempre **would** + verbo base: \"I'd travel\" = I would travel."
+      },
+      "common_mistakes": [
+        {
+          "wrong": "If I would have money, I would travel.",
+          "right": "If I had money, I would travel.",
+          "why_pt": "Depois de if, use o past simple (não would)."
+        },
+        {
+          "wrong": "If I was you, I'd go. (em provas)",
+          "right": "If I were you, I'd go.",
+          "why_pt": "A forma padrão é If I were."
+        },
+        {
+          "wrong": "I wish I have a car.",
+          "right": "I wish I had a car.",
+          "why_pt": "I wish (presente) + past simple."
+        }
+      ],
+      "pronunciation": {
+        "focus": "I'd, you'd, wouldn't",
+        "tip_pt": "**I'd** = \"áid\", **you'd** = \"iúd\", **we'd** = \"uíd\" — o D é curto, mas não pode sumir (\"I travel\" ≠ \"I'd travel\"). **Wouldn't** = \"uúdent\" (L mudo, T leve).",
+        "practice": [
+          "If I won the lottery, I'd buy a farm.",
+          "I wouldn't do that if I were you.",
+          "What would you do?"
+        ]
+      },
+      "dialogue": {
+        "title": "Lottery dreams",
+        "context_pt": "Três colegas brincam sobre o que fariam se ganhassem na Mega-Sena da Virada.",
+        "lines": [
+          {
+            "speaker": "Rosa",
+            "en": "The Mega-Sena prize is 600 million this year! What would you do if you won?",
+            "pt": "O prêmio da Mega da Virada é 600 milhões este ano! O que você faria se ganhasse?"
+          },
+          {
+            "speaker": "Kai",
+            "en": "Easy. I'd quit my job the next day and buy a sailboat. I'd sail around the world.",
+            "pt": "Fácil. Eu largaria o emprego no dia seguinte e compraria um veleiro. Daria a volta ao mundo."
+          },
+          {
+            "speaker": "Pedro",
+            "en": "If I won, I wouldn't quit immediately. I'd take a year off and then start my own business.",
+            "pt": "Se eu ganhasse, não largaria na hora. Tiraria um ano de folga e depois abriria meu próprio negócio."
+          },
+          {
+            "speaker": "Rosa",
+            "en": "Very responsible! I'd give a lot away. I'd build a school in my grandmother's town.",
+            "pt": "Muito responsável! Eu doaria muito. Construiria uma escola na cidade da minha avó."
+          },
+          {
+            "speaker": "Kai",
+            "en": "That's beautiful. Would you tell people you'd won?",
+            "pt": "Que lindo. Você contaria para as pessoas que tinha ganhado?"
+          },
+          {
+            "speaker": "Rosa",
+            "en": "No way! If people knew, everyone would ask me for money.",
+            "pt": "De jeito nenhum! Se as pessoas soubessem, todo mundo me pediria dinheiro."
+          },
+          {
+            "speaker": "Pedro",
+            "en": "Well, I wish I had bought a ticket. We're just dreaming!",
+            "pt": "Bom, eu queria ter comprado um bilhete. Estamos só sonhando!"
+          }
+        ]
+      },
+      "listening": {
+        "title": "Desert island podcast",
+        "context_pt": "Em um podcast, convidados respondem: o que levariam para uma ilha deserta?",
+        "lines": [
+          {
+            "speaker": "Host",
+            "en": "Today's question: if you were stuck on a desert island, which three things would you take?"
+          },
+          {
+            "speaker": "Chef",
+            "en": "If I were on a desert island, I'd take a good knife, a cooking pot and salt. I'd catch fish and eat like a king!"
+          },
+          {
+            "speaker": "Writer",
+            "en": "I'd take a notebook, a pen and a really long book. If I had all that time, I'd finally finish my novel."
+          },
+          {
+            "speaker": "Host",
+            "en": "And you, Dr. Lima?"
+          },
+          {
+            "speaker": "Dr. Lima",
+            "en": "Honestly? A satellite phone, a water filter and sunscreen. If I were there, I wouldn't want to stay — I'd want to go home!"
+          }
+        ],
+        "questions": [
+          {
+            "q": "What would the chef take?",
+            "answer": "A good knife, a cooking pot and salt."
+          },
+          {
+            "q": "What would the writer do with all that time?",
+            "answer": "Finally finish her/his novel."
+          },
+          {
+            "q": "What would Dr. Lima take?",
+            "answer": "A satellite phone, a water filter and sunscreen."
+          },
+          {
+            "q": "Why is Dr. Lima's answer different?",
+            "answer": "He wouldn't want to stay — he'd want to go home."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Would money make you happier?",
+        "text": "If you suddenly became a millionaire, would you be happier? Most people say yes immediately. But research on lottery winners shows a more complicated picture. In a famous study from the 1970s, psychologists compared lottery winners with ordinary people and found that, after some time, the winners weren't much happier — they had adapted to their new lives. More recent research suggests that money does increase happiness, especially when it removes financial stress. But how you use it matters. People who spend money on experiences, on other people, or on buying time — like paying someone to do the chores they hate — tend to report more satisfaction than those who buy expensive things. So, if you won the lottery tomorrow, what would make you happier: a sports car, or more time with the people you love?",
+        "questions": [
+          {
+            "q": "What did the 1970s study find?",
+            "answer": "After some time, lottery winners weren't much happier — they had adapted."
+          },
+          {
+            "q": "When does money increase happiness, according to recent research?",
+            "answer": "Especially when it removes financial stress."
+          },
+          {
+            "q": "How should you spend money to be happier?",
+            "answer": "On experiences, on other people, or on buying time."
+          },
+          {
+            "q": "What does \"buying time\" mean in the text?",
+            "answer": "Paying someone to do chores you hate."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "fill_blank",
+          "title": "Second conditional",
+          "instruction": "Complete with the past simple or would + verb.",
+          "instruction_pt": "Complete com o past simple ou would + verbo.",
+          "items": [
+            {
+              "prompt": "If I ___ (have) a million dollars, I ___ (buy) a farm.",
+              "answer": "had / 'd buy"
+            },
+            {
+              "prompt": "If she ___ (be) here, she ___ (know) what to do.",
+              "answer": "were / 'd know"
+            },
+            {
+              "prompt": "What ___ you ___ (do) if you ___ (lose) your phone?",
+              "answer": "would / do / lost"
+            },
+            {
+              "prompt": "If we ___ (live) in Paris, we ___ (not / need) a car.",
+              "answer": "lived / wouldn't need"
+            }
+          ]
+        },
+        {
+          "id": "ex2",
+          "type": "multiple_choice",
+          "title": "First or second?",
+          "instruction": "Choose the most natural option.",
+          "instruction_pt": "Escolha a opção mais natural.",
+          "items": [
+            {
+              "prompt": "If it ___ tomorrow, we'll cancel the picnic. (é possível)",
+              "options": [
+                "rains",
+                "rained"
+              ],
+              "answer": "rains"
+            },
+            {
+              "prompt": "If I ___ a bird, I'd fly to Bahia. (impossível)",
+              "options": [
+                "am",
+                "were"
+              ],
+              "answer": "were"
+            },
+            {
+              "prompt": "If you ___ hard, you'll pass the exam.",
+              "options": [
+                "study",
+                "studied"
+              ],
+              "answer": "study"
+            },
+            {
+              "prompt": "If I ___ the president, I'd invest in education.",
+              "options": [
+                "am",
+                "were"
+              ],
+              "answer": "were"
+            }
+          ]
+        },
+        {
+          "id": "ex3",
+          "type": "answer",
+          "title": "I wish",
+          "instruction": "Write a wish for each situation.",
+          "instruction_pt": "Escreva um desejo para cada situação.",
+          "items": [
+            {
+              "prompt": "I don't have a car.",
+              "answer": "I wish I had a car."
+            },
+            {
+              "prompt": "I can't speak Italian.",
+              "answer": "I wish I could speak Italian."
+            },
+            {
+              "prompt": "I live far from my family.",
+              "answer": "I wish I lived closer to my family."
+            },
+            {
+              "prompt": "It's raining.",
+              "answer": "I wish it weren't / wasn't raining."
+            }
+          ]
+        },
+        {
+          "id": "ex4",
+          "type": "dictation",
+          "title": "Dictation",
+          "instruction": "Listen and write the sentence.",
+          "instruction_pt": "Ouça e escreva a frase.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "If I won the lottery, I'd travel the world."
+            },
+            {
+              "prompt": "2",
+              "answer": "If I were you, I'd say yes."
+            },
+            {
+              "prompt": "3",
+              "answer": "I wish I had more time."
+            },
+            {
+              "prompt": "4",
+              "answer": "What would you do if you were president?"
+            }
+          ]
+        },
+        {
+          "id": "ex5",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the mistake.",
+          "instruction_pt": "Encontre e corrija o erro.",
+          "items": [
+            {
+              "prompt": "If I would be rich, I'd help my family.",
+              "answer": "If I were rich, I'd help my family."
+            },
+            {
+              "prompt": "If I had time, I will learn piano.",
+              "answer": "If I had time, I'd learn piano."
+            },
+            {
+              "prompt": "I wish I can fly.",
+              "answer": "I wish I could fly."
+            },
+            {
+              "prompt": "If I knew the answer, I tell you.",
+              "answer": "If I knew the answer, I'd tell you."
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "fill_blank",
+          "title": "Complete the conversation",
+          "instruction": "Complete with: would · were · could · wish · had.",
+          "instruction_pt": "Complete a conversa.",
+          "items": [
+            {
+              "prompt": "A: If you ___ live anywhere, where would you live?",
+              "answer": "could"
+            },
+            {
+              "prompt": "B: Lisbon. If I ___ a remote job, I'd move tomorrow.",
+              "answer": "had"
+            },
+            {
+              "prompt": "A: ___ you miss Brazil?",
+              "answer": "Would"
+            },
+            {
+              "prompt": "B: Of course. I ___ my family could come with me. If they ___ there, it would be perfect.",
+              "answer": "wish / were"
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction": "Answer the SAM-style \"would\" questions with the second conditional. Give reasons and ask your partner the same questions.",
+        "instruction_pt": "Responda às perguntas \"would\" no estilo SAM com o second conditional. Dê motivos e faça as mesmas perguntas ao colega.",
+        "questions": [
+          "Would you go on a trip alone? Where?",
+          "Would you live anywhere else? Where would you live?",
+          "Would you change your job for a completely different one?",
+          "Would you get a tattoo? What would it be?",
+          "If you could have dinner with any person, alive or dead, who would it be?",
+          "What do you wish you could change about your city?"
+        ]
+      },
+      "writing": {
+        "task": "Write an opinion text (120–150 words): \"If I could change one thing in the world, it would be...\". Use the second conditional and I wish.",
+        "task_pt": "Escreva um texto de opinião (120–150 palavras): \"Se eu pudesse mudar uma coisa no mundo, seria...\". Use o second conditional e I wish.",
+        "model": "If I could change one thing in the world, I would give every child access to good education. If all children went to good schools, they would have more opportunities and fewer of them would live in poverty. Education would also help people make better decisions about health, money and the environment. If I were a politician, I would pay teachers much better salaries, because they are the most important professionals in any country. I would also make sure that every school had internet, libraries and healthy food. I know it's not simple — it would cost a lot of money and take many years. But I wish more leaders thought about the long term. If we invested in children today, the whole world would be different in twenty years."
+      },
+      "culture_note": {
+        "title": "Mega da Virada e \"If I had a million dollars\"",
+        "text_pt": "Sonhar com a loteria é universal. Nos EUA, os prêmios da **Powerball** e da **Mega Millions** já passaram de 1 bilhão de dólares. E a música \"If I Had $1,000,000\" (Barenaked Ladies) é um clássico para praticar o second conditional cantando!"
+      },
+      "summary_pt": [
+        "If + past simple, would + verbo (hipótese).",
+        "If I were... (para todas as pessoas).",
+        "First = possível · Second = imaginário/improvável.",
+        "I wish + past simple / could."
+      ]
+    },
+    {
+      "id": "B1-M6-L3",
+      "title": "Unless you hurry",
+      "subtitle_pt": "Unless, as soon as, when, until, in case",
+      "duration_min": 55,
+      "source_refs": [
+        "Keynote Intermediate – Unit 9 (time clauses)",
+        "Top Notch 3B – Unit 8 (future time clauses)"
+      ],
+      "objectives": [
+        "Usar unless (= if not) corretamente",
+        "Usar as soon as, when, before, after, until com presente simples para o futuro",
+        "Usar in case para precaução",
+        "Falar sobre metas, prazos e planos de carreira"
+      ],
+      "warmup": {
+        "text_pt": "\"Assim que eu terminar o curso, vou procurar emprego.\" \"A menos que chova, vamos à praia.\" Hoje vamos aprender os conectores que deixam seus planos mais precisos.",
+        "questions": [
+          "What will you do as soon as you get home today?",
+          "What won't you do unless you have to?"
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "unless",
+          "pt": "a menos que, a não ser que",
+          "say": "anlés"
+        },
+        {
+          "en": "as soon as",
+          "pt": "assim que",
+          "say": "éz sún éz"
+        },
+        {
+          "en": "until / till",
+          "pt": "até (que)",
+          "say": "antíl / til"
+        },
+        {
+          "en": "in case",
+          "pt": "caso, para o caso de",
+          "say": "in kêis"
+        },
+        {
+          "en": "provided that / as long as",
+          "pt": "desde que",
+          "say": "prováidid dét / éz lóng éz"
+        },
+        {
+          "en": "goal / target",
+          "pt": "meta / alvo",
+          "say": "gôul / tárguet"
+        },
+        {
+          "en": "deadline",
+          "pt": "prazo final",
+          "say": "dédlain"
+        },
+        {
+          "en": "to achieve",
+          "pt": "alcançar, conquistar",
+          "say": "tu atchív"
+        },
+        {
+          "en": "to make progress",
+          "pt": "progredir",
+          "say": "tu mêik prógres"
+        },
+        {
+          "en": "to keep track of",
+          "pt": "acompanhar, monitorar",
+          "say": "tu kíp trék ov"
+        },
+        {
+          "en": "milestone",
+          "pt": "marco, etapa importante",
+          "say": "máilstoun"
+        },
+        {
+          "en": "step by step",
+          "pt": "passo a passo",
+          "say": "stép bái stép"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "Unless you hurry, you'll miss the train.",
+          "pt": "A menos que você se apresse, vai perder o trem."
+        },
+        {
+          "en": "I'll call you as soon as I land.",
+          "pt": "Te ligo assim que pousar."
+        },
+        {
+          "en": "Wait here until I come back.",
+          "pt": "Espere aqui até eu voltar."
+        },
+        {
+          "en": "Take some cash in case the card doesn't work.",
+          "pt": "Leve dinheiro caso o cartão não funcione."
+        },
+        {
+          "en": "You can borrow it as long as you return it.",
+          "pt": "Pode pegar emprestado desde que devolva."
+        },
+        {
+          "en": "Step by step, you'll get there.",
+          "pt": "Passo a passo, você chega lá."
+        }
+      ],
+      "grammar": {
+        "title": "Unless e time clauses no futuro",
+        "explanation_pt": "**Unless** = **if... not** (a menos que):\n- \"**Unless** you study, you'll fail.\" = \"**If** you **don't** study, you'll fail.\"\n- ⚠️ Unless já é negativo: ❌ \"Unless you don't study...\"\n\n**Time clauses no futuro** — a mesma regra do if: depois de **when, as soon as, before, after, until**, use o **presente simples**, mesmo falando do futuro:\n- \"I'll call you **when** I **arrive**.\" (❌ when I will arrive)\n- \"**As soon as** I **get** the results, I'll let you know.\"\n- \"We'll wait **until** the rain **stops**.\"\n- \"**Before** you **leave**, turn off the lights.\"\n- \"**After** I **finish** this course, I'm going to take the TOEFL.\"\n\nTambém dá para usar o **present perfect** para enfatizar que a ação estará completa: \"I'll call you **as soon as** I**'ve finished**.\"\n\n**In case** = por precaução (caso aconteça):\n- \"Take an umbrella **in case** it rains.\" (leve — talvez chova)\n- Compare: \"Take an umbrella **if** it rains.\" (só leve se estiver chovendo)\n\n**As long as / provided that** = desde que (condição):\n- \"You can use my car **as long as** you **drive** carefully.\"",
+        "table": {
+          "headers": [
+            "Conector",
+            "Sentido",
+            "Exemplo"
+          ],
+          "rows": [
+            [
+              "unless",
+              "se não, a menos que",
+              "I won't go unless you come too."
+            ],
+            [
+              "as soon as",
+              "assim que",
+              "I'll text you as soon as I arrive."
+            ],
+            [
+              "until",
+              "até que",
+              "Stay here until I call you."
+            ],
+            [
+              "when",
+              "quando",
+              "When I retire, I'll live by the sea."
+            ],
+            [
+              "in case",
+              "por precaução",
+              "Save the file in case the power goes out."
+            ],
+            [
+              "as long as",
+              "desde que",
+              "You can go as long as you're back by 10."
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "Unless something unexpected happens, I'll finish my degree next year.",
+            "pt": "A menos que aconteça algo inesperado, termino a faculdade ano que vem."
+          },
+          {
+            "en": "As soon as I reach B2, I'm going to apply for jobs abroad.",
+            "pt": "Assim que eu chegar ao B2, vou me candidatar a vagas no exterior."
+          },
+          {
+            "en": "Write your goals down in case you forget why you started.",
+            "pt": "Anote suas metas caso você esqueça por que começou."
+          }
+        ],
+        "tip_pt": "**Until** = até (tempo). **By** = até no máximo (prazo): \"Wait **until** 5\" (espere até as 5) x \"Send it **by** 5\" (envie até as 5, no máximo)."
+      },
+      "common_mistakes": [
+        {
+          "wrong": "Unless you don't hurry, you'll be late.",
+          "right": "Unless you hurry, you'll be late.",
+          "why_pt": "Unless já significa \"se não\". Não use duas negativas."
+        },
+        {
+          "wrong": "I'll call you when I will arrive.",
+          "right": "I'll call you when I arrive.",
+          "why_pt": "Depois de when/as soon as, presente simples."
+        },
+        {
+          "wrong": "Send me the report until Friday.",
+          "right": "Send me the report by Friday.",
+          "why_pt": "Prazo = by. Until = duração até um ponto."
+        }
+      ],
+      "pronunciation": {
+        "focus": "Unless, until, as soon as",
+        "tip_pt": "**Unless** = \"an-LÉS\" (força no fim). **Until** = \"an-TÍL\" (força no fim). **As soon as** é dito rápido, como uma palavra: \"azsúnaz\".",
+        "practice": [
+          "Unless you hurry, you'll be late.",
+          "Wait until I call you.",
+          "I'll text you as soon as I arrive."
+        ]
+      },
+      "dialogue": {
+        "title": "Career plans",
+        "context_pt": "Uma mentora conversa com uma jovem profissional sobre seus planos de carreira.",
+        "lines": [
+          {
+            "speaker": "Mentor",
+            "en": "So, Bruna, what's your plan for the next two years?",
+            "pt": "Então, Bruna, qual é seu plano para os próximos dois anos?"
+          },
+          {
+            "speaker": "Bruna",
+            "en": "I want to work for an international company. As soon as I finish my MBA in June, I'll start applying.",
+            "pt": "Quero trabalhar numa empresa internacional. Assim que terminar meu MBA em junho, vou começar a me candidatar."
+          },
+          {
+            "speaker": "Mentor",
+            "en": "Great. And your English?",
+            "pt": "Ótimo. E seu inglês?"
+          },
+          {
+            "speaker": "Bruna",
+            "en": "I'm at B1 now. I won't apply for senior roles until I reach B2 — I want to feel confident in interviews.",
+            "pt": "Estou no B1 agora. Não vou me candidatar a vagas sênior até chegar ao B2 — quero me sentir confiante nas entrevistas."
+          },
+          {
+            "speaker": "Mentor",
+            "en": "Smart. But don't wait too long. Unless you practice speaking every week, the interviews will feel hard anyway.",
+            "pt": "Inteligente. Mas não espere demais. A menos que você pratique conversação toda semana, as entrevistas vão parecer difíceis de qualquer forma."
+          },
+          {
+            "speaker": "Bruna",
+            "en": "True. I'll join a conversation group. And I'll update my LinkedIn in English, in case recruiters find me first.",
+            "pt": "Verdade. Vou entrar num grupo de conversação. E vou atualizar meu LinkedIn em inglês, caso recrutadores me encontrem antes."
+          },
+          {
+            "speaker": "Mentor",
+            "en": "Perfect. Send me your CV by Friday, and I'll review it as soon as I can.",
+            "pt": "Perfeito. Me mande seu currículo até sexta, e eu reviso assim que puder."
+          }
+        ]
+      },
+      "listening": {
+        "title": "Travel checklist call",
+        "context_pt": "Uma mãe liga para o filho antes de ele viajar sozinho pela primeira vez.",
+        "lines": [
+          {
+            "speaker": "Mom",
+            "en": "Do you have everything? Passport, tickets, charger?"
+          },
+          {
+            "speaker": "Theo",
+            "en": "Yes, Mom. Everything's in my backpack."
+          },
+          {
+            "speaker": "Mom",
+            "en": "OK. Take some cash in case your card doesn't work. And call me as soon as you land."
+          },
+          {
+            "speaker": "Theo",
+            "en": "I'll text you when I get to the hostel. Calls are expensive."
+          },
+          {
+            "speaker": "Mom",
+            "en": "Fine, but don't go out at night until you know the area. And unless it's an emergency, don't take taxis from the street — use the app."
+          },
+          {
+            "speaker": "Theo",
+            "en": "Mom, I'm 22! But OK, I promise. I'll be fine as long as you stop worrying!"
+          }
+        ],
+        "questions": [
+          {
+            "q": "Why should Theo take cash?",
+            "answer": "In case his card doesn't work."
+          },
+          {
+            "q": "When will Theo text his mom?",
+            "answer": "When he gets to the hostel."
+          },
+          {
+            "q": "What shouldn't he do until he knows the area?",
+            "answer": "Go out at night."
+          },
+          {
+            "q": "When can he take a taxi from the street?",
+            "answer": "Only in an emergency."
+          }
+        ]
+      },
+      "reading": {
+        "title": "SMART goals",
+        "text": "\"I want to improve my English\" is a wish, not a goal. Unless a goal is specific, it's very hard to achieve. That's why many coaches recommend SMART goals: Specific, Measurable, Achievable, Relevant and Time-bound. Compare \"I'll study more\" with \"I'll study English for 30 minutes a day, five days a week, until I reach B2 by December.\" The second one tells you exactly what to do, how to measure it and when the deadline is. Experts also suggest breaking big goals into milestones. As soon as you reach one, celebrate — and then move to the next. Keep track of your progress in a notebook or app, in case you lose motivation on difficult days: looking back at how far you've come is one of the best ways to keep going.",
+        "questions": [
+          {
+            "q": "What's the difference between a wish and a goal?",
+            "answer": "A goal is specific; a wish isn't."
+          },
+          {
+            "q": "What does SMART stand for?",
+            "answer": "Specific, Measurable, Achievable, Relevant and Time-bound."
+          },
+          {
+            "q": "What should you do as soon as you reach a milestone?",
+            "answer": "Celebrate, then move to the next."
+          },
+          {
+            "q": "Why should you keep track of your progress?",
+            "answer": "In case you lose motivation — looking back helps you keep going."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "answer",
+          "title": "if not → unless",
+          "instruction": "Rewrite the sentences with unless.",
+          "instruction_pt": "Reescreva as frases com unless.",
+          "items": [
+            {
+              "prompt": "If you don't hurry, you'll miss the bus.",
+              "answer": "Unless you hurry, you'll miss the bus."
+            },
+            {
+              "prompt": "I won't go if you don't come with me.",
+              "answer": "I won't go unless you come with me."
+            },
+            {
+              "prompt": "If it doesn't rain, we'll have a barbecue.",
+              "answer": "Unless it rains, we'll have a barbecue."
+            }
+          ]
+        },
+        {
+          "id": "ex2",
+          "type": "fill_blank",
+          "title": "Time clauses",
+          "instruction": "Complete with the correct form of the verb in parentheses.",
+          "instruction_pt": "Complete com a forma correta do verbo.",
+          "items": [
+            {
+              "prompt": "I'll call you as soon as I ___ (arrive).",
+              "answer": "arrive"
+            },
+            {
+              "prompt": "When she ___ (finish) college, she ___ (move) to São Paulo.",
+              "answer": "finishes / 'll move"
+            },
+            {
+              "prompt": "We ___ (wait) here until the rain ___ (stop).",
+              "answer": "'ll wait / stops"
+            },
+            {
+              "prompt": "Before you ___ (leave), ___ (close) the windows.",
+              "answer": "leave / close"
+            }
+          ]
+        },
+        {
+          "id": "ex3",
+          "type": "multiple_choice",
+          "title": "Choose the connector",
+          "instruction": "Choose the correct connector.",
+          "instruction_pt": "Escolha o conector correto.",
+          "items": [
+            {
+              "prompt": "Take a jacket ___ it gets cold.",
+              "options": [
+                "in case",
+                "unless",
+                "until"
+              ],
+              "answer": "in case"
+            },
+            {
+              "prompt": "You can borrow my laptop ___ you're careful with it.",
+              "options": [
+                "as long as",
+                "unless",
+                "in case"
+              ],
+              "answer": "as long as"
+            },
+            {
+              "prompt": "I'll stay at the office ___ I finish the report.",
+              "options": [
+                "until",
+                "by",
+                "in case"
+              ],
+              "answer": "until"
+            },
+            {
+              "prompt": "Please send the invoice ___ Friday.",
+              "options": [
+                "until",
+                "by",
+                "as soon as"
+              ],
+              "answer": "by"
+            },
+            {
+              "prompt": "___ you practice, you won't improve.",
+              "options": [
+                "Unless",
+                "As long as",
+                "In case"
+              ],
+              "answer": "Unless"
+            }
+          ]
+        },
+        {
+          "id": "ex4",
+          "type": "dictation",
+          "title": "Dictation",
+          "instruction": "Listen and write the sentence.",
+          "instruction_pt": "Ouça e escreva a frase.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "Unless you hurry, you'll miss the train."
+            },
+            {
+              "prompt": "2",
+              "answer": "I'll call you as soon as I land."
+            },
+            {
+              "prompt": "3",
+              "answer": "Wait here until I come back."
+            },
+            {
+              "prompt": "4",
+              "answer": "Take some cash in case the card doesn't work."
+            }
+          ]
+        },
+        {
+          "id": "ex5",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the mistake.",
+          "instruction_pt": "Encontre e corrija o erro.",
+          "items": [
+            {
+              "prompt": "Unless you don't study, you'll fail.",
+              "answer": "Unless you study, you'll fail."
+            },
+            {
+              "prompt": "I'll tell you when I will know.",
+              "answer": "I'll tell you when I know."
+            },
+            {
+              "prompt": "Finish the project until Monday.",
+              "answer": "Finish the project by Monday."
+            },
+            {
+              "prompt": "As soon as I will get home, I'll cook.",
+              "answer": "As soon as I get home, I'll cook."
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "fill_blank",
+          "title": "Complete the plan",
+          "instruction": "Complete with: as soon as · until · unless · in case · by.",
+          "instruction_pt": "Complete o plano.",
+          "items": [
+            {
+              "prompt": "I'll start looking for jobs ___ I get my diploma.",
+              "answer": "as soon as"
+            },
+            {
+              "prompt": "I won't accept an offer ___ it includes remote work.",
+              "answer": "unless"
+            },
+            {
+              "prompt": "I'll keep studying ___ I reach C1.",
+              "answer": "until"
+            },
+            {
+              "prompt": "I'll save money ___ I need to move. I want to have 10,000 reais ___ December.",
+              "answer": "in case / by"
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction": "Present your SMART goal for the next 12 months to a partner. Use as soon as, until, unless, in case and by. Your partner asks questions to make it more specific.",
+        "instruction_pt": "Apresente sua meta SMART para os próximos 12 meses a um colega. Use as soon as, until, unless, in case e by. O colega faz perguntas para deixá-la mais específica.",
+        "questions": [
+          "What will you do as soon as you finish this course?",
+          "What won't you do unless you really have to?",
+          "What do you always carry in case of emergency?",
+          "What's a goal you want to achieve by the end of the year?",
+          "Until when will you keep studying English?"
+        ]
+      },
+      "writing": {
+        "task": "Write your personal development plan (120–150 words): one main SMART goal, three milestones with deadlines and what you'll do if things go wrong. Use at least 5 connectors from this lesson.",
+        "task_pt": "Escreva seu plano de desenvolvimento pessoal (120–150 palavras): uma meta SMART principal, três marcos com prazos e o que fará se algo der errado. Use pelo menos 5 conectores desta lição.",
+        "model": "My SMART goal: reach B2 in English by next December and pass an international exam.\n\nMilestone 1: By March, I'll finish the B1 course and watch one series episode in English every day without subtitles in Portuguese.\nMilestone 2: As soon as I finish B1, I'll join a conversation club and speak English for at least two hours a week until I feel confident.\nMilestone 3: In September, I'll take a practice exam. Unless my score is good, I won't book the real exam — I'll study for two more months instead.\n\nI'll keep track of my progress in an app, in case I lose motivation. I know it won't always be easy, but as long as I practice a little every day, I'm sure I'll get there, step by step."
+      },
+      "culture_note": {
+        "title": "Deadlines e \"ASAP\"",
+        "text_pt": "No trabalho em inglês, você vai ver **ASAP** (as soon as possible — o mais rápido possível), **EOD** (end of day — até o fim do dia) e **COB** (close of business — fim do expediente). \"Please send it **by EOD**\" = mande até o fim do dia."
+      },
+      "summary_pt": [
+        "unless = if not (sem outra negação).",
+        "when / as soon as / until / before / after + presente simples (futuro).",
+        "in case = por precaução · as long as = desde que.",
+        "until = até (duração) · by = até no máximo (prazo)."
+      ]
+    },
+    {
+      "id": "B1-M6-L4",
+      "title": "Final conversation",
+      "subtitle_pt": "Revisão geral do B1 e conversa livre",
+      "duration_min": 70,
+      "source_refs": [
+        "SAM-B3 – Lesson 1000 (final review questions)",
+        "Book III / Basic II – Fluency and Questions sections"
+      ],
+      "objectives": [
+        "Revisar as estruturas principais do B1 em contexto",
+        "Manter uma conversa livre de 5 minutos",
+        "Usar estratégias para ganhar tempo, pedir esclarecimento e dar exemplos",
+        "Autoavaliar seu progresso e definir os próximos passos"
+      ],
+      "warmup": {
+        "text_pt": "Parabéns! Você chegou ao fim do B1. Nesta aula, o foco é **fluência**: conversar sobre qualquer tema por alguns minutos, usando tudo o que aprendeu. Erros fazem parte — o importante é se comunicar.",
+        "questions": [
+          "How has your English changed since you started?",
+          "What's still difficult for you?"
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "Let me think...",
+          "pt": "Deixa eu pensar...",
+          "say": "lét mi θink"
+        },
+        {
+          "en": "That's a good question.",
+          "pt": "Boa pergunta.",
+          "say": "déts a gud kuéstchon"
+        },
+        {
+          "en": "What I mean is...",
+          "pt": "O que eu quero dizer é...",
+          "say": "uót ái mín iz"
+        },
+        {
+          "en": "For example / For instance",
+          "pt": "Por exemplo",
+          "say": "for igzémpol / for ínstans"
+        },
+        {
+          "en": "On the one hand... on the other hand...",
+          "pt": "Por um lado... por outro lado...",
+          "say": "on dâ uân rénd... on dâ âder rénd"
+        },
+        {
+          "en": "Could you say that again?",
+          "pt": "Pode repetir?",
+          "say": "kúdja sêi dét aguén"
+        },
+        {
+          "en": "What do you mean by...?",
+          "pt": "O que você quer dizer com...?",
+          "say": "uót du iú mín bái"
+        },
+        {
+          "en": "How do you say... in English?",
+          "pt": "Como se diz... em inglês?",
+          "say": "ráu du iú sêi"
+        },
+        {
+          "en": "It's on the tip of my tongue.",
+          "pt": "Está na ponta da língua.",
+          "say": "its on dâ tip ov mái tâng"
+        },
+        {
+          "en": "Anyway / Where was I?",
+          "pt": "Enfim / Onde eu estava?",
+          "say": "éniuei / uér uóz ái"
+        },
+        {
+          "en": "to sum up",
+          "pt": "resumindo",
+          "say": "tu sâm âp"
+        },
+        {
+          "en": "fluency / accuracy",
+          "pt": "fluência / precisão",
+          "say": "flúensi / ékiurasi"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "Hmm, let me think about that.",
+          "pt": "Hmm, deixa eu pensar sobre isso."
+        },
+        {
+          "en": "I'm not sure how to say this, but...",
+          "pt": "Não sei bem como dizer, mas..."
+        },
+        {
+          "en": "It's like... a kind of...",
+          "pt": "É tipo... uma espécie de..."
+        },
+        {
+          "en": "Sorry, could you rephrase that?",
+          "pt": "Desculpe, pode dizer de outra forma?"
+        },
+        {
+          "en": "That reminds me of...",
+          "pt": "Isso me lembra..."
+        },
+        {
+          "en": "What about you?",
+          "pt": "E você?"
+        }
+      ],
+      "grammar": {
+        "title": "Revisão do B1 + estratégias de conversação",
+        "explanation_pt": "**Mapa do B1 — o que você já sabe:**\n- **Tag questions:** It's nice, isn't it?\n- **Present perfect:** experiências (Have you ever...?), duração (for/since), recentes (already/yet/just), continuous (I've been working...)\n- **Modais:** can/could/be able to, could you...?, should/had better, must/have to/mustn't/don't have to, might/must be\n- **Causative:** I got my hair cut.\n- **Preferências:** I'd rather... / I prefer A to B\n- **Verb patterns:** enjoy doing, decide to do, good at doing\n- **Perguntas:** Who called? / Who did you call? / Do you know where...?\n- **Passiva:** It was built in... / It is said that...\n- **Narrativa:** past continuous + simple past + past perfect\n- **Condicionais:** zero, first, second + unless, as soon as, I wish\n\n**Estratégias de fluência** (o que nativos fazem o tempo todo):\n1. **Ganhar tempo:** \"Well...\", \"Let me think...\", \"That's a good question.\"\n2. **Contornar palavras que faltam (paraphrasing):** \"It's a kind of... / It's something you use to... / It's like...\"\n3. **Pedir esclarecimento:** \"What do you mean by...?\", \"Could you rephrase that?\"\n4. **Desenvolver respostas** com a fórmula **A-R-E**: **A**nswer (resposta) → **R**eason (motivo) → **E**xample (exemplo).\n   \"Would you live abroad? — **Yes, I would.** **Because I love learning about other cultures.** **For example, when I visited Chile, I...**\"\n5. **Devolver a pergunta:** \"What about you?\"",
+        "table": {
+          "headers": [
+            "Estratégia",
+            "Frases"
+          ],
+          "rows": [
+            [
+              "Ganhar tempo",
+              "Well... / Let me think... / That's a good question."
+            ],
+            [
+              "Paráfrase",
+              "It's a kind of... / It's something you use to... / It's like..."
+            ],
+            [
+              "Esclarecer",
+              "What do you mean by...? / Could you rephrase that?"
+            ],
+            [
+              "Exemplificar",
+              "For example... / For instance... / Like when I..."
+            ],
+            [
+              "Contrastar",
+              "On the one hand... on the other hand... / However..."
+            ],
+            [
+              "Concluir",
+              "So, to sum up... / Anyway, that's what I think."
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "That's a good question. Let me think... I'd say yes, because...",
+            "pt": "Boa pergunta. Deixa eu pensar... Eu diria que sim, porque..."
+          },
+          {
+            "en": "I don't remember the word, but it's a kind of tool you use to open bottles.",
+            "pt": "Não lembro a palavra, mas é um tipo de ferramenta que você usa para abrir garrafas."
+          },
+          {
+            "en": "On the one hand, living abroad is exciting. On the other hand, you miss your family.",
+            "pt": "Por um lado, morar fora é empolgante. Por outro lado, você sente falta da família."
+          }
+        ],
+        "tip_pt": "Na conversa, **fluência** (continuar falando) é mais importante que **precisão** (não errar nada). Nativos também erram, hesitam e se corrigem. Se travar, use uma estratégia em vez de parar ou mudar para o português!"
+      },
+      "common_mistakes": [
+        {
+          "wrong": "Answering only \"Yes\" or \"No\".",
+          "right": "Yes, I would, because... For example...",
+          "why_pt": "Respostas curtas matam a conversa. Use A-R-E: resposta, motivo, exemplo."
+        },
+        {
+          "wrong": "Stopping and saying \"Como fala...?\" in Portuguese.",
+          "right": "How do you say...? / It's a kind of...",
+          "why_pt": "Continue em inglês: peça ajuda ou descreva a palavra."
+        },
+        {
+          "wrong": "Never asking questions back.",
+          "right": "What about you? / Have you ever...?",
+          "why_pt": "Conversa é troca. Devolver perguntas mostra interesse."
+        }
+      ],
+      "pronunciation": {
+        "focus": "Ritmo e pausas naturais",
+        "tip_pt": "Falar rápido não é falar bem. Use **pausas** curtas entre ideias e **enfatize** as palavras-chave. Hesitações naturais em inglês são \"um\", \"uh\", \"well\", \"you know\" — não \"é...\", \"tipo...\" em português!",
+        "practice": [
+          "Well... let me think about that.",
+          "On the one hand... on the other hand...",
+          "It's a kind of... you know... a thing you use to..."
+        ]
+      },
+      "dialogue": {
+        "title": "End-of-level conversation",
+        "context_pt": "Uma aluna faz a conversa de avaliação do fim do B1 com o professor.",
+        "lines": [
+          {
+            "speaker": "Teacher",
+            "en": "So, Camila, how long have you been studying English?",
+            "pt": "Então, Camila, há quanto tempo você estuda inglês?"
+          },
+          {
+            "speaker": "Camila",
+            "en": "Let me think... I started about two years ago, but I've been studying seriously since last year.",
+            "pt": "Deixa eu pensar... Comecei há uns dois anos, mas estudo sério desde o ano passado."
+          },
+          {
+            "speaker": "Teacher",
+            "en": "What's the most useful thing you've learned?",
+            "pt": "Qual foi a coisa mais útil que você aprendeu?"
+          },
+          {
+            "speaker": "Camila",
+            "en": "That's a good question. I'd say the present perfect. Before, I always said \"I live here since 2020\". Now I know it's \"I've lived here\"!",
+            "pt": "Boa pergunta. Eu diria o present perfect. Antes, eu sempre dizia \"I live here since 2020\". Agora sei que é \"I've lived here\"!"
+          },
+          {
+            "speaker": "Teacher",
+            "en": "Ha! Great example. If you could live in any English-speaking country, where would you go?",
+            "pt": "Ha! Ótimo exemplo. Se você pudesse morar em qualquer país de língua inglesa, para onde iria?"
+          },
+          {
+            "speaker": "Camila",
+            "en": "Probably Ireland. On the one hand, it's expensive. On the other hand, the people are friendly and it's easier to get a visa. What about you? Have you ever been there?",
+            "pt": "Provavelmente a Irlanda. Por um lado, é caro. Por outro, as pessoas são simpáticas e é mais fácil conseguir visto. E você? Já foi lá?"
+          },
+          {
+            "speaker": "Teacher",
+            "en": "Yes, twice! And what are your next steps?",
+            "pt": "Sim, duas vezes! E quais são seus próximos passos?"
+          },
+          {
+            "speaker": "Camila",
+            "en": "As soon as I finish this level, I'll start B1+. Unless something changes, I want to take an international exam next year.",
+            "pt": "Assim que eu terminar este nível, vou começar o B1+. A menos que algo mude, quero fazer um exame internacional ano que vem."
+          }
+        ]
+      },
+      "listening": {
+        "title": "Learner stories",
+        "context_pt": "Três alunos contam como o inglês mudou suas vidas.",
+        "lines": [
+          {
+            "speaker": "Paulo",
+            "en": "I've been working in a hotel for five years. Before I learned English, I couldn't talk to foreign guests. Now I've been promoted to front desk manager."
+          },
+          {
+            "speaker": "Rita",
+            "en": "I had always wanted to travel alone, but I was afraid. Last year I went to Scotland by myself. If I hadn't studied, I would never have done it!"
+          },
+          {
+            "speaker": "Leo",
+            "en": "I'm a developer. Most of the documentation I read is in English. I wish I had started earlier — it would have saved me so much time. My advice? Don't wait until you feel ready. Just start talking."
+          }
+        ],
+        "questions": [
+          {
+            "q": "How has English helped Paulo?",
+            "answer": "He can talk to foreign guests and was promoted to front desk manager."
+          },
+          {
+            "q": "What did Rita do last year?",
+            "answer": "She traveled alone to Scotland."
+          },
+          {
+            "q": "Why does Leo need English?",
+            "answer": "Most of the documentation he reads is in English."
+          },
+          {
+            "q": "What is Leo's advice?",
+            "answer": "Don't wait until you feel ready — just start talking."
+          }
+        ]
+      },
+      "reading": {
+        "title": "The intermediate plateau",
+        "text": "Many English learners feel fast progress at the beginning: every week, they can say new things. Then, around B1, something strange happens: progress seems to stop. This is known as the intermediate plateau. It happens because you can already communicate in most everyday situations, so you're no longer forced to learn new language. You keep using the same words and structures that \"work\". How can you break the plateau? Teachers suggest three things. First, consume more authentic content — podcasts, series, YouTube channels and articles about topics you love. Second, push yourself to use new vocabulary on purpose, even if you make mistakes. Third, get feedback: record yourself, write texts and ask someone to correct them. The plateau isn't a sign that you've stopped learning. It's a sign that you're ready for the next level.",
+        "questions": [
+          {
+            "q": "What is the intermediate plateau?",
+            "answer": "A period around B1 when progress seems to stop."
+          },
+          {
+            "q": "Why does it happen?",
+            "answer": "You can already communicate, so you keep using the same words and structures."
+          },
+          {
+            "q": "What are the three suggestions?",
+            "answer": "Consume authentic content, use new vocabulary on purpose, get feedback."
+          },
+          {
+            "q": "What is the plateau a sign of, according to the text?",
+            "answer": "That you're ready for the next level."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "multiple_choice",
+          "title": "B1 grammar review",
+          "instruction": "Choose the correct option.",
+          "instruction_pt": "Escolha a opção correta.",
+          "items": [
+            {
+              "prompt": "You've been to Japan, ___?",
+              "options": [
+                "isn't it",
+                "haven't you",
+                "didn't you"
+              ],
+              "answer": "haven't you"
+            },
+            {
+              "prompt": "I've worked here ___ 2020.",
+              "options": [
+                "for",
+                "since",
+                "ago"
+              ],
+              "answer": "since"
+            },
+            {
+              "prompt": "You ___ wear a tie. It's optional.",
+              "options": [
+                "mustn't",
+                "don't have to",
+                "can't"
+              ],
+              "answer": "don't have to"
+            },
+            {
+              "prompt": "I need to get my car ___.",
+              "options": [
+                "fix",
+                "fixed",
+                "fixing"
+              ],
+              "answer": "fixed"
+            },
+            {
+              "prompt": "The bridge ___ in 1974.",
+              "options": [
+                "built",
+                "was built",
+                "has built"
+              ],
+              "answer": "was built"
+            },
+            {
+              "prompt": "If I ___ more time, I'd learn Italian.",
+              "options": [
+                "have",
+                "had",
+                "would have"
+              ],
+              "answer": "had"
+            }
+          ]
+        },
+        {
+          "id": "ex2",
+          "type": "multiple_choice",
+          "title": "B1 grammar review 2",
+          "instruction": "Choose the correct option.",
+          "instruction_pt": "Escolha a opção correta.",
+          "items": [
+            {
+              "prompt": "I'm looking forward to ___ you.",
+              "options": [
+                "see",
+                "seeing",
+                "to see"
+              ],
+              "answer": "seeing"
+            },
+            {
+              "prompt": "Who ___ you about the party?",
+              "options": [
+                "told",
+                "did tell",
+                "did told"
+              ],
+              "answer": "told"
+            },
+            {
+              "prompt": "When I arrived, the movie ___.",
+              "options": [
+                "already started",
+                "had already started",
+                "has already started"
+              ],
+              "answer": "had already started"
+            },
+            {
+              "prompt": "I'll call you as soon as I ___.",
+              "options": [
+                "arrive",
+                "will arrive",
+                "arrived"
+              ],
+              "answer": "arrive"
+            },
+            {
+              "prompt": "I'd rather ___ at home tonight.",
+              "options": [
+                "stay",
+                "to stay",
+                "staying"
+              ],
+              "answer": "stay"
+            },
+            {
+              "prompt": "You look exhausted. You ___ rest.",
+              "options": [
+                "should",
+                "should to",
+                "must to"
+              ],
+              "answer": "should"
+            }
+          ]
+        },
+        {
+          "id": "ex3",
+          "type": "match",
+          "title": "Conversation strategies",
+          "instruction": "Write the strategy you would use: TIME, PARAPHRASE, CLARIFY or EXAMPLE.",
+          "instruction_pt": "Escreva a estratégia que você usaria.",
+          "items": [
+            {
+              "prompt": "You need a few seconds to think.",
+              "answer": "TIME (Let me think... / That's a good question.)"
+            },
+            {
+              "prompt": "You don't remember the word \"saca-rolhas\".",
+              "answer": "PARAPHRASE (It's a kind of tool you use to open wine bottles.)"
+            },
+            {
+              "prompt": "You didn't understand a word your partner used.",
+              "answer": "CLARIFY (What do you mean by...?)"
+            },
+            {
+              "prompt": "You want to support your opinion.",
+              "answer": "EXAMPLE (For example, when I...)"
+            }
+          ]
+        },
+        {
+          "id": "ex4",
+          "type": "dictation",
+          "title": "Dictation",
+          "instruction": "Listen and write the sentence.",
+          "instruction_pt": "Ouça e escreva a frase.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "That's a good question. Let me think."
+            },
+            {
+              "prompt": "2",
+              "answer": "What do you mean by that?"
+            },
+            {
+              "prompt": "3",
+              "answer": "On the one hand, it's expensive."
+            },
+            {
+              "prompt": "4",
+              "answer": "I've been studying English for two years."
+            }
+          ]
+        },
+        {
+          "id": "ex5",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the B1 mistakes.",
+          "instruction_pt": "Encontre e corrija os erros de B1.",
+          "items": [
+            {
+              "prompt": "I live in this city since I was born.",
+              "answer": "I've lived in this city since I was born."
+            },
+            {
+              "prompt": "If I will have time, I'll call you.",
+              "answer": "If I have time, I'll call you."
+            },
+            {
+              "prompt": "What did happen yesterday?",
+              "answer": "What happened yesterday?"
+            },
+            {
+              "prompt": "I enjoy to read before bed.",
+              "answer": "I enjoy reading before bed."
+            },
+            {
+              "prompt": "If I would be rich, I'd travel more.",
+              "answer": "If I were rich, I'd travel more."
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "translate",
+          "title": "Translate",
+          "instruction": "Translate into English using B1 structures.",
+          "instruction_pt": "Traduza para o inglês usando estruturas do B1.",
+          "items": [
+            {
+              "prompt": "Você já foi à Europa?",
+              "answer": "Have you ever been to Europe?"
+            },
+            {
+              "prompt": "Moro aqui há cinco anos.",
+              "answer": "I've lived / I've been living here for five years."
+            },
+            {
+              "prompt": "Se eu fosse você, aceitaria.",
+              "answer": "If I were you, I'd accept it."
+            },
+            {
+              "prompt": "Mandei consertar meu celular.",
+              "answer": "I got/had my phone fixed."
+            },
+            {
+              "prompt": "Assim que eu chegar, te ligo.",
+              "answer": "As soon as I arrive, I'll call you."
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction": "Final conversation (SAM \"Lesson 1000\" style): answer each question for at least 1 minute using A-R-E (Answer, Reason, Example). Your partner asks follow-up questions and you ask \"What about you?\".",
+        "instruction_pt": "Conversa final (estilo SAM \"Lesson 1000\"): responda cada pergunta por pelo menos 1 minuto usando A-R-E (Resposta, Motivo, Exemplo). O colega faz perguntas de continuação e você devolve com \"What about you?\".",
+        "questions": [
+          "What's the most interesting place you've ever visited?",
+          "What have you been doing lately to improve your English?",
+          "Should children learn English from a very young age? Why?",
+          "What would you do if you could take a year off?",
+          "Tell me about a time something went wrong but ended well.",
+          "What do you have to do this year that you're nervous about?",
+          "If you could change one thing about your city, what would it be?",
+          "What will you do as soon as you finish this course?"
+        ]
+      },
+      "writing": {
+        "task": "Write a reflective essay (150–180 words): \"My English journey: where I was, where I am and where I'm going.\" Use at least 6 different B1 structures.",
+        "task_pt": "Escreva uma redação reflexiva (150–180 palavras): \"Minha jornada no inglês: onde eu estava, onde estou e para onde vou.\" Use pelo menos 6 estruturas diferentes do B1.",
+        "model": "When I started learning English, I couldn't understand a single song, and I was terrified of speaking. I had tried to learn several times before, but I had always given up after a few months. This time was different. I've been studying for almost two years now, and I've learned much more than grammar. I've learned to stop translating everything in my head and to keep talking even when I make mistakes. The most difficult part was the present perfect — I still sometimes say \"I live here since...\"! Last month, I had a video call with a client from Canada, and I didn't need my boss to help me. That was the moment I realized how far I'd come. I wish I had more time to study, but I'm proud of my progress. As soon as I finish this level, I'm going to start B1+. If everything goes well, I'll take an international exam next year. And unless something changes, I'll never stop learning."
+      },
+      "culture_note": {
+        "title": "Exames internacionais no B1",
+        "text_pt": "Com o B1 concluído, você já pode pensar em certificações: **Cambridge B1 Preliminary (PET)**, **TOEIC**, **IELTS** (banda 4–5) ou **Duolingo English Test** (confira no site oficial a faixa de pontuação equivalente ao B1). Um certificado ajuda em currículos, intercâmbios e processos seletivos."
+      },
+      "summary_pt": [
+        "Revisou: tag questions, present perfect, modais, causative, verb patterns, passiva, narrativa, condicionais.",
+        "Ganhe tempo: Let me think... / That's a good question.",
+        "Parafraseie: It's a kind of... / It's something you use to...",
+        "Responda com A-R-E e devolva: What about you?"
+      ]
+    }
+  ],
+  "review": {
+    "intro_pt": "Revisão final do Nível B1! Faça os exercícios, a conversa final e o projeto antes de seguir para o B1+.",
+    "exercises": [
+      {
+        "id": "r1",
+        "type": "multiple_choice",
+        "title": "Conditionals review",
+        "instruction": "Choose the correct option.",
+        "instruction_pt": "Escolha a opção correta.",
+        "items": [
+          {
+            "prompt": "If you heat ice, it ___.",
+            "options": [
+              "melts",
+              "will melt",
+              "would melt"
+            ],
+            "answer": "melts"
+          },
+          {
+            "prompt": "If it ___ tomorrow, we'll stay home.",
+            "options": [
+              "rains",
+              "will rain",
+              "rained"
+            ],
+            "answer": "rains"
+          },
+          {
+            "prompt": "If I ___ you, I'd apologize.",
+            "options": [
+              "am",
+              "were",
+              "would be"
+            ],
+            "answer": "were"
+          },
+          {
+            "prompt": "___ you hurry, you'll be late.",
+            "options": [
+              "If",
+              "Unless",
+              "As soon as"
+            ],
+            "answer": "Unless"
+          },
+          {
+            "prompt": "I wish I ___ speak Japanese.",
+            "options": [
+              "can",
+              "could",
+              "would"
+            ],
+            "answer": "could"
+          }
+        ]
+      },
+      {
+        "id": "r2",
+        "type": "multiple_choice",
+        "title": "B1 general review",
+        "instruction": "Questions from the whole B1 level.",
+        "instruction_pt": "Questões de todo o nível B1.",
+        "items": [
+          {
+            "prompt": "She doesn't eat meat, ___?",
+            "options": [
+              "does she",
+              "doesn't she",
+              "is she"
+            ],
+            "answer": "does she"
+          },
+          {
+            "prompt": "Have you finished ___?",
+            "options": [
+              "already",
+              "yet",
+              "still"
+            ],
+            "answer": "yet"
+          },
+          {
+            "prompt": "Would you mind ___ the window?",
+            "options": [
+              "open",
+              "to open",
+              "opening"
+            ],
+            "answer": "opening"
+          },
+          {
+            "prompt": "I had my hair ___ yesterday.",
+            "options": [
+              "cut",
+              "cutting",
+              "to cut"
+            ],
+            "answer": "cut"
+          },
+          {
+            "prompt": "It is ___ that the house is haunted.",
+            "options": [
+              "say",
+              "said",
+              "saying"
+            ],
+            "answer": "said"
+          },
+          {
+            "prompt": "By the time we arrived, they ___.",
+            "options": [
+              "left",
+              "had left",
+              "have left"
+            ],
+            "answer": "had left"
+          }
+        ]
+      },
+      {
+        "id": "r3",
+        "type": "translate",
+        "title": "Translate",
+        "instruction": "Translate into English.",
+        "instruction_pt": "Traduza para o inglês.",
+        "items": [
+          {
+            "prompt": "Se eu ganhasse na loteria, compraria uma casa na praia.",
+            "answer": "If I won the lottery, I'd buy a house on the beach."
+          },
+          {
+            "prompt": "Leve um casaco caso faça frio.",
+            "answer": "Take a jacket in case it gets cold."
+          },
+          {
+            "prompt": "Você não precisa vir se não quiser.",
+            "answer": "You don't have to come if you don't want to."
+          },
+          {
+            "prompt": "Estou estudando inglês há três anos.",
+            "answer": "I've been studying English for three years."
+          }
+        ]
+      },
+      {
+        "id": "r4",
+        "type": "dictation",
+        "title": "Dictation",
+        "instruction": "Listen and write the sentence.",
+        "instruction_pt": "Ouça e escreva a frase.",
+        "items": [
+          {
+            "prompt": "1",
+            "answer": "If it rains, we'll stay in."
+          },
+          {
+            "prompt": "2",
+            "answer": "I wouldn't do that if I were you."
+          },
+          {
+            "prompt": "3",
+            "answer": "I'll call you as soon as I land."
+          }
+        ]
+      },
+      {
+        "id": "r5",
+        "type": "correct_error",
+        "title": "Fix the mistake",
+        "instruction": "Find and correct the mistake.",
+        "instruction_pt": "Encontre e corrija o erro.",
+        "items": [
+          {
+            "prompt": "If I would have a car, I'd drive to work.",
+            "answer": "If I had a car, I'd drive to work."
+          },
+          {
+            "prompt": "Unless you don't study, you won't pass.",
+            "answer": "Unless you study, you won't pass."
+          },
+          {
+            "prompt": "I'll text you when I will get home.",
+            "answer": "I'll text you when I get home."
+          }
+        ]
+      }
+    ],
+    "speaking_pt": "Conversa final do B1: grave um vídeo de 3 a 5 minutos respondendo às perguntas abaixo sem ler, usando as estratégias de fluência. Depois, compare com seus vídeos do A1 e do A2.",
+    "speaking_questions": [
+      "Tell me about yourself and your English journey.",
+      "What's the most interesting experience you've ever had?",
+      "What would you change about your life if you could?",
+      "What are your goals for the next year? What will you do if things go wrong?",
+      "What advice would you give someone who is starting to learn English?"
+    ],
+    "project_pt": "**Projeto final B1 — \"My TED-style talk\":** prepare e grave uma mini-palestra de 3 a 4 minutos sobre um tema que você domina ou ama (sua profissão, um hobby, uma experiência que mudou sua vida). Estrutura: uma história pessoal (tempos narrativos), o que você aprendeu (present perfect), uma ideia para o público (should / if) e um convite final (imagine if...). Esse é o aquecimento para o B1+, que é todo baseado em TED Talks! 🎤"
+  }
+}

@@ -1,0 +1,525 @@
+{
+  "id": "C2-M2",
+  "level": "C2",
+  "title": "Power and Persuasion",
+  "theme_pt": "Retórica, eufemismo, linguagem jurídica e discursos históricos",
+  "can_do": ["Usar inversão e fronting literários (Gone are the days, Such is..., Nowhere is...)", "Identificar e desmontar eufemismos e linguagem evasiva", "Usar conectores formais raros (whereby, notwithstanding, lest, albeit, insofar as)", "Analisar e produzir figuras retóricas (quiasmo, anáfora, paralelismo)"],
+  "lessons": [
+    {
+      "id": "C2-M2-L1",
+      "title": "The rhetoric of power",
+      "subtitle_pt": "Inversão e fronting literários: Gone are the days, Such is, Nowhere is this more..., So it was that",
+      "duration_min": 80,
+      "source_refs": ["CEFR – C2 descriptors (stylistic range, emphasis)", "Cambridge C2 Proficiency – Reading and Use of English Part 4"],
+      "objectives": ["Usar inversão depois de expressões de lugar e movimento (Here comes..., Into the room walked...)", "Usar fronting de adjetivo/particípio (Gone are the days..., Gone is..., Equally important is...)", "Usar Such is / So + adj + is... that e Nowhere is... more...", "Analisar e produzir discursos e editoriais de alto impacto"],
+      "warmup": {
+        "text_pt": "\"**Gone are the days** when politicians could hide their mistakes.\" \"**Such is** the power of social media that...\" \"**Nowhere is** this **more** evident **than** in...\" Essas estruturas, típicas de editoriais, discursos e literatura, colocam a ideia mais forte **no início** da frase. No C1 você viu inversão após advérbios negativos; agora vem o repertório **literário completo**.",
+        "questions": ["Which political speech (in any language) do you remember most? Why?", "Is persuasion different from manipulation? Where's the line?"]
+      },
+      "vocabulary": [
+        {"en": "rhetoric / rhetorical", "pt": "retórica / retórico", "say": "rétorik / ritórikol"},
+        {"en": "an orator / oratory", "pt": "um orador / oratória", "say": "an órater / óratori"},
+        {"en": "to sway (an audience)", "pt": "influenciar, conquistar (o público)", "say": "tu suêi"},
+        {"en": "a demagogue / demagoguery", "pt": "um demagogo / demagogia", "say": "a démagog"},
+        {"en": "populism / populist", "pt": "populismo / populista", "say": "pópiulizm"},
+        {"en": "to galvanize", "pt": "mobilizar, eletrizar", "say": "tu gálvanaiz"},
+        {"en": "a rallying cry", "pt": "um grito de guerra, lema mobilizador", "say": "a ráliin krái"},
+        {"en": "the establishment", "pt": "o sistema, a elite estabelecida", "say": "dí istéblishment"},
+        {"en": "to wield power / influence", "pt": "exercer poder / influência", "say": "tu uíld páuer"},
+        {"en": "an echo chamber", "pt": "uma câmara de eco", "say": "an ékou tchêimber"},
+        {"en": "a soundbite", "pt": "uma frase de efeito curta", "say": "a sáundbait"},
+        {"en": "grandiose / bombastic", "pt": "grandiloquente / bombástico", "say": "grándious / bombéstik"}
+      ],
+      "chunks": [
+        {"en": "Gone are the days when news took a week to arrive.", "pt": "Já se foram os dias em que as notícias levavam uma semana para chegar."},
+        {"en": "Such is the power of words.", "pt": "Tal é o poder das palavras."},
+        {"en": "Nowhere is this more evident than in politics.", "pt": "Em nenhum lugar isso é mais evidente do que na política."},
+        {"en": "Into the room walked the president.", "pt": "Na sala entrou o presidente."},
+        {"en": "So great was the crowd that the square overflowed.", "pt": "A multidão era tão grande que a praça transbordou."},
+        {"en": "Equally important is the question of trust.", "pt": "Igualmente importante é a questão da confiança."}
+      ],
+      "grammar": {
+        "title": "Literary inversion and fronting",
+        "explanation_pt": "Além da inversão após expressões negativas (C1), o inglês formal e literário usa outros tipos de **fronting** (deslocar um elemento para o início) com **inversão do sujeito e do verbo**:\n\n**1. Expressões de lugar / movimento + verbo + sujeito** (verbos intransitivos como come, go, stand, lie, sit, walk):\n- \"**Here comes** the bus.\" / \"**There goes** my chance.\"\n- \"**Into the room walked** the president.\" / \"**On the hill stood** an old church.\"\n- \"**Beneath the city lie** the remains of a Roman fort.\"\n⚠️ Com pronome, **não** inverta: \"Here **it comes**\" (não \"Here comes it\").\n\n**2. Particípio / adjetivo no início + be + sujeito:**\n- \"**Gone are the days** when...\" (Os dias em que... já se foram)\n- \"**Equally important is** the question of...\" / \"**Of particular concern is**...\"\n- \"**Attached is** a copy of the contract.\" / \"**Enclosed are**...\"\n- \"**Far more serious was** the damage to his reputation.\"\n\n**3. Such / So + inversão** (resultado intenso):\n- \"**Such is** the power of television **that** elections are often won on screen.\"\n- \"**So great was** the demand **that** tickets sold out in minutes.\"\n- \"**Such was** his influence **that** no one dared to contradict him.\"\n\n**4. Nowhere / Seldom / Rarely + comparativo:**\n- \"**Nowhere is** the divide **more** visible **than** in our cities.\"\n- \"**Rarely has** a speech had **such** an impact.\"\n\n**5. So / Neither / Nor + auxiliar + sujeito** (concordância):\n- \"The president supported the law, **as did** most of the parliament.\" (as + auxiliar + sujeito — formal)\n- \"He didn't apologize, **nor did** he resign.\"\n\n**6. So it was that...** (narrativo, solene): \"**So it was that** a small protest became a national movement.\"\n\n**Efeito:** dramaticidade, ênfase e ritmo. **Use com moderação**: uma ou duas por parágrafo são impactantes; mais que isso soa teatral.",
+        "table": {
+          "headers": ["Estrutura", "Exemplo"],
+          "rows": [["Lugar + V + S", "On the corner stood a tiny café."], ["Here / There + V + S", "Here comes the rain."], ["Gone are...", "Gone are the days of cheap fuel."], ["Adj/pp + be + S", "Of greater concern is the lack of data."], ["Such is... that", "Such is the cost that few can afford it."], ["So + adj + be + S + that", "So strong was the wind that trees fell."], ["Nowhere is... more... than", "Nowhere is this truer than in Brazil."], ["as / nor + aux + S", "He refused, as did his colleagues."]]
+        },
+        "examples": [
+          {"en": "Gone are the days when a politician's words disappeared once the speech was over; today, every sentence is recorded, clipped and shared.", "pt": "Já se foram os dias em que as palavras de um político desapareciam ao fim do discurso; hoje, cada frase é gravada, recortada e compartilhada."},
+          {"en": "Such was the strength of public feeling that the government was forced to withdraw the bill within a week.", "pt": "Tamanha era a força do sentimento público que o governo foi obrigado a retirar o projeto em uma semana."},
+          {"en": "Nowhere is the gap between rhetoric and reality more striking than in promises made during election campaigns.", "pt": "Em nenhum lugar o abismo entre retórica e realidade é mais gritante do que nas promessas de campanha eleitoral."}
+        ],
+        "tip_pt": "\"**Gone are the days**\" é uma das expressões favoritas de editoriais e redações de alto nível. Outras fórmulas úteis para abrir parágrafos: \"**Of particular concern is**...\", \"**Equally significant is**...\", \"**Central to this debate is**...\"."
+      },
+      "common_mistakes": [
+        {"wrong": "Here comes he.", "right": "Here he comes.", "why_pt": "Com pronome, não há inversão."},
+        {"wrong": "Gone the days are when...", "right": "Gone are the days when...", "why_pt": "Particípio + be + sujeito."},
+        {"wrong": "Such was his influence nobody contradicted him.", "right": "Such was his influence that nobody contradicted him.", "why_pt": "Such is/was... that (o that costuma ser necessário em textos formais)."}
+      ],
+      "pronunciation": {
+        "focus": "Ritmo oratório",
+        "tip_pt": "Na oratória, frases com inversão têm uma **pausa dramática** antes do sujeito, que é a informação nova e importante: \"Into the room walked... | the PRESident.\" / \"Gone are the days... | when we could IGnore this.\" Pratique com calma, ênfase e respiração.",
+        "practice": ["GONE are the days | when we could ignore this.", "SUCH was the noise | that nobody heard him.", "NOWHERE is this more EVident | than in our cities."]
+      },
+      "dialogue": {
+        "title": "Writing the speech",
+        "context_pt": "Uma redatora de discursos e uma candidata a prefeita revisam o discurso de lançamento da campanha.",
+        "lines": [
+          {"speaker": "Camila", "en": "Let's look at the opening. You've written: \"In the past, our city had good public transport, but now it doesn't.\" It's accurate, but it's flat.", "pt": "Vamos olhar a abertura. Você escreveu: \"No passado, nossa cidade tinha bom transporte público, mas agora não tem.\" É preciso, mas é sem graça."},
+          {"speaker": "Ana", "en": "What would you suggest?", "pt": "O que você sugere?"},
+          {"speaker": "Camila", "en": "\"Gone are the days when our trams ran on time and our buses served every neighbourhood.\" Same message, but it sounds like loss.", "pt": "\"Já se foram os dias em que nossos bondes andavam no horário e nossos ônibus serviam todos os bairros.\" Mesma mensagem, mas soa como perda."},
+          {"speaker": "Ana", "en": "I like that. What about the part on inequality?", "pt": "Gostei. E a parte sobre desigualdade?"},
+          {"speaker": "Camila", "en": "Try: \"Nowhere is the divide in our city more visible than at the bus stop at six in the morning.\" Then describe it — the queues, the faces.", "pt": "Tente: \"Em nenhum lugar a divisão da nossa cidade é mais visível do que no ponto de ônibus às seis da manhã.\" Depois descreva — as filas, os rostos."},
+          {"speaker": "Ana", "en": "That's powerful. Isn't it a bit theatrical, though?", "pt": "Isso é forte. Mas não é um pouco teatral?"},
+          {"speaker": "Camila", "en": "Once or twice, no — that's what makes people remember. Such is the nature of speeches. But if every sentence is inverted, you'll sound like a Shakespearean actor.", "pt": "Uma ou duas vezes, não — é isso que faz as pessoas lembrarem. Tal é a natureza dos discursos. Mas se toda frase for invertida, você vai parecer um ator shakespeariano."},
+          {"speaker": "Ana", "en": "Understood. Two inversions, a story and a clear promise. So it is that I become mayor!", "pt": "Entendido. Duas inversões, uma história e uma promessa clara. E assim me torno prefeita!"}
+        ]
+      },
+      "listening": {
+        "title": "Ethos, pathos, logos — and kairos",
+        "context_pt": "Uma professora de retórica fala sobre os elementos da persuasão.",
+        "lines": [
+          {"speaker": "Professor", "en": "You may have heard of Aristotle's three modes of persuasion: ethos, the character and credibility of the speaker; pathos, the emotions of the audience; and logos, the logic of the argument. Less well known, but no less important, is a fourth concept the Greeks discussed: kairos, the opportune moment. Such is the importance of timing that the same words can inspire a nation on one day and fall completely flat on another. Think of a leader addressing the country after a disaster. Rarely is an audience more ready to listen, and rarely does a speaker have more power — or more responsibility. Gone, of course, are the days when a speech reached people only once, in a hall or on the radio. Today, every phrase can be clipped, replayed and reinterpreted in a different context, months or years later. Kairos has become far more complicated. A sentence that was perfectly judged at the time may sound tone-deaf when it resurfaces. Nowhere is this more evident than on social media."}
+        ],
+        "questions": [
+          {"q": "What are ethos, pathos and logos?", "answer": "Credibility of the speaker, emotions of the audience, logic of the argument."},
+          {"q": "What is kairos?", "answer": "The opportune moment — timing."},
+          {"q": "Why has kairos become more complicated?", "answer": "Phrases can be clipped and replayed in different contexts later."},
+          {"q": "Find two inversions in the talk.", "answer": "Such is the importance... / Rarely is an audience... / rarely does a speaker... / Gone are the days... / Nowhere is this more evident..."}
+        ]
+      },
+      "reading": {
+        "title": "The age of the soundbite",
+        "text": "Gone are the days when political arguments unfolded over hours. In nineteenth-century America, the famous debates between Abraham Lincoln and Stephen Douglas could last three hours, with each candidate speaking for an hour or more while crowds stood and listened. Such was the appetite for political oratory that newspapers printed the speeches in full, and readers studied them line by line. The contrast with today could hardly be sharper. Studies of American television news have documented a dramatic shrinking of the \"soundbite\" — the length of time a candidate is shown speaking without interruption. According to research frequently cited by media scholars, the average soundbite on the evening news fell from more than forty seconds in the late 1960s to under ten seconds by the end of the 1980s. Social media has accelerated the trend still further. Today, a political career can be made or broken by a phrase short enough to fit on a placard. What has been lost? Critics argue that complexity is the first casualty. Few serious problems — climate change, healthcare, inequality — can be explained in a single sentence, and politicians who attempt to do so are forced to oversimplify. Equally worrying is the effect on public trust. When every statement is designed to be clipped and shared, politicians speak less to persuade than to avoid giving their opponents ammunition. Yet it would be wrong to romanticize the past. Long speeches were by no means guaranteed to be wise, and many nineteenth-century orators were skilled demagogues. Nor is brevity always a vice: some of the most powerful phrases in political history are also among the shortest. Perhaps the real question is not how long political speech should be, but whether audiences still have the patience — and the platforms — to hear arguments that cannot be reduced to a slogan.",
+        "questions": [
+          {"q": "How long could the Lincoln–Douglas debates last?", "answer": "Up to three hours."},
+          {"q": "How did the average TV soundbite change, according to research?", "answer": "From over forty seconds in the late 1960s to under ten seconds by the late 1980s."},
+          {"q": "What two negative effects are mentioned?", "answer": "Loss of complexity and loss of public trust."},
+          {"q": "Why shouldn't we romanticize the past, according to the writer?", "answer": "Long speeches weren't always wise; many orators were demagogues; brevity isn't always bad."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "answer", "title": "Front and invert", "instruction": "Rewrite the sentences beginning with the words given.", "instruction_pt": "Reescreva as frases começando com as palavras indicadas.",
+         "items": [{"prompt": "The days when we paid in cash are gone. (Gone...)", "answer": "Gone are the days when we paid in cash."}, {"prompt": "The influence of television was so great that elections were won on screen. (Such...)", "answer": "Such was the influence of television that elections were won on screen."}, {"prompt": "An old lighthouse stood on the cliff. (On the cliff...)", "answer": "On the cliff stood an old lighthouse."}, {"prompt": "This problem is most visible in large cities. (Nowhere...)", "answer": "Nowhere is this problem more visible than in large cities."}, {"prompt": "The question of funding is equally important. (Equally...)", "answer": "Equally important is the question of funding."}]},
+        {"id": "ex2", "type": "multiple_choice", "title": "Choose the correct form", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+         "items": [{"prompt": "Look! Here ___!", "options": ["comes she", "she comes", "does she come"], "answer": "she comes"}, {"prompt": "So loud ___ that we couldn't hear the speaker.", "options": ["the music was", "was the music", "did the music"], "answer": "was the music"}, {"prompt": "The senator voted against the bill, as ___ most of her party.", "options": ["did", "was", "had"], "answer": "did"}, {"prompt": "He didn't resign, ___ did he apologize.", "options": ["neither", "nor", "or"], "answer": "nor"}, {"prompt": "Attached ___ the documents you requested.", "options": ["is", "are", "be"], "answer": "are"}]},
+        {"id": "ex3", "type": "match", "title": "Rhetoric vocabulary", "instruction": "Write the English word or expression.", "instruction_pt": "Escreva a palavra ou expressão em inglês.",
+         "items": [{"prompt": "frase de efeito curta", "answer": "soundbite"}, {"prompt": "influenciar o público", "answer": "sway"}, {"prompt": "mobilizar, eletrizar", "answer": "galvanize"}, {"prompt": "demagogo", "answer": "demagogue"}, {"prompt": "lema mobilizador", "answer": "rallying cry"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "Gone are the days when news took a week to arrive."}, {"prompt": "2", "answer": "Such is the power of words."}, {"prompt": "3", "answer": "Nowhere is this more evident than in politics."}, {"prompt": "4", "answer": "So great was the crowd that the square overflowed."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "There goes it — my last chance.", "answer": "There it goes — my last chance."}, {"prompt": "Gone the days are when cars were cheap.", "answer": "Gone are the days when cars were cheap."}, {"prompt": "Such was the noise nobody slept.", "answer": "Such was the noise that nobody slept."}, {"prompt": "Nowhere this is clearer than in education.", "answer": "Nowhere is this clearer than in education."}]},
+        {"id": "ex6", "type": "answer", "title": "Make it dramatic", "instruction": "Rewrite this plain paragraph using at least three literary inversions or fronting structures.", "instruction_pt": "Reescreva este parágrafo simples usando pelo menos três inversões ou fronting literários.",
+         "items": [{"prompt": "People used to write letters by hand. That doesn't happen now. Social media is very powerful, so people believe almost anything they read. This problem is most obvious among teenagers.", "answer": "Model: Gone are the days when people wrote letters by hand. Such is the power of social media that people believe almost anything they read. Nowhere is this problem more obvious than among teenagers."}]}
+      ],
+      "speaking": {
+        "instruction": "\"Campaign launch\": write and deliver a 2-minute campaign speech for a cause you believe in (local or global). Use at least four literary inversions or fronting structures, and pay attention to pauses and emphasis. The class votes on the most persuasive speech.",
+        "instruction_pt": "\"Lançamento de campanha\": escreva e faça um discurso de campanha de 2 minutos para uma causa em que você acredita (local ou global). Use pelo menos quatro inversões ou fronting literários e atenção às pausas e ênfases. A turma vota no discurso mais persuasivo.",
+        "questions": ["What makes a speaker persuasive: content, voice or timing?", "Is political rhetoric in Brazil becoming more aggressive?", "Has social media made politics better or worse?", "Can a short slogan ever capture a complex idea?", "Who is the best public speaker you've ever heard?"]
+      },
+      "writing": {
+        "task": "Write a newspaper editorial (300–350 words) on a current social or political issue in Brazil or the world. Use at least five literary inversions or fronting structures, a clear argument and a powerful conclusion.",
+        "task_pt": "Escreva um editorial de jornal (300–350 palavras) sobre uma questão social ou política atual no Brasil ou no mundo. Use pelo menos cinco inversões ou fronting literários, um argumento claro e uma conclusão impactante.",
+        "model": "The disappearing public square\n\nGone are the days when a town's most important conversations took place in its square. For centuries, the praça was where Brazilians met, argued, celebrated and protested. Today, those conversations have largely moved online — and our democracy is the poorer for it.\n\nSuch is the convenience of social media that it has become, for millions of people, the main source of political information. It is easy to see why. Platforms are free, immediate and available at any hour. Yet they were not designed to foster debate. They were designed to capture attention, and nothing captures attention quite like outrage.\n\nNowhere is the consequence more visible than in the tone of our political life. Opponents are no longer people with different views but enemies to be defeated. Nuance is punished; certainty is rewarded. A politician who admits doubt is mocked, while one who shouts is shared.\n\nEqually troubling is the fragmentation of reality itself. In the old square, people heard the same speeches, read the same newspapers and, even when they disagreed, argued about the same facts. Online, each of us inhabits a separate world, shaped by algorithms we do not understand. So complete has this separation become that neighbours may now hold entirely different beliefs about events that happened in their own street.\n\nNone of this means we should abandon technology, nor should we romanticize a past that excluded many voices. But it does mean we must deliberately rebuild spaces — physical and digital — where citizens can encounter one another as people rather than profiles: public libraries, community meetings, local newspapers, platforms designed for discussion rather than division.\n\nOn the walls of many old town halls hangs an image of citizens gathered in a square, listening to one another. It is worth asking whether our grandchildren will understand what it means. Democracy, after all, is not only a system of voting. It is a habit of talking — and habits, once lost, are hard to recover."
+      },
+      "culture_note": {
+        "title": "Oratória no Brasil",
+        "text_pt": "O Brasil tem uma longa tradição de oratória — de **Rui Barbosa**, famoso por discursos eloquentes e extensos, a **Padre Antônio Vieira**, cujos sermões no século XVII são estudados até hoje. Em inglês, o estudo da retórica (\"**rhetoric**\") é tradicional em universidades americanas e britânicas, e clubes de debate como o **Oxford Union** formaram gerações de políticos."
+      },
+      "summary_pt": ["Lugar/movimento + V + S: Into the room walked..., Here comes the bus (mas: Here it comes).", "Gone are the days... / Equally important is... / Of particular concern is...", "Such is/was... that / So + adj + be + S + that.", "Nowhere is... more... than; as did / nor did + S."]
+    },
+    {
+      "id": "C2-M2-L2",
+      "title": "Spin",
+      "subtitle_pt": "Eufemismo, weasel words e passiva para ocultar o agente",
+      "duration_min": 80,
+      "source_refs": ["CEFR – C2 descriptors (critical reading, implicit attitudes)", "Cambridge C2 Proficiency – Reading and Use of English Part 6"],
+      "objectives": ["Reconhecer eufemismos corporativos e políticos (downsizing, collateral damage)", "Identificar weasel words (some experts say, up to, virtually)", "Perceber como a passiva e a nominalização escondem responsabilidade", "Traduzir \"spin\" em linguagem clara"],
+      "warmup": {
+        "text_pt": "\"Mistakes **were made**.\" (Quem errou?) \"We are **rightsizing** our workforce.\" (= demissões) \"**Up to** 50% off!\" (= talvez 5%). No C2, você precisa ler **criticamente**: perceber quando a língua é usada para **esconder** em vez de comunicar. Em inglês, isso se chama **spin** — e quem o pratica é um **spin doctor**.",
+        "questions": ["Can you think of a euphemism used by Brazilian companies or politicians?", "Is it always wrong to use euphemisms?"]
+      },
+      "vocabulary": [
+        {"en": "spin / a spin doctor", "pt": "manipulação da narrativa / marqueteiro", "say": "spin / a spin dókter"},
+        {"en": "a euphemism / euphemistic", "pt": "um eufemismo / eufemístico", "say": "a iúfemizm"},
+        {"en": "doublespeak", "pt": "linguagem enganosa (duplipensar)", "say": "dâbol spík"},
+        {"en": "weasel words", "pt": "palavras evasivas", "say": "uízol uârdz"},
+        {"en": "downsizing / rightsizing / restructuring", "pt": "eufemismos para demissões", "say": "dáunsaizin / ráitsaizin"},
+        {"en": "to let (sb) go", "pt": "dispensar, demitir (eufemismo)", "say": "tu lét gôu"},
+        {"en": "collateral damage", "pt": "dano colateral (vítimas civis)", "say": "koléteral démidj"},
+        {"en": "enhanced interrogation", "pt": "eufemismo para tortura", "say": "inrénst interoguêishan"},
+        {"en": "to be economical with the truth", "pt": "omitir a verdade", "say": "tu bí ikonómikol uídh dâ trúθ"},
+        {"en": "plausible deniability", "pt": "negação plausível", "say": "plózibol dinaiabíliti"},
+        {"en": "to gloss over", "pt": "passar por cima, minimizar", "say": "tu glós ôuver"},
+        {"en": "a non-apology", "pt": "um falso pedido de desculpas", "say": "a nón apóladji"}
+      ],
+      "chunks": [
+        {"en": "Mistakes were made.", "pt": "Erros foram cometidos. (sem dizer por quem)"},
+        {"en": "We're letting 200 people go.", "pt": "Estamos dispensando 200 pessoas."},
+        {"en": "I'm sorry if anyone was offended.", "pt": "Sinto muito se alguém se ofendeu. (falso pedido de desculpas)"},
+        {"en": "Some experts believe...", "pt": "Alguns especialistas acreditam... (quais?)"},
+        {"en": "He was economical with the truth.", "pt": "Ele omitiu parte da verdade."},
+        {"en": "Let's cut through the spin.", "pt": "Vamos ignorar a manipulação e ir ao ponto."}
+      ],
+      "grammar": {
+        "title": "The language of spin",
+        "explanation_pt": "**1. Eufemismos** — palavras suaves para realidades duras:\n- **Trabalho:** downsizing, rightsizing, restructuring, letting people go, workforce adjustment, \"exploring other opportunities\" (= demitido)\n- **Economia:** negative growth (= recessão), revenue enhancement (= aumento de impostos), price adjustment (= aumento de preço), correction (= queda)\n- **Guerra:** collateral damage, neutralize, friendly fire, enhanced interrogation\n- **Vida pessoal:** passed away, between jobs, economically disadvantaged\n⚠️ Nem todo eufemismo é manipulação: \"passed away\" é **delicadeza**; \"collateral damage\" pode **desumanizar**.\n\n**2. Weasel words** — criam a **impressão** de uma afirmação sem afirmar nada verificável:\n- **Fontes vagas:** \"Some experts say...\", \"Studies show...\", \"It is widely believed...\", \"Many people are saying...\"\n- **Qualificadores:** \"**up to** 70% off\" (pode ser 5%), \"**helps** reduce\" (não diz quanto), \"**virtually** invisible\", \"**can** improve\", \"**as much as**\"\n- **Comparações incompletas:** \"**40% more** effective\" (do que o quê?)\n\n**3. Gramática para ocultar o agente:**\n- **Passiva sem agente:** \"Mistakes **were made**.\" / \"The data **was lost**.\" / \"Shots **were fired**.\"\n- **Nominalização:** \"There has been **a reduction in staff**\" (em vez de \"We fired 300 people\")\n- **Verbos ergativos** (sem agente): \"The project **failed**.\" / \"Prices **rose**.\" / \"The ship **sank**.\"\n- **Sujeitos abstratos:** \"**The situation** has led to job losses.\"\n\n**4. O falso pedido de desculpas (non-apology):**\n- \"I'm sorry **if** anyone was offended.\" (coloca a culpa em quem se ofendeu)\n- \"I regret that **you feel** that way.\"\n- \"Mistakes were made, **but** ...\"\n- Um pedido real: \"**I** was wrong. **I** apologize for **what I said**. **It** won't happen again.\"\n\n**Antídoto C2:** pergunte sempre **quem fez o quê, a quem, quanto e segundo quem?**",
+        "table": {
+          "headers": ["Spin", "Linguagem clara"],
+          "rows": [["We are rightsizing our workforce.", "We are firing employees."], ["Mistakes were made.", "I/We made mistakes."], ["negative growth", "recession / the economy shrank"], ["up to 70% off", "some items are discounted"], ["Studies show...", "Which studies? Who did them?"], ["I'm sorry if you were offended.", "I'm sorry for what I said."], ["price adjustment", "price increase"]]
+        },
+        "examples": [
+          {"en": "The company announced a \"strategic workforce realignment\", which, stripped of the jargon, meant that 400 people would lose their jobs.", "pt": "A empresa anunciou um \"realinhamento estratégico da força de trabalho\", o que, sem o jargão, significava que 400 pessoas perderiam o emprego."},
+          {"en": "\"Mistakes were made\" is a classic example of the passive voice being used to avoid responsibility.", "pt": "\"Erros foram cometidos\" é um exemplo clássico da voz passiva sendo usada para evitar responsabilidade."},
+          {"en": "The advert claims the cream \"helps reduce the appearance of wrinkles\" — a sentence carefully designed to promise almost nothing.", "pt": "O anúncio afirma que o creme \"ajuda a reduzir a aparência de rugas\" — uma frase cuidadosamente construída para prometer quase nada."}
+        ],
+        "tip_pt": "Em português também temos: \"**colaboradores desligados**\" (demitidos), \"**ajuste tarifário**\" (aumento), \"**comunidade**\" (às vezes para evitar \"favela\"). Perceber o eufemismo nas duas línguas é sinal de leitura crítica madura."
+      },
+      "common_mistakes": [
+        {"wrong": "Treating \"Studies show...\" as a reliable source.", "right": "Ask: which studies, by whom, published where?", "why_pt": "Weasel words imitam autoridade sem fornecer evidência."},
+        {"wrong": "I'm sorry if you were upset by my comment. (as a real apology)", "right": "I'm sorry for my comment. It was wrong.", "why_pt": "Um pedido real assume responsabilidade, sem \"if\"."},
+        {"wrong": "Using \"collateral damage\" in a neutral news report about civilian deaths.", "right": "Use clear language: \"civilians were killed\".", "why_pt": "Eufemismos de guerra podem desumanizar vítimas."}
+      ],
+      "pronunciation": {
+        "focus": "Ironia ao citar spin",
+        "tip_pt": "Ao citar um eufemismo de forma crítica, falantes nativos usam um tom **ligeiramente irônico**, muitas vezes com **air quotes** (aspas no ar) ou expressões como \"so-called\": \"They're not firing people, they're... *rightsizing*.\" / \"the **so-called** 'price adjustment'\".",
+        "practice": ["They're not firing people — they're 'rightsizing'.", "the so-called 'price adjustment'", "Mistakes, apparently, 'were made'."]
+      },
+      "dialogue": {
+        "title": "The press release",
+        "context_pt": "Uma jornalista e um assessor de imprensa discutem um comunicado de uma empresa.",
+        "lines": [
+          {"speaker": "Journalist", "en": "Your press release says the company is \"optimizing its operational footprint\". What does that actually mean?", "pt": "Seu comunicado diz que a empresa está \"otimizando sua presença operacional\". O que isso significa de fato?"},
+          {"speaker": "Paulo", "en": "It means we're making the business more efficient for the long term.", "pt": "Significa que estamos tornando o negócio mais eficiente no longo prazo."},
+          {"speaker": "Journalist", "en": "Are you closing the factory in Joinville?", "pt": "Vocês vão fechar a fábrica de Joinville?"},
+          {"speaker": "Paulo", "en": "The Joinville facility will be transitioning to a new model.", "pt": "A unidade de Joinville passará por uma transição para um novo modelo."},
+          {"speaker": "Journalist", "en": "Will the 600 workers there lose their jobs?", "pt": "Os 600 trabalhadores de lá vão perder o emprego?"},
+          {"speaker": "Paulo", "en": "Some roles will be affected, yes. We'll be supporting colleagues as they explore new opportunities.", "pt": "Algumas funções serão afetadas, sim. Vamos apoiar os colaboradores enquanto exploram novas oportunidades."},
+          {"speaker": "Journalist", "en": "So, in plain English: the factory is closing and around 600 people will be made redundant.", "pt": "Então, em português claro: a fábrica vai fechar e cerca de 600 pessoas serão demitidas."},
+          {"speaker": "Paulo", "en": "I wouldn't put it quite like that.", "pt": "Eu não colocaria exatamente assim."},
+          {"speaker": "Journalist", "en": "No — but I will. My readers deserve to know what's happening, not what it's being called.", "pt": "Não — mas eu vou colocar. Meus leitores merecem saber o que está acontecendo, não como isso está sendo chamado."}
+        ]
+      },
+      "listening": {
+        "title": "Politics and the English language",
+        "context_pt": "Uma professora de literatura fala sobre o ensaio de George Orwell sobre linguagem política.",
+        "lines": [
+          {"speaker": "Professor", "en": "In 1946, George Orwell published an essay called \"Politics and the English Language\". His argument was that political language is often designed to make the indefensible sound reasonable. He gave examples from his own time: villages bombed and inhabitants driven out were described as \"pacification\". Rather than describe brutal events directly, officials reached for abstract, Latinate words that created a kind of fog. Orwell also attacked lazy writing more generally — dying metaphors, pretentious vocabulary, unnecessary passives — because he believed that sloppy language makes sloppy thinking easier. He ended with six rules, the most famous of which is probably: \"Never use a long word where a short one will do.\" He was also honest enough to add a final rule allowing writers to break any of the others rather than say anything outright barbarous. Almost eighty years later, the essay is still widely read, and its central warning still applies. When language stops describing reality and starts concealing it, democracy has a problem."}
+        ],
+        "questions": [
+          {"q": "What was Orwell's main argument?", "answer": "Political language is often designed to make the indefensible sound reasonable."},
+          {"q": "What euphemism did he give as an example?", "answer": "\"Pacification\" for bombing villages and driving out inhabitants."},
+          {"q": "Why did he criticize lazy writing in general?", "answer": "Sloppy language makes sloppy thinking easier."},
+          {"q": "What is his most famous rule?", "answer": "Never use a long word where a short one will do."}
+        ]
+      },
+      "reading": {
+        "title": "The anatomy of a non-apology",
+        "text": "Few genres of public communication have been studied as closely, or mocked as mercilessly, as the corporate apology. When a company is caught polluting a river, mistreating customers or leaking personal data, its statement tends to follow a predictable pattern — one that linguists and public relations experts have learned to dissect. It typically begins with an expression of regret, rather than an apology: \"We regret any inconvenience this may have caused.\" The verb \"regret\" is significant. One can regret a storm; regret does not imply responsibility. The phrase \"any inconvenience\" minimizes the harm, while \"may have caused\" leaves open the possibility that nothing was caused at all. Next comes the passive voice. \"Mistakes were made\" and \"data was accessed\" describe events without naming anyone who performed them. The agent — the company, its executives, a specific decision — quietly vanishes from the sentence. Then there is the conditional apology: \"We apologize to anyone who was affected\" or \"We're sorry if customers felt let down.\" By placing the problem in the reactions of others, the statement implies that the fault lies, at least partly, in their sensitivity. Finally, the statement moves swiftly to the future: \"We are committed to the highest standards and are reviewing our processes.\" The past, with all its awkward details, is left behind. Research on apologies suggests that the most effective ones do almost exactly the opposite. They acknowledge responsibility clearly, name the specific harm, express genuine remorse, explain what went wrong and offer concrete repair. They are short, specific and active. \"We broke your trust. Here is what we did, here is why it happened, and here is what we will do to put it right.\" Such apologies are rare, not because they are hard to write, but because they are hard to say. They require something the language of spin is designed to avoid: accepting the blame.",
+        "questions": [
+          {"q": "Why is \"regret\" different from \"apologize\"?", "answer": "Regret doesn't imply responsibility."},
+          {"q": "How does the passive voice help companies?", "answer": "It describes events without naming who caused them."},
+          {"q": "What does a conditional apology imply?", "answer": "That the fault lies partly in others' sensitivity."},
+          {"q": "What do effective apologies do?", "answer": "Acknowledge responsibility, name the harm, show remorse, explain, and offer repair."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "match", "title": "Decode the euphemism", "instruction": "Write what each euphemism really means.", "instruction_pt": "Escreva o que cada eufemismo realmente significa.",
+         "items": [{"prompt": "We're letting you go.", "answer": "You're fired."}, {"prompt": "negative growth", "answer": "recession / the economy shrank"}, {"prompt": "a price adjustment", "answer": "a price increase"}, {"prompt": "collateral damage", "answer": "civilian deaths / unintended casualties"}, {"prompt": "between jobs", "answer": "unemployed"}, {"prompt": "economical with the truth", "answer": "lying / hiding the truth"}]},
+        {"id": "ex2", "type": "answer", "title": "Restore the agent", "instruction": "Rewrite each sentence so that it is clear who did what (invent a plausible agent).", "instruction_pt": "Reescreva cada frase deixando claro quem fez o quê (invente um agente plausível).",
+         "items": [{"prompt": "Mistakes were made in the handling of the case.", "answer": "The police / The managers made mistakes in handling the case."}, {"prompt": "Customer data was accessed without authorization.", "answer": "Hackers accessed customer data because the company failed to protect it."}, {"prompt": "There has been a reduction in staff numbers.", "answer": "The company fired / made redundant X employees."}, {"prompt": "The river became polluted.", "answer": "The factory polluted the river."}]},
+        {"id": "ex3", "type": "answer", "title": "Fix the apology", "instruction": "Rewrite each non-apology as a genuine apology.", "instruction_pt": "Reescreva cada falso pedido de desculpas como um pedido verdadeiro.",
+         "items": [{"prompt": "I'm sorry if anyone was offended by my comments.", "answer": "I'm sorry for my comments. They were offensive and wrong."}, {"prompt": "We regret any inconvenience that may have been caused.", "answer": "We're sorry that our delay caused you problems. It was our fault, and we will refund you."}, {"prompt": "Mistakes were made, but we're moving forward.", "answer": "We made mistakes. Here's what went wrong and how we'll fix it."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "Mistakes were made."}, {"prompt": "2", "answer": "He was economical with the truth."}, {"prompt": "3", "answer": "Never use a long word where a short one will do."}, {"prompt": "4", "answer": "Let's cut through the spin."}]},
+        {"id": "ex5", "type": "multiple_choice", "title": "Spot the weasel words", "instruction": "Which phrase is a weasel word in each claim?", "instruction_pt": "Qual expressão é uma palavra evasiva em cada afirmação?",
+         "items": [{"prompt": "\"Up to 80% off selected items!\"", "options": ["Up to", "selected", "both"], "answer": "both"}, {"prompt": "\"This shampoo helps reduce hair loss.\"", "options": ["helps", "reduce", "hair"], "answer": "helps"}, {"prompt": "\"Studies show our product is 30% more effective.\"", "options": ["Studies show / more effective (than what?)", "our product", "30%"], "answer": "Studies show / more effective (than what?)"}, {"prompt": "\"Many people are saying the election was unfair.\"", "options": ["Many people are saying", "election", "unfair"], "answer": "Many people are saying"}]},
+        {"id": "ex6", "type": "match", "title": "Spin vocabulary", "instruction": "Write the English word or expression.", "instruction_pt": "Escreva a palavra ou expressão em inglês.",
+         "items": [{"prompt": "marqueteiro (manipulador de narrativa)", "answer": "spin doctor"}, {"prompt": "passar por cima, minimizar", "answer": "gloss over"}, {"prompt": "negação plausível", "answer": "plausible deniability"}, {"prompt": "falso pedido de desculpas", "answer": "non-apology"}, {"prompt": "palavras evasivas", "answer": "weasel words"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Press conference\": in groups, one student is a CEO announcing bad news (lay-offs, a data breach, pollution) using as much spin as possible. The others are journalists who must cut through the spin with precise questions. Then swap roles.",
+        "instruction_pt": "\"Coletiva de imprensa\": em grupos, um aluno é um CEO anunciando más notícias (demissões, vazamento de dados, poluição) com o máximo de spin possível. Os outros são jornalistas que devem desmontar o spin com perguntas precisas. Depois troquem os papéis.",
+        "questions": ["Are euphemisms always dishonest, or sometimes kind?", "Which euphemisms are common in Brazilian politics or business?", "Have you ever received a non-apology?", "Why do organizations find it so hard to apologize properly?", "Is Orwell's advice still relevant in the age of social media?"]
+      },
+      "writing": {
+        "task": "Part 1: write a 150-word corporate statement full of spin about a (fictional) problem. Part 2: rewrite it (150–200 words) as a genuinely honest, clear statement — the kind of apology that might actually rebuild trust.",
+        "task_pt": "Parte 1: escreva um comunicado corporativo de 150 palavras cheio de spin sobre um problema (fictício). Parte 2: reescreva-o (150–200 palavras) como uma declaração honesta e clara — o tipo de pedido de desculpas que realmente poderia reconstruir a confiança.",
+        "model": "Version 1 — Spin\n\nStatement from RotaFácil\n\nAt RotaFácil, the safety and satisfaction of our valued customers have always been our highest priorities. We are aware of recent reports concerning a technical incident affecting a limited number of journeys on our platform. Some passengers may have experienced unexpected route variations and adjusted fare calculations. We sincerely regret any inconvenience this may have caused. Mistakes were made in the implementation of a system update, and the matter is being reviewed. We are committed to continuous improvement and to delivering the seamless experience our customers expect. Going forward, enhanced monitoring processes will be put in place. We thank our community for its patience and understanding.\n\nVersion 2 — Honest\n\nAn apology from RotaFácil\n\nOn 3 and 4 June, a software update we released contained an error. As a result, our app charged around 12,000 customers more than it should have — in some cases, twice the correct fare — and sent some drivers on unnecessarily long routes.\n\nThis was our fault. We did not test the update properly before releasing it, and when customers first complained, we were too slow to respond.\n\nWe are sorry. Every customer who was overcharged will receive a full refund, plus a credit of R$20, by 15 June. You don't need to do anything: the money will be returned automatically. Drivers who lost earnings will also be compensated.\n\nWe have changed how we test updates so that this cannot happen again, and we will publish a report on what went wrong next month.\n\nIf you have any questions, our team is available on 0800-555-0199.\n\nMarina Lopes\nCEO, RotaFácil"
+      },
+      "culture_note": {
+        "title": "\"Economical with the truth\"",
+        "text_pt": "A expressão **\"economical with the truth\"** ficou famosa em 1986, quando o alto funcionário britânico **Sir Robert Armstrong** a usou num tribunal australiano para descrever uma carta enganosa. Hoje é um eufemismo irônico para \"mentir por omissão\". Outras expressões semelhantes: **\"terminological inexactitude\"** (Churchill, 1906) e **\"alternative facts\"** (2017)."
+      },
+      "summary_pt": ["Eufemismos: rightsizing, letting go, negative growth, collateral damage.", "Weasel words: some experts say, up to, helps, virtually, X% more (than what?).", "Ocultar o agente: passiva sem agente, nominalização, verbos ergativos.", "Pedido real: I + responsabilidade + dano específico + reparação; sem \"if\"."]
+    },
+    {
+      "id": "C2-M2-L3",
+      "title": "The fine print",
+      "subtitle_pt": "Conectores formais: whereby, notwithstanding, insofar as, lest, albeit, hence, thereby",
+      "duration_min": 80,
+      "source_refs": ["CEFR – C2 descriptors (formal and legal register)", "Cambridge C2 Proficiency – Reading and Use of English Part 2"],
+      "objectives": ["Usar conectores formais raros (notwithstanding, albeit, insofar as, inasmuch as)", "Usar whereby, thereby, hence, thus, whereupon", "Usar lest + subjuntivo e for fear that", "Entender contratos, termos de uso e regulamentos"],
+      "warmup": {
+        "text_pt": "Já leu os **termos de uso** de um app até o fim? Provavelmente não — e não foi por falta de inglês. Contratos e regulamentos usam um vocabulário próprio: \"**Notwithstanding** the above...\", \"...**whereby** the user agrees...\", \"**albeit** with limitations\". No C2, você precisa entender — e usar com precisão — esses conectores, que também aparecem em textos acadêmicos e na prova C2 Proficiency.",
+        "questions": ["Have you ever signed something without reading the fine print? What happened?", "Should terms and conditions be written in plain language by law?"]
+      },
+      "vocabulary": [
+        {"en": "the fine print / the small print", "pt": "as letras miúdas", "say": "dâ fáin print"},
+        {"en": "terms and conditions", "pt": "termos e condições", "say": "târmz énd kondíshanz"},
+        {"en": "a clause / a provision", "pt": "uma cláusula / uma disposição", "say": "a klóz / a provízhan"},
+        {"en": "liable / liability", "pt": "responsável (legalmente) / responsabilidade", "say": "láiabol / laiabíliti"},
+        {"en": "a breach (of contract)", "pt": "uma violação (de contrato)", "say": "a brítch"},
+        {"en": "to waive (a right)", "pt": "renunciar (a um direito)", "say": "tu uêiv"},
+        {"en": "binding", "pt": "vinculante, obrigatório", "say": "báindin"},
+        {"en": "null and void", "pt": "nulo e sem efeito", "say": "nâl énd vóid"},
+        {"en": "the party / the parties", "pt": "a parte / as partes (do contrato)", "say": "dâ párti"},
+        {"en": "to terminate (an agreement)", "pt": "rescindir (um acordo)", "say": "tu târmineit"},
+        {"en": "in accordance with", "pt": "de acordo com", "say": "in akórdans uídh"},
+        {"en": "henceforth", "pt": "doravante, de agora em diante", "say": "hénsfórθ"}
+      ],
+      "chunks": [
+        {"en": "Notwithstanding the above, the company may terminate the agreement.", "pt": "Não obstante o exposto, a empresa poderá rescindir o acordo."},
+        {"en": "a system whereby users pay monthly", "pt": "um sistema pelo qual os usuários pagam mensalmente"},
+        {"en": "The plan was successful, albeit expensive.", "pt": "O plano foi bem-sucedido, embora caro."},
+        {"en": "Insofar as I can tell, it's legal.", "pt": "Até onde posso dizer, é legal."},
+        {"en": "Read it carefully, lest you regret it.", "pt": "Leia com atenção, para que não se arrependa."},
+        {"en": "The contract is hereby terminated.", "pt": "O contrato fica, por meio deste, rescindido."}
+      ],
+      "grammar": {
+        "title": "Formal connectives",
+        "explanation_pt": "**1. Concessão formal:**\n- **notwithstanding** (= despite / however) — antes ou depois do substantivo: \"**Notwithstanding** the delay, the project was completed.\" / \"The delay **notwithstanding**, ...\"; também advérbio: \"It was expensive; it was, **notwithstanding**, a success.\"\n- **albeit** (= although) + adjetivo/advérbio/frase sem verbo: \"a significant, **albeit** temporary, improvement\" / \"He agreed, **albeit** reluctantly.\"\n- **be that as it may** (C1) / **that said** / **nonetheless**\n\n**2. Extensão / grau:**\n- **insofar as / in so far as** (= to the extent that): \"The plan is fair **insofar as** everyone pays the same.\"\n- **inasmuch as** (= since / to the extent that, formal): \"He is responsible **inasmuch as** he signed the document.\"\n\n**3. Meio / relação:**\n- **whereby** (= by which, através do qual): \"a system **whereby** employees can buy shares\"\n- **wherein / whereupon**: \"the document **wherein** the terms are stated\" / \"He signed, **whereupon** the meeting ended.\" (= depois do que)\n\n**4. Resultado / consequência:**\n- **hence** (= portanto / daí) — muitas vezes sem verbo: \"The data were incomplete, **hence** the delay.\"\n- **thus** (= assim, portanto): \"Costs fell; **thus**, prices could be reduced.\"\n- **thereby** + -ing (= com isso, desse modo): \"The bank raised rates, **thereby** reducing inflation.\"\n\n**5. Finalidade negativa:**\n- **lest** + (should) + verbo base (= para que não, formal/literário): \"Keep a copy **lest** the original **be** lost.\"\n- **for fear that / for fear of** + -ing: \"He kept quiet **for fear of** losing his job.\"\n\n**6. Linguagem jurídica (here- / there-):**\n- **hereby** (por meio deste), **herein** (neste documento), **hereinafter** (doravante denominado), **thereof** (dele/disso), **therein** (nele)\n- \"The Company (**hereinafter** \"the Provider\") **hereby** agrees...\"\n\n⚠️ **Use com critério:** em e-mails comuns, \"hereby\" e \"lest\" soam arcaicos. São adequados em **textos jurídicos, acadêmicos e muito formais**.",
+        "table": {
+          "headers": ["Conector", "Equivale a", "Exemplo"],
+          "rows": [["notwithstanding", "despite", "Notwithstanding the risks, they proceeded."], ["albeit", "although", "a small, albeit important, change"], ["insofar as", "to the extent that", "Insofar as I know, it's true."], ["whereby", "by which", "a scheme whereby..."], ["hence", "therefore / that's why", "It was late, hence the rush."], ["thereby", "by doing this", "...thereby saving money."], ["lest", "so that... not", "Lest we forget."], ["hereby", "by this document", "I hereby resign."]]
+        },
+        "examples": [
+          {"en": "Notwithstanding any other provision of this agreement, the user remains responsible for the security of their password.", "pt": "Não obstante qualquer outra disposição deste acordo, o usuário permanece responsável pela segurança de sua senha."},
+          {"en": "The government introduced a scheme whereby low-income families receive a monthly payment, thereby reducing extreme poverty.", "pt": "O governo introduziu um programa pelo qual famílias de baixa renda recebem um pagamento mensal, reduzindo assim a pobreza extrema."},
+          {"en": "The results were encouraging, albeit based on a small sample; hence the need for further research.", "pt": "Os resultados foram encorajadores, embora baseados numa amostra pequena; daí a necessidade de mais pesquisa."}
+        ],
+        "tip_pt": "Muitos desses conectores têm equivalente direto no português jurídico: **notwithstanding** = não obstante; **hereby** = por meio deste / pelo presente; **whereby** = pelo qual; **hence** = daí; **albeit** = ainda que. Saber isso ajuda muito na tradução de contratos."
+      },
+      "common_mistakes": [
+        {"wrong": "Albeit it was expensive, it was worth it.", "right": "Although it was expensive, it was worth it. / It was expensive, albeit worth it.", "why_pt": "albeit normalmente não introduz uma oração completa com sujeito e verbo."},
+        {"wrong": "The data was incomplete, hence we delayed the report.", "right": "The data was incomplete; hence the delay. / ..., and hence we delayed the report.", "why_pt": "hence costuma vir com substantivo ou depois de ponto e vírgula/and."},
+        {"wrong": "Write it down lest you will forget.", "right": "Write it down lest you forget / lest you should forget.", "why_pt": "lest + verbo base (ou should)."}
+      ],
+      "pronunciation": {
+        "focus": "Palavras formais longas",
+        "tip_pt": "Atenção à pronúncia: **notwithstanding** = \"not-uiθ-STÉN-din\"; **albeit** = \"ól-BÍ-it\" (3 sílabas!); **insofar** = \"in-sou-FÁR\"; **whereby** = \"uér-BÁI\"; **hereinafter** = \"hír-in-ÉF-ter\"; **lest** = \"lést\".",
+        "practice": ["not-with-STAND-ing", "al-BE-it", "in-so-FAR as", "here-in-AF-ter"]
+      },
+      "dialogue": {
+        "title": "Before you sign",
+        "context_pt": "Uma advogada explica um contrato de aluguel comercial a um cliente.",
+        "lines": [
+          {"speaker": "Lawyer", "en": "Before you sign, let's look at clause 12. It says: \"Notwithstanding clause 4, the landlord may increase the rent annually in accordance with inflation.\"", "pt": "Antes de assinar, vamos olhar a cláusula 12. Diz: \"Não obstante a cláusula 4, o locador poderá reajustar o aluguel anualmente de acordo com a inflação.\""},
+          {"speaker": "Bruno", "en": "But clause 4 says the rent is fixed for three years!", "pt": "Mas a cláusula 4 diz que o aluguel é fixo por três anos!"},
+          {"speaker": "Lawyer", "en": "Exactly. \"Notwithstanding\" means clause 12 overrides it. Hence my concern.", "pt": "Exatamente. \"Não obstante\" significa que a cláusula 12 prevalece. Daí minha preocupação."},
+          {"speaker": "Bruno", "en": "So the rent isn't really fixed at all.", "pt": "Então o aluguel não é fixo de verdade."},
+          {"speaker": "Lawyer", "en": "Only insofar as it can't rise above inflation. And here, clause 15 sets up an arrangement whereby you're liable for all structural repairs.", "pt": "Só na medida em que não pode subir acima da inflação. E aqui, a cláusula 15 estabelece um arranjo pelo qual você é responsável por todos os reparos estruturais."},
+          {"speaker": "Bruno", "en": "Structural? Even the roof?", "pt": "Estruturais? Até o telhado?"},
+          {"speaker": "Lawyer", "en": "Even the roof. It's unusual, albeit not illegal. I'd recommend negotiating it out, thereby protecting yourself from a very large bill.", "pt": "Até o telhado. É incomum, embora não ilegal. Eu recomendaria negociar a retirada, protegendo-se assim de uma conta muito alta."},
+          {"speaker": "Bruno", "en": "Thank you. I'm glad I didn't just sign it, lest I regret it for the next three years.", "pt": "Obrigado. Ainda bem que não assinei direto, para não me arrepender nos próximos três anos."}
+        ]
+      },
+      "listening": {
+        "title": "Nobody reads the terms",
+        "context_pt": "Uma pesquisadora de direito digital fala sobre termos de uso.",
+        "lines": [
+          {"speaker": "Researcher", "en": "Almost everyone clicks \"I agree\" without reading. In one well-known experiment, published in 2016, researchers Jonathan Obar and Anne Oeldorf-Hirsch created a fictitious social network and asked students to sign up. Buried in the terms of service was a clause whereby users agreed to give up their first-born child as payment. The overwhelming majority of participants agreed — most of them, apparently, without noticing. The study was, admittedly, an exaggeration, albeit a revealing one. Real terms of service rarely demand children, but they frequently contain provisions whereby users waive important rights: allowing companies to share data with third parties, to change the terms at any time, or to resolve disputes through private arbitration rather than in court. Several jurisdictions, including the European Union, have introduced rules requiring that key information be presented clearly, thereby giving consumers a better chance of understanding what they're signing. Notwithstanding these efforts, the basic problem remains: terms are long, readers are busy, and the default is to trust."}
+        ],
+        "questions": [
+          {"q": "What did the fictitious social network's terms include?", "answer": "A clause where users agreed to give up their first-born child."},
+          {"q": "How did most participants react?", "answer": "They agreed, mostly without noticing."},
+          {"q": "What real provisions do terms of service often contain?", "answer": "Data sharing, changing terms at any time, private arbitration instead of court."},
+          {"q": "What has the EU done?", "answer": "Introduced rules requiring key information to be presented clearly."}
+        ]
+      },
+      "reading": {
+        "title": "In defence of legalese?",
+        "text": "Few styles of writing are as widely disliked as \"legalese\": the dense, archaic and seemingly impenetrable language of contracts, statutes and terms of service. Critics have long argued that it serves mainly to exclude ordinary readers, thereby protecting the interests of lawyers and the powerful. Movements for \"plain language\" in law have won significant victories, and in many countries, government documents and consumer contracts must now be written in a way that the average reader can understand. Yet legal language is not merely the product of tradition or self-interest. Many of its peculiarities exist for a reason. Words such as \"notwithstanding\", \"hereinafter\" and \"whereby\" allow drafters to establish precise relationships between different parts of a document — which clause overrides which, how a term is defined, by what mechanism an obligation arises. Ordinary words, by contrast, tend to be vague, and vagueness in a contract can lead to years of costly litigation. Repetition, too, has a purpose: a lawyer who writes \"the Buyer\" fifty times rather than switching to \"they\" or \"the customer\" ensures that no court can later argue that the parties meant different people. Some features, admittedly, are harder to defend. Doublets and triplets such as \"null and void\", \"cease and desist\" and \"give, devise and bequeath\" are largely historical relics, dating from a time when English law drew on English, French and Latin and drafters used all three to be safe. Long sentences with multiple embedded clauses serve the convenience of the writer far more than the comprehension of the reader. The challenge, then, is not to abolish legal language but to distinguish precision from obscurity. A good contract should be as exact as necessary — albeit no more complicated than it needs to be. Insofar as plain language can achieve that, it is not the enemy of the law but its ally.",
+        "questions": [
+          {"q": "What do critics say legalese is mainly for?", "answer": "To exclude ordinary readers and protect lawyers and the powerful."},
+          {"q": "Why do words like \"notwithstanding\" exist?", "answer": "To establish precise relationships between parts of a document."},
+          {"q": "Why do lawyers repeat \"the Buyer\" instead of using pronouns?", "answer": "To avoid ambiguity about who is meant."},
+          {"q": "Where do doublets like \"null and void\" come from?", "answer": "From a time when English law used English, French and Latin terms together."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Choose the connective", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+         "items": [{"prompt": "The trip was a success, ___ a tiring one.", "options": ["albeit", "notwithstanding", "whereby"], "answer": "albeit"}, {"prompt": "We introduced a system ___ customers earn points.", "options": ["hence", "whereby", "lest"], "answer": "whereby"}, {"prompt": "The flight was cancelled; ___ the delay.", "options": ["hence", "albeit", "insofar"], "answer": "hence"}, {"prompt": "___ the bad weather, the event went ahead.", "options": ["Notwithstanding", "Albeit", "Whereby"], "answer": "Notwithstanding"}, {"prompt": "Lower interest rates boosted spending, ___ stimulating the economy.", "options": ["thereby", "whereby", "albeit"], "answer": "thereby"}, {"prompt": "Speak quietly ___ you wake the baby.", "options": ["lest", "hence", "thus"], "answer": "lest"}]},
+        {"id": "ex2", "type": "answer", "title": "Rewrite formally", "instruction": "Rewrite the sentences using the connective in brackets.", "instruction_pt": "Reescreva as frases usando o conector entre parênteses.",
+         "items": [{"prompt": "Despite the risks, they signed the contract. (notwithstanding)", "answer": "Notwithstanding the risks, they signed the contract."}, {"prompt": "The result was positive, although it was limited. (albeit)", "answer": "The result was positive, albeit limited."}, {"prompt": "It's a scheme. Employees can buy shares through it. (whereby)", "answer": "It's a scheme whereby employees can buy shares."}, {"prompt": "To the extent that I know, the law hasn't changed. (insofar as)", "answer": "Insofar as I know, the law hasn't changed."}]},
+        {"id": "ex3", "type": "match", "title": "Legal vocabulary", "instruction": "Write the English word or expression.", "instruction_pt": "Escreva a palavra ou expressão em inglês.",
+         "items": [{"prompt": "letras miúdas", "answer": "fine print / small print"}, {"prompt": "renunciar a um direito", "answer": "waive a right"}, {"prompt": "nulo e sem efeito", "answer": "null and void"}, {"prompt": "violação de contrato", "answer": "breach of contract"}, {"prompt": "doravante (denominado)", "answer": "hereinafter"}, {"prompt": "por meio deste", "answer": "hereby"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "Notwithstanding the above, the company may terminate the agreement."}, {"prompt": "2", "answer": "The plan was successful, albeit expensive."}, {"prompt": "3", "answer": "Insofar as I can tell, it's legal."}, {"prompt": "4", "answer": "The contract is hereby terminated."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "Albeit it was raining, we went out.", "answer": "Although it was raining, we went out."}, {"prompt": "Take an umbrella lest it will rain.", "answer": "Take an umbrella lest it rain / lest it should rain."}, {"prompt": "It's a system whereby users can to vote online.", "answer": "It's a system whereby users can vote online."}, {"prompt": "In so far that I know, he's innocent.", "answer": "Insofar as I know, he's innocent."}]},
+        {"id": "ex6", "type": "answer", "title": "Plain language", "instruction": "Rewrite this clause in plain English.", "instruction_pt": "Reescreva esta cláusula em inglês simples.",
+         "items": [{"prompt": "\"Notwithstanding anything to the contrary herein, the Provider shall not be liable for any loss howsoever arising, save as expressly provided hereinafter.\"", "answer": "Model: Even if other parts of this agreement say otherwise, the Provider is not responsible for any loss, except in the cases described later in this document."}, {"prompt": "\"The User hereby waives any and all rights to bring a claim before a court of law, whereby all disputes shall be resolved by arbitration.\"", "answer": "Model: By agreeing, you give up your right to go to court. All disputes will be decided by a private arbitrator instead."}]}
+      ],
+      "speaking": {
+        "instruction": "\"Contract negotiation\": in pairs, one person is a landlord (or a company) and the other a tenant (or customer). Read a short contract with unfair clauses (provided by your teacher or invented), explain them in plain English and negotiate changes using formal connectives.",
+        "instruction_pt": "\"Negociação de contrato\": em pares, um é o locador (ou empresa) e o outro o inquilino (ou cliente). Leiam um contrato curto com cláusulas injustas (fornecido pelo professor ou inventado), expliquem em inglês simples e negociem mudanças usando conectores formais.",
+        "questions": ["Have you ever been caught out by the small print?", "Should companies be legally required to summarize their terms in one page?", "Is legal language necessary, or just a way to exclude people?", "Would you sign a contract in English without a lawyer?", "What's the most unfair clause you've ever seen?"]
+      },
+      "writing": {
+        "task": "Write a set of rules or terms and conditions (250–300 words) for a community project, club or app (real or imagined), using at least eight formal connectives. Then add a \"plain English summary\" box (60–80 words).",
+        "task_pt": "Escreva um conjunto de regras ou termos e condições (250–300 palavras) para um projeto comunitário, clube ou app (real ou imaginário), usando pelo menos oito conectores formais. Depois acrescente um quadro \"resumo em linguagem simples\" (60–80 palavras).",
+        "model": "Terms and Conditions — Horta Viva Community Garden\n\n1. Definitions\nIn these Terms, \"the Association\" refers to the Horta Viva Residents' Association, and \"the Member\" refers to any person allocated a plot (hereinafter \"the Plot\").\n\n2. Allocation\nPlots are allocated in accordance with a waiting list whereby priority is given to residents of the neighbourhood. The Association hereby reserves the right to refuse an application where the applicant has previously breached these Terms.\n\n3. Use of the Plot\nThe Member shall cultivate the Plot regularly, albeit with reasonable flexibility during periods of illness or travel. A Plot left uncultivated for more than three consecutive months may be reallocated, notwithstanding any fees previously paid.\n\n4. Water and resources\nWater is shared and limited; hence, hoses may only be used before 9 a.m. or after 5 p.m. Members are encouraged to use rainwater collection systems, thereby reducing costs for the whole community.\n\n5. Liability\nInsofar as the law permits, the Association shall not be liable for loss of or damage to tools, plants or personal property. Members are therefore advised to store valuables at home lest they be lost or stolen.\n\n6. Termination\nEither party may terminate the agreement with thirty days' written notice, whereupon the Member shall return the Plot in a clean and usable condition.\n\n7. Changes\nThe Association may amend these Terms, provided that Members are notified at least two weeks in advance.\n\n— Plain English summary —\nYou get a plot because you live nearby. Look after it — if you leave it for three months, we may give it to someone else. Only water early or late in the day. We're not responsible if your tools are stolen, so don't leave valuables here. You can leave with 30 days' notice. We'll tell you two weeks before we change any rules."
+      },
+      "culture_note": {
+        "title": "\"Lest we forget\"",
+        "text_pt": "A expressão **\"Lest we forget\"** (para que não esqueçamos) aparece em memoriais de guerra em todo o mundo de língua inglesa, especialmente no Reino Unido, Austrália, Nova Zelândia e Canadá. Vem de um poema de **Rudyard Kipling** (1897) e é repetida todo ano no **Remembrance Day** (11 de novembro) e no **Anzac Day** (25 de abril). É um dos poucos usos de **lest** ainda vivos no dia a dia."
+      },
+      "summary_pt": ["Concessão: notwithstanding (= despite), albeit (+ adj/adv).", "Extensão: insofar as, inasmuch as. Meio: whereby. Resultado: hence, thus, thereby + -ing.", "lest + verbo base (= para que não); for fear of + -ing.", "Jurídico: hereby, herein, hereinafter, thereof — só em textos formais."]
+    },
+    {
+      "id": "C2-M2-L4",
+      "title": "Words that moved nations",
+      "subtitle_pt": "Figuras retóricas: quiasmo, anáfora, paralelismo, antítese",
+      "duration_min": 85,
+      "source_refs": ["CEFR – C2 descriptors (rhetorical effect, public speaking)", "Cambridge C2 Proficiency – Speaking Part 3"],
+      "objectives": ["Reconhecer figuras retóricas clássicas em discursos (anáfora, epístrofe, quiasmo, tricolon)", "Usar paralelismo gramatical para clareza e impacto", "Analisar trechos de discursos históricos", "Escrever e proferir um discurso curto com recursos retóricos"],
+      "warmup": {
+        "text_pt": "\"**Ask not what your country can do for you — ask what you can do for your country.**\" (John F. Kennedy, 1961). Por que essa frase sobreviveu mais de 60 anos? Por causa de uma figura chamada **quiasmo**: a repetição de palavras em ordem **invertida**. No C1 você viu a regra de três; no C2 você vai dominar o **arsenal completo** da retórica clássica.",
+        "questions": ["Can you remember a line from a famous speech, in any language?", "Why do some sentences stay in our memory for decades?"]
+      },
+      "vocabulary": [
+        {"en": "anaphora", "pt": "anáfora (repetição no início)", "say": "anéfora"},
+        {"en": "epistrophe", "pt": "epístrofe (repetição no fim)", "say": "epístrofi"},
+        {"en": "chiasmus", "pt": "quiasmo (inversão em espelho)", "say": "kaiézmas"},
+        {"en": "antithesis", "pt": "antítese", "say": "antíθesis"},
+        {"en": "tricolon", "pt": "tricolon (regra de três)", "say": "traikôulon"},
+        {"en": "parallelism", "pt": "paralelismo", "say": "péralelizm"},
+        {"en": "alliteration", "pt": "aliteração", "say": "aliterêishan"},
+        {"en": "a rhetorical question", "pt": "uma pergunta retórica", "say": "a ritórikol kuéstchan"},
+        {"en": "cadence", "pt": "cadência, ritmo", "say": "kêidens"},
+        {"en": "to resonate (with)", "pt": "ressoar, repercutir (em)", "say": "tu rézoneit"},
+        {"en": "stirring / rousing", "pt": "emocionante / inflamado", "say": "stârin / ráuzin"},
+        {"en": "a peroration", "pt": "uma peroração (conclusão de discurso)", "say": "a perorêishan"}
+      ],
+      "chunks": [
+        {"en": "Ask not what your country can do for you — ask what you can do for your country.", "pt": "Não pergunte o que seu país pode fazer por você — pergunte o que você pode fazer por seu país."},
+        {"en": "government of the people, by the people, for the people", "pt": "governo do povo, pelo povo, para o povo"},
+        {"en": "We shall fight on the beaches, we shall fight on the landing grounds...", "pt": "Lutaremos nas praias, lutaremos nos campos de pouso..."},
+        {"en": "It's not the years in your life that count; it's the life in your years.", "pt": "Não são os anos da sua vida que contam; é a vida nos seus anos."},
+        {"en": "We came, we saw, we listened.", "pt": "Viemos, vimos, ouvimos."},
+        {"en": "Not because it is easy, but because it is hard.", "pt": "Não porque é fácil, mas porque é difícil."}
+      ],
+      "grammar": {
+        "title": "Rhetorical figures",
+        "explanation_pt": "**1. Paralelismo** — estruturas gramaticais **iguais** em sequência (a base de quase todas as figuras):\n- ❌ \"She likes swimming, to run and cycles.\" ✅ \"She likes **swimming, running and cycling**.\"\n- \"We will **build** schools, **train** teachers and **support** families.\"\n\n**2. Tricolon** (C1, revisão): três elementos paralelos, geralmente com o último mais longo ou forte.\n- \"government **of** the people, **by** the people, **for** the people\" (Lincoln, 1863)\n\n**3. Anáfora** — repetição no **início** de frases/orações:\n- \"**We shall fight** on the beaches, **we shall fight** on the landing grounds, **we shall fight** in the fields...\" (Churchill, 1940)\n\n**4. Epístrofe** — repetição no **final**:\n- \"...government of the people, by the **people**, for the **people**.\"\n- \"When I was a child, I spoke as a **child**, I understood as a **child**, I thought as a **child**.\" (Bíblia, King James)\n\n**5. Antítese** — ideias opostas em estrutura paralela:\n- \"...**not because** they are **easy**, **but because** they are **hard**.\" (Kennedy, 1962)\n- \"That's one small step for a man, one giant leap for mankind.\" (Armstrong, 1969)\n\n**6. Quiasmo** — repetição **invertida** (A-B / B-A):\n- \"Ask not what **your country** can do for **you** — ask what **you** can do for **your country**.\" (Kennedy, 1961)\n- \"**Eat** to **live**, not **live** to **eat**.\"\n- \"It's not the **years** in your **life**, it's the **life** in your **years**.\"\n\n**7. Aliteração e assonância** — repetição de sons: \"**b**igger, **b**etter, **b**older\"; \"**p**eace, **p**rosperity and **p**rogress\"\n\n**8. Perguntas retóricas e pausas** (C1, revisão).\n\n**Gramática do paralelismo:** ao listar ações, mantenha a **mesma forma** (todos verbos base, todos -ing, todos substantivos); ao contrastar, use **estruturas idênticas**: \"not X but Y\", \"less X, more Y\", \"the more X, the more Y\".",
+        "table": {
+          "headers": ["Figura", "Padrão", "Exemplo"],
+          "rows": [["Anáfora", "A... / A... / A...", "We shall fight... we shall fight..."], ["Epístrofe", "...B / ...B / ...B", "...by the people, for the people"], ["Antítese", "not X but Y", "Not because it is easy, but because it is hard."], ["Quiasmo", "A-B / B-A", "Ask not what your country can do for you..."], ["Tricolon", "X, Y and Z", "Veni, vidi, vici."], ["Aliteração", "mesmo som inicial", "safer, stronger, smarter"]]
+        },
+        "examples": [
+          {"en": "We do not need more promises; we need more action. We do not need more speeches; we need more schools.", "pt": "Não precisamos de mais promessas; precisamos de mais ação. Não precisamos de mais discursos; precisamos de mais escolas."},
+          {"en": "Education is not the filling of a pail, but the lighting of a fire — a line often attributed to W. B. Yeats, though its origin is uncertain.", "pt": "Educação não é encher um balde, mas acender um fogo — frase muitas vezes atribuída a W. B. Yeats, embora sua origem seja incerta."},
+          {"en": "We can choose to build bridges together, or we can choose to build walls alone.", "pt": "Podemos escolher construir pontes juntos, ou podemos escolher construir muros sozinhos."}
+        ],
+        "tip_pt": "Discursos brasileiros também usam essas figuras — de Rui Barbosa aos sambas-enredo. Ao escrever em inglês, comece pelo **paralelismo**: ele torna frases mais claras **e** mais memoráveis. As figuras mais sofisticadas (quiasmo, epístrofe) funcionam melhor **uma vez**, no momento de maior impacto."
+      },
+      "common_mistakes": [
+        {"wrong": "We want to build schools, training teachers and support for families.", "right": "We want to build schools, train teachers and support families.", "why_pt": "Paralelismo: mesma forma gramatical em todos os itens."},
+        {"wrong": "Not because it is easy, but it is hard.", "right": "Not because it is easy, but because it is hard.", "why_pt": "Antítese exige estruturas idênticas nos dois lados."},
+        {"wrong": "Using chiasmus in every sentence of a speech.", "right": "Use it once, at the climax.", "why_pt": "Figuras fortes perdem impacto quando repetidas."}
+      ],
+      "pronunciation": {
+        "focus": "Cadência oratória",
+        "tip_pt": "Em discursos, as figuras retóricas dependem de **ritmo**: pausas iguais entre elementos paralelos, ênfase nas palavras repetidas ou contrastadas, e **desaceleração** na frase final. \"Not because it is EASY | but because it is HARD.\" / \"of the PEOple | by the PEOple | for the PEOple.\"",
+        "practice": ["Not because it is EASY, | but because it is HARD.", "Of the PEOple, | by the PEOple, | for the PEOple.", "Ask NOT what your COUNtry can do for YOU — | ask what YOU can do for your COUNtry."]
+      },
+      "dialogue": {
+        "title": "Rehearsing the graduation speech",
+        "context_pt": "Uma estudante ensaia o discurso de formatura com um professor de oratória.",
+        "lines": [
+          {"speaker": "Teacher", "en": "Let's hear your closing paragraph, Luana.", "pt": "Vamos ouvir seu parágrafo final, Luana."},
+          {"speaker": "Luana", "en": "\"We learned a lot here. We made friends and we had good teachers. Now we have to go out and change things.\"", "pt": "\"Aprendemos muito aqui. Fizemos amigos e tivemos bons professores. Agora temos que sair e mudar as coisas.\""},
+          {"speaker": "Teacher", "en": "It's sincere, but it won't stay with anyone. Try parallelism. What did this place give you?", "pt": "É sincero, mas ninguém vai lembrar. Tente paralelismo. O que este lugar te deu?"},
+          {"speaker": "Luana", "en": "\"Here, we learned to question. Here, we learned to listen. Here, we learned to fail — and to try again.\"", "pt": "\"Aqui, aprendemos a questionar. Aqui, aprendemos a ouvir. Aqui, aprendemos a falhar — e a tentar de novo.\""},
+          {"speaker": "Teacher", "en": "Anaphora and a tricolon, with the longest item last. Beautiful. Now the ending — can you use a contrast?", "pt": "Anáfora e um tricolon, com o item mais longo por último. Lindo. Agora o final — consegue usar um contraste?"},
+          {"speaker": "Luana", "en": "\"We did not come here to find answers; we came here to find better questions.\"", "pt": "\"Não viemos aqui para encontrar respostas; viemos aqui para encontrar perguntas melhores.\""},
+          {"speaker": "Teacher", "en": "Antithesis. And the very last line?", "pt": "Antítese. E a última linha?"},
+          {"speaker": "Luana", "en": "\"For years, this school has been changing us. From today, let us go out and change the world — not for ourselves, but for each other.\"", "pt": "\"Por anos, esta escola nos transformou. A partir de hoje, vamos sair e transformar o mundo — não por nós mesmos, mas uns pelos outros.\""},
+          {"speaker": "Teacher", "en": "Now slow down on that final sentence, pause before \"but\", and look up. That's the line they'll remember.", "pt": "Agora desacelere nessa última frase, faça uma pausa antes do \"but\" e olhe para o público. É essa a frase que vão lembrar."}
+        ]
+      },
+      "listening": {
+        "title": "Anatomy of a famous speech",
+        "context_pt": "Um historiador analisa o Discurso de Gettysburg, de Abraham Lincoln (1863).",
+        "lines": [
+          {"speaker": "Historian", "en": "On 19 November 1863, at the dedication of a military cemetery in Gettysburg, Pennsylvania, Abraham Lincoln spoke for around two minutes. The main speaker that day, the celebrated orator Edward Everett, had spoken for about two hours. It is Lincoln's speech that is remembered. Why? Partly because of its brevity — fewer than three hundred words — and partly because of its extraordinary craftsmanship. Lincoln uses antithesis repeatedly: the world \"will little note, nor long remember what we say here, but it can never forget what they did here.\" He uses a tricolon of verbs: \"we can not dedicate — we can not consecrate — we can not hallow — this ground.\" And he ends with perhaps the most famous example of epistrophe in American history, describing a government \"of the people, by the people, for the people\". Notice, too, the irony of that first antithesis: Lincoln claimed the world would not remember his words. Rarely has a prediction been so completely wrong."}
+        ],
+        "questions": [
+          {"q": "How long did Lincoln speak, compared with Edward Everett?", "answer": "About two minutes, compared with about two hours."},
+          {"q": "Give an example of antithesis from the speech.", "answer": "\"The world will little note, nor long remember what we say here, but it can never forget what they did here.\""},
+          {"q": "What tricolon of verbs does Lincoln use?", "answer": "Dedicate, consecrate, hallow."},
+          {"q": "What is ironic about the first antithesis?", "answer": "Lincoln said the world wouldn't remember his words, but it did."}
+        ]
+      },
+      "reading": {
+        "title": "Why rhetoric still matters",
+        "text": "For much of Western history, rhetoric — the art of persuasive speech — stood at the centre of education. Roman schoolboys practised declamation; medieval universities taught it as one of the three foundational arts, alongside grammar and logic; and well into the nineteenth century, educated people were expected to recognize, and to use, figures such as anaphora and chiasmus. In the twentieth century, however, rhetoric acquired a bad name. After decades of wartime propaganda and, later, the polished manipulations of advertising, the word came to suggest empty or deceptive speech: \"mere rhetoric\". Many schools quietly dropped it from the curriculum. This is unfortunate, for two reasons. First, the techniques of rhetoric have not disappeared; they have simply become less visible. Every political speech, advertising campaign and viral post draws on the same toolkit that Cicero and Quintilian described two thousand years ago. Citizens who cannot recognize these techniques are, in a sense, defenceless against them. To identify a false antithesis — \"either you are with us or you are against us\" — is already to begin to resist it. Second, rhetoric is not only a weapon of the powerful. It has also been the instrument of those seeking to challenge power. Abolitionists, suffragists and civil rights leaders were, almost without exception, masters of persuasive language; their speeches combined moral clarity with carefully crafted rhythm, repetition and contrast. To dismiss rhetoric as manipulation is, in effect, to give up one of the most effective tools of democratic change. Perhaps the solution is to return rhetoric to its original place: not as a set of tricks but as a discipline of both speaking and listening. A society that teaches its citizens to recognize persuasion, to analyse it and to use it responsibly is far better equipped to govern itself than one that merely hopes its leaders will speak honestly.",
+        "questions": [
+          {"q": "What were the three foundational arts in medieval universities?", "answer": "Grammar, logic and rhetoric."},
+          {"q": "Why did rhetoric acquire a bad name in the twentieth century?", "answer": "Because of wartime propaganda and advertising manipulation."},
+          {"q": "What is the first reason it's unfortunate to drop rhetoric from education?", "answer": "The techniques are still used; citizens who can't recognize them are defenceless."},
+          {"q": "What is the second reason?", "answer": "Rhetoric has also been a tool for challenging power and democratic change."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Identify the figure", "instruction": "Which rhetorical figure is the main one in each sentence?", "instruction_pt": "Qual é a principal figura retórica de cada frase?",
+         "items": [{"prompt": "\"Ask not what your country can do for you — ask what you can do for your country.\"", "options": ["chiasmus", "anaphora", "alliteration"], "answer": "chiasmus"}, {"prompt": "\"We shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields.\"", "options": ["epistrophe", "anaphora", "antithesis"], "answer": "anaphora"}, {"prompt": "\"...of the people, by the people, for the people.\"", "options": ["epistrophe", "chiasmus", "antithesis"], "answer": "epistrophe"}, {"prompt": "\"One small step for a man, one giant leap for mankind.\"", "options": ["antithesis", "anaphora", "alliteration"], "answer": "antithesis"}, {"prompt": "\"Safer streets, stronger schools, smarter cities.\"", "options": ["alliteration and tricolon", "chiasmus", "epistrophe"], "answer": "alliteration and tricolon"}]},
+        {"id": "ex2", "type": "correct_error", "title": "Fix the parallelism", "instruction": "Rewrite each sentence with correct parallel structure.", "instruction_pt": "Reescreva cada frase com paralelismo correto.",
+         "items": [{"prompt": "We promise to build hospitals, hiring doctors and reduction of waiting times.", "answer": "We promise to build hospitals, hire doctors and reduce waiting times."}, {"prompt": "She is known for her honesty, being generous and she works hard.", "answer": "She is known for her honesty, her generosity and her hard work."}, {"prompt": "We chose this path not because it was easy but it was right.", "answer": "We chose this path not because it was easy but because it was right."}, {"prompt": "The plan is cheaper, more efficient and it helps the environment.", "answer": "The plan is cheaper, more efficient and greener."}]},
+        {"id": "ex3", "type": "answer", "title": "Create the figure", "instruction": "Write a sentence using the rhetorical figure given, on the topic suggested.", "instruction_pt": "Escreva uma frase usando a figura retórica indicada, sobre o tema sugerido.",
+         "items": [{"prompt": "Chiasmus — education", "answer": "Model: We should not live to work; we should work to live. / Don't teach students what to think; teach them how to think."}, {"prompt": "Anaphora — the environment", "answer": "Model: Every tree we cut is a promise broken. Every river we pollute is a future stolen. Every day we wait is a day we cannot recover."}, {"prompt": "Antithesis — technology", "answer": "Model: Technology has made us more connected than ever, yet more alone than ever."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "Not because it is easy, but because it is hard."}, {"prompt": "2", "answer": "It's not the years in your life that count; it's the life in your years."}, {"prompt": "3", "answer": "Government of the people, by the people, for the people."}, {"prompt": "4", "answer": "We came, we saw, we listened."}]},
+        {"id": "ex5", "type": "match", "title": "Rhetoric vocabulary", "instruction": "Write the name of the figure for each definition.", "instruction_pt": "Escreva o nome da figura para cada definição.",
+         "items": [{"prompt": "repetition at the beginning of clauses", "answer": "anaphora"}, {"prompt": "repetition at the end of clauses", "answer": "epistrophe"}, {"prompt": "words repeated in reverse order", "answer": "chiasmus"}, {"prompt": "opposites in parallel structure", "answer": "antithesis"}, {"prompt": "a list of three", "answer": "tricolon"}, {"prompt": "repetition of initial consonant sounds", "answer": "alliteration"}]},
+        {"id": "ex6", "type": "answer", "title": "Analyse a speech", "instruction": "Identify at least three rhetorical figures in this (invented) passage.", "instruction_pt": "Identifique pelo menos três figuras retóricas neste trecho (inventado).",
+         "items": [{"prompt": "\"They told us it couldn't be done. They told us we were too young. They told us to wait. But we did not come here to wait; we came here to work. And we will not stop until every child in this city has a school worth walking to, a teacher worth listening to and a future worth fighting for.\"", "answer": "Anaphora (They told us...), antithesis (not to wait; to work), tricolon with parallelism (a school worth walking to, a teacher worth listening to, a future worth fighting for)."}]}
+      ],
+      "speaking": {
+        "instruction": "\"Two-minute oration\": write and deliver a 2-minute speech for a special occasion (a graduation, a wedding toast, a farewell to a colleague, the opening of a community project). Use at least four different rhetorical figures and practise your cadence. The class identifies the figures you used.",
+        "instruction_pt": "\"Oração de dois minutos\": escreva e profira um discurso de 2 minutos para uma ocasião especial (formatura, brinde de casamento, despedida de um colega, abertura de um projeto comunitário). Use pelo menos quatro figuras retóricas diferentes e pratique a cadência. A turma identifica as figuras usadas.",
+        "questions": ["Which famous speech would you most like to have heard in person?", "Is rhetoric a tool of manipulation or of liberation?", "Should schools teach rhetoric again?", "Which Brazilian speaker or writer uses language most powerfully?", "Can a speech really change history?"]
+      },
+      "writing": {
+        "task": "Write a speech (300–350 words) for an occasion of your choice (a graduation, an inauguration, a protest, an award ceremony). Use at least six rhetorical figures, including chiasmus, anaphora and antithesis, and write a short note (2–3 lines) identifying them.",
+        "task_pt": "Escreva um discurso (300–350 palavras) para uma ocasião à sua escolha (formatura, inauguração, protesto, premiação). Use pelo menos seis figuras retóricas, incluindo quiasmo, anáfora e antítese, e escreva uma nota curta (2–3 linhas) identificando-as.",
+        "model": "Opening of the Vila Esperança Community Library\n\nFriends, neighbours, children of Vila Esperança,\n\nThree years ago, on this very spot, there was nothing but a broken wall and a pile of rubbish. Today, there are four thousand books.\n\nThey told us it was impossible. They told us there was no money. They told us that nobody here would read. Look around you. Every shelf in this room is an answer to them.\n\nThis library was not built by the government, nor by a company, nor by a single generous donor. It was built by you: by the bricklayer who gave his weekends, by the grandmother who organized the book drive, by the teenagers who painted these walls. It was built not with money, but with time; not with promises, but with hands.\n\nSome people say that books belong to the past — that our children need screens, not stories. I say they need both. But a screen can show you the world; a book can show you yourself.\n\nHere, a child who has never left this neighbourhood can travel to the Amazon, to Lisbon, to the moon. Here, an adult who never finished school can finally finish a book. Here, every one of us can find a quiet place in a noisy world.\n\nWe did not build this library because it was easy. We built it because it was necessary.\n\nSo, to the children of Vila Esperança, I have just one request. Don't just read the books in this room — one day, write the books that will fill it. Because a community that reads can change its story; a community that writes its story can change the world.\n\nWelcome to your library.\n\n— Figures used: anaphora (\"They told us...\", \"Here...\"), tricolon (bricklayer, grandmother, teenagers), antithesis (not with money, but with time), chiasmus (\"a community that reads can change its story; a community that writes its story...\"), parallel antithesis (\"not because it was easy... because it was necessary\")."
+      },
+      "culture_note": {
+        "title": "Discursos que o mundo de língua inglesa decora",
+        "text_pt": "Muitos estudantes nos EUA e no Reino Unido estudam (e às vezes decoram) trechos de discursos como o **Discurso de Gettysburg** (Lincoln, 1863), **\"We shall fight on the beaches\"** (Churchill, 1940), a **posse de Kennedy** (1961) e **\"I Have a Dream\"** (Martin Luther King Jr., 1963). Conhecer essas referências ajuda a entender alusões em notícias, filmes e discursos atuais."
+      },
+      "summary_pt": ["Paralelismo: mesma forma gramatical em listas e contrastes.", "Anáfora (início), epístrofe (fim), tricolon (três).", "Antítese: not X but Y. Quiasmo: A-B / B-A.", "Use as figuras mais fortes uma vez, no clímax, com pausas e cadência."]
+    }
+  ],
+  "review": {
+    "intro_pt": "Revise inversão literária, linguagem de spin, conectores formais e figuras retóricas.",
+    "exercises": [
+      {"id": "r1", "type": "multiple_choice", "title": "Choose the correct option", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+       "items": [{"prompt": "___ the days when phones had cords.", "options": ["Gone are", "Gone were", "Are gone"], "answer": "Gone are"}, {"prompt": "\"Mistakes were made\" hides the ___.", "options": ["agent", "object", "verb"], "answer": "agent"}, {"prompt": "The scheme was a success, ___ a costly one.", "options": ["albeit", "whereby", "hence"], "answer": "albeit"}, {"prompt": "\"Eat to live, not live to eat\" is an example of ___.", "options": ["chiasmus", "anaphora", "epistrophe"], "answer": "chiasmus"}, {"prompt": "Here ___!", "options": ["comes he", "he comes", "does he come"], "answer": "he comes"}]},
+      {"id": "r2", "type": "answer", "title": "Transform", "instruction": "Rewrite the sentences as instructed.", "instruction_pt": "Reescreva as frases como indicado.",
+       "items": [{"prompt": "The power of the internet is so great that it can topple governments. (Such...)", "answer": "Such is the power of the internet that it can topple governments."}, {"prompt": "We're letting 50 people go. (plain English)", "answer": "We're firing 50 people."}, {"prompt": "Despite the delay, the project was completed. (Notwithstanding...)", "answer": "Notwithstanding the delay, the project was completed."}]},
+      {"id": "r3", "type": "translate", "title": "Translate", "instruction": "Translate into English.", "instruction_pt": "Traduza para o inglês.",
+       "items": [{"prompt": "Em nenhum lugar isso é mais evidente do que na educação.", "answer": "Nowhere is this more evident than in education."}, {"prompt": "um sistema pelo qual os cidadãos votam online", "answer": "a system whereby citizens vote online"}, {"prompt": "Não porque é fácil, mas porque é necessário.", "answer": "Not because it is easy, but because it is necessary."}]},
+      {"id": "r4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+       "items": [{"prompt": "1", "answer": "So great was the crowd that the square overflowed."}, {"prompt": "2", "answer": "He was economical with the truth."}, {"prompt": "3", "answer": "Read it carefully, lest you regret it."}]},
+      {"id": "r5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+       "items": [{"prompt": "Such was the noise nobody heard him.", "answer": "Such was the noise that nobody heard him."}, {"prompt": "Albeit it was late, we continued.", "answer": "Although it was late, we continued."}, {"prompt": "We want to build homes, creating jobs and protection of the environment.", "answer": "We want to build homes, create jobs and protect the environment."}]}
+    ],
+    "speaking_pt": "Faça um \"rhetoric masterclass\" de 5 minutos: escolha um discurso, propaganda ou comunicado real (em inglês), analise o uso de inversão, spin, conectores formais e figuras retóricas, e depois reescreva um trecho de forma mais honesta ou mais impactante, lendo as duas versões em voz alta.",
+    "speaking_questions": ["What's the difference between persuasion and manipulation?", "Which euphemism annoys you most?", "Should contracts by law be written in plain language?", "Which rhetorical figure do you find most powerful?", "Can rhetoric make the world better?"],
+    "project_pt": "**\"Spin vs. truth\":** em grupos, criem uma campanha fictícia (política ou de produto) com (1) um discurso de lançamento cheio de recursos retóricos, (2) um comunicado com spin sobre um problema, (3) a versão honesta desse comunicado e (4) um termo de uso com letras miúdas + resumo em linguagem simples. A turma avalia a ética e a eficácia de cada peça."
+  }
+}

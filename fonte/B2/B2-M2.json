@@ -1,0 +1,530 @@
+{
+  "id": "B2-M2",
+  "level": "B2",
+  "title": "Work in Progress",
+  "theme_pt": "Carreira, futuro do trabalho, negociação e reuniões",
+  "can_do": ["Falar de planos com future continuous e future perfect", "Falar de planos que mudaram (was going to, future in the past)", "Negociar e fazer concessões", "Conduzir e participar de reuniões (interromper, retomar, resumir)"],
+  "lessons": [
+    {
+      "id": "B2-M2-L1",
+      "title": "Where will you be in ten years?",
+      "subtitle_pt": "Future continuous e future perfect (simple e continuous)",
+      "duration_min": 75,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – B2 (future continuous, future perfect)", "TopNotch 3B Teacher's Book – Unit 6 (life choices, plans)"],
+      "objectives": ["Usar o future continuous para ações em andamento num momento futuro", "Usar o future perfect para ações concluídas até um ponto futuro", "Usar o future perfect continuous para duração até um ponto futuro", "Falar de metas de carreira e de vida a médio e longo prazo"],
+      "warmup": {
+        "text_pt": "\"Daqui a dez anos, estarei morando em outro país.\" \"Até 2030, terei terminado meu mestrado.\" Para falar do futuro com precisão — o que estará acontecendo e o que já terá acontecido — o inglês tem dois tempos que você vai dominar hoje.",
+        "questions": ["What will you be doing this time next year?", "What will you have achieved by the age of 40?"]
+      },
+      "vocabulary": [
+        {"en": "a long-term / short-term goal", "pt": "uma meta de longo / curto prazo", "say": "lóng târm / shórt târm gôul"},
+        {"en": "a career path / trajectory", "pt": "uma trajetória profissional", "say": "karír péθ / tradjéktori"},
+        {"en": "to climb the ladder", "pt": "subir na carreira", "say": "tu kláim dâ léder"},
+        {"en": "to retrain / to upskill / to reskill", "pt": "requalificar-se / aprimorar habilidades", "say": "tu ritrêin / tu âpskil / tu riskíl"},
+        {"en": "a career break / a sabbatical", "pt": "uma pausa na carreira / um sabático", "say": "karír brêik / sabátikal"},
+        {"en": "to set up (a business)", "pt": "abrir (um negócio)", "say": "tu sét âp"},
+        {"en": "to be self-employed / freelance", "pt": "ser autônomo", "say": "sélf implóid / frílens"},
+        {"en": "to retire / retirement", "pt": "aposentar-se / aposentadoria", "say": "tu ritáier / ritáierment"},
+        {"en": "a milestone", "pt": "um marco", "say": "a máilstoun"},
+        {"en": "by then / by the time", "pt": "até lá / até quando", "say": "bái dén / bái dâ táim"},
+        {"en": "this time next year", "pt": "a esta hora no ano que vem", "say": "dis táim nékst iír"},
+        {"en": "to be on track (to)", "pt": "estar no caminho certo (para)", "say": "tu bí on trék"}
+      ],
+      "chunks": [
+        {"en": "This time next year, I'll be living in Lisbon.", "pt": "A esta altura do ano que vem, estarei morando em Lisboa."},
+        {"en": "By 2030, I'll have finished my master's.", "pt": "Até 2030, terei terminado meu mestrado."},
+        {"en": "By June, I'll have been working here for five years.", "pt": "Em junho, farei cinco anos trabalhando aqui."},
+        {"en": "Will you be using the car tomorrow?", "pt": "Você vai usar o carro amanhã?"},
+        {"en": "Don't call at 8 — I'll be having dinner.", "pt": "Não ligue às 8 — estarei jantando."},
+        {"en": "I'm on track to reach my goal.", "pt": "Estou no caminho certo para atingir minha meta."}
+      ],
+      "grammar": {
+        "title": "Future continuous & future perfect",
+        "explanation_pt": "**Future continuous: will be + -ing** → ação **em andamento** num momento do futuro:\n- \"This time tomorrow, I**'ll be flying** to Lisbon.\" (estarei voando)\n- \"Don't call at 8 — we**'ll be having** dinner.\"\n- **Perguntas educadas** sobre planos (sem pressionar): \"**Will you be using** the car tonight?\" (soa menos invasivo que \"Will you use...?\")\n- Coisas que vão acontecer **naturalmente / como rotina**: \"I**'ll be seeing** Ana at work anyway, so I'll give her the book.\"\n\n**Future perfect simple: will have + particípio** → ação **concluída até** um ponto do futuro:\n- \"**By** 2030, I**'ll have finished** my master's.\" (terei terminado)\n- \"By the time you arrive, we**'ll have eaten**.\"\n- Negativa: \"I **won't have finished** by Friday.\"\n- Com **by**: by then, by the time, by next year, by the end of the month\n\n**Future perfect continuous: will have been + -ing** → **duração** até um ponto do futuro:\n- \"In June, I**'ll have been working** here **for** five years.\" (farei cinco anos)\n- \"By the time she retires, she**'ll have been teaching for** 35 years.\"\n\n**Lembre:** em time clauses (when, by the time, as soon as), use o **presente**: \"By the time you **arrive** (❌ will arrive), we'll have left.\"",
+        "table": {
+          "headers": ["Tempo", "Forma", "Exemplo", "Ideia"],
+          "rows": [["Future continuous", "will be + -ing", "At 9 a.m. I'll be presenting.", "em andamento no futuro"], ["Future perfect", "will have + pp", "By 2028 I'll have saved R$50k.", "concluído até um ponto"], ["Future perfect continuous", "will have been + -ing", "By May I'll have been studying for 3 years.", "duração até um ponto"], ["Pergunta educada", "Will you be + -ing?", "Will you be joining us?", "sem pressionar"]]
+        },
+        "examples": [
+          {"en": "This time next year, I'll be working remotely from a small town by the sea.", "pt": "A esta altura do ano que vem, estarei trabalhando remotamente de uma cidadezinha à beira-mar."},
+          {"en": "By the time I'm 40, I hope I'll have set up my own business.", "pt": "Quando eu tiver 40 anos, espero ter aberto meu próprio negócio."},
+          {"en": "Next month, we'll have been living in this apartment for ten years.", "pt": "Mês que vem, faremos dez anos morando neste apartamento."}
+        ],
+        "tip_pt": "**Will you be + -ing?** é uma forma muito educada de perguntar sobre planos sem parecer um pedido: \"**Will you be coming** to the meeting?\" (só quer saber) x \"**Will you come** to the meeting?\" (soa como convite/pedido)."
+      },
+      "common_mistakes": [
+        {"wrong": "By 2030, I will finish my degree.", "right": "By 2030, I will have finished my degree.", "why_pt": "Concluído até um ponto futuro (by) = future perfect."},
+        {"wrong": "By the time you will arrive, I'll have left.", "right": "By the time you arrive, I'll have left.", "why_pt": "Em time clauses, presente simples."},
+        {"wrong": "Tomorrow at 10, I will work.", "right": "Tomorrow at 10, I'll be working.", "why_pt": "Ação em andamento num momento futuro = future continuous."}
+      ],
+      "pronunciation": {
+        "focus": "Formas fracas: will have / will have been",
+        "tip_pt": "Na fala, **will have** vira \"**'ll've**\" (\"áiláv\"): \"I'll have finished\" = \"áilav FÍ-nisht\". **Will have been** vira \"**áilavbin**\". A força fica no verbo principal e no tempo: \"By **JUNE**, I'll've been **WORK**ing here for **FIVE** years.\"",
+        "practice": ["I'll have finished by Friday. (\"áilav\")", "I'll be working at nine.", "By June, I'll have been working here for five years."]
+      },
+      "dialogue": {
+        "title": "Career coaching session",
+        "context_pt": "Uma coach de carreira ajuda um cliente a planejar os próximos cinco anos.",
+        "lines": [
+          {"speaker": "Coach", "en": "So, Rodrigo, let's think long-term. Where do you see yourself five years from now?", "pt": "Então, Rodrigo, vamos pensar a longo prazo. Onde você se vê daqui a cinco anos?"},
+          {"speaker": "Rodrigo", "en": "Ideally, I'll be leading a data team at an international company — possibly in Europe.", "pt": "Idealmente, estarei liderando uma equipe de dados numa empresa internacional — possivelmente na Europa."},
+          {"speaker": "Coach", "en": "Great. And what will you have done by then to get there?", "pt": "Ótimo. E o que você terá feito até lá para chegar a isso?"},
+          {"speaker": "Rodrigo", "en": "Well, by the end of next year, I'll have finished my MBA. And by 2028, I'll have been working as a senior analyst for about three years, which should be enough experience.", "pt": "Bom, até o fim do ano que vem, terei terminado meu MBA. E em 2028, terei uns três anos como analista sênior, o que deve ser experiência suficiente."},
+          {"speaker": "Coach", "en": "What about your English? International leadership roles usually require advanced English.", "pt": "E seu inglês? Cargos de liderança internacionais geralmente exigem inglês avançado."},
+          {"speaker": "Rodrigo", "en": "I'm working on it. If everything goes to plan, I'll have reached C1 before I start applying.", "pt": "Estou trabalhando nisso. Se tudo correr como planejado, terei chegado ao C1 antes de começar a me candidatar."},
+          {"speaker": "Coach", "en": "Good. Let's set some milestones. This time next month, what will you be doing differently?", "pt": "Ótimo. Vamos definir alguns marcos. Daqui a um mês, o que você estará fazendo de diferente?"},
+          {"speaker": "Rodrigo", "en": "I'll be studying English every morning before work — and I'll have updated my LinkedIn profile!", "pt": "Estarei estudando inglês toda manhã antes do trabalho — e terei atualizado meu perfil no LinkedIn!"}
+        ]
+      },
+      "listening": {
+        "title": "The future of careers",
+        "context_pt": "Um futurista fala sobre como as carreiras devem mudar até 2035.",
+        "lines": [
+          {"speaker": "Futurist", "en": "Let me paint a picture of 2035. By then, many of the jobs we know today will have changed dramatically — and some will have disappeared altogether. Millions of people will be working in roles that don't exist yet. Most of us won't be doing the same job for forty years; instead, we'll be retraining several times throughout our careers. By the time today's teenagers retire, they'll probably have had five or six different careers, not just different jobs. AI tools will be handling many routine tasks, which means humans will be focusing more on creativity, empathy and complex problem-solving. The question isn't whether your job will change. It's whether you'll have learned how to keep learning."}
+        ],
+        "questions": [
+          {"q": "What will have happened to many current jobs by 2035?", "answer": "They will have changed dramatically, and some will have disappeared."},
+          {"q": "How will careers be different?", "answer": "People will retrain several times instead of doing the same job for forty years."},
+          {"q": "How many careers might today's teenagers have had by the time they retire?", "answer": "Five or six."},
+          {"q": "What will humans be focusing on?", "answer": "Creativity, empathy and complex problem-solving."}
+        ]
+      },
+      "reading": {
+        "title": "The 100-year life",
+        "text": "In their book The 100-Year Life, Lynda Gratton and Andrew Scott argue that as life expectancy increases, the traditional three-stage life — education, work, retirement — will no longer make sense for many people. If you're likely to live to 90 or 100, you probably won't be able to stop working at 60 and live on your savings for forty years. Instead, the authors predict a multi-stage life. People will be studying, working, taking breaks and retraining in different combinations throughout their lives. Someone might work in finance until 40, take a year off to travel, retrain as a teacher and then set up a small business at 60. By the time they finally retire, they will have had several careers, not one. This has big implications. Governments will need to rethink pensions and education. Companies will have to stop seeing older workers as a cost and start seeing them as an asset. And individuals will need to invest in what the authors call \"intangible assets\": skills, health, relationships and the ability to adapt. The good news? A longer life means more time to try new things. The challenge is that most of our institutions were designed for a much shorter one.",
+        "questions": [
+          {"q": "What is the traditional three-stage life?", "answer": "Education, work, retirement."},
+          {"q": "Why won't it make sense for many people?", "answer": "If they live to 90 or 100, they can't stop working at 60 and live on savings for forty years."},
+          {"q": "What is a multi-stage life?", "answer": "Studying, working, taking breaks and retraining in different combinations throughout life."},
+          {"q": "What are \"intangible assets\"?", "answer": "Skills, health, relationships and the ability to adapt."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Which future?", "instruction": "Choose the correct form.", "instruction_pt": "Escolha a forma correta.",
+         "items": [{"prompt": "Don't call me at 3. I ___ a presentation.", "options": ["'ll give", "'ll be giving", "'ll have given"], "answer": "'ll be giving"}, {"prompt": "By the end of the month, we ___ the project.", "options": ["'ll finish", "'ll be finishing", "'ll have finished"], "answer": "'ll have finished"}, {"prompt": "In May, she ___ here for twenty years.", "options": ["'ll work", "'ll have been working", "'ll be working"], "answer": "'ll have been working"}, {"prompt": "___ the car this weekend? I'd like to borrow it.", "options": ["Will you be using", "Will you have used", "Are you use"], "answer": "Will you be using"}, {"prompt": "By the time you ___, the movie will have started.", "options": ["arrive", "will arrive", "'ll have arrived"], "answer": "arrive"}]},
+        {"id": "ex2", "type": "fill_blank", "title": "My future timeline", "instruction": "Complete with the future continuous, future perfect or future perfect continuous.", "instruction_pt": "Complete com o tempo futuro adequado.",
+         "items": [{"prompt": "This time next week, I ___ (lie) on a beach in Bahia.", "answer": "'ll be lying"}, {"prompt": "By 2030, I ___ (pay) off my student loan.", "answer": "'ll have paid"}, {"prompt": "Next year, we ___ (live) in this city for a decade.", "answer": "'ll have been living"}, {"prompt": "By the time he retires, he ___ (not / take) a single sick day.", "answer": "won't have taken"}]},
+        {"id": "ex3", "type": "match", "title": "Career vocabulary", "instruction": "Write the English expression.", "instruction_pt": "Escreva a expressão em inglês.",
+         "items": [{"prompt": "subir na carreira", "answer": "climb the ladder"}, {"prompt": "requalificar-se", "answer": "retrain / reskill"}, {"prompt": "abrir um negócio", "answer": "set up a business"}, {"prompt": "estar no caminho certo", "answer": "be on track"}, {"prompt": "a esta hora no ano que vem", "answer": "this time next year"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "This time next year, I'll be living in Lisbon."}, {"prompt": "2", "answer": "By 2030, I'll have finished my master's."}, {"prompt": "3", "answer": "By June, I'll have been working here for five years."}, {"prompt": "4", "answer": "Will you be using the car tomorrow?"}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "By next year, I will finish my course.", "answer": "By next year, I will have finished my course."}, {"prompt": "Tomorrow at 8, I will have dinner with my boss. (em andamento)", "answer": "Tomorrow at 8, I'll be having dinner with my boss."}, {"prompt": "By the time she will retire, she'll have worked there for 30 years.", "answer": "By the time she retires, she'll have worked there for 30 years."}, {"prompt": "In June, I will be working here for five years. (duração até junho)", "answer": "In June, I'll have been working here for five years."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the plan", "instruction": "Complete with: by · this time · will have · will be · track.", "instruction_pt": "Complete o plano.",
+         "items": [{"prompt": "___ next year, I hope I'll be working in Canada.", "answer": "This time"}, {"prompt": "___ then, I ___ passed the IELTS exam.", "answer": "By / will have"}, {"prompt": "In my first months there, I ___ living with my cousin.", "answer": "will be"}, {"prompt": "So far, I'm on ___ to reach all my goals.", "answer": "track"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Future me\" interview: interview a partner about their life 1, 5 and 10 years from now. Ask about what they'll be doing and what they'll have achieved. Then report the most interesting plan to the class.",
+        "instruction_pt": "Entrevista \"eu do futuro\": entreviste um colega sobre a vida dele daqui a 1, 5 e 10 anos. Pergunte o que ele estará fazendo e o que terá conquistado. Depois conte à turma o plano mais interessante.",
+        "questions": ["What will you be doing this time next year?", "What will you have achieved by the time you're 40 (or 60)?", "How long will you have been studying English by the end of this course?", "Do you think you'll have changed careers by 2035?", "What will people be doing for work in 2050?"]
+      },
+      "writing": {
+        "task": "Write a personal development plan (200–250 words) for the next five years. Describe your goals, milestones and what you'll have achieved by specific dates. Use all three future forms from the lesson.",
+        "task_pt": "Escreva um plano de desenvolvimento pessoal (200–250 palavras) para os próximos cinco anos. Descreva metas, marcos e o que você terá conquistado em datas específicas. Use as três formas de futuro da aula.",
+        "model": "My five-year plan\n\nFive years from now, I hope I'll be working as a product manager at an international tech company, ideally in a hybrid role that allows me to spend part of the year in Brazil.\n\nTo get there, I've set myself several milestones. By the end of this year, I'll have completed this English course and taken the B2 First exam. Over the next twelve months, I'll be taking an online certificate in product management, which I'll be studying for every evening after work.\n\nBy the middle of 2027, I'll have been working in my current company for four years, and I'll have led at least two product launches. That experience should make my CV much stronger. I also plan to start applying for international positions at that point.\n\nOf course, plans change. If I don't get an international job by 2028, I won't see it as a failure. I'll have gained valuable skills anyway, and I'll be in a better position than I am today.\n\nOutside work, I want to look after my health. By the time I turn 35, I'd like to have run my first half marathon. In five years' time, I'll have been running regularly for almost a decade — which is a goal in itself!"
+      },
+      "culture_note": {
+        "title": "\"Where do you see yourself in five years?\"",
+        "text_pt": "Essa é uma das perguntas mais clássicas de entrevistas em inglês. Os recrutadores querem ver **ambição realista** e **alinhamento com a empresa**. Uma resposta com future continuous e future perfect soa madura: \"In five years, I'd like to be leading a team, and I'll have developed strong skills in...\""
+      },
+      "summary_pt": ["will be + -ing = estará fazendo (em andamento).", "will have + pp = terá feito (concluído até um ponto).", "will have been + -ing = duração até um ponto.", "Will you be + -ing? = pergunta educada sobre planos."]
+    },
+    {
+      "id": "B2-M2-L2",
+      "title": "It was going to be different",
+      "subtitle_pt": "Future in the past: was going to, would, was about to, was supposed to",
+      "duration_min": 70,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – B2 (future in the past)", "TopNotch 3B Teacher's Book – Unit 6 (life choices, regrets)"],
+      "objectives": ["Falar de planos passados que não se realizaram (was going to)", "Usar would para o futuro visto do passado (I knew it would...)", "Usar was about to / was on the point of para ações iminentes no passado", "Contar como planos e expectativas mudaram"],
+      "warmup": {
+        "text_pt": "\"Eu ia estudar medicina, mas mudei de ideia.\" \"Eu sabia que ia dar certo.\" \"Eu estava prestes a desistir quando...\" Hoje você vai aprender a falar do **futuro visto do passado** — perfeito para contar histórias de mudanças de planos.",
+        "questions": ["What were you going to be when you grew up?", "Have you ever been about to give up on something, but didn't?"]
+      },
+      "vocabulary": [
+        {"en": "to change one's mind", "pt": "mudar de ideia", "say": "tu tchêindj uânz máind"},
+        {"en": "to call off", "pt": "cancelar", "say": "tu kól óf"},
+        {"en": "to put off / to postpone", "pt": "adiar", "say": "tu put óf / tu postpôun"},
+        {"en": "to fall through", "pt": "não dar certo, fracassar (plano)", "say": "tu fól θrú"},
+        {"en": "to come up", "pt": "surgir (imprevisto)", "say": "tu kâm âp"},
+        {"en": "to have second thoughts", "pt": "ficar em dúvida, repensar", "say": "tu rév sékond θóts"},
+        {"en": "to back out (of)", "pt": "desistir (de um acordo/compromisso)", "say": "tu bék áut"},
+        {"en": "to turn out (that)", "pt": "acabar sendo, revelar-se", "say": "tu târn áut"},
+        {"en": "a change of plan", "pt": "uma mudança de planos", "say": "a tchêindj ov plén"},
+        {"en": "a blessing in disguise", "pt": "há males que vêm para o bem", "say": "a blésin in disgáiz"},
+        {"en": "to be on the point of", "pt": "estar prestes a", "say": "tu bí on dâ póint ov"},
+        {"en": "unexpectedly", "pt": "inesperadamente", "say": "anekspéktidli"}
+      ],
+      "chunks": [
+        {"en": "I was going to study law, but I changed my mind.", "pt": "Eu ia estudar direito, mas mudei de ideia."},
+        {"en": "I knew it would be hard, but not this hard.", "pt": "Eu sabia que seria difícil, mas não tanto."},
+        {"en": "I was about to leave when you called.", "pt": "Eu estava prestes a sair quando você ligou."},
+        {"en": "We were supposed to meet at 8.", "pt": "A gente ia se encontrar às 8. (era o combinado)"},
+        {"en": "The deal fell through at the last minute.", "pt": "O negócio não deu certo no último minuto."},
+        {"en": "It turned out to be a blessing in disguise.", "pt": "Acabou sendo um mal que veio para o bem."}
+      ],
+      "grammar": {
+        "title": "Future in the past",
+        "explanation_pt": "Quando contamos uma história no passado, às vezes precisamos falar do que era **futuro naquele momento**. O inglês usa as formas de futuro \"no passado\":\n\n**1. was/were going to + verbo** → plano ou intenção passada (geralmente **não** aconteceu):\n- \"I **was going to** call you, but I forgot.\" (eu ia te ligar)\n- \"We **were going to** move to Portugal, but then the pandemic happened.\"\n\n**2. would + verbo** → previsão ou expectativa vista do passado (o \"will\" do passado):\n- \"I **knew** you **would** understand.\" (eu sabia que você entenderia)\n- \"She **promised** she **would** help.\" / \"Nobody **thought** the company **would** survive.\"\n- Também para narrar o destino: \"He moved to London in 1990. He **would** never return to Brazil.\" (nunca mais voltaria)\n\n**3. was/were about to + verbo** → algo **iminente** no passado (estava prestes a):\n- \"I **was about to** give up when I got the job offer.\"\n- Mais formal: **was on the point of** + -ing: \"She **was on the point of** resigning.\"\n\n**4. was/were supposed to + verbo** → o que estava **combinado/esperado** (e geralmente não aconteceu):\n- \"The package **was supposed to** arrive yesterday.\"\n\n**5. was/were + -ing** (present continuous no passado) → compromisso marcado no passado: \"I couldn't meet him because I **was flying** to Recife the next day.\"\n\n**6. was/were to + verbo** (formal/narrativo) → algo destinado a acontecer: \"It was 2005. She **was to become** one of Brazil's greatest athletes.\"",
+        "table": {
+          "headers": ["Estrutura", "Sentido", "Exemplo"],
+          "rows": [["was going to", "plano passado (não cumprido)", "I was going to quit, but I stayed."], ["would", "previsão vista do passado", "I knew it would rain."], ["was about to", "iminente no passado", "I was about to call you!"], ["was supposed to", "combinado/esperado", "The train was supposed to leave at 8."], ["was + -ing", "compromisso marcado (passado)", "I was meeting Ana that evening."], ["was to + verbo", "destino (narrativo)", "He was to become president."]]
+        },
+        "examples": [
+          {"en": "I was going to accept the job in São Paulo, but at the last minute I had second thoughts.", "pt": "Eu ia aceitar o emprego em São Paulo, mas no último minuto fiquei em dúvida."},
+          {"en": "When I started my business, I never imagined it would grow so fast.", "pt": "Quando comecei meu negócio, nunca imaginei que cresceria tão rápido."},
+          {"en": "We were just about to sign the contract when the investor backed out.", "pt": "Estávamos prestes a assinar o contrato quando o investidor desistiu."}
+        ],
+        "tip_pt": "\"Eu **ia** fazer\" em português tem duas traduções: **was going to** (plano) ou **would** (expectativa/rotina passada — lembre do B2-M1!). \"Eu ia à praia todo domingo\" = **I would go / used to go** (hábito) — não \"was going to\"!"
+      },
+      "common_mistakes": [
+        {"wrong": "I knew you will like it.", "right": "I knew you would like it.", "why_pt": "Futuro visto do passado: will → would."},
+        {"wrong": "I was going to the beach every Sunday as a child. (hábito)", "right": "I used to go / I would go to the beach every Sunday.", "why_pt": "Hábito passado = used to / would, não was going to."},
+        {"wrong": "I was about to leaving.", "right": "I was about to leave.", "why_pt": "Be about to + verbo base."}
+      ],
+      "pronunciation": {
+        "focus": "Was gonna",
+        "tip_pt": "**Was going to** vira \"**uâz gâna**\" na fala informal: \"I was gonna call you!\". **Were going to** = \"uâr gâna\". **Was about to** = \"uâzabáuta\". **Was supposed to** = \"uâz sapôusta\".",
+        "practice": ["I was gonna call you, but I forgot.", "I was about to leave.", "We were supposed to meet at eight."]
+      },
+      "dialogue": {
+        "title": "How I ended up here",
+        "context_pt": "Num encontro de ex-alunos, duas pessoas contam como suas vidas mudaram de rumo.",
+        "lines": [
+          {"speaker": "Leo", "en": "Bel! You're a chef now? I thought you were going to be a lawyer!", "pt": "Bel! Você é chef agora? Achei que você ia ser advogada!"},
+          {"speaker": "Bel", "en": "So did I! I was going to do a master's in law. I'd even been accepted. But then, two weeks before it started, I had second thoughts.", "pt": "Eu também! Eu ia fazer mestrado em direito. Já tinha até sido aceita. Mas aí, duas semanas antes de começar, fiquei em dúvida."},
+          {"speaker": "Leo", "en": "What happened?", "pt": "O que aconteceu?"},
+          {"speaker": "Bel", "en": "I'd been cooking for friends every weekend, and I realized I was happier in the kitchen than in the library. My parents thought I would regret it forever.", "pt": "Eu cozinhava para os amigos todo fim de semana e percebi que era mais feliz na cozinha do que na biblioteca. Meus pais acharam que eu ia me arrepender para sempre."},
+          {"speaker": "Leo", "en": "And did you?", "pt": "E se arrependeu?"},
+          {"speaker": "Bel", "en": "Honestly, there was one moment — my first restaurant job was so hard that I was about to give up. But I didn't, and three years later I opened my own place.", "pt": "Sinceramente, teve um momento — meu primeiro emprego em restaurante foi tão difícil que eu estava prestes a desistir. Mas não desisti, e três anos depois abri meu próprio restaurante."},
+          {"speaker": "Leo", "en": "Amazing. My story's the opposite. I was supposed to take over my dad's shop, but the deal fell through, so I went into tech.", "pt": "Incrível. Minha história é o contrário. Eu ia assumir a loja do meu pai, mas o negócio não deu certo, então fui para tecnologia."},
+          {"speaker": "Bel", "en": "Sounds like it turned out to be a blessing in disguise for both of us!", "pt": "Parece que no fim foi um mal que veio para o bem para nós dois!"}
+        ]
+      },
+      "listening": {
+        "title": "The interview that almost didn't happen",
+        "context_pt": "Uma profissional conta num podcast como quase perdeu a entrevista do emprego dos sonhos.",
+        "lines": [
+          {"speaker": "Guest", "en": "The interview was supposed to start at 10 a.m. in São Paulo, and I was flying in from Curitiba that morning. Everything was going to be fine — I had planned it perfectly. Then the flight was delayed by three hours. I was about to call the company to cancel when I had an idea: I asked if we could do the interview by video from the airport. I honestly thought they would say no. But they agreed! So there I was, in a quiet corner of the departure lounge, with my laptop on my suitcase. I didn't know it then, but that interview would change my life. Two weeks later, I got the job — and my future boss told me that my calm reaction to the chaos was exactly what they were looking for."}
+        ],
+        "questions": [
+          {"q": "What time was the interview supposed to start?", "answer": "At 10 a.m."},
+          {"q": "What was she about to do when she had an idea?", "answer": "Call the company to cancel."},
+          {"q": "What did she think the company would say?", "answer": "No."},
+          {"q": "Why did her future boss like her?", "answer": "Because of her calm reaction to the chaos."}
+        ]
+      },
+      "reading": {
+        "title": "The plans that failed — and the success that followed",
+        "text": "Many famous success stories begin with a plan that went wrong. In the early 2000s, a small company called Odeo was going to become a major podcasting platform. Then Apple added podcasts to iTunes, and the founders realized their product would never compete. Instead of giving up, they held a brainstorming session, and one employee suggested a simple service for sharing short status updates. That idea became Twitter. Similarly, the founders of Slack were originally building an online game called Glitch. The game failed, but the internal chat tool the team had built to communicate turned out to be far more valuable than the game itself. Nobody at the time thought it would become one of the most widely used workplace tools in the world. Psychologists say that people who handle these moments well tend to share two qualities: they're flexible enough to change direction, and they see failure as information rather than as a final verdict. In other words, the plan you were going to follow might not be the plan you were supposed to follow. Sometimes, the most important skill is knowing when to let go.",
+        "questions": [
+          {"q": "What was Odeo going to become?", "answer": "A major podcasting platform."},
+          {"q": "Why did its founders change direction?", "answer": "Apple added podcasts to iTunes, so they realized they couldn't compete."},
+          {"q": "What were Slack's founders originally building?", "answer": "An online game called Glitch."},
+          {"q": "What two qualities do people who handle failure well tend to share?", "answer": "Flexibility to change direction and seeing failure as information, not a final verdict."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Future in the past", "instruction": "Choose the best option.", "instruction_pt": "Escolha a melhor opção.",
+         "items": [{"prompt": "I ___ call you last night, but I fell asleep.", "options": ["was going to", "would", "was about"], "answer": "was going to"}, {"prompt": "I knew the project ___ be difficult.", "options": ["will", "would", "was going"], "answer": "would"}, {"prompt": "I was ___ to leave when the phone rang.", "options": ["about", "going", "supposed"], "answer": "about"}, {"prompt": "The package was ___ to arrive on Monday, but it didn't.", "options": ["about", "supposed", "going"], "answer": "supposed"}, {"prompt": "She didn't know it then, but she ___ become a famous writer.", "options": ["would", "was going", "is going to"], "answer": "would"}]},
+        {"id": "ex2", "type": "fill_blank", "title": "Plans that changed", "instruction": "Complete with the correct form of the verbs in parentheses.", "instruction_pt": "Complete com a forma correta dos verbos.",
+         "items": [{"prompt": "We ___ (go) to Chile, but the trip fell through.", "answer": "were going to go"}, {"prompt": "He promised he ___ (be) on time, but he was late again.", "answer": "would be"}, {"prompt": "I ___ (about / sign) the contract when I noticed a mistake.", "answer": "was about to sign"}, {"prompt": "The meeting ___ (suppose / start) at 9, but it started at 10.", "answer": "was supposed to start"}]},
+        {"id": "ex3", "type": "match", "title": "Phrasal verbs for changing plans", "instruction": "Write the phrasal verb.", "instruction_pt": "Escreva o phrasal verb.",
+         "items": [{"prompt": "cancelar", "answer": "call off"}, {"prompt": "adiar", "answer": "put off"}, {"prompt": "não dar certo (plano)", "answer": "fall through"}, {"prompt": "desistir de um acordo", "answer": "back out"}, {"prompt": "surgir (imprevisto)", "answer": "come up"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "I was going to study law, but I changed my mind."}, {"prompt": "2", "answer": "I knew it would be hard."}, {"prompt": "3", "answer": "I was about to leave when you called."}, {"prompt": "4", "answer": "It turned out to be a blessing in disguise."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "I thought it will be easy.", "answer": "I thought it would be easy."}, {"prompt": "She was about to crying.", "answer": "She was about to cry."}, {"prompt": "As a kid, I was going to the park every day.", "answer": "As a kid, I used to go / would go to the park every day."}, {"prompt": "The deal fell down at the last minute.", "answer": "The deal fell through at the last minute."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the story", "instruction": "Complete with: going · would · about · turned · second.", "instruction_pt": "Complete a história.",
+         "items": [{"prompt": "In 2019, I was ___ to move to Australia.", "answer": "going"}, {"prompt": "I had my visa, but a month before, I started having ___ thoughts.", "answer": "second"}, {"prompt": "I was ___ to cancel everything when my grandmother encouraged me to go.", "answer": "about"}, {"prompt": "I never imagined that trip ___ change my life, but it ___ out to be the best decision I've ever made.", "answer": "would / turned"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Plans vs. reality\": tell the story of a plan in your life that changed. Include what you were going to do, what you thought would happen, a moment you were about to give up and how it turned out.",
+        "instruction_pt": "\"Planos x realidade\": conte a história de um plano da sua vida que mudou. Inclua o que você ia fazer, o que achava que aconteceria, um momento em que esteve prestes a desistir e como acabou.",
+        "questions": ["What were you going to be when you grew up?", "Have you ever backed out of something at the last minute?", "Tell me about a time something that seemed bad turned out to be a blessing in disguise.", "Did you know English would be important for your career?", "What was supposed to happen this year that didn't?"]
+      },
+      "writing": {
+        "task": "Write a blog post (200–250 words) titled \"The plan that changed my life\". Use at least 5 future-in-the-past structures and the phrasal verbs for changing plans.",
+        "task_pt": "Escreva um post de blog (200–250 palavras) chamado \"O plano que mudou minha vida\". Use pelo menos 5 estruturas de future in the past e os phrasal verbs de mudança de planos.",
+        "model": "The plan that changed my life\n\nIn 2020, I had everything planned. I was going to finish my engineering degree, get a job at a big construction company and buy an apartment by the time I was 30. My parents were proud, and I was sure it would all work out perfectly.\n\nThen the pandemic came. The internship I was supposed to start in April was called off, and the company I had dreamed of working for stopped hiring. For months, I stayed at home, applying for jobs that never replied. At one point, I was on the point of giving up on engineering altogether.\n\nTo keep myself busy, I started making short videos explaining maths problems for my younger cousin. I posted a few online, never imagining that anyone would watch them. Within six months, my channel had 50,000 subscribers. Students from all over Brazil were writing to thank me.\n\nI didn't know it then, but those videos would become my career. Today, I run an online education company with a team of twelve people. I still use my engineering skills every day — just not in the way I was going to.\n\nLooking back, the cancelled internship turned out to be a blessing in disguise. If you're facing a plan that's fallen through, my advice is simple: stay curious. The plan you were going to follow might not be the best one for you."
+      },
+      "culture_note": {
+        "title": "Pivot",
+        "text_pt": "No mundo das startups, mudar radicalmente de rumo se chama **pivot** (pivotar): \"The company **pivoted** from gaming to workplace software.\" A palavra virou moda e hoje é usada também para mudanças de carreira: \"She **pivoted** from law to cooking.\""
+      },
+      "summary_pt": ["was going to = ia fazer (plano, geralmente não cumprido).", "would = futuro visto do passado (I knew it would...).", "was about to = estava prestes a.", "was supposed to = era para (combinado que não aconteceu)."]
+    },
+    {
+      "id": "B2-M2-L3",
+      "title": "Let's make a deal",
+      "subtitle_pt": "Negociação: condições, concessões e linguagem diplomática",
+      "duration_min": 75,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – B2 (negotiating, conditionals with provided that, as long as)", "TopNotch 3B Teacher's Book – Unit 8 (making deals, persuasion)"],
+      "objectives": ["Fazer propostas e contrapropostas", "Usar condicionais de negociação: provided (that), as long as, on condition that, unless", "Fazer concessões e pedir algo em troca", "Recusar com diplomacia e fechar um acordo"],
+      "warmup": {
+        "text_pt": "Você negocia mais do que imagina: salário, aluguel, prazos, preço com um fornecedor, até quem lava a louça em casa. Hoje você vai aprender a negociar em inglês de forma firme, mas educada — buscando um **win-win**.",
+        "questions": ["Are you good at negotiating? Give an example.", "Have you ever negotiated your salary?"]
+      },
+      "vocabulary": [
+        {"en": "to negotiate / a negotiation", "pt": "negociar / uma negociação", "say": "tu negôushieit"},
+        {"en": "an offer / a counteroffer", "pt": "uma oferta / uma contraproposta", "say": "an ófer / a káunterófer"},
+        {"en": "to compromise / a compromise", "pt": "ceder / um meio-termo", "say": "tu kómpromaiz"},
+        {"en": "a concession", "pt": "uma concessão", "say": "a konséshon"},
+        {"en": "a deal-breaker", "pt": "um ponto inegociável", "say": "a díl brêiker"},
+        {"en": "the bottom line", "pt": "o limite mínimo; o essencial", "say": "dâ bótom láin"},
+        {"en": "a win-win situation", "pt": "uma situação em que todos ganham", "say": "a uín uín sitchuêishon"},
+        {"en": "leverage", "pt": "poder de barganha", "say": "lévridj"},
+        {"en": "terms and conditions", "pt": "termos e condições", "say": "târmz end kondíshonz"},
+        {"en": "to meet (someone) halfway", "pt": "ceder metade do caminho, chegar a um meio-termo", "say": "tu mít réfuêi"},
+        {"en": "to strike a deal", "pt": "fechar um acordo", "say": "tu stráik a díl"},
+        {"en": "non-negotiable", "pt": "inegociável", "say": "non negôushiabol"}
+      ],
+      "chunks": [
+        {"en": "We'd be willing to... provided that...", "pt": "Estaríamos dispostos a... desde que..."},
+        {"en": "What if we offered...?", "pt": "E se oferecêssemos...?"},
+        {"en": "That's a bit higher than we'd expected.", "pt": "Está um pouco acima do que esperávamos."},
+        {"en": "Could you meet us halfway?", "pt": "Vocês poderiam chegar a um meio-termo?"},
+        {"en": "I'm afraid that's a deal-breaker for us.", "pt": "Infelizmente, isso é inegociável para nós."},
+        {"en": "I think we've got a deal.", "pt": "Acho que temos um acordo."}
+      ],
+      "grammar": {
+        "title": "Conditionals and language for negotiating",
+        "explanation_pt": "**1. Condições** (alternativas mais precisas ao if):\n- **provided (that) / providing (that)** = desde que (formal) → \"We can deliver by Friday, **provided that** you confirm the order today.\"\n- **as long as / so long as** = contanto que → \"You can work from home **as long as** you attend the Monday meeting.\"\n- **on condition that** = sob a condição de que (muito formal)\n- **unless** = a menos que → \"We can't lower the price **unless** you order more units.\"\n⚠️ Depois dessas expressões, use **presente simples** para o futuro (como com if).\n\n**2. Propostas hipotéticas — second conditional** (soa mais flexível e menos ameaçador que o first):\n- \"**If we ordered** 500 units, **would** you **give** us a 10% discount?\"\n- \"**What if we offered** a two-year contract?\"\n- \"**Suppose** we paid upfront — **could** you deliver earlier?\"\n\n**3. Linguagem diplomática** (would, could, might, a bit, slightly, I'm afraid):\n- \"**We'd** like to propose...\" / \"**We'd be willing to**...\"\n- \"That's **slightly higher than** our budget.\" (em vez de \"too expensive\")\n- \"**I'm afraid** we **wouldn't be able to** accept that.\"\n- Perguntas negativas como sugestão: \"**Wouldn't it make sense to**...?\"\n\n**4. Concessão em troca (if... then):**\n\"**If you could** extend the deadline, **we could** reduce the price by 5%.\" — nunca dê algo sem pedir algo em troca!",
+        "table": {
+          "headers": ["Função", "Frases"],
+          "rows": [["Propor", "We'd like to propose... / What if we...?"], ["Condição", "provided that / as long as / unless"], ["Hipótese flexível", "If we ordered more, would you...?"], ["Recusar com educação", "I'm afraid that's slightly beyond our budget."], ["Concessão + troca", "We could..., if you could..."], ["Meio-termo", "Could we meet halfway? / How about splitting the difference?"], ["Fechar", "I think we've got a deal. / Let's put that in writing."]]
+        },
+        "examples": [
+          {"en": "We'd be happy to extend the contract, provided that the price stays the same for two years.", "pt": "Ficaríamos felizes em estender o contrato, desde que o preço se mantenha por dois anos."},
+          {"en": "If we paid the full amount upfront, would you be able to offer a better rate?", "pt": "Se pagássemos o valor total adiantado, vocês conseguiriam oferecer um preço melhor?"},
+          {"en": "I'm afraid we can't go below R$8,000 unless you sign for at least a year.", "pt": "Infelizmente não conseguimos baixar de R$8.000, a menos que vocês assinem por pelo menos um ano."}
+        ],
+        "tip_pt": "Na cultura de negócios anglo-saxã, um \"**not**\" seco soa agressivo. Prefira: \"**I'm afraid that might be difficult**\" ou \"**That would be a challenge for us**\" — o outro lado vai entender que é um não."
+      },
+      "common_mistakes": [
+        {"wrong": "Provided that you will pay today, we'll deliver tomorrow.", "right": "Provided that you pay today, we'll deliver tomorrow.", "why_pt": "Depois de provided that / as long as, presente simples."},
+        {"wrong": "This is too expensive.", "right": "This is slightly higher than our budget.", "why_pt": "Em negociação, suavize: slightly / a bit + comparativo."},
+        {"wrong": "We give you 10% if you buy more.", "right": "We could give you 10% if you ordered more.", "why_pt": "Modais e second conditional tornam a proposta mais flexível e educada."}
+      ],
+      "pronunciation": {
+        "focus": "Tom firme e educado",
+        "tip_pt": "Em negociação, fale **devagar** e com **pausas** após números e condições: \"We could offer... (pausa) ...eight thousand... (pausa) ...provided that...\". A pausa transmite segurança. Evite subir a voz no final de propostas — soa inseguro.",
+        "practice": ["We'd be willing to offer eight thousand ↘.", "Provided that you sign today ↘.", "I'm afraid that's a deal-breaker for us ↘."]
+      },
+      "dialogue": {
+        "title": "Negotiating with a supplier",
+        "context_pt": "Uma gerente de compras negocia com um fornecedor de embalagens sustentáveis.",
+        "lines": [
+          {"speaker": "Paula", "en": "Thanks for the proposal, Tom. I have to say, R$4.50 per unit is a bit higher than we'd expected.", "pt": "Obrigada pela proposta, Tom. Devo dizer que R$4,50 por unidade está um pouco acima do que esperávamos."},
+          {"speaker": "Tom", "en": "I understand. Our packaging is 100% compostable, which does increase costs. What price did you have in mind?", "pt": "Entendo. Nossa embalagem é 100% compostável, o que aumenta os custos. Que preço você tinha em mente?"},
+          {"speaker": "Paula", "en": "Something closer to R$3.80. If we ordered 50,000 units instead of 20,000, could you get closer to that?", "pt": "Algo mais perto de R$3,80. Se pedíssemos 50 mil unidades em vez de 20 mil, vocês conseguiriam chegar mais perto disso?"},
+          {"speaker": "Tom", "en": "For 50,000, we could go down to R$4.10, provided that you commit to a one-year contract.", "pt": "Para 50 mil, poderíamos baixar para R$4,10, desde que vocês se comprometam com um contrato de um ano."},
+          {"speaker": "Paula", "en": "A one-year contract is fine. But R$4.10 is still slightly above our budget. Could you meet us halfway — say, R$3.95?", "pt": "Um contrato de um ano está ok. Mas R$4,10 ainda está um pouco acima do nosso orçamento. Vocês poderiam chegar a um meio-termo — digamos, R$3,95?"},
+          {"speaker": "Tom", "en": "Hmm. I could accept R$3.95 as long as you pay within 15 days instead of 60.", "pt": "Hmm. Eu poderia aceitar R$3,95 contanto que vocês paguem em 15 dias em vez de 60."},
+          {"speaker": "Paula", "en": "15 days might be difficult. What if we split it — 30 days?", "pt": "15 dias pode ser difícil. E se dividíssemos a diferença — 30 dias?"},
+          {"speaker": "Tom", "en": "30 days, R$3.95, one year, 50,000 units. I think we've got a deal. I'll send you the contract this afternoon.", "pt": "30 dias, R$3,95, um ano, 50 mil unidades. Acho que temos um acordo. Te mando o contrato hoje à tarde."}
+        ]
+      },
+      "listening": {
+        "title": "Salary negotiation tips",
+        "context_pt": "Uma recrutadora dá dicas de como negociar salário numa oferta de emprego.",
+        "lines": [
+          {"speaker": "Recruiter", "en": "Many people accept the first offer because they're afraid the company will withdraw it. In reality, most employers expect some negotiation, as long as you're polite and realistic. Here's my advice. First, research the market so you know your value. Second, never give the first number if you can avoid it — ask what the budget for the role is. Third, if the salary is lower than you hoped, try negotiating other things: extra vacation days, a training budget, remote work. You might say: \"I'm very excited about the role. I was hoping for something closer to X. If the salary isn't flexible, would it be possible to discuss other parts of the package?\" And finally, once you've reached an agreement, ask for everything in writing."}
+        ],
+        "questions": [
+          {"q": "Why do many people accept the first offer?", "answer": "They're afraid the company will withdraw it."},
+          {"q": "What should you avoid doing, if possible?", "answer": "Giving the first number."},
+          {"q": "What else can you negotiate besides salary?", "answer": "Extra vacation days, a training budget, remote work."},
+          {"q": "What should you do once you've reached an agreement?", "answer": "Ask for everything in writing."}
+        ]
+      },
+      "video": {
+        "title": "The puzzle of motivation",
+        "speaker": "Dan Pink",
+        "url": "https://www.ted.com/search?q=the+puzzle+of+motivation",
+        "task_pt": "Assista à palestra (cerca de 18 minutos). Ela discute o que realmente motiva as pessoas no trabalho — informação útil numa negociação salarial! Responda:",
+        "questions": ["What does the speaker say about rewards like bonuses for creative tasks?", "What are the three elements of motivation he describes?", "If you were negotiating a job offer, what would you ask for besides salary? Why?", "Does his argument match your own experience at work or school?"]
+      },
+      "reading": {
+        "title": "Getting to Yes",
+        "text": "In 1981, Roger Fisher and William Ury of the Harvard Negotiation Project published Getting to Yes, a book that changed how many people think about negotiation. Instead of seeing negotiation as a battle where one side wins and the other loses, they proposed a method called \"principled negotiation\". It has four main ideas. First, separate the people from the problem: you can be tough on the issue while being respectful to the person. Second, focus on interests, not positions. A position is what someone says they want (\"I want a 20% raise\"); an interest is why they want it (\"I need to pay for my children's school\"). When you understand interests, creative solutions often appear — perhaps a smaller raise plus an education allowance. Third, invent options for mutual gain before deciding. Finally, insist on objective criteria, such as market prices or expert standards, rather than pure willpower. The authors also introduced the concept of BATNA — your Best Alternative To a Negotiated Agreement. If you know what you'll do if the deal fails, you'll be much less likely to accept a bad one. Decades later, these ideas remain central to negotiation training around the world.",
+        "questions": [
+          {"q": "How did Getting to Yes change the view of negotiation?", "answer": "It replaced the idea of a battle with one winner with \"principled negotiation\"."},
+          {"q": "What's the difference between a position and an interest?", "answer": "A position is what someone says they want; an interest is why they want it."},
+          {"q": "What are \"objective criteria\"?", "answer": "Standards like market prices or expert opinions, rather than willpower."},
+          {"q": "What is a BATNA and why does it matter?", "answer": "Your Best Alternative To a Negotiated Agreement; knowing it helps you avoid accepting a bad deal."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Conditions", "instruction": "Choose the best option.", "instruction_pt": "Escolha a melhor opção.",
+         "items": [{"prompt": "You can borrow my car ___ you return it by 6.", "options": ["as long as", "unless", "in case"], "answer": "as long as"}, {"prompt": "We won't sign ___ you include a warranty.", "options": ["unless", "provided", "as long"], "answer": "unless"}, {"prompt": "We'll deliver on Monday, provided that you ___ the order today.", "options": ["confirm", "will confirm", "confirmed"], "answer": "confirm"}, {"prompt": "If we ___ for two years, would you lower the price?", "options": ["signed", "sign", "will sign"], "answer": "signed"}]},
+        {"id": "ex2", "type": "answer", "title": "Make it diplomatic", "instruction": "Rewrite each sentence to make it more diplomatic.", "instruction_pt": "Reescreva cada frase de forma mais diplomática.",
+         "items": [{"prompt": "That's too expensive.", "answer": "That's slightly higher than our budget. / That's a bit more than we'd expected."}, {"prompt": "No, we can't do that.", "answer": "I'm afraid that would be difficult for us."}, {"prompt": "Give us a discount.", "answer": "Would you be able to offer us a discount? / What if you offered us a discount?"}, {"prompt": "We want delivery in one week.", "answer": "We'd like delivery within one week, if possible."}]},
+        {"id": "ex3", "type": "match", "title": "Negotiation vocabulary", "instruction": "Write the English expression.", "instruction_pt": "Escreva a expressão em inglês.",
+         "items": [{"prompt": "contraproposta", "answer": "counteroffer"}, {"prompt": "ponto inegociável", "answer": "deal-breaker"}, {"prompt": "chegar a um meio-termo", "answer": "meet halfway / compromise"}, {"prompt": "fechar um acordo", "answer": "strike a deal"}, {"prompt": "situação em que todos ganham", "answer": "win-win situation"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "That's a bit higher than we'd expected."}, {"prompt": "2", "answer": "Could you meet us halfway?"}, {"prompt": "3", "answer": "We'd be willing to sign, provided that the price stays the same."}, {"prompt": "4", "answer": "I think we've got a deal."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "As long as you will pay on time, we'll keep the price.", "answer": "As long as you pay on time, we'll keep the price."}, {"prompt": "Unless you don't sign today, the offer expires.", "answer": "Unless you sign today, the offer expires."}, {"prompt": "We'd be willing to giving you a discount.", "answer": "We'd be willing to give you a discount."}, {"prompt": "If we would order more, would you lower the price?", "answer": "If we ordered more, would you lower the price?"}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the negotiation", "instruction": "Complete with: provided · halfway · afraid · deal · what if.", "instruction_pt": "Complete a negociação.",
+         "items": [{"prompt": "A: I'm ___ R$12,000 is above our budget.", "answer": "afraid"}, {"prompt": "B: ___ we included free installation?", "answer": "What if"}, {"prompt": "A: That helps. Could you meet us ___ on the price — R$11,000?", "answer": "halfway"}, {"prompt": "B: OK, ___ that you sign this week. — A: Great, it's a ___!", "answer": "provided / deal"}]}
+      ],
+      "speaking": {
+        "instruction": "Negotiation role-play (choose one): 1) a freelancer and a client negotiate price and deadline; 2) a tenant and a landlord negotiate rent; 3) an employee and a manager negotiate a job offer. Use at least 3 conditions, 2 hypothetical proposals and reach a win-win deal.",
+        "instruction_pt": "Role-play de negociação (escolha um): 1) freelancer e cliente negociam preço e prazo; 2) inquilino e proprietário negociam aluguel; 3) funcionário e gestor negociam uma proposta de emprego. Use pelo menos 3 condições, 2 propostas hipotéticas e cheguem a um acordo win-win.",
+        "questions": ["What was the last thing you negotiated?", "Do Brazilians tend to negotiate more or less than people in other cultures?", "What's your BATNA in your current job?", "Is it rude to negotiate a job offer in your country?", "What's a deal-breaker for you in a job?"]
+      },
+      "writing": {
+        "task": "Write an email (180–220 words) responding to a job offer. Thank the company, show enthusiasm and negotiate one or two points (salary, start date, remote work) diplomatically, using conditional language.",
+        "task_pt": "Escreva um e-mail (180–220 palavras) respondendo a uma proposta de emprego. Agradeça, demonstre entusiasmo e negocie um ou dois pontos (salário, data de início, home office) com diplomacia, usando linguagem condicional.",
+        "model": "Subject: Re: Job offer – Senior Data Analyst\n\nDear Ms. Ferreira,\n\nThank you very much for offering me the position of Senior Data Analyst. I'm genuinely excited about the opportunity to join your team, especially the international expansion project we discussed.\n\nBefore accepting, I'd like to discuss two points. First, regarding the salary, the proposed figure is slightly lower than I had expected, based on my research for similar roles in the market and my eight years of experience. I was hoping for something closer to R$15,000. If that isn't possible, would you be willing to consider a review after six months, provided that I meet the agreed performance targets?\n\nSecond, I'm currently required to give 30 days' notice to my employer. Would it be possible to set my start date for March 3rd instead of February 15th? This would allow me to complete my current projects properly.\n\nI'm confident that we can find an arrangement that works for both of us, and I look forward to your reply.\n\nKind regards,\nIgor Santos"
+      },
+      "culture_note": {
+        "title": "Negociar em culturas diferentes",
+        "text_pt": "Estilos variam muito: americanos tendem a ir direto aos números; japoneses e chineses valorizam construir relacionamento antes de negociar; alemães esperam dados detalhados; brasileiros costumam valorizar confiança pessoal e flexibilidade. Antes de uma negociação internacional, pesquise a cultura do outro lado — o livro **The Culture Map** (Erin Meyer) é uma boa referência."
+      },
+      "summary_pt": ["provided that / as long as / unless + presente simples.", "Propostas flexíveis: If we ordered..., would you...? / What if we...?", "Recusa diplomática: I'm afraid that would be difficult.", "Nunca ceda sem pedir algo em troca: We could..., if you could..."]
+    },
+    {
+      "id": "B2-M2-L4",
+      "title": "Running a meeting",
+      "subtitle_pt": "Reuniões: abrir, conduzir, interromper, discordar, resumir e definir ações",
+      "duration_min": 70,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – B2 (managing interaction: turn-taking, interrupting, summarizing)", "TopNotch 3B Teacher's Book – Unit 10 (discussion skills)"],
+      "objectives": ["Abrir e conduzir uma reunião com agenda", "Interromper e retomar a palavra com educação", "Manter a discussão no rumo e gerenciar o tempo", "Resumir decisões e definir próximos passos (action points)"],
+      "warmup": {
+        "text_pt": "Reuniões em inglês são onde muitos profissionais brasileiros ficam em silêncio — não por falta de ideias, mas por não saber **como entrar na conversa**. Hoje você vai aprender as frases exatas para participar e até liderar reuniões.",
+        "questions": ["Do you speak up in meetings? Why or why not?", "What makes a meeting productive (or a waste of time)?"]
+      },
+      "vocabulary": [
+        {"en": "an agenda / an item on the agenda", "pt": "uma pauta / um item da pauta", "say": "an adjénda"},
+        {"en": "to chair / to run (a meeting)", "pt": "conduzir (uma reunião)", "say": "tu tchér / tu rân"},
+        {"en": "the minutes", "pt": "a ata", "say": "dâ mínits"},
+        {"en": "action points / action items", "pt": "ações a serem feitas, encaminhamentos", "say": "ékshon póints"},
+        {"en": "to be on the same page", "pt": "estar alinhado", "say": "tu bí on dâ sêim pêidj"},
+        {"en": "to go off topic / to digress", "pt": "sair do assunto", "say": "tu gôu óf tópik"},
+        {"en": "to wrap up", "pt": "encerrar", "say": "tu rép âp"},
+        {"en": "to follow up (on)", "pt": "dar seguimento (a)", "say": "tu fálou âp"},
+        {"en": "a stakeholder", "pt": "uma parte interessada", "say": "a stêikrôulder"},
+        {"en": "to take (something) offline", "pt": "discutir à parte, depois", "say": "tu têik óflain"},
+        {"en": "to table / to park (an issue)", "pt": "deixar (um assunto) para depois", "say": "tu têibol / tu párk"},
+        {"en": "AOB (any other business)", "pt": "assuntos gerais", "say": "êi ôu bí"}
+      ],
+      "chunks": [
+        {"en": "Let's get started. The purpose of today's meeting is...", "pt": "Vamos começar. O objetivo da reunião de hoje é..."},
+        {"en": "Sorry to interrupt, but...", "pt": "Desculpe interromper, mas..."},
+        {"en": "If I could just finish my point...", "pt": "Se eu puder só terminar meu raciocínio..."},
+        {"en": "I think we're getting off track.", "pt": "Acho que estamos saindo do assunto."},
+        {"en": "Let's take that offline.", "pt": "Vamos discutir isso à parte depois."},
+        {"en": "So, to sum up, we've agreed to...", "pt": "Então, resumindo, concordamos em..."}
+      ],
+      "grammar": {
+        "title": "Meeting language by function",
+        "explanation_pt": "A linguagem de reuniões é altamente **funcional**: cada momento tem suas frases. Repare em como elas usam estruturas que você já domina (modais, perguntas indiretas, present perfect).\n\n**ABRIR (chair):** \"Shall we get started?\" / \"The **purpose** of today's meeting is to...\" / \"We have three **items** on the agenda.\" / \"We've got 30 minutes, so let's keep it brief.\"\n\n**DAR A PALAVRA:** \"Ana, **would you like to** start?\" / \"**What are your thoughts on** this, Leo?\" / \"**We haven't heard from** Pedro yet.\"\n\n**INTERROMPER com educação:**\n- \"**Sorry to interrupt, but**...\" / \"**Can I just come in here?**\" / \"**If I could just add something**...\"\n- Em reuniões online: \"**Sorry, go ahead.**\" (quando duas pessoas falam juntas)\n\n**MANTER A PALAVRA:** \"**If I could just finish** my point...\" / \"**Just one more thing**...\" / \"**Bear with me**...\"\n\n**DISCORDAR (com hedging do B2-M1!):** \"**I see your point, but**...\" / \"**I'm not sure that would work because**...\" / \"**Have we considered**...?\"\n\n**CONTROLAR O RUMO E O TEMPO:**\n- \"**I think we're getting off track.** Let's get back to...\"\n- \"**That's a good point, but maybe we could take it offline.**\" / \"**Let's park that for now.**\"\n- \"**We're running out of time**, so let's move on.\"\n\n**RESUMIR E DEFINIR AÇÕES (present perfect + will/going to):**\n- \"**So, to sum up**, we**'ve agreed** to... / we**'ve decided** that...\"\n- \"**Action points:** Ana **will** send the report by Friday; Leo **is going to** contact the client.\"\n- \"**Who's going to** follow up on this?\" / \"**Let's touch base** next week.\"",
+        "table": {
+          "headers": ["Momento", "Frases-chave"],
+          "rows": [["Abrir", "Shall we get started? / The purpose of this meeting is..."], ["Dar a palavra", "What are your thoughts on this? / We haven't heard from..."], ["Interromper", "Sorry to interrupt, but... / Can I just come in here?"], ["Manter a palavra", "If I could just finish... / Just one more thing..."], ["Retomar o rumo", "I think we're getting off track. / Let's park that."], ["Tempo", "We're running out of time. / Let's move on."], ["Resumir", "So, to sum up, we've agreed to..."], ["Ações", "Ana will... by Friday. / Who's going to follow up?"]]
+        },
+        "examples": [
+          {"en": "Sorry to interrupt, but before we move on, could we clarify the budget for the second phase?", "pt": "Desculpe interromper, mas antes de seguirmos, poderíamos esclarecer o orçamento da segunda fase?"},
+          {"en": "That's an important issue, but I think it deserves its own meeting. Shall we take it offline?", "pt": "É um assunto importante, mas acho que merece uma reunião própria. Vamos discutir à parte?"},
+          {"en": "So, to sum up, we've agreed to launch in May. Paula will update the timeline, and I'll inform the client.", "pt": "Então, resumindo, concordamos em lançar em maio. A Paula vai atualizar o cronograma, e eu vou informar o cliente."}
+        ],
+        "tip_pt": "Em reuniões online com estrangeiros, usar o botão **\"raise hand\"** e dizer \"**Could I add something?**\" é uma ótima estratégia para quem tem dificuldade de interromper. E sempre termine com **action points** claros: quem faz o quê até quando."
+      },
+      "common_mistakes": [
+        {"wrong": "Wait, I want to speak!", "right": "Sorry to interrupt, but could I just add something?", "why_pt": "Interrupções devem ser suavizadas com Sorry / Could I..."},
+        {"wrong": "Let's start the meeting. The objective is discuss the budget.", "right": "Let's get started. The objective is to discuss the budget.", "why_pt": "The objective/purpose is + to + verbo."},
+        {"wrong": "We agreed that Ana sends the report.", "right": "We've agreed that Ana will send the report.", "why_pt": "Action points usam will / going to para o futuro."}
+      ],
+      "pronunciation": {
+        "focus": "Entrar na conversa com confiança",
+        "tip_pt": "Para interromper, **aumente levemente o volume** na primeira palavra (\"**SORRY** to interrupt...\") e depois fale em ritmo normal. Uma interrupção hesitante e baixa é ignorada; uma alta demais soa agressiva. Pratique o equilíbrio!",
+        "practice": ["SORRY to interrupt, but...", "Can I just COME IN here?", "So, to SUM UP..."]
+      },
+      "dialogue": {
+        "title": "Project kick-off meeting",
+        "context_pt": "Uma gerente conduz a reunião de início de um projeto com uma equipe internacional.",
+        "lines": [
+          {"speaker": "Paula", "en": "OK, shall we get started? The purpose of today's meeting is to agree on the timeline for the new app. We have three items on the agenda and 30 minutes.", "pt": "OK, vamos começar? O objetivo da reunião de hoje é definir o cronograma do novo app. Temos três itens na pauta e 30 minutos."},
+          {"speaker": "Paula", "en": "Leo, would you like to start with the technical update?", "pt": "Leo, você gostaria de começar com a atualização técnica?"},
+          {"speaker": "Leo", "en": "Sure. The back end is almost ready, but we're still waiting for the designs, so—", "pt": "Claro. O back end está quase pronto, mas ainda estamos esperando os designs, então—"},
+          {"speaker": "Kate", "en": "Sorry to interrupt, but the designs were sent last Friday. Didn't you receive them?", "pt": "Desculpe interromper, mas os designs foram enviados na sexta passada. Você não recebeu?"},
+          {"speaker": "Leo", "en": "Oh — maybe they went to the old email address. If I could just finish my point: once we have them, we'll need three weeks.", "pt": "Ah — talvez tenham ido para o e-mail antigo. Se eu puder só terminar meu raciocínio: assim que os recebermos, vamos precisar de três semanas."},
+          {"speaker": "Kate", "en": "Also, I think the marketing team wants to change the logo again, because—", "pt": "Além disso, acho que o time de marketing quer mudar o logo de novo, porque—"},
+          {"speaker": "Paula", "en": "That's an important point, Kate, but I think we're getting off track. Let's park the logo issue and take it offline with marketing.", "pt": "É um ponto importante, Kate, mas acho que estamos saindo do assunto. Vamos deixar a questão do logo para depois e discutir à parte com o marketing."},
+          {"speaker": "Paula", "en": "OK, we're running out of time. So, to sum up: Kate will resend the designs today, Leo's team will start next Monday, and we've agreed on a launch date of June 15th. Let's touch base again next Thursday.", "pt": "OK, nosso tempo está acabando. Então, resumindo: a Kate vai reenviar os designs hoje, a equipe do Leo começa na próxima segunda, e concordamos com a data de lançamento em 15 de junho. Vamos nos falar de novo na próxima quinta."}
+        ]
+      },
+      "listening": {
+        "title": "Why meetings fail",
+        "context_pt": "Um consultor de produtividade explica os erros mais comuns em reuniões.",
+        "lines": [
+          {"speaker": "Consultant", "en": "Surveys suggest that many professionals feel a large share of their meetings are unproductive. Why? In my experience, there are four main reasons. First, there's no clear purpose — people come without knowing what decision needs to be made. Second, the wrong people are invited: too many people, or not the ones who can actually decide. Third, nobody controls the discussion, so the conversation goes off track and the loudest voices dominate. And fourth — the most common — the meeting ends without clear action points. Everyone leaves thinking someone else will do the work. My rule is simple: no agenda, no meeting. And no meeting should end without three answers: what have we decided, who will do what, and by when."}
+        ],
+        "questions": [
+          {"q": "What is the first reason meetings fail?", "answer": "There's no clear purpose."},
+          {"q": "What problem is there with the people invited?", "answer": "Too many people, or not the ones who can decide."},
+          {"q": "What happens when nobody controls the discussion?", "answer": "It goes off track and the loudest voices dominate."},
+          {"q": "What three answers should every meeting end with?", "answer": "What we've decided, who will do what, and by when."}
+        ]
+      },
+      "reading": {
+        "title": "The silent participants",
+        "text": "In multinational companies, managers often notice a pattern: some team members — frequently non-native speakers — rarely speak up in meetings, even when they have excellent ideas. Research on international teams points to several reasons. One is language anxiety: the fear of making mistakes in front of colleagues, especially native speakers who talk quickly and use idioms. Another is cultural. In some cultures, interrupting is considered rude, and people wait for a pause that, in a fast-paced meeting, never comes. In others, junior employees are expected not to contradict senior ones publicly. The result is that companies lose valuable perspectives. Some organizations have started to change their meeting culture. Chairs are trained to invite quieter participants directly (\"Marta, what's your view?\"), agendas are shared in advance so people can prepare, and some meetings use a \"round\" format where everyone speaks in turn. Native speakers are encouraged to slow down and avoid slang. Non-native speakers, in turn, can benefit from learning a small set of phrases for entering a discussion. Ultimately, the goal is simple: the best idea should win — not the fastest speaker.",
+        "questions": [
+          {"q": "Who often stays silent in multinational meetings?", "answer": "Some team members, frequently non-native speakers."},
+          {"q": "What are two reasons for this?", "answer": "Language anxiety and cultural norms (e.g., interrupting is rude, juniors don't contradict seniors)."},
+          {"q": "What changes have some organizations made?", "answer": "Chairs invite quieter participants, agendas are shared in advance, round formats are used."},
+          {"q": "What is the ultimate goal, according to the text?", "answer": "The best idea should win, not the fastest speaker."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "match", "title": "Meeting functions", "instruction": "Write the function: OPEN, INTERRUPT, HOLD, REFOCUS, SUMMARIZE or ACTION.", "instruction_pt": "Escreva a função.",
+         "items": [{"prompt": "Shall we get started?", "answer": "OPEN"}, {"prompt": "Sorry to interrupt, but...", "answer": "INTERRUPT"}, {"prompt": "If I could just finish my point...", "answer": "HOLD"}, {"prompt": "I think we're getting off track.", "answer": "REFOCUS"}, {"prompt": "So, to sum up, we've agreed to...", "answer": "SUMMARIZE"}, {"prompt": "Leo will send the report by Friday.", "answer": "ACTION"}]},
+        {"id": "ex2", "type": "order_words", "title": "Polite meeting phrases", "instruction": "Put the words in order.", "instruction_pt": "Organize as palavras.",
+         "items": [{"prompt": "just / in / come / I / can / here / ?", "answer": "Can I just come in here?"}, {"prompt": "running / of / we're / time / out", "answer": "We're running out of time."}, {"prompt": "offline / take / let's / that", "answer": "Let's take that offline."}, {"prompt": "heard / Pedro / we / haven't / from / yet", "answer": "We haven't heard from Pedro yet."}]},
+        {"id": "ex3", "type": "answer", "title": "Write the action points", "instruction": "Rewrite the notes as clear action points with will / is going to and a deadline.", "instruction_pt": "Reescreva as anotações como action points claros.",
+         "items": [{"prompt": "Ana – budget – Fri", "answer": "Ana will send / is going to prepare the budget by Friday."}, {"prompt": "Leo + Kate – call client – next week", "answer": "Leo and Kate will call the client next week."}, {"prompt": "Me – update timeline – tomorrow", "answer": "I'll update the timeline by tomorrow."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "The purpose of today's meeting is to agree on the budget."}, {"prompt": "2", "answer": "Sorry to interrupt, but could I add something?"}, {"prompt": "3", "answer": "I think we're getting off track."}, {"prompt": "4", "answer": "So, to sum up, we've agreed to launch in May."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "The objective of the meeting is decide the date.", "answer": "The objective of the meeting is to decide the date."}, {"prompt": "We are running out the time.", "answer": "We are running out of time."}, {"prompt": "Sorry for interrupt, but...", "answer": "Sorry to interrupt, but..."}, {"prompt": "We agreed that Leo sends the file tomorrow.", "answer": "We've agreed that Leo will send the file tomorrow."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Chair the meeting", "instruction": "Complete with: started · thoughts · track · sum · follow.", "instruction_pt": "Complete a condução da reunião.",
+         "items": [{"prompt": "OK everyone, shall we get ___?", "answer": "started"}, {"prompt": "Marta, what are your ___ on the proposal?", "answer": "thoughts"}, {"prompt": "That's interesting, but let's get back on ___.", "answer": "track"}, {"prompt": "So, to ___ up: who's going to ___ up with the supplier?", "answer": "sum / follow"}]}
+      ],
+      "speaking": {
+        "instruction": "Meeting simulation (20 min): groups of 4–5. One person chairs; the others receive role cards with different opinions on a real issue (e.g., the office moving to a new city, a four-day week, a new budget). Follow the agenda, interrupt politely, refocus, and end with clear action points.",
+        "instruction_pt": "Simulação de reunião (20 min): grupos de 4–5. Uma pessoa conduz; as outras recebem cartões com opiniões diferentes sobre um tema real (ex.: mudança do escritório para outra cidade, semana de quatro dias, novo orçamento). Sigam a pauta, interrompam com educação, retomem o rumo e terminem com action points claros.",
+        "questions": ["What's the worst meeting you've ever been in? Why?", "How do you feel about interrupting people in English?", "Should every meeting have an agenda?", "Are online meetings more or less productive than in-person ones?", "What's one rule you would introduce for meetings at your workplace or school?"]
+      },
+      "writing": {
+        "task": "Write the follow-up email (150–200 words) after a meeting: thank participants, summarize the main decisions, list the action points (who, what, when) and mention any issues parked for later.",
+        "task_pt": "Escreva o e-mail de seguimento (150–200 palavras) depois de uma reunião: agradeça aos participantes, resuma as principais decisões, liste os action points (quem, o quê, quando) e mencione assuntos deixados para depois.",
+        "model": "Subject: Summary and action points – App launch meeting (May 6)\n\nHi everyone,\n\nThank you all for your input in today's meeting. Here's a quick summary of what we discussed and agreed.\n\nDecisions\n• We've agreed on a launch date of June 15th.\n• The first version will include the payment and booking features only; the chat feature will be added in the second phase.\n• Weekly progress meetings will take place every Thursday at 10 a.m.\n\nAction points\n• Kate will resend the final designs to the new shared folder by the end of today.\n• Leo's team will start development on Monday, May 12th.\n• Marta is going to prepare a testing plan by May 20th.\n• I'll update the client and share the revised timeline by Wednesday.\n\nParked for later\n• The marketing team's proposal to change the logo. I'll set up a separate meeting with them next week.\n\nIf I've missed anything or if anything is unclear, please let me know by tomorrow.\n\nBest regards,\nPaula"
+      },
+      "culture_note": {
+        "title": "\"Let's circle back\" e outros jargões",
+        "text_pt": "O inglês corporativo tem muitos jargões — alguns úteis, outros alvo de piadas: **circle back** (retomar depois), **touch base** (fazer contato rápido), **bandwidth** (disponibilidade: \"I don't have the bandwidth\"), **low-hanging fruit** (ganhos fáceis), **move the needle** (fazer diferença real). Entenda todos — mas use com moderação!"
+      },
+      "summary_pt": ["Abrir: Shall we get started? / The purpose of this meeting is to...", "Interromper: Sorry to interrupt, but... / Can I just come in here?", "Refocar: We're getting off track / Let's park that / take it offline.", "Fechar: To sum up, we've agreed... + action points (who / what / when)."]
+    }
+  ],
+  "review": {
+    "intro_pt": "Revise futuro avançado, future in the past, negociação e linguagem de reuniões.",
+    "exercises": [
+      {"id": "r1", "type": "multiple_choice", "title": "Choose the correct option", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+       "items": [{"prompt": "By 2030, I ___ my degree.", "options": ["will finish", "will have finished", "will be finishing"], "answer": "will have finished"}, {"prompt": "This time tomorrow, I ___ to Paris.", "options": ["'ll fly", "'ll be flying", "'ll have flown"], "answer": "'ll be flying"}, {"prompt": "I knew you ___ like the gift.", "options": ["will", "would", "were going"], "answer": "would"}, {"prompt": "We'll sign, provided that you ___ the price.", "options": ["keep", "will keep", "kept"], "answer": "keep"}, {"prompt": "Sorry ___, but I need to add something.", "options": ["for interrupt", "to interrupt", "interrupting"], "answer": "to interrupt"}]},
+      {"id": "r2", "type": "fill_blank", "title": "Mixed practice", "instruction": "Complete with the correct form.", "instruction_pt": "Complete com a forma correta.",
+       "items": [{"prompt": "In May, I ___ (work) here for ten years.", "answer": "'ll have been working"}, {"prompt": "I ___ (about / leave) when the client called.", "answer": "was about to leave"}, {"prompt": "If we ___ (pay) upfront, would you give us a discount?", "answer": "paid"}, {"prompt": "So, to sum up, we ___ (agree) to launch in June.", "answer": "'ve agreed"}]},
+      {"id": "r3", "type": "translate", "title": "Translate", "instruction": "Translate into English.", "instruction_pt": "Traduza para o inglês.",
+       "items": [{"prompt": "Eu ia aceitar a proposta, mas mudei de ideia.", "answer": "I was going to accept the offer, but I changed my mind."}, {"prompt": "Vocês poderiam chegar a um meio-termo?", "answer": "Could you meet us halfway?"}, {"prompt": "Acho que estamos saindo do assunto.", "answer": "I think we're getting off track."}]},
+      {"id": "r4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+       "items": [{"prompt": "1", "answer": "Will you be using the car tomorrow?"}, {"prompt": "2", "answer": "The deal fell through at the last minute."}, {"prompt": "3", "answer": "Let's take that offline."}]},
+      {"id": "r5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+       "items": [{"prompt": "By the time you will arrive, we'll have left.", "answer": "By the time you arrive, we'll have left."}, {"prompt": "I thought it will be easy.", "answer": "I thought it would be easy."}, {"prompt": "Unless you don't confirm today, we'll cancel.", "answer": "Unless you confirm today, we'll cancel."}]}
+    ],
+    "speaking_pt": "Grave um vídeo de 3–4 minutos simulando parte de uma reunião que você conduz: abra, apresente a pauta, \"responda\" a uma interrupção, negocie um ponto com uma condição e encerre com resumo e action points. Depois, fale 1 minuto sobre onde estará na carreira daqui a cinco anos.",
+    "speaking_questions": ["What will you have achieved professionally by 2030?", "Tell me about a plan that fell through and what happened next.", "What's the most important thing to remember in a negotiation?", "How would you run a perfect meeting?", "How has your confidence in professional English changed?"],
+    "project_pt": "**Business simulation:** em grupo, simulem o lançamento de um produto: (1) uma reunião de planejamento gravada (com pauta, interrupções e action points), (2) uma negociação com um \"fornecedor\" (outro grupo), (3) um e-mail de follow-up e (4) uma apresentação de 3 minutos com metas usando future perfect e future continuous."
+  }
+}

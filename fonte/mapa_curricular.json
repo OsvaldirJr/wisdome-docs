@@ -1,0 +1,1674 @@
+{
+  "course": "Wisdome English",
+  "version": "1.0",
+  "language_of_instruction": "pt-BR",
+  "methodology_pt": "Abordagem comunicativa e prática: cada aula parte de uma situação real (apps, trabalho remoto, viagens, redes sociais), apresenta vocabulário em 'chunks' (blocos de palavras usadas juntas), explica a gramática em português de forma curta, antecipa os erros típicos de brasileiros e termina com produção oral e escrita. Os níveis seguem o CEFR (Quadro Europeu Comum de Referência) e o British Council/EAQUALS Core Inventory. Os livros originais da escola foram usados apenas como guia de sequência; todos os textos, diálogos e exercícios são originais.",
+  "lesson_structure": [
+    "Objetivos (can-do)",
+    "Warm-up",
+    "Vocabulário e chunks",
+    "Gramática explicada em português",
+    "Atenção, brasileiro! (erros comuns)",
+    "Pronúncia",
+    "Diálogo em contexto real",
+    "Listening (áudio + perguntas + transcrição)",
+    "Leitura",
+    "Exercícios com gabarito (6–7 por aula: incluem ditado, correção de erro e completar diálogo)",
+    "Speaking (perguntas para conversação)",
+    "Writing",
+    "Resumo"
+  ],
+  "levels": [
+    {
+      "id": "A1",
+      "name": "Nível 1 — Starter (A1)",
+      "description_pt": "Para quem está começando do zero. Ao final, o aluno se apresenta, fala da família, da rotina, do que gosta, faz pedidos simples, se localiza na cidade e conta o que fez no fim de semana.",
+      "hours_estimated": 52,
+      "sources": [
+        "Book I To Go - English A1",
+        "Book I To Go - Questions TG",
+        "Book I StartUp - English",
+        "Book I English"
+      ],
+      "status": "completo",
+      "modules": [
+        {
+          "id": "A1-M1",
+          "title": "Likes and Food",
+          "theme_pt": "Gostos, comida, bebida e lazer",
+          "can_do": [
+            "Dizer do que gosta e não gosta",
+            "Falar o que come e bebe",
+            "Pedir algo em um café",
+            "Falar de hobbies"
+          ],
+          "lessons": [
+            {
+              "id": "A1-M1-L1",
+              "title": "I like coffee",
+              "grammar": "Simple present: I like / I don't like / Do you like?",
+              "vocab": "Comida e bebida do café da manhã"
+            },
+            {
+              "id": "A1-M1-L2",
+              "title": "Eat, drink, cook",
+              "grammar": "Simple present (I/you/we/they) com verbos de ação",
+              "vocab": "Refeições, verbos eat/drink/cook/want"
+            },
+            {
+              "id": "A1-M1-L3",
+              "title": "Can I have a latte?",
+              "grammar": "Can I have...? / I'd like... / How much is it?",
+              "vocab": "Café, tamanhos, preços"
+            },
+            {
+              "id": "A1-M1-L4",
+              "title": "Free time",
+              "grammar": "like + -ing / short answers",
+              "vocab": "Hobbies, streaming, games, esportes"
+            }
+          ]
+        },
+        {
+          "id": "A1-M2",
+          "title": "My Day",
+          "theme_pt": "Horas, rotina e frequência",
+          "can_do": [
+            "Dizer as horas",
+            "Descrever a rotina",
+            "Dizer com que frequência faz algo",
+            "Fazer perguntas com what/where/when"
+          ],
+          "lessons": [
+            {
+              "id": "A1-M2-L1",
+              "title": "What time is it?",
+              "grammar": "Horas + preposições at/in/on",
+              "vocab": "Partes do dia, dias da semana"
+            },
+            {
+              "id": "A1-M2-L2",
+              "title": "My routine",
+              "grammar": "Simple present para rotina + sequenciadores",
+              "vocab": "Verbos de rotina (get up, take a shower...)"
+            },
+            {
+              "id": "A1-M2-L3",
+              "title": "How often?",
+              "grammar": "Adverbs of frequency / How often...?",
+              "vocab": "always, usually, sometimes, never, every day"
+            },
+            {
+              "id": "A1-M2-L4",
+              "title": "Work or study?",
+              "grammar": "Wh- questions: what, where, when, who, why",
+              "vocab": "Trabalho, estudo, home office"
+            }
+          ]
+        },
+        {
+          "id": "A1-M3",
+          "title": "He, She, It",
+          "theme_pt": "Terceira pessoa, compras e transporte",
+          "can_do": [
+            "Falar sobre a rotina de outras pessoas",
+            "Perguntar sobre outra pessoa",
+            "Perguntar preços e quantidades",
+            "Dizer como vai para os lugares"
+          ],
+          "lessons": [
+            {
+              "id": "A1-M3-L1",
+              "title": "She works from home",
+              "grammar": "Simple present 3ª pessoa: -s / -es / -ies",
+              "vocab": "Verbos frequentes"
+            },
+            {
+              "id": "A1-M3-L2",
+              "title": "Does he cook?",
+              "grammar": "Does / doesn't",
+              "vocab": "Tarefas de casa"
+            },
+            {
+              "id": "A1-M3-L3",
+              "title": "How much is it?",
+              "grammar": "How much / how many / why...because",
+              "vocab": "Compras, números até 1000, buy/sell"
+            },
+            {
+              "id": "A1-M3-L4",
+              "title": "Getting around",
+              "grammar": "How do you go...? / by bus / on foot",
+              "vocab": "Transporte e apps de mobilidade"
+            }
+          ]
+        },
+        {
+          "id": "A1-M4",
+          "title": "Hello, World!",
+          "theme_pt": "Cumprimentos, apresentações e informações pessoais",
+          "can_do": [
+            "Cumprimentar e se despedir",
+            "Dizer nome, idade, cidade e país",
+            "Soletrar nome e e-mail",
+            "Preencher um perfil simples"
+          ],
+          "lessons": [
+            {
+              "id": "A1-M4-L1",
+              "title": "Hi! I'm Ana",
+              "grammar": "Verb to be: I am / You are",
+              "vocab": "Cumprimentos, despedidas, polite words"
+            },
+            {
+              "id": "A1-M4-L2",
+              "title": "Where are you from?",
+              "grammar": "Verb to be: he/she/it, perguntas e negativas",
+              "vocab": "Países e nacionalidades"
+            },
+            {
+              "id": "A1-M4-L3",
+              "title": "Spell it, please",
+              "grammar": "What's your...? / How do you spell...?",
+              "vocab": "Alfabeto, números 0–100, e-mail e telefone"
+            },
+            {
+              "id": "A1-M4-L4",
+              "title": "My profile",
+              "grammar": "Verb to be completo (we/they) + possessive adjectives",
+              "vocab": "Dados pessoais, perfis de app"
+            }
+          ]
+        },
+        {
+          "id": "A1-M5",
+          "title": "Me and My People",
+          "theme_pt": "Família, aparência, objetos e profissões",
+          "can_do": [
+            "Apresentar membros da família",
+            "Descrever pessoas de forma simples",
+            "Identificar objetos",
+            "Dizer a profissão"
+          ],
+          "lessons": [
+            {
+              "id": "A1-M5-L1",
+              "title": "Meet my family",
+              "grammar": "Possessive 's / Who is...?",
+              "vocab": "Família"
+            },
+            {
+              "id": "A1-M5-L2",
+              "title": "What's she like?",
+              "grammar": "Be + adjective / very, really, a little",
+              "vocab": "Adjetivos de personalidade e aparência"
+            },
+            {
+              "id": "A1-M5-L3",
+              "title": "What's this?",
+              "grammar": "This/that/these/those + plurais",
+              "vocab": "Objetos do dia a dia e tecnologia"
+            },
+            {
+              "id": "A1-M5-L4",
+              "title": "What do you do?",
+              "grammar": "a/an + profissões / What do you do?",
+              "vocab": "Profissões e locais de trabalho"
+            }
+          ]
+        },
+        {
+          "id": "A1-M6",
+          "title": "Places and Past",
+          "theme_pt": "Casa, cidade, habilidades e primeiro contato com o passado",
+          "can_do": [
+            "Descrever a casa",
+            "Pedir e dar direções simples",
+            "Dizer o que sabe fazer",
+            "Contar o que fez no fim de semana"
+          ],
+          "lessons": [
+            {
+              "id": "A1-M6-L1",
+              "title": "My home",
+              "grammar": "There is / There are",
+              "vocab": "Cômodos e móveis"
+            },
+            {
+              "id": "A1-M6-L2",
+              "title": "Where's the pharmacy?",
+              "grammar": "Prepositions of place + imperativos para direções",
+              "vocab": "Lugares na cidade"
+            },
+            {
+              "id": "A1-M6-L3",
+              "title": "I can cook",
+              "grammar": "Can / can't (habilidade)",
+              "vocab": "Habilidades"
+            },
+            {
+              "id": "A1-M6-L4",
+              "title": "Last weekend",
+              "grammar": "Introdução ao passado: was/were + went, liked, watched",
+              "vocab": "Expressões de passado (yesterday, last...)"
+            }
+          ]
+        }
+      ],
+      "sequence_note_pt": "A sequência segue a dos livros To Go da escola: primeiro verbos de alta frequência em blocos (like, eat, work, want...), depois a 3ª pessoa, e só então o verbo to be formalizado. Expressões com I'm / It's aparecem antes como chunks prontos."
+    },
+    {
+      "id": "A2",
+      "name": "Nível 2 — Elementary (A2)",
+      "description_pt": "O aluno passa a contar histórias no passado, falar do que está acontecendo agora, comparar coisas, fazer planos e lidar com situações de viagem e trabalho.",
+      "hours_estimated": 60,
+      "sources": [
+        "Book II To Go - English A2",
+        "Book II To Go - Questions TG",
+        "Basic II Student's Lessons Book",
+        "Basic II Exercises Book",
+        "Book I StartUp - English (unidades 6–10)"
+      ],
+      "status": "completo",
+      "modules": [
+        {
+          "id": "A2-M1",
+          "title": "Who Are You Now?",
+          "theme_pt": "Revisão do verb to be em profundidade, adjetivos e identidade",
+          "can_do": [
+            "Usar to be em todas as formas",
+            "Descrever pessoas e lugares com adjetivos",
+            "Falar de datas e números grandes"
+          ],
+          "lessons": [
+            {
+              "id": "A2-M1-L1",
+              "title": "I'm not a morning person",
+              "grammar": "To be: todas as formas + contrações",
+              "vocab": "Adjetivos de personalidade"
+            },
+            {
+              "id": "A2-M1-L2",
+              "title": "Are they online?",
+              "grammar": "To be: perguntas com question words",
+              "vocab": "Internet e redes sociais"
+            },
+            {
+              "id": "A2-M1-L3",
+              "title": "Save the date",
+              "grammar": "Ordinal numbers + datas",
+              "vocab": "Dias, meses, números ordinais"
+            },
+            {
+              "id": "A2-M1-L4",
+              "title": "Whose phone is this?",
+              "grammar": "Possessive pronouns + whose",
+              "vocab": "Objetos pessoais"
+            }
+          ]
+        },
+        {
+          "id": "A2-M2",
+          "title": "Right Now",
+          "theme_pt": "Ações em andamento e contraste com a rotina",
+          "can_do": [
+            "Dizer o que está fazendo agora",
+            "Contrastar rotina e momento atual",
+            "Descrever fotos e vídeos"
+          ],
+          "lessons": [
+            {
+              "id": "A2-M2-L1",
+              "title": "What are you doing?",
+              "grammar": "Present continuous: afirmativa, negativa e perguntas",
+              "vocab": "Ações do dia a dia"
+            },
+            {
+              "id": "A2-M2-L2",
+              "title": "Look at this photo",
+              "grammar": "Present continuous para descrever imagens",
+              "vocab": "Roupas e lugares"
+            },
+            {
+              "id": "A2-M2-L3",
+              "title": "Usually vs. today",
+              "grammar": "Simple present x present continuous",
+              "vocab": "Trabalho e estudo"
+            },
+            {
+              "id": "A2-M2-L4",
+              "title": "I agree / I don't think so",
+              "grammar": "Expressões para concordar e discordar",
+              "vocab": "Opiniões (video lesson)"
+            }
+          ]
+        },
+        {
+          "id": "A2-M3",
+          "title": "Stories",
+          "theme_pt": "Passado simples completo e passado contínuo",
+          "can_do": [
+            "Contar uma história no passado",
+            "Usar verbos irregulares frequentes",
+            "Descrever o que estava acontecendo"
+          ],
+          "lessons": [
+            {
+              "id": "A2-M3-L1",
+              "title": "Where were you?",
+              "grammar": "Was / were: todas as formas",
+              "vocab": "Lugares e eventos"
+            },
+            {
+              "id": "A2-M3-L2",
+              "title": "What did you do?",
+              "grammar": "Simple past regular e irregular + did/didn't",
+              "vocab": "Top 50 verbos irregulares"
+            },
+            {
+              "id": "A2-M3-L3",
+              "title": "I was cooking when...",
+              "grammar": "Past continuous + when/while",
+              "vocab": "Acidentes e imprevistos"
+            },
+            {
+              "id": "A2-M3-L4",
+              "title": "Once upon a time",
+              "grammar": "Conectores de narrativa: first, then, after that, finally",
+              "vocab": "Contar histórias"
+            }
+          ]
+        },
+        {
+          "id": "A2-M4",
+          "title": "Better or Worse?",
+          "theme_pt": "Comparações e escolhas de consumo",
+          "can_do": [
+            "Comparar produtos, cidades e pessoas",
+            "Dizer qual é o melhor/pior",
+            "Fazer escolhas em compras online"
+          ],
+          "lessons": [
+            {
+              "id": "A2-M4-L1",
+              "title": "Cheaper and faster",
+              "grammar": "Comparativo de adjetivos curtos",
+              "vocab": "Adjetivos de produtos"
+            },
+            {
+              "id": "A2-M4-L2",
+              "title": "More comfortable",
+              "grammar": "Comparativo de adjetivos longos + irregulares",
+              "vocab": "Casas e cidades"
+            },
+            {
+              "id": "A2-M4-L3",
+              "title": "The best app ever",
+              "grammar": "Superlativo",
+              "vocab": "Tecnologia e avaliações"
+            },
+            {
+              "id": "A2-M4-L4",
+              "title": "Too expensive?",
+              "grammar": "too / enough / as...as",
+              "vocab": "Compras online, devoluções"
+            }
+          ]
+        },
+        {
+          "id": "A2-M5",
+          "title": "Plans",
+          "theme_pt": "Futuro: planos, previsões e convites",
+          "can_do": [
+            "Falar de planos",
+            "Fazer, aceitar e recusar convites",
+            "Combinar um encontro"
+          ],
+          "lessons": [
+            {
+              "id": "A2-M5-L1",
+              "title": "I'm going to travel",
+              "grammar": "Going to / gonna",
+              "vocab": "Viagens"
+            },
+            {
+              "id": "A2-M5-L2",
+              "title": "Are you free on Friday?",
+              "grammar": "Present continuous para futuro combinado",
+              "vocab": "Agenda e compromissos"
+            },
+            {
+              "id": "A2-M5-L3",
+              "title": "Would you like to come?",
+              "grammar": "Would like / Let's / How about...?",
+              "vocab": "Convites"
+            },
+            {
+              "id": "A2-M5-L4",
+              "title": "I'll help you",
+              "grammar": "Will para decisões e promessas",
+              "vocab": "Ofertas e promessas"
+            }
+          ]
+        },
+        {
+          "id": "A2-M6",
+          "title": "Out in the World",
+          "theme_pt": "Viagem, saúde e serviços",
+          "can_do": [
+            "Fazer check-in em hotel",
+            "Explicar um problema de saúde simples",
+            "Pedir comida e reclamar com educação"
+          ],
+          "lessons": [
+            {
+              "id": "A2-M6-L1",
+              "title": "Do you have a reservation?",
+              "grammar": "Could you...? / Can I...? (pedidos formais)",
+              "vocab": "Hotel e aeroporto"
+            },
+            {
+              "id": "A2-M6-L2",
+              "title": "I have a headache",
+              "grammar": "Should / shouldn't (conselho)",
+              "vocab": "Corpo e sintomas"
+            },
+            {
+              "id": "A2-M6-L3",
+              "title": "Some, any, a lot of",
+              "grammar": "Countable / uncountable + quantifiers",
+              "vocab": "Supermercado e receitas"
+            },
+            {
+              "id": "A2-M6-L4",
+              "title": "There's a problem with my order",
+              "grammar": "Revisão geral A2",
+              "vocab": "Reclamações e soluções"
+            }
+          ]
+        }
+      ],
+      "sequence_note_pt": "A sequência segue o To Go A2: verb to be em profundidade → present continuous (com possessivos e opiniões) → passado → comparativos → going to/futuro, complementada por situações de viagem, saúde e serviços (StartUp e Basic II)."
+    },
+    {
+      "id": "B1",
+      "name": "Nível 3 — Pre-Intermediate (B1)",
+      "description_pt": "O aluno fala sobre experiências de vida, usa modais com segurança, conversa sobre trabalho e mantém uma conversa espontânea sobre temas do cotidiano.",
+      "hours_estimated": 70,
+      "sources": [
+        "Book III English (present perfect)",
+        "SAM-B3 (modals and more questions)",
+        "Low Intermediate - TopNotch 3A Student's Book & Workbook",
+        "TopNotch 3A e 3B Teacher's Book"
+      ],
+      "status": "completo",
+      "modules": [
+        {
+          "id": "B1-M1",
+          "title": "Small Talk",
+          "theme_pt": "Conversas sociais e etiqueta internacional",
+          "can_do": [
+            "Puxar e manter conversa",
+            "Confirmar informações com tag questions",
+            "Entender diferenças culturais"
+          ],
+          "lessons": [
+            {
+              "id": "B1-M1-L1",
+              "title": "Nice day, isn't it?",
+              "grammar": "Tag questions",
+              "vocab": "Small talk"
+            },
+            {
+              "id": "B1-M1-L2",
+              "title": "Have you ever...?",
+              "grammar": "Present perfect: experiências (ever/never)",
+              "vocab": "Experiências de vida"
+            },
+            {
+              "id": "B1-M1-L3",
+              "title": "Etiquette around the world",
+              "grammar": "Be supposed to / It's polite to...",
+              "vocab": "Costumes e cultura"
+            },
+            {
+              "id": "B1-M1-L4",
+              "title": "Call me Jim",
+              "grammar": "Formas de tratamento",
+              "vocab": "Formal x informal"
+            }
+          ]
+        },
+        {
+          "id": "B1-M2",
+          "title": "Life So Far",
+          "theme_pt": "Present perfect em profundidade",
+          "can_do": [
+            "Falar de conquistas e mudanças",
+            "Usar for/since, already/yet/just",
+            "Escolher entre present perfect e simple past"
+          ],
+          "lessons": [
+            {
+              "id": "B1-M2-L1",
+              "title": "I've lived here for 5 years",
+              "grammar": "Present perfect + for / since",
+              "vocab": "Moradia e mudanças"
+            },
+            {
+              "id": "B1-M2-L2",
+              "title": "Have you finished yet?",
+              "grammar": "already / yet / just",
+              "vocab": "Tarefas e prazos"
+            },
+            {
+              "id": "B1-M2-L3",
+              "title": "Did you or have you?",
+              "grammar": "Present perfect x simple past",
+              "vocab": "Viagens e eventos"
+            },
+            {
+              "id": "B1-M2-L4",
+              "title": "Professionally speaking",
+              "grammar": "Present perfect continuous (introdução)",
+              "vocab": "Carreira e currículo"
+            }
+          ]
+        },
+        {
+          "id": "B1-M3",
+          "title": "Can, Could, Should, Must",
+          "theme_pt": "Verbos modais na prática (base SAM-B3)",
+          "can_do": [
+            "Pedir favores com educação",
+            "Dar conselhos e sugestões",
+            "Falar de obrigação e proibição",
+            "Expressar possibilidade"
+          ],
+          "lessons": [
+            {
+              "id": "B1-M3-L1",
+              "title": "How fast can you run?",
+              "grammar": "Can / be able to",
+              "vocab": "Habilidades e limites"
+            },
+            {
+              "id": "B1-M3-L2",
+              "title": "Could you do me a favor?",
+              "grammar": "Could para pedidos e passado de can",
+              "vocab": "Favores e tarefas"
+            },
+            {
+              "id": "B1-M3-L3",
+              "title": "You should try it",
+              "grammar": "Should / ought to / had better",
+              "vocab": "Conselhos"
+            },
+            {
+              "id": "B1-M3-L4",
+              "title": "You must not park here",
+              "grammar": "Must / have to / don't have to / might",
+              "vocab": "Regras e possibilidades"
+            }
+          ]
+        },
+        {
+          "id": "B1-M4",
+          "title": "Getting Things Done",
+          "theme_pt": "Serviços, recomendações e preferências",
+          "can_do": [
+            "Pedir que alguém faça um serviço",
+            "Recomendar profissionais e lugares",
+            "Expressar preferências"
+          ],
+          "lessons": [
+            {
+              "id": "B1-M4-L1",
+              "title": "I need to get my phone fixed",
+              "grammar": "Causative: get / have something done",
+              "vocab": "Serviços"
+            },
+            {
+              "id": "B1-M4-L2",
+              "title": "I'd rather stay home",
+              "grammar": "Would rather / prefer",
+              "vocab": "Preferências"
+            },
+            {
+              "id": "B1-M4-L3",
+              "title": "Enjoy doing, want to do",
+              "grammar": "Gerúndio x infinitivo",
+              "vocab": "Verbos com padrões"
+            },
+            {
+              "id": "B1-M4-L4",
+              "title": "Who did you ask?",
+              "grammar": "Subject x object questions",
+              "vocab": "Recomendações"
+            }
+          ]
+        },
+        {
+          "id": "B1-M5",
+          "title": "News and Events",
+          "theme_pt": "Notícias, desastres naturais e acontecimentos",
+          "can_do": [
+            "Entender manchetes",
+            "Descrever eventos com a voz passiva",
+            "Ordenar acontecimentos no passado"
+          ],
+          "lessons": [
+            {
+              "id": "B1-M5-L1",
+              "title": "It was built in 1920",
+              "grammar": "Passive voice: present e past",
+              "vocab": "Construções e invenções"
+            },
+            {
+              "id": "B1-M5-L2",
+              "title": "Breaking news",
+              "grammar": "Past perfect",
+              "vocab": "Notícias"
+            },
+            {
+              "id": "B1-M5-L3",
+              "title": "Storms and floods",
+              "grammar": "Revisão de tempos narrativos",
+              "vocab": "Clima e desastres naturais"
+            },
+            {
+              "id": "B1-M5-L4",
+              "title": "Is it fake news?",
+              "grammar": "Linguagem para opinar e duvidar",
+              "vocab": "Mídia e informação"
+            }
+          ]
+        },
+        {
+          "id": "B1-M6",
+          "title": "What If?",
+          "theme_pt": "Condicionais e hipóteses",
+          "can_do": [
+            "Falar de consequências reais",
+            "Imaginar situações hipotéticas",
+            "Fazer pedidos e conselhos com condicionais"
+          ],
+          "lessons": [
+            {
+              "id": "B1-M6-L1",
+              "title": "If it rains, we'll stay in",
+              "grammar": "Zero e first conditional",
+              "vocab": "Planos e imprevistos"
+            },
+            {
+              "id": "B1-M6-L2",
+              "title": "If I won the lottery",
+              "grammar": "Second conditional",
+              "vocab": "Sonhos e desejos"
+            },
+            {
+              "id": "B1-M6-L3",
+              "title": "Unless you hurry",
+              "grammar": "unless / as soon as / when",
+              "vocab": "Prazos e metas"
+            },
+            {
+              "id": "B1-M6-L4",
+              "title": "Final conversation",
+              "grammar": "Revisão geral B1",
+              "vocab": "Perguntas de conversação livre"
+            }
+          ]
+        }
+      ],
+      "sequence_note_pt": "Sequência guiada pelo Top Notch 3A (small talk, etiqueta, getting things done, eventos), pelo Book III (present perfect) e pelo SAM-B3 (modais e perguntas de conversação), com condicionais e passiva alinhadas ao Keynote. Cada lição de modais traz perguntas no estilo SAM para a prática oral."
+    },
+    {
+      "id": "B1+",
+      "name": "Nível 4 — Intermediate (B1+)",
+      "description_pt": "Nível temático com base em TED Talks: o aluno discute ideias, apresenta opiniões, entende palestras autênticas e se comunica em contextos profissionais.",
+      "hours_estimated": 80,
+      "sources": [
+        "B1 Keynote Intermediate Student Book",
+        "Keynote Intermediate Workbook",
+        "Keynote Intermediate Teacher's Book",
+        "Keynote Intermediate Videos (TED Talks)"
+      ],
+      "status": "completo",
+      "modules": [
+        {
+          "id": "B1P-M1",
+          "title": "Work and Trends",
+          "theme_pt": "Mundo do trabalho e tendências",
+          "can_do": [
+            "Falar sobre carreira e habilidades",
+            "Discutir tendências e influenciadores",
+            "Apresentar-se profissionalmente"
+          ],
+          "lessons": [
+            {
+              "id": "B1P-M1-L1",
+              "title": "What makes a good job?",
+              "grammar": "Present simple x continuous (estados e ações)",
+              "vocab": "Trabalho, soft skills"
+            },
+            {
+              "id": "B1P-M1-L2",
+              "title": "Have you got what it takes?",
+              "grammar": "Verb patterns",
+              "vocab": "Qualidades profissionais"
+            },
+            {
+              "id": "B1P-M1-L3",
+              "title": "The next big thing",
+              "grammar": "Past simple x past continuous em relatos",
+              "vocab": "Tendências e redes sociais"
+            },
+            {
+              "id": "B1P-M1-L4",
+              "title": "Job interview",
+              "grammar": "Perguntas indiretas",
+              "vocab": "Entrevistas de emprego"
+            }
+          ]
+        },
+        {
+          "id": "B1P-M2",
+          "title": "Money and Success",
+          "theme_pt": "Dinheiro, finanças pessoais e sucesso",
+          "can_do": [
+            "Falar de hábitos de consumo",
+            "Discutir o que é sucesso",
+            "Pedir desculpas e justificar"
+          ],
+          "lessons": [
+            {
+              "id": "B1P-M2-L1",
+              "title": "Managing your money",
+              "grammar": "Quantifiers (much, many, a few, a little)",
+              "vocab": "Finanças pessoais, Pix, cartões"
+            },
+            {
+              "id": "B1P-M2-L2",
+              "title": "Don't eat the marshmallow!",
+              "grammar": "Present perfect x past simple",
+              "vocab": "Autocontrole e metas"
+            },
+            {
+              "id": "B1P-M2-L3",
+              "title": "The road to success",
+              "grammar": "Present perfect continuous",
+              "vocab": "Conquistas"
+            },
+            {
+              "id": "B1P-M2-L4",
+              "title": "Sorry, I did my best",
+              "grammar": "Linguagem de desculpas e justificativas",
+              "vocab": "Situações de trabalho"
+            }
+          ]
+        },
+        {
+          "id": "B1P-M3",
+          "title": "Marketing and Communication",
+          "theme_pt": "Marcas, publicidade e comunicação",
+          "can_do": [
+            "Analisar anúncios e marcas",
+            "Dar e pedir opiniões",
+            "Comunicar ideias complexas de forma simples"
+          ],
+          "lessons": [
+            {
+              "id": "B1P-M3-L1",
+              "title": "Your brand online",
+              "grammar": "Articles (a, an, the, zero article)",
+              "vocab": "Marketing digital"
+            },
+            {
+              "id": "B1P-M3-L2",
+              "title": "What do you think of it?",
+              "grammar": "Relative clauses (who, which, that)",
+              "vocab": "Produtos e opinião"
+            },
+            {
+              "id": "B1P-M3-L3",
+              "title": "Talk nerdy to me",
+              "grammar": "Future forms (will, going to, present continuous)",
+              "vocab": "Ciência e divulgação"
+            },
+            {
+              "id": "B1P-M3-L4",
+              "title": "Is it your first time here?",
+              "grammar": "Small talk em eventos",
+              "vocab": "Networking"
+            }
+          ]
+        },
+        {
+          "id": "B1P-M4",
+          "title": "Experience and the Future",
+          "theme_pt": "Experiências, diversidade e futuro da tecnologia",
+          "can_do": [
+            "Falar de experiências marcantes",
+            "Fazer previsões sobre o futuro",
+            "Deixar recados e mensagens de voz"
+          ],
+          "lessons": [
+            {
+              "id": "B1P-M4-L1",
+              "title": "What have you learned?",
+              "grammar": "Present perfect com superlativos e ever",
+              "vocab": "Aprendizado e diversidade"
+            },
+            {
+              "id": "B1P-M4-L2",
+              "title": "The future of transport",
+              "grammar": "Will / might / may para previsões",
+              "vocab": "Mobilidade, carros elétricos, IA"
+            },
+            {
+              "id": "B1P-M4-L3",
+              "title": "This might be the answer",
+              "grammar": "Modais de probabilidade",
+              "vocab": "Soluções e inovação"
+            },
+            {
+              "id": "B1P-M4-L4",
+              "title": "Speak after the tone",
+              "grammar": "Linguagem de telefone e mensagens",
+              "vocab": "Comunicação profissional"
+            }
+          ]
+        },
+        {
+          "id": "B1P-M5",
+          "title": "Being Effective and Green",
+          "theme_pt": "Produtividade e meio ambiente",
+          "can_do": [
+            "Dar instruções detalhadas",
+            "Explicar processos",
+            "Discutir problemas ambientais e soluções"
+          ],
+          "lessons": [
+            {
+              "id": "B1P-M5-L1",
+              "title": "How to tie your shoes",
+              "grammar": "Zero e first conditional + imperativos",
+              "vocab": "Instruções e dicas"
+            },
+            {
+              "id": "B1P-M5-L2",
+              "title": "Small details matter",
+              "grammar": "Modal verbs: must, have to, should",
+              "vocab": "Produtividade"
+            },
+            {
+              "id": "B1P-M5-L3",
+              "title": "A big sum of small actions",
+              "grammar": "The passive",
+              "vocab": "Meio ambiente e reciclagem"
+            },
+            {
+              "id": "B1P-M5-L4",
+              "title": "Can you explain?",
+              "grammar": "Pedir e dar esclarecimentos",
+              "vocab": "Linguagem de clarificação"
+            }
+          ]
+        },
+        {
+          "id": "B1P-M6",
+          "title": "Leaders and Well-being",
+          "theme_pt": "Liderança, citações famosas e bem-estar",
+          "can_do": [
+            "Relatar o que outras pessoas disseram",
+            "Falar de hipóteses e hábitos saudáveis",
+            "Discutir opções e tomar decisões"
+          ],
+          "lessons": [
+            {
+              "id": "B1P-M6-L1",
+              "title": "Famous quotes",
+              "grammar": "Reported speech",
+              "vocab": "Liderança"
+            },
+            {
+              "id": "B1P-M6-L2",
+              "title": "How did it happen?",
+              "grammar": "Past perfect em narrativas",
+              "vocab": "Biografias"
+            },
+            {
+              "id": "B1P-M6-L3",
+              "title": "If you walked every day...",
+              "grammar": "Second conditional",
+              "vocab": "Saúde, sono e hábitos"
+            },
+            {
+              "id": "B1P-M6-L4",
+              "title": "What are the options?",
+              "grammar": "Linguagem para comparar opções e decidir",
+              "vocab": "Tomada de decisão"
+            }
+          ]
+        }
+      ],
+      "folder": "B1P",
+      "sequence_note_pt": "Nível temático guiado pelo Keynote Intermediate: cada módulo parte de temas de TED Talks (indicadas com link na seção 🎬, sem reproduzir o conteúdo) e combina gramática B1+ com habilidades profissionais — entrevistas, apresentações, networking, ligações, reuniões e tomada de decisão. Termina com uma palestra final no estilo TED."
+    },
+    {
+      "id": "B2",
+      "name": "Nível 5 — Upper-Intermediate (B2)",
+      "description_pt": "O aluno argumenta, negocia, lê textos autênticos e participa de reuniões e debates com fluência e precisão. Foco em nuance: hipóteses sobre o passado, estruturas formais, conectores, linguagem persuasiva e estratégias de exame (Cambridge B2 First, IELTS).",
+      "hours_estimated": 90,
+      "sources": [
+        "CEFR / British Council–EAQUALS Core Inventory (B2)",
+        "TopNotch 3B Teacher's Book (unidades 6–10, como referência temática)",
+        "TED Talks (indicadas como material complementar)"
+      ],
+      "sequence_note_pt": "Não há livro B2 no acervo da escola: a sequência foi desenhada a partir do Core Inventory do CEFR para B2, aproveitando temas do TopNotch 3B (escolhas de vida, tradições, invenções, temas controversos). Cada aula retoma a gramática do B1+ e acrescenta nuance e registro formal.",
+      "status": "completo",
+      "folder": "B2",
+      "modules": [
+        {
+          "id": "B2-M1",
+          "title": "People and Perspectives",
+          "theme_pt": "Personalidade, relacionamentos, gerações e conversas delicadas",
+          "can_do": [
+            "Descrever hábitos presentes e passados com nuance (tend to, keep -ing, will/would)",
+            "Falar de relacionamentos com phrasal verbs",
+            "Fazer comparações sofisticadas",
+            "Suavizar opiniões em temas sensíveis (hedging)"
+          ],
+          "lessons": [
+            {
+              "id": "B2-M1-L1",
+              "title": "First impressions",
+              "grammar": "Hábitos: will / would / tend to / keep + -ing",
+              "vocab": "Personalidade e comportamento"
+            },
+            {
+              "id": "B2-M1-L2",
+              "title": "Getting on with people",
+              "grammar": "Phrasal verbs de relacionamento (separáveis e inseparáveis)",
+              "vocab": "Relacionamentos"
+            },
+            {
+              "id": "B2-M1-L3",
+              "title": "Generation gaps",
+              "grammar": "Comparações avançadas: the more... the more, far / slightly / nowhere near",
+              "vocab": "Gerações e mudanças sociais"
+            },
+            {
+              "id": "B2-M1-L4",
+              "title": "Handle with care",
+              "grammar": "Hedging: tend to, seem to, it could be argued, apparently",
+              "vocab": "Temas sensíveis e diplomacia"
+            }
+          ]
+        },
+        {
+          "id": "B2-M2",
+          "title": "Work in Progress",
+          "theme_pt": "Carreira, futuro do trabalho, negociação e reuniões",
+          "can_do": [
+            "Falar de planos com future continuous e future perfect",
+            "Falar de planos que mudaram (was going to, future in the past)",
+            "Negociar e fazer concessões",
+            "Conduzir e participar de reuniões (interromper, retomar, resumir)"
+          ],
+          "lessons": [
+            {
+              "id": "B2-M2-L1",
+              "title": "Where will you be in ten years?",
+              "grammar": "Future continuous e future perfect",
+              "vocab": "Carreira e metas"
+            },
+            {
+              "id": "B2-M2-L2",
+              "title": "It was going to be different",
+              "grammar": "Future in the past: was going to, would, was about to",
+              "vocab": "Planos e mudanças"
+            },
+            {
+              "id": "B2-M2-L3",
+              "title": "Let's make a deal",
+              "grammar": "Linguagem de negociação + condicionais (provided that, as long as, unless)",
+              "vocab": "Negociação"
+            },
+            {
+              "id": "B2-M2-L4",
+              "title": "Running a meeting",
+              "grammar": "Linguagem de reuniões: interromper, retomar, discordar, resumir",
+              "vocab": "Reuniões"
+            }
+          ]
+        },
+        {
+          "id": "B2-M3",
+          "title": "Media and Persuasion",
+          "theme_pt": "Notícias, opinião, publicidade, retórica e debate",
+          "can_do": [
+            "Relatar com reporting verbs e seus padrões (accuse of, persuade to)",
+            "Usar estruturas passivas de relato (is said to have)",
+            "Dar ênfase com cleft sentences",
+            "Debater com argumentos e contra-argumentos"
+          ],
+          "lessons": [
+            {
+              "id": "B2-M3-L1",
+              "title": "Who said what?",
+              "grammar": "Reporting verbs + padrões (verb + -ing / to / that / object)",
+              "vocab": "Imprensa e declarações"
+            },
+            {
+              "id": "B2-M3-L2",
+              "title": "It is believed that...",
+              "grammar": "Passive reporting: is thought to be / is said to have + pp",
+              "vocab": "Notícias e boatos"
+            },
+            {
+              "id": "B2-M3-L3",
+              "title": "The art of persuasion",
+              "grammar": "Cleft sentences e ênfase (What I need is... / It was X that...)",
+              "vocab": "Publicidade e retórica"
+            },
+            {
+              "id": "B2-M3-L4",
+              "title": "Let's debate",
+              "grammar": "Argumentar, contra-argumentar e concluir",
+              "vocab": "Debate"
+            }
+          ]
+        },
+        {
+          "id": "B2-M4",
+          "title": "What If...?",
+          "theme_pt": "Arrependimentos, escolhas de vida e hipóteses",
+          "can_do": [
+            "Falar de hipóteses no passado (third conditional)",
+            "Ligar passado e presente com mixed conditionals",
+            "Expressar arrependimentos e desejos (wish + past perfect, if only)",
+            "Usar alternativas ao if (supposing, provided, otherwise, but for)"
+          ],
+          "lessons": [
+            {
+              "id": "B2-M4-L1",
+              "title": "If I had known...",
+              "grammar": "Third conditional",
+              "vocab": "Escolhas e arrependimentos"
+            },
+            {
+              "id": "B2-M4-L2",
+              "title": "Life choices",
+              "grammar": "Mixed conditionals",
+              "vocab": "Decisões de vida"
+            },
+            {
+              "id": "B2-M4-L3",
+              "title": "I wish I'd listened",
+              "grammar": "wish / if only + past perfect / would; it's time; would rather + sujeito",
+              "vocab": "Arrependimentos e reclamações"
+            },
+            {
+              "id": "B2-M4-L4",
+              "title": "Suppose it happened",
+              "grammar": "Supposing, provided that, otherwise, but for, in case",
+              "vocab": "Cenários e planejamento"
+            }
+          ]
+        },
+        {
+          "id": "B2-M5",
+          "title": "Society and Change",
+          "theme_pt": "Cidades, desigualdade, tecnologia e escrita formal",
+          "can_do": [
+            "Usar relative clauses avançadas (preposição + which/whom, which para frase inteira)",
+            "Condensar ideias com participle clauses",
+            "Contrastar ideias com conectores formais",
+            "Escrever um ensaio argumentativo no formato B2"
+          ],
+          "lessons": [
+            {
+              "id": "B2-M5-L1",
+              "title": "The city we live in",
+              "grammar": "Relative clauses avançadas",
+              "vocab": "Urbanismo e moradia"
+            },
+            {
+              "id": "B2-M5-L2",
+              "title": "Having said that...",
+              "grammar": "Participle clauses (-ing / -ed / having + pp)",
+              "vocab": "Mudanças sociais"
+            },
+            {
+              "id": "B2-M5-L3",
+              "title": "On the other hand",
+              "grammar": "Conectores de contraste e concessão (although, despite, whereas, however)",
+              "vocab": "Desigualdade e tecnologia"
+            },
+            {
+              "id": "B2-M5-L4",
+              "title": "Writing an essay",
+              "grammar": "Estrutura de ensaio + linking words formais",
+              "vocab": "Educação"
+            }
+          ]
+        },
+        {
+          "id": "B2-M6",
+          "title": "Mind and Future",
+          "theme_pt": "Psicologia, criatividade, expressões idiomáticas e preparação final",
+          "can_do": [
+            "Especular e criticar o passado com modais perfeitos (needn't have, could have, would have)",
+            "Usar gerúndio e infinitivo em formas perfeitas e passivas",
+            "Usar collocations e expressões idiomáticas naturais",
+            "Fazer uma apresentação e uma prova oral no padrão B2"
+          ],
+          "lessons": [
+            {
+              "id": "B2-M6-L1",
+              "title": "You needn't have worried",
+              "grammar": "Modais no passado: needn't have, could have, would have, might have",
+              "vocab": "Erros, sorte e decisões"
+            },
+            {
+              "id": "B2-M6-L2",
+              "title": "Being understood",
+              "grammar": "Gerúndio e infinitivo avançados (perfect / passive: having done, to be told)",
+              "vocab": "Psicologia e comunicação"
+            },
+            {
+              "id": "B2-M6-L3",
+              "title": "Speaking like a native",
+              "grammar": "Collocations e expressões idiomáticas",
+              "vocab": "Linguagem natural"
+            },
+            {
+              "id": "B2-M6-L4",
+              "title": "Ready for B2",
+              "grammar": "Revisão geral + estratégias de exame (B2 First / IELTS)",
+              "vocab": "Prova oral e apresentação final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "C1",
+      "name": "Nível 6 — Advanced (C1)",
+      "description_pt": "O aluno usa o inglês com flexibilidade e precisão em contextos sociais, acadêmicos e profissionais: entende textos longos e implícitos, escreve textos bem estruturados, ajusta o registro e se expressa com fluência e espontaneidade, sem procurar palavras.",
+      "hours_estimated": 100,
+      "sources": [
+        "CEFR / British Council–EAQUALS Core Inventory (C1)",
+        "Cambridge C1 Advanced (formato de prova)",
+        "TED Talks (indicadas como material complementar)"
+      ],
+      "sequence_note_pt": "Não há livro C1 no acervo da escola: a sequência foi desenhada a partir dos descritores do CEFR para C1 e do formato da prova Cambridge C1 Advanced. O foco é nuance, registro, ênfase e coesão: estruturas que distinguem um usuário independente (B2) de um usuário proficiente.",
+      "status": "completo",
+      "folder": "C1",
+      "modules": [
+        {
+          "id": "C1-M1",
+          "title": "Identity and Belonging",
+          "theme_pt": "Identidade, cultura, língua e pertencimento",
+          "can_do": [
+            "Usar tempos verbais com nuance (stative verbs no continuous, passado 'tentativo')",
+            "Evitar repetição com elipse e substituição",
+            "Enfatizar ideias com do/did, fronting e so/such",
+            "Soar natural com discourse markers e vague language"
+          ],
+          "lessons": [
+            {
+              "id": "C1-M1-L1",
+              "title": "Who we are",
+              "grammar": "Nuances de tempos verbais: stative verbs no continuous, I was wondering, present perfect para novidades",
+              "vocab": "Identidade e personalidade"
+            },
+            {
+              "id": "C1-M1-L2",
+              "title": "Lost in translation",
+              "grammar": "Elipse e substituição (so, not, do so, one/ones, to)",
+              "vocab": "Língua e cultura"
+            },
+            {
+              "id": "C1-M1-L3",
+              "title": "Where I belong",
+              "grammar": "Ênfase: do/did enfático, fronting (Strange as it may seem), so/such... that",
+              "vocab": "Lar, migração interna e pertencimento"
+            },
+            {
+              "id": "C1-M1-L4",
+              "title": "Small talk, big impact",
+              "grammar": "Discourse markers da fala (mind you, as it happens, that said) e vague language (sort of, -ish, or so)",
+              "vocab": "Conversa informal e relações"
+            }
+          ]
+        },
+        {
+          "id": "C1-M2",
+          "title": "Work and Innovation",
+          "theme_pt": "Inovação, novas formas de trabalho, liderança e pitch",
+          "can_do": [
+            "Usar inversão com advérbios negativos",
+            "Escrever em registro formal com nominalização",
+            "Expressar probabilidade e atitude com modais avançados",
+            "Fazer um pitch persuasivo com recursos retóricos"
+          ],
+          "lessons": [
+            {
+              "id": "C1-M2-L1",
+              "title": "Disruption",
+              "grammar": "Inversão: Not only..., Never before..., Little did..., No sooner... than, Only when...",
+              "vocab": "Inovação e tecnologia"
+            },
+            {
+              "id": "C1-M2-L2",
+              "title": "The future of work",
+              "grammar": "Nominalização e registro formal",
+              "vocab": "Trabalho, plataformas e automação"
+            },
+            {
+              "id": "C1-M2-L3",
+              "title": "Leading people",
+              "grammar": "Modais avançados: might well, may as well, be bound to, should (probabilidade), could hardly",
+              "vocab": "Liderança e cultura organizacional"
+            },
+            {
+              "id": "C1-M2-L4",
+              "title": "Pitch perfect",
+              "grammar": "Recursos retóricos: regra de três, perguntas retóricas, cleft sentences, signposting",
+              "vocab": "Empreendedorismo e apresentações"
+            }
+          ]
+        },
+        {
+          "id": "C1-M3",
+          "title": "Science and Ethics",
+          "theme_pt": "Descobertas, bioética, dados e dilemas morais",
+          "can_do": [
+            "Usar passivas avançadas (modal passive, get passive, have something done)",
+            "Usar o subjuntivo e estruturas formais",
+            "Descrever dados e fazer hedging acadêmico",
+            "Argumentar sobre ética com orações concessivas"
+          ],
+          "lessons": [
+            {
+              "id": "C1-M3-L1",
+              "title": "Breakthroughs",
+              "grammar": "Passivas avançadas: modal + passive, get passive, have something done, verbos com dois objetos",
+              "vocab": "Ciência e descobertas"
+            },
+            {
+              "id": "C1-M3-L2",
+              "title": "Playing God?",
+              "grammar": "Subjuntivo e estruturas formais: insist that he be, it is vital that, should you need, were it not for",
+              "vocab": "Bioética e genética"
+            },
+            {
+              "id": "C1-M3-L3",
+              "title": "Reading the numbers",
+              "grammar": "Linguagem acadêmica: hedging, aproximações e descrição de dados (a threefold increase, peaked)",
+              "vocab": "Estatística e pesquisa"
+            },
+            {
+              "id": "C1-M3-L4",
+              "title": "Where do you stand?",
+              "grammar": "Concessão avançada: much as, however much, whatever, admittedly, be that as it may",
+              "vocab": "Dilemas éticos"
+            }
+          ]
+        },
+        {
+          "id": "C1-M4",
+          "title": "Arts and Expression",
+          "theme_pt": "Histórias, crítica, humor e o valor da arte",
+          "can_do": [
+            "Escrever descrições vívidas com adjetivos compostos e verbos precisos",
+            "Usar formação de palavras (prefixos e sufixos)",
+            "Expressar atitude com comment adverbs",
+            "Usar cleft sentences avançadas para focar e contrastar"
+          ],
+          "lessons": [
+            {
+              "id": "C1-M4-L1",
+              "title": "The power of stories",
+              "grammar": "Linguagem descritiva: adjetivos compostos, verbos expressivos, ordem de adjetivos",
+              "vocab": "Narrativa e literatura"
+            },
+            {
+              "id": "C1-M4-L2",
+              "title": "Everyone's a critic",
+              "grammar": "Formação de palavras: prefixos e sufixos (mis-, over-, -ness, -ity, -ize)",
+              "vocab": "Cinema, séries e críticas"
+            },
+            {
+              "id": "C1-M4-L3",
+              "title": "No laughing matter",
+              "grammar": "Comment adverbs e atitude: frankly, admittedly, arguably, needless to say; ironia e understatement",
+              "vocab": "Humor"
+            },
+            {
+              "id": "C1-M4-L4",
+              "title": "Art for art's sake",
+              "grammar": "Cleft sentences avançadas: All I..., The thing is..., It's not that... it's that...",
+              "vocab": "Arte, mercado e cultura"
+            }
+          ]
+        },
+        {
+          "id": "C1-M5",
+          "title": "Global Issues",
+          "theme_pt": "Clima, migração, desinformação e escrita discursiva",
+          "can_do": [
+            "Falar do futuro com formas formais (be set to, be on the verge of, be due to)",
+            "Usar multi-word verbs com sentido abstrato",
+            "Relatar informações com distanciamento",
+            "Escrever um ensaio discursivo C1 coeso"
+          ],
+          "lessons": [
+            {
+              "id": "C1-M5-L1",
+              "title": "Climate crossroads",
+              "grammar": "Futuro formal: be set to, be on the verge of, be due to, be poised to, is to",
+              "vocab": "Clima e energia"
+            },
+            {
+              "id": "C1-M5-L2",
+              "title": "On the move",
+              "grammar": "Multi-word verbs abstratos: bring about, stem from, account for, come up against",
+              "vocab": "Migração"
+            },
+            {
+              "id": "C1-M5-L3",
+              "title": "Truth and trust",
+              "grammar": "Distanciamento: allegedly, reportedly, is alleged to have, reporting verbs com nuance",
+              "vocab": "Desinformação e jornalismo"
+            },
+            {
+              "id": "C1-M5-L4",
+              "title": "Making the case",
+              "grammar": "Coesão: referência, substituição e conexão entre parágrafos; ensaio C1",
+              "vocab": "Políticas públicas"
+            }
+          ]
+        },
+        {
+          "id": "C1-M6",
+          "title": "Mastery",
+          "theme_pt": "Diplomacia, condicionais avançados, registro e preparação final",
+          "can_do": [
+            "Discordar e negociar com linguagem diplomática",
+            "Usar condicionais invertidos e variações formais",
+            "Alternar entre registros formal e informal",
+            "Fazer uma apresentação e uma prova no padrão C1"
+          ],
+          "lessons": [
+            {
+              "id": "C1-M6-L1",
+              "title": "Diplomatic language",
+              "grammar": "Linguagem diplomática: suavizadores, perguntas negativas, understatement",
+              "vocab": "Negociação e conflito"
+            },
+            {
+              "id": "C1-M6-L2",
+              "title": "Conditionals unlocked",
+              "grammar": "Condicionais avançados: Should you..., Were we to..., Had it not been for..., if + will/would, assuming",
+              "vocab": "Decisões e riscos"
+            },
+            {
+              "id": "C1-M6-L3",
+              "title": "Register switching",
+              "grammar": "Registro: formal x informal, phrasal verbs x verbos latinos, e-mail x mensagem",
+              "vocab": "Comunicação profissional"
+            },
+            {
+              "id": "C1-M6-L4",
+              "title": "Ready for C1",
+              "grammar": "Revisão geral + estratégias de exame (C1 Advanced / IELTS)",
+              "vocab": "Prova oral e apresentação final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "C2",
+      "name": "Nível 7 — Proficiency (C2)",
+      "description_pt": "O aluno compreende praticamente tudo o que ouve ou lê, resume e reconstrói argumentos de diferentes fontes e se expressa de forma espontânea, fluente e precisa, distinguindo nuances finas de sentido mesmo em situações complexas.",
+      "hours_estimated": 110,
+      "sources": [
+        "CEFR / British Council–EAQUALS Core Inventory e descritores C2 (incluindo mediação, CEFR Companion Volume)",
+        "Cambridge C2 Proficiency (formato de prova)",
+        "TED Talks (indicadas como material complementar)"
+      ],
+      "sequence_note_pt": "Não há livro C2 no acervo da escola: a sequência foi desenhada a partir dos descritores do CEFR para C2 (incluindo mediação) e do formato da prova Cambridge C2 Proficiency. O foco deixa de ser gramática nova e passa a ser precisão, estilo, retórica, variedade e flexibilidade de registro.",
+      "status": "completo",
+      "folder": "C2",
+      "modules": [
+        {
+          "id": "C2-M1",
+          "title": "Precision and Nuance",
+          "theme_pt": "Sinônimos, conotação, negação enfática, expressões fixas e orações absolutas",
+          "can_do": [
+            "Escolher entre quase-sinônimos pela conotação e pela collocation",
+            "Usar negação enfática e litotes (by no means, far from, not unlike)",
+            "Usar e adaptar binômios e expressões fixas",
+            "Condensar ideias com orações absolutas (The meeting over, ...)"
+          ],
+          "lessons": [
+            {
+              "id": "C2-M1-L1",
+              "title": "Shades of meaning",
+              "grammar": "Quase-sinônimos, conotação e precisão de collocation",
+              "vocab": "Caráter e comportamento"
+            },
+            {
+              "id": "C2-M1-L2",
+              "title": "Between the lines",
+              "grammar": "Negação enfática e litotes: by no means, far from, none too, not unlike",
+              "vocab": "Implicatura e subtexto"
+            },
+            {
+              "id": "C2-M1-L3",
+              "title": "Part and parcel",
+              "grammar": "Binômios, provérbios e expressões fixas (by and large, sooner or later) e sua manipulação criativa",
+              "vocab": "Linguagem idiomática"
+            },
+            {
+              "id": "C2-M1-L4",
+              "title": "All things considered",
+              "grammar": "Orações absolutas: Weather permitting, The meeting over, With prices rising...",
+              "vocab": "Viagem e narrativa"
+            }
+          ]
+        },
+        {
+          "id": "C2-M2",
+          "title": "Power and Persuasion",
+          "theme_pt": "Retórica, eufemismo, linguagem jurídica e discursos históricos",
+          "can_do": [
+            "Usar inversão e fronting literários (Gone are the days, Such is..., Nowhere is...)",
+            "Identificar e desmontar eufemismos e linguagem evasiva",
+            "Usar conectores formais raros (whereby, notwithstanding, lest, albeit, insofar as)",
+            "Analisar e produzir figuras retóricas (quiasmo, anáfora, paralelismo)"
+          ],
+          "lessons": [
+            {
+              "id": "C2-M2-L1",
+              "title": "The rhetoric of power",
+              "grammar": "Inversão e fronting literários: Gone are the days, Such is, Nowhere is this more..., So it was that",
+              "vocab": "Política e poder"
+            },
+            {
+              "id": "C2-M2-L2",
+              "title": "Spin",
+              "grammar": "Eufemismo, weasel words e passiva para ocultar o agente",
+              "vocab": "Comunicação corporativa e política"
+            },
+            {
+              "id": "C2-M2-L3",
+              "title": "The fine print",
+              "grammar": "Conectores formais: whereby, notwithstanding, insofar as, lest, albeit, hence, thereby",
+              "vocab": "Contratos e regras"
+            },
+            {
+              "id": "C2-M2-L4",
+              "title": "Words that moved nations",
+              "grammar": "Figuras retóricas: quiasmo, anáfora, paralelismo, antítese",
+              "vocab": "Discursos históricos"
+            }
+          ]
+        },
+        {
+          "id": "C2-M3",
+          "title": "Knowledge and Uncertainty",
+          "theme_pt": "Certeza, escrita acadêmica, história contrafactual e vieses cognitivos",
+          "can_do": [
+            "Graduar certeza com precisão (in all likelihood, can't possibly have, needn't necessarily)",
+            "Construir sintagmas nominais complexos no estilo acadêmico",
+            "Usar hipóteses complexas (would that, as though + irreal, if need be)",
+            "Comparar com nuance (not so much X as Y, all the more, no less than)"
+          ],
+          "lessons": [
+            {
+              "id": "C2-M3-L1",
+              "title": "Degrees of certainty",
+              "grammar": "Modalidade epistêmica fina: in all likelihood, there's every chance, can't possibly have, needn't necessarily",
+              "vocab": "Ciência e previsão"
+            },
+            {
+              "id": "C2-M3-L2",
+              "title": "The academic voice",
+              "grammar": "Sintagmas nominais complexos e verbos de citação (argue, contend, posit)",
+              "vocab": "Pesquisa e universidade"
+            },
+            {
+              "id": "C2-M3-L3",
+              "title": "History's what-ifs",
+              "grammar": "Hipóteses complexas: would that, as if/as though + irreal, suppose, if need be",
+              "vocab": "História contrafactual"
+            },
+            {
+              "id": "C2-M3-L4",
+              "title": "Thinking about thinking",
+              "grammar": "Comparações sofisticadas: not so much X as Y, all the more, no less than, none the wiser",
+              "vocab": "Vieses cognitivos"
+            }
+          ]
+        },
+        {
+          "id": "C2-M4",
+          "title": "Literature and Style",
+          "theme_pt": "Voz narrativa, som, pontuação e crítica",
+          "can_do": [
+            "Reconhecer e usar discurso indireto livre e presente histórico",
+            "Usar recursos sonoros (aliteração, assonância, ritmo)",
+            "Usar pontuação para efeito (ponto e vírgula, dois-pontos, travessão)",
+            "Escrever uma crítica literária ou artística em nível C2"
+          ],
+          "lessons": [
+            {
+              "id": "C2-M4-L1",
+              "title": "Reading like a writer",
+              "grammar": "Voz narrativa: discurso indireto livre e presente histórico",
+              "vocab": "Ficção"
+            },
+            {
+              "id": "C2-M4-L2",
+              "title": "The music of words",
+              "grammar": "Recursos sonoros: aliteração, assonância, onomatopeia, ritmo e métrica",
+              "vocab": "Poesia e música"
+            },
+            {
+              "id": "C2-M4-L3",
+              "title": "Punctuation with purpose",
+              "grammar": "Pontuação expressiva e variedade de frases (periódicas e cumulativas)",
+              "vocab": "Estilo"
+            },
+            {
+              "id": "C2-M4-L4",
+              "title": "The critic's voice",
+              "grammar": "Linguagem avaliativa e a review no formato C2 Proficiency",
+              "vocab": "Crítica cultural"
+            }
+          ]
+        },
+        {
+          "id": "C2-M5",
+          "title": "Language in the World",
+          "theme_pt": "Neologismos, Englishes do mundo, registro jurídico e resumo",
+          "can_do": [
+            "Entender e formar neologismos (blends, conversão, sufixos produtivos)",
+            "Reconhecer variedades do inglês e suas características",
+            "Entender a linguagem de obrigação jurídica (shall, be liable to)",
+            "Resumir e avaliar dois textos no formato C2 Proficiency"
+          ],
+          "lessons": [
+            {
+              "id": "C2-M5-L1",
+              "title": "New words, new worlds",
+              "grammar": "Neologismos: blends, conversão (to google, an ask), sufixos produtivos (-ify, -esque, -ism)",
+              "vocab": "Tecnologia e cultura digital"
+            },
+            {
+              "id": "C2-M5-L2",
+              "title": "Global Englishes",
+              "grammar": "Variedades do inglês: vocabulário, gramática e pronúncia (UK, US, India, Nigeria, Singapore...)",
+              "vocab": "Inglês como língua global"
+            },
+            {
+              "id": "C2-M5-L3",
+              "title": "Rights and duties",
+              "grammar": "Modais jurídicos e institucionais: shall, may not, be liable to, be entitled to",
+              "vocab": "Direitos e justiça"
+            },
+            {
+              "id": "C2-M5-L4",
+              "title": "In a nutshell",
+              "grammar": "Resumir e parafrasear: síntese de dois textos (C2 Proficiency Writing Part 1)",
+              "vocab": "Educação e sociedade"
+            }
+          ]
+        },
+        {
+          "id": "C2-M6",
+          "title": "Mastery",
+          "theme_pt": "Mediação, eloquência espontânea, registro nos extremos e preparação final",
+          "can_do": [
+            "Mediar: explicar ideias complexas para públicos diferentes",
+            "Gerenciar a interação com naturalidade (tomar a palavra, reformular, retomar)",
+            "Transitar entre registros extremos (literário, técnico, gíria)",
+            "Fazer uma prova e uma apresentação no padrão C2"
+          ],
+          "lessons": [
+            {
+              "id": "C2-M6-L1",
+              "title": "The mediator",
+              "grammar": "Mediação: simplificar, reformular e adaptar ideias complexas",
+              "vocab": "Ciência para o público"
+            },
+            {
+              "id": "C2-M6-L2",
+              "title": "Thinking on your feet",
+              "grammar": "Gerenciamento da interação: tomar e manter a palavra, autocorreção, ganhar tempo",
+              "vocab": "Debate e improviso"
+            },
+            {
+              "id": "C2-M6-L3",
+              "title": "Register at the edges",
+              "grammar": "Do arcaico à gíria: registros extremos e quando usá-los",
+              "vocab": "Língua em transformação"
+            },
+            {
+              "id": "C2-M6-L4",
+              "title": "Ready for C2",
+              "grammar": "Revisão geral + estratégias de exame (C2 Proficiency / IELTS)",
+              "vocab": "Prova e apresentação final"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

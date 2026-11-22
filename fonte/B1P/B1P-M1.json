@@ -1,0 +1,545 @@
+{
+  "id": "B1P-M1",
+  "level": "B1+",
+  "title": "Work and Trends",
+  "theme_pt": "Mundo do trabalho, habilidades, tendências e entrevistas",
+  "can_do": ["Discutir o que torna um trabalho significativo", "Diferenciar ações de estados (present simple x continuous, stative verbs)", "Usar verb patterns com segurança para falar de habilidades e qualidades", "Contar como uma tendência ou movimento começou", "Responder perguntas de entrevista com perguntas indiretas e estrutura clara"],
+  "lessons": [
+    {
+      "id": "B1P-M1-L1",
+      "title": "What makes a good job?",
+      "subtitle_pt": "Present simple x continuous e stative verbs avançados",
+      "duration_min": 70,
+      "source_refs": ["Keynote Intermediate – Unit 1 (Working life)", "Keynote Intermediate Videos – TED Talks playlist"],
+      "objectives": ["Usar present simple e continuous para rotinas, tendências e situações temporárias", "Entender verbos que mudam de sentido no continuous (think, have, see, feel)", "Discutir fatores de satisfação no trabalho", "Entender a ideia central de uma palestra curta"],
+      "warmup": {
+        "text_pt": "Salário, propósito, flexibilidade, colegas? Se você tivesse que escolher só um fator para definir um bom trabalho, qual seria? No B1+, cada aula parte de uma ideia de TED Talk — e você vai discutir ideias, não só gramática.",
+        "questions": ["What's more important to you: salary or purpose?", "What do you love and hate about your work or studies?"]
+      },
+      "vocabulary": [
+        {"en": "job satisfaction", "pt": "satisfação no trabalho", "say": "djób satisfékshon"},
+        {"en": "meaningful / rewarding", "pt": "significativo / gratificante", "say": "míninful / riuórdin"},
+        {"en": "purpose", "pt": "propósito", "say": "pârpos"},
+        {"en": "flexible hours", "pt": "horário flexível", "say": "fléksibol áuerz"},
+        {"en": "workload", "pt": "carga de trabalho", "say": "uórkloud"},
+        {"en": "perks / benefits", "pt": "vantagens / benefícios", "say": "pârks / bénefits"},
+        {"en": "career ladder", "pt": "plano de carreira, escada profissional", "say": "karír léder"},
+        {"en": "to volunteer", "pt": "ser voluntário", "say": "tu volantír"},
+        {"en": "to make a difference", "pt": "fazer a diferença", "say": "tu mêik a díferens"},
+        {"en": "burnout", "pt": "esgotamento profissional", "say": "bârnaut"},
+        {"en": "the Great Resignation", "pt": "a \"Grande Renúncia\" (onda de demissões voluntárias)", "say": "dâ grêit rezignêishon"},
+        {"en": "to be on a (low / high) salary", "pt": "ganhar um salário (baixo / alto)", "say": "tu bí on a sélari"}
+      ],
+      "chunks": [
+        {"en": "What I love about my job is...", "pt": "O que eu amo no meu trabalho é..."},
+        {"en": "I'm working on a new project at the moment.", "pt": "Estou trabalhando num projeto novo no momento."},
+        {"en": "More and more people are choosing remote work.", "pt": "Cada vez mais pessoas estão escolhendo o trabalho remoto."},
+        {"en": "I'm thinking about changing careers.", "pt": "Estou pensando em mudar de carreira."},
+        {"en": "It's not about the money.", "pt": "Não é pelo dinheiro."},
+        {"en": "I feel like I'm making a difference.", "pt": "Sinto que estou fazendo a diferença."}
+      ],
+      "grammar": {
+        "title": "Present simple x continuous: além do básico",
+        "explanation_pt": "Você já sabe o básico: simple = rotina/fatos; continuous = agora/temporário. No B1+, acrescente:\n\n**Present continuous para tendências e mudanças em andamento:**\n\"More people **are working** from home.\" / \"Salaries **are rising**.\" / \"The job market **is changing** fast.\"\n\n**Present simple para estados permanentes e opiniões:**\n\"I **believe** that work should have purpose.\" / \"This job **requires** patience.\"\n\n**Verbos com dois sentidos** — são stative num sentido e de ação em outro:\n- **think**: \"I **think** it's a good idea\" (opinião = simple) x \"I**'m thinking** about quitting\" (processo de pensar = continuous)\n- **have**: \"She **has** two jobs\" (posse) x \"She**'s having** a hard time\" (experiência)\n- **see**: \"I **see** what you mean\" (entender) x \"I**'m seeing** a client at 3\" (encontrar)\n- **feel**: \"I **feel** that...\" (opinião) x \"I**'m feeling** tired today\" (sensação agora — ambos possíveis)\n- **be**: \"He **is** rude\" (característica) x \"He**'s being** rude\" (comportamento temporário, agora)\n\n**Always + continuous** = hábito irritante: \"My boss **is always changing** deadlines!\"",
+        "table": {
+          "headers": ["Stative (simple)", "Ação / processo (continuous)"],
+          "rows": [["I think remote work is better.", "I'm thinking of applying for the job."], ["We have a great team.", "We're having a meeting now."], ["I see the problem.", "I'm seeing my mentor tomorrow."], ["She is very patient.", "She's being very patient today."], ["This costs too much.", "Prices are rising every month."]]
+        },
+        "examples": [
+          {"en": "More and more companies are offering four-day weeks.", "pt": "Cada vez mais empresas estão oferecendo semanas de quatro dias."},
+          {"en": "I'm thinking about volunteering on weekends.", "pt": "Estou pensando em fazer trabalho voluntário nos fins de semana."},
+          {"en": "My colleague is always taking credit for my ideas!", "pt": "Meu colega está sempre levando crédito pelas minhas ideias!"}
+        ],
+        "tip_pt": "Para falar de **mudanças graduais**, combine continuous com **get / become / increase / decrease / more and more**: \"Housing **is getting more expensive**.\""
+      },
+      "common_mistakes": [
+        {"wrong": "I'm thinking that it's a good idea.", "right": "I think it's a good idea.", "why_pt": "Opinião = think no simple."},
+        {"wrong": "Nowadays more people work from home more and more.", "right": "Nowadays more and more people are working from home.", "why_pt": "Tendências em andamento = present continuous."},
+        {"wrong": "I'm having a car.", "right": "I have a car.", "why_pt": "Have como posse não usa -ing."}
+      ],
+      "pronunciation": {
+        "focus": "Palavras com sílaba tônica deslocada",
+        "tip_pt": "Atenção à tônica: **purpose** (PÂR-pos), **rewarding** (ri-UÓR-din), **volunteer** (vo-lan-TÍR), **career** (ka-RÍR — não \"KÉ-rier\"). Errar a tônica atrapalha mais a compreensão do que errar um som.",
+        "practice": ["PURpose · reWARDing · volunTEER · caREER", "I want a career with purpose.", "Volunteering is very rewarding."]
+      },
+      "dialogue": {
+        "title": "Rethinking work",
+        "context_pt": "Duas amigas conversam num café sobre carreira e propósito.",
+        "lines": [
+          {"speaker": "Luana", "en": "You look different. Happier. What's going on?", "pt": "Você está diferente. Mais feliz. O que está acontecendo?"},
+          {"speaker": "Camila", "en": "Well, I'm volunteering at a community kitchen on Saturdays. I'm loving it.", "pt": "Bom, estou fazendo trabalho voluntário numa cozinha comunitária aos sábados. Estou amando."},
+          {"speaker": "Luana", "en": "That's great! But aren't you exhausted? You work sixty hours a week.", "pt": "Que ótimo! Mas você não está exausta? Você trabalha sessenta horas por semana."},
+          {"speaker": "Camila", "en": "That's the strange thing. My job pays well, but I don't feel I'm making a difference. On Saturdays I do.", "pt": "Essa é a parte estranha. Meu emprego paga bem, mas não sinto que faço diferença. Aos sábados, sinto."},
+          {"speaker": "Luana", "en": "I know what you mean. I'm thinking about changing careers too, actually.", "pt": "Sei o que você quer dizer. Na verdade, também estou pensando em mudar de carreira."},
+          {"speaker": "Camila", "en": "Really? I thought you loved marketing.", "pt": "Sério? Achei que você amava marketing."},
+          {"speaker": "Luana", "en": "I do — but my manager is always changing priorities, and the workload is getting worse. I'm not quitting tomorrow. I'm just... exploring.", "pt": "Amo — mas minha gestora está sempre mudando as prioridades, e a carga de trabalho está piorando. Não vou pedir demissão amanhã. Só estou... explorando."},
+          {"speaker": "Camila", "en": "Exploring is good. More and more people are doing it.", "pt": "Explorar é bom. Cada vez mais gente está fazendo isso."}
+        ]
+      },
+      "listening": {
+        "title": "Radio: the new world of work",
+        "context_pt": "Um economista comenta tendências do mercado de trabalho.",
+        "lines": [
+          {"speaker": "Host", "en": "How is the world of work changing?"},
+          {"speaker": "Economist", "en": "In several ways. First, more people are choosing flexibility over higher salaries. Many workers say they'd accept less money for hybrid work. Second, young professionals are looking for purpose — they want to know that their company is doing something positive."},
+          {"speaker": "Host", "en": "And artificial intelligence?"},
+          {"speaker": "Economist", "en": "AI is changing many jobs, but it isn't replacing most of them — at least not yet. People who learn to use AI tools are becoming more productive. The skills that matter most now are the human ones: creativity, empathy and communication."}
+        ],
+        "questions": [
+          {"q": "What are more people choosing over higher salaries?", "answer": "Flexibility (hybrid work)."},
+          {"q": "What are young professionals looking for?", "answer": "Purpose — companies doing something positive."},
+          {"q": "Is AI replacing most jobs, according to the economist?", "answer": "No, not yet — it's changing them."},
+          {"q": "Which skills matter most now?", "answer": "Human skills: creativity, empathy and communication."}
+        ]
+      },
+      "video": {
+        "title": "A life lesson from a volunteer firefighter",
+        "speaker": "Mark Bezos",
+        "url": "https://www.ted.com/search?q=a+life+lesson+from+a+volunteer+firefighter",
+        "playlist": "https://www.youtube.com/watch?v=sAQfzHBpRsc&list=PLdIk6oC5e9pYKMTeYKp9dEOSeoNEEJ0BJ",
+        "task_pt": "Assista à palestra (cerca de 4 minutos) primeiro sem legenda, depois com legenda em inglês. Anote 3 palavras novas e responda:",
+        "questions": ["What's the speaker's main message, in one sentence?", "Why do you think the small action in his story mattered so much?", "Have you ever done something small that made a big difference to someone?", "Do you agree that we shouldn't wait to be heroes? Why?"]
+      },
+      "reading": {
+        "title": "The meaning of work",
+        "text": "For decades, the typical career path was simple: study, get a stable job, climb the career ladder and retire. Today, many workers are questioning that model. Surveys in several countries suggest that a large number of employees — especially younger ones — are prepared to leave a job that doesn't match their values. Researchers who study job satisfaction say that money matters, but only up to a point. Once people earn enough to live comfortably, other factors become more important: autonomy (control over how you work), mastery (the feeling that you're improving) and purpose (the sense that your work matters to others). Interestingly, purpose doesn't require a \"heroic\" job. Hospital cleaners who see their role as helping patients recover often report high satisfaction. In other words, meaning doesn't only come from what we do, but from how we think about what we do.",
+        "questions": [
+          {"q": "What was the typical career path in the past?", "answer": "Study, get a stable job, climb the career ladder and retire."},
+          {"q": "What do researchers say about money?", "answer": "It matters, but only up to a point."},
+          {"q": "What are the three other factors?", "answer": "Autonomy, mastery and purpose."},
+          {"q": "What's the point of the hospital cleaners example?", "answer": "Meaning comes from how we think about our work, not only from the job itself."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Simple or continuous?", "instruction": "Choose the correct form.", "instruction_pt": "Escolha a forma correta.",
+         "items": [{"prompt": "I ___ that purpose is more important than money.", "options": ["think", "'m thinking"], "answer": "think"}, {"prompt": "I ___ about applying for a job in Lisbon.", "options": ["think", "'m thinking"], "answer": "'m thinking"}, {"prompt": "More and more people ___ freelance work.", "options": ["choose", "are choosing"], "answer": "are choosing"}, {"prompt": "She ___ two kids and a full-time job.", "options": ["has", "is having"], "answer": "has"}, {"prompt": "He ___ really unprofessional today. That's not like him.", "options": ["is", "is being"], "answer": "is being"}, {"prompt": "My boss ___ me messages at midnight! It's so annoying.", "options": ["always sends", "is always sending"], "answer": "is always sending"}]},
+        {"id": "ex2", "type": "fill_blank", "title": "Trends", "instruction": "Complete the sentences about trends with the present continuous.", "instruction_pt": "Complete as frases sobre tendências com o present continuous.",
+         "items": [{"prompt": "The cost of living ___ (rise) in big cities.", "answer": "is rising"}, {"prompt": "Companies ___ (invest) more in mental health.", "answer": "are investing"}, {"prompt": "Traditional office jobs ___ (become) less common.", "answer": "are becoming"}, {"prompt": "AI ___ (change) the way we write emails.", "answer": "is changing"}]},
+        {"id": "ex3", "type": "match", "title": "Work vocabulary", "instruction": "Write the English expression.", "instruction_pt": "Escreva a expressão em inglês.",
+         "items": [{"prompt": "carga de trabalho", "answer": "workload"}, {"prompt": "gratificante", "answer": "rewarding"}, {"prompt": "fazer a diferença", "answer": "make a difference"}, {"prompt": "esgotamento", "answer": "burnout"}, {"prompt": "vantagens (do emprego)", "answer": "perks / benefits"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "More and more people are choosing remote work."}, {"prompt": "2", "answer": "I'm thinking about changing careers."}, {"prompt": "3", "answer": "It's not about the money."}, {"prompt": "4", "answer": "I feel like I'm making a difference."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "I'm believing that work should have purpose.", "answer": "I believe that work should have purpose."}, {"prompt": "Nowadays, salaries rise very slowly in my sector. (tendência atual)", "answer": "Nowadays, salaries are rising very slowly in my sector."}, {"prompt": "I'm seeing what you mean.", "answer": "I see what you mean."}, {"prompt": "We're having a great office with a view.", "answer": "We have a great office with a view."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the conversation", "instruction": "Complete with: thinking · difference · workload · rewarding · always.", "instruction_pt": "Complete a conversa.",
+         "items": [{"prompt": "A: How's the new job? — B: Hard, but very ___.", "answer": "rewarding"}, {"prompt": "B: I feel I'm making a real ___.", "answer": "difference"}, {"prompt": "A: Lucky you! My ___ is crazy, and my manager is ___ changing plans.", "answer": "workload / always"}, {"prompt": "B: Are you ___ of leaving?", "answer": "thinking"}]}
+      ],
+      "speaking": {
+        "instruction": "Discussion: rank these job factors from 1 to 6 (salary, purpose, flexibility, colleagues, learning, stability) and defend your ranking with examples.",
+        "instruction_pt": "Discussão: classifique estes fatores de 1 a 6 (salário, propósito, flexibilidade, colegas, aprendizado, estabilidade) e defenda sua ordem com exemplos.",
+        "questions": ["What makes a job meaningful for you?", "How is the job market changing in your country?", "Would you accept a lower salary for more flexibility?", "Have you ever volunteered? What was it like?", "What's something your workplace or school is always doing that annoys you?"]
+      },
+      "writing": {
+        "task": "Write an opinion paragraph (150–180 words): \"Is purpose more important than salary?\" Use present simple for opinions and present continuous for current trends.",
+        "task_pt": "Escreva um parágrafo de opinião (150–180 palavras): \"Propósito é mais importante que salário?\" Use present simple para opiniões e present continuous para tendências atuais.",
+        "model": "In my opinion, purpose and salary are both important, but purpose becomes more important once you earn enough to live comfortably. Today, more and more people are leaving well-paid jobs because they don't feel their work matters. I understand them. A few years ago, I was working for a company that paid very well, but I felt empty at the end of every day. Now I'm working for an education startup. I earn a little less, but I see the impact of my work when students tell me they've learned something new. That said, I don't think everyone has the privilege of choosing purpose over money. Many people are struggling to pay their bills, and for them, a stable salary is the priority. So I believe the ideal job offers both: a fair salary and a sense that you're contributing to something bigger than yourself."
+      },
+      "culture_note": {
+        "title": "Quiet quitting e Great Resignation",
+        "text_pt": "Dois termos que viralizaram depois de 2021: **the Great Resignation** (a onda de pessoas pedindo demissão nos EUA) e **quiet quitting** (fazer só o mínimo exigido, sem \"vestir a camisa\"). Ambos mostram uma mudança na relação com o trabalho — ótimos temas para debate."
+      },
+      "summary_pt": ["Continuous para tendências: More people are working...", "think / have / see / be mudam de sentido.", "always + continuous = hábito irritante.", "autonomy, mastery, purpose = satisfação no trabalho."]
+    },
+    {
+      "id": "B1P-M1-L2",
+      "title": "Have you got what it takes?",
+      "subtitle_pt": "Verb patterns: verbo + objeto + infinitivo e expressões fixas",
+      "duration_min": 65,
+      "source_refs": ["Keynote Intermediate – Unit 1.3 (Have you got what it takes?)", "Keynote Intermediate – Grammar summary (verb patterns)"],
+      "objectives": ["Usar verbo + objeto + to (want someone to, ask someone to, tell someone to)", "Usar make / let + objeto + verbo base", "Usar adjetivo + preposição + -ing (capable of, keen on, good at)", "Descrever qualidades necessárias para uma profissão"],
+      "warmup": {
+        "text_pt": "O que é preciso para ser um bom médico? E um bom professor, piloto ou empreendedor? Em inglês, \"ter o que é preciso\" é **to have what it takes**.",
+        "questions": ["Have you got what it takes to be a teacher? Why?", "Which job would be impossible for you?"]
+      },
+      "vocabulary": [
+        {"en": "what it takes", "pt": "o que é preciso", "say": "uót it têiks"},
+        {"en": "to be capable of", "pt": "ser capaz de", "say": "kêipabol ov"},
+        {"en": "to be keen on", "pt": "gostar muito de, ter interesse em", "say": "kín on"},
+        {"en": "to be committed to", "pt": "ser comprometido com", "say": "komítid tu"},
+        {"en": "resilient", "pt": "resiliente", "say": "rizílient"},
+        {"en": "to work under pressure", "pt": "trabalhar sob pressão", "say": "ânder préshur"},
+        {"en": "to take the initiative", "pt": "tomar a iniciativa", "say": "tu têik dâ iníshiativ"},
+        {"en": "a team player", "pt": "alguém que trabalha bem em equipe", "say": "a tím plêier"},
+        {"en": "a quick learner", "pt": "alguém que aprende rápido", "say": "a kuík lârner"},
+        {"en": "attention to detail", "pt": "atenção aos detalhes", "say": "aténshon tu díteil"},
+        {"en": "to encourage", "pt": "incentivar", "say": "tu inkâridj"},
+        {"en": "to persuade", "pt": "convencer, persuadir", "say": "tu persuêid"}
+      ],
+      "chunks": [
+        {"en": "My parents encouraged me to study medicine.", "pt": "Meus pais me incentivaram a estudar medicina."},
+        {"en": "My boss lets me work from home.", "pt": "Meu chefe me deixa trabalhar de casa."},
+        {"en": "The job made me become more patient.", "pt": "O trabalho me fez ficar mais paciente."},
+        {"en": "I'm capable of working under pressure.", "pt": "Sou capaz de trabalhar sob pressão."},
+        {"en": "She's keen on learning new things.", "pt": "Ela gosta muito de aprender coisas novas."},
+        {"en": "Do you think you've got what it takes?", "pt": "Você acha que tem o que é preciso?"}
+      ],
+      "grammar": {
+        "title": "Verb + object + infinitive / make & let",
+        "explanation_pt": "No B1 você viu **verbo + -ing** e **verbo + to**. Agora, o padrão com **objeto** (a pessoa que recebe a ação):\n\n**verbo + objeto + to + verbo**\nwant, ask, tell, expect, encourage, allow, persuade, remind, advise, teach, need, would like\n- \"My manager **wants me to lead** the project.\"\n- \"She **asked us to arrive** early.\"\n- \"My teacher **encouraged me to apply**.\"\n- \"They don't **allow employees to use** their phones.\"\n\n⚠️ Em português dizemos \"quero **que você** venha\"; em inglês **nunca** use \"that\" aqui: ❌ \"I want that you come\" ✅ \"I want **you to come**.\"\n\n**make / let + objeto + verbo base (sem to):**\n- **make** = obrigar, fazer com que: \"My first boss **made me redo** the report three times.\"\n- **let** = deixar, permitir: \"My company **lets us work** from anywhere.\"\n- (allow = let, mas com to: \"They **allow us to work**...\")\n\n**Adjetivo + preposição + -ing:**\ngood **at**, capable **of**, keen **on**, interested **in**, used **to**, committed **to**, responsible **for**, tired **of**\n- \"She's **capable of managing** a big team.\" / \"I'm **committed to improving** my English.\"",
+        "table": {
+          "headers": ["Padrão", "Verbos", "Exemplo"],
+          "rows": [["verb + object + to", "want, ask, tell, encourage, allow, expect", "They asked me to stay late."], ["make + object + base", "make (obrigar/causar)", "The movie made me cry."], ["let + object + base", "let (permitir)", "Let me help you."], ["adj + prep + -ing", "good at, keen on, capable of", "He's good at solving problems."]]
+        },
+        "examples": [
+          {"en": "To be a pilot, you need to be capable of making quick decisions under pressure.", "pt": "Para ser piloto, você precisa ser capaz de tomar decisões rápidas sob pressão."},
+          {"en": "My mentor persuaded me to take the leadership course.", "pt": "Minha mentora me convenceu a fazer o curso de liderança."},
+          {"en": "My parents never let me quit anything I started — and I'm grateful now.", "pt": "Meus pais nunca me deixaram desistir de nada que comecei — e hoje sou grato."}
+        ],
+        "tip_pt": "**Let me** + verbo é uma expressão muito útil: \"**Let me** check\" (deixa eu ver), \"**Let me** explain\", \"**Let me** know\" (me avisa)."
+      },
+      "common_mistakes": [
+        {"wrong": "My boss wants that I travel.", "right": "My boss wants me to travel.", "why_pt": "Want + objeto + to (sem that)."},
+        {"wrong": "She made me to wait.", "right": "She made me wait.", "why_pt": "Make + objeto + verbo base (sem to)."},
+        {"wrong": "He's very good in solving problems.", "right": "He's very good at solving problems.", "why_pt": "Good at + -ing."}
+      ],
+      "pronunciation": {
+        "focus": "Let me = \"lémi\", want you to = \"uóntchu tu\"",
+        "tip_pt": "**Let me** se funde em \"**lémi**\" (\"Lemme check\"). **Want you to** vira \"**uóntchu tu**\" e **asked me to** fica \"**ésktmi tu**\". Na fala, ouça os blocos, não as palavras isoladas.",
+        "practice": ["Let me check. (\"lémi tchék\")", "I want you to meet my boss.", "She asked me to stay."]
+      },
+      "dialogue": {
+        "title": "Career counseling",
+        "context_pt": "Um jovem conversa com uma orientadora vocacional sobre seguir a carreira de enfermagem.",
+        "lines": [
+          {"speaker": "Counselor", "en": "So, Lucas, why nursing?", "pt": "Então, Lucas, por que enfermagem?"},
+          {"speaker": "Lucas", "en": "My grandmother was ill for a long time, and the nurses who looked after her really inspired me. One of them even encouraged me to apply.", "pt": "Minha avó ficou doente por muito tempo, e as enfermeiras que cuidaram dela me inspiraram. Uma delas até me incentivou a me candidatar."},
+          {"speaker": "Counselor", "en": "That's a beautiful reason. But do you think you've got what it takes? It's physically and emotionally demanding.", "pt": "É um motivo lindo. Mas você acha que tem o que é preciso? É exigente física e emocionalmente."},
+          {"speaker": "Lucas", "en": "I think so. I'm good at staying calm in difficult situations, and I'm capable of working long hours.", "pt": "Acho que sim. Sou bom em manter a calma em situações difíceis, e sou capaz de trabalhar muitas horas."},
+          {"speaker": "Counselor", "en": "What about your family? Do they support you?", "pt": "E sua família? Eles te apoiam?"},
+          {"speaker": "Lucas", "en": "My dad wanted me to study engineering, but I persuaded him to let me try. He just asked me to finish what I start.", "pt": "Meu pai queria que eu estudasse engenharia, mas convenci ele a me deixar tentar. Ele só me pediu para terminar o que eu começar."},
+          {"speaker": "Counselor", "en": "Great. I'd like you to do a week of volunteering at a hospital before you decide. It'll make you see the reality of the job.", "pt": "Ótimo. Eu gostaria que você fizesse uma semana de voluntariado num hospital antes de decidir. Vai te fazer ver a realidade da profissão."}
+        ]
+      },
+      "listening": {
+        "title": "What does it take to be a chef?",
+        "context_pt": "Uma chef famosa responde perguntas em um podcast.",
+        "lines": [
+          {"speaker": "Chef", "en": "People see the TV shows and think being a chef is glamorous. It isn't. My first boss made me clean the kitchen floor every night for six months before he let me cook anything. He wanted me to understand that every job in a kitchen matters. To be a chef, you need to be capable of working fourteen-hour days, standing up, in a hot kitchen. You have to be good at taking criticism, too. But if you're truly passionate about food, nothing is more rewarding. My advice to young cooks? Ask your chef to teach you everything — and never be too proud to wash the dishes."}
+        ],
+        "questions": [
+          {"q": "What did her first boss make her do?", "answer": "Clean the kitchen floor every night for six months."},
+          {"q": "Why did he do that?", "answer": "He wanted her to understand that every job in a kitchen matters."},
+          {"q": "What do chefs need to be capable of?", "answer": "Working fourteen-hour days, standing up, in a hot kitchen."},
+          {"q": "What's her advice to young cooks?", "answer": "Ask your chef to teach you everything and never be too proud to wash the dishes."}
+        ]
+      },
+      "reading": {
+        "title": "Grit: the secret ingredient?",
+        "text": "Why do some people succeed while others with the same talent give up? Psychologist Angela Duckworth spent years studying this question with groups as different as military cadets, salespeople and children in spelling competitions. Her answer was a quality she called \"grit\": a combination of passion and perseverance for long-term goals. According to her research, grit was often a better predictor of success than talent or IQ. Gritty people aren't necessarily the most intelligent; they're the ones who keep going after failure. The good news is that grit can be developed. Parents and teachers can encourage children to finish what they start, let them experience small failures, and teach them to see mistakes as part of learning. Some critics argue that the concept is too similar to older ideas like conscientiousness, but the message remains popular: talent is important, but effort counts twice.",
+        "questions": [
+          {"q": "What is grit, according to Duckworth?", "answer": "A combination of passion and perseverance for long-term goals."},
+          {"q": "What was grit often a better predictor of success than?", "answer": "Talent or IQ."},
+          {"q": "How can parents and teachers develop grit?", "answer": "Encourage children to finish what they start, let them experience small failures, teach them to see mistakes as learning."},
+          {"q": "What do some critics argue?", "answer": "That the concept is too similar to older ideas like conscientiousness."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "fill_blank", "title": "verb + object + to", "instruction": "Rewrite with the verb in parentheses + object + to.", "instruction_pt": "Reescreva com o verbo entre parênteses + objeto + to.",
+         "items": [{"prompt": "\"Please stay late,\" my boss said to me. (ask) → My boss ___.", "answer": "asked me to stay late"}, {"prompt": "\"You should apply!\" my teacher told me. (encourage) → My teacher ___.", "answer": "encouraged me to apply"}, {"prompt": "\"Don't forget the meeting,\" she told us. (remind) → She ___ the meeting.", "answer": "reminded us not to forget"}, {"prompt": "The company says employees can work from home. (allow) → The company ___ from home.", "answer": "allows employees to work"}]},
+        {"id": "ex2", "type": "multiple_choice", "title": "make or let?", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+         "items": [{"prompt": "My parents ___ me stay out late when I was 16. They were cool.", "options": ["let", "made"], "answer": "let"}, {"prompt": "The teacher ___ us rewrite the essay. We had no choice.", "options": ["let", "made"], "answer": "made"}, {"prompt": "That movie made me ___.", "options": ["cry", "to cry", "crying"], "answer": "cry"}, {"prompt": "My manager wants me ___ the presentation.", "options": ["do", "to do", "doing"], "answer": "to do"}]},
+        {"id": "ex3", "type": "fill_blank", "title": "Adjective + preposition", "instruction": "Complete with the correct preposition: at · of · on · to · for.", "instruction_pt": "Complete com a preposição correta.",
+         "items": [{"prompt": "She's very good ___ negotiating.", "answer": "at"}, {"prompt": "I'm not capable ___ lying.", "answer": "of"}, {"prompt": "He's keen ___ learning Japanese.", "answer": "on"}, {"prompt": "We're committed ___ reducing waste.", "answer": "to"}, {"prompt": "Who's responsible ___ hiring new staff?", "answer": "for"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "My parents encouraged me to study medicine."}, {"prompt": "2", "answer": "My boss lets me work from home."}, {"prompt": "3", "answer": "I'm capable of working under pressure."}, {"prompt": "4", "answer": "Do you think you've got what it takes?"}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "I want that you meet my team.", "answer": "I want you to meet my team."}, {"prompt": "My boss made me to work on Sunday.", "answer": "My boss made me work on Sunday."}, {"prompt": "She's keen in photography.", "answer": "She's keen on photography."}, {"prompt": "They let us to leave early.", "answer": "They let us leave early."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Job ad", "instruction": "Complete the job ad with: player · pressure · detail · initiative · what.", "instruction_pt": "Complete o anúncio de vaga.",
+         "items": [{"prompt": "Have you got ___ it takes to join our team?", "answer": "what"}, {"prompt": "We're looking for a team ___ who can work under ___.", "answer": "player / pressure"}, {"prompt": "You must have great attention to ___.", "answer": "detail"}, {"prompt": "We want people who take the ___ and suggest new ideas.", "answer": "initiative"}]}
+      ],
+      "speaking": {
+        "instruction": "\"What it takes\": in groups, choose 3 jobs (e.g., astronaut, nurse, YouTuber). List the qualities needed and decide who in the group has what it takes for each one.",
+        "instruction_pt": "\"O que é preciso\": em grupos, escolham 3 profissões (ex.: astronauta, enfermeiro, youtuber). Listem as qualidades necessárias e decidam quem do grupo tem o que é preciso para cada uma.",
+        "questions": ["Who encouraged you to study what you studied?", "What did your parents make you do when you were a child?", "What does your workplace or school let you do?", "What are you really good at?", "Do you think grit is more important than talent?"]
+      },
+      "writing": {
+        "task": "Write a short personal statement (150–180 words) for a job or scholarship explaining why you have what it takes. Use verb patterns from this lesson.",
+        "task_pt": "Escreva uma carta de motivação curta (150–180 palavras) para uma vaga ou bolsa explicando por que você tem o que é preciso. Use os verb patterns desta aula.",
+        "model": "I'm applying for the Youth Leadership Scholarship because I believe I've got what it takes to make a difference in my community. Growing up in a small town in Piauí, I saw many talented friends give up on their studies. My teachers encouraged me to keep going, and my mother never let me miss a day of school, even when it was difficult. At university, I founded a tutoring program that helps first-generation students. Leading a team of 25 volunteers taught me to listen, to take the initiative and to stay calm under pressure. I'm particularly good at organizing projects and I'm committed to improving education in the Northeast. This scholarship would allow me to study public policy and would make me a more effective leader. I'd like the selection committee to know that I'm capable of turning opportunities into real change for others."
+      },
+      "culture_note": {
+        "title": "Soft skills no currículo",
+        "text_pt": "Em processos seletivos internacionais, **soft skills** são avaliadas com perguntas comportamentais: **\"Tell me about a time you worked under pressure\"** ou **\"Give me an example of when you took the initiative\"**. Use histórias reais com o método **STAR** (Situation, Task, Action, Result)."
+      },
+      "summary_pt": ["want / ask / encourage + objeto + to.", "make / let + objeto + verbo base.", "good at / capable of / keen on + -ing.", "Nunca \"I want that you...\"."]
+    },
+    {
+      "id": "B1P-M1-L3",
+      "title": "The next big thing",
+      "subtitle_pt": "Narrativa: past simple x continuous, used to e would",
+      "duration_min": 70,
+      "source_refs": ["Keynote Intermediate – Unit 2 (Trends: How to start a movement)", "Keynote Intermediate Videos – TED Talks playlist"],
+      "objectives": ["Narrar como algo começou e se espalhou", "Usar used to e would para hábitos passados", "Diferenciar used to (hábito passado) de be/get used to (acostumar-se)", "Discutir tendências, influenciadores e movimentos sociais"],
+      "warmup": {
+        "text_pt": "Como uma dança vira trend no mundo todo? Como um pequeno protesto vira um movimento global? Hoje vamos falar sobre como as coisas começam — e por que algumas viralizam.",
+        "questions": ["What's a trend you followed and later regretted?", "How did people discover new music before streaming?"]
+      },
+      "vocabulary": [
+        {"en": "trend / trendy", "pt": "tendência / da moda", "say": "trénd / tréndi"},
+        {"en": "to go viral", "pt": "viralizar", "say": "tu gôu váiral"},
+        {"en": "a movement", "pt": "um movimento", "say": "a múvment"},
+        {"en": "a follower / to follow", "pt": "um seguidor / seguir", "say": "a fálouer"},
+        {"en": "an influencer", "pt": "um influenciador", "say": "an ínfluenser"},
+        {"en": "early adopter", "pt": "quem adota cedo uma novidade", "say": "ârli adópter"},
+        {"en": "to catch on", "pt": "pegar, fazer sucesso", "say": "tu kétch on"},
+        {"en": "to spread (spread)", "pt": "espalhar-se", "say": "tu spréd"},
+        {"en": "a fad", "pt": "modinha passageira", "say": "a féd"},
+        {"en": "to take off", "pt": "decolar, deslanchar", "say": "tu têik óf"},
+        {"en": "mainstream", "pt": "popular, convencional", "say": "mêinstrim"},
+        {"en": "the tipping point", "pt": "o ponto de virada", "say": "dâ típin póint"}
+      ],
+      "chunks": [
+        {"en": "It all started when...", "pt": "Tudo começou quando..."},
+        {"en": "At first, nobody paid attention.", "pt": "No começo, ninguém prestou atenção."},
+        {"en": "Then it suddenly took off.", "pt": "Aí, de repente, deslanchou."},
+        {"en": "We used to rent DVDs.", "pt": "A gente costumava alugar DVDs."},
+        {"en": "I'm getting used to working from home.", "pt": "Estou me acostumando a trabalhar de casa."},
+        {"en": "It was just a fad.", "pt": "Foi só uma modinha."}
+      ],
+      "grammar": {
+        "title": "Used to / would / be & get used to",
+        "explanation_pt": "**Used to + verbo base** → hábitos ou estados do passado que **não são mais verdade**:\n- \"I **used to** play video games every night.\" (não jogo mais)\n- \"There **used to** be a cinema here.\"\n- Negativa: \"I **didn't use to** like coffee.\" (sem -d!) · Pergunta: \"**Did** you **use to** live here?\"\n\n**Would + verbo base** → **ações** repetidas no passado (estilo nostálgico, narrativo). **Não** funciona com estados:\n- \"Every summer, we **would** go to the beach and **would** stay for weeks.\" ✅\n- \"I would have long hair.\" ❌ (estado → \"I **used to** have long hair\")\n\n**Be used to + -ing / substantivo** → **estar acostumado**:\n- \"I**'m used to** wak**ing** up early.\" / \"She **isn't used to** the cold.\"\n\n**Get used to + -ing / substantivo** → **acostumar-se** (processo):\n- \"I**'m getting used to** speak**ing** English at work.\" / \"You'll **get used to** it.\"\n\n**Narrar a origem de algo:** past continuous (cenário) + simple past (eventos) + used to (como era antes):\n\"Before streaming, people **used to** buy CDs. One day, a student **was looking** for a way to share music and **created** a website. It **spread** quickly...\"",
+        "table": {
+          "headers": ["Estrutura", "Sentido", "Exemplo"],
+          "rows": [["used to + verbo", "hábito/estado passado", "I used to live in Recife."], ["would + verbo", "ação repetida no passado", "We would play outside for hours."], ["be used to + -ing", "estar acostumado", "I'm used to driving in traffic."], ["get used to + -ing", "acostumar-se", "I'm getting used to the new app."]]
+        },
+        "examples": [
+          {"en": "When I was a teenager, I used to spend hours on MSN Messenger.", "pt": "Quando eu era adolescente, passava horas no MSN."},
+          {"en": "My grandmother would tell us stories every night before bed.", "pt": "Minha avó nos contava histórias toda noite antes de dormir."},
+          {"en": "At first, I wasn't used to working with people from different time zones, but I got used to it.", "pt": "No começo, eu não estava acostumado a trabalhar com fusos diferentes, mas me acostumei."}
+        ],
+        "tip_pt": "Cuidado: **\"I use to\"** (presente) praticamente não existe para hábitos. Para o presente, use **usually**: \"I **usually** wake up at 7\" (❌ \"I use to wake up at 7\") — erro muito comum de brasileiros, por causa do \"costumo\"."
+      },
+      "common_mistakes": [
+        {"wrong": "I use to go to the gym every day.", "right": "I usually go to the gym every day.", "why_pt": "\"Costumo\" no presente = usually. Used to é só passado."},
+        {"wrong": "I didn't used to like vegetables.", "right": "I didn't use to like vegetables.", "why_pt": "Depois de did/didn't, use (sem d)."},
+        {"wrong": "I'm used to wake up early.", "right": "I'm used to waking up early.", "why_pt": "Be used to + -ing."}
+      ],
+      "pronunciation": {
+        "focus": "Used to = \"iústa\"",
+        "tip_pt": "**Used to** (hábito) soa \"**iústa**\" — com S, não Z, e o D some. Compare com **used** (verbo usar no passado): \"I **used** (iúzd) a pen.\" O som muda conforme o sentido!",
+        "practice": ["I used to live there. (\"iústa\")", "I'm used to it.", "I used a new app. (\"iúzd\")"]
+      },
+      "dialogue": {
+        "title": "How did it start?",
+        "context_pt": "Dois colegas conversam sobre como uma pequena feira de bairro virou um evento enorme.",
+        "lines": [
+          {"speaker": "Tom", "en": "Have you been to the Sunday food fair in the old train station? It's huge now!", "pt": "Você já foi à feira gastronômica de domingo na antiga estação de trem? Está enorme agora!"},
+          {"speaker": "Bel", "en": "I know! But it used to be tiny. My cousin was one of the first vendors.", "pt": "Eu sei! Mas era minúscula. Meu primo foi um dos primeiros vendedores."},
+          {"speaker": "Tom", "en": "Really? How did it start?", "pt": "Sério? Como começou?"},
+          {"speaker": "Bel", "en": "Four friends were looking for a place to sell homemade food. At first, they would set up two tables every Sunday, and almost nobody came.", "pt": "Quatro amigos estavam procurando um lugar para vender comida caseira. No começo, eles montavam duas mesas todo domingo, e quase ninguém aparecia."},
+          {"speaker": "Tom", "en": "So what changed?", "pt": "E o que mudou?"},
+          {"speaker": "Bel", "en": "A food blogger posted a video of my cousin's pastéis, and it went viral. The next week, there were hundreds of people. That was the tipping point.", "pt": "Uma blogueira de comida postou um vídeo dos pastéis do meu primo, e viralizou. Na semana seguinte, tinha centenas de pessoas. Esse foi o ponto de virada."},
+          {"speaker": "Tom", "en": "Amazing. Is your cousin used to all the attention now?", "pt": "Incrível. Seu primo já está acostumado com toda essa atenção?"},
+          {"speaker": "Bel", "en": "He's getting used to it. He used to be so shy — now he gives interviews!", "pt": "Está se acostumando. Ele era tão tímido — agora dá entrevistas!"}
+        ]
+      },
+      "listening": {
+        "title": "Nostalgia podcast: life before smartphones",
+        "context_pt": "Dois apresentadores relembram como era a vida antes dos smartphones.",
+        "lines": [
+          {"speaker": "Ana", "en": "Do you remember life before smartphones? We used to memorize phone numbers!"},
+          {"speaker": "Leo", "en": "I knew about twenty by heart. And if you wanted to meet a friend, you would agree on a time and place, and you'd just... wait."},
+          {"speaker": "Ana", "en": "And maps! My dad would stop at gas stations to ask for directions. He hated it."},
+          {"speaker": "Leo", "en": "My kids can't believe it. They're so used to having everything on their phones."},
+          {"speaker": "Ana", "en": "Honestly, I don't miss getting lost. But I do miss being bored sometimes. That's when we used to have our best ideas."}
+        ],
+        "questions": [
+          {"q": "What did people use to memorize?", "answer": "Phone numbers."},
+          {"q": "How did people meet friends before smartphones?", "answer": "They agreed on a time and place and waited."},
+          {"q": "What would Ana's dad do?", "answer": "Stop at gas stations to ask for directions."},
+          {"q": "What does Ana miss?", "answer": "Being bored sometimes (when they used to have their best ideas)."}
+        ]
+      },
+      "video": {
+        "title": "How to start a movement",
+        "speaker": "Derek Sivers",
+        "url": "https://www.ted.com/search?q=how+to+start+a+movement",
+        "playlist": "https://www.youtube.com/watch?v=sAQfzHBpRsc&list=PLdIk6oC5e9pYKMTeYKp9dEOSeoNEEJ0BJ",
+        "task_pt": "Assista à palestra (cerca de 3 minutos) e responda. Tente resumir a história usando past simple, past continuous e then / after that / suddenly.",
+        "questions": ["Summarize what happens in the video in 4–5 sentences.", "According to the speaker, who is more important: the leader or the first follower? Why?", "Can you think of a real movement or trend that started this way?", "Would you rather be a leader or a first follower? Why?"]
+      },
+      "reading": {
+        "title": "From fad to mainstream",
+        "text": "Why do some ideas disappear after a few months while others change the world? Sociologist Everett Rogers studied this question in the 1960s and developed a theory called the \"diffusion of innovations\". According to Rogers, new ideas spread through a population in stages. First come the innovators, a tiny group who love taking risks. Next, the early adopters try the idea and, crucially, tell others about it. Only after that does the majority follow — first the \"early majority\", then the more skeptical \"late majority\". Finally, the \"laggards\" accept the change, often reluctantly. Smartphones followed this pattern: in 2007 they were expensive gadgets for tech fans; a decade later, even grandparents were sending voice messages. Fads, on the other hand, usually never get past the early adopters. The difference? Real innovations solve a problem people actually have.",
+        "questions": [
+          {"q": "What is Rogers's theory called?", "answer": "The diffusion of innovations."},
+          {"q": "Why are early adopters crucial?", "answer": "They tell others about the idea."},
+          {"q": "How did smartphones follow the pattern?", "answer": "From expensive gadgets for tech fans in 2007 to being used even by grandparents a decade later."},
+          {"q": "What's the difference between fads and real innovations?", "answer": "Real innovations solve a problem people actually have."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "used to, would or usually?", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+         "items": [{"prompt": "I ___ have long hair when I was a teenager.", "options": ["used to", "would", "usually"], "answer": "used to"}, {"prompt": "Every Sunday, my grandpa ___ make pancakes for us.", "options": ["would", "usually", "is used to"], "answer": "would"}, {"prompt": "Now I ___ wake up at 6.", "options": ["use to", "usually", "used to"], "answer": "usually"}, {"prompt": "There ___ be a bookstore on this corner.", "options": ["used to", "would", "uses to"], "answer": "used to"}, {"prompt": "Did you ___ play an instrument?", "options": ["used to", "use to", "using to"], "answer": "use to"}]},
+        {"id": "ex2", "type": "fill_blank", "title": "be / get used to", "instruction": "Complete with the correct form of be used to or get used to + verb.", "instruction_pt": "Complete com be used to ou get used to + verbo.",
+         "items": [{"prompt": "I moved to London a month ago. I'm still ___ (drive) on the left.", "answer": "getting used to driving"}, {"prompt": "Nurses ___ (work) at night. It's normal for them.", "answer": "are used to working"}, {"prompt": "Don't worry about the new software. You'll ___ it quickly.", "answer": "get used to"}, {"prompt": "I ___ (not / speak) English all day. It's tiring!", "answer": "'m not used to speaking"}]},
+        {"id": "ex3", "type": "match", "title": "Trends vocabulary", "instruction": "Write the English word or expression.", "instruction_pt": "Escreva a palavra ou expressão em inglês.",
+         "items": [{"prompt": "modinha passageira", "answer": "a fad"}, {"prompt": "viralizar", "answer": "go viral"}, {"prompt": "ponto de virada", "answer": "the tipping point"}, {"prompt": "deslanchar", "answer": "take off"}, {"prompt": "popular, convencional", "answer": "mainstream"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "At first, nobody paid attention."}, {"prompt": "2", "answer": "Then it suddenly took off."}, {"prompt": "3", "answer": "We used to rent DVDs."}, {"prompt": "4", "answer": "I'm getting used to working from home."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "I use to drink coffee every morning.", "answer": "I usually drink coffee every morning."}, {"prompt": "She would have a red car.", "answer": "She used to have a red car."}, {"prompt": "I'm not used to wake up early.", "answer": "I'm not used to waking up early."}, {"prompt": "Did you used to live here?", "answer": "Did you use to live here?"}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Tell the story", "instruction": "Complete with: used · would · started · went · took.", "instruction_pt": "Complete a história.",
+         "items": [{"prompt": "Ten years ago, nobody in my town ___ to go running.", "answer": "used"}, {"prompt": "Then a retired teacher ___ a free running group in the park.", "answer": "started"}, {"prompt": "At first, she ___ run alone every morning.", "answer": "would"}, {"prompt": "A local newspaper wrote about her, the story ___ viral, and the group ___ off.", "answer": "went / took"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Then and now\": compare your life 10 years ago with now. Use used to, would, didn't use to, be/get used to.",
+        "instruction_pt": "\"Antes e agora\": compare sua vida há 10 anos com agora. Use used to, would, didn't use to, be/get used to.",
+        "questions": ["What did you use to do that you don't do anymore?", "What would you do on weekends as a child?", "What's something you're still getting used to?", "What trend do you think is just a fad?", "How did your favorite app or brand become popular?"]
+      },
+      "writing": {
+        "task": "Write the origin story (150–180 words) of a trend, movement, brand or tradition you know. Use narrative tenses, used to and would.",
+        "task_pt": "Escreva a história de origem (150–180 palavras) de uma tendência, movimento, marca ou tradição que você conhece. Use tempos narrativos, used to e would.",
+        "model": "Twenty years ago, people in Brazil didn't use to drink craft beer — most bars sold the same three or four brands. Then, in the early 2000s, a few homebrewers in the South started experimenting with new recipes in their garages. At first, they would share their beer only with friends and family, who were usually surprised by the strong flavors. Some of these friends were early adopters: they began to ask for more, and small breweries opened. The tipping point came when festivals in cities like Blumenau and Curitiba started to attract thousands of visitors, and the media began to talk about the \"craft beer revolution\". Today, there are more than a thousand breweries in the country, and people are used to ordering IPAs and stouts in normal bars. What used to be a niche hobby has become mainstream — and the movement is still growing."
+      },
+      "culture_note": {
+        "title": "Gírias de tendências",
+        "text_pt": "Para falar de tendências como um nativo: algo **in** ou **trending** está na moda; **out** ou **so last year** está ultrapassado; **cringe** é constrangedor; e algo **old school** é das antigas (às vezes com carinho!)."
+      },
+      "summary_pt": ["used to = hábito/estado passado (não mais).", "would = ação repetida no passado (não estados).", "be used to + -ing = estar acostumado · get used to = acostumar-se.", "Presente: usually (nunca \"I use to\")."]
+    },
+    {
+      "id": "B1P-M1-L4",
+      "title": "Job interview",
+      "subtitle_pt": "Perguntas indiretas e linguagem de entrevista",
+      "duration_min": 70,
+      "source_refs": ["Keynote Intermediate – Unit 1.4 (What do you do?)", "Top Notch 3A – Unit 4 (indirect questions)"],
+      "objectives": ["Fazer perguntas indiretas educadas (Could you tell me...? / I was wondering...)", "Responder perguntas clássicas de entrevista com estrutura", "Falar sobre pontos fortes e fracos de forma profissional", "Fazer boas perguntas ao entrevistador no final"],
+      "warmup": {
+        "text_pt": "Qual é a pergunta de entrevista que mais te dá medo? \"Qual é o seu maior defeito?\" \"Onde você se vê em 5 anos?\" Hoje você vai se preparar para elas — em inglês.",
+        "questions": ["What's the hardest interview question you've ever been asked?", "What do you say when you don't know an answer?"]
+      },
+      "vocabulary": [
+        {"en": "strengths / weaknesses", "pt": "pontos fortes / pontos fracos", "say": "strénkθs / uíknesiz"},
+        {"en": "to be eligible for", "pt": "estar apto a", "say": "élidjibol"},
+        {"en": "to relocate", "pt": "mudar-se (por trabalho)", "say": "tu rilôukeit"},
+        {"en": "notice period", "pt": "aviso prévio", "say": "nôutis píriod"},
+        {"en": "salary expectations", "pt": "pretensão salarial", "say": "sélari ekspektêishonz"},
+        {"en": "to be a good fit", "pt": "ser um bom encaixe (para a vaga/cultura)", "say": "tu bí a gud fit"},
+        {"en": "company culture", "pt": "cultura da empresa", "say": "kâmpani kâltcher"},
+        {"en": "to handle (a situation)", "pt": "lidar com (uma situação)", "say": "tu réndol"},
+        {"en": "to meet a deadline", "pt": "cumprir um prazo", "say": "tu mít a dédlain"},
+        {"en": "a conflict", "pt": "um conflito", "say": "a kónflikt"},
+        {"en": "follow-up email", "pt": "e-mail de acompanhamento", "say": "fálou âp ímeil"},
+        {"en": "shortlisted", "pt": "pré-selecionado", "say": "shórtlistid"}
+      ],
+      "chunks": [
+        {"en": "Could you tell me more about the role?", "pt": "Você poderia me falar mais sobre a função?"},
+        {"en": "I was wondering what the next steps are.", "pt": "Eu queria saber quais são os próximos passos."},
+        {"en": "One of my strengths is...", "pt": "Um dos meus pontos fortes é..."},
+        {"en": "I'm working on improving my...", "pt": "Estou trabalhando para melhorar meu/minha..."},
+        {"en": "That's a great question. Let me think.", "pt": "Ótima pergunta. Deixa eu pensar."},
+        {"en": "Thank you for your time.", "pt": "Obrigado pelo seu tempo."}
+      ],
+      "grammar": {
+        "title": "Indirect questions",
+        "explanation_pt": "**Perguntas indiretas** soam mais **educadas e profissionais**. Começam com uma expressão introdutória e usam a **ordem de afirmativa** (sujeito + verbo), **sem do/does/did**:\n\n**Expressões introdutórias:**\n- Could you tell me...? / Can you tell me...?\n- Do you know...? / Do you have any idea...?\n- I was wondering... / I'd like to know...\n- Would you mind telling me...?\n\n**Transformação:**\n- \"What **does the job involve**?\" → \"Could you tell me what **the job involves**?\"\n- \"When **will I hear** from you?\" → \"Do you know when **I'll hear** from you?\"\n- \"Why **did she leave**?\" → \"I was wondering why **she left**.\"\n\n**Perguntas de sim/não** usam **if** ou **whether**:\n- \"**Is** remote work possible?\" → \"Could you tell me **if/whether** remote work **is** possible?\"\n\nRepare na pontuação: se a frase introdutória é uma afirmação (\"I was wondering...\"), termina com **ponto**, não interrogação.\n\n**No contexto de entrevista**, perguntas indiretas são ótimas para fazer perguntas sensíveis com elegância: \"I was wondering **what the salary range is** for this position.\"",
+        "table": {
+          "headers": ["Pergunta direta", "Pergunta indireta"],
+          "rows": [["What are the working hours?", "Could you tell me what the working hours are?"], ["Does the company offer training?", "Do you know if the company offers training?"], ["Why is the position open?", "I was wondering why the position is open."], ["When can I start?", "Would you mind telling me when I could start?"]]
+        },
+        "examples": [
+          {"en": "Could you tell me what a typical day in this role looks like?", "pt": "Você poderia me dizer como é um dia típico nessa função?"},
+          {"en": "I was wondering whether there are opportunities for international mobility.", "pt": "Eu queria saber se há oportunidades de mobilidade internacional."},
+          {"en": "Do you know when you'll make a decision?", "pt": "Você sabe quando vão tomar uma decisão?"}
+        ],
+        "tip_pt": "Na resposta sobre **pontos fracos**, a estratégia é: um ponto fraco real (mas não crítico para a vaga) + o que você está fazendo para melhorar: \"I sometimes find it hard to delegate, **so I've been working on** trusting my team more.\""
+      },
+      "common_mistakes": [
+        {"wrong": "Could you tell me what does the job involve?", "right": "Could you tell me what the job involves?", "why_pt": "Perguntas indiretas usam ordem de afirmativa, sem does."},
+        {"wrong": "Do you know where is the office?", "right": "Do you know where the office is?", "why_pt": "Sujeito antes do verbo na pergunta indireta."},
+        {"wrong": "I was wondering if is it possible to work remotely?", "right": "I was wondering if it's possible to work remotely.", "why_pt": "Ordem afirmativa e ponto final."}
+      ],
+      "pronunciation": {
+        "focus": "Soar confiante",
+        "tip_pt": "Em entrevistas, **ritmo calmo** e **entonação descendente** no fim das afirmações transmitem confiança: \"One of my strengths is problem-solving ↘.\" Subir a voz no fim de afirmações (\"uptalk\") pode soar inseguro.",
+        "practice": ["One of my strengths is problem-solving. ↘", "I've been leading a team of eight. ↘", "Could you tell me more about the role? ↗"]
+      },
+      "dialogue": {
+        "title": "The final interview",
+        "context_pt": "Igor faz a entrevista final, em inglês, para uma vaga de analista de dados numa empresa de Lisboa.",
+        "lines": [
+          {"speaker": "Interviewer", "en": "So, Igor, what would you say is your greatest strength?", "pt": "Então, Igor, qual você diria que é seu maior ponto forte?"},
+          {"speaker": "Igor", "en": "I'd say turning complex data into clear stories. In my current job, I created a dashboard that the sales team now uses every day. It reduced our reporting time by half.", "pt": "Eu diria transformar dados complexos em histórias claras. No meu emprego atual, criei um dashboard que a equipe de vendas usa todo dia. Reduziu nosso tempo de relatórios pela metade."},
+          {"speaker": "Interviewer", "en": "Impressive. And a weakness?", "pt": "Impressionante. E um ponto fraco?"},
+          {"speaker": "Igor", "en": "I used to be a perfectionist — I'd spend too long on small details. So I've started setting time limits for each task, and it's really helped me meet deadlines.", "pt": "Eu era perfeccionista — passava tempo demais em pequenos detalhes. Então comecei a definir limites de tempo para cada tarefa, e isso me ajudou muito a cumprir prazos."},
+          {"speaker": "Interviewer", "en": "Good. Do you have any questions for us?", "pt": "Ótimo. Você tem alguma pergunta para nós?"},
+          {"speaker": "Igor", "en": "Yes, two. Could you tell me what the biggest challenge for the team is right now? And I was wondering whether there are opportunities to learn new tools, like machine learning.", "pt": "Sim, duas. Você poderia me dizer qual é o maior desafio da equipe agora? E eu queria saber se há oportunidades de aprender novas ferramentas, como machine learning."},
+          {"speaker": "Interviewer", "en": "Great questions. Yes, we offer a training budget for every employee. As for challenges...", "pt": "Ótimas perguntas. Sim, oferecemos um orçamento de treinamento para cada funcionário. Quanto aos desafios..."},
+          {"speaker": "Igor", "en": "Thank you. And do you know when I can expect to hear about the next steps?", "pt": "Obrigado. E você sabe quando posso esperar notícias sobre os próximos passos?"}
+        ]
+      },
+      "listening": {
+        "title": "A recruiter's advice",
+        "context_pt": "Uma recrutadora internacional dá dicas para candidatos brasileiros.",
+        "lines": [
+          {"speaker": "Recruiter", "en": "I've interviewed hundreds of Brazilian candidates, and they're usually excellent — friendly, creative and hard-working. But I often see three mistakes. First, they're too modest. In an interview, you need to talk about your achievements with numbers: \"I increased sales by 20%\", not \"I helped a bit with sales\". Second, they don't prepare questions. If you say \"No questions\", it seems you're not interested. Ask me what success looks like in the first six months. Third, they apologize for their English. Don't! If you can do the interview, your English is good enough. Just speak slowly and clearly."}
+        ],
+        "questions": [
+          {"q": "How does the recruiter describe Brazilian candidates?", "answer": "Friendly, creative and hard-working."},
+          {"q": "What's the first mistake?", "answer": "Being too modest (not using numbers for achievements)."},
+          {"q": "What question does she suggest asking?", "answer": "What success looks like in the first six months."},
+          {"q": "What should candidates not do with their English?", "answer": "Apologize for it."}
+        ]
+      },
+      "reading": {
+        "title": "The questions behind the questions",
+        "text": "Most interview questions aren't really about what they seem to ask. \"Tell me about yourself\" isn't an invitation to share your life story; the interviewer wants a short, relevant summary that explains why you're right for the job. \"Why do you want to leave your current job?\" is testing your professionalism: criticizing your current boss is a red flag, even if your boss is terrible. \"Where do you see yourself in five years?\" checks whether your goals match what the company can offer — and whether you're likely to stay. And the famous \"What's your biggest weakness?\" is about self-awareness: the worst answers are \"I don't have any\" or the cliché \"I'm a perfectionist\" without any example. Experts suggest preparing three or four short stories about your experience that you can adapt to different questions. When you understand the question behind the question, you can answer what the interviewer really wants to know.",
+        "questions": [
+          {"q": "What does the interviewer want when asking \"Tell me about yourself\"?", "answer": "A short, relevant summary explaining why you're right for the job."},
+          {"q": "Why is criticizing your current boss a bad idea?", "answer": "It's a red flag for professionalism."},
+          {"q": "What does \"Where do you see yourself in five years?\" check?", "answer": "Whether your goals match what the company can offer and whether you'll stay."},
+          {"q": "What do experts suggest preparing?", "answer": "Three or four short stories about your experience to adapt to different questions."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "answer", "title": "Make it indirect", "instruction": "Rewrite as an indirect question starting with the words given.", "instruction_pt": "Reescreva como pergunta indireta começando com as palavras dadas.",
+         "items": [{"prompt": "What does the job involve? (Could you tell me...)", "answer": "Could you tell me what the job involves?"}, {"prompt": "Is there a dress code? (Do you know...)", "answer": "Do you know if/whether there is a dress code?"}, {"prompt": "Why did the last person leave? (I was wondering...)", "answer": "I was wondering why the last person left."}, {"prompt": "When will you make a decision? (Would you mind telling me...)", "answer": "Would you mind telling me when you'll make a decision?"}, {"prompt": "How many people are on the team? (Could you tell me...)", "answer": "Could you tell me how many people are on the team?"}]},
+        {"id": "ex2", "type": "multiple_choice", "title": "Choose the correct question", "instruction": "Choose the correct indirect question.", "instruction_pt": "Escolha a pergunta indireta correta.",
+         "items": [{"prompt": "Escolha:", "options": ["Do you know where is the meeting room?", "Do you know where the meeting room is?"], "answer": "Do you know where the meeting room is?"}, {"prompt": "Escolha:", "options": ["Could you tell me what time does it start?", "Could you tell me what time it starts?"], "answer": "Could you tell me what time it starts?"}, {"prompt": "Escolha:", "options": ["I was wondering if the role includes travel.", "I was wondering if does the role include travel?"], "answer": "I was wondering if the role includes travel."}]},
+        {"id": "ex3", "type": "match", "title": "Interview language", "instruction": "Write the English expression.", "instruction_pt": "Escreva a expressão em inglês.",
+         "items": [{"prompt": "pretensão salarial", "answer": "salary expectations"}, {"prompt": "aviso prévio", "answer": "notice period"}, {"prompt": "ser um bom encaixe", "answer": "be a good fit"}, {"prompt": "cumprir um prazo", "answer": "meet a deadline"}, {"prompt": "pré-selecionado", "answer": "shortlisted"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "Could you tell me more about the role?"}, {"prompt": "2", "answer": "I was wondering what the next steps are."}, {"prompt": "3", "answer": "One of my strengths is problem-solving."}, {"prompt": "4", "answer": "Thank you for your time."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "Can you tell me how much does it pay?", "answer": "Can you tell me how much it pays?"}, {"prompt": "I'd like to know when can I start.", "answer": "I'd like to know when I can start."}, {"prompt": "Do you know if is the position remote?", "answer": "Do you know if the position is remote?"}, {"prompt": "My weakness is that I don't have weaknesses.", "answer": "(Give a real weakness + how you're improving it.)"}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Answer framework", "instruction": "Complete the answer to \"What's your biggest weakness?\" with: used · so · working · helped · realized.", "instruction_pt": "Complete a resposta.",
+         "items": [{"prompt": "I ___ to find public speaking really difficult.", "answer": "used"}, {"prompt": "A few years ago, I ___ it was limiting my career,", "answer": "realized"}, {"prompt": "___ I joined a Toastmasters group.", "answer": "so"}, {"prompt": "It's ___ me a lot, and I'm still ___ on it — I now present to clients every month.", "answer": "helped / working"}]}
+      ],
+      "speaking": {
+        "instruction": "Mock interview: in pairs, interview each other for a real or dream job (10 minutes each). The interviewer uses the classic questions; the candidate ends with 2 indirect questions.",
+        "instruction_pt": "Entrevista simulada: em duplas, entrevistem-se para uma vaga real ou dos sonhos (10 minutos cada). O entrevistador usa as perguntas clássicas; o candidato termina com 2 perguntas indiretas.",
+        "questions": ["Tell me about yourself.", "Why do you want this job?", "What's your greatest strength? Give an example.", "Tell me about a time you handled a conflict at work or school.", "Where do you see yourself in five years?", "Do you have any questions for us?"]
+      },
+      "writing": {
+        "task": "Write a follow-up email (120–150 words) after a job interview: thank the interviewer, mention something specific from the conversation, reinforce why you're a good fit and ask about next steps indirectly.",
+        "task_pt": "Escreva um e-mail de acompanhamento (120–150 palavras) após uma entrevista: agradeça, mencione algo específico da conversa, reforce por que você é um bom encaixe e pergunte sobre os próximos passos de forma indireta.",
+        "model": "Subject: Thank you – Data Analyst interview\n\nDear Ms. Ferreira,\n\nThank you for taking the time to speak with me yesterday about the Data Analyst position. I really enjoyed learning about your team's plans to expand into new markets, and I was particularly excited to hear about the project to automate customer reports.\n\nOur conversation confirmed that this role is an excellent fit for my experience. In my current position, I've built automated dashboards that saved our sales team more than ten hours a week, and I'd love to bring that experience to your team.\n\nPlease let me know if you need any further information from me. I was also wondering whether you have an idea of when you expect to make a decision.\n\nThank you again for the opportunity.\n\nKind regards,\nIgor Santos"
+      },
+      "culture_note": {
+        "title": "Falar de dinheiro em entrevistas",
+        "text_pt": "Em muitos países de língua inglesa, é comum o recrutador perguntar **\"What are your salary expectations?\"** logo no início. Pesquise a faixa de mercado antes e responda com uma faixa: **\"Based on my research and experience, I'm looking for something between X and Y.\"** E lembre que benefícios (**package**) também contam."
+      },
+      "summary_pt": ["Pergunta indireta = ordem de afirmativa (sem do/does/did).", "Sim/não → if / whether.", "Could you tell me... / I was wondering... / Do you know...", "Ponto fraco real + como está melhorando."]
+    }
+  ],
+  "review": {
+    "intro_pt": "Revise present simple x continuous avançado, verb patterns, used to/would e perguntas indiretas.",
+    "exercises": [
+      {"id": "r1", "type": "multiple_choice", "title": "Choose the correct option", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+       "items": [{"prompt": "I ___ about quitting my job.", "options": ["think", "'m thinking"], "answer": "'m thinking"}, {"prompt": "My boss wants ___ the report today.", "options": ["that I finish", "me to finish", "me finish"], "answer": "me to finish"}, {"prompt": "My parents never ___ me stay out late.", "options": ["let", "allowed", "made to"], "answer": "let"}, {"prompt": "I ___ live in a small town. Now I live in São Paulo.", "options": ["use to", "used to", "am used to"], "answer": "used to"}, {"prompt": "Could you tell me where ___?", "options": ["is the office", "the office is"], "answer": "the office is"}]},
+      {"id": "r2", "type": "fill_blank", "title": "Mixed practice", "instruction": "Complete with the correct form.", "instruction_pt": "Complete com a forma correta.",
+       "items": [{"prompt": "I'm not used to ___ (work) at night.", "answer": "working"}, {"prompt": "She's capable ___ leading the team.", "answer": "of"}, {"prompt": "My teacher encouraged me ___ (apply) for the scholarship.", "answer": "to apply"}, {"prompt": "Do you know if the company ___ (offer) training?", "answer": "offers"}]},
+      {"id": "r3", "type": "translate", "title": "Translate", "instruction": "Translate into English.", "instruction_pt": "Traduza para o inglês.",
+       "items": [{"prompt": "Cada vez mais pessoas estão trabalhando de casa.", "answer": "More and more people are working from home."}, {"prompt": "Estou me acostumando à nova cidade.", "answer": "I'm getting used to the new city."}, {"prompt": "Você poderia me dizer quais são os próximos passos?", "answer": "Could you tell me what the next steps are?"}]},
+      {"id": "r4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+       "items": [{"prompt": "1", "answer": "My manager is always changing priorities."}, {"prompt": "2", "answer": "She asked us to arrive early."}, {"prompt": "3", "answer": "I was wondering whether the role includes travel."}]},
+      {"id": "r5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+       "items": [{"prompt": "I use to go to the gym every morning.", "answer": "I usually go to the gym every morning."}, {"prompt": "He made me to apologize.", "answer": "He made me apologize."}, {"prompt": "Do you know what time does the interview start?", "answer": "Do you know what time the interview starts?"}]}
+    ],
+    "speaking_pt": "Grave um vídeo de 3 minutos como se fosse um \"video pitch\" para uma vaga internacional: quem você é, como sua carreira mudou (used to / now), o que você tem de melhor (verb patterns) e duas perguntas indiretas que faria à empresa.",
+    "speaking_questions": ["What makes a job meaningful for you?", "What did you use to want to be when you were a child?", "Who encouraged you in your career or studies?", "What trend in your industry do you think will last?", "What would you like to know about a company before accepting an offer?"],
+    "project_pt": "**Career fair:** monte um estande (slides ou cartaz) apresentando uma profissão do futuro: o que ela envolve, o que é preciso para exercê-la (have what it takes), como ela surgiu (origin story) e 3 perguntas indiretas que um candidato deveria fazer numa entrevista. Apresente em 3 minutos."
+  }
+}

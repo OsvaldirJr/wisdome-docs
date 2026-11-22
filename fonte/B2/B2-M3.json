@@ -1,0 +1,2115 @@
+{
+  "id": "B2-M3",
+  "level": "B2",
+  "title": "Media and Persuasion",
+  "theme_pt": "Notícias, opinião, publicidade, retórica e debate",
+  "can_do": [
+    "Relatar com reporting verbs e seus padrões (accuse of, persuade to)",
+    "Usar estruturas passivas de relato (is said to have)",
+    "Dar ênfase com cleft sentences",
+    "Debater com argumentos e contra-argumentos"
+  ],
+  "lessons": [
+    {
+      "id": "B2-M3-L1",
+      "title": "Who said what?",
+      "subtitle_pt": "Reporting verbs e seus padrões gramaticais",
+      "duration_min": 75,
+      "source_refs": [
+        "CEFR / EAQUALS Core Inventory – B2 (reporting verbs with different patterns)",
+        "TopNotch 3B Teacher's Book – Unit 10 (media, news)"
+      ],
+      "objectives": [
+        "Usar reporting verbs além de say e tell (accuse, deny, insist, admit, urge...)",
+        "Aplicar os padrões corretos: verbo + to / + -ing / + objeto + to / + preposição + -ing / + that",
+        "Relatar declarações de forma precisa e neutra",
+        "Ler e escrever notícias e resumos de entrevistas"
+      ],
+      "warmup": {
+        "text_pt": "No B1+ você aprendeu \"She said that...\". No B2, jornalistas, advogados e analistas usam verbos muito mais precisos: alguém **nega**, **admite**, **acusa**, **insiste**, **alerta**. Cada verbo muda o sentido — e cada um tem seu padrão gramatical.",
+        "questions": [
+          "Where do you usually get your news?",
+          "Have you ever been misquoted or had your words taken out of context?"
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "to deny (+ -ing / that)",
+          "pt": "negar",
+          "say": "tu dinái"
+        },
+        {
+          "en": "to admit (+ -ing / that)",
+          "pt": "admitir",
+          "say": "tu admít"
+        },
+        {
+          "en": "to accuse (sb) of (+ -ing)",
+          "pt": "acusar (alguém) de",
+          "say": "tu akiúz ov"
+        },
+        {
+          "en": "to blame (sb) for (+ -ing)",
+          "pt": "culpar (alguém) por",
+          "say": "tu blêim for"
+        },
+        {
+          "en": "to insist on (+ -ing) / that",
+          "pt": "insistir em / que",
+          "say": "tu insíst on"
+        },
+        {
+          "en": "to urge (sb) to",
+          "pt": "pedir com urgência, exortar",
+          "say": "tu ârdj"
+        },
+        {
+          "en": "to refuse (+ to)",
+          "pt": "recusar-se a",
+          "say": "tu rifiúz"
+        },
+        {
+          "en": "to threaten (+ to)",
+          "pt": "ameaçar",
+          "say": "tu θréten"
+        },
+        {
+          "en": "to apologize for (+ -ing)",
+          "pt": "desculpar-se por",
+          "say": "tu apólodjaiz for"
+        },
+        {
+          "en": "to recommend / to suggest (+ -ing / that)",
+          "pt": "recomendar / sugerir",
+          "say": "tu rekoménd / tu sadjést"
+        },
+        {
+          "en": "to claim (+ to / that)",
+          "pt": "alegar, afirmar",
+          "say": "tu klêim"
+        },
+        {
+          "en": "to be misquoted / taken out of context",
+          "pt": "ser citado errado / tirado de contexto",
+          "say": "miskwôutid / têiken áut ov kóntekst"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "He denied taking the money.",
+          "pt": "Ele negou ter pegado o dinheiro."
+        },
+        {
+          "en": "She was accused of lying to investors.",
+          "pt": "Ela foi acusada de mentir para os investidores."
+        },
+        {
+          "en": "The minister refused to comment.",
+          "pt": "O ministro se recusou a comentar."
+        },
+        {
+          "en": "Experts urged the public to stay calm.",
+          "pt": "Especialistas pediram à população que mantivesse a calma."
+        },
+        {
+          "en": "He insisted on speaking to the manager.",
+          "pt": "Ele insistiu em falar com o gerente."
+        },
+        {
+          "en": "She claims to have been misquoted.",
+          "pt": "Ela alega ter sido citada de forma errada."
+        }
+      ],
+      "grammar": {
+        "title": "Reporting verb patterns",
+        "explanation_pt": "Cada reporting verb tem um (ou mais) **padrão** obrigatório. Aprenda em blocos:\n\n**1. verbo + to + infinitivo:** agree, refuse, offer, promise, threaten, claim, decide\n- \"The company **refused to comment**.\" / \"He **threatened to resign**.\"\n\n**2. verbo + objeto + to + infinitivo:** ask, tell, urge, warn, advise, persuade, encourage, remind, invite, beg, order\n- \"The doctor **advised me to rest**.\" / \"They **persuaded her to stay**.\" / \"Police **warned drivers not to travel**.\"\n\n**3. verbo + -ing:** deny, admit, suggest, recommend, regret, mention\n- \"He **denied stealing** the documents.\" / \"She **admitted making** a mistake.\" / \"I **suggest leaving** early.\"\n- Para algo anterior, use **having + particípio**: \"He **denied having seen** her.\"\n\n**4. verbo + (objeto) + preposição + -ing:**\n- accuse sb **of**, blame sb **for**, apologize **for**, insist **on**, congratulate sb **on**, thank sb **for**, criticize sb **for**, warn sb **against**\n- \"They **accused him of lying**.\" / \"She **apologized for being** late.\" / \"He **insisted on paying**.\"\n\n**5. verbo + that + frase:** say, explain, claim, admit, deny, insist, announce, complain, point out, argue\n- \"She **insisted that** she was innocent.\" / \"The CEO **announced that** the company would close.\"\n\n⚠️ **Suggest** e **recommend** NÃO aceitam objeto + to: ❌ \"He suggested me to go\" → ✅ \"He **suggested going**\" / \"He **suggested that I (should) go**\".\n\nO **backshift** do B1+ continua valendo quando o verbo introdutório está no passado.",
+        "table": {
+          "headers": [
+            "Padrão",
+            "Verbos",
+            "Exemplo"
+          ],
+          "rows": [
+            [
+              "+ to infinitive",
+              "agree, refuse, offer, promise, threaten",
+              "She refused to answer."
+            ],
+            [
+              "+ object + to",
+              "advise, urge, warn, persuade, remind",
+              "He urged us to vote."
+            ],
+            [
+              "+ -ing",
+              "deny, admit, suggest, recommend",
+              "He denied cheating."
+            ],
+            [
+              "+ (object) + prep + -ing",
+              "accuse of, blame for, insist on, apologize for",
+              "They blamed her for losing."
+            ],
+            [
+              "+ that",
+              "explain, claim, insist, announce, point out",
+              "She claimed that it was true."
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "The CEO admitted making mistakes but denied knowing about the fraud.",
+            "pt": "O CEO admitiu ter cometido erros, mas negou saber da fraude."
+          },
+          {
+            "en": "Health officials urged people to get vaccinated before the winter.",
+            "pt": "Autoridades de saúde pediram às pessoas que se vacinassem antes do inverno."
+          },
+          {
+            "en": "The player apologized for criticizing the referee and promised not to do it again.",
+            "pt": "O jogador pediu desculpas por criticar o juiz e prometeu não fazer de novo."
+          }
+        ],
+        "tip_pt": "Escolher o verbo certo também é escolher um **ponto de vista**. \"She **said** she was innocent\" (neutro) x \"She **claimed** she was innocent\" (há dúvida) x \"She **insisted** she was innocent\" (ênfase). Jornalistas sérios escolhem com cuidado."
+      },
+      "common_mistakes": [
+        {
+          "wrong": "He suggested me to apply.",
+          "right": "He suggested that I (should) apply. / He suggested applying.",
+          "why_pt": "Suggest não aceita objeto + to."
+        },
+        {
+          "wrong": "She denied to steal the money.",
+          "right": "She denied stealing the money.",
+          "why_pt": "Deny + -ing."
+        },
+        {
+          "wrong": "They accused him to lie.",
+          "right": "They accused him of lying.",
+          "why_pt": "Accuse sb of + -ing."
+        }
+      ],
+      "pronunciation": {
+        "focus": "Tônica dos reporting verbs",
+        "tip_pt": "Quase todos os reporting verbs têm a tônica na **segunda sílaba**: de-**NY**, ad-**MIT**, ac-**CUSE**, in-**SIST**, re-**FUSE**, sug-**GEST**, re-com-**MEND**. Já **THREAT**-en e **WARN** são exceções.",
+        "practice": [
+          "He deNIED it.",
+          "She adMITTED making a mistake.",
+          "They acCUSED him of lying."
+        ]
+      },
+      "dialogue": {
+        "title": "Office drama",
+        "context_pt": "Dois colegas conversam sobre uma discussão que aconteceu numa reunião de diretoria.",
+        "lines": [
+          {
+            "speaker": "Kai",
+            "en": "So what happened in the board meeting? Everyone's talking about it.",
+            "pt": "Então, o que aconteceu na reunião da diretoria? Todo mundo está comentando."
+          },
+          {
+            "speaker": "Rosa",
+            "en": "Well, the finance director accused the marketing team of wasting money on the last campaign.",
+            "pt": "Bom, o diretor financeiro acusou o time de marketing de desperdiçar dinheiro na última campanha."
+          },
+          {
+            "speaker": "Kai",
+            "en": "Ouch. How did Paula react?",
+            "pt": "Nossa. Como a Paula reagiu?"
+          },
+          {
+            "speaker": "Rosa",
+            "en": "She denied wasting anything. She pointed out that sales had grown by 15%. But she did admit going over budget by about 10%.",
+            "pt": "Ela negou ter desperdiçado qualquer coisa. Ela destacou que as vendas tinham crescido 15%. Mas admitiu ter estourado o orçamento em uns 10%."
+          },
+          {
+            "speaker": "Kai",
+            "en": "And what did the CEO say?",
+            "pt": "E o que o CEO disse?"
+          },
+          {
+            "speaker": "Rosa",
+            "en": "He urged them both to calm down and suggested setting up a separate meeting. The finance director refused to wait and threatened to take it to the board.",
+            "pt": "Ele pediu aos dois que se acalmassem e sugeriu marcar uma reunião separada. O diretor financeiro se recusou a esperar e ameaçou levar o assunto ao conselho."
+          },
+          {
+            "speaker": "Kai",
+            "en": "Wow. Did anyone apologize?",
+            "pt": "Uau. Alguém pediu desculpas?"
+          },
+          {
+            "speaker": "Rosa",
+            "en": "Eventually. Paula apologized for raising her voice, and the director thanked her for explaining the numbers. They agreed to review the budget together next week.",
+            "pt": "No fim, sim. A Paula pediu desculpas por levantar a voz, e o diretor agradeceu por ela ter explicado os números. Eles concordaram em revisar o orçamento juntos semana que vem."
+          }
+        ]
+      },
+      "listening": {
+        "title": "News bulletin",
+        "context_pt": "Um boletim de notícias com declarações de diferentes pessoas.",
+        "lines": [
+          {
+            "speaker": "Newsreader",
+            "en": "Good evening. The CEO of the airline SkyFast has apologized for the cancellation of over 200 flights this week, but has denied that the company ignored warnings about staff shortages. Union leaders have accused the company of putting profits before passengers and have threatened to strike next month. Meanwhile, the transport minister has urged both sides to reach an agreement and has promised to review compensation rules. Consumer groups are advising passengers to keep all receipts and are encouraging them to claim refunds. The airline insists that normal service will resume by Monday."
+          }
+        ],
+        "questions": [
+          {
+            "q": "What has the CEO apologized for?",
+            "answer": "The cancellation of over 200 flights this week."
+          },
+          {
+            "q": "What has the CEO denied?",
+            "answer": "That the company ignored warnings about staff shortages."
+          },
+          {
+            "q": "What have union leaders accused the company of?",
+            "answer": "Putting profits before passengers."
+          },
+          {
+            "q": "What are consumer groups advising passengers to do?",
+            "answer": "Keep all receipts and claim refunds."
+          }
+        ]
+      },
+      "reading": {
+        "title": "The power of a single verb",
+        "text": "Journalism students are often taught a simple rule: when in doubt, use \"said\". The reason is that reporting verbs are never neutral. Imagine a politician who makes a statement about the economy. A newspaper could report that she \"said\", \"claimed\", \"admitted\", \"insisted\" or \"boasted\" that unemployment had fallen. Each verb sends a different message to the reader. \"Claimed\" suggests the statement might not be true; \"admitted\" suggests she was forced to reveal something; \"boasted\" implies arrogance. Researchers who study media bias have found that the choice of reporting verbs can influence how readers judge the people being quoted, even when the facts are identical. This is one reason why many style guides, such as those of major news agencies, recommend using neutral verbs like \"said\" in news reports and saving more expressive verbs for when they're clearly justified. As readers, we can protect ourselves by paying attention not only to what people are reported to have said, but also to the verbs journalists choose to report it. Sometimes, a single word tells you more about the writer than about the person being quoted.",
+        "questions": [
+          {
+            "q": "What simple rule are journalism students often taught?",
+            "answer": "When in doubt, use \"said\"."
+          },
+          {
+            "q": "What does \"claimed\" suggest?",
+            "answer": "That the statement might not be true."
+          },
+          {
+            "q": "What have researchers found about reporting verbs?",
+            "answer": "They can influence how readers judge people, even with identical facts."
+          },
+          {
+            "q": "How can readers protect themselves?",
+            "answer": "By paying attention to the verbs journalists choose."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "multiple_choice",
+          "title": "Verb patterns",
+          "instruction": "Choose the correct pattern.",
+          "instruction_pt": "Escolha o padrão correto.",
+          "items": [
+            {
+              "prompt": "He denied ___ the window.",
+              "options": [
+                "to break",
+                "breaking",
+                "that break"
+              ],
+              "answer": "breaking"
+            },
+            {
+              "prompt": "She refused ___ the contract.",
+              "options": [
+                "to sign",
+                "signing",
+                "of signing"
+              ],
+              "answer": "to sign"
+            },
+            {
+              "prompt": "They accused him ___ the documents.",
+              "options": [
+                "to steal",
+                "of stealing",
+                "for stealing"
+              ],
+              "answer": "of stealing"
+            },
+            {
+              "prompt": "The doctor advised ___ more water.",
+              "options": [
+                "me drinking",
+                "me to drink",
+                "to me drink"
+              ],
+              "answer": "me to drink"
+            },
+            {
+              "prompt": "My friend suggested ___ a taxi.",
+              "options": [
+                "me to take",
+                "taking",
+                "to take"
+              ],
+              "answer": "taking"
+            },
+            {
+              "prompt": "She apologized ___ late.",
+              "options": [
+                "for being",
+                "to be",
+                "of being"
+              ],
+              "answer": "for being"
+            }
+          ]
+        },
+        {
+          "id": "ex2",
+          "type": "answer",
+          "title": "Report it",
+          "instruction": "Report each sentence using the verb in parentheses.",
+          "instruction_pt": "Relate cada frase usando o verbo entre parênteses.",
+          "items": [
+            {
+              "prompt": "\"I didn't take your phone.\" (deny)",
+              "answer": "He/She denied taking my phone."
+            },
+            {
+              "prompt": "\"Yes, I made a mistake.\" (admit)",
+              "answer": "He/She admitted making a mistake."
+            },
+            {
+              "prompt": "\"You should see a specialist.\" (advise)",
+              "answer": "The doctor advised me to see a specialist."
+            },
+            {
+              "prompt": "\"You broke the vase!\" (accuse)",
+              "answer": "She accused me of breaking the vase."
+            },
+            {
+              "prompt": "\"I'll pay for dinner — no arguments!\" (insist)",
+              "answer": "He insisted on paying for dinner."
+            }
+          ]
+        },
+        {
+          "id": "ex3",
+          "type": "match",
+          "title": "Choose the verb",
+          "instruction": "Write the best reporting verb: deny · threaten · urge · apologize · congratulate.",
+          "instruction_pt": "Escreva o melhor reporting verb.",
+          "items": [
+            {
+              "prompt": "\"Please, please vote!\"",
+              "answer": "urge"
+            },
+            {
+              "prompt": "\"If you don't pay, I'll call the police.\"",
+              "answer": "threaten"
+            },
+            {
+              "prompt": "\"I'm so sorry I forgot.\"",
+              "answer": "apologize"
+            },
+            {
+              "prompt": "\"Well done on passing your exam!\"",
+              "answer": "congratulate"
+            },
+            {
+              "prompt": "\"No, I wasn't there.\"",
+              "answer": "deny"
+            }
+          ]
+        },
+        {
+          "id": "ex4",
+          "type": "dictation",
+          "title": "Dictation",
+          "instruction": "Listen and write the sentence.",
+          "instruction_pt": "Ouça e escreva a frase.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "He denied taking the money."
+            },
+            {
+              "prompt": "2",
+              "answer": "She was accused of lying to investors."
+            },
+            {
+              "prompt": "3",
+              "answer": "Experts urged the public to stay calm."
+            },
+            {
+              "prompt": "4",
+              "answer": "She claims to have been misquoted."
+            }
+          ]
+        },
+        {
+          "id": "ex5",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the mistake.",
+          "instruction_pt": "Encontre e corrija o erro.",
+          "items": [
+            {
+              "prompt": "She suggested me to call the bank.",
+              "answer": "She suggested (that) I call the bank. / She suggested calling the bank."
+            },
+            {
+              "prompt": "He admitted to lie.",
+              "answer": "He admitted lying. / He admitted to lying."
+            },
+            {
+              "prompt": "They blamed him of the accident.",
+              "answer": "They blamed him for the accident."
+            },
+            {
+              "prompt": "He insisted to pay.",
+              "answer": "He insisted on paying."
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "fill_blank",
+          "title": "Write the news",
+          "instruction": "Complete the news report with the correct form: deny · urge · accuse · refuse · promise.",
+          "instruction_pt": "Complete a notícia com a forma correta.",
+          "items": [
+            {
+              "prompt": "Residents have ___ the city council of ignoring the problem.",
+              "answer": "accused"
+            },
+            {
+              "prompt": "The mayor ___ ignoring residents' complaints.",
+              "answer": "denied"
+            },
+            {
+              "prompt": "She ___ to fix the roads before the rainy season.",
+              "answer": "promised"
+            },
+            {
+              "prompt": "Opposition leaders ___ her to publish the budget, but she ___ to do so.",
+              "answer": "urged / refused"
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction": "\"Press conference\": one student is a famous person caught in a scandal; the others are journalists asking questions. Afterwards, each journalist reports the press conference to the class using at least 6 different reporting verbs.",
+        "instruction_pt": "\"Coletiva de imprensa\": um aluno é uma pessoa famosa envolvida num escândalo; os outros são jornalistas fazendo perguntas. Depois, cada jornalista relata a coletiva para a turma usando pelo menos 6 reporting verbs diferentes.",
+        "questions": [
+          "What's the last news story you read? Report what the main people said.",
+          "Have you ever been blamed for something you didn't do?",
+          "What's the best advice anyone has ever urged you to follow?",
+          "Do you trust what politicians claim? Why?",
+          "Which news sources do you consider the most neutral?"
+        ]
+      },
+      "writing": {
+        "task": "Write a short news report (180–220 words) about a real or invented event involving a disagreement (a company, a sports team, a city council). Report what different people said using at least 8 different reporting verbs with the correct patterns.",
+        "task_pt": "Escreva uma notícia curta (180–220 palavras) sobre um evento real ou inventado envolvendo uma discordância (uma empresa, um time, uma câmara municipal). Relate o que diferentes pessoas disseram usando pelo menos 8 reporting verbs com os padrões corretos.",
+        "model": "LOCAL CAFÉ ACCUSED OF COPYING RECIPE\n\nA popular café in Florianópolis has been accused of copying a famous recipe from a neighbouring bakery.\n\nThe bakery's owner, Lúcia Martins, claims that the café's new \"guava cheesecake\" is identical to a recipe her family has been making for over thirty years. She accused the café of taking advantage of a former employee who had worked for her and threatened to take legal action if the cake wasn't removed from the menu.\n\nThe café's manager, Rafael Dias, denied copying the recipe. He insisted that the cake had been developed by his own chef and pointed out that guava and cheese is a traditional Brazilian combination. However, he admitted hiring a former bakery employee last year.\n\nLocal customers have been divided. Some have urged the two businesses to find a friendly solution, while others have suggested holding a blind tasting competition.\n\nOn Friday evening, Mr. Dias apologized for any misunderstanding and offered to meet Ms. Martins. She agreed to talk but refused to comment further until the meeting. Both sides have promised to share the outcome with the community next week."
+      },
+      "culture_note": {
+        "title": "\"No comment\"",
+        "text_pt": "Em inglês, **\"No comment\"** é a resposta clássica de quem não quer se pronunciar à imprensa. Já **\"off the record\"** significa que a informação não deve ser publicada com o nome da fonte, e **\"on the record\"**, que pode. Saber essa diferença é essencial para quem lida com mídia."
+      },
+      "summary_pt": [
+        "+ to: refuse, agree, promise, threaten, offer.",
+        "+ objeto + to: advise, urge, warn, persuade, remind.",
+        "+ -ing: deny, admit, suggest, recommend (nunca suggest me to).",
+        "+ prep + -ing: accuse of, blame for, insist on, apologize for."
+      ]
+    },
+    {
+      "id": "B2-M3-L2",
+      "title": "It is believed that...",
+      "subtitle_pt": "Passive reporting structures: It is said that... / He is said to have...",
+      "duration_min": 70,
+      "source_refs": [
+        "CEFR / EAQUALS Core Inventory – B2 (passive reporting verbs)",
+        "TopNotch 3B Teacher's Book – Unit 10 (news and rumors)"
+      ],
+      "objectives": [
+        "Usar It is said / believed / thought / reported that...",
+        "Usar sujeito + is said / believed + to + infinitivo",
+        "Usar o infinitivo perfeito (to have + pp) e contínuo (to be + -ing)",
+        "Reportar boatos, notícias e informações não confirmadas com objetividade"
+      ],
+      "warmup": {
+        "text_pt": "\"Acredita-se que o suspeito tenha fugido.\" \"Diz-se que o castelo é assombrado.\" Em notícias e textos formais, o inglês usa estruturas passivas para relatar o que \"as pessoas dizem\" sem citar uma fonte específica — e mostrar que a informação não está confirmada.",
+        "questions": [
+          "What's a rumor you heard recently? Was it true?",
+          "Why do news reports often say \"It is believed that...\"?"
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "allegedly / reportedly",
+          "pt": "supostamente / segundo relatos",
+          "say": "alédjidli / ripórtidli"
+        },
+        {
+          "en": "a rumor / rumored",
+          "pt": "um boato / boato de que",
+          "say": "a rúmor"
+        },
+        {
+          "en": "a suspect / to suspect",
+          "pt": "um suspeito / suspeitar",
+          "say": "a sâspekt / tu saspékt"
+        },
+        {
+          "en": "to be estimated",
+          "pt": "ser estimado",
+          "say": "tu bí éstimeitid"
+        },
+        {
+          "en": "to be thought / believed",
+          "pt": "acredita-se, pensa-se",
+          "say": "tu bí θót / bilívd"
+        },
+        {
+          "en": "an eyewitness",
+          "pt": "uma testemunha ocular",
+          "say": "an áiuítnes"
+        },
+        {
+          "en": "unconfirmed",
+          "pt": "não confirmado",
+          "say": "ankonfârmd"
+        },
+        {
+          "en": "a source / sources close to",
+          "pt": "uma fonte / fontes próximas a",
+          "say": "a sórs"
+        },
+        {
+          "en": "a hoax",
+          "pt": "uma farsa, embuste",
+          "say": "a rôuks"
+        },
+        {
+          "en": "to go missing",
+          "pt": "desaparecer",
+          "say": "tu gôu mísin"
+        },
+        {
+          "en": "to be on the run",
+          "pt": "estar foragido",
+          "say": "tu bí on dâ rân"
+        },
+        {
+          "en": "a legend / legendary",
+          "pt": "uma lenda / lendário",
+          "say": "a lédjend / lédjenderi"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "It is said that the house is haunted.",
+          "pt": "Dizem que a casa é assombrada."
+        },
+        {
+          "en": "The singer is reported to be getting married.",
+          "pt": "Segundo relatos, a cantora vai se casar."
+        },
+        {
+          "en": "The suspect is believed to have left the country.",
+          "pt": "Acredita-se que o suspeito tenha deixado o país."
+        },
+        {
+          "en": "It is estimated that a million people attended.",
+          "pt": "Estima-se que um milhão de pessoas compareceram."
+        },
+        {
+          "en": "He is thought to be hiding in the mountains.",
+          "pt": "Acredita-se que ele esteja escondido nas montanhas."
+        },
+        {
+          "en": "The rumor turned out to be a hoax.",
+          "pt": "O boato acabou sendo uma farsa."
+        }
+      ],
+      "grammar": {
+        "title": "Passive reporting structures",
+        "explanation_pt": "Usamos estruturas passivas com verbos como **say, believe, think, report, know, expect, consider, estimate, claim** para relatar informações quando a fonte não é importante, é genérica (\"as pessoas\") ou a informação **não está confirmada**.\n\n**Estrutura 1: It + is/was + particípio + that + frase**\n- \"**It is said that** the castle is haunted.\"\n- \"**It was believed that** the earth was flat.\"\n- \"**It is estimated that** 3 million people live there.\"\n\n**Estrutura 2: Sujeito + is/was + particípio + to + infinitivo** (mais elegante e comum em notícias)\n- \"The castle **is said to be** haunted.\"\n- \"He **is believed to be** the richest man in the country.\"\n\n**O infinitivo muda conforme o tempo da informação:**\n- **to + verbo** → mesmo tempo (presente): \"She is said **to live** in Paris.\" (Dizem que ela mora em Paris)\n- **to be + -ing** → ação em andamento agora: \"He is thought **to be hiding** in the forest.\" (Acredita-se que esteja se escondendo)\n- **to have + particípio** → ação **anterior**: \"The suspect is believed **to have left** the country.\" (Acredita-se que tenha deixado)\n- **to have been + -ing** → ação contínua anterior: \"She is reported **to have been working** on a new album.\"\n\n**Advérbios equivalentes (mais informais):** **allegedly, reportedly, apparently, supposedly**\n- \"The singer has **reportedly** signed a new contract.\" / \"He **allegedly** stole the car.\"\n\n**Em português** esses sentidos são \"dizem que\", \"acredita-se que\", \"supostamente\", \"segundo relatos\".",
+        "table": {
+          "headers": [
+            "Informação",
+            "It is... that...",
+            "Sujeito + is... to..."
+          ],
+          "rows": [
+            [
+              "Presente",
+              "It is said that she lives in Rome.",
+              "She is said to live in Rome."
+            ],
+            [
+              "Em andamento",
+              "It is thought that he is hiding.",
+              "He is thought to be hiding."
+            ],
+            [
+              "Passado",
+              "It is believed that they escaped.",
+              "They are believed to have escaped."
+            ],
+            [
+              "Passado contínuo",
+              "It is reported that she has been working on it.",
+              "She is reported to have been working on it."
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "The painting is believed to have been stolen during the war.",
+            "pt": "Acredita-se que o quadro tenha sido roubado durante a guerra."
+          },
+          {
+            "en": "It is estimated that the festival brought over R$200 million to the city.",
+            "pt": "Estima-se que o festival trouxe mais de R$200 milhões para a cidade."
+          },
+          {
+            "en": "The actor is reported to be in talks to play the lead role in the new series.",
+            "pt": "Segundo relatos, o ator está em negociações para estrelar a nova série."
+          }
+        ],
+        "tip_pt": "Estas estruturas são muito comuns em **notícias policiais, científicas e de celebridades** — e em provas como o **B2 First** (Key Word Transformation). Treine transformar uma estrutura na outra: \"It is said that he is rich\" ↔ \"He is said to be rich\"."
+      },
+      "common_mistakes": [
+        {
+          "wrong": "He is said that he is rich.",
+          "right": "It is said that he is rich. / He is said to be rich.",
+          "why_pt": "Não misture as duas estruturas."
+        },
+        {
+          "wrong": "The suspect is believed to leave the country yesterday.",
+          "right": "The suspect is believed to have left the country yesterday.",
+          "why_pt": "Ação anterior = to have + particípio."
+        },
+        {
+          "wrong": "Is said that the house is haunted.",
+          "right": "It is said that the house is haunted.",
+          "why_pt": "A estrutura impessoal precisa do sujeito it."
+        }
+      ],
+      "pronunciation": {
+        "focus": "To have been = \"tâv bin\"",
+        "tip_pt": "Na fala, **to have** vira \"**tâv**\" e **to have been** vira \"**tâvbin**\": \"He's believed tâv left.\" / \"She's said tâvbin working...\". A ênfase fica no verbo principal: \"believed to have **LEFT** the **COUN**try\".",
+        "practice": [
+          "He is believed to have left. (\"tâv\")",
+          "She is said to have been working on it.",
+          "It is estimated that a million people attended."
+        ]
+      },
+      "dialogue": {
+        "title": "Celebrity gossip",
+        "context_pt": "Duas amigas comentam boatos sobre uma cantora famosa enquanto leem sites de fofoca.",
+        "lines": [
+          {
+            "speaker": "Jade",
+            "en": "Did you see this? Lua Martins is reported to be leaving her band!",
+            "pt": "Viu isso? Segundo relatos, a Lua Martins vai sair da banda!"
+          },
+          {
+            "speaker": "Nina",
+            "en": "Really? Where did you read that?",
+            "pt": "Sério? Onde você leu isso?"
+          },
+          {
+            "speaker": "Jade",
+            "en": "Here — it says she's believed to have signed a solo contract with an American label.",
+            "pt": "Aqui — diz que acredita-se que ela tenha assinado um contrato solo com uma gravadora americana."
+          },
+          {
+            "speaker": "Nina",
+            "en": "\"Is believed to\"? That means nobody has confirmed it. Who's the source?",
+            "pt": "\"Acredita-se\"? Isso quer dizer que ninguém confirmou. Qual é a fonte?"
+          },
+          {
+            "speaker": "Jade",
+            "en": "\"Sources close to the singer.\" And it's said that she hasn't spoken to the drummer for months.",
+            "pt": "\"Fontes próximas à cantora.\" E dizem que ela não fala com o baterista há meses."
+          },
+          {
+            "speaker": "Nina",
+            "en": "That's what they always say! Last year she was rumored to be retiring, and then she released two albums.",
+            "pt": "É o que sempre dizem! Ano passado diziam que ela ia se aposentar, e aí ela lançou dois álbuns."
+          },
+          {
+            "speaker": "Jade",
+            "en": "Fair point. Oh, wait — her manager has just posted that the band is allegedly \"taking a short break\".",
+            "pt": "Justo. Ah, espera — o empresário dela acabou de postar que a banda supostamente está \"dando uma pequena pausa\"."
+          },
+          {
+            "speaker": "Nina",
+            "en": "See? It's probably not a breakup. Let's wait for the official announcement.",
+            "pt": "Viu? Provavelmente não é um fim. Vamos esperar o anúncio oficial."
+          }
+        ]
+      },
+      "listening": {
+        "title": "Mystery documentary: the lost treasure",
+        "context_pt": "Trecho de um documentário (história fictícia criada para a aula) sobre um tesouro perdido.",
+        "lines": [
+          {
+            "speaker": "Narrator",
+            "en": "For more than three centuries, the ship Nossa Senhora has been one of the great mysteries of the Brazilian coast. It is said to have sunk in a storm in 1712, carrying gold from the mines of Minas Gerais. The cargo is estimated to be worth hundreds of millions of dollars today. For decades, treasure hunters have searched the area where the ship is believed to have gone down. Some local fishermen claim to have seen pieces of wood with Portuguese symbols after storms. However, historians are less certain. It is thought that the ship's records may have been exaggerated to impress the Portuguese king, and some researchers even believe the ship never existed. Whatever the truth, the legend is known to attract thousands of tourists to the region every year."
+          }
+        ],
+        "questions": [
+          {
+            "q": "When is the ship said to have sunk?",
+            "answer": "In 1712, in a storm."
+          },
+          {
+            "q": "What was it carrying?",
+            "answer": "Gold from the mines of Minas Gerais."
+          },
+          {
+            "q": "What do some local fishermen claim?",
+            "answer": "To have seen pieces of wood with Portuguese symbols after storms."
+          },
+          {
+            "q": "Why are historians less certain?",
+            "answer": "The ship's records may have been exaggerated; some believe the ship never existed."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Urban legends",
+        "text": "Every culture has its urban legends — stories that are passed from person to person and are widely believed to be true, despite little or no evidence. One well-known example is the idea that the Great Wall of China can be seen from space with the naked eye. It was widely repeated in textbooks for decades, but astronauts have said they could not see it. Another is the claim that we only use 10% of our brains, which is often attributed to early psychologists but has been rejected by neuroscientists: brain scans show activity across virtually all regions. In Brazil, many people grew up hearing that mixing mango and milk could be fatal. The belief is thought to have originated during the colonial period, possibly to stop enslaved workers on plantations from drinking the milk produced on the farms. Today, nutritionists confirm that the combination is perfectly safe. Why do such stories survive? Psychologists suggest that legends spread because they are simple, surprising and emotionally engaging — and because once a belief is shared by many people, questioning it feels strange. The lesson? \"Everyone knows\" is not the same as \"it's true\".",
+        "questions": [
+          {
+            "q": "What is an urban legend?",
+            "answer": "A story passed from person to person and widely believed, with little or no evidence."
+          },
+          {
+            "q": "What have astronauts said about the Great Wall?",
+            "answer": "They could not see it from space with the naked eye."
+          },
+          {
+            "q": "Where is the mango-and-milk belief thought to have originated?",
+            "answer": "In the colonial period, possibly to stop enslaved workers from drinking the farms' milk."
+          },
+          {
+            "q": "Why do legends survive, according to psychologists?",
+            "answer": "They're simple, surprising and emotional, and questioning shared beliefs feels strange."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "answer",
+          "title": "Transform the sentence",
+          "instruction": "Rewrite starting with the words given.",
+          "instruction_pt": "Reescreva começando com as palavras dadas.",
+          "items": [
+            {
+              "prompt": "It is said that the hotel is haunted. → The hotel...",
+              "answer": "The hotel is said to be haunted."
+            },
+            {
+              "prompt": "It is believed that the thieves escaped by boat. → The thieves...",
+              "answer": "The thieves are believed to have escaped by boat."
+            },
+            {
+              "prompt": "People think that the singer is recording a new album. → The singer...",
+              "answer": "The singer is thought to be recording a new album."
+            },
+            {
+              "prompt": "The minister is reported to have resigned. → It...",
+              "answer": "It is reported that the minister has resigned / resigned."
+            }
+          ]
+        },
+        {
+          "id": "ex2",
+          "type": "multiple_choice",
+          "title": "Which infinitive?",
+          "instruction": "Choose the correct infinitive form.",
+          "instruction_pt": "Escolha a forma correta do infinitivo.",
+          "items": [
+            {
+              "prompt": "She is said ___ five languages. (agora)",
+              "options": [
+                "to speak",
+                "to have spoken",
+                "to be speaking"
+              ],
+              "answer": "to speak"
+            },
+            {
+              "prompt": "The suspect is thought ___ in the area right now.",
+              "options": [
+                "to hide",
+                "to be hiding",
+                "to have hidden"
+              ],
+              "answer": "to be hiding"
+            },
+            {
+              "prompt": "The artist is believed ___ this painting in 1890.",
+              "options": [
+                "to paint",
+                "to have painted",
+                "to be painting"
+              ],
+              "answer": "to have painted"
+            },
+            {
+              "prompt": "He is reported ___ on the project for years.",
+              "options": [
+                "to work",
+                "to have been working",
+                "to be worked"
+              ],
+              "answer": "to have been working"
+            }
+          ]
+        },
+        {
+          "id": "ex3",
+          "type": "match",
+          "title": "Adverbs of reporting",
+          "instruction": "Write the English adverb.",
+          "instruction_pt": "Escreva o advérbio em inglês.",
+          "items": [
+            {
+              "prompt": "supostamente (acusação)",
+              "answer": "allegedly"
+            },
+            {
+              "prompt": "segundo relatos",
+              "answer": "reportedly"
+            },
+            {
+              "prompt": "aparentemente",
+              "answer": "apparently"
+            },
+            {
+              "prompt": "supostamente (o que se espera)",
+              "answer": "supposedly"
+            }
+          ]
+        },
+        {
+          "id": "ex4",
+          "type": "dictation",
+          "title": "Dictation",
+          "instruction": "Listen and write the sentence.",
+          "instruction_pt": "Ouça e escreva a frase.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "It is said that the house is haunted."
+            },
+            {
+              "prompt": "2",
+              "answer": "The suspect is believed to have left the country."
+            },
+            {
+              "prompt": "3",
+              "answer": "He is thought to be hiding in the mountains."
+            },
+            {
+              "prompt": "4",
+              "answer": "The rumor turned out to be a hoax."
+            }
+          ]
+        },
+        {
+          "id": "ex5",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the mistake.",
+          "instruction_pt": "Encontre e corrija o erro.",
+          "items": [
+            {
+              "prompt": "She is said that she is very generous.",
+              "answer": "She is said to be very generous. / It is said that she is very generous."
+            },
+            {
+              "prompt": "The ship is believed to sink in 1712.",
+              "answer": "The ship is believed to have sunk in 1712."
+            },
+            {
+              "prompt": "Is thought that prices will rise.",
+              "answer": "It is thought that prices will rise."
+            },
+            {
+              "prompt": "He is reported to be resigned yesterday.",
+              "answer": "He is reported to have resigned yesterday."
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "fill_blank",
+          "title": "Complete the report",
+          "instruction": "Complete with: is estimated · are believed · is said · allegedly · to have.",
+          "instruction_pt": "Complete a reportagem.",
+          "items": [
+            {
+              "prompt": "The fire ___ to have started in the kitchen.",
+              "answer": "is said"
+            },
+            {
+              "prompt": "It ___ that the damage will cost millions.",
+              "answer": "is estimated"
+            },
+            {
+              "prompt": "Two employees ___ to have been inside the building.",
+              "answer": "are believed"
+            },
+            {
+              "prompt": "The owner ___ ignored safety warnings and is thought ___ left the city.",
+              "answer": "allegedly / to have"
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction": "\"Rumor mill\": each student invents a surprising rumor about a fictional celebrity or company. The class reports the rumors using passive reporting structures and discusses which ones are likely to be true.",
+        "instruction_pt": "\"Fábrica de boatos\": cada aluno inventa um boato surpreendente sobre uma celebridade ou empresa fictícia. A turma relata os boatos com estruturas passivas de relato e discute quais são prováveis.",
+        "questions": [
+          "What urban legends did you believe as a child?",
+          "What is your city said to be famous for?",
+          "What famous mystery would you like to solve?",
+          "Why do people spread rumors?",
+          "How can you tell if a news report is based on confirmed facts?"
+        ]
+      },
+      "writing": {
+        "task": "Write a short article (180–220 words) for a travel website about a legend, mystery or famous story from your region. Use at least 6 passive reporting structures and 2 reporting adverbs.",
+        "task_pt": "Escreva um artigo curto (180–220 palavras) para um site de viagens sobre uma lenda, mistério ou história famosa da sua região. Use pelo menos 6 estruturas passivas de relato e 2 advérbios de relato.",
+        "model": "The legend of the Boto: Amazon's mysterious charmer\n\nIf you travel along the rivers of the Amazon, you will almost certainly hear about the Boto, the pink river dolphin. According to local legend, the Boto is said to transform into a handsome young man on nights of celebration, especially during the June festivals.\n\nDressed in white and always wearing a hat — which is believed to hide the breathing hole on top of his head — he is said to charm the most beautiful women at the party. Before dawn, he allegedly returns to the river, leaving behind broken hearts and, sometimes, a baby.\n\nThe legend is thought to have originated among Indigenous communities and is known to have spread widely in the region. Historians suggest that, in the past, the story may have been used to explain pregnancies outside marriage.\n\nToday, the pink dolphins are reported to be endangered, and it is estimated that their population has fallen significantly in recent decades. Conservation groups are urging tourists to observe them only with licensed guides.\n\nSo, if a mysterious man in a white hat asks you to dance in Belém, you've been warned!"
+      },
+      "culture_note": {
+        "title": "\"Alleged\" e a presunção de inocência",
+        "text_pt": "Em notícias policiais em inglês, jornalistas usam **alleged/allegedly** (\"the alleged thief\", \"he allegedly stole\") até que a pessoa seja condenada. Isso protege o veículo de processos e respeita a **presumption of innocence** (presunção de inocência). Por isso, uma notícia que diz \"the thief\" antes do julgamento pode ser considerada problemática."
+      },
+      "summary_pt": [
+        "It is said / believed / thought / estimated that + frase.",
+        "Sujeito + is said / believed + to + verbo.",
+        "to be + -ing (agora) · to have + pp (antes).",
+        "allegedly / reportedly / apparently / supposedly."
+      ]
+    },
+    {
+      "id": "B2-M3-L3",
+      "title": "The art of persuasion",
+      "subtitle_pt": "Ênfase: cleft sentences, do/does/did enfático e inversão simples",
+      "duration_min": 75,
+      "source_refs": [
+        "CEFR / EAQUALS Core Inventory – B2 (cleft sentences, emphasis)",
+        "TopNotch 3B Teacher's Book – Unit 8 (persuasion, advertising)"
+      ],
+      "objectives": [
+        "Dar ênfase com cleft sentences (What I love is... / It was... that...)",
+        "Usar do/does/did para ênfase (I do understand)",
+        "Usar recursos retóricos: regra de três, perguntas retóricas, contraste",
+        "Analisar e criar textos persuasivos (anúncios, discursos, pitches)"
+      ],
+      "warmup": {
+        "text_pt": "Por que alguns discursos e anúncios ficam na nossa cabeça para sempre? \"I have a dream.\" \"Just do it.\" \"Yes, we can.\" Persuasão é técnica — e em inglês, boa parte dela está na **estrutura das frases**.",
+        "questions": [
+          "What's the most persuasive ad or speech you remember?",
+          "Are you easily persuaded? By what?"
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "persuasive / to persuade",
+          "pt": "persuasivo / persuadir",
+          "say": "persuêisiv / tu persuêid"
+        },
+        {
+          "en": "rhetoric / rhetorical",
+          "pt": "retórica / retórico",
+          "say": "rétorik / ritórikal"
+        },
+        {
+          "en": "a rhetorical question",
+          "pt": "uma pergunta retórica",
+          "say": "a ritórikal kuéstchon"
+        },
+        {
+          "en": "the rule of three",
+          "pt": "a regra de três (estrutura em trios)",
+          "say": "dâ rúl ov θrí"
+        },
+        {
+          "en": "a catchy slogan",
+          "pt": "um slogan que pega",
+          "say": "a kétchi slôugan"
+        },
+        {
+          "en": "to appeal to (emotions / logic)",
+          "pt": "apelar para (emoções / lógica)",
+          "say": "tu apíl tu"
+        },
+        {
+          "en": "credibility",
+          "pt": "credibilidade",
+          "say": "kredibíliti"
+        },
+        {
+          "en": "a call to action",
+          "pt": "uma chamada para ação",
+          "say": "a kól tu ékshon"
+        },
+        {
+          "en": "to convince / convincing",
+          "pt": "convencer / convincente",
+          "say": "tu konvíns"
+        },
+        {
+          "en": "to manipulate / manipulative",
+          "pt": "manipular / manipulador",
+          "say": "tu manípiuleit"
+        },
+        {
+          "en": "a pitch / to pitch",
+          "pt": "uma apresentação de venda / apresentar (uma ideia)",
+          "say": "a pitch"
+        },
+        {
+          "en": "compelling",
+          "pt": "convincente, cativante",
+          "say": "kompélin"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "What I love about this product is...",
+          "pt": "O que eu amo neste produto é..."
+        },
+        {
+          "en": "It was my teacher who inspired me.",
+          "pt": "Foi meu professor que me inspirou."
+        },
+        {
+          "en": "What we need is a clear plan.",
+          "pt": "Do que precisamos é um plano claro."
+        },
+        {
+          "en": "I do understand your concerns.",
+          "pt": "Eu realmente entendo suas preocupações."
+        },
+        {
+          "en": "The thing is, ...",
+          "pt": "A questão é que..."
+        },
+        {
+          "en": "The reason why I'm here is...",
+          "pt": "O motivo pelo qual estou aqui é..."
+        }
+      ],
+      "grammar": {
+        "title": "Emphasis and rhetoric",
+        "explanation_pt": "**1. Cleft sentences com What** → destacam uma informação colocando-a no fim:\n- Normal: \"I love the design.\" → Ênfase: \"**What I love is** the design.\"\n- \"**What we need is** more time.\" / \"**What worries me is** the cost.\"\n- Com ações: \"**What I did was** (to) call the manager.\" / \"**What you should do is** talk to her.\"\n- Variações: **All I want is**... (tudo o que eu quero é) / **The thing (that) I like is**... / **The reason (why)**... / **The place where**...\n\n**2. Cleft sentences com It** → destacam **quem / o quê / quando / onde**:\n- \"Ana broke the record.\" → \"**It was Ana who** broke the record.\" (foi a Ana, não outra pessoa)\n- \"**It was in 2015 that** everything changed.\" / \"**It's not the price that** bothers me — **it's** the quality.\"\n\n**3. Do / does / did enfático** → reforça uma afirmação (muitas vezes em contraste):\n- \"I **do** like your idea — I just think it's expensive.\"\n- \"She **did** call you; you just didn't hear the phone.\"\n- Em imperativos (educado e caloroso): \"**Do** come in!\" / \"**Do** let me know.\"\n\n**4. Recursos retóricos:**\n- **Regra de três:** \"It's faster, cheaper and greener.\"\n- **Perguntas retóricas:** \"Who doesn't want more free time?\"\n- **Contraste/antítese:** \"It's not about working harder; it's about working smarter.\"\n- **Repetição:** \"We will try. We will fail. We will try again.\"\n- **Inversão com Never / Not only** (formal, enfática): \"**Never have I** seen such talent.\" / \"**Not only is it** cheaper, **but it's** also faster.\"",
+        "table": {
+          "headers": [
+            "Normal",
+            "Com ênfase"
+          ],
+          "rows": [
+            [
+              "I need a holiday.",
+              "What I need is a holiday."
+            ],
+            [
+              "The noise annoys me.",
+              "What annoys me is the noise."
+            ],
+            [
+              "My mother taught me to cook.",
+              "It was my mother who taught me to cook."
+            ],
+            [
+              "I like it.",
+              "I do like it!"
+            ],
+            [
+              "It's cheap and fast.",
+              "Not only is it cheap, but it's also fast."
+            ],
+            [
+              "I've never seen anything like it.",
+              "Never have I seen anything like it."
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "What makes this app different is that it learns from your habits.",
+            "pt": "O que torna este app diferente é que ele aprende com seus hábitos."
+          },
+          {
+            "en": "It wasn't the money that convinced me — it was the team.",
+            "pt": "Não foi o dinheiro que me convenceu — foi a equipe."
+          },
+          {
+            "en": "I do appreciate your help; I just need a bit more time to decide.",
+            "pt": "Eu realmente agradeço sua ajuda; só preciso de um pouco mais de tempo para decidir."
+          }
+        ],
+        "tip_pt": "Cleft sentences são ótimas em **apresentações e entrevistas**: \"**What I'd like to talk about today is**...\" / \"**The reason why** I applied for this job **is**...\" / \"**What I'm most proud of is**...\" Elas dão tempo para pensar e criam expectativa."
+      },
+      "common_mistakes": [
+        {
+          "wrong": "What I need it's a holiday.",
+          "right": "What I need is a holiday.",
+          "why_pt": "Não acrescente it: What + sujeito + verbo + is..."
+        },
+        {
+          "wrong": "Was my mother who taught me.",
+          "right": "It was my mother who taught me.",
+          "why_pt": "A cleft sentence com It precisa do sujeito it."
+        },
+        {
+          "wrong": "Never I have seen this.",
+          "right": "Never have I seen this. / I have never seen this.",
+          "why_pt": "Com never no início, há inversão (auxiliar + sujeito)."
+        }
+      ],
+      "pronunciation": {
+        "focus": "Ênfase na informação destacada",
+        "tip_pt": "Em cleft sentences, a voz faz uma pequena **pausa depois de \"is\"** e **acentua** a informação final: \"What I **need**... is a **HOLIDAY**.\" Com o do enfático, o auxiliar é **forte**: \"I **DO** like it!\" (normalmente seria fraco).",
+        "practice": [
+          "What I need... is a HOLIDAY.",
+          "It was ANA who broke the record.",
+          "I DO like it — I promise!"
+        ]
+      },
+      "dialogue": {
+        "title": "The startup pitch",
+        "context_pt": "Uma empreendedora ensaia o pitch da sua startup com um mentor.",
+        "lines": [
+          {
+            "speaker": "Malu",
+            "en": "OK, here's my pitch. \"Our app helps small farmers sell their products online. It's easy to use and it's cheap.\"",
+            "pt": "OK, aqui está meu pitch. \"Nosso app ajuda pequenos agricultores a vender produtos online. É fácil de usar e é barato.\""
+          },
+          {
+            "speaker": "Mentor",
+            "en": "It's clear, but it isn't compelling. What you need is a hook. Start with a question.",
+            "pt": "Está claro, mas não é cativante. Do que você precisa é um gancho. Comece com uma pergunta."
+          },
+          {
+            "speaker": "Malu",
+            "en": "\"Did you know that small farmers lose up to 40% of their income to middlemen?\"",
+            "pt": "\"Você sabia que pequenos agricultores perdem até 40% da renda para atravessadores?\""
+          },
+          {
+            "speaker": "Mentor",
+            "en": "Better! Now, what makes your app different?",
+            "pt": "Melhor! Agora, o que torna seu app diferente?"
+          },
+          {
+            "speaker": "Malu",
+            "en": "\"What makes us different is that farmers set their own prices. Not only is the app free for farmers, but it also handles delivery.\"",
+            "pt": "\"O que nos torna diferentes é que os agricultores definem seus próprios preços. Não só o app é gratuito para agricultores, como também cuida da entrega.\""
+          },
+          {
+            "speaker": "Mentor",
+            "en": "Great use of emphasis. Why did you start this?",
+            "pt": "Ótimo uso de ênfase. Por que você começou isso?"
+          },
+          {
+            "speaker": "Malu",
+            "en": "\"It was my grandfather who inspired me. He grew coffee for forty years and never got a fair price. This isn't just a business. It's personal.\"",
+            "pt": "\"Foi meu avô que me inspirou. Ele plantou café por quarenta anos e nunca recebeu um preço justo. Isso não é só um negócio. É pessoal.\""
+          },
+          {
+            "speaker": "Mentor",
+            "en": "Now that's a pitch. Investors do care about numbers, but what they remember is the story.",
+            "pt": "Agora sim, isso é um pitch. Investidores realmente se importam com números, mas do que eles lembram é a história."
+          }
+        ]
+      },
+      "listening": {
+        "title": "Analyzing a famous ad",
+        "context_pt": "Uma professora de marketing analisa as técnicas de um anúncio inventado de carro elétrico.",
+        "lines": [
+          {
+            "speaker": "Professor",
+            "en": "Let's look at this electric car ad. It opens with a rhetorical question: \"What if your car could make the world cleaner?\" That's an emotional appeal. Then we hear the rule of three: \"Silent. Smart. Sustainable.\" Notice the alliteration too — three words starting with S. Next comes a contrast: \"It's not just a car. It's a statement.\" And finally, the call to action: \"The future is waiting. Don't keep it waiting.\" What makes the ad effective isn't the technical information — there's almost none. It's the feeling. That's the key lesson of persuasion: people decide emotionally and justify their decision logically afterwards."
+          }
+        ],
+        "questions": [
+          {
+            "q": "How does the ad open?",
+            "answer": "With a rhetorical question: \"What if your car could make the world cleaner?\""
+          },
+          {
+            "q": "What example of the rule of three does it use?",
+            "answer": "\"Silent. Smart. Sustainable.\""
+          },
+          {
+            "q": "What is the call to action?",
+            "answer": "\"The future is waiting. Don't keep it waiting.\""
+          },
+          {
+            "q": "What is the key lesson of persuasion, according to the professor?",
+            "answer": "People decide emotionally and justify logically afterwards."
+          }
+        ]
+      },
+      "video": {
+        "title": "How great leaders inspire action",
+        "speaker": "Simon Sinek",
+        "url": "https://www.ted.com/search?q=how+great+leaders+inspire+action",
+        "task_pt": "Assista à palestra (cerca de 18 minutos) e identifique técnicas de persuasão e frases de ênfase que o palestrante usa. Responda com cleft sentences:",
+        "questions": [
+          "What is the speaker's main idea (the \"golden circle\")?",
+          "What examples does he use to support it?",
+          "Which persuasive techniques does he use (repetition, contrast, questions)?",
+          "What's the \"why\" behind your work or studies? Start with: \"What drives me is...\""
+        ]
+      },
+      "reading": {
+        "title": "Ethos, pathos, logos",
+        "text": "More than two thousand years ago, the Greek philosopher Aristotle described three ways to persuade an audience. Remarkably, his framework is still taught in business schools, law faculties and marketing courses today. The first is ethos: credibility. We're more likely to be persuaded by someone we trust or respect — which is why advertisers use doctors, athletes and celebrities, and why speakers often begin by explaining their experience. The second is pathos: emotion. Stories, images and music can make an audience feel joy, fear, anger or hope. It is pathos that makes a charity advert with a single child's face so much more powerful than a list of statistics. The third is logos: logic. This includes facts, data, examples and clear reasoning. What effective persuaders do is combine all three. A strong pitch might begin with a personal story (pathos), present data showing the size of the problem (logos), and mention the speaker's expertise or a respected partner (ethos). Of course, the same techniques can be used to manipulate. What distinguishes persuasion from manipulation is honesty: persuasion helps people make a decision with full information, while manipulation tries to hide it. Understanding these techniques, then, is not only useful for persuading others — it's essential for protecting ourselves.",
+        "questions": [
+          {
+            "q": "What is ethos?",
+            "answer": "Credibility (trusting or respecting the speaker)."
+          },
+          {
+            "q": "Why is a charity advert with a child's face so powerful?",
+            "answer": "Because of pathos — emotion is more powerful than statistics."
+          },
+          {
+            "q": "How might a strong pitch combine all three?",
+            "answer": "Personal story (pathos), data (logos), expertise or respected partner (ethos)."
+          },
+          {
+            "q": "What distinguishes persuasion from manipulation?",
+            "answer": "Honesty — persuasion gives full information; manipulation hides it."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "answer",
+          "title": "Cleft sentences with What",
+          "instruction": "Rewrite with What... is/was to emphasize the underlined idea (in CAPS).",
+          "instruction_pt": "Reescreva com What... is/was para enfatizar a ideia em CAPS.",
+          "items": [
+            {
+              "prompt": "I need A LONG HOLIDAY.",
+              "answer": "What I need is a long holiday."
+            },
+            {
+              "prompt": "THE TRAFFIC annoys me most.",
+              "answer": "What annoys me most is the traffic."
+            },
+            {
+              "prompt": "We should HIRE MORE PEOPLE.",
+              "answer": "What we should do is hire more people."
+            },
+            {
+              "prompt": "I loved THE MUSIC.",
+              "answer": "What I loved was the music."
+            }
+          ]
+        },
+        {
+          "id": "ex2",
+          "type": "answer",
+          "title": "Cleft sentences with It",
+          "instruction": "Rewrite with It is/was... who/that... to emphasize the word in CAPS.",
+          "instruction_pt": "Reescreva com It is/was... who/that... para enfatizar a palavra em CAPS.",
+          "items": [
+            {
+              "prompt": "MY SISTER told me the news.",
+              "answer": "It was my sister who told me the news."
+            },
+            {
+              "prompt": "We met IN LISBON.",
+              "answer": "It was in Lisbon that we met."
+            },
+            {
+              "prompt": "THE PRICE worries me, not the quality.",
+              "answer": "It's the price that worries me, not the quality."
+            }
+          ]
+        },
+        {
+          "id": "ex3",
+          "type": "multiple_choice",
+          "title": "Emphasis",
+          "instruction": "Choose the correct option.",
+          "instruction_pt": "Escolha a opção correta.",
+          "items": [
+            {
+              "prompt": "I ___ like your idea — I just need more data.",
+              "options": [
+                "do",
+                "am",
+                "does"
+              ],
+              "answer": "do"
+            },
+            {
+              "prompt": "Never ___ such a beautiful sunset.",
+              "options": [
+                "I have seen",
+                "have I seen",
+                "I saw"
+              ],
+              "answer": "have I seen"
+            },
+            {
+              "prompt": "Not only ___ cheaper, but it's also faster.",
+              "options": [
+                "it is",
+                "is it",
+                "it's"
+              ],
+              "answer": "is it"
+            },
+            {
+              "prompt": "She ___ send the email — check your spam folder.",
+              "options": [
+                "did",
+                "does",
+                "do"
+              ],
+              "answer": "did"
+            }
+          ]
+        },
+        {
+          "id": "ex4",
+          "type": "dictation",
+          "title": "Dictation",
+          "instruction": "Listen and write the sentence.",
+          "instruction_pt": "Ouça e escreva a frase.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "What I love about this product is the design."
+            },
+            {
+              "prompt": "2",
+              "answer": "It was my teacher who inspired me."
+            },
+            {
+              "prompt": "3",
+              "answer": "I do understand your concerns."
+            },
+            {
+              "prompt": "4",
+              "answer": "The reason why I'm here is to help."
+            }
+          ]
+        },
+        {
+          "id": "ex5",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the mistake.",
+          "instruction_pt": "Encontre e corrija o erro.",
+          "items": [
+            {
+              "prompt": "What I want it is a new job.",
+              "answer": "What I want is a new job."
+            },
+            {
+              "prompt": "Was the manager who called.",
+              "answer": "It was the manager who called."
+            },
+            {
+              "prompt": "Not only it is fast, but it's also safe.",
+              "answer": "Not only is it fast, but it's also safe."
+            },
+            {
+              "prompt": "I does like it!",
+              "answer": "I do like it!"
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "fill_blank",
+          "title": "Write a persuasive ad",
+          "instruction": "Complete the ad with: What · Who · Not only · It's · do.",
+          "instruction_pt": "Complete o anúncio.",
+          "items": [
+            {
+              "prompt": "___ doesn't want to sleep better?",
+              "answer": "Who"
+            },
+            {
+              "prompt": "___ makes DreamPillow unique is its smart cooling technology.",
+              "answer": "What"
+            },
+            {
+              "prompt": "___ is it comfortable, but it's also made from recycled materials.",
+              "answer": "Not only"
+            },
+            {
+              "prompt": "___ not just a pillow — it's a better tomorrow. So ___ try it tonight!",
+              "answer": "It's / do"
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction": "\"Shark Tank\": in groups, invent a product and prepare a 2-minute pitch using ethos, pathos and logos, at least 3 cleft sentences, a rule of three, a rhetorical question and a call to action. The class votes as \"investors\".",
+        "instruction_pt": "\"Shark Tank\": em grupos, inventem um produto e preparem um pitch de 2 minutos usando ethos, pathos e logos, pelo menos 3 cleft sentences, uma regra de três, uma pergunta retórica e uma chamada para ação. A turma vota como \"investidores\".",
+        "questions": [
+          "What's the most persuasive ad you've ever seen? Why did it work?",
+          "What persuades you more: emotions, logic or credibility?",
+          "Where's the line between persuasion and manipulation?",
+          "What do you find most annoying about advertising?",
+          "What's the one thing you'd like to persuade everyone to do?"
+        ]
+      },
+      "writing": {
+        "task": "Write a persuasive speech (200–250 words) for a cause you believe in (e.g., more bike lanes, a four-day week, reading more books). Use ethos, pathos and logos, at least 4 emphasis structures and a clear call to action.",
+        "task_pt": "Escreva um discurso persuasivo (200–250 palavras) sobre uma causa em que você acredita (ex.: mais ciclovias, semana de quatro dias, ler mais livros). Use ethos, pathos e logos, pelo menos 4 estruturas de ênfase e uma chamada para ação clara.",
+        "model": "Why our city needs more bike lanes\n\nWho here has spent more than an hour in traffic this week? Almost everyone, I imagine. I'm a doctor, and every day I see the consequences of the way we move around this city: stress, back pain, respiratory problems.\n\nWhat many people don't realize is that the solution is surprisingly simple. Cities that have invested in safe bike lanes — like Bogotá, Copenhagen and, closer to home, Fortaleza — have seen traffic fall, air quality improve and residents become healthier. Not only are bikes cheaper than cars, but they also take up a fraction of the space.\n\nIt was a patient of mine who changed my mind about cycling. Five years ago, she was overweight, stressed and taking medication for blood pressure. Then she started cycling to work. Today, she no longer needs the medication. What she told me last month stayed with me: \"I don't feel like I'm commuting anymore. I feel free.\"\n\nI do understand the concerns. Our streets aren't safe for cyclists — yet. But that's exactly the point. What we need isn't more courage from cyclists; it's more courage from our leaders.\n\nSo here's my request: sign the petition, come to the council meeting on Thursday, and, if you can, try cycling to work once this month. Healthier people. Cleaner air. A better city. Let's build it together."
+      },
+      "culture_note": {
+        "title": "Discursos que marcaram a história",
+        "text_pt": "Discursos famosos em inglês são um ótimo material de estudo de retórica: **\"I Have a Dream\"** (Martin Luther King Jr., 1963), **\"We shall fight on the beaches\"** (Winston Churchill, 1940) e o discurso de **Malala Yousafzai** na ONU (2013). Ouça e observe: repetição, regra de três, contraste e perguntas retóricas estão em todos."
+      },
+      "summary_pt": [
+        "What I need is... / What I did was... (ênfase no fim).",
+        "It was X who/that... (destaca quem/o quê/quando).",
+        "do / does / did enfático: I DO like it.",
+        "Retórica: regra de três, perguntas retóricas, contraste, Not only / Never have I."
+      ]
+    },
+    {
+      "id": "B2-M3-L4",
+      "title": "Let's debate",
+      "subtitle_pt": "Debate: argumentar, contra-argumentar, refutar e concluir",
+      "duration_min": 80,
+      "source_refs": [
+        "CEFR / EAQUALS Core Inventory – B2 (developing an argument, conceding, refuting)",
+        "TopNotch 3B Teacher's Book – Unit 9 (controversial issues)"
+      ],
+      "objectives": [
+        "Apresentar argumentos com estrutura (ponto, razão, exemplo)",
+        "Fazer concessões e contra-argumentar (Admittedly..., However...)",
+        "Refutar argumentos com educação e precisão",
+        "Participar de um debate formal em equipes"
+      ],
+      "warmup": {
+        "text_pt": "Debater bem não é falar mais alto — é **estruturar** argumentos, **reconhecer** o lado do outro e **refutar** com evidências. Hoje você vai juntar tudo deste módulo (reporting verbs, hedging, ênfase) num debate formal em inglês.",
+        "questions": [
+          "Do you enjoy arguing? Why or why not?",
+          "What's a topic you've changed your mind about?"
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "a motion",
+          "pt": "uma moção (tema do debate)",
+          "say": "a môushon"
+        },
+        {
+          "en": "the proposition / the opposition",
+          "pt": "a favor / contra (lados do debate)",
+          "say": "dâ propozíshon / dâ opozíshon"
+        },
+        {
+          "en": "to concede / a concession",
+          "pt": "admitir, conceder / uma concessão",
+          "say": "tu konsíd / konséshon"
+        },
+        {
+          "en": "to refute / a rebuttal",
+          "pt": "refutar / uma réplica",
+          "say": "tu rifiút / a ribâtal"
+        },
+        {
+          "en": "a valid point",
+          "pt": "um ponto válido",
+          "say": "a vélid póint"
+        },
+        {
+          "en": "a flawed argument",
+          "pt": "um argumento falho",
+          "say": "a flód árgiument"
+        },
+        {
+          "en": "evidence / to back up",
+          "pt": "evidência / sustentar",
+          "say": "évidens / tu bék âp"
+        },
+        {
+          "en": "a fallacy",
+          "pt": "uma falácia",
+          "say": "a félasi"
+        },
+        {
+          "en": "to oversimplify",
+          "pt": "simplificar demais",
+          "say": "tu ôuversimplifai"
+        },
+        {
+          "en": "to weigh up",
+          "pt": "pesar, ponderar",
+          "say": "tu uêi âp"
+        },
+        {
+          "en": "on the whole / all things considered",
+          "pt": "no geral / considerando tudo",
+          "say": "on dâ rôul / ól θinz konsíderd"
+        },
+        {
+          "en": "to sway (an audience)",
+          "pt": "influenciar, convencer (o público)",
+          "say": "tu suêi"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "Admittedly, there are some risks. However, ...",
+          "pt": "É verdade que há alguns riscos. No entanto, ..."
+        },
+        {
+          "en": "That's a valid point, but it overlooks...",
+          "pt": "É um ponto válido, mas ignora..."
+        },
+        {
+          "en": "The evidence clearly shows that...",
+          "pt": "As evidências mostram claramente que..."
+        },
+        {
+          "en": "My opponent claims that... but in fact...",
+          "pt": "Meu oponente alega que... mas na verdade..."
+        },
+        {
+          "en": "Even if that were true, ...",
+          "pt": "Mesmo que isso fosse verdade, ..."
+        },
+        {
+          "en": "All things considered, ...",
+          "pt": "Considerando tudo, ..."
+        }
+      ],
+      "grammar": {
+        "title": "Language for debating",
+        "explanation_pt": "**1. Estruturar um argumento (PEEL / PRE):** **P**oint (ponto) → **R**eason (razão) → **E**xample/**E**vidence (exemplo/evidência) → **L**ink (volta ao tema)\n\"**Firstly**, a four-day week **would** improve productivity. **This is because** rested workers make fewer mistakes. **For instance**, a large trial in the UK found that... **Therefore**, ...\"\n\n**2. Sequenciar:** Firstly / First of all → Secondly / Furthermore / Moreover / In addition → Finally / Last but not least\n\n**3. Conceder (reconhecer o outro lado) + contra-argumentar:**\n- \"**Admittedly**, ... **However**, ...\" / \"**It's true that**..., **but**...\"\n- \"**While** it's true that..., we **must** also consider...\" / \"**Granted**, ... **Nevertheless**, ...\"\n- \"**Even if** that were true, ...\" (second conditional — hipótese para enfraquecer o argumento)\n\n**4. Refutar com precisão (reporting verbs + hedging!):**\n- \"**My opponent claims that**..., **but** the evidence suggests otherwise.\"\n- \"**That argument overlooks** / **fails to take into account**...\"\n- \"**That's an oversimplification.**\" / \"**That doesn't necessarily follow.**\"\n- \"**I'd question** the idea that...\"\n\n**5. Concluir:** \"**To sum up** / **In conclusion** / **All things considered** / **On balance**, we firmly believe that...\"\n\n**Falácias comuns para evitar e identificar:** **ad hominem** (atacar a pessoa), **straw man** (distorcer o argumento do outro), **slippery slope** (\"se X, então inevitavelmente Z\"), **false dilemma** (\"ou A ou B\", ignorando outras opções).",
+        "table": {
+          "headers": [
+            "Função",
+            "Frases"
+          ],
+          "rows": [
+            [
+              "Sequenciar",
+              "Firstly, ... Furthermore, ... Finally, ..."
+            ],
+            [
+              "Justificar",
+              "This is because... / The main reason is..."
+            ],
+            [
+              "Exemplificar",
+              "For instance, ... / A case in point is..."
+            ],
+            [
+              "Conceder",
+              "Admittedly, ... / It's true that..., but..."
+            ],
+            [
+              "Contra-argumentar",
+              "However, ... / Nevertheless, ... / Even if..."
+            ],
+            [
+              "Refutar",
+              "My opponent claims that..., but... / That overlooks..."
+            ],
+            [
+              "Concluir",
+              "All things considered, ... / On balance, ..."
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "Admittedly, a four-day week might not work for every industry. However, the evidence from several trials is very encouraging.",
+            "pt": "É verdade que a semana de quatro dias pode não funcionar para todo setor. No entanto, as evidências de vários testes são muito animadoras."
+          },
+          {
+            "en": "My opponent claims that social media connects people, but that argument overlooks the growing evidence of loneliness among teenagers.",
+            "pt": "Meu oponente alega que as redes sociais conectam as pessoas, mas esse argumento ignora as crescentes evidências de solidão entre adolescentes."
+          },
+          {
+            "en": "Even if online classes were cheaper, they couldn't replace the social experience of school.",
+            "pt": "Mesmo que as aulas online fossem mais baratas, não poderiam substituir a experiência social da escola."
+          }
+        ],
+        "tip_pt": "Em debates em inglês, **reconhecer** um bom argumento do outro lado (\"That's a valid point\") **aumenta** sua credibilidade. Quem nunca concede nada parece radical — e perde o público."
+      },
+      "common_mistakes": [
+        {
+          "wrong": "In the other hand, ...",
+          "right": "On the other hand, ...",
+          "why_pt": "A expressão é on the other hand."
+        },
+        {
+          "wrong": "Even if that is true, it would not work.",
+          "right": "Even if that were true, it wouldn't work. / Even if that is true, it won't work.",
+          "why_pt": "Mantenha a coerência do tipo de condicional."
+        },
+        {
+          "wrong": "You are stupid if you believe that.",
+          "right": "I'd question that idea, because...",
+          "why_pt": "Ataque pessoal (ad hominem) é uma falácia e destrói sua credibilidade."
+        }
+      ],
+      "pronunciation": {
+        "focus": "Signposting com pausas",
+        "tip_pt": "Em debates, as palavras de transição (**Firstly**, **However**, **Admittedly**, **In conclusion**) são **seguidas de pausa** e ditas com **ênfase**. Elas funcionam como placas na estrada: ajudam o público e os juízes a acompanhar sua estrutura.",
+        "practice": [
+          "FIRSTLY... (pausa) a four-day week would...",
+          "ADMITTEDLY... (pausa) there are risks. HOWEVER...",
+          "ALL things considered... (pausa) we firmly believe..."
+        ]
+      },
+      "dialogue": {
+        "title": "Debate: Should homework be banned?",
+        "context_pt": "Num debate escolar, duas equipes discutem a moção \"This house would ban homework in primary schools\".",
+        "lines": [
+          {
+            "speaker": "Chair",
+            "en": "The motion is: \"This house would ban homework in primary schools.\" Proposition, you have two minutes.",
+            "pt": "A moção é: \"Esta casa proibiria tarefa de casa no ensino fundamental I.\" Proposição, vocês têm dois minutos."
+          },
+          {
+            "speaker": "Bia",
+            "en": "Thank you. Firstly, research suggests that homework has little benefit for young children's learning. Secondly, it takes away time for play, sleep and family. Children need to be children.",
+            "pt": "Obrigada. Em primeiro lugar, pesquisas sugerem que a tarefa traz pouco benefício para o aprendizado de crianças pequenas. Em segundo lugar, ela tira tempo de brincar, dormir e ficar com a família. Crianças precisam ser crianças."
+          },
+          {
+            "speaker": "Chair",
+            "en": "Opposition, your response.",
+            "pt": "Oposição, sua resposta."
+          },
+          {
+            "speaker": "Theo",
+            "en": "Admittedly, too much homework can be stressful. However, banning it completely is an oversimplification. Small amounts of reading at home help build habits and involve parents in their children's education.",
+            "pt": "É verdade que tarefa demais pode ser estressante. No entanto, proibir completamente é uma simplificação excessiva. Pequenas quantidades de leitura em casa ajudam a criar hábitos e envolvem os pais na educação dos filhos."
+          },
+          {
+            "speaker": "Bia",
+            "en": "My opponent claims that homework involves parents, but that argument overlooks the fact that many parents work long hours and can't help. Homework actually increases inequality.",
+            "pt": "Meu oponente alega que a tarefa envolve os pais, mas esse argumento ignora o fato de que muitos pais trabalham muitas horas e não podem ajudar. A tarefa na verdade aumenta a desigualdade."
+          },
+          {
+            "speaker": "Theo",
+            "en": "That's a valid point. But even if some parents can't help, wouldn't it be better to support those families rather than remove the opportunity from everyone?",
+            "pt": "É um ponto válido. Mas mesmo que alguns pais não possam ajudar, não seria melhor apoiar essas famílias em vez de tirar a oportunidade de todos?"
+          },
+          {
+            "speaker": "Bia",
+            "en": "In conclusion, what young children need most isn't more worksheets — it's time to rest, play and be curious. We urge you to support the motion.",
+            "pt": "Em conclusão, do que as crianças pequenas mais precisam não é de mais folhas de exercícios — é de tempo para descansar, brincar e ser curiosas. Pedimos que vocês apoiem a moção."
+          },
+          {
+            "speaker": "Theo",
+            "en": "All things considered, the answer isn't a ban, but better homework: shorter, more meaningful and more flexible. We oppose the motion.",
+            "pt": "Considerando tudo, a resposta não é uma proibição, mas uma tarefa melhor: mais curta, mais significativa e mais flexível. Somos contra a moção."
+          }
+        ]
+      },
+      "listening": {
+        "title": "Debate coach's advice",
+        "context_pt": "Uma técnica de debate dá conselhos a alunos antes de uma competição.",
+        "lines": [
+          {
+            "speaker": "Coach",
+            "en": "Remember three things tomorrow. First, structure. Judges can't give you points for arguments they can't follow, so signpost clearly: \"My first point is...\", \"My second point is...\". Second, engage with the other side. The worst thing you can do is read a prepared speech and ignore what your opponents have just said. Listen, take notes, and refute their strongest argument, not their weakest. Third, stay calm and respectful. Attacking your opponent personally is a fallacy, and judges will penalize you for it. And one more thing: it's perfectly fine to concede a point. Saying \"Admittedly, that's true, but...\" shows confidence, not weakness. The best debaters aren't the loudest — they're the clearest."
+          }
+        ],
+        "questions": [
+          {
+            "q": "Why is structure important?",
+            "answer": "Judges can't give points for arguments they can't follow."
+          },
+          {
+            "q": "What is the worst thing you can do?",
+            "answer": "Read a prepared speech and ignore what the opponents have just said."
+          },
+          {
+            "q": "Which argument should you refute?",
+            "answer": "Their strongest argument, not their weakest."
+          },
+          {
+            "q": "What does conceding a point show?",
+            "answer": "Confidence, not weakness."
+          }
+        ]
+      },
+      "reading": {
+        "title": "The four-day week: does it work?",
+        "text": "In recent years, the idea of a four-day working week — with no reduction in pay — has moved from the fringes to the mainstream. Supporters argue that it improves employees' well-being, reduces burnout and can even increase productivity. They point to a large trial in the United Kingdom in 2022, coordinated by the non-profit 4 Day Week Global with researchers from several universities, in which around 60 companies reduced working hours. According to the organizers, the large majority of participating companies chose to continue with the policy after the trial, and many employees reported lower stress and better sleep. Similar pilots have been carried out in countries such as Iceland, Spain and, more recently, Brazil. Critics, however, raise several concerns. Admittedly, the results look impressive, but the companies that volunteered for trials may not be representative: they were probably already open to flexible work. Furthermore, a four-day week may be much harder to implement in sectors like healthcare, education or retail, where someone must be present at all times. Some economists also question whether productivity gains can be sustained in the long term. On balance, the evidence so far suggests that the four-day week can work well in some contexts — but it is unlikely to be a universal solution.",
+        "questions": [
+          {
+            "q": "What do supporters argue?",
+            "answer": "It improves well-being, reduces burnout and can increase productivity."
+          },
+          {
+            "q": "What did the UK trial find, according to the organizers?",
+            "answer": "Most companies continued the policy; many employees reported lower stress and better sleep."
+          },
+          {
+            "q": "Why might the trial companies not be representative?",
+            "answer": "They volunteered and were probably already open to flexible work."
+          },
+          {
+            "q": "What is the writer's conclusion?",
+            "answer": "It can work in some contexts but is unlikely to be a universal solution."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "match",
+          "title": "Debate functions",
+          "instruction": "Write the function: SEQUENCE, CONCEDE, COUNTER, REFUTE or CONCLUDE.",
+          "instruction_pt": "Escreva a função.",
+          "items": [
+            {
+              "prompt": "Furthermore, ...",
+              "answer": "SEQUENCE"
+            },
+            {
+              "prompt": "Admittedly, there are some risks.",
+              "answer": "CONCEDE"
+            },
+            {
+              "prompt": "Nevertheless, the benefits are greater.",
+              "answer": "COUNTER"
+            },
+            {
+              "prompt": "My opponent claims that..., but in fact...",
+              "answer": "REFUTE"
+            },
+            {
+              "prompt": "All things considered, ...",
+              "answer": "CONCLUDE"
+            }
+          ]
+        },
+        {
+          "id": "ex2",
+          "type": "fill_blank",
+          "title": "Build a PEEL paragraph",
+          "instruction": "Complete with: Firstly · because · For instance · Therefore.",
+          "instruction_pt": "Complete o parágrafo PEEL.",
+          "items": [
+            {
+              "prompt": "___, public transport should be free.",
+              "answer": "Firstly"
+            },
+            {
+              "prompt": "This is ___ it would reduce traffic and pollution.",
+              "answer": "because"
+            },
+            {
+              "prompt": "___, when the city of Tallinn made buses free, more people used them.",
+              "answer": "For instance"
+            },
+            {
+              "prompt": "___, free transport would benefit everyone, not only passengers.",
+              "answer": "Therefore"
+            }
+          ]
+        },
+        {
+          "id": "ex3",
+          "type": "match",
+          "title": "Identify the fallacy",
+          "instruction": "Write the fallacy: AD HOMINEM, STRAW MAN, SLIPPERY SLOPE or FALSE DILEMMA.",
+          "instruction_pt": "Identifique a falácia.",
+          "items": [
+            {
+              "prompt": "\"You can't talk about the economy — you failed maths at school!\"",
+              "answer": "AD HOMINEM"
+            },
+            {
+              "prompt": "\"If we allow phones in class, soon students will stop studying completely.\"",
+              "answer": "SLIPPERY SLOPE"
+            },
+            {
+              "prompt": "\"Either you support this law, or you don't care about children.\"",
+              "answer": "FALSE DILEMMA"
+            },
+            {
+              "prompt": "\"So you want fewer cars? You must want everyone to walk 20 km to work!\"",
+              "answer": "STRAW MAN"
+            }
+          ]
+        },
+        {
+          "id": "ex4",
+          "type": "dictation",
+          "title": "Dictation",
+          "instruction": "Listen and write the sentence.",
+          "instruction_pt": "Ouça e escreva a frase.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "Admittedly, there are some risks. However, the benefits are clear."
+            },
+            {
+              "prompt": "2",
+              "answer": "That's a valid point, but it overlooks the cost."
+            },
+            {
+              "prompt": "3",
+              "answer": "Even if that were true, it wouldn't solve the problem."
+            },
+            {
+              "prompt": "4",
+              "answer": "All things considered, we oppose the motion."
+            }
+          ]
+        },
+        {
+          "id": "ex5",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the mistake.",
+          "instruction_pt": "Encontre e corrija o erro.",
+          "items": [
+            {
+              "prompt": "In the other hand, it's expensive.",
+              "answer": "On the other hand, it's expensive."
+            },
+            {
+              "prompt": "Admitting, there are some problems.",
+              "answer": "Admittedly, there are some problems."
+            },
+            {
+              "prompt": "My opponent claims that it's cheap, but in fact is expensive.",
+              "answer": "My opponent claims that it's cheap, but in fact it's expensive."
+            },
+            {
+              "prompt": "In conclusion, we are firmly believe that...",
+              "answer": "In conclusion, we firmly believe that..."
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "fill_blank",
+          "title": "Refute the argument",
+          "instruction": "Complete the rebuttal with: claims · overlooks · evidence · valid · were.",
+          "instruction_pt": "Complete a réplica.",
+          "items": [
+            {
+              "prompt": "My opponent ___ that remote work reduces productivity.",
+              "answer": "claims"
+            },
+            {
+              "prompt": "That's a ___ concern for some jobs.",
+              "answer": "valid"
+            },
+            {
+              "prompt": "However, the argument ___ the time workers save on commuting, and the ___ from several studies points the other way.",
+              "answer": "overlooks / evidence"
+            },
+            {
+              "prompt": "Even if productivity ___ slightly lower, employees' well-being would still improve.",
+              "answer": "were"
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction": "Formal debate (30 min): two teams of 3. Choose a motion (e.g., \"This house would introduce a four-day week\", \"This house believes AI will do more good than harm\", \"This house would ban social media for under-16s\"). Each speaker: 2 minutes. Use PEEL, concede at least once, refute the other team and conclude. The rest of the class judges.",
+        "instruction_pt": "Debate formal (30 min): duas equipes de 3. Escolham uma moção (ex.: \"Esta casa introduziria a semana de quatro dias\", \"Esta casa acredita que a IA fará mais bem do que mal\", \"Esta casa proibiria redes sociais para menores de 16\"). Cada orador: 2 minutos. Use PEEL, conceda pelo menos uma vez, refute a outra equipe e conclua. O resto da turma julga.",
+        "questions": [
+          "Which motion would you most like to debate? Why?",
+          "Have you ever changed your mind after a good argument?",
+          "Which fallacy do you see most often online?",
+          "Is it possible to win an argument and still lose a friend?",
+          "What makes a debater convincing?"
+        ]
+      },
+      "writing": {
+        "task": "Write a for-and-against essay (220–260 words) on one of the debate motions. Present both sides fairly with PEEL paragraphs, concede and counter-argue, and give your conclusion.",
+        "task_pt": "Escreva uma redação \"a favor e contra\" (220–260 palavras) sobre uma das moções do debate. Apresente os dois lados com justiça usando parágrafos PEEL, conceda e contra-argumente e dê sua conclusão.",
+        "model": "Should social media be banned for children under 16?\n\nIn recent years, several governments have proposed restricting social media for teenagers. While the idea has strong support, it also raises important questions.\n\nThose in favour argue that a ban would protect young people's mental health. Firstly, studies have linked heavy social media use to anxiety, poor sleep and low self-esteem among teenagers. Secondly, platforms are designed to be addictive, and it is unreasonable to expect a 13-year-old to resist techniques created by expert engineers. For instance, endless scrolling and constant notifications make it extremely difficult to stop. Therefore, supporters believe the responsibility should not fall on children alone.\n\nOn the other hand, critics point out that a ban may be impossible to enforce. Admittedly, age-verification technology is improving; however, many teenagers would probably find ways around it. Furthermore, social media also has benefits: young people use it to stay in touch with friends, find communities and learn new skills. A complete ban, critics argue, could isolate those who rely on online support, such as LGBTQ+ teenagers in conservative environments.\n\nAll things considered, I believe that the risks are serious enough to justify stronger regulation, but that a total ban is an oversimplification. What we need is a combination of measures: stricter rules for platforms, better age verification, and digital education in schools. Even if a ban were possible, it would not teach young people how to use technology wisely — and that is a skill they will need for the rest of their lives."
+      },
+      "culture_note": {
+        "title": "Debate como tradição",
+        "text_pt": "Em países como Reino Unido, EUA e Austrália, clubes de debate escolares e universitários são uma tradição forte — as **Oxford Union** e **Cambridge Union** recebem chefes de Estado. O formato \"**This house believes/would...**\" vem dessas sociedades. Participar de um clube de debate em inglês é um dos melhores treinos para o C1."
+      },
+      "summary_pt": [
+        "PEEL: Point → Reason → Example → Link.",
+        "Conceder: Admittedly / It's true that... + However / Nevertheless.",
+        "Refutar: My opponent claims that..., but... / That overlooks...",
+        "Concluir: All things considered / On balance. Evite falácias!"
+      ]
+    }
+  ],
+  "review": {
+    "intro_pt": "Revise reporting verbs, passiva de relato, ênfase e linguagem de debate.",
+    "exercises": [
+      {
+        "id": "r1",
+        "type": "multiple_choice",
+        "title": "Choose the correct option",
+        "instruction": "Choose the correct option.",
+        "instruction_pt": "Escolha a opção correta.",
+        "items": [
+          {
+            "prompt": "He denied ___ the document.",
+            "options": [
+              "to sign",
+              "signing",
+              "that sign"
+            ],
+            "answer": "signing"
+          },
+          {
+            "prompt": "They accused her ___ the money.",
+            "options": [
+              "of stealing",
+              "to steal",
+              "for steal"
+            ],
+            "answer": "of stealing"
+          },
+          {
+            "prompt": "The suspect is believed ___ the city.",
+            "options": [
+              "to leave",
+              "to have left",
+              "leaving"
+            ],
+            "answer": "to have left"
+          },
+          {
+            "prompt": "What I need ___ a break.",
+            "options": [
+              "it is",
+              "is",
+              "it's"
+            ],
+            "answer": "is"
+          },
+          {
+            "prompt": "___, there are some risks. However, ...",
+            "options": [
+              "Admitting",
+              "Admittedly",
+              "Admitted"
+            ],
+            "answer": "Admittedly"
+          }
+        ]
+      },
+      {
+        "id": "r2",
+        "type": "answer",
+        "title": "Transform",
+        "instruction": "Rewrite the sentences as instructed.",
+        "instruction_pt": "Reescreva as frases como indicado.",
+        "items": [
+          {
+            "prompt": "It is said that the restaurant is the best in town. (The restaurant...)",
+            "answer": "The restaurant is said to be the best in town."
+          },
+          {
+            "prompt": "My grandmother taught me to sew. (It was...)",
+            "answer": "It was my grandmother who taught me to sew."
+          },
+          {
+            "prompt": "\"You should rest,\" the doctor told me. (advise)",
+            "answer": "The doctor advised me to rest."
+          }
+        ]
+      },
+      {
+        "id": "r3",
+        "type": "translate",
+        "title": "Translate",
+        "instruction": "Translate into English.",
+        "instruction_pt": "Traduza para o inglês.",
+        "items": [
+          {
+            "prompt": "Ela se recusou a comentar.",
+            "answer": "She refused to comment."
+          },
+          {
+            "prompt": "Estima-se que um milhão de pessoas compareceram.",
+            "answer": "It is estimated that a million people attended."
+          },
+          {
+            "prompt": "Não foi o preço que me convenceu.",
+            "answer": "It wasn't the price that convinced me."
+          }
+        ]
+      },
+      {
+        "id": "r4",
+        "type": "dictation",
+        "title": "Dictation",
+        "instruction": "Listen and write the sentence.",
+        "instruction_pt": "Ouça e escreva a frase.",
+        "items": [
+          {
+            "prompt": "1",
+            "answer": "Experts urged the public to stay calm."
+          },
+          {
+            "prompt": "2",
+            "answer": "He is thought to be hiding in the mountains."
+          },
+          {
+            "prompt": "3",
+            "answer": "My opponent claims that it's cheap, but in fact it isn't."
+          }
+        ]
+      },
+      {
+        "id": "r5",
+        "type": "correct_error",
+        "title": "Fix the mistake",
+        "instruction": "Find and correct the mistake.",
+        "instruction_pt": "Encontre e corrija o erro.",
+        "items": [
+          {
+            "prompt": "She suggested me to apply.",
+            "answer": "She suggested (that) I apply. / She suggested applying."
+          },
+          {
+            "prompt": "He is said that he is rich.",
+            "answer": "He is said to be rich. / It is said that he is rich."
+          },
+          {
+            "prompt": "Not only it is cheap, but also fast.",
+            "answer": "Not only is it cheap, but it's also fast."
+          }
+        ]
+      }
+    ],
+    "speaking_pt": "Grave um vídeo de 4 minutos em três partes: (1) relate uma notícia recente usando 5 reporting verbs diferentes; (2) faça um mini-pitch persuasivo de 1 minuto com cleft sentences; (3) defenda uma opinião sobre um tema polêmico com estrutura PEEL, uma concessão e uma conclusão.",
+    "speaking_questions": [
+      "What's a news story that people are talking about? Who said what?",
+      "What is your city said to be famous for?",
+      "What's the most persuasive argument you've ever heard?",
+      "What topic would you love to debate?",
+      "How do you protect yourself from manipulation in the media?"
+    ],
+    "project_pt": "**Media lab:** em grupo, criem uma \"edição especial\" de um telejornal ou podcast de 6–8 minutos com: (1) uma notícia com declarações relatadas, (2) uma reportagem sobre um mistério ou boato com passiva de relato, (3) um anúncio persuasivo e (4) um mini-debate entre dois \"especialistas\". Depois, analisem juntos as técnicas de persuasão usadas."
+  }
+}

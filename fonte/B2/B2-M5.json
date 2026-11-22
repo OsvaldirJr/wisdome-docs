@@ -1,0 +1,525 @@
+{
+  "id": "B2-M5",
+  "level": "B2",
+  "title": "Society and Change",
+  "theme_pt": "Cidades, desigualdade, tecnologia e escrita formal",
+  "can_do": ["Usar relative clauses avançadas (preposição + which/whom, which para frase inteira)", "Condensar ideias com participle clauses", "Contrastar ideias com conectores formais", "Escrever um ensaio argumentativo no formato B2"],
+  "lessons": [
+    {
+      "id": "B2-M5-L1",
+      "title": "The city we live in",
+      "subtitle_pt": "Relative clauses avançadas: preposição + which/whom, whose, which (frase inteira), quantificador + of which",
+      "duration_min": 75,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – B2 (relative clauses)", "Keynote Intermediate – Unit 3 (relative clauses, revisão)"],
+      "objectives": ["Usar preposição + which / whom em registro formal", "Usar which para comentar uma frase inteira", "Usar some of which / most of whom / none of which", "Descrever cidades, bairros e problemas urbanos"],
+      "warmup": {
+        "text_pt": "No B1+ você aprendeu who, which, that, where e whose. No B2, as relative clauses ficam mais sofisticadas: \"a cidade **em que** cresci\", \"os moradores, **muitos dos quais** trabalham no centro\", \"o trânsito piorou, **o que** irrita todo mundo\".",
+        "questions": ["What do you love and hate about the city you live in?", "What would make your neighbourhood a better place to live?"]
+      },
+      "vocabulary": [
+        {"en": "urban / urban planning", "pt": "urbano / planejamento urbano", "say": "ârban / ârban plénin"},
+        {"en": "a neighbourhood / a district", "pt": "um bairro / uma região", "say": "a nêiborrud / a dístrikt"},
+        {"en": "the outskirts / the suburbs", "pt": "a periferia / os subúrbios", "say": "dí áutskârts / dâ sâbârbz"},
+        {"en": "housing / affordable housing", "pt": "moradia / moradia acessível", "say": "ráuzin / aférdabol ráuzin"},
+        {"en": "rent / to rise sharply", "pt": "aluguel / subir muito", "say": "rént / tu ráiz shárpli"},
+        {"en": "gentrification", "pt": "gentrificação", "say": "djentrifikêishân"},
+        {"en": "public transport / commuting", "pt": "transporte público / deslocamento diário", "say": "pâblik tréns-port / kamiútin"},
+        {"en": "a cycle lane", "pt": "uma ciclovia / ciclofaixa", "say": "a sáikol lêin"},
+        {"en": "green spaces", "pt": "áreas verdes", "say": "grín spêisiz"},
+        {"en": "overcrowded", "pt": "superlotado", "say": "ôuverkráudid"},
+        {"en": "a pedestrian zone", "pt": "um calçadão, área de pedestres", "say": "a pedéstrian zôun"},
+        {"en": "infrastructure", "pt": "infraestrutura", "say": "ínfrastrâktcher"}
+      ],
+      "chunks": [
+        {"en": "the city in which I grew up", "pt": "a cidade em que cresci"},
+        {"en": "the people with whom I work", "pt": "as pessoas com quem trabalho"},
+        {"en": "Rents have risen sharply, which is a huge problem.", "pt": "Os aluguéis subiram muito, o que é um problema enorme."},
+        {"en": "residents, most of whom commute to work", "pt": "moradores, a maioria dos quais se desloca para o trabalho"},
+        {"en": "a city whose streets are always busy", "pt": "uma cidade cujas ruas estão sempre cheias"},
+        {"en": "the reason why I moved", "pt": "o motivo pelo qual me mudei"}
+      ],
+      "grammar": {
+        "title": "Advanced relative clauses",
+        "explanation_pt": "**1. Preposição + which / whom (formal)**\nNa fala, a preposição vai para o final; em textos formais, ela vem **antes** do pronome:\n- Informal: \"the city (that) I grew up **in**\"\n- Formal: \"the city **in which** I grew up\"\n- Informal: \"the people I work **with**\" → Formal: \"the people **with whom** I work\"\n⚠️ Depois de preposição, use **which** (coisas) ou **whom** (pessoas) — **nunca** that ou who: ❌ \"in that\", ❌ \"with who\".\n\n**2. Which para comentar a frase inteira** (= o que)\n- \"Rents have doubled, **which** means many families have had to move.\"\n- \"He didn't apologize, **which** I found rude.\"\nSempre com **vírgula** e sempre **which** (nunca that, nunca what): ❌ \"..., what is a problem\".\n\n**3. Quantificador + of which / of whom**\n**some / many / most / all / none / both / neither / half / one / a few + of which (coisas) / of whom (pessoas)**\n- \"The city has 30 parks, **most of which** are in rich areas.\"\n- \"I have two brothers, **both of whom** live abroad.\"\n- \"We received 200 complaints, **none of which** were answered.\"\n\n**4. Whose** (posse — pessoas **e** coisas)\n- \"a neighbourhood **whose** residents are fighting gentrification\"\n- Formal: \"the building, the roof **of which** collapsed\" (= whose roof)\n\n**5. Where / when / why** em vez de preposição + which:\n- \"the area **where** I live\" (= in which) · \"the year **when** the metro opened\" · \"the reason **why** I left\"\n\n**Lembrete:** relative clause **não restritiva** (informação extra) vem entre vírgulas e **não aceita that**.",
+        "table": {
+          "headers": ["Estrutura", "Exemplo"],
+          "rows": [["preposição + which", "the house in which she was born"], ["preposição + whom", "the colleague to whom I sent the report"], [", which (frase inteira)", "The bus was late, which made me miss the meeting."], ["quantificador + of which", "200 flats, half of which are empty"], ["quantificador + of whom", "50 students, most of whom are from Bahia"], ["whose", "a city whose population has doubled"]]
+        },
+        "examples": [
+          {"en": "Curitiba, whose bus rapid transit system became a model for other cities, is often praised for its urban planning.", "pt": "Curitiba, cujo sistema de BRT virou modelo para outras cidades, é frequentemente elogiada pelo seu planejamento urbano."},
+          {"en": "Thousands of people commute every day, many of whom spend more than three hours in traffic.", "pt": "Milhares de pessoas se deslocam todo dia, muitas das quais passam mais de três horas no trânsito."},
+          {"en": "The city closed the avenue to cars on Sundays, which made it one of the most popular leisure areas in town.", "pt": "A cidade fechou a avenida para carros aos domingos, o que a tornou uma das áreas de lazer mais populares."}
+        ],
+        "tip_pt": "Em português dizemos \"**o que** é um problema\". Em inglês, para retomar a frase toda, use **which**, não what: \"Prices went up, **which** is a problem.\""
+      },
+      "common_mistakes": [
+        {"wrong": "Traffic is terrible, what makes people stressed.", "right": "Traffic is terrible, which makes people stressed.", "why_pt": "Para comentar a frase inteira, use which."},
+        {"wrong": "the people with who I work", "right": "the people with whom I work / the people I work with", "why_pt": "Depois de preposição, use whom."},
+        {"wrong": "I have two sisters, both of them live in Recife.", "right": "I have two sisters, both of whom live in Recife.", "why_pt": "Para ligar as orações, use of whom (ou crie duas frases)."}
+      ],
+      "pronunciation": {
+        "focus": "Pausas nas relative clauses não restritivas",
+        "tip_pt": "Nas orações com vírgula (informação extra), fazemos uma **pequena pausa** e o tom cai um pouco, como um parêntese: \"My brother, | who lives in Recife, | is a doctor.\" Sem pausa, a frase significa que você tem **mais de um** irmão.",
+        "practice": ["My brother, who lives in Recife, is a doctor.", "The city has 30 parks, most of which are in rich areas.", "The bus was late, which made me miss the meeting."]
+      },
+      "dialogue": {
+        "title": "Should we move?",
+        "context_pt": "Um casal discute se deve se mudar do centro para a periferia da cidade.",
+        "lines": [
+          {"speaker": "Carol", "en": "Our rent's going up again in January — by fifteen percent, which is ridiculous.", "pt": "Nosso aluguel vai subir de novo em janeiro — quinze por cento, o que é ridículo."},
+          {"speaker": "Bruno", "en": "I know. Maybe it's time to look at the neighbourhood where my sister lives. It's much cheaper.", "pt": "Eu sei. Talvez seja hora de olhar o bairro onde minha irmã mora. É bem mais barato."},
+          {"speaker": "Carol", "en": "But it's on the outskirts. I'd be commuting for two hours a day, most of which I'd spend standing on a crowded train.", "pt": "Mas é na periferia. Eu ficaria duas horas por dia no trajeto, a maior parte das quais em pé num trem lotado."},
+          {"speaker": "Bruno", "en": "True. Although the new metro line, which opens next year, will stop right there.", "pt": "Verdade. Mas a nova linha de metrô, que abre ano que vem, vai parar bem lá."},
+          {"speaker": "Carol", "en": "\"Next year\" — that's what they said three years ago. And what about our friends, most of whom live around here?", "pt": "\"Ano que vem\" — foi o que disseram há três anos. E os nossos amigos, que em sua maioria moram por aqui?"},
+          {"speaker": "Bruno", "en": "We'd see them at weekends. And we'd have a garden, which we've always wanted.", "pt": "A gente veria eles nos fins de semana. E teríamos um quintal, o que sempre quisemos."},
+          {"speaker": "Carol", "en": "That's a good point. OK, let's visit a few places this weekend — but only ones from which I can walk to a station.", "pt": "Bom argumento. OK, vamos visitar alguns lugares neste fim de semana — mas só os que dão para ir a pé até uma estação."},
+          {"speaker": "Bruno", "en": "Deal.", "pt": "Combinado."}
+        ]
+      },
+      "listening": {
+        "title": "Open streets",
+        "context_pt": "Uma reportagem de rádio sobre ruas fechadas para carros aos domingos.",
+        "lines": [
+          {"speaker": "Reporter", "en": "It's Sunday morning on one of the busiest avenues in the city — except that today, there isn't a single car. Since the avenue started closing to traffic on Sundays, it has become a huge open-air park, which attracts thousands of cyclists, skaters, families and street musicians. Bogotá, in Colombia, is often cited as the pioneer of this idea: its weekly Ciclovía, which began in the 1970s, now opens many kilometres of roads to people instead of cars. Not everyone is happy, of course. Some shop owners, most of whom depend on drivers, complain that they lose customers. But surveys in several cities suggest that most residents support the idea, many of whom say it's the only time they feel the city really belongs to them."}
+        ],
+        "questions": [
+          {"q": "What happens to the avenue on Sundays?", "answer": "It closes to cars and becomes an open-air park."},
+          {"q": "Which city is cited as the pioneer?", "answer": "Bogotá, with its Ciclovía (since the 1970s)."},
+          {"q": "Who complains, and why?", "answer": "Some shop owners, because they depend on drivers and lose customers."},
+          {"q": "What do many residents say?", "answer": "It's the only time they feel the city belongs to them."}
+        ]
+      },
+      "reading": {
+        "title": "The 15-minute city",
+        "text": "Imagine a neighbourhood in which you could reach almost everything you need — work, school, shops, a doctor, a park — within a 15-minute walk or bike ride. This is the idea behind the \"15-minute city\", a concept popularized by the urbanist Carlos Moreno, whose work influenced the plans of Paris mayor Anne Hidalgo. Supporters argue that cities designed around cars have created long commutes, pollution and lonely suburbs, all of which damage our health and quality of life. By bringing services closer to people, the 15-minute city aims to cut emissions, revive local businesses and give residents more free time. Several cities, among which are Melbourne, Barcelona and Bogotá, have experimented with similar ideas. The concept is not without its critics, however. Some point out that in many cities, including those in Brazil, jobs and good services are concentrated in a few central areas, which means that a 15-minute city could easily become a privilege for the rich. Others fear that improving a neighbourhood will push up rents, forcing out the very people for whom the changes were intended. The challenge, then, is not only to design better neighbourhoods, but to ensure that everyone can afford to live in them.",
+        "questions": [
+          {"q": "What is a 15-minute city?", "answer": "A neighbourhood where you can reach most things you need within a 15-minute walk or bike ride."},
+          {"q": "What problems do supporters say car-based cities have created?", "answer": "Long commutes, pollution and lonely suburbs."},
+          {"q": "Why could it become a privilege for the rich in Brazil?", "answer": "Jobs and good services are concentrated in a few central areas."},
+          {"q": "What risk do others fear?", "answer": "Rising rents could force out the people the changes were meant to help."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Choose the pronoun", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+         "items": [{"prompt": "The friend to ___ I lent the money never paid me back.", "options": ["who", "whom", "that"], "answer": "whom"}, {"prompt": "The bus was cancelled, ___ meant I was late for work.", "options": ["what", "which", "that"], "answer": "which"}, {"prompt": "The city has 50 schools, many of ___ need repairs.", "options": ["them", "which", "whom"], "answer": "which"}, {"prompt": "She's an architect ___ designs have won international prizes.", "options": ["who", "whose", "which"], "answer": "whose"}, {"prompt": "That's the café ___ we first met.", "options": ["which", "where", "whom"], "answer": "where"}]},
+        {"id": "ex2", "type": "answer", "title": "Make it formal", "instruction": "Rewrite the sentences using preposition + which/whom.", "instruction_pt": "Reescreva usando preposição + which/whom.",
+         "items": [{"prompt": "This is the house I was born in.", "answer": "This is the house in which I was born."}, {"prompt": "The manager I spoke to was very helpful.", "answer": "The manager to whom I spoke was very helpful."}, {"prompt": "The project we worked on for two years has finally finished.", "answer": "The project on which we worked for two years has finally finished."}, {"prompt": "The people I live with are all students.", "answer": "The people with whom I live are all students."}]},
+        {"id": "ex3", "type": "answer", "title": "Join the sentences", "instruction": "Join the sentences using quantifier + of which/whom.", "instruction_pt": "Una as frases com quantificador + of which/whom.",
+         "items": [{"prompt": "I have three cousins. All of them live in Manaus.", "answer": "I have three cousins, all of whom live in Manaus."}, {"prompt": "The city built 20 new parks. Most of them are on the outskirts.", "answer": "The city built 20 new parks, most of which are on the outskirts."}, {"prompt": "We interviewed 100 residents. Half of them were against the project.", "answer": "We interviewed 100 residents, half of whom were against the project."}, {"prompt": "I applied for two flats. Neither of them was available.", "answer": "I applied for two flats, neither of which was available."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "Rents have risen sharply, which is a huge problem."}, {"prompt": "2", "answer": "This is the city in which I grew up."}, {"prompt": "3", "answer": "I have two brothers, both of whom live abroad."}, {"prompt": "4", "answer": "It's a city whose streets are always busy."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "The metro is always late, what is very annoying.", "answer": "The metro is always late, which is very annoying."}, {"prompt": "The woman with who I spoke was very kind.", "answer": "The woman with whom I spoke was very kind."}, {"prompt": "My neighbours, that are very noisy, have a dog.", "answer": "My neighbours, who are very noisy, have a dog."}, {"prompt": "There are 30 parks, most of them are in rich areas.", "answer": "There are 30 parks, most of which are in rich areas."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the article", "instruction": "Complete with: whose · which · whom · where · of which.", "instruction_pt": "Complete o artigo.",
+         "items": [{"prompt": "Vila Nova is a neighbourhood ___ rents have doubled in five years.", "answer": "where"}, {"prompt": "Many older residents, most of ___ have lived there for decades, are being forced out.", "answer": "whom"}, {"prompt": "New cafés have opened, many ___ cater to tourists.", "answer": "of which"}, {"prompt": "Ms. Santos, ___ family has run the bakery since 1960, may have to close — ___ would be a great loss.", "answer": "whose / which"}]}
+      ],
+      "speaking": {
+        "instruction": "\"City council meeting\": you are residents of a city with three problems (traffic, expensive rents, few green spaces). In groups, propose solutions, explain who would benefit and what the consequences would be. Use advanced relative clauses.",
+        "instruction_pt": "\"Reunião da câmara municipal\": vocês são moradores de uma cidade com três problemas (trânsito, aluguéis caros, poucas áreas verdes). Em grupos, proponham soluções, expliquem quem seria beneficiado e quais seriam as consequências. Usem relative clauses avançadas.",
+        "questions": ["Describe the neighbourhood in which you grew up.", "Would a 15-minute city work where you live? Why / why not?", "Is gentrification happening in your city? Who is affected?", "What's a city whose design you admire?", "Should cities close streets to cars? What would be the consequences?"]
+      },
+      "writing": {
+        "task": "Write a proposal to your city council (220–260 words) suggesting one improvement for your neighbourhood. Describe the current situation, your proposal and its benefits. Use at least 6 advanced relative clauses (preposition + which/whom, which for a whole clause, quantifier + of which/whom, whose).",
+        "task_pt": "Escreva uma proposta para a câmara municipal (220–260 palavras) sugerindo uma melhoria para o seu bairro. Descreva a situação atual, sua proposta e os benefícios. Use pelo menos 6 relative clauses avançadas.",
+        "model": "Proposal: Turning the old market square into a community park\n\nIntroduction\nThe purpose of this proposal is to suggest a new use for the old market square in Jardim Esperança, a neighbourhood in which more than 40,000 people live but where there is not a single public park.\n\nThe current situation\nThe square, whose market closed in 2018, is now used as an informal car park. It is poorly lit, which makes many residents, especially women and older people, feel unsafe at night. Local children, most of whom live in small flats, have nowhere safe to play.\n\nThe proposal\nWe propose transforming the square into a small park with trees, a playground, benches and an outdoor gym. A local architect, with whom our residents' association has already spoken, has offered to design the project at no cost. The area could also host a weekly farmers' market, the profits from which would help pay for maintenance.\n\nBenefits\nThe park would provide a green space for thousands of families, many of whom cannot afford to travel to the large parks in the city centre. It would also improve safety and support local producers. Studies in several cities have found that access to green spaces is associated with better physical and mental health.\n\nConclusion\nWe strongly believe that this project, the costs of which are relatively low, would make a real difference to our community. We would be happy to present our ideas at the next council meeting."
+      },
+      "culture_note": {
+        "title": "Curitiba e o BRT",
+        "text_pt": "Nos anos 1970, Curitiba criou um sistema de ônibus com faixas exclusivas e estações-tubo que ficou conhecido no mundo como **BRT (Bus Rapid Transit)**. O modelo inspirou cidades como Bogotá (TransMilenio) e dezenas de outras. Em inglês, Curitiba aparece com frequência em livros e artigos sobre **urban planning**."
+      },
+      "summary_pt": ["Formal: in which / with whom (nunca in that / with who).", ", which = \"o que\" (comenta a frase inteira).", "most of which / all of whom / none of which.", "whose = cujo(a) — pessoas e coisas."]
+    },
+    {
+      "id": "B2-M5-L2",
+      "title": "Having said that...",
+      "subtitle_pt": "Participle clauses: -ing, -ed e having + particípio",
+      "duration_min": 75,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – B2 (participle clauses)", "Keynote Intermediate – Unit 6 (social change)"],
+      "objectives": ["Reduzir relative clauses com -ing e -ed", "Usar participle clauses para tempo, causa e resultado", "Usar having + particípio para ações anteriores", "Falar e escrever sobre mudanças sociais de forma concisa"],
+      "warmup": {
+        "text_pt": "Compare: \"Because she **had grown up** in a small town, she found São Paulo overwhelming.\" e \"**Having grown up** in a small town, she found São Paulo overwhelming.\" A segunda é mais curta e elegante. As **participle clauses** são típicas de textos jornalísticos, acadêmicos e de redações B2.",
+        "questions": ["How has society changed since your grandparents were young?", "Which social change of the last 20 years has had the biggest impact on your life?"]
+      },
+      "vocabulary": [
+        {"en": "a trend / a shift", "pt": "uma tendência / uma mudança", "say": "a trénd / a shift"},
+        {"en": "life expectancy", "pt": "expectativa de vida", "say": "láif ekspéktansi"},
+        {"en": "an ageing population", "pt": "uma população que envelhece", "say": "an êidjin popiulêishan"},
+        {"en": "the birth rate", "pt": "a taxa de natalidade", "say": "dâ bârθ rêit"},
+        {"en": "remote work", "pt": "trabalho remoto", "say": "rimôut uârk"},
+        {"en": "to migrate / migration", "pt": "migrar / migração", "say": "tu maigrêit / maigrêishan"},
+        {"en": "social mobility", "pt": "mobilidade social", "say": "sôushal moubíliti"},
+        {"en": "a generation gap", "pt": "um conflito de gerações", "say": "a djenerêishan guép"},
+        {"en": "to adapt to", "pt": "adaptar-se a", "say": "tu adépt tu"},
+        {"en": "to undergo (change)", "pt": "passar por (mudança)", "say": "tu ânderguôu"},
+        {"en": "unprecedented", "pt": "sem precedentes", "say": "ânprésidentid"},
+        {"en": "having said that", "pt": "dito isso, mesmo assim", "say": "révin séd dét"}
+      ],
+      "chunks": [
+        {"en": "Having said that, there are still problems.", "pt": "Dito isso, ainda há problemas."},
+        {"en": "Having lived abroad, she understands both cultures.", "pt": "Tendo morado fora, ela entende as duas culturas."},
+        {"en": "Not knowing what to do, I called my mother.", "pt": "Sem saber o que fazer, liguei para minha mãe."},
+        {"en": "people living in big cities", "pt": "pessoas que vivem em cidades grandes"},
+        {"en": "a book written in 1950", "pt": "um livro escrito em 1950"},
+        {"en": "Built in the 1960s, Brasília was a bold experiment.", "pt": "Construída nos anos 1960, Brasília foi um experimento ousado."}
+      ],
+      "grammar": {
+        "title": "Participle clauses",
+        "explanation_pt": "Participle clauses **encurtam** orações quando o **sujeito é o mesmo**. Há três formas:\n\n**1. Present participle (-ing)** → sentido **ativo** / ações simultâneas\n- Relative clause reduzida: \"People **who live** in cities...\" → \"People **living** in cities...\"\n- Tempo: \"**While I was walking** home, I saw...\" → \"**Walking** home, I saw...\"\n- Causa: \"**Because I didn't know** the answer, I stayed quiet.\" → \"**Not knowing** the answer, I stayed quiet.\"\n- Resultado: \"The storm hit the coast, **causing** serious damage.\"\n\n**2. Past participle (-ed / 3ª forma)** → sentido **passivo**\n- \"The houses **which were built** in the 1950s...\" → \"The houses **built** in the 1950s...\"\n- \"**Built** in 1960, Brasília was designed by Lúcio Costa and Oscar Niemeyer.\"\n- \"**Asked** about the problem, the mayor refused to comment.\"\n\n**3. Perfect participle (having + particípio)** → ação **anterior** à principal\n- \"**After she had finished** university, she moved to Lisbon.\" → \"**Having finished** university, she moved to Lisbon.\"\n- Passiva: \"**Having been** rejected twice, he finally got the job.\"\n\n**Negativa:** **not** antes do particípio: \"**Not having** a car, I take the bus.\"\n\n⚠️ **Dangling participle (erro clássico):** o sujeito da participle clause **tem que ser** o mesmo da oração principal.\n❌ \"**Walking** down the street, the rain started.\" (a chuva estava andando?)\n✅ \"**Walking** down the street, **I** got caught in the rain.\"",
+        "table": {
+          "headers": ["Forma", "Sentido", "Exemplo"],
+          "rows": [["-ing", "ativo / simultâneo / causa", "Living abroad, I learned to cook."], ["not + -ing", "causa negativa", "Not knowing the way, we got lost."], ["particípio (-ed)", "passivo", "Founded in 1554, São Paulo is now a megacity."], ["having + pp", "ação anterior", "Having saved enough, they bought a house."], ["having been + pp", "anterior + passivo", "Having been warned, we left early."]]
+        },
+        "examples": [
+          {"en": "Having grown up without the internet, my parents find social media confusing.", "pt": "Tendo crescido sem internet, meus pais acham as redes sociais confusas."},
+          {"en": "Life expectancy in Brazil has risen considerably in recent decades, creating new challenges for the pension system.", "pt": "A expectativa de vida no Brasil aumentou consideravelmente nas últimas décadas, criando novos desafios para a previdência."},
+          {"en": "Most of the jobs created in the last decade require digital skills.", "pt": "A maioria dos empregos criados na última década exige habilidades digitais."}
+        ],
+        "tip_pt": "\"**Having said that**\" é uma expressão fixa muito usada para introduzir um contraste depois de concordar com algo: \"Remote work has many benefits. **Having said that**, it can be very lonely.\""
+      },
+      "common_mistakes": [
+        {"wrong": "Walking to work, the rain started.", "right": "Walking to work, I got caught in the rain.", "why_pt": "O sujeito das duas orações precisa ser o mesmo (dangling participle)."},
+        {"wrong": "Having finish the report, she went home.", "right": "Having finished the report, she went home.", "why_pt": "Having + particípio (finished)."},
+        {"wrong": "The people living in 1900 had no electricity. (= viviam naquela época)", "right": "People who lived in 1900 had no electricity.", "why_pt": "Para ações passadas encerradas, a relative clause completa costuma soar melhor."}
+      ],
+      "pronunciation": {
+        "focus": "Ritmo de frases longas",
+        "tip_pt": "Participle clauses no começo da frase formam um **bloco de entonação** próprio, com uma pequena pausa antes da oração principal: \"Having grown up in a small town, | she found São Paulo overwhelming.\" Isso ajuda o ouvinte a acompanhar.",
+        "practice": ["Having grown up in a small town, | she found the city overwhelming.", "Not knowing what to do, | I called my mother.", "Built in the 1960s, | Brasília was a bold experiment."]
+      },
+      "dialogue": {
+        "title": "Then and now",
+        "context_pt": "Uma jornalista entrevista um senhor de 85 anos sobre as mudanças que ele viu na vida.",
+        "lines": [
+          {"speaker": "Journalist", "en": "Seu Antônio, having lived for 85 years, you've seen enormous changes. What's the biggest one?", "pt": "Seu Antônio, tendo vivido 85 anos, o senhor viu mudanças enormes. Qual é a maior?"},
+          {"speaker": "Seu Antônio", "en": "Probably the move to the cities. Born on a farm in Minas, I came to São Paulo at seventeen, carrying one suitcase.", "pt": "Provavelmente a mudança para as cidades. Nascido numa fazenda em Minas, vim para São Paulo aos dezessete, carregando uma mala."},
+          {"speaker": "Journalist", "en": "What was it like?", "pt": "Como foi?"},
+          {"speaker": "Seu Antônio", "en": "Hard. Not knowing anyone, I slept at a cousin's house for months. Having worked on the farm since I was a child, I was used to hard work, though.", "pt": "Difícil. Sem conhecer ninguém, dormi na casa de um primo por meses. Mas, tendo trabalhado na fazenda desde criança, eu estava acostumado com trabalho pesado."},
+          {"speaker": "Journalist", "en": "And today? What do you think of young people's lives?", "pt": "E hoje? O que o senhor acha da vida dos jovens?"},
+          {"speaker": "Seu Antônio", "en": "They have opportunities I never dreamed of. My granddaughter, working from home, talks to people in five countries a day! Having said that, I think they're more anxious than we were.", "pt": "Eles têm oportunidades com que eu nunca sonhei. Minha neta, trabalhando de casa, fala com pessoas de cinco países por dia! Dito isso, acho que eles são mais ansiosos do que nós éramos."},
+          {"speaker": "Journalist", "en": "Why do you think that is?", "pt": "Por que o senhor acha isso?"},
+          {"speaker": "Seu Antônio", "en": "Too much information, too many choices. Given the choice between a phone and a good conversation, I'd choose the conversation every time.", "pt": "Informação demais, escolhas demais. Entre um celular e uma boa conversa, eu escolheria a conversa sempre."}
+        ]
+      },
+      "listening": {
+        "title": "Brazil is getting older",
+        "context_pt": "Uma demógrafa explica, num podcast, o envelhecimento da população brasileira.",
+        "lines": [
+          {"speaker": "Speaker", "en": "Brazil is undergoing one of the fastest demographic transitions in the world. Having had one of the youngest populations in the 1970s, the country is now ageing rapidly. Two trends explain this. First, the birth rate has fallen dramatically: Brazilian women today have, on average, fewer than two children, compared with around six in the 1960s. Second, life expectancy has increased considerably, thanks to better healthcare and sanitation. The result is a population growing older faster than in many European countries, which took much longer to go through the same change. Faced with this situation, the country will need to rethink its pension system, its healthcare services and even the way its cities are designed. Having said that, an older population also brings opportunities, from new businesses to a more experienced workforce."}
+        ],
+        "questions": [
+          {"q": "What was Brazil's population like in the 1970s?", "answer": "One of the youngest in the world."},
+          {"q": "How many children did Brazilian women have on average in the 1960s, and how many now?", "answer": "Around six then; fewer than two now."},
+          {"q": "Why has life expectancy increased?", "answer": "Better healthcare and sanitation."},
+          {"q": "What will the country need to rethink?", "answer": "Its pension system, healthcare services and city design."}
+        ]
+      },
+      "reading": {
+        "title": "The remote work revolution",
+        "text": "Before 2020, remote work was a privilege enjoyed by a small minority of workers. Then, almost overnight, the COVID-19 pandemic forced millions of office employees to work from their kitchens and living rooms. Having been told for years that remote work was impossible, many companies discovered that it worked surprisingly well. Freed from long commutes, employees gained hours of free time each week. Some left expensive capital cities altogether, moving to smaller towns or the coast and taking their salaries with them. Several countries, including Portugal and Costa Rica, began offering special visas designed to attract \"digital nomads\". Not everyone has benefited equally, however. Jobs requiring physical presence — in hospitals, shops, factories and construction — cannot be done from home, which means that remote work has, in some ways, increased the gap between different groups of workers. Managers, too, have expressed concerns, arguing that teams working only online lose creativity and that young employees miss out on learning from experienced colleagues. Having experimented with every possible model, many organizations have now settled on a hybrid approach. Having said that, the debate is far from over.",
+        "questions": [
+          {"q": "What did many companies discover during the pandemic?", "answer": "That remote work worked surprisingly well."},
+          {"q": "What did some employees do, freed from commuting?", "answer": "They moved to smaller towns or the coast."},
+          {"q": "Why has remote work increased the gap between workers?", "answer": "Jobs requiring physical presence can't be done from home."},
+          {"q": "What model have many organizations settled on?", "answer": "A hybrid approach."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Choose the participle", "instruction": "Choose the correct form.", "instruction_pt": "Escolha a forma correta.",
+         "items": [{"prompt": "___ in 1960, Brasília became the new capital of Brazil.", "options": ["Inaugurating", "Inaugurated", "Having inaugurated"], "answer": "Inaugurated"}, {"prompt": "___ the report, she sent it to her boss.", "options": ["Having finished", "Finished", "Being finished"], "answer": "Having finished"}, {"prompt": "People ___ in rural areas often have less access to healthcare.", "options": ["lived", "living", "having lived"], "answer": "living"}, {"prompt": "___ what to say, he just smiled.", "options": ["Not knowing", "Knowing not", "Not known"], "answer": "Not knowing"}, {"prompt": "The storm hit the coast, ___ serious damage.", "options": ["caused", "causing", "having caused"], "answer": "causing"}]},
+        {"id": "ex2", "type": "answer", "title": "Shorten the sentences", "instruction": "Rewrite using a participle clause.", "instruction_pt": "Reescreva usando uma participle clause.",
+         "items": [{"prompt": "After he had lived in Japan for ten years, he returned to Brazil.", "answer": "Having lived in Japan for ten years, he returned to Brazil."}, {"prompt": "The houses which were built in the 1950s are being demolished.", "answer": "The houses built in the 1950s are being demolished."}, {"prompt": "Because I didn't have a car, I had to take the bus.", "answer": "Not having a car, I had to take the bus."}, {"prompt": "Students who want to apply must register online.", "answer": "Students wanting to apply must register online."}]},
+        {"id": "ex3", "type": "match", "title": "Social change vocabulary", "instruction": "Write the English expression.", "instruction_pt": "Escreva a expressão em inglês.",
+         "items": [{"prompt": "expectativa de vida", "answer": "life expectancy"}, {"prompt": "taxa de natalidade", "answer": "birth rate"}, {"prompt": "mobilidade social", "answer": "social mobility"}, {"prompt": "sem precedentes", "answer": "unprecedented"}, {"prompt": "dito isso", "answer": "having said that"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "Having lived abroad, she understands both cultures."}, {"prompt": "2", "answer": "Not knowing what to do, I called my mother."}, {"prompt": "3", "answer": "Built in the 1960s, Brasília was a bold experiment."}, {"prompt": "4", "answer": "Having said that, there are still problems."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "Walking along the beach, the sun came out.", "answer": "Walking along the beach, we saw the sun come out."}, {"prompt": "Having finish my homework, I went out.", "answer": "Having finished my homework, I went out."}, {"prompt": "Knowing not the answer, she stayed quiet.", "answer": "Not knowing the answer, she stayed quiet."}, {"prompt": "The cars producing in this factory are exported.", "answer": "The cars produced in this factory are exported."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the text", "instruction": "Complete with the correct participle form of the verbs in parentheses.", "instruction_pt": "Complete com a forma de particípio correta.",
+         "items": [{"prompt": "___ (found) in 1554, São Paulo is now one of the largest cities in the world.", "answer": "Founded"}, {"prompt": "Millions of people ___ (come) from other states helped it grow.", "answer": "coming"}, {"prompt": "___ (attract) by jobs in industry, they built new lives in the city.", "answer": "Attracted"}, {"prompt": "___ (grow) so fast, the city now faces serious challenges. ___ (say) that, it remains full of opportunities.", "answer": "Having grown / Having said"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Then and now\": interview an older relative or friend (or imagine one) about how society has changed. Report back to the class using at least 5 participle clauses (\"Having grown up on a farm, my grandmother...\").",
+        "instruction_pt": "\"Antes e agora\": entreviste um parente ou amigo mais velho (ou imagine um) sobre como a sociedade mudou. Relate para a turma usando pelo menos 5 participle clauses.",
+        "questions": ["What's the biggest social change you've seen in your lifetime?", "Is an ageing population a problem or an opportunity?", "Having experienced remote work (or not), what's your opinion of it?", "Has social mobility increased or decreased in Brazil?", "What social change would you like to see in the next 20 years?"]
+      },
+      "writing": {
+        "task": "Write an article for a magazine (220–260 words) titled \"How my generation is different\". Compare your generation with your parents' and use at least 6 participle clauses, including \"Having said that\".",
+        "task_pt": "Escreva um artigo de revista (220–260 palavras) intitulado \"Como minha geração é diferente\". Compare sua geração com a dos seus pais, usando pelo menos 6 participle clauses, incluindo \"Having said that\".",
+        "model": "How my generation is different\n\nBorn in the early 1990s, my parents' generation grew up in a very different Brazil. Having lived through years of high inflation, they learned to save every penny and to value job security above everything else. My father, having worked for the same company for 32 years, still finds it strange that I've had four jobs in eight years.\n\nMy generation, raised with the internet, sees the world differently. Connected to people all over the planet, we tend to be more open to new ideas, cultures and ways of living. Many of my friends, not wanting to spend three hours a day in traffic, have chosen jobs that allow them to work remotely. Others, inspired by influencers and entrepreneurs, have started their own businesses.\n\nWe also talk more openly about topics that our parents rarely mentioned, such as mental health, gender equality and the environment. Asked about therapy, my mother once told me that \"in my time, we just got on with life\". My friends, on the other hand, see therapy as something completely normal.\n\nHaving said that, our generation has its own problems. Faced with high rents and unstable jobs, many of us still live with our parents well into our thirties. And, having grown up with smartphones, we often find it difficult to switch off.\n\nIn the end, every generation is shaped by the world in which it grows up. Perhaps the most important thing is to keep listening to each other."
+      },
+      "culture_note": {
+        "title": "Boomers, Millennials, Gen Z...",
+        "text_pt": "Em inglês, as gerações têm nomes populares: **Baby Boomers** (aprox. 1946–64), **Gen X** (65–80), **Millennials** ou **Gen Y** (81–96), **Gen Z** (97–2012) e **Gen Alpha** (depois de 2012). As datas variam conforme a fonte. A expressão **\"OK, boomer\"** viralizou em 2019 como resposta irônica a comentários considerados antiquados."
+      },
+      "summary_pt": ["-ing = ativo (people living here; not knowing...).", "particípio = passivo (built in 1960; asked about...).", "having + pp = ação anterior (having finished...).", "Mesmo sujeito nas duas orações! Having said that = dito isso."]
+    },
+    {
+      "id": "B2-M5-L3",
+      "title": "On the other hand",
+      "subtitle_pt": "Conectores de contraste e concessão: although, despite, whereas, however, nevertheless",
+      "duration_min": 75,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – B2 (linkers: contrast and concession)", "Keynote Intermediate – Unit 10 (technology and society)"],
+      "objectives": ["Usar although / even though / though com orações", "Usar despite / in spite of + substantivo ou -ing", "Contrastar com whereas / while", "Usar however / nevertheless / on the other hand entre frases"],
+      "warmup": {
+        "text_pt": "\"A tecnologia aproximou as pessoas. **No entanto**, também aumentou a solidão.\" Para argumentar bem no B2, você precisa mostrar **os dois lados** e conectá-los com precisão. O problema: cada conector tem sua **gramática** — e a pontuação muda tudo.",
+        "questions": ["Has technology made inequality better or worse?", "Can you think of something with clear advantages and disadvantages?"]
+      },
+      "vocabulary": [
+        {"en": "inequality / unequal", "pt": "desigualdade / desigual", "say": "inikuóliti / ânicual"},
+        {"en": "the digital divide", "pt": "a exclusão digital", "say": "dâ dídjitol diváid"},
+        {"en": "access to", "pt": "acesso a", "say": "ékses tu"},
+        {"en": "income / low-income", "pt": "renda / baixa renda", "say": "ínkâm / lôu ínkâm"},
+        {"en": "wealth / the wealthy", "pt": "riqueza / os ricos", "say": "uélθ / dâ uélθi"},
+        {"en": "to widen / to narrow (the gap)", "pt": "aumentar / diminuir (a diferença)", "say": "tu uáiden / tu nérou"},
+        {"en": "to be left behind", "pt": "ficar para trás", "say": "tu bí léft biráind"},
+        {"en": "automation", "pt": "automação", "say": "otomêishan"},
+        {"en": "a double-edged sword", "pt": "uma faca de dois gumes", "say": "a dâbol édjd sórd"},
+        {"en": "to empower", "pt": "empoderar, dar autonomia", "say": "tu empáuer"},
+        {"en": "drawbacks / benefits", "pt": "desvantagens / benefícios", "say": "dróbéks / bénefits"},
+        {"en": "nevertheless", "pt": "no entanto, mesmo assim", "say": "neverdhelés"}
+      ],
+      "chunks": [
+        {"en": "Although it's expensive, it's worth it.", "pt": "Embora seja caro, vale a pena."},
+        {"en": "Despite the rain, we went out.", "pt": "Apesar da chuva, saímos."},
+        {"en": "In spite of being tired, she finished the report.", "pt": "Apesar de estar cansada, ela terminou o relatório."},
+        {"en": "Some people love it, whereas others hate it.", "pt": "Algumas pessoas amam, enquanto outras odeiam."},
+        {"en": "However, there are some drawbacks.", "pt": "No entanto, há algumas desvantagens."},
+        {"en": "Technology is a double-edged sword.", "pt": "A tecnologia é uma faca de dois gumes."}
+      ],
+      "grammar": {
+        "title": "Contrast and concession linkers",
+        "explanation_pt": "**1. Although / Even though / Though + oração** (sujeito + verbo)\n- \"**Although** the city is rich, many people live in poverty.\"\n- **Even though** = mais enfático (\"mesmo que, ainda que\"): \"**Even though** he earns a lot, he never saves.\"\n- **Though** = mais informal; também no fim da frase: \"It's expensive. I love it, **though**.\"\n\n**2. Despite / In spite of + substantivo ou -ing** (sem sujeito + verbo!)\n- \"**Despite** the rain, we went out.\" / \"**In spite of** being tired, she kept working.\"\n- Para usar uma oração: **despite the fact that** + oração: \"**Despite the fact that** it was raining, we went out.\"\n- ⚠️ ❌ \"despite **of**\" — não existe. ❌ \"Despite it was raining\".\n\n**3. Whereas / While** → **contraste direto** entre duas coisas (comparação):\n- \"Rich families have fast internet at home, **whereas** many poor families rely on mobile data.\"\n- \"**While** some see AI as a threat, others see it as an opportunity.\"\n\n**4. However / Nevertheless / On the other hand** → ligam **duas frases** (vêm depois de ponto ou ponto e vírgula, seguidos de vírgula):\n- \"The internet has created opportunities. **However**, not everyone can access them.\"\n- **Nevertheless / Nonetheless** (formal) = \"mesmo assim\": \"The project was expensive. **Nevertheless**, it was a success.\"\n- **On the other hand** → apresenta o outro lado de um argumento: \"On the one hand, ... **On the other hand**, ...\"\n- **Yet** (formal, = but): \"simple **yet** effective\"\n\n⚠️ **However não liga duas orações com vírgula** como \"but\": ❌ \"It's cheap, however it's bad.\" ✅ \"It's cheap. However, it's bad.\" / \"It's cheap; however, it's bad.\"",
+        "table": {
+          "headers": ["Conector", "Seguido de", "Exemplo"],
+          "rows": [["although / even though", "oração", "Although it was late, we kept talking."], ["despite / in spite of", "substantivo / -ing", "Despite the cost, they bought it."], ["despite the fact that", "oração", "Despite the fact that it was late, we kept talking."], ["whereas / while", "oração (contraste)", "She's tall, whereas her brother is short."], ["however / nevertheless", "nova frase + vírgula", "It's cheap. However, it's slow."], ["on the other hand", "nova frase (outro lado)", "It's fast. On the other hand, it's expensive."]]
+        },
+        "examples": [
+          {"en": "Although internet access has expanded in Brazil, millions of people still have only limited mobile data.", "pt": "Embora o acesso à internet tenha se expandido no Brasil, milhões de pessoas ainda têm apenas dados móveis limitados."},
+          {"en": "Despite having a smartphone, my grandmother rarely uses apps.", "pt": "Apesar de ter um smartphone, minha avó raramente usa aplicativos."},
+          {"en": "Automation can increase productivity. Nevertheless, it may leave many workers behind.", "pt": "A automação pode aumentar a produtividade. Mesmo assim, pode deixar muitos trabalhadores para trás."}
+        ],
+        "tip_pt": "Truque para não errar: **although** = embora (+ frase completa) · **despite** = apesar de (+ substantivo/-ing). Se em português você diria \"apesar **de que**\", use **although** ou **despite the fact that**."
+      },
+      "common_mistakes": [
+        {"wrong": "Despite of the traffic, we arrived on time.", "right": "Despite the traffic, we arrived on time. / In spite of the traffic...", "why_pt": "Despite não leva of. In spite of leva."},
+        {"wrong": "Although the rain, we played football.", "right": "Despite the rain, we played football. / Although it was raining...", "why_pt": "Although + oração; despite + substantivo."},
+        {"wrong": "It's a good idea, however it's expensive.", "right": "It's a good idea. However, it's expensive. / It's a good idea, but it's expensive.", "why_pt": "However começa nova frase (ou vem depois de ponto e vírgula)."}
+      ],
+      "pronunciation": {
+        "focus": "Contraste com entonação",
+        "tip_pt": "Em frases de contraste, as palavras que se opõem recebem **ênfase**: \"**SOME** people love it, whereas **OTHERS** hate it.\" / \"It's **CHEAP**. However, it's **SLOW**.\" Depois de **However,** faça uma pausa curta.",
+        "practice": ["SOME people love it, whereas OTHERS hate it.", "It's CHEAP. However, | it's SLOW.", "On the ONE hand... | on the OTHER hand..."]
+      },
+      "dialogue": {
+        "title": "Debate: should schools ban phones?",
+        "context_pt": "Dois pais debatem numa reunião de escola sobre a proibição de celulares.",
+        "lines": [
+          {"speaker": "Paula", "en": "I support the ban. Although phones can be useful, they're a constant distraction in class.", "pt": "Apoio a proibição. Embora os celulares possam ser úteis, eles são uma distração constante na aula."},
+          {"speaker": "Rodrigo", "en": "I understand that. However, my daughter uses hers to research things for her projects.", "pt": "Entendo isso. No entanto, minha filha usa o dela para pesquisar coisas para os trabalhos."},
+          {"speaker": "Paula", "en": "Sure, but the school has computers. And despite the rules, kids are on social media during lessons.", "pt": "Claro, mas a escola tem computadores. E, apesar das regras, as crianças ficam nas redes sociais durante as aulas."},
+          {"speaker": "Rodrigo", "en": "True. On the other hand, a total ban doesn't teach them to use technology responsibly.", "pt": "Verdade. Por outro lado, uma proibição total não as ensina a usar a tecnologia com responsabilidade."},
+          {"speaker": "Paula", "en": "Even though I agree with that in principle, I think they need a break from screens. They spend hours on them at home.", "pt": "Embora eu concorde com isso em princípio, acho que eles precisam de uma pausa das telas. Passam horas nelas em casa."},
+          {"speaker": "Rodrigo", "en": "Fair point. And there's an inequality issue too: some kids have the latest phones, whereas others don't have one at all.", "pt": "Bom argumento. E também tem uma questão de desigualdade: algumas crianças têm os celulares mais novos, enquanto outras não têm nenhum."},
+          {"speaker": "Paula", "en": "Exactly. So maybe a compromise: phones stay in lockers, but teachers can allow them for specific activities.", "pt": "Exatamente. Então talvez um meio-termo: os celulares ficam nos armários, mas os professores podem liberá-los para atividades específicas."},
+          {"speaker": "Rodrigo", "en": "That sounds sensible. I'm still not fully convinced. Nevertheless, I'd vote for that.", "pt": "Parece sensato. Ainda não estou totalmente convencido. Mesmo assim, votaria nisso."}
+        ]
+      },
+      "listening": {
+        "title": "The digital divide",
+        "context_pt": "Uma pesquisadora fala sobre a exclusão digital no Brasil.",
+        "lines": [
+          {"speaker": "Researcher", "en": "When people hear that most Brazilians are now online, they often assume the digital divide has disappeared. However, the reality is more complex. Although the majority of the population uses the internet, many low-income users rely only on a mobile phone with a limited data plan, whereas wealthier families usually have fast broadband and several devices at home. This difference matters. Doing homework, applying for a job or taking an online course on a small phone screen is much harder. During the pandemic, when classes moved online, many children were left behind despite their schools' efforts. Nevertheless, there is some good news: public Wi-Fi programmes and community centres are helping to narrow the gap. Connection is no longer the only issue, though. Digital skills are just as important."}
+        ],
+        "questions": [
+          {"q": "What do people often assume about the digital divide?", "answer": "That it has disappeared."},
+          {"q": "How do many low-income users access the internet?", "answer": "Only through a mobile phone with a limited data plan."},
+          {"q": "Why does this difference matter?", "answer": "Homework, job applications and courses are much harder on a small phone screen."},
+          {"q": "What is helping to narrow the gap?", "answer": "Public Wi-Fi programmes and community centres."}
+        ]
+      },
+      "reading": {
+        "title": "Will AI make us more equal?",
+        "text": "Artificial intelligence has been described as the most important technology of our time. Yet economists disagree sharply about whether it will reduce or increase inequality. On the one hand, optimists argue that AI tools could empower people who have traditionally been left behind. A small farmer can now get advice about crops in her own language, while a student without access to private tutors can ask a chatbot to explain a difficult maths problem. Although these tools are not perfect, they are often free or cheap. On the other hand, pessimists point out that previous waves of technology tended to benefit those who already had capital and education. Despite creating new jobs, automation has often replaced routine tasks performed by lower-paid workers, whereas highly skilled professionals have seen their productivity — and salaries — increase. There is also the question of who owns the technology: a handful of large companies, most of which are based in the United States and China. In spite of these concerns, most experts agree on one point: the outcome is not inevitable. Whether AI narrows or widens the gap will depend largely on political choices, including investment in education, regulation and public access to digital tools.",
+        "questions": [
+          {"q": "What do economists disagree about?", "answer": "Whether AI will reduce or increase inequality."},
+          {"q": "Give one example of how AI could empower people.", "answer": "A farmer getting advice in her language / a student getting free help with maths."},
+          {"q": "What have previous waves of technology tended to do?", "answer": "Benefit those who already had capital and education."},
+          {"q": "What will the outcome depend on?", "answer": "Political choices: education, regulation and public access."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Choose the linker", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+         "items": [{"prompt": "___ the bad weather, the event was a success.", "options": ["Although", "Despite", "However"], "answer": "Despite"}, {"prompt": "___ she studied hard, she failed the exam.", "options": ["Although", "In spite of", "Nevertheless"], "answer": "Although"}, {"prompt": "The project was expensive. ___, it was worth it.", "options": ["Despite", "Although", "Nevertheless"], "answer": "Nevertheless"}, {"prompt": "My sister loves the city, ___ I prefer the countryside.", "options": ["whereas", "despite", "however"], "answer": "whereas"}, {"prompt": "In spite of ___ tired, he went to the gym.", "options": ["he was", "being", "be"], "answer": "being"}]},
+        {"id": "ex2", "type": "answer", "title": "Rewrite with the word given", "instruction": "Rewrite the sentence using the word in CAPS.", "instruction_pt": "Reescreva usando a palavra em CAPS.",
+         "items": [{"prompt": "Although it was raining, we went to the beach. (DESPITE)", "answer": "Despite the rain, we went to the beach. / Despite the fact that it was raining, we went to the beach."}, {"prompt": "She has a good salary, but she can't save money. (EVEN THOUGH)", "answer": "Even though she has a good salary, she can't save money."}, {"prompt": "Despite being very young, he runs a company. (ALTHOUGH)", "answer": "Although he is very young, he runs a company."}, {"prompt": "The app is free, but it collects a lot of data. (HOWEVER)", "answer": "The app is free. However, it collects a lot of data."}]},
+        {"id": "ex3", "type": "fill_blank", "title": "Punctuation and grammar", "instruction": "Complete with: although · despite · however · whereas · in spite of.", "instruction_pt": "Complete com o conector correto.",
+         "items": [{"prompt": "___ the fact that he's rich, he lives a simple life.", "answer": "Despite"}, {"prompt": "Cities offer more jobs, ___ rural areas offer a quieter life.", "answer": "whereas"}, {"prompt": "It's a great phone. ___, the battery doesn't last long.", "answer": "However"}, {"prompt": "___ she was nervous, she gave a brilliant presentation. ___ having little experience, she impressed everyone.", "answer": "Although / In spite of"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "Although it's expensive, it's worth it."}, {"prompt": "2", "answer": "In spite of being tired, she finished the report."}, {"prompt": "3", "answer": "Some people love it, whereas others hate it."}, {"prompt": "4", "answer": "Technology is a double-edged sword."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "Despite of the noise, I slept well.", "answer": "Despite the noise, I slept well."}, {"prompt": "Although the traffic, we arrived early.", "answer": "Despite the traffic, we arrived early."}, {"prompt": "It's cheap, however it's not very good.", "answer": "It's cheap. However, it's not very good."}, {"prompt": "Despite it was late, we kept working.", "answer": "Although it was late, we kept working. / Despite the fact that it was late..."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the paragraph", "instruction": "Complete the paragraph with: on the one hand · on the other hand · yet · nevertheless · though.", "instruction_pt": "Complete o parágrafo.",
+         "items": [{"prompt": "___, social media helps us stay in touch with friends.", "answer": "On the one hand"}, {"prompt": "___, it can make us feel lonely and anxious.", "answer": "On the other hand"}, {"prompt": "Many people know this, ___ they keep scrolling for hours.", "answer": "yet"}, {"prompt": "Quitting completely isn't realistic. ___, we can set limits. It isn't easy, ___.", "answer": "Nevertheless / though"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Two sides\": in pairs, choose a topic (AI in schools, a 4-day work week, banning phones in schools, free public transport). Present one side, then the other, then your conclusion, using at least 6 different contrast linkers.",
+        "instruction_pt": "\"Dois lados\": em pares, escolham um tema (IA nas escolas, semana de 4 dias, proibir celular nas escolas, transporte público gratuito). Apresentem um lado, depois o outro e depois a conclusão, usando pelo menos 6 conectores de contraste diferentes.",
+        "questions": ["Has technology made society more equal or less equal?", "Despite its benefits, what worries you about AI?", "Should schools ban phones? Why / why not?", "What is one thing that is a double-edged sword in your life?", "Who is being left behind in your city?"]
+      },
+      "writing": {
+        "task": "Write a balanced \"for and against\" paragraph pair (200–240 words) on the question: \"Has technology reduced inequality?\" Use at least 7 different contrast linkers and finish with your own opinion.",
+        "task_pt": "Escreva dois parágrafos equilibrados \"a favor e contra\" (200–240 palavras) sobre a pergunta: \"A tecnologia reduziu a desigualdade?\" Use pelo menos 7 conectores de contraste diferentes e termine com a sua opinião.",
+        "model": "Has technology reduced inequality?\n\nOn the one hand, technology has opened doors for millions of people. Although many Brazilians still cannot afford a computer, most now have a smartphone, which gives them access to free courses, banking apps and job opportunities. Instant payment systems, for instance, have made it much easier for small businesses and informal workers to receive money, whereas in the past many of them had no bank account at all. Despite its limitations, a phone with an internet connection can be a powerful tool for learning and earning.\n\nOn the other hand, technology has also created new forms of inequality. While wealthy families have fast broadband and several devices, many poor families share one phone with a limited data plan. During the pandemic, this difference meant that some children kept learning, whereas others were left behind. Furthermore, automation is replacing routine jobs, yet the new jobs being created usually require skills that low-income workers have had little opportunity to develop.\n\nIn my opinion, technology itself is neither good nor bad; it is a double-edged sword. It has certainly reduced some inequalities. Nevertheless, without public investment in internet access and digital education, it may end up widening the gap rather than narrowing it."
+      },
+      "culture_note": {
+        "title": "O Pix e a inclusão financeira",
+        "text_pt": "Lançado em 2020 pelo Banco Central, o **Pix** se tornou rapidamente um dos meios de pagamento mais usados do Brasil e chamou atenção internacional. Em textos em inglês, ele aparece como exemplo de **financial inclusion** (inclusão financeira) e de **digital public infrastructure** — tecnologia pública que pode reduzir desigualdades."
+      },
+      "summary_pt": ["although / even though + oração.", "despite / in spite of + substantivo ou -ing (nunca despite of).", "whereas / while = enquanto (contraste).", "However, / Nevertheless, / On the other hand, → começam nova frase."]
+    },
+    {
+      "id": "B2-M5-L4",
+      "title": "Writing an essay",
+      "subtitle_pt": "Estrutura do ensaio argumentativo + linking words formais",
+      "duration_min": 80,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – B2 (discourse markers, formal writing)", "Cambridge B2 First – Writing Part 1 (essay)"],
+      "objectives": ["Organizar um ensaio em introdução, desenvolvimento e conclusão", "Usar linking words para adicionar, exemplificar, causa/efeito e concluir", "Escrever topic sentences claras", "Usar linguagem impessoal e formal"],
+      "warmup": {
+        "text_pt": "Na prova **B2 First (Cambridge)**, a Parte 1 da escrita é sempre um **essay** de 140–190 palavras. No IELTS, é a Task 2 (mínimo de 250). Em qualquer caso, a nota depende não só da gramática, mas da **organização** e dos **conectores**. Hoje você aprende a estrutura que funciona.",
+        "questions": ["Have you ever written an essay in Portuguese (redação do ENEM)? What was the structure?", "What makes a text easy to read?"]
+      },
+      "vocabulary": [
+        {"en": "an essay / an argument", "pt": "uma redação/ensaio / um argumento", "say": "an ései / an árguiumânt"},
+        {"en": "a topic sentence", "pt": "frase-tópico (abre o parágrafo)", "say": "a tópik séntens"},
+        {"en": "furthermore / moreover", "pt": "além disso (formal)", "say": "fârdermór / mórôuver"},
+        {"en": "in addition (to)", "pt": "além (de)", "say": "in adíshan"},
+        {"en": "for instance / such as", "pt": "por exemplo / como", "say": "for ínstans / sâtch éz"},
+        {"en": "as a result / consequently", "pt": "como resultado / consequentemente", "say": "éz a rizâlt / kónsekuentli"},
+        {"en": "due to / owing to", "pt": "devido a", "say": "diú tu / ôuin tu"},
+        {"en": "in conclusion / to sum up", "pt": "em conclusão / resumindo", "say": "in konklúzhan / tu sâm âp"},
+        {"en": "it could be argued that", "pt": "pode-se argumentar que", "say": "it kud bí árguiud dét"},
+        {"en": "it is widely believed that", "pt": "acredita-se amplamente que", "say": "it iz uáidli bilívd dét"},
+        {"en": "to a certain extent", "pt": "até certo ponto", "say": "tu a sârten ekstént"},
+        {"en": "all things considered", "pt": "considerando tudo", "say": "ól θinz konsídird"}
+      ],
+      "chunks": [
+        {"en": "It is often said that...", "pt": "Diz-se com frequência que..."},
+        {"en": "There are several reasons for this.", "pt": "Há vários motivos para isso."},
+        {"en": "Firstly, ... Furthermore, ...", "pt": "Em primeiro lugar, ... Além disso, ..."},
+        {"en": "It could be argued that...", "pt": "Pode-se argumentar que..."},
+        {"en": "To a certain extent, I agree.", "pt": "Até certo ponto, concordo."},
+        {"en": "All things considered, I believe that...", "pt": "Considerando tudo, acredito que..."}
+      ],
+      "grammar": {
+        "title": "Essay structure and formal linkers",
+        "explanation_pt": "**Estrutura clássica (4 parágrafos):**\n\n**1. Introdução** — apresente o tema com uma frase geral e mostre do que o texto vai tratar. Não dê sua opinião completa ainda (ou dê de forma breve, se a pergunta pedir).\n\"It is often said that university should be free for everyone. This essay will examine both sides of this question.\"\n\n**2. Parágrafo 1** — **topic sentence** + argumento + exemplo/explicação.\n\"**Firstly**, free education would increase social mobility. **For instance**, ...\"\n\n**3. Parágrafo 2** — outro argumento **ou** o lado oposto.\n\"**On the other hand**, it could be argued that... **As a result**, ...\"\n\n**4. Conclusão** — resuma e dê sua opinião clara. Não traga ideias novas.\n\"**In conclusion**, **all things considered**, I believe that...\"\n\n**Linking words por função:**\n- **Adicionar:** furthermore, moreover, in addition, what is more, not only... but also\n- **Exemplificar:** for example, for instance, such as, a good example of this is\n- **Causa:** because of, due to, owing to, since, as\n- **Efeito:** as a result, consequently, therefore, thus, which means that\n- **Contraste:** however, nevertheless, on the other hand, although, despite\n- **Opinião:** in my view, from my point of view, I firmly believe that, it seems to me that\n- **Concluir:** in conclusion, to sum up, all things considered, overall\n\n**Linguagem impessoal** (soa acadêmica e objetiva):\n- **It is often argued / claimed / believed that...**\n- **There is no doubt that...** / **It is undeniable that...**\n- Evite contrações (don't → do not), gírias e frases muito curtas em sequência.\n\n**Dica de ouro:** **não exagere** nos conectores! Um por frase, no máximo — e use variedade.",
+        "table": {
+          "headers": ["Função", "Conectores"],
+          "rows": [["Ordem", "Firstly, Secondly, Finally"], ["Adição", "Furthermore, Moreover, In addition, What is more"], ["Exemplo", "For instance, For example, such as"], ["Causa", "due to, owing to, because of, since"], ["Efeito", "As a result, Consequently, Therefore"], ["Contraste", "However, On the other hand, Nevertheless"], ["Conclusão", "In conclusion, To sum up, All things considered"]]
+        },
+        "examples": [
+          {"en": "Furthermore, online learning allows students to study at their own pace.", "pt": "Além disso, o ensino online permite que os alunos estudem no próprio ritmo."},
+          {"en": "Owing to the high cost of living, many young people cannot afford to leave home.", "pt": "Devido ao alto custo de vida, muitos jovens não conseguem sair de casa."},
+          {"en": "It could be argued that exams do not measure real intelligence. Nevertheless, they remain the fairest way to compare candidates.", "pt": "Pode-se argumentar que provas não medem a inteligência real. Mesmo assim, continuam sendo a forma mais justa de comparar candidatos."}
+        ],
+        "tip_pt": "A redação do ENEM e o essay em inglês são parecidos na estrutura (introdução, desenvolvimento, conclusão), mas o essay **não exige proposta de intervenção**. Já o **topic sentence** no início de cada parágrafo é muito mais valorizado em inglês."
+      },
+      "common_mistakes": [
+        {"wrong": "Due to it was raining, the event was cancelled.", "right": "Due to the rain, the event was cancelled. / Because it was raining...", "why_pt": "Due to + substantivo (não oração)."},
+        {"wrong": "In the other hand, ...", "right": "On the other hand, ...", "why_pt": "A expressão é ON the other hand."},
+        {"wrong": "Moreover, I think that is very bad. Moreover, it is expensive. Moreover...", "right": "Moreover, ... In addition, ... What is more, ...", "why_pt": "Varie os conectores e não comece toda frase com um."}
+      ],
+      "pronunciation": {
+        "focus": "Linking words formais",
+        "tip_pt": "Atenção a palavras que brasileiros costumam errar: **furthermore** = \"FÂR-der-mór\", **moreover** = \"mór-ÔU-ver\", **consequently** = \"KÓN-si-kuent-li\", **thus** = \"dâs\" (com TH sonoro), **owing to** = \"ÔU-in tu\".",
+        "practice": ["FURthermore, ...", "moreOVer, ...", "CONsequently, ...", "OWing to the cost, ..."]
+      },
+      "dialogue": {
+        "title": "Essay feedback",
+        "context_pt": "Uma professora dá feedback para um aluno sobre a redação dele.",
+        "lines": [
+          {"speaker": "Teacher", "en": "Your ideas are really good, Lucas. The problem is the organization. Your introduction is half a page long!", "pt": "Suas ideias são muito boas, Lucas. O problema é a organização. Sua introdução tem meia página!"},
+          {"speaker": "Lucas", "en": "I wanted to explain the whole context first.", "pt": "Eu quis explicar todo o contexto primeiro."},
+          {"speaker": "Teacher", "en": "I understand, but in a B2 essay, the introduction should be just two or three sentences: introduce the topic and say what you'll discuss.", "pt": "Entendo, mas num essay B2, a introdução deve ter só duas ou três frases: apresentar o tema e dizer o que você vai discutir."},
+          {"speaker": "Lucas", "en": "OK. What about the main paragraphs?", "pt": "OK. E os parágrafos principais?"},
+          {"speaker": "Teacher", "en": "Start each one with a clear topic sentence. Here, for instance, you start with an example, so the reader doesn't know what your argument is until the end.", "pt": "Comece cada um com uma topic sentence clara. Aqui, por exemplo, você começa com um exemplo, então o leitor só entende seu argumento no final."},
+          {"speaker": "Lucas", "en": "Right. And the linking words? I used \"moreover\" a lot.", "pt": "Certo. E os conectores? Usei muito \"moreover\"."},
+          {"speaker": "Teacher", "en": "Six times, actually! Try to vary them: in addition, what is more, furthermore. And avoid contractions — it's a formal text.", "pt": "Seis vezes, na verdade! Tente variar: in addition, what is more, furthermore. E evite contrações — é um texto formal."},
+          {"speaker": "Lucas", "en": "Got it. So: short introduction, topic sentences, varied linkers, no contractions, and a clear conclusion.", "pt": "Entendi. Então: introdução curta, topic sentences, conectores variados, sem contrações e uma conclusão clara."},
+          {"speaker": "Teacher", "en": "Exactly. All things considered, it's a very promising essay.", "pt": "Exatamente. Considerando tudo, é uma redação muito promissora."}
+        ]
+      },
+      "listening": {
+        "title": "How examiners mark your essay",
+        "context_pt": "Uma examinadora explica os critérios de correção de redação em provas de nível B2.",
+        "lines": [
+          {"speaker": "Examiner", "en": "Many students think the most important thing in an essay is grammar. In fact, in the Cambridge B2 First, your writing is assessed on four criteria. First, content: have you answered the question and included all the required points? Second, communicative achievement: is the style appropriate — formal, in the case of an essay — and does your text hold the reader's attention? Third, organization: are your ideas logically connected, with clear paragraphs and a good variety of linking words? And finally, language: how wide and accurate is your vocabulary and grammar? So, as you can see, grammar is only one part. A text with a few small mistakes but excellent organization will often score better than a perfect text that doesn't answer the question. My advice? Spend five minutes planning before you write. It makes a huge difference."}
+        ],
+        "questions": [
+          {"q": "How many criteria are used to assess writing in B2 First?", "answer": "Four."},
+          {"q": "What does \"content\" mean?", "answer": "Answering the question and including all required points."},
+          {"q": "What does \"organization\" include?", "answer": "Logical connection, clear paragraphs and varied linking words."},
+          {"q": "What is the examiner's advice?", "answer": "Spend five minutes planning before you write."}
+        ]
+      },
+      "reading": {
+        "title": "Model essay: Should university education be free?",
+        "text": "In many countries, including Brazil, the cost of higher education is a controversial issue. While public universities offer free courses, places are limited and highly competitive. This essay will consider whether university education should be free for everyone.\n\nThere are strong arguments in favour of free higher education. Firstly, it can increase social mobility. When students do not have to pay fees, talented young people from low-income families have a real chance of entering professions such as medicine or engineering. Furthermore, a more educated population tends to benefit the whole economy, as graduates generally earn more and contribute more in taxes.\n\nOn the other hand, it could be argued that free education is not truly free, since it is paid for by all taxpayers, including those who never go to university. In addition, if universities receive too little funding, the quality of teaching may suffer. As a result, some experts suggest alternatives, such as income-based loans, where graduates repay their fees only when they earn above a certain salary.\n\nIn conclusion, all things considered, I believe that higher education should remain free at public universities, as it is one of the most effective ways of reducing inequality. However, governments must ensure that it is adequately funded and that access is fair for students from all backgrounds.",
+        "questions": [
+          {"q": "What does the introduction do?", "answer": "Introduces the topic and says what the essay will consider."},
+          {"q": "What are the two arguments in favour?", "answer": "It increases social mobility and benefits the economy."},
+          {"q": "What alternative do some experts suggest?", "answer": "Income-based loans, repaid only above a certain salary."},
+          {"q": "What is the writer's final opinion?", "answer": "Public university education should remain free but be adequately funded and fair."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "match", "title": "Linkers and functions", "instruction": "Write the function of each linker: adding, example, cause, result, contrast or conclusion.", "instruction_pt": "Escreva a função de cada conector.",
+         "items": [{"prompt": "furthermore", "answer": "adding"}, {"prompt": "for instance", "answer": "example"}, {"prompt": "owing to", "answer": "cause"}, {"prompt": "consequently", "answer": "result"}, {"prompt": "nevertheless", "answer": "contrast"}, {"prompt": "all things considered", "answer": "conclusion"}]},
+        {"id": "ex2", "type": "multiple_choice", "title": "Choose the best linker", "instruction": "Choose the best option.", "instruction_pt": "Escolha a melhor opção.",
+         "items": [{"prompt": "Online courses are cheaper. ___, they allow students to study at their own pace.", "options": ["Moreover", "However", "Consequently"], "answer": "Moreover"}, {"prompt": "___ the high cost of living, many graduates move back home.", "options": ["Owing to", "Although", "Furthermore"], "answer": "Owing to"}, {"prompt": "Many schools lack computers. ___, students cannot develop digital skills.", "options": ["As a result", "For instance", "Despite"], "answer": "As a result"}, {"prompt": "Some subjects, ___ art and music, are often neglected.", "options": ["such as", "as a result", "moreover"], "answer": "such as"}, {"prompt": "___, I believe that exams should be reformed.", "options": ["To sum up", "For example", "Due to"], "answer": "To sum up"}]},
+        {"id": "ex3", "type": "answer", "title": "Make it formal", "instruction": "Rewrite the sentences in a more formal style.", "instruction_pt": "Reescreva as frases num estilo mais formal.",
+         "items": [{"prompt": "Lots of people think that homework is useless.", "answer": "It is widely believed that homework is ineffective. / Many people believe that homework is of little value."}, {"prompt": "Also, it's really expensive.", "answer": "Furthermore, it is extremely expensive."}, {"prompt": "So, in the end, I think schools should change.", "answer": "In conclusion, I believe that schools should change."}, {"prompt": "Some people say kids should learn to code.", "answer": "It could be argued that children should learn to code."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "It is often said that education is the key to success."}, {"prompt": "2", "answer": "There are several reasons for this."}, {"prompt": "3", "answer": "It could be argued that exams are unfair."}, {"prompt": "4", "answer": "All things considered, I believe that university should be free."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "In the other hand, online classes can be lonely.", "answer": "On the other hand, online classes can be lonely."}, {"prompt": "Due to it was expensive, few students enrolled.", "answer": "Due to the high cost, few students enrolled. / Because it was expensive, few students enrolled."}, {"prompt": "In conclusion, I don't think it's a good idea.", "answer": "In conclusion, I do not think it is a good idea."}, {"prompt": "For example, subjects such as for example maths and science.", "answer": "For example, subjects such as maths and science."}]},
+        {"id": "ex6", "type": "order_words", "title": "Order the essay", "instruction": "Put the parts of the essay in the correct order (write the letters).", "instruction_pt": "Coloque as partes da redação na ordem correta (escreva as letras).",
+         "items": [{"prompt": "a) In conclusion, all things considered... / b) It is often said that... This essay will discuss... / c) On the other hand, it could be argued that... / d) Firstly, ... Furthermore, ...", "answer": "b, d, c, a"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Plan in five minutes\": in pairs, choose one essay question and plan it together in 5 minutes (introduction idea, two arguments with examples, counter-argument, conclusion). Then present your plan to the class orally, using formal linkers.",
+        "instruction_pt": "\"Planeje em cinco minutos\": em pares, escolham uma pergunta de redação e planejem juntos em 5 minutos (ideia de introdução, dois argumentos com exemplos, contra-argumento, conclusão). Depois apresentem o plano oralmente para a turma, usando conectores formais.",
+        "questions": ["Should university education be free for everyone?", "Should schools teach life skills (like personal finance) instead of traditional subjects?", "Is online learning as effective as face-to-face learning?", "Should homework be banned in primary schools?", "Are exams the best way to assess students?"]
+      },
+      "writing": {
+        "task": "Write a B2 First–style essay (140–190 words) answering this question: \"Some people think that all students should learn to code at school. Do you agree?\" Write about 1) future jobs, 2) creativity and problem-solving, and 3) your own idea. Use a clear 4-paragraph structure and formal linkers.",
+        "task_pt": "Escreva uma redação no estilo B2 First (140–190 palavras) respondendo: \"Algumas pessoas acham que todos os alunos deveriam aprender programação na escola. Você concorda?\" Escreva sobre 1) empregos do futuro, 2) criatividade e resolução de problemas e 3) uma ideia sua. Use estrutura de 4 parágrafos e conectores formais.",
+        "model": "Should all students learn to code at school?\n\nTechnology plays a central role in almost every area of modern life. As a result, many people believe that coding should be a compulsory subject at school. This essay will consider whether this is a good idea.\n\nFirstly, digital skills are increasingly valued in the job market. Even professions that are not directly related to technology, such as marketing or medicine, now require people who understand how software works. Furthermore, learning to code develops problem-solving skills, as students must break complex problems into smaller steps and test different solutions.\n\nOn the other hand, it could be argued that the school timetable is already full. If coding is added, other important subjects, such as art or physical education, may be reduced. In addition, many schools lack computers and trained teachers.\n\nIn conclusion, I believe that all students should have the opportunity to learn basic coding. However, it should be introduced gradually and combined with other subjects rather than replacing them."
+      },
+      "culture_note": {
+        "title": "Redação do ENEM x Essay",
+        "text_pt": "Na **redação do ENEM**, o texto é dissertativo-argumentativo e termina com uma **proposta de intervenção**. No **essay** em inglês (Cambridge, IELTS, universidades), o foco é **argumentar com clareza e equilíbrio**, e o limite de palavras é rígido. Os textos em inglês também costumam ser mais **diretos**: frases mais curtas e uma ideia por parágrafo."
+      },
+      "summary_pt": ["4 parágrafos: introdução · argumento 1 · argumento 2/contra · conclusão.", "Topic sentence no início de cada parágrafo.", "Varie conectores: furthermore, for instance, as a result, however, in conclusion.", "Formal: sem contrações, linguagem impessoal (It could be argued that...)."]
+    }
+  ],
+  "review": {
+    "intro_pt": "Revise relative clauses avançadas, participle clauses, conectores de contraste e estrutura de ensaio.",
+    "exercises": [
+      {"id": "r1", "type": "multiple_choice", "title": "Choose the correct option", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+       "items": [{"prompt": "The colleague with ___ I share an office is very quiet.", "options": ["who", "whom", "that"], "answer": "whom"}, {"prompt": "The train was late, ___ meant I missed my flight.", "options": ["what", "which", "that"], "answer": "which"}, {"prompt": "___ finished the course, she started looking for a job.", "options": ["Having", "Being", "Had"], "answer": "Having"}, {"prompt": "___ the cost, the project was approved.", "options": ["Although", "Despite", "However"], "answer": "Despite"}, {"prompt": "Owing ___ the strike, all classes were cancelled.", "options": ["of", "to", "for"], "answer": "to"}]},
+      {"id": "r2", "type": "answer", "title": "Transform", "instruction": "Rewrite the sentences as instructed.", "instruction_pt": "Reescreva as frases como indicado.",
+       "items": [{"prompt": "I have three cousins. Two of them are doctors. (of whom)", "answer": "I have three cousins, two of whom are doctors."}, {"prompt": "After she had lived in Rio for years, she moved to Bahia. (Having...)", "answer": "Having lived in Rio for years, she moved to Bahia."}, {"prompt": "Although he was tired, he went to the meeting. (In spite of)", "answer": "In spite of being tired, he went to the meeting."}]},
+      {"id": "r3", "type": "translate", "title": "Translate", "instruction": "Translate into English.", "instruction_pt": "Traduza para o inglês.",
+       "items": [{"prompt": "O aluguel subiu muito, o que é um problema.", "answer": "The rent has risen sharply, which is a problem."}, {"prompt": "Algumas pessoas amam a cidade, enquanto outras odeiam.", "answer": "Some people love the city, whereas others hate it."}, {"prompt": "Pode-se argumentar que provas são injustas.", "answer": "It could be argued that exams are unfair."}]},
+      {"id": "r4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+       "items": [{"prompt": "1", "answer": "This is the city in which I grew up."}, {"prompt": "2", "answer": "Having said that, there are still problems."}, {"prompt": "3", "answer": "Technology is a double-edged sword."}]},
+      {"id": "r5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+       "items": [{"prompt": "Despite of the rain, we went out.", "answer": "Despite the rain, we went out."}, {"prompt": "Walking home, the rain started.", "answer": "Walking home, I got caught in the rain."}, {"prompt": "In the other hand, it is expensive.", "answer": "On the other hand, it is expensive."}]}
+    ],
+    "speaking_pt": "Faça uma apresentação de 4 minutos sobre um problema social da sua cidade (moradia, transporte, desigualdade digital...): descreva a situação (relative clauses avançadas), conte como ela mudou (participle clauses), apresente os dois lados (contraste) e conclua com sua opinião (linkers formais).",
+    "speaking_questions": ["What is the biggest problem in your city?", "How has your neighbourhood changed in the last ten years?", "Has technology made Brazil more equal?", "What's the best way to reduce inequality in education?", "Would you rather live in the centre or on the outskirts? Why?"]
+  ,
+    "project_pt": "**\"Our city in 2040\" report:** em grupo, escrevam um relatório (400–500 palavras) com quatro seções — situação atual, tendências, propostas e conclusão — sobre como a cidade de vocês deveria mudar até 2040. Usem relative clauses avançadas, participle clauses, conectores de contraste e linguagem formal. Apresentem como se fosse para a prefeitura."
+  }
+}

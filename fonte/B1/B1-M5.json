@@ -1,0 +1,520 @@
+{
+  "id": "B1-M5",
+  "level": "B1",
+  "title": "News and Events",
+  "theme_pt": "Notícias, invenções, desastres naturais e mídia",
+  "can_do": ["Entender e escrever manchetes e notícias curtas", "Usar a voz passiva no presente e no passado", "Ordenar acontecimentos com o past perfect", "Combinar os tempos narrativos para relatar eventos", "Avaliar a confiabilidade de uma notícia e expressar dúvida"],
+  "lessons": [
+    {
+      "id": "B1-M5-L1",
+      "title": "It was built in 1920",
+      "subtitle_pt": "Voz passiva: presente e passado",
+      "duration_min": 60,
+      "source_refs": ["Top Notch 3B – Unit 5/6 (passive voice)", "Keynote Intermediate – Unit 10 (the passive)"],
+      "objectives": ["Formar a voz passiva (be + particípio) no presente e no passado", "Usar by para indicar quem fez a ação", "Saber quando a passiva é mais natural que a ativa", "Falar sobre invenções, produtos e monumentos"],
+      "warmup": {
+        "text_pt": "Quem inventou o avião? Onde seu celular foi fabricado? Quando foi construído o Cristo Redentor? Para falar de fatos assim, o inglês adora a **voz passiva**.",
+        "questions": ["Where was your phone made?", "Do you know who invented the internet?"]
+      },
+      "vocabulary": [
+        {"en": "to invent / invention", "pt": "inventar / invenção", "say": "tu invént / invénshon"},
+        {"en": "to discover / discovery", "pt": "descobrir / descoberta", "say": "tu diskâver / diskâveri"},
+        {"en": "to build (built)", "pt": "construir", "say": "tu bild (bilt)"},
+        {"en": "to design", "pt": "projetar, desenhar", "say": "tu dizáin"},
+        {"en": "to manufacture / to produce", "pt": "fabricar / produzir", "say": "tu meniufékcher / tu prodiús"},
+        {"en": "to grow (grown)", "pt": "cultivar", "say": "tu grôu (grôun)"},
+        {"en": "to export / to import", "pt": "exportar / importar", "say": "tu ekspórt / tu impórt"},
+        {"en": "to found (a company)", "pt": "fundar", "say": "tu fáund"},
+        {"en": "to award", "pt": "premiar, conceder", "say": "tu auórd"},
+        {"en": "landmark", "pt": "marco, ponto turístico", "say": "léndmark"},
+        {"en": "to be named after", "pt": "ser batizado em homenagem a", "say": "tu bí nêimd éfter"},
+        {"en": "worldwide", "pt": "no mundo todo", "say": "uârldwáid"}
+      ],
+      "chunks": [
+        {"en": "It was built in 1931.", "pt": "Foi construído em 1931."},
+        {"en": "It's made in Brazil.", "pt": "É fabricado no Brasil."},
+        {"en": "It was invented by...", "pt": "Foi inventado por..."},
+        {"en": "Coffee is grown in Minas Gerais.", "pt": "O café é cultivado em Minas Gerais."},
+        {"en": "The city was named after...", "pt": "A cidade recebeu o nome em homenagem a..."},
+        {"en": "English is spoken all over the world.", "pt": "O inglês é falado no mundo todo."}
+      ],
+      "grammar": {
+        "title": "Passive voice: be + past participle",
+        "explanation_pt": "Na **voz ativa**, o foco está em **quem faz**: \"Oscar Niemeyer **designed** Brasília.\"\nNa **voz passiva**, o foco está **no que aconteceu** ou **no objeto**: \"Brasília **was designed** by Oscar Niemeyer.\"\n\n**Estrutura:** sujeito + **be** (no tempo certo) + **particípio passado** (+ by + agente)\n\n- **Present simple passive:** am / is / are + particípio → \"Coffee **is grown** in Brazil.\" / \"These phones **are made** in China.\"\n- **Past simple passive:** was / were + particípio → \"The Eiffel Tower **was built** in 1889.\" / \"The windows **were broken**.\"\n\n**Negativa e pergunta:** mexa só no **be**: \"It **wasn't made** in Italy.\" / \"**Where was** it **made**?\" / \"**When were** the pyramids **built**?\"\n\n**Quando usar a passiva?**\n1. Quando **não sabemos** quem fez: \"My bike **was stolen**.\"\n2. Quando **não importa** quem fez: \"The office **is cleaned** every night.\"\n3. Quando o **óbvio**: \"He **was arrested**.\" (pela polícia, claro)\n4. Em textos **formais, científicos e notícias**.\n\n**By + agente** só quando a informação é importante: \"*Dom Casmurro* **was written by** Machado de Assis.\"",
+        "table": {
+          "headers": ["Ativa", "Passiva"],
+          "rows": [["People speak Portuguese in Brazil.", "Portuguese is spoken in Brazil."], ["They make these shoes in Franca.", "These shoes are made in Franca."], ["Santos Dumont flew the 14-bis in 1906.", "The 14-bis was flown by Santos Dumont in 1906."], ["Someone stole my wallet.", "My wallet was stolen."], ["They didn't invite us.", "We weren't invited."]]
+        },
+        "examples": [
+          {"en": "Christ the Redeemer was completed in 1931 and was chosen as one of the New Seven Wonders in 2007.", "pt": "O Cristo Redentor foi concluído em 1931 e foi escolhido como uma das Novas Sete Maravilhas em 2007."},
+          {"en": "Most of the world's açaí is produced in the state of Pará.", "pt": "A maior parte do açaí do mundo é produzida no estado do Pará."},
+          {"en": "Was the meeting cancelled? — Yes, it was moved to Monday.", "pt": "A reunião foi cancelada? — Sim, foi remarcada para segunda."}
+        ],
+        "tip_pt": "Para a passiva funcionar, você precisa dominar os **particípios** (built, made, written, sold, spoken, grown, stolen, chosen). Revise a lista de verbos irregulares!"
+      },
+      "common_mistakes": [
+        {"wrong": "This house built in 1950.", "right": "This house was built in 1950.", "why_pt": "A passiva precisa do verbo be."},
+        {"wrong": "The book was wrote by Clarice Lispector.", "right": "The book was written by Clarice Lispector.", "why_pt": "Use o particípio (written), não o passado (wrote)."},
+        {"wrong": "It was invented for Santos Dumont.", "right": "It was invented by Santos Dumont.", "why_pt": "O agente da passiva é introduzido por by."}
+      ],
+      "pronunciation": {
+        "focus": "Was e were fracos na passiva",
+        "tip_pt": "Na passiva, **was / were / is** são fracos e rápidos; a força vai no particípio: \"It was **BUILT** in 1931.\" (\"it uâz bilt\"). **Built** = \"bilt\" (o U é mudo!).",
+        "practice": ["It was BUILT in 1931.", "Coffee is GROWN in Minas.", "My bike was STOLEN!"]
+      },
+      "dialogue": {
+        "title": "City tour",
+        "context_pt": "Uma guia apresenta o centro histórico de Salvador para turistas estrangeiros.",
+        "lines": [
+          {"speaker": "Guide", "en": "Welcome to Pelourinho! This historic center was declared a UNESCO World Heritage Site in 1985.", "pt": "Bem-vindos ao Pelourinho! Este centro histórico foi declarado Patrimônio da Humanidade pela UNESCO em 1985."},
+          {"speaker": "Tourist", "en": "It's beautiful. When were these buildings built?", "pt": "É lindo. Quando esses prédios foram construídos?"},
+          {"speaker": "Guide", "en": "Most of them were built in the 17th and 18th centuries, when Salvador was the capital of Brazil.", "pt": "A maioria foi construída nos séculos XVII e XVIII, quando Salvador era a capital do Brasil."},
+          {"speaker": "Tourist", "en": "And that church with the gold inside?", "pt": "E aquela igreja com ouro por dentro?"},
+          {"speaker": "Guide", "en": "That's the São Francisco Church. Its interior is covered in gold. It was decorated by local artists, many of them enslaved Africans.", "pt": "É a Igreja de São Francisco. O interior é coberto de ouro. Foi decorada por artistas locais, muitos deles africanos escravizados."},
+          {"speaker": "Tourist", "en": "Wow. And is the area still used by locals?", "pt": "Uau. E a área ainda é usada pelos moradores?"},
+          {"speaker": "Guide", "en": "Yes! On Tuesdays, music is played in the streets, and the famous Olodum drums can be heard everywhere.", "pt": "Sim! Às terças, há música nas ruas, e os famosos tambores do Olodum podem ser ouvidos em todo lugar."}
+        ]
+      },
+      "listening": {
+        "title": "Podcast: everyday inventions",
+        "context_pt": "Um podcast conta a origem de objetos do dia a dia.",
+        "lines": [
+          {"speaker": "Host", "en": "Did you know that many everyday objects were invented by accident? The microwave oven was invented after an engineer noticed that a chocolate bar in his pocket had melted near radar equipment. Post-it notes were created when a scientist was trying to make a strong glue — and failed. And the famous Brazilian invention, the caller ID, is sometimes credited to an engineer from Minas Gerais in the 1970s, although several people worked on similar ideas around the world. Today, these objects are used by billions of people every day."}
+        ],
+        "questions": [
+          {"q": "How was the microwave oven invented?", "answer": "An engineer noticed a chocolate bar in his pocket had melted near radar equipment."},
+          {"q": "What was the scientist trying to make when Post-it notes were created?", "answer": "A strong glue."},
+          {"q": "Which invention is sometimes credited to a Brazilian engineer?", "answer": "Caller ID."},
+          {"q": "By how many people are these objects used today?", "answer": "By billions of people."}
+        ]
+      },
+      "reading": {
+        "title": "The story of coffee",
+        "text": "Coffee is drunk by billions of people every day, but where did it come from? According to legend, coffee was discovered in Ethiopia, when a goat herder noticed that his goats became very energetic after eating some red berries. The plant was later taken to Yemen, where coffee was first prepared as a drink. In the 18th century, coffee seeds were brought to Brazil — legend says they were secretly given to a Portuguese officer in French Guiana. Today, Brazil is the world's largest coffee producer: around a third of the world's coffee is grown here, mainly in Minas Gerais, São Paulo and Espírito Santo. The beans are harvested between May and September and are exported to more than 100 countries.",
+        "questions": [
+          {"q": "Where was coffee discovered, according to legend?", "answer": "In Ethiopia."},
+          {"q": "Where was coffee first prepared as a drink?", "answer": "In Yemen."},
+          {"q": "How much of the world's coffee is grown in Brazil?", "answer": "Around a third."},
+          {"q": "When are the beans harvested?", "answer": "Between May and September."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "fill_blank", "title": "Present passive", "instruction": "Complete with the present simple passive.", "instruction_pt": "Complete com a passiva no presente.",
+         "items": [{"prompt": "Spanish ___ (speak) in 20 countries.", "answer": "is spoken"}, {"prompt": "These cars ___ (make) in Germany.", "answer": "are made"}, {"prompt": "The office ___ (clean) every evening.", "answer": "is cleaned"}, {"prompt": "Breakfast ___ (not / include) in the price.", "answer": "isn't included"}]},
+        {"id": "ex2", "type": "fill_blank", "title": "Past passive", "instruction": "Complete with the past simple passive.", "instruction_pt": "Complete com a passiva no passado.",
+         "items": [{"prompt": "Brasília ___ (inaugurate) in 1960.", "answer": "was inaugurated"}, {"prompt": "The first iPhone ___ (sell) in 2007.", "answer": "was sold"}, {"prompt": "Two people ___ (hurt) in the accident.", "answer": "were hurt"}, {"prompt": "When ___ the telephone ___ (invent)?", "answer": "was / invented"}]},
+        {"id": "ex3", "type": "answer", "title": "Active to passive", "instruction": "Rewrite in the passive. Use by only if necessary.", "instruction_pt": "Reescreva na passiva. Use by só se necessário.",
+         "items": [{"prompt": "Someone stole my car last night.", "answer": "My car was stolen last night."}, {"prompt": "Machado de Assis wrote Dom Casmurro.", "answer": "Dom Casmurro was written by Machado de Assis."}, {"prompt": "They grow bananas in Ecuador.", "answer": "Bananas are grown in Ecuador."}, {"prompt": "They didn't invite me to the wedding.", "answer": "I wasn't invited to the wedding."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "It was built in 1931."}, {"prompt": "2", "answer": "Coffee is grown in Minas Gerais."}, {"prompt": "3", "answer": "My bike was stolen yesterday."}, {"prompt": "4", "answer": "English is spoken all over the world."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "The museum built in 1922.", "answer": "The museum was built in 1922."}, {"prompt": "This song was wrote by Tom Jobim.", "answer": "This song was written by Tom Jobim."}, {"prompt": "The cars is made in Japan.", "answer": "The cars are made in Japan."}, {"prompt": "The book was translated for my friend.", "answer": "The book was translated by my friend."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Product description", "instruction": "Complete with the passive: design · make · sell · use · grow.", "instruction_pt": "Complete com a passiva.",
+         "items": [{"prompt": "Our sandals ___ in Brazil by local artisans.", "answer": "are made"}, {"prompt": "They ___ by a young designer from Recife in 2019.", "answer": "were designed"}, {"prompt": "Only natural materials ___ — the rubber ___ in the Amazon.", "answer": "are used / is grown"}, {"prompt": "Last year, more than 50,000 pairs ___ worldwide.", "answer": "were sold"}]}
+      ],
+      "speaking": {
+        "instruction": "Quiz time! Make passive questions for your partner about landmarks, inventions and products (When was... built? Where are... made? Who was... written by?).",
+        "instruction_pt": "Hora do quiz! Faça perguntas na passiva para o colega sobre monumentos, invenções e produtos (When was... built? Where are... made? Who was... written by?).",
+        "questions": ["What is your city famous for? What is produced there?", "When was your house or building built?", "What languages are spoken in your family?", "What's something that was invented in Brazil?", "Have you ever had something stolen? What happened?"]
+      },
+      "writing": {
+        "task": "Write a short description (100–120 words) of a landmark, product or tradition from your city or region. Use at least 6 passive forms.",
+        "task_pt": "Escreva uma descrição curta (100–120 palavras) de um monumento, produto ou tradição da sua cidade ou região. Use pelo menos 6 formas passivas.",
+        "model": "Cheese bread (pão de queijo) is one of Brazil's most famous snacks. It's believed that the recipe was created in Minas Gerais in the 18th century, when wheat flour was hard to find. Instead, cassava starch was used, which is why the bread is naturally gluten-free. Traditionally, the dough is made with cassava starch, eggs, milk, oil and Minas cheese. Today, pão de queijo is eaten all over Brazil, usually with coffee in the afternoon, and frozen versions are exported to many countries. In Minas, it's said that every family has its own secret recipe — and the best one is always grandma's!"
+      },
+      "culture_note": {
+        "title": "\"Made in...\"",
+        "text_pt": "O rótulo **\"Made in China\"** é famoso, mas hoje é comum ver **\"Designed in California, assembled in China\"** (projetado na Califórnia, montado na China). Repare: tudo na passiva! A cadeia global de produção é um ótimo tema para praticar."
+      },
+      "summary_pt": ["be + particípio = passiva.", "is/are + particípio (presente) · was/were + particípio (passado).", "by + agente só quando importa.", "Use quando o agente é desconhecido, óbvio ou sem importância."]
+    },
+    {
+      "id": "B1-M5-L2",
+      "title": "Breaking news",
+      "subtitle_pt": "Past perfect: o passado do passado",
+      "duration_min": 60,
+      "source_refs": ["Top Notch 3A – Unit 5 (past perfect)", "Keynote Intermediate – Unit 11 (narrative tenses)"],
+      "objectives": ["Formar o past perfect (had + particípio)", "Mostrar que uma ação aconteceu antes de outra no passado", "Usar by the time, when, already, before, after com past perfect", "Entender notícias com sequências de eventos"],
+      "warmup": {
+        "text_pt": "\"Quando cheguei ao cinema, o filme **já tinha começado**.\" Esse \"já tinha começado\" é o **past perfect**: uma ação passada que aconteceu **antes** de outra ação passada.",
+        "questions": ["Have you ever arrived somewhere and something had already happened?", "Had you studied English before this course?"]
+      },
+      "vocabulary": [
+        {"en": "had + past participle", "pt": "tinha + particípio", "say": "réd"},
+        {"en": "by the time", "pt": "quando, até o momento em que", "say": "bái dâ táim"},
+        {"en": "already / just (+ had)", "pt": "já / tinha acabado de", "say": "olrédi / djâst"},
+        {"en": "earlier / previously", "pt": "antes, anteriormente", "say": "ârlier / prívioslí"},
+        {"en": "breaking news", "pt": "notícia de última hora", "say": "brêikin niúz"},
+        {"en": "to rescue / rescue team", "pt": "resgatar / equipe de resgate", "say": "tu réskiu"},
+        {"en": "to survive / survivor", "pt": "sobreviver / sobrevivente", "say": "tu sarváiv / sarváivor"},
+        {"en": "to escape", "pt": "escapar, fugir", "say": "tu iskêip"},
+        {"en": "to investigate", "pt": "investigar", "say": "tu invéstigueit"},
+        {"en": "witness", "pt": "testemunha", "say": "uítnes"},
+        {"en": "to evacuate", "pt": "evacuar", "say": "tu ivékiueit"},
+        {"en": "to turn out (that)", "pt": "revelar-se, acabar sendo", "say": "tu târn áut"}
+      ],
+      "chunks": [
+        {"en": "When I arrived, the movie had already started.", "pt": "Quando cheguei, o filme já tinha começado."},
+        {"en": "I had never seen anything like it.", "pt": "Eu nunca tinha visto nada parecido."},
+        {"en": "By the time the police arrived, the thief had escaped.", "pt": "Quando a polícia chegou, o ladrão já tinha fugido."},
+        {"en": "She realized she had left her passport at home.", "pt": "Ela percebeu que tinha deixado o passaporte em casa."},
+        {"en": "It turned out that...", "pt": "Descobriu-se que... / No fim das contas..."}
+      ],
+      "grammar": {
+        "title": "Past perfect",
+        "explanation_pt": "**Estrutura:** **had** + particípio passado (igual para todas as pessoas)\n- Afirmativa: I **had** (I'd) **finished**. / She'd **left**.\n- Negativa: They **hadn't seen** it.\n- Pergunta: **Had** you **been** there before?\n\n**Uso:** mostrar que uma ação aconteceu **antes** de outra ação **no passado**. É o \"tinha feito\".\n\nLinha do tempo:\n[ação 1 — past perfect] → [ação 2 — simple past] → agora\n\"When I **got** to the station, the train **had left**.\" (o trem saiu primeiro; depois eu cheguei)\n\nCompare:\n- \"When I arrived, the train **left**.\" = cheguei e então o trem saiu (vi saindo)\n- \"When I arrived, the train **had left**.\" = o trem saiu antes de eu chegar (perdi!)\n\n**Palavras frequentes:** **by the time**, **when**, **already**, **just**, **never... before**, **before**, **after**, **because**.\n\n**Já com before e after**, a ordem fica clara e o past perfect é opcional: \"After I (had) finished, I went home.\"\n\n💡 Em notícias e histórias, o past perfect volta no tempo para explicar o contexto: \"The firefighters rescued a man who **had been** trapped for six hours.\"",
+        "table": {
+          "headers": ["Primeira ação (past perfect)", "Segunda ação (simple past)"],
+          "rows": [["The movie had started", "when we arrived."], ["She had never flown", "before she went to Japan."], ["By the time help came,", "they had walked 20 km."], ["I had just fallen asleep", "when the phone rang."], ["He was nervous because", "he hadn't prepared."]]
+        },
+        "examples": [
+          {"en": "By the time the firefighters arrived, the neighbors had already rescued the dog.", "pt": "Quando os bombeiros chegaram, os vizinhos já tinham resgatado o cachorro."},
+          {"en": "I'd never seen snow before I moved to Canada.", "pt": "Eu nunca tinha visto neve antes de me mudar para o Canadá."},
+          {"en": "It turned out that the man had lost his memory after the accident.", "pt": "Descobriu-se que o homem tinha perdido a memória depois do acidente."}
+        ],
+        "tip_pt": "Cuidado com a contração **'d**: pode ser **had** (\"I'd finished\") ou **would** (\"I'd go\"). Se vem particípio depois, é **had**; se vem verbo base, é **would**."
+      },
+      "common_mistakes": [
+        {"wrong": "When I arrived, the party already finished.", "right": "When I arrived, the party had already finished.", "why_pt": "A festa terminou antes da chegada: past perfect."},
+        {"wrong": "I had saw that movie before.", "right": "I had seen that movie before.", "why_pt": "Past perfect usa o particípio (seen)."},
+        {"wrong": "I had went to bed when you called.", "right": "I had gone to bed when you called.", "why_pt": "Particípio de go = gone."}
+      ],
+      "pronunciation": {
+        "focus": "I'd / she'd / they'd",
+        "tip_pt": "Na fala, **had** quase sempre vira **'d**, que é muito curto: \"I'd left\" = \"áid léft\", \"she'd gone\" = \"shíd gón\". Às vezes o 'd é quase inaudível — o particípio é o que mostra que é past perfect.",
+        "practice": ["The train had left.", "I'd never seen it before.", "By the time we arrived, they'd gone."]
+      },
+      "dialogue": {
+        "title": "A crazy morning",
+        "context_pt": "Um colega conta por que chegou atrasado a uma reunião importante.",
+        "lines": [
+          {"speaker": "Manager", "en": "Diego, what happened? The meeting started an hour ago!", "pt": "Diego, o que aconteceu? A reunião começou há uma hora!"},
+          {"speaker": "Diego", "en": "I'm so sorry. It was a disaster. When I woke up, the power had gone out, so my alarm hadn't rung.", "pt": "Mil desculpas. Foi um desastre. Quando acordei, a luz tinha acabado, então meu despertador não tinha tocado."},
+          {"speaker": "Manager", "en": "Oh no.", "pt": "Ah não."},
+          {"speaker": "Diego", "en": "Then I ran to the bus stop, but the bus had just left. So I called an Uber.", "pt": "Aí corri para o ponto, mas o ônibus tinha acabado de sair. Então chamei um Uber."},
+          {"speaker": "Manager", "en": "And?", "pt": "E?"},
+          {"speaker": "Diego", "en": "Halfway here, I realized I'd left my laptop at home — with the presentation on it!", "pt": "No meio do caminho, percebi que tinha deixado o notebook em casa — com a apresentação nele!"},
+          {"speaker": "Manager", "en": "Unbelievable. Well, it turned out fine: by the time you called, the client had already postponed the meeting to Friday.", "pt": "Inacreditável. Bom, no fim deu certo: quando você ligou, o cliente já tinha adiado a reunião para sexta."},
+          {"speaker": "Diego", "en": "Seriously? I'd never been so happy about a cancellation!", "pt": "Sério? Eu nunca tinha ficado tão feliz com um cancelamento!"}
+        ]
+      },
+      "listening": {
+        "title": "News report: a happy ending",
+        "context_pt": "Uma reportagem de TV sobre um resgate.",
+        "lines": [
+          {"speaker": "Reporter", "en": "Good evening. A hiker who had been missing for three days in the Serra dos Órgãos National Park was found alive this morning. The 28-year-old man had left for a one-day hike on Saturday, but he had taken the wrong trail. By the time his family called for help on Sunday night, heavy rain had made the search very difficult. Rescue teams found him in a small cave, where he had stayed to protect himself from the rain. He had only one bottle of water, but he had collected rainwater to survive. Doctors say he is tired but in good health."}
+        ],
+        "questions": [
+          {"q": "How long had the hiker been missing?", "answer": "For three days."},
+          {"q": "Why did he get lost?", "answer": "He had taken the wrong trail."},
+          {"q": "What had made the search difficult?", "answer": "Heavy rain."},
+          {"q": "How had he survived?", "answer": "He had stayed in a cave and collected rainwater."}
+        ]
+      },
+      "reading": {
+        "title": "The wallet that came back",
+        "text": "Last month, a taxi driver in Belo Horizonte made headlines for an act of honesty. Carlos Mendes, 54, had just finished his shift when he noticed a wallet on the back seat. A passenger had dropped it earlier that day. Inside, there was 3,000 reais in cash, credit cards and a plane ticket to Lisbon for the next morning. Carlos didn't have the owner's phone number, but he found a business card in the wallet. He called the number, and it turned out that it belonged to the passenger's daughter. By the time Carlos reached the passenger's house, the man had already canceled his cards and had almost given up on his trip. \"I'd never felt so relieved,\" said the passenger. When he tried to give Carlos a reward, the driver refused. \"I only did what anyone should do,\" he said.",
+        "questions": [
+          {"q": "When did Carlos notice the wallet?", "answer": "When he had just finished his shift."},
+          {"q": "What was in the wallet?", "answer": "3,000 reais, credit cards and a plane ticket to Lisbon."},
+          {"q": "How did Carlos find the owner?", "answer": "He called the number on a business card (it belonged to the passenger's daughter)."},
+          {"q": "What had the passenger done before Carlos arrived?", "answer": "He had canceled his cards and almost given up on his trip."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "fill_blank", "title": "Past perfect", "instruction": "Complete with the past perfect of the verb in parentheses.", "instruction_pt": "Complete com o past perfect.",
+         "items": [{"prompt": "When we got to the cinema, the movie ___ (start).", "answer": "had started"}, {"prompt": "I ___ (never / try) sushi before I went to Japan.", "answer": "had never tried / 'd never tried"}, {"prompt": "She was sad because her team ___ (lose).", "answer": "had lost"}, {"prompt": "___ you ___ (meet) him before the party?", "answer": "Had / met"}]},
+        {"id": "ex2", "type": "multiple_choice", "title": "Simple past or past perfect?", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+         "items": [{"prompt": "When I arrived at the airport, my flight ___. I missed it!", "options": ["left", "had left"], "answer": "had left"}, {"prompt": "When I arrived at the airport, I ___ a coffee.", "options": ["bought", "had bought"], "answer": "bought"}, {"prompt": "By the time the police came, the thieves ___.", "options": ["escaped", "had escaped"], "answer": "had escaped"}, {"prompt": "I ___ dinner, then I watched TV.", "options": ["had", "had had"], "answer": "had"}]},
+        {"id": "ex3", "type": "answer", "title": "Join the sentences", "instruction": "Join the sentences using when or by the time + past perfect.", "instruction_pt": "Junte as frases usando when ou by the time + past perfect.",
+         "items": [{"prompt": "The class finished. Then I arrived.", "answer": "When I arrived, the class had finished."}, {"prompt": "Everyone left the party. Then we got there.", "answer": "By the time we got there, everyone had left."}, {"prompt": "I lost my keys. Then I realized it at the door.", "answer": "When I got to the door, I realized I had lost my keys."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "When I arrived, the movie had already started."}, {"prompt": "2", "answer": "I had never seen anything like it."}, {"prompt": "3", "answer": "She realized she had left her passport at home."}, {"prompt": "4", "answer": "It turned out that he was right."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "When I got home, my parents already went to bed.", "answer": "When I got home, my parents had already gone to bed."}, {"prompt": "I had ate before the meeting.", "answer": "I had eaten before the meeting."}, {"prompt": "She hadn't never been abroad.", "answer": "She had never been abroad. / She hadn't been abroad."}, {"prompt": "By the time we arrived, the show has finished.", "answer": "By the time we arrived, the show had finished."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the story", "instruction": "Complete with the correct form (simple past or past perfect).", "instruction_pt": "Complete com a forma correta.",
+         "items": [{"prompt": "Last year I ___ (go) to my high school reunion.", "answer": "went"}, {"prompt": "I ___ (not / see) my classmates for twenty years.", "answer": "hadn't seen"}, {"prompt": "Many of them ___ (change) a lot. One ___ (become) a famous chef!", "answer": "had changed / had become"}, {"prompt": "At the end of the night, we ___ (promise) to meet every year.", "answer": "promised"}]}
+      ],
+      "speaking": {
+        "instruction": "Tell your partner about a time when you arrived somewhere and something had already happened (or about a day when everything went wrong). Use the past perfect.",
+        "instruction_pt": "Conte ao colega sobre uma vez em que você chegou a algum lugar e algo já tinha acontecido (ou um dia em que tudo deu errado). Use o past perfect.",
+        "questions": ["Had you ever traveled abroad before you were 18?", "What had you never done before this year?", "Tell me about a time you missed something important.", "What had you expected about learning English? Was it true?", "What's the most surprising news you've heard recently?"]
+      },
+      "writing": {
+        "task": "Write a short news story (120–150 words) about a real or invented event. Use the past simple for the main events and the past perfect for background.",
+        "task_pt": "Escreva uma notícia curta (120–150 palavras) sobre um evento real ou inventado. Use o simple past para os fatos principais e o past perfect para o contexto anterior.",
+        "model": "DOG FINDS ITS WAY HOME AFTER 300 KM\n\nA family in Goiânia had a big surprise last week when their dog, Thor, appeared at their door. Thor had disappeared six months earlier during a family trip to Brasília. The family had searched for him for weeks and had posted his photo on social media, but they had almost given up. \"We had already accepted that we would never see him again,\" said Marina, 34. Experts believe Thor had walked more than 300 kilometers. When he arrived, he was thin and tired, but healthy. A veterinarian confirmed it was Thor because he had been microchipped as a puppy. The family says they had never been so happy."
+      },
+      "culture_note": {
+        "title": "Linguagem de notícias",
+        "text_pt": "Em notícias em inglês, você vai ver muito **\"It turned out that...\"**, **\"According to...\"** (segundo...), **\"Police said...\"** e **\"It is believed that...\"** (acredita-se que). Ler uma notícia curta por dia em sites como BBC News ou AP é um ótimo treino de B1."
+      },
+      "summary_pt": ["had + particípio = tinha feito.", "Ação anterior a outra ação passada.", "by the time / when / already / never... before.", "'d + particípio = had · 'd + verbo base = would."]
+    },
+    {
+      "id": "B1-M5-L3",
+      "title": "Storms and floods",
+      "subtitle_pt": "Desastres naturais e tempos narrativos",
+      "duration_min": 60,
+      "source_refs": ["Top Notch 3B – Unit 9 (natural disasters)", "Keynote Intermediate – Unit 10 (the environment)"],
+      "objectives": ["Nomear desastres naturais e fenômenos climáticos", "Combinar simple past, past continuous e past perfect numa narrativa", "Usar a passiva em relatos de desastres (were evacuated, was destroyed)", "Falar sobre preparação para emergências"],
+      "warmup": {
+        "text_pt": "O Brasil sofre principalmente com enchentes, deslizamentos e secas. Você já viveu algum evento climático extremo? Como foi?",
+        "questions": ["What natural disasters happen in Brazil?", "Are extreme weather events becoming more common?"]
+      },
+      "vocabulary": [
+        {"en": "flood / to flood", "pt": "enchente / inundar", "say": "flâd / tu flâd"},
+        {"en": "landslide", "pt": "deslizamento de terra", "say": "léndslaid"},
+        {"en": "drought", "pt": "seca", "say": "dráut"},
+        {"en": "wildfire", "pt": "incêndio florestal", "say": "uáildfaier"},
+        {"en": "storm / hurricane", "pt": "tempestade / furacão", "say": "stórm / rârikein"},
+        {"en": "earthquake / tsunami", "pt": "terremoto / tsunami", "say": "ârθkuêik / tsunámi"},
+        {"en": "heatwave", "pt": "onda de calor", "say": "rítuêiv"},
+        {"en": "to be evacuated", "pt": "ser evacuado", "say": "tu bí ivékiueitid"},
+        {"en": "to be destroyed / damaged", "pt": "ser destruído / danificado", "say": "distróid / démidjd"},
+        {"en": "to be left homeless", "pt": "ficar desabrigado", "say": "tu bí léft rôumles"},
+        {"en": "shelter", "pt": "abrigo", "say": "shélter"},
+        {"en": "emergency kit", "pt": "kit de emergência", "say": "imârdjensi kit"}
+      ],
+      "chunks": [
+        {"en": "Thousands of people were evacuated.", "pt": "Milhares de pessoas foram evacuadas."},
+        {"en": "It had been raining for days.", "pt": "Estava chovendo havia dias."},
+        {"en": "We were sleeping when the water came in.", "pt": "Estávamos dormindo quando a água entrou."},
+        {"en": "Many homes were destroyed.", "pt": "Muitas casas foram destruídas."},
+        {"en": "Donations are being collected.", "pt": "Doações estão sendo recolhidas."},
+        {"en": "Stay safe!", "pt": "Fique em segurança!"}
+      ],
+      "grammar": {
+        "title": "Tempos narrativos combinados",
+        "explanation_pt": "Para contar um evento passado de forma completa, combine **quatro** estruturas:\n\n1. **Past continuous** → o **cenário**, o que estava acontecendo:\n\"It **was raining** heavily, and most people **were sleeping**.\"\n\n2. **Past perfect** → o que tinha acontecido **antes** (contexto, causas):\n\"It **had been raining** for three days, and the river **had risen** two meters.\" (had been + -ing = past perfect continuous, para duração antes de um ponto do passado)\n\n3. **Simple past** → os **eventos principais**, em sequência:\n\"At 3 a.m., the water **reached** the houses. Families **climbed** onto their roofs.\"\n\n4. **Past passive** → o que **aconteceu com** pessoas e coisas:\n\"Thousands of people **were evacuated**, and two bridges **were destroyed**.\"\n\n**Ordem típica de uma reportagem:** o que aconteceu (simple past/passive) → contexto e causas (past perfect) → detalhes do momento (past continuous) → consequências (passive) → situação atual (present / present perfect).",
+        "table": {
+          "headers": ["Função", "Tempo", "Exemplo"],
+          "rows": [["Cenário", "past continuous", "People were sleeping when..."], ["Antes do evento", "past perfect (continuous)", "It had been raining for days."], ["Evento principal", "simple past", "The river overflowed at 3 a.m."], ["Consequência", "past passive", "200 homes were damaged."], ["Situação agora", "present perfect / present", "The water has gone down. Families need help."]]
+        },
+        "examples": [
+          {"en": "In May 2024, after it had been raining for weeks, large areas of Rio Grande do Sul were flooded.", "pt": "Em maio de 2024, depois de semanas de chuva, grandes áreas do Rio Grande do Sul foram inundadas."},
+          {"en": "We were having dinner when we heard the alarm.", "pt": "Estávamos jantando quando ouvimos o alarme."},
+          {"en": "Thousands of volunteers came from all over the country, and tons of donations were sent.", "pt": "Milhares de voluntários vieram de todo o país, e toneladas de doações foram enviadas."}
+        ],
+        "tip_pt": "**Past perfect continuous** (had been + -ing) é o \"primo\" do present perfect continuous, só que no passado: \"It **had been raining** for days **when** the dam broke.\" (Estava chovendo havia dias quando a barragem rompeu.)"
+      },
+      "common_mistakes": [
+        {"wrong": "Many houses destroyed by the flood.", "right": "Many houses were destroyed by the flood.", "why_pt": "A passiva precisa do verbo be."},
+        {"wrong": "We slept when the earthquake started.", "right": "We were sleeping when the earthquake started.", "why_pt": "Ação em andamento (cenário) = past continuous."},
+        {"wrong": "It rained for three days when the river overflowed.", "right": "It had been raining for three days when the river overflowed.", "why_pt": "Duração antes de outro ponto do passado = past perfect continuous."}
+      ],
+      "pronunciation": {
+        "focus": "Drought, flood, hurricane",
+        "tip_pt": "Palavras traiçoeiras: **drought** = \"dráut\" (rima com out, o GH é mudo). **Flood** = \"flâd\" (rima com mud, não \"flúd\"!). **Hurricane** = \"RÂ-ri-kein\" (EUA). **Earthquake** = \"ÂRθ-kuêik\".",
+        "practice": ["drought · flood · hurricane", "The flood destroyed the bridge.", "There was a long drought last year."]
+      },
+      "dialogue": {
+        "title": "The night of the flood",
+        "context_pt": "Um morador de Porto Alegre conta para uma jornalista estrangeira o que viveu na enchente.",
+        "lines": [
+          {"speaker": "Journalist", "en": "Can you tell me what happened that night?", "pt": "Você pode me contar o que aconteceu naquela noite?"},
+          {"speaker": "Rafael", "en": "It had been raining for almost a week. We had heard warnings, but nobody expected it to be so bad.", "pt": "Estava chovendo havia quase uma semana. Tínhamos ouvido alertas, mas ninguém esperava que fosse tão grave."},
+          {"speaker": "Journalist", "en": "Where were you when the water came?", "pt": "Onde você estava quando a água veio?"},
+          {"speaker": "Rafael", "en": "We were sleeping. At about 2 a.m., my neighbor knocked on the door and shouted. The street had already turned into a river.", "pt": "Estávamos dormindo. Por volta das 2h, meu vizinho bateu na porta e gritou. A rua já tinha virado um rio."},
+          {"speaker": "Journalist", "en": "What did you do?", "pt": "O que vocês fizeram?"},
+          {"speaker": "Rafael", "en": "We grabbed our documents and the dog and went up to the second floor. In the morning, we were rescued by volunteers in a small boat.", "pt": "Pegamos os documentos e o cachorro e subimos para o segundo andar. De manhã, fomos resgatados por voluntários num barquinho."},
+          {"speaker": "Journalist", "en": "And your house?", "pt": "E sua casa?"},
+          {"speaker": "Rafael", "en": "The first floor was completely destroyed. But we're alive, and the community has been amazing. People have helped us rebuild everything.", "pt": "O térreo foi completamente destruído. Mas estamos vivos, e a comunidade tem sido incrível. As pessoas nos ajudaram a reconstruir tudo."}
+        ]
+      },
+      "listening": {
+        "title": "Emergency alert and advice",
+        "context_pt": "Um alerta de emergência da Defesa Civil seguido de orientações.",
+        "lines": [
+          {"speaker": "Announcer", "en": "This is an emergency alert from the Civil Defense. Heavy rain is expected in the region over the next 48 hours. Residents of areas near rivers and hillsides should leave their homes and go to the nearest shelter. Schools have been closed, and the main highway has been blocked because of a landslide. Prepare an emergency kit with water, food, medicine, a flashlight and your documents in a plastic bag. Do not try to cross flooded streets. For help, call 199. Stay safe."}
+        ],
+        "questions": [
+          {"q": "How long is the heavy rain expected to last?", "answer": "48 hours."},
+          {"q": "Who should leave their homes?", "answer": "Residents of areas near rivers and hillsides."},
+          {"q": "Why has the highway been blocked?", "answer": "Because of a landslide."},
+          {"q": "What should be in the emergency kit?", "answer": "Water, food, medicine, a flashlight and documents in a plastic bag."}
+        ]
+      },
+      "reading": {
+        "title": "Climate change and extreme weather",
+        "text": "Scientists have been warning us for decades: as the planet gets warmer, extreme weather events become more frequent and more intense. In recent years, the world has seen record-breaking heatwaves in Europe, devastating wildfires in Canada and Australia, and severe floods in Pakistan and southern Brazil. Warmer air can hold more water, which means heavier rain when storms happen. At the same time, some regions are suffering from longer droughts. In 2023 and 2024, parts of the Amazon experienced one of the worst droughts on record: rivers dropped to historic lows, and entire communities were left isolated because boats couldn't travel. Experts say that we need two kinds of action: reducing greenhouse gas emissions and adapting our cities — with better drainage, early-warning systems and protected green areas.",
+        "questions": [
+          {"q": "What have scientists been warning us about?", "answer": "Extreme weather events becoming more frequent and intense as the planet warms."},
+          {"q": "Why does warmer air cause heavier rain?", "answer": "Because warmer air can hold more water."},
+          {"q": "What happened in the Amazon in 2023 and 2024?", "answer": "One of the worst droughts on record: rivers dropped and communities were isolated."},
+          {"q": "What two kinds of action do experts recommend?", "answer": "Reducing emissions and adapting cities."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "match", "title": "Natural disasters", "instruction": "Write the English word.", "instruction_pt": "Escreva a palavra em inglês.",
+         "items": [{"prompt": "enchente", "answer": "flood"}, {"prompt": "deslizamento de terra", "answer": "landslide"}, {"prompt": "seca", "answer": "drought"}, {"prompt": "incêndio florestal", "answer": "wildfire"}, {"prompt": "onda de calor", "answer": "heatwave"}, {"prompt": "terremoto", "answer": "earthquake"}]},
+        {"id": "ex2", "type": "multiple_choice", "title": "Narrative tenses", "instruction": "Choose the correct form.", "instruction_pt": "Escolha a forma correta.",
+         "items": [{"prompt": "We ___ dinner when the lights went out.", "options": ["had", "were having", "had had"], "answer": "were having"}, {"prompt": "It ___ for days when the river overflowed.", "options": ["rained", "was raining", "had been raining"], "answer": "had been raining"}, {"prompt": "Hundreds of families ___ to shelters.", "options": ["took", "were taken", "had taken"], "answer": "were taken"}, {"prompt": "By the time help arrived, the water ___ the second floor.", "options": ["reached", "had reached", "was reached"], "answer": "had reached"}]},
+        {"id": "ex3", "type": "fill_blank", "title": "News report", "instruction": "Complete with the correct form of the verb in parentheses.", "instruction_pt": "Complete com a forma correta do verbo.",
+         "items": [{"prompt": "Last night, a strong storm ___ (hit) the coast.", "answer": "hit"}, {"prompt": "Most residents ___ (sleep) when the wind started.", "answer": "were sleeping"}, {"prompt": "Meteorologists ___ (warn) about the storm two days before.", "answer": "had warned"}, {"prompt": "More than 500 trees ___ (knock) down, and 2,000 people ___ (evacuate).", "answer": "were knocked / were evacuated"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "Thousands of people were evacuated."}, {"prompt": "2", "answer": "It had been raining for days."}, {"prompt": "3", "answer": "We were sleeping when the water came in."}, {"prompt": "4", "answer": "Many homes were destroyed."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "The bridge destroyed by the flood.", "answer": "The bridge was destroyed by the flood."}, {"prompt": "We watched TV when the earthquake happened.", "answer": "We were watching TV when the earthquake happened."}, {"prompt": "There was a long drougt last summer.", "answer": "There was a long drought last summer."}, {"prompt": "The people was rescued by boat.", "answer": "The people were rescued by boat."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Emergency kit", "instruction": "Complete with: shelter · flashlight · evacuated · documents · warnings.", "instruction_pt": "Complete o texto.",
+         "items": [{"prompt": "Always pay attention to official ___.", "answer": "warnings"}, {"prompt": "Keep a ___ and batteries in your emergency kit.", "answer": "flashlight"}, {"prompt": "Put your ___ in a plastic bag.", "answer": "documents"}, {"prompt": "If you are ___, go to the nearest ___.", "answer": "evacuated / shelter"}]}
+      ],
+      "speaking": {
+        "instruction": "Tell your partner about an extreme weather event you lived through or heard about. Use the four narrative structures (cenário, antes, evento, consequência).",
+        "instruction_pt": "Conte ao colega sobre um evento climático extremo que você viveu ou de que ouviu falar. Use as quatro estruturas narrativas (cenário, antes, evento, consequência).",
+        "questions": ["What's the worst storm you've ever experienced?", "What natural disasters are common in your region?", "Do you have an emergency kit? What should be in it?", "How can cities prepare for floods?", "Do you think climate change affects your daily life?"]
+      },
+      "writing": {
+        "task": "Write a news report (120–150 words) about a natural disaster (real or invented). Include the setting, causes, main events, consequences and current situation.",
+        "task_pt": "Escreva uma reportagem (120–150 palavras) sobre um desastre natural (real ou inventado). Inclua o cenário, as causas, os eventos principais, as consequências e a situação atual.",
+        "model": "HEAVY RAIN CAUSES LANDSLIDES IN THE MOUNTAINS\n\nOn Tuesday night, a series of landslides hit three towns in the mountain region. It had been raining for five days, and the soil was extremely wet. At around 11 p.m., while most residents were sleeping, part of a hillside collapsed onto a residential street. Fortunately, the Civil Defense had sent warning messages earlier that afternoon, and many families had already left their homes. More than 1,500 people were evacuated, and twenty houses were destroyed. Rescue teams worked through the night. Today, schools and gyms are being used as shelters, and donations of water, food and clothes have been arriving from across the state. Authorities say more rain is expected this weekend."
+      },
+      "culture_note": {
+        "title": "Solidariedade e o \"RS\"",
+        "text_pt": "Em 2024, as enchentes no Rio Grande do Sul foram notícia no mundo todo, e a solidariedade dos brasileiros também. Em inglês, palavras como **volunteers**, **donations**, **relief efforts** (esforços de ajuda) e **fundraiser** (arrecadação) aparecem sempre em notícias de desastres."
+      },
+      "summary_pt": ["Cenário: past continuous · Antes: past perfect (continuous).", "Evento: simple past · Consequências: passive.", "flood, landslide, drought, wildfire, heatwave.", "were evacuated / was destroyed / were left homeless."]
+    },
+    {
+      "id": "B1-M5-L4",
+      "title": "Is it fake news?",
+      "subtitle_pt": "Mídia, opinião e dúvida: linguagem para avaliar informações",
+      "duration_min": 55,
+      "source_refs": ["Top Notch 3B – Unit 10 (media, news)", "Keynote Intermediate – Unit 5 (marketing and media)"],
+      "objectives": ["Expressar certeza e dúvida (I doubt..., It seems that..., I'm not convinced)", "Usar It is said / It is believed that... (passiva de relato)", "Identificar sinais de notícias falsas", "Discutir o papel das redes sociais na informação"],
+      "warmup": {
+        "text_pt": "Você já compartilhou uma notícia que depois descobriu ser falsa? Como você verifica se uma informação é verdadeira?",
+        "questions": ["Where do you get your news?", "Have you ever believed a fake story?"]
+      },
+      "vocabulary": [
+        {"en": "fake news / misinformation", "pt": "notícias falsas / desinformação", "say": "fêik niúz / misinformêishon"},
+        {"en": "source", "pt": "fonte", "say": "sórs"},
+        {"en": "reliable / unreliable", "pt": "confiável / não confiável", "say": "riláiabol / ânriláiabol"},
+        {"en": "to fact-check", "pt": "checar os fatos", "say": "tu fékt tchék"},
+        {"en": "biased", "pt": "tendencioso", "say": "báiast"},
+        {"en": "clickbait", "pt": "caça-cliques", "say": "klíkbeit"},
+        {"en": "to go viral", "pt": "viralizar", "say": "tu gôu váiral"},
+        {"en": "headline", "pt": "manchete", "say": "rédlain"},
+        {"en": "rumor", "pt": "boato", "say": "rúmor"},
+        {"en": "evidence", "pt": "evidência, prova", "say": "évidens"},
+        {"en": "deepfake", "pt": "deepfake (vídeo falso feito com IA)", "say": "dípfêik"},
+        {"en": "to doubt", "pt": "duvidar", "say": "tu dáut"}
+      ],
+      "chunks": [
+        {"en": "I doubt that's true.", "pt": "Duvido que seja verdade."},
+        {"en": "It seems that...", "pt": "Parece que..."},
+        {"en": "According to the BBC...", "pt": "Segundo a BBC..."},
+        {"en": "Where did you read that?", "pt": "Onde você leu isso?"},
+        {"en": "I'm not convinced.", "pt": "Não estou convencido."},
+        {"en": "It's been debunked.", "pt": "Já foi desmentido."}
+      ],
+      "grammar": {
+        "title": "Certeza, dúvida e a passiva de relato",
+        "explanation_pt": "**Expressar graus de certeza:**\n- Certeza alta: \"I'm **sure / certain** that...\" / \"It's **definitely** true.\" / \"There's **no doubt** that...\"\n- Probabilidade: \"It's **likely / probably** true.\" / \"It **seems / appears that**...\"\n- Dúvida: \"I **doubt** (that)...\" / \"I'm **not sure / not convinced** that...\" / \"It's **unlikely** that...\"\n- Ceticismo: \"I find that **hard to believe**.\" / \"That **sounds** too good to be true.\"\n\n**Passiva de relato (reporting passive)** — muito usada em notícias quando a informação **não é confirmada** ou a fonte é geral:\n- **It is said that** + frase → \"It is said that the city was founded by pirates.\"\n- **It is believed that** + frase → \"It is believed that 30% of online reviews are fake.\"\n- **It is reported / thought / estimated that**...\n\nOutra forma: **sujeito + is said / believed + to + verbo** → \"The singer **is said to be** very shy.\" / \"The painting **is believed to be** worth millions.\"\n\n**Atribuir a fonte:** **According to** + fonte (\"According to the WHO...\") / \"**The report says / claims that**...\"\n\n💡 **Claim** = afirmar (sem prova) — sinal de cautela: \"The post **claims** that coffee cures cancer.\"",
+        "table": {
+          "headers": ["Grau", "Expressões"],
+          "rows": [["Certeza", "I'm sure that... / There's no doubt that..."], ["Probabilidade", "It's likely that... / It seems that..."], ["Dúvida", "I doubt that... / I'm not convinced that..."], ["Ceticismo", "I find that hard to believe. / It sounds too good to be true."], ["Relato sem confirmação", "It is said / believed / reported that..."]]
+        },
+        "examples": [
+          {"en": "It is estimated that false news spreads faster than true news on social media.", "pt": "Estima-se que notícias falsas se espalham mais rápido que as verdadeiras nas redes sociais."},
+          {"en": "I doubt that lemon water can cure the flu. Where did you read that?", "pt": "Duvido que água com limão cure gripe. Onde você leu isso?"},
+          {"en": "According to the fact-checkers, the video is a deepfake.", "pt": "Segundo os checadores, o vídeo é um deepfake."}
+        ],
+        "tip_pt": "**I doubt** é seguido diretamente pela frase afirmativa: \"I doubt **it's true**\" = \"duvido que seja verdade\" (❌ \"I doubt it isn't true\")."
+      },
+      "common_mistakes": [
+        {"wrong": "Is said that he is rich.", "right": "It is said that he is rich. / He is said to be rich.", "why_pt": "A passiva de relato precisa do sujeito it."},
+        {"wrong": "According to me, it's false.", "right": "In my opinion, it's false.", "why_pt": "According to é para fontes externas, não para a sua opinião."},
+        {"wrong": "The news are fake.", "right": "The news is fake.", "why_pt": "News é incontável e singular."}
+      ],
+      "pronunciation": {
+        "focus": "Doubt, debunk, evidence",
+        "tip_pt": "**Doubt** = \"dáut\" — o B é mudo (como em debt e subtle)! **Debunk** = \"di-BÂNK\". **Evidence** = \"É-vi-dens\" (força no começo). **Biased** = \"BÁI-ast\".",
+        "practice": ["I doubt it.", "That story has been debunked.", "Is there any evidence?"]
+      },
+      "dialogue": {
+        "title": "Family group chat",
+        "context_pt": "Uma neta tenta convencer o tio de que uma notícia do grupo da família é falsa.",
+        "lines": [
+          {"speaker": "Uncle", "en": "Did you see the video I sent? It says the government is going to cancel all the holidays next year!", "pt": "Você viu o vídeo que eu mandei? Diz que o governo vai cancelar todos os feriados ano que vem!"},
+          {"speaker": "Bia", "en": "Hmm, I doubt that's true, Uncle Zé. Where did it come from?", "pt": "Hmm, duvido que seja verdade, tio Zé. De onde veio?"},
+          {"speaker": "Uncle", "en": "A friend sent it. It already has two million views!", "pt": "Um amigo mandou. Já tem dois milhões de visualizações!"},
+          {"speaker": "Bia", "en": "Going viral doesn't mean it's true. I checked, and none of the major newspapers reported it.", "pt": "Viralizar não quer dizer que é verdade. Eu chequei, e nenhum jornal grande noticiou."},
+          {"speaker": "Uncle", "en": "But the man in the video looks very official...", "pt": "Mas o homem no vídeo parece bem oficial..."},
+          {"speaker": "Bia", "en": "According to a fact-checking site, the video is a deepfake. It was made with AI — look, his mouth doesn't match the words.", "pt": "Segundo um site de checagem, o vídeo é um deepfake. Foi feito com IA — olha, a boca dele não combina com as palavras."},
+          {"speaker": "Uncle", "en": "Wow. I'm not convinced... but I'll delete it before your aunt sees it!", "pt": "Nossa. Não estou convencido... mas vou apagar antes que sua tia veja!"}
+        ]
+      },
+      "listening": {
+        "title": "How to spot fake news",
+        "context_pt": "Uma jornalista dá dicas para identificar notícias falsas em um vídeo educativo.",
+        "lines": [
+          {"speaker": "Journalist", "en": "Here are five quick ways to spot fake news. One: check the source. Is it a website you know? Two: read beyond the headline — clickbait headlines are designed to make you angry or scared. Three: check the date — old stories are often shared as if they were new. Four: look for evidence. Are there names, data, links to studies? Five: if it seems too good, or too terrible, to be true, it probably is. And remember: it's believed that people are more likely to share news that confirms what they already think. So be extra careful with stories you love!"}
+        ],
+        "questions": [
+          {"q": "What's the first tip?", "answer": "Check the source."},
+          {"q": "What are clickbait headlines designed to do?", "answer": "Make you angry or scared."},
+          {"q": "Why should you check the date?", "answer": "Old stories are often shared as if they were new."},
+          {"q": "Why should you be careful with stories you love?", "answer": "People are more likely to share news that confirms what they already think."}
+        ]
+      },
+      "reading": {
+        "title": "Lies travel fast",
+        "text": "\"A lie can travel halfway around the world while the truth is putting on its shoes.\" This famous quote — which, ironically, is often wrongly attributed to Mark Twain — describes a real phenomenon. A well-known study by researchers at MIT analyzed more than 100,000 stories shared on Twitter between 2006 and 2017. It was found that false stories were much more likely to be retweeted than true ones and reached people significantly faster. Why? The researchers believe that fake news is usually more surprising and emotional, and people love sharing things that are new and shocking. Interestingly, the study suggested that humans, not bots, were mainly responsible for the spread. With AI tools now able to create realistic fake images and videos, experts say media literacy — the ability to evaluate information critically — is one of the most important skills of the 21st century.",
+        "questions": [
+          {"q": "What's ironic about the quote?", "answer": "It's often wrongly attributed to Mark Twain."},
+          {"q": "What did the MIT study find?", "answer": "False stories were more likely to be retweeted and spread faster than true ones."},
+          {"q": "Why does fake news spread faster?", "answer": "It's usually more surprising and emotional."},
+          {"q": "What is media literacy?", "answer": "The ability to evaluate information critically."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "match", "title": "Certainty scale", "instruction": "Write C (certain), P (probable) or D (doubtful).", "instruction_pt": "Escreva C (certeza), P (provável) ou D (dúvida).",
+         "items": [{"prompt": "There's no doubt that...", "answer": "C"}, {"prompt": "It seems that...", "answer": "P"}, {"prompt": "I doubt that...", "answer": "D"}, {"prompt": "It's likely that...", "answer": "P"}, {"prompt": "I find that hard to believe.", "answer": "D"}, {"prompt": "I'm certain that...", "answer": "C"}]},
+        {"id": "ex2", "type": "answer", "title": "Reporting passive", "instruction": "Rewrite using It is said / believed / estimated that...", "instruction_pt": "Reescreva usando It is said / believed / estimated that...",
+         "items": [{"prompt": "People say that the house is haunted.", "answer": "It is said that the house is haunted."}, {"prompt": "Experts believe that the painting is 500 years old.", "answer": "It is believed that the painting is 500 years old."}, {"prompt": "They estimate that 2 million people watched the show.", "answer": "It is estimated that 2 million people watched the show."}]},
+        {"id": "ex3", "type": "multiple_choice", "title": "Media vocabulary", "instruction": "Choose the correct word.", "instruction_pt": "Escolha a palavra correta.",
+         "items": [{"prompt": "That story isn't true. It's been ___.", "options": ["debunked", "biased", "viral"], "answer": "debunked"}, {"prompt": "The video ___ — it has 10 million views.", "options": ["went viral", "fact-checked", "doubted"], "answer": "went viral"}, {"prompt": "This website only shows one side. It's very ___.", "options": ["reliable", "biased", "evidence"], "answer": "biased"}, {"prompt": "\"You won't believe what she did!\" is a typical ___ headline.", "options": ["clickbait", "source", "evidence"], "answer": "clickbait"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "I doubt that's true."}, {"prompt": "2", "answer": "Where did you read that?"}, {"prompt": "3", "answer": "It is believed that the video is fake."}, {"prompt": "4", "answer": "According to the fact-checkers, it's been debunked."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "The news are very bad today.", "answer": "The news is very bad today."}, {"prompt": "According to me, it's a lie.", "answer": "In my opinion, it's a lie."}, {"prompt": "Is believed that he escaped.", "answer": "It is believed that he escaped."}, {"prompt": "I doubt that it isn't true. (= acho que é falso)", "answer": "I doubt that it's true."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the discussion", "instruction": "Complete with: source · evidence · seems · According · doubt.", "instruction_pt": "Complete a discussão.",
+         "items": [{"prompt": "A: This article says chocolate makes you smarter! — B: Really? What's the ___?", "answer": "source"}, {"prompt": "A: It ___ that it's a university study.", "answer": "seems"}, {"prompt": "B: I ___ it. Is there any real ___?", "answer": "doubt / evidence"}, {"prompt": "A: ___ to the article, the study was paid for by a chocolate company. — B: There you go!", "answer": "According"}]}
+      ],
+      "speaking": {
+        "instruction": "\"True or fake?\": each person tells 3 surprising \"news stories\" (2 true, 1 fake). The others react with certainty/doubt expressions and ask for evidence.",
+        "instruction_pt": "\"Verdadeiro ou falso?\": cada pessoa conta 3 \"notícias\" surpreendentes (2 verdadeiras, 1 falsa). Os outros reagem com expressões de certeza/dúvida e pedem evidências.",
+        "questions": ["Where do you usually get your news?", "How do you check if something is true?", "Have you ever shared fake news by mistake?", "Should social media companies remove fake news?", "Do you trust AI-generated content?"]
+      },
+      "writing": {
+        "task": "Write a short guide (120–150 words) for older family members: \"How to spot fake news on WhatsApp\". Use certainty/doubt language and at least one reporting passive.",
+        "task_pt": "Escreva um guia curto (120–150 palavras) para familiares mais velhos: \"Como identificar fake news no WhatsApp\". Use linguagem de certeza/dúvida e pelo menos uma passiva de relato.",
+        "model": "How to spot fake news on WhatsApp 📱\n\nIt is estimated that millions of fake messages are shared in Brazil every day, so here are some simple tips. First, check the source: if the message says \"a doctor friend said\" but there's no name, I doubt it's reliable. Second, look at the date — many stories are years old. Third, be careful with messages that make you very angry or scared: they're often designed to go viral. If something seems too good (or too terrible) to be true, it probably is. Before forwarding, search for the story on a fact-checking site like Aos Fatos or Lupa. According to these sites, health and politics are the most common topics of fake news. And remember: if you're not sure, don't share!"
+      },
+      "culture_note": {
+        "title": "Checagem de fatos",
+        "text_pt": "Agências de **fact-checking** como Snopes (EUA), Full Fact (Reino Unido) e, no Brasil, Lupa e Aos Fatos verificam boatos virais. Em inglês, quando algo é desmentido, se diz que foi **debunked**; quando é confirmado, **verified**."
+      },
+      "summary_pt": ["Certeza → dúvida: I'm sure / It seems / I doubt / I'm not convinced.", "It is said / believed / estimated that...", "According to + fonte (não \"according to me\").", "News é singular: The news is..."]
+    }
+  ],
+  "review": {
+    "intro_pt": "Revise voz passiva, past perfect, tempos narrativos e linguagem de mídia.",
+    "exercises": [
+      {"id": "r1", "type": "multiple_choice", "title": "Choose the correct option", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+       "items": [{"prompt": "This bridge ___ in 1974.", "options": ["built", "was built", "had built"], "answer": "was built"}, {"prompt": "When I arrived, the show ___.", "options": ["already started", "had already started", "has already started"], "answer": "had already started"}, {"prompt": "We ___ when the earthquake happened.", "options": ["slept", "were sleeping", "had slept"], "answer": "were sleeping"}, {"prompt": "It is ___ that the castle is haunted.", "options": ["said", "saying", "say"], "answer": "said"}, {"prompt": "The news ___ surprising.", "options": ["are", "is", "were"], "answer": "is"}]},
+      {"id": "r2", "type": "fill_blank", "title": "Mixed tenses", "instruction": "Complete with the correct form of the verb.", "instruction_pt": "Complete com a forma correta do verbo.",
+       "items": [{"prompt": "Portuguese ___ (speak) in nine countries.", "answer": "is spoken"}, {"prompt": "She was nervous because she ___ (never / fly) before.", "answer": "had never flown"}, {"prompt": "Hundreds of people ___ (rescue) after the flood.", "answer": "were rescued"}]},
+      {"id": "r3", "type": "translate", "title": "Translate", "instruction": "Translate into English.", "instruction_pt": "Traduza para o inglês.",
+       "items": [{"prompt": "O livro foi escrito por Clarice Lispector.", "answer": "The book was written by Clarice Lispector."}, {"prompt": "Quando cheguei, eles já tinham saído.", "answer": "When I arrived, they had already left."}, {"prompt": "Duvido que seja verdade.", "answer": "I doubt it's true."}]},
+      {"id": "r4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+       "items": [{"prompt": "1", "answer": "Coffee is grown in Minas Gerais."}, {"prompt": "2", "answer": "By the time the police arrived, the thief had escaped."}, {"prompt": "3", "answer": "Thousands of people were evacuated."}]},
+      {"id": "r5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+       "items": [{"prompt": "The museum built in 1922.", "answer": "The museum was built in 1922."}, {"prompt": "I had saw that film before.", "answer": "I had seen that film before."}, {"prompt": "According to me, the news are fake.", "answer": "In my opinion, the news is fake."}]}
+    ],
+    "speaking_pt": "Apresente um \"telejornal\" de 2 minutos com três notícias (reais ou inventadas): uma sobre uma invenção ou monumento (passiva), uma com uma sequência de eventos (past perfect) e uma sobre clima ou desastre (tempos narrativos). Termine com um alerta sobre fake news.",
+    "speaking_questions": ["What's the most important news story of this year, in your opinion?", "When was your city founded? What is it known for?", "Tell me about a time you arrived too late for something.", "What natural disasters worry you the most?", "How do you decide if a news source is reliable?"],
+    "project_pt": "**Class newspaper:** crie com a turma uma página de jornal digital em inglês com 4 seções: Local News, Science & Inventions, Weather & Environment e Fact-Check (uma notícia falsa desmentida). Cada notícia tem manchete, foto e um parágrafo de 80–100 palavras."
+  }
+}

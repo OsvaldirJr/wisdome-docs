@@ -1,0 +1,530 @@
+{
+  "id": "C2-M6",
+  "level": "C2",
+  "title": "Mastery",
+  "theme_pt": "Mediação, eloquência espontânea, registro nos extremos e preparação final",
+  "can_do": ["Mediar: explicar ideias complexas para públicos diferentes", "Gerenciar a interação com naturalidade (tomar a palavra, reformular, retomar)", "Transitar entre registros extremos (literário, técnico, gíria)", "Fazer uma prova e uma apresentação no padrão C2"],
+  "lessons": [
+    {
+      "id": "C2-M6-L1",
+      "title": "The mediator",
+      "subtitle_pt": "Mediação: simplificar, reformular e adaptar ideias complexas",
+      "duration_min": 85,
+      "source_refs": ["CEFR Companion Volume (2020) – Mediation descriptors (C2)", "Science communication principles"],
+      "objectives": ["Explicar conceitos complexos para públicos leigos (analogias, exemplos, reformulação)", "Usar linguagem de reformulação (In other words, To put it simply, Think of it as...)", "Adaptar o mesmo conteúdo a públicos diferentes (especialista, leigo, criança)", "Mediar entre pessoas com perspectivas ou conhecimentos diferentes"],
+      "warmup": {
+        "text_pt": "O **CEFR Companion Volume** (2020) deu destaque a uma habilidade antes pouco descrita: a **mediação** — tornar significados acessíveis a outras pessoas. Explicar um contrato ao seu pai, um diagnóstico a um paciente, uma ideia técnica a um cliente. No C2, você não só entende tudo: você **faz os outros entenderem**.",
+        "questions": ["Who is the best explainer you know? What do they do?", "Have you ever had to explain something complicated to someone with no background in it?"]
+      },
+      "vocabulary": [
+        {"en": "mediation / to mediate", "pt": "mediação / mediar", "say": "midiêishan / tu mídieit"},
+        {"en": "a layperson / lay terms", "pt": "um leigo / termos leigos", "say": "a lêipârsan / lêi târmz"},
+        {"en": "jargon / technical terms", "pt": "jargão / termos técnicos", "say": "djárgon"},
+        {"en": "an analogy / a metaphor", "pt": "uma analogia / uma metáfora", "say": "an anéladji / a métafor"},
+        {"en": "to break (sth) down", "pt": "decompor, explicar em partes", "say": "tu brêik dáun"},
+        {"en": "to unpack (an idea)", "pt": "destrinchar (uma ideia)", "say": "tu ânpék"},
+        {"en": "to oversimplify / to dumb down", "pt": "simplificar demais / emburrecer", "say": "tu ôuversímplifai / tu dâm dáun"},
+        {"en": "accessible / approachable", "pt": "acessível", "say": "aksésibol / aprôutchabol"},
+        {"en": "to bridge the gap", "pt": "preencher a lacuna, aproximar", "say": "tu brídj dâ guép"},
+        {"en": "the curse of knowledge", "pt": "a maldição do conhecimento", "say": "dâ kârs ov nólidj"},
+        {"en": "to check understanding", "pt": "verificar a compreensão", "say": "tu tchék ânderstendin"},
+        {"en": "to rephrase / to reformulate", "pt": "reformular", "say": "tu rifréiz / tu rifórmiuleit"}
+      ],
+      "chunks": [
+        {"en": "In other words, ...", "pt": "Em outras palavras, ..."},
+        {"en": "To put it simply, ...", "pt": "Simplificando, ..."},
+        {"en": "Think of it as a kind of...", "pt": "Pense nisso como uma espécie de..."},
+        {"en": "Let me break that down.", "pt": "Deixa eu explicar por partes."},
+        {"en": "What that means in practice is...", "pt": "O que isso significa na prática é..."},
+        {"en": "Does that make sense so far?", "pt": "Está fazendo sentido até aqui?"}
+      ],
+      "grammar": {
+        "title": "The language of mediation",
+        "explanation_pt": "**1. Reformular e simplificar:**\n- \"**In other words**, ...\" / \"**To put it simply / To put it another way**, ...\"\n- \"**What this means (in practice) is that**...\" (cleft — útil para destacar a consequência)\n- \"**Basically / Essentially**, ...\" (na fala)\n- \"**The key point / The bottom line is**...\"\n\n**2. Analogias e comparações:**\n- \"**Think of it as / It's a bit like**...\" / \"**Imagine**...\"\n- \"**It works in much the same way as**...\"\n- \"**If X is a..., then Y is a...**\" (analogia estruturada)\n\n**3. Decompor (signposting):**\n- \"**Let me break that down.** **First**, ... **Then**, ... **Finally**, ...\"\n- \"**There are three things you need to know.**\"\n\n**4. Verificar compreensão e convidar perguntas:**\n- \"**Does that make sense (so far)?**\" / \"**Is that clear?**\" / \"**Shall I go over that again?**\"\n- Evite \"Do you understand?\" (pode soar condescendente) — prefira \"**Have I explained that clearly?**\" (assume a responsabilidade)\n\n**5. Mediar entre pessoas (relaying and clarifying):**\n- \"**What I think she's saying is**...\" / \"**If I understand you correctly, you mean**...\"\n- \"**Both of you seem to agree that**...; **the difference is**...\"\n- \"**Could you say a bit more about**...?\"\n\n**6. Princípios:**\n- **Começar pelo que o público já sabe.**\n- **Um conceito de cada vez.**\n- **Exemplos concretos** antes de definições abstratas.\n- Evitar a **\"curse of knowledge\"** (esquecer como é não saber).\n- **Simplificar sem distorcer** (não \"dumb down\").",
+        "table": {
+          "headers": ["Função", "Expressões"],
+          "rows": [["Reformular", "In other words / To put it simply / What this means is..."], ["Analogia", "Think of it as... / It's a bit like... / Imagine..."], ["Decompor", "Let me break that down. First... Then..."], ["Verificar", "Does that make sense? / Have I explained that clearly?"], ["Mediar pessoas", "What I think she means is... / If I understand you correctly..."], ["Resumir", "The bottom line is... / So, in short..."]]
+        },
+        "examples": [
+          {"en": "Think of the immune system as a security team: vaccines are like showing the guards a photograph of the intruder before he arrives.", "pt": "Pense no sistema imunológico como uma equipe de segurança: vacinas são como mostrar aos guardas uma foto do invasor antes de ele chegar."},
+          {"en": "What this clause means in practice is that you can't move out before the end of the year without paying a penalty.", "pt": "O que esta cláusula significa na prática é que você não pode sair antes do fim do ano sem pagar multa."},
+          {"en": "If I understand you correctly, you're not against the project — you're worried about the timing.", "pt": "Se entendi bem, você não é contra o projeto — está preocupado com o cronograma."}
+        ],
+        "tip_pt": "Um bom teste de mediação: **explique a ideia como se fosse para uma criança de 12 anos** — sem jargão, com um exemplo e uma analogia. Se conseguir, você realmente entendeu. (Essa técnica é frequentemente associada ao físico **Richard Feynman**.)"
+      },
+      "common_mistakes": [
+        {"wrong": "Do you understand? Do you understand? (repeatedly)", "right": "Does that make sense so far? / Have I explained that clearly?", "why_pt": "Perguntar repetidamente \"Do you understand?\" pode soar condescendente."},
+        {"wrong": "Explaining with even more jargon: \"It's a stochastic, non-linear process.\"", "right": "Use an analogy and a concrete example.", "why_pt": "A curse of knowledge faz especialistas esquecerem o que o público não sabe."},
+        {"wrong": "Oversimplifying until it's wrong: \"Vaccines make you immune to everything.\"", "right": "Simplify without distorting: \"Vaccines train your body to recognize a specific virus.\"", "why_pt": "Simplificar não pode significar falsear."}
+      ],
+      "pronunciation": {
+        "focus": "Ritmo explicativo",
+        "tip_pt": "Ao explicar algo complexo, fale um pouco **mais devagar**, faça **pausas** depois de cada ideia nova e **acentue** as palavras-chave. Antes de uma analogia, uma pequena pausa ajuda: \"Think of it as... | a security team.\"",
+        "practice": ["Let me BREAK that DOWN.", "Think of it as... | a SEcurity TEAM.", "What this MEANS in PRACtice | is that..."]
+      },
+      "dialogue": {
+        "title": "Explaining the diagnosis",
+        "context_pt": "Uma médica explica um diagnóstico a um paciente e à filha dele, que só fala inglês.",
+        "lines": [
+          {"speaker": "Dr. Silva", "en": "Mr. Costa, the tests show you have atrial fibrillation. Let me break that down, because it sounds more frightening than it is.", "pt": "Sr. Costa, os exames mostram que o senhor tem fibrilação atrial. Deixe-me explicar por partes, porque soa mais assustador do que é."},
+          {"speaker": "Kate", "en": "Sorry — I'm his daughter, and my Portuguese isn't great. Could you explain it in English too?", "pt": "Desculpe — sou filha dele, e meu português não é muito bom. Poderia explicar em inglês também?"},
+          {"speaker": "Dr. Silva", "en": "Of course. Think of the heart as having its own electrical system, a bit like the wiring in a house. Normally, it sends regular signals, so the heart beats in a steady rhythm.", "pt": "Claro. Pense no coração como tendo seu próprio sistema elétrico, parecido com a fiação de uma casa. Normalmente ele envia sinais regulares, então o coração bate num ritmo estável."},
+          {"speaker": "Kate", "en": "And in his case, the wiring is faulty?", "pt": "E no caso dele, a fiação está com defeito?"},
+          {"speaker": "Dr. Silva", "en": "In a sense. The upper chambers are receiving chaotic signals, so the rhythm becomes irregular. What that means in practice is that he may feel tired or short of breath, and there's a higher risk of blood clots.", "pt": "De certa forma. As câmaras superiores estão recebendo sinais caóticos, então o ritmo fica irregular. O que isso significa na prática é que ele pode se sentir cansado ou sem fôlego, e há um risco maior de coágulos."},
+          {"speaker": "Kate", "en": "Is it dangerous?", "pt": "É perigoso?"},
+          {"speaker": "Dr. Silva", "en": "It can be if it's not treated. But it's common and very manageable. To put it simply: medication to control the rhythm, and another to thin the blood. Does that make sense so far?", "pt": "Pode ser, se não for tratado. Mas é comum e muito controlável. Simplificando: um remédio para controlar o ritmo e outro para afinar o sangue. Está fazendo sentido até aqui?"},
+          {"speaker": "Kate", "en": "Yes, completely. Thank you — that's the first time anyone has explained it so clearly.", "pt": "Sim, totalmente. Obrigada — é a primeira vez que alguém explica com tanta clareza."}
+        ]
+      },
+      "listening": {
+        "title": "The curse of knowledge",
+        "context_pt": "Uma psicóloga explica por que especialistas têm dificuldade em explicar o que sabem.",
+        "lines": [
+          {"speaker": "Psychologist", "en": "In 1990, a Stanford graduate student named Elizabeth Newton ran a simple experiment. She divided participants into \"tappers\" and \"listeners\". The tappers were asked to tap out the rhythm of a well-known song, like \"Happy Birthday\", on a table, and the listeners had to guess the song. Before starting, the tappers predicted that listeners would guess correctly about half the time. In reality, listeners identified only around 1 in 40 songs. Why the huge gap? Because when the tappers tapped, they heard the melody in their heads. They simply couldn't imagine what it was like to hear only the knocking. This is what's often called the curse of knowledge: once we know something, it's extremely difficult to remember what it's like not to know it. Experts fall into this trap constantly. They skip steps, use jargon and assume background knowledge that their audience doesn't have. The cure isn't to know less. It's to test your explanations on real people — and to watch their faces, not your slides."}
+        ],
+        "questions": [
+          {"q": "What did the tappers have to do?", "answer": "Tap the rhythm of a well-known song for listeners to guess."},
+          {"q": "How often did tappers predict listeners would guess correctly, and how often did they actually?", "answer": "They predicted about half the time; listeners got about 1 in 40."},
+          {"q": "What is the curse of knowledge?", "answer": "Once we know something, it's hard to imagine not knowing it."},
+          {"q": "What cure does the speaker suggest?", "answer": "Test explanations on real people and watch their reactions."}
+        ]
+      },
+      "video": {
+        "title": "Talk nerdy to me",
+        "speaker": "Melissa Marshall",
+        "url": "https://www.ted.com/search?q=melissa+marshall+talk+nerdy+to+me",
+        "task_pt": "Assista à palestra curta (cerca de 5 minutos) sobre como cientistas podem comunicar melhor. Responda:",
+        "questions": ["What advice does the speaker give scientists about explaining their work?", "Why does she say jargon is a barrier?", "Choose a concept from your profession or studies and explain it in two sentences for a non-specialist.", "Is it the responsibility of experts to make their knowledge accessible?"]
+      },
+      "reading": {
+        "title": "The rise of mediation",
+        "text": "For decades, language teaching tended to focus on four skills: reading, writing, listening and speaking. When the Council of Europe published an expanded version of the Common European Framework of Reference in 2020 — the so-called Companion Volume — it gave unprecedented prominence to a further area: mediation. In the framework's terms, mediation involves acting as an intermediary, making communication possible between people who, for linguistic, cultural or other reasons, would otherwise struggle to understand one another. This might mean relaying information from a text in one language to someone who speaks another, explaining complex data to a non-specialist, or facilitating a discussion between colleagues with conflicting views. The shift reflects a broader recognition of how language is actually used in the modern world. Few professionals simply receive and produce messages; most spend a considerable part of their day processing information from one source and adapting it for another audience. A lawyer explains a contract to a client; a nurse translates medical instructions into everyday language; a project manager summarizes a technical report for the board; a bilingual employee bridges the gap between a foreign head office and a local team. In each case, success depends not on knowing the most sophisticated words but on choosing the right words for the right listener. At the highest levels of proficiency, the CEFR descriptors for mediation are notably demanding. A C2 user is expected to be able to explain, in clear and fluent language, the way facts and arguments are presented in a text, to convey subtle nuances of attitude and opinion, and to adapt their language flexibly to different audiences. In other words, mastery of a language is no longer defined only by what one can understand and say, but by what one can help others to understand. It is, perhaps, the most generous definition of fluency yet devised.",
+        "questions": [
+          {"q": "What did the 2020 CEFR Companion Volume emphasize?", "answer": "Mediation."},
+          {"q": "What does mediation involve, according to the framework?", "answer": "Acting as an intermediary to make communication possible between people who would otherwise struggle to understand one another."},
+          {"q": "Give two professional examples of mediation from the text.", "answer": "A lawyer explaining a contract; a nurse translating instructions; a project manager summarizing for the board; a bilingual employee bridging teams."},
+          {"q": "How does the text redefine mastery of a language?", "answer": "Not only what one understands and says, but what one can help others to understand."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "answer", "title": "Explain it simply", "instruction": "Explain each concept in plain English for a non-specialist, using an analogy.", "instruction_pt": "Explique cada conceito em inglês simples para um leigo, usando uma analogia.",
+         "items": [{"prompt": "Inflation", "answer": "Model: Inflation is when prices in general go up over time, so the same money buys less. Think of it as your money slowly shrinking: the 10 reais that bought five breads last year might only buy four today."}, {"prompt": "A computer virus", "answer": "Model: A computer virus is a harmful program that copies itself and spreads from one computer to another — a bit like a cold spreading through an office."}, {"prompt": "Compound interest", "answer": "Model: Compound interest means you earn interest on your interest. It's like a snowball rolling down a hill: the bigger it gets, the faster it grows."}]},
+        {"id": "ex2", "type": "answer", "title": "Three audiences", "instruction": "Explain the same fact for three different audiences.", "instruction_pt": "Explique o mesmo fato para três públicos diferentes.",
+         "items": [{"prompt": "Fact: The Amazon rainforest produces much of its own rainfall through evapotranspiration. Audiences: (a) a scientist, (b) an adult non-specialist, (c) a ten-year-old.", "answer": "Model: (a) A significant proportion of precipitation in the Amazon basin is recycled through evapotranspiration. (b) The trees release water into the air, which forms clouds and falls again as rain — so the forest partly makes its own rain. (c) The trees in the Amazon 'breathe out' water, and that water makes clouds that rain back on the forest. It's like the forest waters itself!"}]},
+        {"id": "ex3", "type": "multiple_choice", "title": "Mediation language", "instruction": "Choose the most appropriate expression.", "instruction_pt": "Escolha a expressão mais adequada.",
+         "items": [{"prompt": "To check understanding politely:", "options": ["Does that make sense so far?", "Do you understand or not?", "Is that too difficult for you?"], "answer": "Does that make sense so far?"}, {"prompt": "To introduce an analogy:", "options": ["Think of it as...", "In conclusion...", "Notwithstanding..."], "answer": "Think of it as..."}, {"prompt": "To relay someone's point in a meeting:", "options": ["What I think she's saying is...", "She's wrong because...", "Whatever she says..."], "answer": "What I think she's saying is..."}, {"prompt": "To highlight the practical consequence:", "options": ["What this means in practice is...", "Hereinafter...", "By and large..."], "answer": "What this means in practice is..."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "Let me break that down."}, {"prompt": "2", "answer": "Think of it as a kind of security team."}, {"prompt": "3", "answer": "What that means in practice is that you need more rest."}, {"prompt": "4", "answer": "If I understand you correctly, you're worried about the timing."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the explanation", "instruction": "Each explanation is unclear, condescending or inaccurate. Rewrite it.", "instruction_pt": "Cada explicação é confusa, condescendente ou imprecisa. Reescreva-a.",
+         "items": [{"prompt": "It's very simple, even a child would understand: the algorithm optimizes a loss function via gradient descent.", "answer": "Model: The program learns by making a guess, checking how wrong it is, and adjusting itself a little each time — like adjusting the aim after each throw in a game of darts."}, {"prompt": "Antibiotics kill all germs, including viruses.", "answer": "Model: Antibiotics kill bacteria, but they don't work against viruses such as the flu."}, {"prompt": "Do you understand? Do you really understand?", "answer": "Model: Have I explained that clearly? Would you like me to go over any part again?"}]},
+        {"id": "ex6", "type": "match", "title": "Mediation vocabulary", "instruction": "Write the English expression.", "instruction_pt": "Escreva a expressão em inglês.",
+         "items": [{"prompt": "termos leigos", "answer": "lay terms"}, {"prompt": "destrinchar uma ideia", "answer": "unpack an idea"}, {"prompt": "simplificar demais, emburrecer", "answer": "dumb down / oversimplify"}, {"prompt": "maldição do conhecimento", "answer": "the curse of knowledge"}, {"prompt": "preencher a lacuna", "answer": "bridge the gap"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Explain it like I'm 12\": each student chooses a complex concept from their job or studies. Explain it in 90 seconds to a partner who plays a twelve-year-old (and asks naive questions). Then explain it again to a partner who plays an expert. Discuss what changed.",
+        "instruction_pt": "\"Explique como se eu tivesse 12 anos\": cada aluno escolhe um conceito complexo do trabalho ou dos estudos. Explique em 90 segundos a um colega que faz papel de criança de 12 anos (e faz perguntas ingênuas). Depois explique a um colega que faz papel de especialista. Discutam o que mudou.",
+        "questions": ["Who is the best teacher or explainer you've ever had?", "Why do experts often explain things badly?", "Is it possible to simplify without distorting?", "When have you acted as a mediator between two people or languages?", "Should all professionals be trained in communication?"]
+      },
+      "writing": {
+        "task": "Mediation task (280–320 words): Choose a complex document from your field (a policy, a scientific finding, a contract, a technical process) and write an explanatory article for a general audience, using analogies, examples and reformulation. Assume readers have no background in the subject.",
+        "task_pt": "Tarefa de mediação (280–320 palavras): escolha um documento complexo da sua área (uma política, uma descoberta científica, um contrato, um processo técnico) e escreva um artigo explicativo para o público geral, usando analogias, exemplos e reformulação. Suponha que os leitores não têm conhecimento prévio.",
+        "model": "What is a credit score — and why should you care?\n\nIf you've ever applied for a loan, a credit card or even a mobile phone contract, a number you've probably never seen may have decided the outcome: your credit score.\n\nTo put it simply, a credit score is a rating that estimates how likely you are to repay money you borrow. Think of it as a kind of reputation, expressed as a number. Just as a restaurant with many good reviews attracts more customers, a person with a high score is seen by banks as a safer bet.\n\nHow is it calculated? Let me break that down. Credit bureaus — companies that collect financial information — look at several factors. The most important is your payment history: do you pay your bills on time? Next comes how much you owe compared to your available credit. If you regularly use your entire credit card limit, that may suggest you're under financial pressure. Other factors include how long you've had credit and how often you apply for new loans.\n\nWhat this means in practice is that your everyday habits matter. Paying an electricity bill late may seem trivial, but it can lower your score — and that, in turn, may mean higher interest rates when you need a loan for a car or a house.\n\nThe good news is that a score is not fixed. Like physical fitness, it improves with consistent, sensible habits: paying on time, avoiding using all your credit, and not applying for many loans at once. In Brazil, consumers are entitled to check their score and the information used to calculate it, usually free of charge.\n\nIn short, your credit score is a quiet but powerful number. Understanding it won't make you rich — but it may save you a great deal of money, and a few unpleasant surprises."
+      },
+      "culture_note": {
+        "title": "Intérpretes e mediadores culturais",
+        "text_pt": "Em hospitais, tribunais e serviços públicos de países anglófonos, **community interpreters** ajudam imigrantes a se comunicar — e muitos trabalham também como **mediadores culturais**, explicando diferenças de costumes. No Brasil, com a chegada de migrantes e refugiados, cresce a demanda por mediadores em português, espanhol, crioulo haitiano e árabe. A mediação, como mostra o CEFR, é uma habilidade de **cidadania**."
+      },
+      "summary_pt": ["Reformular: In other words / To put it simply / What this means in practice is...", "Analogia: Think of it as... / It's a bit like... / Imagine...", "Decompor e verificar: Let me break that down... Does that make sense so far?", "Mediar pessoas: What I think she's saying is... / If I understand you correctly..."]
+    },
+    {
+      "id": "C2-M6-L2",
+      "title": "Thinking on your feet",
+      "subtitle_pt": "Gerenciamento da interação: tomar e manter a palavra, autocorreção, ganhar tempo",
+      "duration_min": 80,
+      "source_refs": ["CEFR – C2 descriptors (spoken interaction, turn-taking, fluency)", "Cambridge C2 Proficiency – Speaking Parts 2 and 3"],
+      "objectives": ["Interromper, tomar e manter a palavra com elegância", "Ganhar tempo e reformular sem perder fluência", "Corrigir-se e recuperar-se de erros naturalmente", "Responder a perguntas difíceis e improvisar com confiança"],
+      "warmup": {
+        "text_pt": "Falantes nativos também travam, esquecem palavras e erram — a diferença é que **se recuperam sem que ninguém perceba**. No C2, fluência não é ausência de hesitação: é **gerenciar** a conversa — entrar, manter a palavra, reformular, desviar de uma pergunta difícil, corrigir-se com elegância. Tema: **debate e improviso**.",
+        "questions": ["What do you do when you forget a word in English?", "How do you feel when someone asks you a difficult question in public?"]
+      },
+      "vocabulary": [
+        {"en": "to take the floor / to hold the floor", "pt": "tomar a palavra / manter a palavra", "say": "tu têik dâ flór / tu hôuld dâ flór"},
+        {"en": "to chip in / to butt in", "pt": "contribuir na conversa / interromper (rude)", "say": "tu tchip in / tu bât in"},
+        {"en": "to get a word in edgeways", "pt": "conseguir falar (sem espaço)", "say": "tu guét a uârd in édjuêiz"},
+        {"en": "to stall / to buy time", "pt": "enrolar / ganhar tempo", "say": "tu stól / tu bái táim"},
+        {"en": "to sidestep / to dodge (a question)", "pt": "desviar / esquivar-se (de uma pergunta)", "say": "tu sáidstep / tu dódj"},
+        {"en": "to backtrack", "pt": "voltar atrás", "say": "tu békték"},
+        {"en": "to lose your train of thought", "pt": "perder o fio da meada", "say": "tu lúz iór trêin ov θót"},
+        {"en": "off the cuff / impromptu", "pt": "de improviso", "say": "óf dâ kâf / imprómptiu"},
+        {"en": "to think on your feet", "pt": "pensar rápido, improvisar", "say": "tu θink on iór fít"},
+        {"en": "a curveball (question)", "pt": "uma pergunta inesperada", "say": "a kârvból"},
+        {"en": "to rise to the occasion", "pt": "estar à altura da situação", "say": "tu ráiz tu dí okêizhan"},
+        {"en": "composure", "pt": "compostura, calma", "say": "kompôuzher"}
+      ],
+      "chunks": [
+        {"en": "Sorry to cut in, but...", "pt": "Desculpe interromper, mas..."},
+        {"en": "If I could just finish my point...", "pt": "Se eu puder só terminar meu raciocínio..."},
+        {"en": "Where was I? Oh yes...", "pt": "Onde eu estava? Ah, sim..."},
+        {"en": "What I meant to say was...", "pt": "O que eu quis dizer foi..."},
+        {"en": "That's a great question — and a difficult one.", "pt": "Ótima pergunta — e difícil."},
+        {"en": "I'm not sure I'd put it quite like that.", "pt": "Não sei se eu colocaria exatamente assim."}
+      ],
+      "grammar": {
+        "title": "Managing spoken interaction",
+        "explanation_pt": "**1. Interromper com elegância:**\n- \"**Sorry to cut in, but**...\" / \"**Can I just come in here?**\" / \"**If I could just add something**...\"\n- \"**Just to pick up on what you said about**...\"\n\n**2. Manter a palavra (holding the floor):**\n- \"**If I could just finish (my point)**...\" / \"**Let me just finish this thought**...\" / \"**Bear with me** a second...\"\n- \"**I'll come to that in a moment.**\"\n\n**3. Ganhar tempo naturalmente:**\n- \"**That's a really interesting question.**\" / \"**Let me think about that for a second.**\" / \"**How can I put this?**\" / \"**Well, it depends what you mean by**...\"\n- Fillers naturais (com moderação): well, I mean, you know, sort of, the thing is\n\n**4. Reformular e corrigir-se:**\n- \"**What I meant to say was**...\" / \"**Or rather**...\" / \"**Let me rephrase that.**\" / \"**Sorry, I mean**...\"\n- \"He was born in 1985 — **sorry, 1958**.\"\n- Autocorreção rápida mostra **controle**, não fraqueza.\n\n**5. Recuperar o fio:**\n- \"**Where was I?**\" / \"**I've lost my train of thought.**\" / \"**Anyway, to get back to the main point**...\" / \"**As I was saying**...\"\n\n**6. Lidar com perguntas difíceis:**\n- **Reconhecer:** \"**That's a fair question.**\"\n- **Reformular a pergunta:** \"**If I understand the question correctly, you're asking whether**...\"\n- **Admitir limites:** \"**I don't know the exact figure, but**...\" / \"**I'd need to check that.**\"\n- **Redirecionar (com honestidade):** \"**I think the more important question is**...\"\n- **Discordar da premissa:** \"**I'm not sure I'd accept the premise of that question.**\"\n\n**7. Passar a palavra:**\n- \"**What's your take on this?**\" / \"**I'd be interested to hear what you think.**\" / \"**Over to you.**\"",
+        "table": {
+          "headers": ["Função", "Expressões"],
+          "rows": [["Interromper", "Sorry to cut in, but... / Can I just come in here?"], ["Manter a palavra", "If I could just finish... / Bear with me."], ["Ganhar tempo", "How can I put this? / Let me think about that."], ["Corrigir-se", "What I meant was... / Or rather... / Let me rephrase that."], ["Recuperar o fio", "Where was I? / To get back to the main point..."], ["Pergunta difícil", "That's a fair question. / I'm not sure I'd accept the premise."], ["Passar a palavra", "What's your take on this?"]]
+        },
+        "examples": [
+          {"en": "Sorry to cut in, but I think we're confusing two different issues here.", "pt": "Desculpe interromper, mas acho que estamos confundindo duas questões diferentes aqui."},
+          {"en": "The project will cost around two million — or rather, two million for the first phase alone.", "pt": "O projeto vai custar cerca de dois milhões — ou melhor, dois milhões só na primeira fase."},
+          {"en": "That's a fair question, and I don't have the exact figure, but I'll find out and get back to you.", "pt": "É uma pergunta justa, e não tenho o número exato, mas vou verificar e te dou um retorno."}
+        ],
+        "tip_pt": "Brasileiros tendem a interromper mais (sobreposição de falas é comum e até sinal de engajamento). Em reuniões em inglês, especialmente com britânicos e nórdicos, use **frases de transição** antes de interromper — e espere uma **micropausa**. E nunca tenha medo de dizer \"**I don't know**\": no C2, isso soa confiante."
+      },
+      "common_mistakes": [
+        {"wrong": "Silence when you forget a word.", "right": "\"How can I put this... it's the thing you use to...\"", "why_pt": "Parafrasear mantém a fluência."},
+        {"wrong": "Pretending to know an answer you don't know.", "right": "\"That's a good question. I don't know offhand, but I'll check.\"", "why_pt": "Admitir limites com segurança gera mais credibilidade."},
+        {"wrong": "Interrupting directly: \"No, no, no, you're wrong.\"", "right": "\"Sorry to cut in, but I see it a bit differently.\"", "why_pt": "Interrupções diretas soam agressivas em inglês."}
+      ],
+      "pronunciation": {
+        "focus": "Fillers e autocorreção",
+        "tip_pt": "Fillers em inglês (\"well\", \"I mean\", \"um\") são diferentes dos brasileiros (\"é...\", \"tipo...\", \"né\"). Substitua o \"éééé\" por **\"um...\" / \"er...\"** e o \"né?\" por **\"right?\" / \"you know?\"**. Na autocorreção, use um tom rápido e leve: \"1985 — sorry, 1958\".",
+        "practice": ["Well, um... how can I put this?", "It was in 1985 — sorry, 1958.", "Where was I? Oh yes..."]
+      },
+      "dialogue": {
+        "title": "The panel discussion",
+        "context_pt": "Uma mediadora conduz um debate entre dois especialistas sobre inteligência artificial na educação.",
+        "lines": [
+          {"speaker": "Moderator", "en": "Dr. Lima, should schools allow students to use AI tools for homework?", "pt": "Dr. Lima, as escolas deveriam permitir que os alunos usem ferramentas de IA nas tarefas de casa?"},
+          {"speaker": "Dr. Lima", "en": "Well, it depends what we mean by \"use\". If a student uses AI to understand a difficult concept, that's one thing. If they use it to write the whole essay —", "pt": "Bem, depende do que queremos dizer com \"usar\". Se um aluno usa IA para entender um conceito difícil, é uma coisa. Se usa para escrever a redação inteira —"},
+          {"speaker": "Carolina", "en": "Sorry to cut in, but I think that distinction is harder to make than it sounds.", "pt": "Desculpe interromper, mas acho que essa distinção é mais difícil de fazer do que parece."},
+          {"speaker": "Dr. Lima", "en": "If I could just finish my point — I agree it's difficult, but that's exactly why teachers need clear guidelines.", "pt": "Se eu puder só terminar meu raciocínio — concordo que é difícil, mas é exatamente por isso que os professores precisam de diretrizes claras."},
+          {"speaker": "Moderator", "en": "Carolina, you were saying?", "pt": "Carolina, você estava dizendo?"},
+          {"speaker": "Carolina", "en": "Yes. My research suggests that around 70% of — sorry, I mean around 70% of the teachers we surveyed — say they can't reliably detect AI-written work. So guidelines alone won't solve it.", "pt": "Sim. Minha pesquisa sugere que cerca de 70% dos — desculpe, quero dizer cerca de 70% dos professores que entrevistamos — dizem que não conseguem detectar com segurança trabalhos escritos por IA. Então só diretrizes não vão resolver."},
+          {"speaker": "Moderator", "en": "Here's a curveball: will homework even exist in ten years?", "pt": "Aqui vai uma pergunta inesperada: a lição de casa vai sequer existir daqui a dez anos?"},
+          {"speaker": "Dr. Lima", "en": "That's a great question — and a difficult one. How can I put this? I suspect homework won't disappear, but it will look very different. More discussion, more creation, less repetition.", "pt": "Ótima pergunta — e difícil. Como posso colocar isso? Suspeito que a lição de casa não vai desaparecer, mas vai ser muito diferente. Mais discussão, mais criação, menos repetição."},
+          {"speaker": "Carolina", "en": "I'm not sure I'd put it quite like that, but I agree with the direction. What's your take, though, on assessment?", "pt": "Não sei se eu colocaria exatamente assim, mas concordo com a direção. Mas qual é sua opinião sobre avaliação?"}
+        ]
+      },
+      "listening": {
+        "title": "The art of the impromptu answer",
+        "context_pt": "Um treinador de oratória dá dicas para responder perguntas de improviso.",
+        "lines": [
+          {"speaker": "Coach", "en": "Most people fear impromptu questions more than prepared speeches. The good news is that answering well off the cuff is a skill you can practise. Here's a simple structure I teach. First, pause. A two-second silence feels like an eternity to you, but to the audience it signals that you're taking the question seriously. Second, acknowledge the question: \"That's an important point.\" Third, give your answer in one clear sentence — the headline. Fourth, support it with a reason or an example. And fifth, stop. The biggest mistake people make isn't saying too little; it's saying too much, circling around until they've lost their train of thought. If you genuinely don't know, say so: \"I don't know, but here's how I'd find out.\" Paradoxically, admitting uncertainty with composure often makes you seem more confident, not less. Remember, the audience isn't hoping you'll fail. They want you to rise to the occasion."}
+        ],
+        "questions": [
+          {"q": "Why should you pause before answering?", "answer": "It signals that you're taking the question seriously."},
+          {"q": "What are the five steps of the structure?", "answer": "Pause, acknowledge, headline answer, reason/example, stop."},
+          {"q": "What is the biggest mistake people make?", "answer": "Saying too much and losing their train of thought."},
+          {"q": "What should you say if you don't know?", "answer": "\"I don't know, but here's how I'd find out.\""}
+        ]
+      },
+      "reading": {
+        "title": "Fluency is not perfection",
+        "text": "Ask a group of advanced learners what fluency means and many will describe something close to perfection: speaking without hesitation, without errors, without ever searching for a word. By that standard, very few native speakers would qualify. Recordings of spontaneous conversation reveal that native speakers hesitate constantly. They start sentences and abandon them, repeat words, correct themselves mid-phrase and fill pauses with \"um\", \"you know\" and \"I mean\". Research on spoken grammar, drawing on large collections of real conversation, has shown that much of everyday speech consists of fragments and false starts that would be marked as errors in a written exam. Why, then, do native speakers sound fluent? Part of the answer is that they manage these disruptions smoothly. Their hesitations fall in natural places — before an important word, rather than in the middle of a fixed phrase. Their self-corrections are quick and unselfconscious. They have a large repertoire of chunks and strategies that keep the conversation moving while they think: \"the thing is\", \"how can I put it\", \"what I'm trying to say is\". In other words, fluency is not the absence of difficulty but the ability to handle it. This has important implications for learners. Many advanced students, anxious to avoid mistakes, adopt strategies that actually make them sound less fluent: they speak slowly and carefully, avoid complex structures and fall silent when they cannot find the perfect word. Paradoxically, they would sound more natural if they allowed themselves to hesitate, rephrase and correct themselves as native speakers do. The goal at the highest level, then, is not to eliminate imperfection but to make it invisible — or, better still, irrelevant. A speaker who loses a word and says, without embarrassment, \"What's the word I'm looking for... the thing you use to open a bottle?\" has not failed. She has demonstrated exactly the kind of flexibility that defines mastery.",
+        "questions": [
+          {"q": "What do many advanced learners think fluency means?", "answer": "Speaking without hesitation, errors or searching for words."},
+          {"q": "What do recordings of native speakers reveal?", "answer": "They hesitate, abandon sentences, repeat and correct themselves constantly."},
+          {"q": "Why do native speakers still sound fluent?", "answer": "They manage disruptions smoothly, with natural hesitations and strategies."},
+          {"q": "What paradox does the text describe about anxious learners?", "answer": "Trying to avoid mistakes makes them sound less fluent."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Choose the right move", "instruction": "Choose the most natural expression for each situation.", "instruction_pt": "Escolha a expressão mais natural para cada situação.",
+         "items": [{"prompt": "You want to interrupt politely in a meeting.", "options": ["Sorry to cut in, but...", "Stop talking, please.", "You're wrong."], "answer": "Sorry to cut in, but..."}, {"prompt": "Someone interrupts you before you finish.", "options": ["If I could just finish my point...", "Be quiet!", "Whatever."], "answer": "If I could just finish my point..."}, {"prompt": "You've forgotten what you were saying.", "options": ["Where was I?", "I don't speak English.", "That's all."], "answer": "Where was I?"}, {"prompt": "You've said the wrong number.", "options": ["...sorry, I mean 1958.", "...or something.", "...whatever."], "answer": "...sorry, I mean 1958."}, {"prompt": "You don't know the answer to a question.", "options": ["I don't know offhand, but I'll check.", "Next question.", "That's a stupid question."], "answer": "I don't know offhand, but I'll check."}]},
+        {"id": "ex2", "type": "answer", "title": "Respond to a curveball", "instruction": "Answer each difficult question using the five-step structure (pause, acknowledge, headline, support, stop).", "instruction_pt": "Responda a cada pergunta difícil usando a estrutura de cinco passos.",
+         "items": [{"prompt": "\"What's your biggest weakness?\" (job interview)", "answer": "Model: That's a fair question. I'd say my biggest weakness has been delegating — I used to try to do everything myself. Last year, leading a team of five, I learned to trust others with key tasks, and the project finished ahead of schedule."}, {"prompt": "\"Isn't learning English a waste of time now that we have AI translation?\"", "answer": "Model: That's an interesting question, but I'm not sure I'd accept the premise. Translation tools are useful for information, but relationships and trust are built in a shared language. I'd never have made my closest international friends through an app."}]},
+        {"id": "ex3", "type": "answer", "title": "Paraphrase the missing word", "instruction": "You've forgotten the word. Describe it so that the listener can guess it.", "instruction_pt": "Você esqueceu a palavra. Descreva-a para que o ouvinte adivinhe.",
+         "items": [{"prompt": "corkscrew (saca-rolhas)", "answer": "Model: It's the thing you use to open a bottle of wine — a kind of metal spiral with a handle."}, {"prompt": "receipt (recibo/nota)", "answer": "Model: It's the piece of paper the shop gives you after you pay, which shows what you bought."}, {"prompt": "landlord (locador)", "answer": "Model: It's the person who owns the flat you rent and to whom you pay rent every month."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "Sorry to cut in, but I see it differently."}, {"prompt": "2", "answer": "If I could just finish my point..."}, {"prompt": "3", "answer": "What I meant to say was that we need more time."}, {"prompt": "4", "answer": "That's a great question — and a difficult one."}]},
+        {"id": "ex5", "type": "match", "title": "Interaction vocabulary", "instruction": "Write the English expression.", "instruction_pt": "Escreva a expressão em inglês.",
+         "items": [{"prompt": "perder o fio da meada", "answer": "lose your train of thought"}, {"prompt": "de improviso", "answer": "off the cuff"}, {"prompt": "pergunta inesperada", "answer": "curveball"}, {"prompt": "conseguir falar (sem espaço na conversa)", "answer": "get a word in edgeways"}, {"prompt": "estar à altura da situação", "answer": "rise to the occasion"}]},
+        {"id": "ex6", "type": "correct_error", "title": "Make it more natural", "instruction": "Rewrite each response to manage the interaction more smoothly.", "instruction_pt": "Reescreva cada resposta para gerenciar a interação com mais naturalidade.",
+         "items": [{"prompt": "(interrupting) No, no, no. That's wrong.", "answer": "Sorry to cut in, but I'm not sure that's quite right."}, {"prompt": "(forgetting a word) ... ... ... I don't know the word.", "answer": "How can I put this? It's the thing you use to..."}, {"prompt": "(difficult question) I don't know. Next question.", "answer": "That's a good question. I don't know offhand, but I'll find out and get back to you."}]}
+      ],
+      "speaking": {
+        "instruction": "\"Hot seat\": one student sits in the \"hot seat\" and answers rapid, unexpected questions from the class for three minutes (on any topic: personal, abstract, provocative). Use pausing, acknowledging, paraphrasing, self-correction and redirection. The class gives feedback on fluency and composure.",
+        "instruction_pt": "\"Cadeira quente\": um aluno senta na \"cadeira quente\" e responde perguntas rápidas e inesperadas da turma por três minutos (sobre qualquer tema: pessoal, abstrato, provocativo). Use pausas, reconhecimento, paráfrase, autocorreção e redirecionamento. A turma dá feedback sobre fluência e compostura.",
+        "questions": ["What's the hardest question you've ever been asked in public?", "Is it acceptable to say \"I don't know\" in a job interview?", "Are Brazilians more comfortable with interruptions than English speakers?", "What makes someone good at thinking on their feet?", "Does fluency mean never making mistakes?"]
+      },
+      "writing": {
+        "task": "Write a blog post (280–320 words) titled \"What I've learned about fluency\". Reflect on your own experience speaking English spontaneously: your fears, your strategies, your mistakes and how you have learned to manage them.",
+        "task_pt": "Escreva um post de blog (280–320 palavras) intitulado \"O que aprendi sobre fluência\". Reflita sobre sua experiência falando inglês espontaneamente: seus medos, estratégias, erros e como aprendeu a lidar com eles.",
+        "model": "What I've learned about fluency\n\nFor years, I believed fluency meant perfection. I imagined that one day I would open my mouth and English would flow out of it like water from a tap: no pauses, no mistakes, no frantic searches for the right word. Until that day arrived, I thought, I wasn't really fluent.\n\nThe day never arrived. Something better did.\n\nI remember the moment things began to change. I was in a meeting with colleagues from London, and halfway through an important point, my mind went completely blank. I couldn't remember the word for \"prazo\". In the past, I would have fallen silent and let someone else take the floor. This time, almost without thinking, I said, \"Sorry — what's the word? The date when something has to be finished?\" Someone said \"deadline\", I nodded, and carried on. Nobody cared. Nobody even noticed. The meeting went on.\n\nThat was when I realized that native speakers do this all the time. They lose words, change their minds mid-sentence, say \"what I mean is...\" and start again. The difference was not that they never had problems; it was that they weren't afraid of them.\n\nSince then, I've collected strategies the way other people collect stamps. \"How can I put this?\" buys me a few seconds. \"Or rather...\" lets me correct myself without embarrassment. \"That's a great question — let me think\" has rescued me from more difficult moments than I can count. And I've learned that saying \"I don't know\" can sound far more confident than pretending.\n\nI still make mistakes, of course. Yesterday I said \"actually\" when I meant \"currently\", a classic Brazilian error. But I've stopped seeing mistakes as failures. They are simply part of speaking a living language.\n\nFluency, I've come to believe, isn't the absence of difficulty. It's the ability to keep going."
+      },
+      "culture_note": {
+        "title": "Debate e improviso",
+        "text_pt": "No mundo anglófono, **debate clubs** e **improv** (teatro de improviso) são populares em escolas e universidades como forma de desenvolver a capacidade de **pensar rápido**. Competições como o **World Universities Debating Championship** reúnem estudantes do mundo todo — inclusive brasileiros. Fazer aulas de improv em inglês é uma ótima (e divertida) forma de ganhar fluência C2."
+      },
+      "summary_pt": ["Interromper: Sorry to cut in... / Can I just come in here?", "Manter a palavra: If I could just finish... / Bear with me.", "Ganhar tempo e corrigir-se: How can I put this? / Or rather... / What I meant was...", "Pergunta difícil: pause, reconheça, responda em uma frase, apoie, pare. \"I don't know, but...\" é aceitável."]
+    },
+    {
+      "id": "C2-M6-L3",
+      "title": "Register at the edges",
+      "subtitle_pt": "Do arcaico à gíria: registros extremos e quando usá-los",
+      "duration_min": 80,
+      "source_refs": ["CEFR – C2 descriptors (sociolinguistic appropriateness, wide range of registers)", "Cambridge C2 Proficiency – Reading (range of text types)"],
+      "objectives": ["Reconhecer registros extremos: arcaico/literário, técnico/jurídico, gíria e linguagem da internet", "Entender gírias atuais e regionais (UK, US, internet) e seu risco de envelhecer", "Usar humor e ironia com mudanças de registro", "Escolher o registro adequado com total consciência"],
+      "warmup": {
+        "text_pt": "\"**Thou art** a villain!\" (Shakespeare) — \"**The party of the first part shall**...\" (contrato) — \"**No cap, that fit is fire.**\" (gíria jovem). Tudo isso é inglês. No C2, você precisa reconhecer os **extremos** do registro: o arcaico que aparece em literatura e rituais, o técnico que domina contratos e ciência, e a gíria que muda a cada ano. E — o mais difícil — saber **quando não usar** cada um.",
+        "questions": ["Do you use slang when speaking English? Which words?", "Have you ever heard an English expression that sounded \"old-fashioned\"?"]
+      },
+      "vocabulary": [
+        {"en": "archaic / obsolete", "pt": "arcaico / obsoleto", "say": "arkêiik / obsolít"},
+        {"en": "thee / thou / thy", "pt": "te / tu / teu (formas arcaicas)", "say": "dí / dáu / dái"},
+        {"en": "slang / colloquialism", "pt": "gíria / coloquialismo", "say": "sléng / kolôukuializm"},
+        {"en": "Cockney rhyming slang", "pt": "gíria rimada de Londres", "say": "kókni ráimin sléng"},
+        {"en": "Gen Z slang", "pt": "gíria da geração Z", "say": "djén zí sléng"},
+        {"en": "to sound dated / cringe", "pt": "soar ultrapassado / vergonhoso", "say": "tu sáund dêitid / krindj"},
+        {"en": "mock-heroic / tongue-in-cheek", "pt": "falso-heroico / irônico, de brincadeira", "say": "mók hiróuik / tâng in tchík"},
+        {"en": "a register clash", "pt": "um choque de registro", "say": "a rédjister klésh"},
+        {"en": "highfalutin / pompous", "pt": "pretensioso / pomposo", "say": "haifalútin / pómpas"},
+        {"en": "vernacular", "pt": "vernáculo, linguagem popular", "say": "vernékiular"},
+        {"en": "to code-switch", "pt": "alternar códigos/registros", "say": "tu kôud suítch"},
+        {"en": "in-group language", "pt": "linguagem de grupo", "say": "in grúp lénguidj"}
+      ],
+      "chunks": [
+        {"en": "Wherefore art thou Romeo?", "pt": "Por que és tu Romeu? (Shakespeare: wherefore = por quê)"},
+        {"en": "I'm knackered.", "pt": "Estou morto de cansaço. (gíria britânica)"},
+        {"en": "That's sick! / That slaps!", "pt": "Que demais! (gíria)"},
+        {"en": "No cap.", "pt": "Sem mentira, é sério. (gíria jovem americana)"},
+        {"en": "Use your loaf.", "pt": "Use a cabeça. (gíria rimada: loaf of bread = head)"},
+        {"en": "Pray, do tell! (tongue-in-cheek)", "pt": "Ora, conte-me! (formal arcaico, irônico)"}
+      ],
+      "grammar": {
+        "title": "Registers at the extremes",
+        "explanation_pt": "**1. Arcaico / literário** — aparece em Shakespeare, na Bíblia King James, em hinos, rituais, juramentos e em **uso irônico**:\n- **thou** (tu, sujeito), **thee** (te, objeto), **thy/thine** (teu): \"**Thou art** my friend.\" / \"I love **thee**.\"\n- Verbos com -st/-th: **thou hast, thou dost, he hath, she doth**\n- **wherefore** (por quê — não \"onde\"!), **whence** (de onde), **hither/thither** (para cá/lá), **ere** (antes), **betwixt** (entre), **'tis** (it is), **pray** (por favor)\n- Uso moderno **irônico**: \"**Pray, do tell!**\" / \"**Whence** this sudden interest in cooking?\"\n\n**2. Técnico / jurídico** (revisão C2-M2-L3 e M5-L3): hereinafter, notwithstanding, shall, the party of the first part...\n\n**3. Gíria** — muda rápido e varia por região e idade:\n- **Britânica:** knackered (exausto), gutted (arrasado), chuffed (contente), skint (sem grana), cheeky (atrevido), mate, innit\n- **Americana:** awesome, bummed (chateado), dude, my bad (foi mal), hang out\n- **Gíria rimada cockney:** apples and pears = stairs; dog and bone = phone; loaf (of bread) = head\n- **Internet / Gen Z** (envelhece rápido!): no cap (sério), lowkey/highkey, slay, it's giving..., rizz (charme), touch grass (vá viver a vida real), main character energy\n\n**4. Choque de registro (register clash)** — misturar registros **sem querer** soa estranho; **de propósito**, é humor:\n- Sem querer: \"Dear Sir, your product is lowkey trash.\" ❌\n- De propósito (humor): \"Lo, the pizza hath arrived!\" / \"The committee has reached a decision, and the decision is: nah.\"\n\n**5. Conselhos para o C2:**\n- **Entenda** gírias para compreender filmes, séries e redes sociais.\n- **Use** gírias com cuidado: só com quem você conhece, no contexto certo. Gíria de outra geração ou região pode soar **forçada** (\"cringe\").\n- O arcaico, hoje, é usado quase sempre com **ironia** ou em **citações**.",
+        "table": {
+          "headers": ["Registro", "Exemplo", "Quando"],
+          "rows": [["Arcaico", "Thou art... / Wherefore...? / 'Tis...", "literatura, citações, ironia"], ["Formal elevado", "I am most grateful for your kind invitation.", "cartas muito formais, discursos"], ["Neutro", "Thanks for inviting me.", "quase sempre"], ["Informal", "Cheers for the invite!", "amigos, colegas próximos"], ["Gíria", "That party was sick, no cap.", "grupo de amigos (cuidado!)"], ["Técnico", "The party of the first part shall...", "contratos"]]
+        },
+        "examples": [
+          {"en": "In Romeo and Juliet, \"Wherefore art thou Romeo?\" means \"Why are you Romeo?\", not \"Where are you?\"", "pt": "Em Romeu e Julieta, \"Wherefore art thou Romeo?\" significa \"Por que você é Romeu?\", não \"Onde você está?\""},
+          {"en": "I was absolutely knackered after the trip, and completely skint too.", "pt": "Eu estava completamente morto de cansaço depois da viagem, e completamente sem grana também."},
+          {"en": "Using Gen Z slang in a job interview is a register clash that's unlikely to impress.", "pt": "Usar gíria da geração Z numa entrevista de emprego é um choque de registro que dificilmente vai impressionar."}
+        ],
+        "tip_pt": "Gíria envelhece rápido — o que é \"cool\" hoje pode soar \"cringe\" amanhã. Para **compreender**, consulte dicionários de gíria e de uso informal; para **usar**, observe como seus amigos falantes nativos falam e imite com moderação. E lembre: um brasileiro usando \"innit\" num sotaque americano pode soar engraçado (às vezes de propósito!)."
+      },
+      "common_mistakes": [
+        {"wrong": "\"Wherefore art thou?\" = \"Where are you?\"", "right": "wherefore = why", "why_pt": "Um dos falsos amigos mais famosos do inglês arcaico."},
+        {"wrong": "Dear Hiring Manager, I'm lowkey the perfect candidate, no cap.", "right": "Dear Hiring Manager, I believe I am an excellent fit for this position.", "why_pt": "Choque de registro involuntário."},
+        {"wrong": "Using \"thou\" as a formal \"you\" (like \"o senhor\").", "right": "Historically, thou was informal/intimate; you was the polite form.", "why_pt": "Ironia histórica: thou, hoje arcaico, era a forma íntima."}
+      ],
+      "pronunciation": {
+        "focus": "Sotaque e registro",
+        "tip_pt": "Registro também se ouve: o **arcaico** costuma ser lido com ritmo lento e solene; a **gíria** britânica vem com sotaques regionais (o \"t\" glotal de \"innit\" = \"í'it\"; \"mate\" = \"mái'\"); a americana, com reduções (\"gonna\", \"kinda\"). Imitar sotaque **não** é obrigatório — entender é.",
+        "practice": ["(solemn) Wherefore art thou Romeo?", "(British slang) I'm knackered, mate.", "(American slang) That was kinda awesome, dude."]
+      },
+      "dialogue": {
+        "title": "Lost in slang",
+        "context_pt": "Uma brasileira recém-chegada a Londres pede ajuda a uma colega britânica para entender a gíria do escritório.",
+        "lines": [
+          {"speaker": "Duda", "en": "Ellen, can I ask you something? Jack told me he was \"gutted\" about the match, then \"chuffed\" about his promotion, and then \"skint\" until payday. Is he OK?", "pt": "Ellen, posso te perguntar uma coisa? O Jack me disse que estava \"gutted\" com o jogo, depois \"chuffed\" com a promoção e depois \"skint\" até o dia do pagamento. Ele está bem?"},
+          {"speaker": "Ellen", "en": "Ha! He's fine. \"Gutted\" means very disappointed, \"chuffed\" means really pleased, and \"skint\" means he's got no money. Classic British slang.", "pt": "Ha! Ele está bem. \"Gutted\" é muito decepcionado, \"chuffed\" é muito contente e \"skint\" é sem dinheiro. Gíria britânica clássica."},
+          {"speaker": "Duda", "en": "And my nephew in New York texts things like \"no cap\" and \"that slaps\". Is that the same language?", "pt": "E meu sobrinho em Nova York manda mensagens como \"no cap\" e \"that slaps\". É a mesma língua?"},
+          {"speaker": "Ellen", "en": "Technically! \"No cap\" means \"seriously, no lie\", and \"that slaps\" means it's really good. But don't try them on the CEO.", "pt": "Tecnicamente! \"No cap\" é \"sério, sem mentira\", e \"that slaps\" é que algo é muito bom. Mas não tente com o CEO."},
+          {"speaker": "Duda", "en": "Noted. And yesterday someone said \"Pray, do tell!\" when I mentioned my weekend. It sounded like Shakespeare.", "pt": "Anotado. E ontem alguém disse \"Pray, do tell!\" quando mencionei meu fim de semana. Parecia Shakespeare."},
+          {"speaker": "Ellen", "en": "That was tongue-in-cheek — using old-fashioned language to sound jokingly dramatic. It means \"Oh, tell me more!\"", "pt": "Aquilo foi de brincadeira — usar linguagem antiquada para soar dramaticamente engraçado. Significa \"Ah, me conta mais!\""},
+          {"speaker": "Duda", "en": "So in one day I've heard Shakespeare, Gen Z and Cockney. My brain is knackered.", "pt": "Então num só dia ouvi Shakespeare, geração Z e cockney. Meu cérebro está \"knackered\"."},
+          {"speaker": "Ellen", "en": "And you've just used it perfectly. You'll fit right in.", "pt": "E você acabou de usar perfeitamente. Vai se adaptar super bem."}
+        ]
+      },
+      "listening": {
+        "title": "Why slang ages so fast",
+        "context_pt": "Um linguista explica por que gírias mudam tão rapidamente.",
+        "lines": [
+          {"speaker": "Linguist", "en": "Slang has a curious life cycle. It usually begins within a specific group — teenagers, musicians, gamers, a particular neighbourhood — as a way of signalling belonging. Using the right words shows you're an insider. But slang is a victim of its own success. As it spreads, through music, films and especially social media, outsiders start using it too: parents, advertisers, politicians trying to sound young. And the moment that happens, it loses its value as a marker of the group, so the group moves on to something new. That's why slang can seem to change almost every year, and why words that sounded cool to one generation sound embarrassing to the next. Interestingly, a few slang words escape this cycle and become standard English. \"Mob\", \"bus\", \"cool\" and \"OK\" were all once considered informal or slang. Others, like \"groovy\" or \"rad\", become firmly attached to a particular decade. For learners, the lesson is simple: understand slang, enjoy it — but be careful about adopting it, because you may be wearing last year's fashion without realizing it."}
+        ],
+        "questions": [
+          {"q": "Where does slang usually begin?", "answer": "Within a specific group, as a sign of belonging."},
+          {"q": "Why does slang lose its value?", "answer": "When outsiders start using it, it no longer marks the group."},
+          {"q": "Name two words that started as slang and became standard.", "answer": "Mob, bus, cool, OK."},
+          {"q": "What is the speaker's advice for learners?", "answer": "Understand and enjoy slang, but be careful about adopting it."}
+        ]
+      },
+      "reading": {
+        "title": "Thou, you and the politics of politeness",
+        "text": "Modern English has one second-person pronoun: you. Whether we are addressing a child, a stranger, a president or a crowd of thousands, the same word serves. It was not always so. In Middle and Early Modern English, speakers could choose between two forms, much as speakers of Portuguese, French or German still can. \"Thou\" (with its forms thee, thy and thine) was used in the singular, while \"you\" (or \"ye\") was originally plural. Over time, influenced partly by French usage, \"you\" also came to be used as a polite form for addressing a single social superior, while \"thou\" was reserved for intimates, children, inferiors — or for deliberate insult. Shakespeare's characters switch between the two with considerable subtlety. A lover may move from the respectful \"you\" to the tender \"thou\" at a moment of intimacy; a master may address a servant as \"thou\" while expecting \"you\" in return; and to \"thou\" a stranger could be a calculated provocation. Audiences of the time would have registered these shifts instantly, much as a Brazilian notices the difference between \"você\" and \"o senhor\". By the eighteenth century, however, \"thou\" had largely disappeared from standard English, surviving mainly in regional dialects, in religious language and among groups such as the Quakers, who deliberately used it for everyone as a statement of equality. The irony is that \"thou\", once the form of intimacy and familiarity, now sounds to most English speakers solemn, distant and archaic — the language of prayers and old poetry. The loss of the distinction has had an interesting consequence. Since English can no longer signal social distance through its pronouns, it does so through other means: titles, first names versus surnames, modal verbs, indirectness and the choice of vocabulary. Politeness in English, in other words, did not disappear with \"thou\". It simply moved elsewhere — into the subtleties of register that every advanced learner must eventually master.",
+        "questions": [
+          {"q": "What was the original difference between thou and you?", "answer": "Thou was singular; you was plural."},
+          {"q": "How did the usage later develop?", "answer": "You became a polite singular for superiors; thou was for intimates, inferiors or insult."},
+          {"q": "Why did the Quakers use thou for everyone?", "answer": "As a statement of equality."},
+          {"q": "How does English signal social distance now?", "answer": "Through titles, names, modal verbs, indirectness and vocabulary choice."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "match", "title": "Archaic to modern", "instruction": "Write the modern English equivalent.", "instruction_pt": "Escreva o equivalente em inglês moderno.",
+         "items": [{"prompt": "Wherefore art thou sad?", "answer": "Why are you sad?"}, {"prompt": "'Tis a fine day.", "answer": "It is a fine day."}, {"prompt": "Whence comest thou?", "answer": "Where do you come from?"}, {"prompt": "Ere the sun sets", "answer": "Before the sun sets"}, {"prompt": "Thou hast my thanks.", "answer": "You have my thanks / Thank you."}]},
+        {"id": "ex2", "type": "match", "title": "Slang decoder", "instruction": "Write the neutral English meaning.", "instruction_pt": "Escreva o significado em inglês neutro.",
+         "items": [{"prompt": "I'm knackered. (UK)", "answer": "I'm extremely tired."}, {"prompt": "I'm gutted. (UK)", "answer": "I'm very disappointed."}, {"prompt": "I'm skint. (UK)", "answer": "I have no money."}, {"prompt": "No cap. (US/internet)", "answer": "Seriously / I'm not lying."}, {"prompt": "My bad. (US)", "answer": "Sorry, my mistake."}, {"prompt": "Use your loaf. (Cockney rhyming slang)", "answer": "Use your head / Think."}]},
+        {"id": "ex3", "type": "answer", "title": "Register shift", "instruction": "Rewrite the same message in the three registers indicated.", "instruction_pt": "Reescreva a mesma mensagem nos três registros indicados.",
+         "items": [{"prompt": "Message: \"I can't come to your party because I'm very tired and have no money.\" — (a) very formal; (b) neutral; (c) British slang.", "answer": "Model: (a) I regret that I shall be unable to attend your celebration, owing to fatigue and certain financial constraints. (b) Sorry, I can't come to your party — I'm exhausted and short of money. (c) Can't make it, mate — I'm knackered and totally skint."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "Wherefore art thou Romeo?"}, {"prompt": "2", "answer": "I was absolutely knackered after the trip."}, {"prompt": "3", "answer": "Slang is a victim of its own success."}, {"prompt": "4", "answer": "Politeness in English simply moved elsewhere."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the register clash", "instruction": "Each sentence has an unintentional register clash. Rewrite it appropriately.", "instruction_pt": "Cada frase tem um choque de registro involuntário. Reescreva adequadamente.",
+         "items": [{"prompt": "(cover letter) Your company is lowkey amazing and I'd slay this job.", "answer": "I greatly admire your company and am confident I would excel in this role."}, {"prompt": "(text to a friend) I hereby confirm my attendance at your birthday celebration.", "answer": "I'll be there for your birthday!"}, {"prompt": "(academic essay) The results were kinda sick, tbh.", "answer": "The results were, frankly, remarkable."}]},
+        {"id": "ex6", "type": "multiple_choice", "title": "Appropriate or not?", "instruction": "Is the language appropriate in each context?", "instruction_pt": "A linguagem é adequada em cada contexto?",
+         "items": [{"prompt": "\"Cheers, mate!\" — to a British friend after he buys you a coffee.", "options": ["appropriate", "inappropriate"], "answer": "appropriate"}, {"prompt": "\"Thou art late.\" — to your boss, seriously.", "options": ["appropriate", "inappropriate"], "answer": "inappropriate"}, {"prompt": "\"Pray, do tell!\" — joking with a colleague who has gossip.", "options": ["appropriate", "inappropriate"], "answer": "appropriate"}, {"prompt": "\"That slaps, no cap.\" — in a formal presentation to clients.", "options": ["appropriate", "inappropriate"], "answer": "inappropriate"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Register roulette\": your teacher gives you a simple message (\"The meeting is cancelled\", \"I love your new haircut\", \"I'm leaving the company\"). Say it in five registers: archaic/Shakespearean, legal, neutral, informal, slang. The class votes on the funniest and the most accurate.",
+        "instruction_pt": "\"Roleta de registros\": o professor dá uma mensagem simples (\"A reunião foi cancelada\", \"Amei seu corte de cabelo\", \"Vou sair da empresa\"). Diga-a em cinco registros: arcaico/shakespeariano, jurídico, neutro, informal, gíria. A turma vota na mais engraçada e na mais precisa.",
+        "questions": ["Should learners use slang, or just understand it?", "Which Brazilian slang would be impossible to translate?", "Why does slang change so fast?", "Do you code-switch between different groups in Portuguese?", "Is it a loss that English no longer has \"thou\"?"]
+      },
+      "writing": {
+        "task": "Write a humorous piece (280–320 words) in which you deliberately mix registers for comic effect — for example, a mock-heroic account of an everyday event (losing your keys, a Monday morning commute, a family barbecue) told in grand, archaic or legal language, with occasional slang interruptions.",
+        "task_pt": "Escreva um texto humorístico (280–320 palavras) misturando registros de propósito para efeito cômico — por exemplo, um relato falso-heroico de um evento cotidiano (perder as chaves, ir ao trabalho na segunda de manhã, um churrasco em família) contado em linguagem grandiosa, arcaica ou jurídica, com interrupções de gíria.",
+        "model": "The Epic of the Missing Keys\n\nHear now, O reader, the tale of a Tuesday most grievous.\n\nIt was the seventh hour of the morning, and the sun, that tireless servant of the heavens, had but lately risen over the rooftops of Pinheiros. Our heroine, freshly showered and caffeinated, stood at the threshold of her humble dwelling, ready to venture forth unto the realm of Work.\n\nAnd lo! The keys were gone.\n\nNot upon the hook where keys traditionally dwell. Not within the bag of many pockets. Not upon the kitchen table, that great altar of breakfast. Gone, as though the very earth had swallowed them whole.\n\nWhereupon our heroine did search the land. She did lift the cushions of the sofa, revealing treasures long forgotten: three coins, a pen of no ink, and a quantity of crumbs best not described. She did interrogate the cat, who, being a cat, offered neither testimony nor remorse.\n\nThe clock advanced without mercy. The bus — that chariot of the people — was due in nine minutes.\n\n\"Ye gods,\" she cried, \"wherefore hast thou abandoned me?\"\n\nThe gods, as is their custom, did not reply.\n\nNotwithstanding the foregoing, and without prejudice to any further searches, the Party of the First Part (hereinafter \"the Heroine\") did then perform the ancient ritual known to all mortals: she checked the pocket of the jacket she was already wearing.\n\nAnd there, nestled snugly against a receipt for pão de queijo, lay the keys.\n\nHonestly? Absolute scenes. I was gutted at myself, no cap.\n\nThus ends the tale. Let it be remembered by all who follow: before thou searchest the kingdom, search thine own pockets.\n\n(The bus, needless to say, had already gone.)"
+      },
+      "culture_note": {
+        "title": "\"Você\" e \"thou\": uma história paralela",
+        "text_pt": "O português também viveu uma transformação dos pronomes: **\"vossa mercê\"** (tratamento respeitoso) virou **\"vosmecê\"** e depois **\"você\"**, que hoje, no Brasil, é a forma comum e neutra — enquanto o **\"tu\"** sobrevive em várias regiões. No inglês, aconteceu algo parecido com **you** e **thou**, mas com o resultado oposto: o íntimo **thou** desapareceu e o polido **you** ficou para todos."
+      },
+      "summary_pt": ["Arcaico: thou/thee/thy, art, hast, wherefore (= why), 'tis — hoje em citações e ironia.", "Gíria britânica: knackered, gutted, chuffed, skint. Americana/internet: my bad, no cap, slaps.", "Choque de registro: erro se involuntário, humor se intencional.", "Gíria envelhece rápido: entenda tudo, use com cuidado."]
+    },
+    {
+      "id": "C2-M6-L4",
+      "title": "Ready for C2",
+      "subtitle_pt": "Revisão geral + estratégias de exame (C2 Proficiency / IELTS) e apresentação final",
+      "duration_min": 95,
+      "source_refs": ["CEFR – C2 descriptors (review)", "Cambridge English – C2 Proficiency (exam format)", "IELTS (band descriptors 8.5–9)"],
+      "objectives": ["Revisar as principais estruturas e habilidades do C2", "Conhecer o formato do C2 Proficiency e o que diferencia as bandas mais altas do IELTS", "Aplicar estratégias de alto nível em todas as habilidades", "Fazer a apresentação final do curso"],
+      "warmup": {
+        "text_pt": "Você chegou ao **último nível do CEFR**. O C2 é descrito como **\"Mastery\"**: compreender praticamente tudo, resumir e reconstruir argumentos, expressar-se de forma espontânea, fluente e **precisa**, distinguindo **nuances finas** de sentido. Hoje você revisa o nível, conhece o formato do **C2 Proficiency** e faz a **apresentação final** de toda a jornada — do A1 ao C2.",
+        "questions": ["What does \"mastery\" of a language mean to you?", "Looking back at your whole journey with English, what has changed most?"]
+      },
+      "vocabulary": [
+        {"en": "mastery / proficiency", "pt": "domínio / proficiência", "say": "mésteri / profíshensi"},
+        {"en": "near-native", "pt": "quase nativo", "say": "nír nêitiv"},
+        {"en": "nuance / subtlety", "pt": "nuance / sutileza", "say": "niúans / sâtolti"},
+        {"en": "effortless / seamless", "pt": "sem esforço / sem emendas, fluido", "say": "éfortles / símles"},
+        {"en": "idiomatic", "pt": "idiomático, natural", "say": "idiomátik"},
+        {"en": "to reconstruct (an argument)", "pt": "reconstruir (um argumento)", "say": "tu rikonstrâkt"},
+        {"en": "a distractor", "pt": "um distrator (em provas)", "say": "a distrékter"},
+        {"en": "to infer / inference", "pt": "inferir / inferência", "say": "tu infâr / ínferens"},
+        {"en": "gapped text", "pt": "texto com lacunas", "say": "gépt tékst"},
+        {"en": "key word transformation", "pt": "transformação com palavra-chave", "say": "kí uârd transformêishan"},
+        {"en": "a lifelong learner", "pt": "um eterno aprendiz", "say": "a láiflong lârner"},
+        {"en": "to come full circle", "pt": "fechar o ciclo", "say": "tu kâm ful sârkol"}
+      ],
+      "chunks": [
+        {"en": "That's a question I've given a great deal of thought to.", "pt": "É uma questão sobre a qual refleti bastante."},
+        {"en": "If anything, I'd argue the opposite.", "pt": "Se há algo, eu argumentaria o contrário."},
+        {"en": "It's not so much a question of X as of Y.", "pt": "Não é tanto uma questão de X, mas de Y."},
+        {"en": "Far be it from me to disagree, but...", "pt": "Longe de mim discordar, mas..."},
+        {"en": "Having come full circle, ...", "pt": "Tendo fechado o ciclo, ..."},
+        {"en": "Learning a language is a journey without an end.", "pt": "Aprender uma língua é uma jornada sem fim."}
+      ],
+      "grammar": {
+        "title": "C2 review and exam strategies",
+        "explanation_pt": "**Revisão do C2 — o que diferencia este nível:**\n- **Precisão lexical:** quase-sinônimos, conotação, collocations, intensidade (M1-L1)\n- **Implícito:** litotes, negação enfática, implicatura (M1-L2); binômios e expressões fixas (M1-L3)\n- **Estrutura e estilo:** orações absolutas (M1-L4), inversão literária e fronting (M2-L1), figuras retóricas (M2-L4), pontuação expressiva (M4-L3)\n- **Leitura crítica:** spin, eufemismo e agente oculto (M2-L2); conectores formais e linguagem jurídica (M2-L3, M5-L3)\n- **Certeza e argumentação:** modalidade epistêmica fina (M3-L1), voz acadêmica (M3-L2), hipóteses complexas (M3-L3), comparações sofisticadas (M3-L4)\n- **Literatura e crítica:** discurso indireto livre (M4-L1), som e ritmo (M4-L2), linguagem avaliativa (M4-L4)\n- **Língua no mundo:** neologismos (M5-L1), variedades (M5-L2), resumo e síntese (M5-L4)\n- **Maestria comunicativa:** mediação (M6-L1), gerenciamento da interação (M6-L2), registros extremos (M6-L3)\n\n**Cambridge C2 Proficiency** (4 partes):\n- **Reading and Use of English** (1h30, 7 partes): vocabulário em contexto, lacunas abertas, **formação de palavras**, **key word transformations** (3–8 palavras), textos longos, texto com parágrafos removidos e correspondência múltipla\n- **Writing** (1h30, 2 partes): **Part 1** — essay resumindo e avaliando **dois textos** (240–280 palavras); **Part 2** — uma tarefa à escolha (artigo, carta, relatório ou review, 280–320 palavras)\n- **Listening** (cerca de 40 min, 4 partes), com variedade de sotaques\n- **Speaking** (cerca de 16 min, **em dupla**, 3 partes): entrevista, tarefa colaborativa com imagens, e um **long turn** individual seguido de discussão\n\n**IELTS:** o C2 corresponde aproximadamente às bandas **8.5–9**, que exigem uso \"totalmente flexível e preciso\" da língua, com erros raríssimos.\n\n**Estratégias de alto nível:**\n1. **Reading:** a resposta raramente usa as mesmas palavras do texto — procure **paráfrases** e cuidado com **distratores** (palavras iguais, sentido diferente).\n2. **Use of English:** em key word transformations, identifique a **estrutura testada** (inversão, passiva de relato, expressão idiomática, phrasal verb) e **não altere** a palavra dada.\n3. **Writing:** **planeje** (10 min), **responda tudo**, mostre **variedade natural** (não forçada), **parafraseie** os textos-base (Part 1), **revise** (5 min).\n4. **Listening:** atenção a **atitude, opinião e propósito** dos falantes, não só a fatos.\n5. **Speaking:** **desenvolva**, **interaja**, **mostre nuance** (\"it depends\", \"to some extent\"), **gerencie** hesitações com naturalidade.",
+        "table": {
+          "headers": ["Parte", "Formato", "Dica C2"],
+          "rows": [["Reading & Use of English", "1h30, 7 partes", "Paráfrases e estrutura testada"], ["Writing Part 1", "Essay: 2 textos, 240–280 palavras", "Resumir + avaliar, sem copiar"], ["Writing Part 2", "Artigo/carta/relatório/review, 280–320", "Registro e gênero adequados"], ["Listening", "~40 min, 4 partes", "Atitudes e opiniões"], ["Speaking", "~16 min, em dupla", "Desenvolver, interagir, nuançar"]]
+        },
+        "examples": [
+          {"en": "It's not so much a question of knowing more words as of knowing exactly when to use them.", "pt": "Não é tanto uma questão de saber mais palavras, mas de saber exatamente quando usá-las."},
+          {"en": "Had I known at the beginning how long the journey would be, I might never have started — and that would have been the greatest mistake of my life.", "pt": "Se eu soubesse no início quanto tempo a jornada duraria, talvez nunca tivesse começado — e esse teria sido o maior erro da minha vida."},
+          {"en": "Mastery, I have come to believe, is less a destination than a way of travelling.", "pt": "Domínio, passei a acreditar, é menos um destino do que uma forma de viajar."}
+        ],
+        "tip_pt": "No C2, **a perfeição não é exigida** — mas a **precisão** e a **flexibilidade** sim. O examinador busca alguém que use a língua como um **instrumento**: adequando registro, tom, estrutura e vocabulário a cada situação, com naturalidade. Você chegou aqui. Confie no caminho."
+      },
+      "common_mistakes": [
+        {"wrong": "Forcing advanced structures into every sentence.", "right": "Use C2 structures where they add precision or effect.", "why_pt": "Variedade forçada soa artificial; o C2 valoriza naturalidade."},
+        {"wrong": "Writing Part 1: copying phrases from the two texts.", "right": "Paraphrase consistently and add your evaluation.", "why_pt": "Cópia é penalizada; avaliação é obrigatória."},
+        {"wrong": "Key word transformation: changing the given word or using more than eight words.", "right": "Keep the given word unchanged and use 3–8 words.", "why_pt": "As regras da tarefa são estritas."}
+      ],
+      "pronunciation": {
+        "focus": "Prosódia de mestre",
+        "tip_pt": "No C2, a pronúncia é avaliada pela **inteligibilidade** e pelo uso **expressivo** da prosódia: ênfase contrastiva, entonação para atitude, ritmo para clareza. Grave sua apresentação final e ouça: seu ritmo ajuda o ouvinte a acompanhar? Suas ênfases mostram o que é mais importante?",
+        "practice": ["It's not so much a question of KNOWing more words | as of knowing exactly WHEN to use them.", "HAD I known, | I might NEVer have started.", "MAStery | is less a destiNAtion | than a way of TRAVelling."]
+      },
+      "dialogue": {
+        "title": "Mock C2 speaking test – Part 3",
+        "context_pt": "Simulação da Parte 3 da prova oral C2 Proficiency: um long turn seguido de discussão.",
+        "lines": [
+          {"speaker": "Examiner", "en": "Luana, here is your card. The question is: \"What role should tradition play in modern society?\" You have two minutes.", "pt": "Luana, aqui está seu cartão. A pergunta é: \"Que papel a tradição deveria ter na sociedade moderna?\" Você tem dois minutos."},
+          {"speaker": "Luana", "en": "That's a question I've given a fair amount of thought to, partly because Brazil is a country where tradition and modernity coexist in fascinating ways. I'd argue that tradition is not so much a set of rules to be obeyed as a resource to be drawn on. Take festivals such as the festas juninas: they connect urban families to their rural roots, and yet they're constantly being reinvented. That, to my mind, is tradition at its best — alive, adaptable and shared. Having said that, tradition can also be used to justify exclusion. Practices that were once considered \"natural\" — about gender roles, for instance — have rightly been questioned. So the real challenge, I think, is to distinguish between traditions that bind communities together and those that merely preserve inequality. In short, I'd say tradition deserves respect, but never blind obedience.", "pt": "É uma questão sobre a qual refleti bastante, em parte porque o Brasil é um país onde tradição e modernidade convivem de formas fascinantes. Eu argumentaria que a tradição não é tanto um conjunto de regras a obedecer, mas um recurso a ser aproveitado. Veja as festas juninas: conectam famílias urbanas às suas raízes rurais e, ainda assim, estão sempre sendo reinventadas. Isso, para mim, é a tradição no seu melhor — viva, adaptável e compartilhada. Dito isso, a tradição também pode ser usada para justificar exclusão. Práticas antes consideradas \"naturais\" — sobre papéis de gênero, por exemplo — foram, com razão, questionadas. Então o verdadeiro desafio, acho, é distinguir tradições que unem comunidades daquelas que apenas preservam desigualdades. Em suma, eu diria que a tradição merece respeito, mas nunca obediência cega."},
+          {"speaker": "Examiner", "en": "Thank you. Rafael, do you agree?", "pt": "Obrigado. Rafael, você concorda?"},
+          {"speaker": "Rafael", "en": "Largely, yes — though if anything, I'd push the point further. Far be it from me to sound pessimistic, but I think globalization is eroding many local traditions faster than communities can reinvent them.", "pt": "Em grande parte, sim — embora, se há algo, eu levaria o ponto mais longe. Longe de mim soar pessimista, mas acho que a globalização está corroendo muitas tradições locais mais rápido do que as comunidades conseguem reinventá-las."},
+          {"speaker": "Luana", "en": "That's a fair point, but couldn't one argue that globalization also gives traditions a new audience? Brazilian capoeira, for example, is now practised all over the world.", "pt": "É um bom argumento, mas não se poderia dizer que a globalização também dá às tradições um novo público? A capoeira brasileira, por exemplo, hoje é praticada no mundo inteiro."},
+          {"speaker": "Rafael", "en": "True — though one might ask whether it remains the same tradition once it's been exported and, to some extent, commercialized.", "pt": "Verdade — embora se possa perguntar se continua sendo a mesma tradição depois de exportada e, até certo ponto, comercializada."},
+          {"speaker": "Examiner", "en": "Thank you. That is the end of the test.", "pt": "Obrigado. Este é o fim da prova."}
+        ]
+      },
+      "listening": {
+        "title": "The journey never ends",
+        "context_pt": "Uma linguista poliglota fala sobre a vida depois do nível C2.",
+        "lines": [
+          {"speaker": "Speaker", "en": "People often ask me what happens after C2. Is there a level beyond mastery? Officially, no — the CEFR stops here. But anyone who has reached this level knows that learning doesn't stop. In fact, in some ways it becomes more interesting. At C2, you're no longer learning the language; you're learning through it. You read novels for pleasure, not practice. You notice how a politician's choice of words reveals more than they intended. You make a joke that lands perfectly, and nobody thinks to praise your English, because your English has become invisible. That, I think, is the real mark of mastery: when the language stops being an obstacle between you and the world and becomes a window onto it. And yet there will always be a word you've never heard, an accent that puzzles you, an idiom that makes you smile. Native speakers experience this too. Language is too vast to ever be fully conquered. Perhaps that's the most beautiful thing about it."}
+        ],
+        "questions": [
+          {"q": "Is there an official level beyond C2?", "answer": "No — the CEFR stops at C2."},
+          {"q": "What changes at C2, according to the speaker?", "answer": "You stop learning the language and start learning through it."},
+          {"q": "What does she consider the real mark of mastery?", "answer": "When the language stops being an obstacle and becomes a window onto the world."},
+          {"q": "Why can language never be fully conquered?", "answer": "It's too vast; there's always something new, even for native speakers."}
+        ]
+      },
+      "reading": {
+        "title": "What it means to master a language",
+        "text": "The Common European Framework of Reference describes the C2 user in a handful of carefully chosen phrases: someone who can understand with ease virtually everything heard or read, summarize information from different sources, reconstructing arguments and accounts in a coherent presentation, and express themselves spontaneously, very fluently and precisely, differentiating finer shades of meaning even in the most complex situations. Each phrase rewards closer attention. \"With ease\" suggests that comprehension is no longer an effort but a habit. \"Reconstructing arguments\" implies not merely understanding a text but being able to rebuild its logic in one's own words for someone else. \"Spontaneously\" means without preparation — in the meeting, at the dinner table, in the unexpected moment. And \"finer shades of meaning\" points to the domain in which C2 differs most from every level below: nuance. A B2 learner knows that \"stubborn\" and \"determined\" are related. A C1 learner knows that one is negative and one is positive. A C2 user knows when to choose \"determined\" in a reference letter in order to describe, diplomatically, someone who was in fact rather stubborn — and understands the same move when others make it. It is worth noting what the descriptors do not say. They do not require the C2 user to sound like a native speaker, to have no accent, or never to make a mistake. Many C2 users retain a clear accent; many native speakers would struggle with C2 reading tasks. Mastery, in the framework's terms, is defined not by origin but by capability — by what one can do with the language. This, perhaps, is the most encouraging message for anyone who has followed the long road from \"Hello, my name is...\" to the subtle machinery of litotes and inverted conditionals. The goal was never to become someone else. It was to become oneself, more fully, in another language. For those who have arrived, that goal has been reached. For everyone else, it is waiting — one word, one conversation, one shade of meaning at a time.",
+        "questions": [
+          {"q": "What does \"reconstructing arguments\" imply?", "answer": "Rebuilding a text's logic in one's own words for someone else."},
+          {"q": "In what domain does C2 differ most from other levels?", "answer": "Nuance — finer shades of meaning."},
+          {"q": "What do the descriptors NOT require?", "answer": "Sounding like a native speaker, having no accent, or never making mistakes."},
+          {"q": "According to the final paragraph, what was the goal of learning?", "answer": "To become oneself, more fully, in another language."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "answer", "title": "Key word transformations (C2 Proficiency style)", "instruction": "Complete the second sentence so that it has a similar meaning to the first. Use the word in CAPS without changing it, and between three and eight words.", "instruction_pt": "Complete a segunda frase com sentido semelhante à primeira. Use a palavra em CAPS sem alterá-la, com três a oito palavras.",
+         "items": [{"prompt": "It's almost certain that prices will rise next year. (LIKELIHOOD) → In ___ next year.", "answer": "all likelihood, prices will rise"}, {"prompt": "The days when people wrote letters are gone. (GONE) → ___ when people wrote letters.", "answer": "Gone are the days"}, {"prompt": "People believe the manuscript was written in the 15th century. (BELIEVED) → The manuscript ___ in the 15th century.", "answer": "is believed to have been written"}, {"prompt": "I didn't understand anything more after reading the report. (WISER) → Having read the report, I ___.", "answer": "was none the wiser"}, {"prompt": "The problem is more political than technological. (MUCH) → The problem is ___ technological as political.", "answer": "not so much"}, {"prompt": "If it hadn't been for your help, I would have failed. (BUT) → ___, I would have failed.", "answer": "But for your help"}]},
+        {"id": "ex2", "type": "fill_blank", "title": "Word formation (C2 Proficiency style)", "instruction": "Use the word in CAPS to form a word that fits the gap.", "instruction_pt": "Use a palavra em CAPS para formar uma palavra que complete a lacuna.",
+         "items": [{"prompt": "Her ___ of the language was remarkable. (MASTER)", "answer": "mastery"}, {"prompt": "The argument was ___ convincing. (SURPRISE)", "answer": "surprisingly"}, {"prompt": "His remarks were completely ___ to the debate. (RELEVANT)", "answer": "irrelevant"}, {"prompt": "The plot was ___ and predictable. (DERIVE)", "answer": "derivative"}, {"prompt": "The novel explores the ___ between memory and truth. (RELATE)", "answer": "relationship"}]},
+        {"id": "ex3", "type": "multiple_choice", "title": "C2 nuance review", "instruction": "Choose the best option.", "instruction_pt": "Escolha a melhor opção.",
+         "items": [{"prompt": "(positive) She's a very ___ negotiator.", "options": ["determined", "pig-headed", "obstinate"], "answer": "determined"}, {"prompt": "The plan is ___ perfect, but it's the best we have.", "options": ["far from", "by far", "far and away"], "answer": "far from"}, {"prompt": "___ is the power of habit that we rarely notice it.", "options": ["Such", "So", "Thus"], "answer": "Such"}, {"prompt": "The results were encouraging, ___ limited.", "options": ["albeit", "whereby", "hence"], "answer": "albeit"}, {"prompt": "She spoke as though she ___ there herself.", "options": ["had been", "has been", "was being"], "answer": "had been"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "That's a question I've given a great deal of thought to."}, {"prompt": "2", "answer": "If anything, I'd argue the opposite."}, {"prompt": "3", "answer": "Mastery is less a destination than a way of travelling."}, {"prompt": "4", "answer": "Learning a language is a journey without an end."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Final error hunt", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "By no means this is the end.", "answer": "By no means is this the end."}, {"prompt": "I love Lisbon, it's my favourite city.", "answer": "I love Lisbon; it's my favourite city."}, {"prompt": "Walking home, the rain started.", "answer": "Walking home, I got caught in the rain."}, {"prompt": "You are entitled for a refund.", "answer": "You are entitled to a refund."}, {"prompt": "Far be it for me to criticize.", "answer": "Far be it from me to criticize."}]},
+        {"id": "ex6", "type": "answer", "title": "Long turn practice", "instruction": "Prepare a two-minute answer to one question, including a clear position, examples, a concession and a conclusion. Write your notes.", "instruction_pt": "Prepare uma resposta de dois minutos para uma pergunta, com posição clara, exemplos, concessão e conclusão. Escreva suas anotações.",
+         "items": [{"prompt": "\"Is it more important to preserve the past or to embrace the future?\"", "answer": "Model notes: Position — not a choice but a balance; the past is a resource, not a prison. Example — historic city centres revitalized with new uses (e.g. old warehouses turned into cultural centres). Concession — admittedly, preservation can block necessary change (housing, transport). Conclusion — preserve what gives meaning, reinvent what has lost its purpose; \"It's not so much a question of past or future as of what we choose to carry forward.\""}]}
+      ],
+      "speaking": {
+        "instruction": "\"Final talk — full circle\": give an 8–10 minute talk titled \"My journey from A1 to C2\" (or a topic of your choice). Include a powerful opening (rhetorical device), a narrative with free indirect speech or absolute constructions, a nuanced argument with concession and precise certainty language, a counterfactual reflection (\"Had I never...\"), and a memorable conclusion. Take three questions from the class, managing the interaction with composure.",
+        "instruction_pt": "\"Palestra final — fechando o ciclo\": faça uma palestra de 8–10 minutos intitulada \"Minha jornada do A1 ao C2\" (ou um tema à sua escolha). Inclua uma abertura impactante (recurso retórico), uma narrativa com discurso indireto livre ou orações absolutas, um argumento com nuance, concessão e linguagem precisa de certeza, uma reflexão contrafactual (\"Had I never...\") e uma conclusão memorável. Responda três perguntas da turma, gerenciando a interação com compostura.",
+        "questions": ["What does mastery of a language mean to you now?", "What would you say to the person you were on your first day of English?", "Which part of the journey was hardest — and which was most rewarding?", "How will you keep growing after C2?", "Who are you in English that you aren't in Portuguese — and vice versa?"]
+      },
+      "writing": {
+        "task": "C2 Proficiency Writing Part 2 — Article (280–320 words): \"An international magazine has invited readers to submit articles titled 'What learning a language has taught me — beyond the language'. Write your article, reflecting on your experience and drawing broader conclusions.\" Show the full range of C2 language naturally.",
+        "task_pt": "C2 Proficiency Writing Part 2 — Artigo (280–320 palavras): \"Uma revista internacional convidou leitores a enviar artigos intitulados 'O que aprender uma língua me ensinou — além da língua'. Escreva seu artigo, refletindo sobre sua experiência e tirando conclusões mais amplas.\" Mostre o repertório C2 com naturalidade.",
+        "model": "What learning a language has taught me — beyond the language\n\nI began learning English, like many Brazilians, with a vague sense that it would be \"useful\". It was. But had anyone told me then what it would really teach me, I would scarcely have believed them.\n\nThe first lesson was humility. Nothing exposes the limits of one's intelligence quite like trying to order a coffee in a language one barely speaks. For an adult accustomed to being articulate, the experience of sounding, in effect, like a child was deeply uncomfortable. Yet it taught me something no textbook could: how it feels to be misunderstood — and, by extension, how many people around me must feel it every day.\n\nThe second lesson was patience. Language learning is, by its nature, a slow burn. There were months, particularly at the intermediate stage, when I seemed to make no progress at all. Only in hindsight did I see that the plateau was not a wall but a change of terrain, requiring a different kind of effort.\n\nThe third, and perhaps most profound, lesson concerned perspective. Words are not simply labels for things that exist independently of them; they are ways of seeing. Learning that English has no exact equivalent of \"saudade\", or that British understatement can transform \"not bad\" into high praise, made me realize how much of what I had considered \"natural\" was, in fact, cultural. I began to look at Portuguese — and at Brazil — with new eyes.\n\nNone of this means that the language itself was unimportant. It opened professional doors and introduced me to friends I would otherwise never have met. But the deepest benefits were not linguistic at all.\n\nIf I had to sum up the journey, I would say this: learning another language does not make you someone else. It makes you more fully yourself — only now, you have two windows through which to see the world."
+      },
+      "culture_note": {
+        "title": "Depois do C2",
+        "text_pt": "O CEFR termina no C2, mas o aprendizado não. A partir daqui, o caminho é **especializar-se** (o inglês da sua profissão, da literatura, da diplomacia), **criar** (escrever, ensinar, traduzir, palestrar) e **viver** na língua. Muitos falantes C2 se tornam tradutores, intérpretes, professores ou mediadores interculturais. Seja qual for o seu próximo passo: **congratulations — you have come full circle. Now, keep going.**"
+      },
+      "summary_pt": ["C2 = precisão, nuance, flexibilidade de registro e mediação — não perfeição nem ausência de sotaque.", "C2 Proficiency: Reading & Use of English (7 partes), Writing (essay de 2 textos + tarefa à escolha), Listening, Speaking em dupla.", "IELTS: C2 ≈ bandas 8.5–9.", "Estratégias: paráfrase, estrutura testada, planejar e revisar, desenvolver e nuançar, gerenciar a interação."]
+    }
+  ],
+  "review": {
+    "intro_pt": "Revisão final do C2 — e do curso inteiro: mediação, interação, registro e todas as estruturas de maestria.",
+    "exercises": [
+      {"id": "r1", "type": "multiple_choice", "title": "Choose the correct option", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+       "items": [{"prompt": "To check understanding politely:", "options": ["Does that make sense so far?", "Do you understand or not?", "Got it, stupid?"], "answer": "Does that make sense so far?"}, {"prompt": "To interrupt politely:", "options": ["Sorry to cut in, but...", "Shut up.", "Wrong!"], "answer": "Sorry to cut in, but..."}, {"prompt": "\"Wherefore art thou Romeo?\" means:", "options": ["Why are you Romeo?", "Where are you, Romeo?", "Who are you, Romeo?"], "answer": "Why are you Romeo?"}, {"prompt": "\"I'm knackered\" (UK) means:", "options": ["I'm exhausted.", "I'm angry.", "I'm hungry."], "answer": "I'm exhausted."}, {"prompt": "In C2 key word transformations, you must use:", "options": ["3–8 words, with the given word unchanged", "any number of words", "the given word in any form"], "answer": "3–8 words, with the given word unchanged"}]},
+      {"id": "r2", "type": "answer", "title": "Key word transformations", "instruction": "Complete the second sentence using the word in CAPS (3–8 words).", "instruction_pt": "Complete a segunda frase usando a palavra em CAPS (3–8 palavras).",
+       "items": [{"prompt": "He wasn't at all pleased. (TOO) → He was ___.", "answer": "none too pleased"}, {"prompt": "In simple terms, the contract protects you. (PUT) → To ___, the contract protects you.", "answer": "put it simply"}, {"prompt": "I've forgotten what I was saying. (TRAIN) → I've ___.", "answer": "lost my train of thought"}]},
+      {"id": "r3", "type": "translate", "title": "Translate", "instruction": "Translate into English.", "instruction_pt": "Traduza para o inglês.",
+       "items": [{"prompt": "Deixe-me explicar por partes.", "answer": "Let me break that down."}, {"prompt": "Se eu puder só terminar meu raciocínio...", "answer": "If I could just finish my point..."}, {"prompt": "Aprender uma língua é uma jornada sem fim.", "answer": "Learning a language is a journey without an end."}]},
+      {"id": "r4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+       "items": [{"prompt": "1", "answer": "What that means in practice is that you need more rest."}, {"prompt": "2", "answer": "That's a great question — and a difficult one."}, {"prompt": "3", "answer": "Mastery is less a destination than a way of travelling."}]},
+      {"id": "r5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+       "items": [{"prompt": "(job interview) I'm lowkey the best candidate, no cap.", "answer": "I believe I'm an excellent candidate for this role."}, {"prompt": "Do you understand? Do you understand?", "answer": "Have I explained that clearly?"}, {"prompt": "Far be it for me to disagree.", "answer": "Far be it from me to disagree."}]}
+    ],
+    "speaking_pt": "**Simulado de prova oral C2 (16 minutos, em dupla):** Parte 1 — conversa breve sobre você. Parte 2 — tarefa colaborativa com imagens (\"What makes a society truly educated?\"), discutindo e chegando a uma decisão. Parte 3 — long turn individual de 2 minutos sobre um cartão (\"What role should tradition play in modern society?\"), seguido de discussão com o parceiro e o examinador. Grave e avalie: precisão, nuance, flexibilidade, interação e prosódia.",
+    "speaking_questions": ["What does it mean to truly master a language?", "How has learning English changed the way you see your own language and culture?", "Is mediation the most important language skill of the future?", "What would you tell someone starting English from zero today?", "What's next for you — with English and beyond?"],
+    "project_pt": "**Projeto final do curso — \"Full circle\":** monte o portfólio completo da sua jornada: (1) o vídeo \"This is me\" do A1, (2) a palestra do B1+, (3) a apresentação do B2, (4) a palestra do C1 e (5) a **palestra final do C2 (8–10 minutos)**. Escreva um **ensaio reflexivo de 400 palavras** comparando os cinco momentos — fluência, precisão, registro, confiança e identidade — e termine com uma carta para um aluno que está começando o A1 hoje. Apresente numa cerimônia de encerramento. **Congratulations — and keep learning!**"
+  }
+}

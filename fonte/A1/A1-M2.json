@@ -1,0 +1,2070 @@
+{
+  "id": "A1-M2",
+  "level": "A1",
+  "title": "My Day",
+  "theme_pt": "Horas, rotina e frequência",
+  "can_do": [
+    "Dizer e perguntar as horas",
+    "Descrever minha rotina diária",
+    "Dizer com que frequência faço as coisas",
+    "Fazer perguntas com what, where, when, who e why"
+  ],
+  "lessons": [
+    {
+      "id": "A1-M2-L1",
+      "title": "What time is it?",
+      "subtitle_pt": "Horas, dias da semana e preposições de tempo",
+      "duration_min": 50,
+      "source_refs": [
+        "To Go A1 – Lesson 3 (parts of the day, prepositions)",
+        "To Go A2 – Lesson 6 (days of the week)"
+      ],
+      "objectives": [
+        "Perguntar e dizer as horas",
+        "Nomear dias da semana e partes do dia",
+        "Usar at, in e on com expressões de tempo",
+        "Marcar um horário"
+      ],
+      "warmup": {
+        "text_pt": "Olhe o relógio do seu celular agora. Você consegue dizer que horas são em inglês?",
+        "questions": [
+          "What's your favorite day of the week?",
+          "Are you a morning person?"
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "Monday",
+          "pt": "segunda-feira",
+          "say": "mândei"
+        },
+        {
+          "en": "Tuesday",
+          "pt": "terça-feira",
+          "say": "tchúzdei"
+        },
+        {
+          "en": "Wednesday",
+          "pt": "quarta-feira",
+          "say": "uénzdei"
+        },
+        {
+          "en": "Thursday",
+          "pt": "quinta-feira",
+          "say": "fârzdei"
+        },
+        {
+          "en": "Friday",
+          "pt": "sexta-feira",
+          "say": "fráidei"
+        },
+        {
+          "en": "Saturday / Sunday",
+          "pt": "sábado / domingo",
+          "say": "sérerdei / sândei"
+        },
+        {
+          "en": "weekend",
+          "pt": "fim de semana",
+          "say": "uíkend"
+        },
+        {
+          "en": "morning / afternoon / evening",
+          "pt": "manhã / tarde / noite (início)",
+          "say": "mórnin / éfternun / ívnin"
+        },
+        {
+          "en": "night",
+          "pt": "noite",
+          "say": "náit"
+        },
+        {
+          "en": "noon / midnight",
+          "pt": "meio-dia / meia-noite",
+          "say": "nún / mídnait"
+        },
+        {
+          "en": "o'clock",
+          "pt": "em ponto",
+          "say": "oklók"
+        },
+        {
+          "en": "half past / quarter past / quarter to",
+          "pt": "e meia / e quinze / quinze para",
+          "say": "réf pést / kuórer pést / kuórer tu"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "What time is it?",
+          "pt": "Que horas são?"
+        },
+        {
+          "en": "It's ten o'clock.",
+          "pt": "São dez em ponto."
+        },
+        {
+          "en": "What time is the meeting?",
+          "pt": "Que horas é a reunião?"
+        },
+        {
+          "en": "It's at 3 p.m.",
+          "pt": "É às 15h."
+        },
+        {
+          "en": "See you on Monday!",
+          "pt": "Até segunda!"
+        },
+        {
+          "en": "I'm free on Friday afternoon.",
+          "pt": "Estou livre na sexta à tarde."
+        }
+      ],
+      "grammar": {
+        "title": "Dizendo as horas + at / in / on",
+        "explanation_pt": "**Duas formas de dizer as horas:**\n1. **Digital (mais fácil e muito usada):** 7:15 = seven fifteen · 7:30 = seven thirty · 7:45 = seven forty-five.\n2. **Tradicional:** 7:15 = quarter past seven · 7:30 = half past seven · 7:45 = quarter to eight.\n\nEm inglês o mais comum é o relógio de 12 horas: **a.m.** (da meia-noite ao meio-dia) e **p.m.** (do meio-dia à meia-noite). 15h = 3 p.m.\n\n**Preposições de tempo:**\n- **at** + horas e momentos: at 9 a.m., at noon, at night\n- **on** + dias e datas: on Monday, on the weekend (EUA)\n- **in** + partes do dia, meses, anos: in the morning, in July, in 2026",
+        "table": {
+          "headers": [
+            "at",
+            "on",
+            "in"
+          ],
+          "rows": [
+            [
+              "at 8:00",
+              "on Monday",
+              "in the morning"
+            ],
+            [
+              "at noon",
+              "on Friday night",
+              "in the afternoon"
+            ],
+            [
+              "at night",
+              "on the weekend",
+              "in December"
+            ],
+            [
+              "at lunchtime",
+              "on my birthday",
+              "in 2027"
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "The class is on Tuesday at 7 p.m.",
+            "pt": "A aula é na terça às 19h."
+          },
+          {
+            "en": "I work in the morning and study at night.",
+            "pt": "Trabalho de manhã e estudo à noite."
+          },
+          {
+            "en": "It's quarter to six. / It's five forty-five.",
+            "pt": "São quinze para as seis."
+          }
+        ],
+        "tip_pt": "Atenção: **in the** morning / afternoon / evening, mas **at** night (sem the)."
+      },
+      "common_mistakes": [
+        {
+          "wrong": "It's 15 hours.",
+          "right": "It's 3 p.m. / It's three o'clock.",
+          "why_pt": "Não se usa \"hours\" para dizer horas. Use o.clock, a.m. ou p.m."
+        },
+        {
+          "wrong": "in Monday",
+          "right": "on Monday",
+          "why_pt": "Dias da semana usam on."
+        },
+        {
+          "wrong": "monday",
+          "right": "Monday",
+          "why_pt": "Dias da semana e meses sempre com letra maiúscula."
+        }
+      ],
+      "pronunciation": {
+        "focus": "Tuesday, Wednesday e Thursday",
+        "tip_pt": "Três dias que brasileiros costumam errar: **Wednesday** tem só 2 sílabas (\"uénz-dei\" — o primeiro d é mudo!). **Tuesday** = \"tchúz-dei\" (EUA) ou \"tiúz-dei\" (UK). **Thursday** começa com o TH sem vibração: língua entre os dentes, sopre o ar (\"θârz-dei\").",
+        "practice": [
+          "Wednesday = WENZ-day",
+          "Thursday = THURZ-day",
+          "See you on Wednesday!"
+        ]
+      },
+      "dialogue": {
+        "title": "Scheduling a call",
+        "context_pt": "Luana precisa marcar uma chamada com um cliente que mora em outro fuso horário.",
+        "lines": [
+          {
+            "speaker": "Luana",
+            "en": "Hi, Jack! Are you free for a call this week?",
+            "pt": "Oi, Jack! Você está livre para uma chamada essa semana?"
+          },
+          {
+            "speaker": "Jack",
+            "en": "Sure. How about Wednesday?",
+            "pt": "Claro. Que tal quarta?"
+          },
+          {
+            "speaker": "Luana",
+            "en": "Wednesday is good. What time?",
+            "pt": "Quarta está ótimo. Que horas?"
+          },
+          {
+            "speaker": "Jack",
+            "en": "At 10 a.m. my time. That's 2 p.m. in Brazil, right?",
+            "pt": "Às 10h no meu horário. São 14h no Brasil, certo?"
+          },
+          {
+            "speaker": "Luana",
+            "en": "Hmm, no. It's 12 p.m. here. Noon.",
+            "pt": "Hum, não. Aqui é meio-dia."
+          },
+          {
+            "speaker": "Jack",
+            "en": "Oh, OK! So, is noon OK for you?",
+            "pt": "Ah, OK! Então meio-dia está bom para você?"
+          },
+          {
+            "speaker": "Luana",
+            "en": "Perfect. See you on Wednesday at noon!",
+            "pt": "Perfeito. Até quarta ao meio-dia!"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Gym schedule",
+        "text": "POWER GYM — CLASS SCHEDULE\nYoga: Monday and Wednesday, 7:00 a.m.\nSpinning: Tuesday and Thursday, 6:30 p.m.\nCrossfit: Monday to Friday, 12:15 p.m.\nZumba: Saturday, 10:00 a.m.\nThe gym is closed on Sunday.",
+        "questions": [
+          {
+            "q": "When is the yoga class?",
+            "answer": "On Monday and Wednesday at 7 a.m."
+          },
+          {
+            "q": "What time is spinning?",
+            "answer": "At 6:30 p.m. (six thirty / half past six)."
+          },
+          {
+            "q": "Is the gym open on Sunday?",
+            "answer": "No, it isn't. It's closed."
+          },
+          {
+            "q": "Which class is at lunchtime?",
+            "answer": "Crossfit (at 12:15 p.m.)."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "answer",
+          "title": "Que horas são?",
+          "instruction_pt": "Escreva as horas em inglês (forma digital ou tradicional).",
+          "items": [
+            {
+              "prompt": "8:00",
+              "answer": "eight o'clock"
+            },
+            {
+              "prompt": "9:30",
+              "answer": "nine thirty / half past nine"
+            },
+            {
+              "prompt": "4:15",
+              "answer": "four fifteen / quarter past four"
+            },
+            {
+              "prompt": "6:45",
+              "answer": "six forty-five / quarter to seven"
+            },
+            {
+              "prompt": "12:00 (dia)",
+              "answer": "noon / twelve p.m."
+            }
+          ],
+          "instruction": "Write the time in English (digital or traditional form)."
+        },
+        {
+          "id": "ex2",
+          "type": "fill_blank",
+          "title": "at, on ou in?",
+          "instruction_pt": "Complete com a preposição correta.",
+          "items": [
+            {
+              "prompt": "I study ___ night.",
+              "answer": "at"
+            },
+            {
+              "prompt": "The party is ___ Saturday.",
+              "answer": "on"
+            },
+            {
+              "prompt": "I drink coffee ___ the morning.",
+              "answer": "in"
+            },
+            {
+              "prompt": "My birthday is ___ May.",
+              "answer": "in"
+            },
+            {
+              "prompt": "The meeting is ___ 4 p.m.",
+              "answer": "at"
+            }
+          ],
+          "instruction": "Complete with the correct preposition."
+        },
+        {
+          "id": "ex3",
+          "type": "translate",
+          "title": "Traduza",
+          "instruction_pt": "Traduza para o inglês.",
+          "items": [
+            {
+              "prompt": "Que horas é a aula?",
+              "answer": "What time is the class?"
+            },
+            {
+              "prompt": "É às 19h na terça.",
+              "answer": "It's at 7 p.m. on Tuesday."
+            },
+            {
+              "prompt": "Até sexta!",
+              "answer": "See you on Friday!"
+            }
+          ],
+          "instruction": "Translate into English."
+        },
+        {
+          "id": "ex4",
+          "type": "dictation",
+          "title": "Dictation",
+          "instruction": "Listen and write the time or sentence.",
+          "instruction_pt": "Ouça e escreva a hora ou a frase.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "It's ten fifteen."
+            },
+            {
+              "prompt": "2",
+              "answer": "The class is on Tuesday at seven."
+            },
+            {
+              "prompt": "3",
+              "answer": "I'm free on Friday afternoon."
+            },
+            {
+              "prompt": "4",
+              "answer": "See you on Wednesday!"
+            }
+          ]
+        },
+        {
+          "id": "ex5",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the mistake.",
+          "instruction_pt": "Encontre e corrija o erro.",
+          "items": [
+            {
+              "prompt": "The meeting is in Monday.",
+              "answer": "The meeting is on Monday."
+            },
+            {
+              "prompt": "I study in night.",
+              "answer": "I study at night."
+            },
+            {
+              "prompt": "It's 15 hours.",
+              "answer": "It's 3 p.m. / It's three o'clock."
+            },
+            {
+              "prompt": "See you on friday!",
+              "answer": "See you on Friday!"
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "fill_blank",
+          "title": "Complete the dialogue",
+          "instruction": "Complete with: time · at · on · free · noon.",
+          "instruction_pt": "Complete o diálogo.",
+          "items": [
+            {
+              "prompt": "A: Are you ___ this week?",
+              "answer": "free"
+            },
+            {
+              "prompt": "B: Yes, ___ Thursday.",
+              "answer": "on"
+            },
+            {
+              "prompt": "A: Great. What ___?",
+              "answer": "time"
+            },
+            {
+              "prompt": "B: ___ 12, at lunchtime. — A: OK, see you at ___!",
+              "answer": "At / noon"
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction_pt": "Responda e depois pergunte ao colega.",
+        "questions": [
+          "What time is it now?",
+          "What time is your English class?",
+          "What's your favorite day? Why?",
+          "What do you do on Friday night?",
+          "Are you free on Saturday morning?"
+        ],
+        "instruction": "Answer the questions. Then ask your partner."
+      },
+      "writing": {
+        "task_pt": "Escreva uma mensagem marcando um encontro ou reunião: dia, horário e lugar.",
+        "model": "Hi, Gabi! Are you free on Thursday?\nLet's have lunch at 12:30 at the Italian place.\nSee you on Thursday! 😊",
+        "task": "Write a message to schedule a meeting or a date: day, time and place."
+      },
+      "culture_note": {
+        "title": "Fusos horários e formato de data",
+        "text_pt": "Nos EUA, a data é escrita **mês/dia/ano**: 03/04/2027 é **4 de março**, e não 3 de abril! No Reino Unido é igual ao Brasil (dia/mês/ano). Em reuniões internacionais, sempre confirme o fuso: **\"Is that 10 a.m. your time or my time?\"**"
+      },
+      "summary_pt": [
+        "What time is it? It's seven thirty.",
+        "a.m. = manhã · p.m. = tarde/noite.",
+        "at + hora · on + dia · in + parte do dia/mês/ano.",
+        "Wednesday = \"uénzdei\"."
+      ],
+      "listening": {
+        "title": "Airport announcement",
+        "context_pt": "Anúncios no aeroporto de Miami.",
+        "lines": [
+          {
+            "speaker": "Announcer",
+            "en": "Good afternoon, passengers. Flight 254 to São Paulo is now boarding at gate 12. The time is now three forty-five p.m."
+          },
+          {
+            "speaker": "Announcer",
+            "en": "Flight 118 to New York is delayed. The new departure time is six fifteen p.m."
+          },
+          {
+            "speaker": "Announcer",
+            "en": "Passengers to Lima, your flight leaves at half past seven, from gate 20. Thank you."
+          }
+        ],
+        "questions": [
+          {
+            "q": "What time is it now?",
+            "answer": "3:45 p.m. (three forty-five)."
+          },
+          {
+            "q": "What gate is the flight to São Paulo?",
+            "answer": "Gate 12."
+          },
+          {
+            "q": "What is the new time for the flight to New York?",
+            "answer": "6:15 p.m."
+          },
+          {
+            "q": "What time is the flight to Lima?",
+            "answer": "7:30 (half past seven)."
+          }
+        ]
+      }
+    },
+    {
+      "id": "A1-M2-L2",
+      "title": "My routine",
+      "subtitle_pt": "Verbos de rotina e sequenciadores",
+      "duration_min": 50,
+      "source_refs": [
+        "To Go A1 – Lesson 15 (get up, take a shower, leave, rest)",
+        "StartUp 1 – Unit 9 (daily activities)"
+      ],
+      "objectives": [
+        "Descrever sua rotina do dia a dia",
+        "Usar verbos de rotina (get up, take a shower...)",
+        "Organizar a sequência com first, then, after that",
+        "Perguntar sobre a rotina de alguém"
+      ],
+      "warmup": {
+        "text_pt": "Você usa o despertador ou acorda naturalmente? Quantas vezes aperta o \"soneca\"? 😴",
+        "questions": [
+          "What time do you wake up?",
+          "What's the first thing you do in the morning?"
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "wake up",
+          "pt": "acordar",
+          "say": "uêik âp"
+        },
+        {
+          "en": "get up",
+          "pt": "levantar",
+          "say": "guét âp"
+        },
+        {
+          "en": "take a shower",
+          "pt": "tomar banho",
+          "say": "têik a sháuer"
+        },
+        {
+          "en": "brush my teeth",
+          "pt": "escovar os dentes",
+          "say": "brâsh mái tíθ"
+        },
+        {
+          "en": "get dressed",
+          "pt": "se vestir",
+          "say": "guét drést"
+        },
+        {
+          "en": "leave home",
+          "pt": "sair de casa",
+          "say": "lív rôum"
+        },
+        {
+          "en": "commute",
+          "pt": "ir e voltar do trabalho",
+          "say": "kamiút"
+        },
+        {
+          "en": "start / finish work",
+          "pt": "começar / terminar o trabalho",
+          "say": "stárt / fínish uórk"
+        },
+        {
+          "en": "get home",
+          "pt": "chegar em casa",
+          "say": "guét rôum"
+        },
+        {
+          "en": "check my phone",
+          "pt": "olhar o celular",
+          "say": "tchék mái fôun"
+        },
+        {
+          "en": "rest / relax",
+          "pt": "descansar / relaxar",
+          "say": "rést / riléks"
+        },
+        {
+          "en": "go to bed / go to sleep",
+          "pt": "ir para a cama / ir dormir",
+          "say": "gôu tu béd / gôu tu slíp"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "I wake up at 6:30.",
+          "pt": "Eu acordo às 6h30."
+        },
+        {
+          "en": "First, I check my phone.",
+          "pt": "Primeiro, olho o celular."
+        },
+        {
+          "en": "Then I take a shower.",
+          "pt": "Depois tomo banho."
+        },
+        {
+          "en": "After that, I have breakfast.",
+          "pt": "Depois disso, tomo café."
+        },
+        {
+          "en": "I get home at 7 p.m.",
+          "pt": "Chego em casa às 19h."
+        },
+        {
+          "en": "What time do you go to bed?",
+          "pt": "Que horas você vai dormir?"
+        }
+      ],
+      "grammar": {
+        "title": "Simple present para rotina + sequenciadores",
+        "explanation_pt": "Para falar de rotina, use o **simple present** (o mesmo das aulas anteriores). Para organizar a sequência, use **sequenciadores**:\n\n**First** (primeiro) → **Then** (então/depois) → **After that** (depois disso) → **Finally** (por fim)\n\n**Before** (antes) e **after** (depois) também ajudam: \"I brush my teeth **after** breakfast.\"\n\nMuitos verbos de rotina são **phrasal verbs** (verbo + partícula): wake **up**, get **up**, get **dressed**. A partícula muda o sentido e **não pode ser esquecida**.",
+        "table": {
+          "headers": [
+            "Pergunta",
+            "Resposta"
+          ],
+          "rows": [
+            [
+              "What time do you get up?",
+              "I get up at 7."
+            ],
+            [
+              "What do you do after breakfast?",
+              "I brush my teeth and leave home."
+            ],
+            [
+              "When do you study?",
+              "I study at night, after dinner."
+            ],
+            [
+              "Do you take a shower in the morning?",
+              "Yes, I do. / No, I take a shower at night."
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "First, I wake up at 6. Then I go running.",
+            "pt": "Primeiro, acordo às 6. Depois vou correr."
+          },
+          {
+            "en": "After that, I take a shower and get dressed.",
+            "pt": "Depois disso, tomo banho e me visto."
+          },
+          {
+            "en": "Finally, I go to bed at 11.",
+            "pt": "Por fim, vou dormir às 23h."
+          }
+        ],
+        "tip_pt": "**Wake up** = abrir os olhos. **Get up** = sair da cama. Você pode acordar às 6 e levantar às 6h20! 😄 E repare: nas perguntas sobre o Jorge (leitura) aparecem **does** e **works** — é a 3ª pessoa (he/she), que você vai estudar no Módulo 3. Por enquanto, só observe."
+      },
+      "common_mistakes": [
+        {
+          "wrong": "I take a bath every morning. (querendo dizer chuveiro)",
+          "right": "I take a shower every morning.",
+          "why_pt": "Bath é banho de banheira. O banho comum é shower."
+        },
+        {
+          "wrong": "I arrive in home at 7.",
+          "right": "I get home at 7. / I arrive home at 7.",
+          "why_pt": "Com home não se usa preposição."
+        },
+        {
+          "wrong": "I go to the bed at 11.",
+          "right": "I go to bed at 11.",
+          "why_pt": "Go to bed é expressão fixa, sem the."
+        }
+      ],
+      "pronunciation": {
+        "focus": "Ligação de palavras (linking)",
+        "tip_pt": "Quando uma palavra termina em consoante e a próxima começa com vogal, elas se juntam: **get up** = \"guérâp\", **wake up** = \"uêikâp\", **take a shower** = \"têika sháuer\".",
+        "practice": [
+          "get up → \"guérâp\"",
+          "wake up → \"uêikâp\"",
+          "I get up at eight → \"ái guérâpêt êit\""
+        ]
+      },
+      "dialogue": {
+        "title": "Morning person?",
+        "context_pt": "Dois amigos comparam suas rotinas em um podcast sobre produtividade.",
+        "lines": [
+          {
+            "speaker": "Host",
+            "en": "So, Fernanda, describe your morning routine.",
+            "pt": "Então, Fernanda, descreva sua rotina da manhã."
+          },
+          {
+            "speaker": "Fernanda",
+            "en": "I wake up at 5:30. First, I drink a glass of water.",
+            "pt": "Acordo às 5h30. Primeiro, bebo um copo de água."
+          },
+          {
+            "speaker": "Host",
+            "en": "5:30? Wow! And then?",
+            "pt": "5h30? Uau! E depois?"
+          },
+          {
+            "speaker": "Fernanda",
+            "en": "Then I do yoga for 20 minutes. After that, I take a shower and have breakfast.",
+            "pt": "Depois faço yoga por 20 minutos. Em seguida, tomo banho e tomo café."
+          },
+          {
+            "speaker": "Host",
+            "en": "Do you check your phone in the morning?",
+            "pt": "Você olha o celular de manhã?"
+          },
+          {
+            "speaker": "Fernanda",
+            "en": "No, I don't! I check it after breakfast.",
+            "pt": "Não! Olho depois do café."
+          },
+          {
+            "speaker": "Host",
+            "en": "Amazing. I check my phone in bed. I'm not a morning person!",
+            "pt": "Incrível. Eu olho o celular na cama. Não sou uma pessoa matinal!"
+          }
+        ]
+      },
+      "reading": {
+        "title": "A day in the life of a nurse",
+        "text": "My name is Jorge and I'm a nurse in Porto Alegre. I work at night, so my routine is different. I wake up at 2 p.m. and have lunch. Then I go to the gym. After that, I take a shower and get dressed. I leave home at 6 p.m. I start work at 7 p.m. and finish at 7 a.m. I get home at 8 a.m., have a light breakfast and go to bed. It's hard, but I love my job.",
+        "questions": [
+          {
+            "q": "When does Jorge work?",
+            "answer": "At night."
+          },
+          {
+            "q": "What does he do after lunch?",
+            "answer": "He goes to the gym."
+          },
+          {
+            "q": "What time does he leave home?",
+            "answer": "At 6 p.m."
+          },
+          {
+            "q": "What does he do when he gets home?",
+            "answer": "He has a light breakfast and goes to bed."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "fill_blank",
+          "title": "Verbos de rotina",
+          "instruction_pt": "Complete com: wake up, take, brush, leave, go.",
+          "items": [
+            {
+              "prompt": "I ___ my teeth after breakfast.",
+              "answer": "brush"
+            },
+            {
+              "prompt": "I ___ a shower at night.",
+              "answer": "take"
+            },
+            {
+              "prompt": "I ___ at 6, but I get up at 6:15.",
+              "answer": "wake up"
+            },
+            {
+              "prompt": "We ___ home at 8 a.m.",
+              "answer": "leave"
+            },
+            {
+              "prompt": "I ___ to bed at midnight.",
+              "answer": "go"
+            }
+          ],
+          "instruction": "Complete with: wake up, take, brush, leave, go."
+        },
+        {
+          "id": "ex2",
+          "type": "order_words",
+          "title": "Ordene a rotina",
+          "instruction_pt": "Organize as palavras para formar frases.",
+          "items": [
+            {
+              "prompt": "first / coffee / I / drink / ,",
+              "answer": "First, I drink coffee."
+            },
+            {
+              "prompt": "do / time / get up / you / what / ?",
+              "answer": "What time do you get up?"
+            },
+            {
+              "prompt": "that / after / I / get dressed / ,",
+              "answer": "After that, I get dressed."
+            }
+          ],
+          "instruction": "Put the words in order to make sentences."
+        },
+        {
+          "id": "ex3",
+          "type": "true_false",
+          "title": "Leitura",
+          "instruction_pt": "Releia o texto sobre o Jorge e marque True ou False.",
+          "items": [
+            {
+              "prompt": "Jorge works in the morning.",
+              "answer": false
+            },
+            {
+              "prompt": "He wakes up at 2 p.m.",
+              "answer": true
+            },
+            {
+              "prompt": "He finishes work at 7 a.m.",
+              "answer": true
+            },
+            {
+              "prompt": "He hates his job.",
+              "answer": false
+            }
+          ],
+          "instruction": "Read the text about Jorge again. True or False?"
+        },
+        {
+          "id": "ex4",
+          "type": "dictation",
+          "title": "Dictation",
+          "instruction": "Listen and write the sentence.",
+          "instruction_pt": "Ouça e escreva a frase.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "I wake up at six thirty."
+            },
+            {
+              "prompt": "2",
+              "answer": "Then I take a shower."
+            },
+            {
+              "prompt": "3",
+              "answer": "I get home at seven p.m."
+            },
+            {
+              "prompt": "4",
+              "answer": "What time do you go to bed?"
+            }
+          ]
+        },
+        {
+          "id": "ex5",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the mistake.",
+          "instruction_pt": "Encontre e corrija o erro.",
+          "items": [
+            {
+              "prompt": "I take a bath every morning in the shower.",
+              "answer": "I take a shower every morning."
+            },
+            {
+              "prompt": "I arrive in home at 7.",
+              "answer": "I get home at 7. / I arrive home at 7."
+            },
+            {
+              "prompt": "I go to the bed at 11.",
+              "answer": "I go to bed at 11."
+            },
+            {
+              "prompt": "I wake at 6.",
+              "answer": "I wake up at 6."
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "fill_blank",
+          "title": "Complete the text",
+          "instruction": "Complete with: First · Then · After that · Finally.",
+          "instruction_pt": "Complete com os sequenciadores.",
+          "items": [
+            {
+              "prompt": "___, I wake up and check my phone.",
+              "answer": "First"
+            },
+            {
+              "prompt": "___ I take a shower.",
+              "answer": "Then"
+            },
+            {
+              "prompt": "___, I have breakfast.",
+              "answer": "After that"
+            },
+            {
+              "prompt": "___, I leave home at 8.",
+              "answer": "Finally"
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction_pt": "Descreva seu dia típico usando first, then, after that e finally. Depois, entreviste um colega.",
+        "questions": [
+          "What time do you wake up?",
+          "Do you get up right away?",
+          "What do you do before work or class?",
+          "What time do you get home?",
+          "What do you do to relax at night?"
+        ],
+        "instruction": "Describe your typical day using first, then, after that and finally. Then interview a partner."
+      },
+      "writing": {
+        "task_pt": "Escreva \"A day in my life\" (6 a 8 frases) usando sequenciadores.",
+        "model": "I wake up at 6:45. First, I check my messages.\nThen I take a shower and get dressed.\nAfter that, I have coffee and leave home at 7:30.\nI work from 8 to 5. I get home at 6.\nFinally, I watch a series and go to bed at 11.",
+        "task": "Write \"A day in my life\" (6 to 8 sentences) using sequencers."
+      },
+      "culture_note": {
+        "title": "Commute",
+        "text_pt": "**Commute** é o trajeto casa–trabalho. É uma palavra muito usada: \"My commute is 40 minutes.\" Com o home office, surgiu até o termo **\"zero commute\"**. Quem faz esse trajeto é um **commuter**."
+      },
+      "summary_pt": [
+        "Rotina = simple present.",
+        "First → Then → After that → Finally.",
+        "wake up ≠ get up · shower ≠ bath.",
+        "get home / go to bed (sem preposição extra)."
+      ],
+      "listening": {
+        "title": "Vlog: my morning routine",
+        "context_pt": "Uma estudante grava um vlog sobre a rotina da manhã.",
+        "lines": [
+          {
+            "speaker": "Nina",
+            "en": "Hi, guys! This is my morning routine. I wake up at six thirty, but I get up at six forty-five. I love my bed! First, I drink a glass of water. Then I take a shower and get dressed. After that, I have breakfast: coffee and toast. I brush my teeth and I leave home at seven thirty. I take the bus to college. Finally, I check my phone on the bus. See you tomorrow!"
+          }
+        ],
+        "questions": [
+          {
+            "q": "What time does she wake up? (Nina: \"I wake up at...\")",
+            "answer": "At 6:30."
+          },
+          {
+            "q": "What's the first thing she drinks?",
+            "answer": "A glass of water."
+          },
+          {
+            "q": "What's for breakfast?",
+            "answer": "Coffee and toast."
+          },
+          {
+            "q": "When does she check her phone?",
+            "answer": "On the bus."
+          }
+        ]
+      }
+    },
+    {
+      "id": "A1-M2-L3",
+      "title": "How often?",
+      "subtitle_pt": "Advérbios de frequência",
+      "duration_min": 50,
+      "source_refs": [
+        "To Go A1 – Lessons 12, 17 (adverbs of frequency, how often)",
+        "StartUp 1 – Unit 9"
+      ],
+      "objectives": [
+        "Usar always, usually, often, sometimes, rarely, never",
+        "Posicionar o advérbio corretamente na frase",
+        "Perguntar How often...?",
+        "Usar every day, once a week, twice a month"
+      ],
+      "warmup": {
+        "text_pt": "Quantas horas por dia você passa no celular? Confira na função \"tempo de tela\". O número te surpreende?",
+        "questions": [
+          "Do you exercise every day?",
+          "How often do you eat fast food?"
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "always",
+          "pt": "sempre (100%)",
+          "say": "ólueiz"
+        },
+        {
+          "en": "usually",
+          "pt": "geralmente (90%)",
+          "say": "iújuali"
+        },
+        {
+          "en": "often",
+          "pt": "frequentemente (70%)",
+          "say": "ófen"
+        },
+        {
+          "en": "sometimes",
+          "pt": "às vezes (50%)",
+          "say": "sâmtaimz"
+        },
+        {
+          "en": "rarely / seldom",
+          "pt": "raramente (10%)",
+          "say": "rérli / séldom"
+        },
+        {
+          "en": "never",
+          "pt": "nunca (0%)",
+          "say": "néver"
+        },
+        {
+          "en": "every day / every week",
+          "pt": "todo dia / toda semana",
+          "say": "évri dêi / évri uík"
+        },
+        {
+          "en": "once a week",
+          "pt": "uma vez por semana",
+          "say": "uâns a uík"
+        },
+        {
+          "en": "twice a month",
+          "pt": "duas vezes por mês",
+          "say": "tuáis a mânθ"
+        },
+        {
+          "en": "three times a year",
+          "pt": "três vezes por ano",
+          "say": "θrí táimz a iír"
+        },
+        {
+          "en": "screen time",
+          "pt": "tempo de tela",
+          "say": "skrín táim"
+        },
+        {
+          "en": "habit",
+          "pt": "hábito",
+          "say": "rébit"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "How often do you go to the gym?",
+          "pt": "Com que frequência você vai à academia?"
+        },
+        {
+          "en": "I go twice a week.",
+          "pt": "Vou duas vezes por semana."
+        },
+        {
+          "en": "I almost never cook.",
+          "pt": "Quase nunca cozinho."
+        },
+        {
+          "en": "I'm always late!",
+          "pt": "Estou sempre atrasado!"
+        },
+        {
+          "en": "Not very often.",
+          "pt": "Não com muita frequência."
+        }
+      ],
+      "grammar": {
+        "title": "Adverbs of frequency: posição na frase",
+        "explanation_pt": "Os advérbios de frequência têm uma posição especial:\n\n1. **Antes do verbo principal:** I **always** drink coffee. / We **never** eat meat.\n2. **Depois do verbo to be:** I'm **always** late. / She's **never** tired.\n3. Na negativa e pergunta, **depois do auxiliar**: I don't **usually** cook. / Do you **often** travel?\n\nExpressões como **every day, once a week, twice a month** vão **no final** da frase: I go running **three times a week**.\n\nPara perguntar: **How often do you...?**",
+        "table": {
+          "headers": [
+            "Estrutura",
+            "Exemplo"
+          ],
+          "rows": [
+            [
+              "sujeito + advérbio + verbo",
+              "I usually work from home."
+            ],
+            [
+              "sujeito + be + advérbio",
+              "He is often busy."
+            ],
+            [
+              "sujeito + don't + advérbio + verbo",
+              "We don't often go out."
+            ],
+            [
+              "... + expressão de tempo",
+              "I call my mom every day."
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "I always check my phone in bed.",
+            "pt": "Sempre olho o celular na cama."
+          },
+          {
+            "en": "She's never late for meetings.",
+            "pt": "Ela nunca se atrasa para reuniões."
+          },
+          {
+            "en": "How often do you order food? About twice a week.",
+            "pt": "Com que frequência você pede comida? Umas duas vezes por semana."
+          }
+        ],
+        "tip_pt": "**Never** já é negativo. Não use com don't: \"I **never** smoke\" (e não \"I don't never smoke\")."
+      },
+      "common_mistakes": [
+        {
+          "wrong": "I go always to the gym.",
+          "right": "I always go to the gym.",
+          "why_pt": "O advérbio vem antes do verbo principal."
+        },
+        {
+          "wrong": "I don't never eat sushi.",
+          "right": "I never eat sushi.",
+          "why_pt": "Inglês não aceita negação dupla."
+        },
+        {
+          "wrong": "two times a week",
+          "right": "twice a week",
+          "why_pt": "Two times existe, mas twice é muito mais natural. Para uma vez: once."
+        }
+      ],
+      "pronunciation": {
+        "focus": "Often e usually",
+        "tip_pt": "**Often**: o T normalmente é mudo — \"ófen\". **Usually**: são 3 ou 4 sílabas rápidas, \"IÚ-ju-a-li\", com força no começo. O \"s\" soa como o \"j\" de \"já\".",
+        "practice": [
+          "often = \"ófen\"",
+          "usually = \"IÚ-ju-a-li\"",
+          "I usually wake up early, but I often feel tired."
+        ]
+      },
+      "dialogue": {
+        "title": "Healthy habits app",
+        "context_pt": "Um app de saúde faz perguntas para criar o plano personalizado de Rafael.",
+        "lines": [
+          {
+            "speaker": "App",
+            "en": "Hi, Rafael! How often do you exercise?",
+            "pt": "Oi, Rafael! Com que frequência você se exercita?"
+          },
+          {
+            "speaker": "Rafael",
+            "en": "I go running twice a week. Sometimes three times.",
+            "pt": "Corro duas vezes por semana. Às vezes três."
+          },
+          {
+            "speaker": "App",
+            "en": "Great! How many hours do you usually sleep?",
+            "pt": "Ótimo! Quantas horas você geralmente dorme?"
+          },
+          {
+            "speaker": "Rafael",
+            "en": "About six. I always go to bed late.",
+            "pt": "Umas seis. Sempre vou dormir tarde."
+          },
+          {
+            "speaker": "App",
+            "en": "Do you often eat vegetables?",
+            "pt": "Você come legumes com frequência?"
+          },
+          {
+            "speaker": "Rafael",
+            "en": "Not very often. I rarely cook.",
+            "pt": "Não muito. Raramente cozinho."
+          },
+          {
+            "speaker": "App",
+            "en": "Thanks! Your plan: sleep more and eat vegetables every day! 🥦",
+            "pt": "Obrigado! Seu plano: dormir mais e comer legumes todo dia! 🥦"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Digital habits",
+        "text": "A recent survey shows that Brazilians are among the people who spend the most time online in the world: around 9 hours a day! Most people always check their phone in the first 10 minutes of the day. Many people often use social media during meals, and some people never turn off notifications. Experts say we should sometimes take a \"digital detox\": a day, or a few hours, without screens.",
+        "questions": [
+          {
+            "q": "How many hours a day do Brazilians spend online?",
+            "answer": "Around 9 hours."
+          },
+          {
+            "q": "What do most people always do in the first 10 minutes of the day?",
+            "answer": "They check their phone."
+          },
+          {
+            "q": "What is a digital detox?",
+            "answer": "A day, or a few hours, without screens."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "order_words",
+          "title": "Posição do advérbio",
+          "instruction_pt": "Coloque o advérbio no lugar certo.",
+          "items": [
+            {
+              "prompt": "I drink coffee. (always)",
+              "answer": "I always drink coffee."
+            },
+            {
+              "prompt": "She is late. (never)",
+              "answer": "She is never late."
+            },
+            {
+              "prompt": "We eat out. (sometimes)",
+              "answer": "We sometimes eat out."
+            },
+            {
+              "prompt": "Do you work on weekends? (usually)",
+              "answer": "Do you usually work on weekends?"
+            },
+            {
+              "prompt": "They are busy. (often)",
+              "answer": "They are often busy."
+            }
+          ],
+          "instruction": "Put the adverb in the correct place."
+        },
+        {
+          "id": "ex2",
+          "type": "translate",
+          "title": "Frequência",
+          "instruction_pt": "Traduza para o inglês.",
+          "items": [
+            {
+              "prompt": "uma vez por semana",
+              "answer": "once a week"
+            },
+            {
+              "prompt": "duas vezes por mês",
+              "answer": "twice a month"
+            },
+            {
+              "prompt": "todo dia",
+              "answer": "every day"
+            },
+            {
+              "prompt": "Com que frequência você viaja?",
+              "answer": "How often do you travel?"
+            }
+          ],
+          "instruction": "Translate into English."
+        },
+        {
+          "id": "ex3",
+          "type": "multiple_choice",
+          "title": "Escolha a correta",
+          "instruction_pt": "Escolha a frase correta.",
+          "items": [
+            {
+              "prompt": "Nunca como carne.",
+              "options": [
+                "I don't never eat meat.",
+                "I never eat meat.",
+                "I eat never meat."
+              ],
+              "answer": "I never eat meat."
+            },
+            {
+              "prompt": "Ele está sempre feliz.",
+              "options": [
+                "He always is happy.",
+                "He is always happy.",
+                "He is happy always."
+              ],
+              "answer": "He is always happy."
+            },
+            {
+              "prompt": "Vou à academia duas vezes por semana.",
+              "options": [
+                "I go to the gym twice a week.",
+                "I twice a week go to the gym.",
+                "I go twice to the gym in week."
+              ],
+              "answer": "I go to the gym twice a week."
+            }
+          ],
+          "instruction": "Choose the correct sentence."
+        },
+        {
+          "id": "ex4",
+          "type": "dictation",
+          "title": "Dictation",
+          "instruction": "Listen and write the sentence.",
+          "instruction_pt": "Ouça e escreva a frase.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "I always check my phone in bed."
+            },
+            {
+              "prompt": "2",
+              "answer": "I go to the gym twice a week."
+            },
+            {
+              "prompt": "3",
+              "answer": "I'm never late."
+            },
+            {
+              "prompt": "4",
+              "answer": "How often do you travel?"
+            }
+          ]
+        },
+        {
+          "id": "ex5",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the mistake.",
+          "instruction_pt": "Encontre e corrija o erro.",
+          "items": [
+            {
+              "prompt": "I go always to the beach.",
+              "answer": "I always go to the beach."
+            },
+            {
+              "prompt": "I don't never drink soda.",
+              "answer": "I never drink soda."
+            },
+            {
+              "prompt": "I always am tired.",
+              "answer": "I'm always tired."
+            },
+            {
+              "prompt": "I run two times in a week.",
+              "answer": "I run twice a week."
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "fill_blank",
+          "title": "Complete the dialogue",
+          "instruction": "Complete with: often · usually · once · never · every.",
+          "instruction_pt": "Complete o diálogo.",
+          "items": [
+            {
+              "prompt": "A: How ___ do you cook?",
+              "answer": "often"
+            },
+            {
+              "prompt": "B: I ___ cook on weekends, but I rarely cook on weekdays.",
+              "answer": "usually"
+            },
+            {
+              "prompt": "A: Do you eat fast food? — B: Only ___ a month.",
+              "answer": "once"
+            },
+            {
+              "prompt": "A: I eat fruit ___ day. — B: Really? I ___ eat fruit!",
+              "answer": "every / never"
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction_pt": "Responda com um advérbio ou expressão de frequência e dê um detalhe extra.",
+        "questions": [
+          "How often do you check social media?",
+          "How often do you exercise?",
+          "Are you usually on time?",
+          "What do you never do on weekends?",
+          "How often do you travel?"
+        ],
+        "instruction": "Answer with an adverb or expression of frequency and give an extra detail."
+      },
+      "writing": {
+        "task_pt": "Escreva sobre seus hábitos digitais e de saúde (5 frases), usando pelo menos 4 advérbios diferentes.",
+        "model": "I always check my phone when I wake up.\nI usually spend 5 hours a day online.\nI sometimes turn off notifications at night.\nI go to the gym three times a week.\nI never drink soda.",
+        "task": "Write about your digital and health habits (5 sentences), using at least 4 different adverbs."
+      },
+      "culture_note": {
+        "title": "Digital detox",
+        "text_pt": "**Digital detox** virou tendência mundial. Termos relacionados: **screen time** (tempo de tela), **doomscrolling** (rolar notícias ruins sem parar) e **FOMO** (Fear Of Missing Out — medo de ficar de fora)."
+      },
+      "summary_pt": [
+        "always > usually > often > sometimes > rarely > never.",
+        "Advérbio antes do verbo principal, depois do to be.",
+        "once, twice, three times a week (no final).",
+        "How often...? = Com que frequência...?"
+      ],
+      "listening": {
+        "title": "Street survey: screen time",
+        "context_pt": "Um repórter entrevista pessoas na rua sobre o uso do celular.",
+        "lines": [
+          {
+            "speaker": "Reporter",
+            "en": "Excuse me! How often do you check your phone?"
+          },
+          {
+            "speaker": "Man",
+            "en": "Oh, all the time! I always check it in bed. And I usually use it at lunch."
+          },
+          {
+            "speaker": "Reporter",
+            "en": "Do you ever turn it off?"
+          },
+          {
+            "speaker": "Man",
+            "en": "Never! Well... sometimes at the movies."
+          },
+          {
+            "speaker": "Reporter",
+            "en": "And you, ma'am?"
+          },
+          {
+            "speaker": "Woman",
+            "en": "I rarely use social media. I check my messages twice a day, in the morning and at night. I never use my phone at dinner."
+          }
+        ],
+        "questions": [
+          {
+            "q": "Man: phone in bed — always, sometimes or never?",
+            "answer": "Always."
+          },
+          {
+            "q": "Man: when is the phone off, sometimes?",
+            "answer": "At the movies."
+          },
+          {
+            "q": "Woman: how often are messages checked?",
+            "answer": "Twice a day (in the morning and at night)."
+          },
+          {
+            "q": "Woman: phone at dinner?",
+            "answer": "Never."
+          }
+        ]
+      }
+    },
+    {
+      "id": "A1-M2-L4",
+      "title": "Work or study?",
+      "subtitle_pt": "Wh- questions: what, where, when, who, why",
+      "duration_min": 55,
+      "source_refs": [
+        "To Go A1 – Lessons 6, 9, 12 (question words, work/study)",
+        "To Go A1 – Questions TG"
+      ],
+      "objectives": [
+        "Fazer perguntas com what, where, when, who, why e how",
+        "Responder perguntas com informações completas",
+        "Falar sobre trabalho e estudo",
+        "Usar because para justificar"
+      ],
+      "warmup": {
+        "text_pt": "Se você pudesse fazer só 3 perguntas para alguém que acabou de conhecer, quais seriam?",
+        "questions": [
+          "Do you work or study?",
+          "Why do you study English?"
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "What",
+          "pt": "O que / Qual",
+          "say": "uót"
+        },
+        {
+          "en": "Where",
+          "pt": "Onde",
+          "say": "uér"
+        },
+        {
+          "en": "When",
+          "pt": "Quando",
+          "say": "uén"
+        },
+        {
+          "en": "Who",
+          "pt": "Quem",
+          "say": "rú"
+        },
+        {
+          "en": "Why",
+          "pt": "Por que",
+          "say": "uái"
+        },
+        {
+          "en": "How",
+          "pt": "Como",
+          "say": "ráu"
+        },
+        {
+          "en": "because",
+          "pt": "porque (resposta)",
+          "say": "bikóz"
+        },
+        {
+          "en": "college / university",
+          "pt": "faculdade / universidade",
+          "say": "kóledj / iunivârsiti"
+        },
+        {
+          "en": "course / degree",
+          "pt": "curso / diploma",
+          "say": "kórs / digrí"
+        },
+        {
+          "en": "office",
+          "pt": "escritório",
+          "say": "ófis"
+        },
+        {
+          "en": "remote / hybrid",
+          "pt": "remoto / híbrido",
+          "say": "rimôut / ráibrid"
+        },
+        {
+          "en": "boss / manager",
+          "pt": "chefe / gerente",
+          "say": "bós / ménedjer"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "Where do you work?",
+          "pt": "Onde você trabalha?"
+        },
+        {
+          "en": "What do you study?",
+          "pt": "O que você estuda?"
+        },
+        {
+          "en": "Why do you study English?",
+          "pt": "Por que você estuda inglês?"
+        },
+        {
+          "en": "Because I want to travel.",
+          "pt": "Porque eu quero viajar."
+        },
+        {
+          "en": "Who do you live with?",
+          "pt": "Com quem você mora?"
+        },
+        {
+          "en": "How do you like your job?",
+          "pt": "O que você acha do seu trabalho?"
+        }
+      ],
+      "grammar": {
+        "title": "Wh- questions no simple present",
+        "explanation_pt": "Para fazer perguntas com **question words**, use a fórmula:\n\n**Question word + do + sujeito + verbo + ...?**\n\n- **Where** do you work?\n- **What** do you study?\n- **When** do you have English class?\n\nCom o **verbo to be**, não use do: **Where** are you from? **What** is your name?\n\n**Why x because:** a pergunta é com **why** (por que); a resposta é com **because** (porque). Em português é quase a mesma palavra, em inglês são duas diferentes.",
+        "table": {
+          "headers": [
+            "Question word",
+            "do",
+            "Sujeito",
+            "Verbo",
+            "Resposta"
+          ],
+          "rows": [
+            [
+              "Where",
+              "do",
+              "you",
+              "live?",
+              "I live in Recife."
+            ],
+            [
+              "What",
+              "do",
+              "you",
+              "do?",
+              "I'm a lawyer."
+            ],
+            [
+              "When",
+              "do",
+              "they",
+              "study?",
+              "At night."
+            ],
+            [
+              "Why",
+              "do",
+              "you",
+              "study English?",
+              "Because I need it for work."
+            ],
+            [
+              "Who",
+              "do",
+              "you",
+              "work with?",
+              "With my brother."
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "Where do you work? I work remotely for a company in Portugal.",
+            "pt": "Onde você trabalha? Trabalho remotamente para uma empresa em Portugal."
+          },
+          {
+            "en": "What do you study? I study nursing.",
+            "pt": "O que você estuda? Estudo enfermagem."
+          },
+          {
+            "en": "Why do you work at night? Because I study in the morning.",
+            "pt": "Por que você trabalha à noite? Porque estudo de manhã."
+          }
+        ],
+        "tip_pt": "**What** + substantivo é \"qual\": **What** time? **What** course? **What** company?"
+      },
+      "common_mistakes": [
+        {
+          "wrong": "Where you work?",
+          "right": "Where do you work?",
+          "why_pt": "Wh- questions no presente precisam de do."
+        },
+        {
+          "wrong": "Where do you are from?",
+          "right": "Where are you from?",
+          "why_pt": "Com o verbo to be não se usa do."
+        },
+        {
+          "wrong": "Why you study English? — Why I want to travel.",
+          "right": "Why do you study English? — Because I want to travel.",
+          "why_pt": "Why pergunta, because responde."
+        }
+      ],
+      "pronunciation": {
+        "focus": "Entonação das Wh- questions",
+        "tip_pt": "Diferente das perguntas de sim/não, as perguntas com **wh-** terminam com a voz **descendo**: \"Where do you work? ↘\". Já \"Do you work? ↗\" sobe. Isso deixa sua fala mais natural.",
+        "practice": [
+          "Where do you live? ↘",
+          "Do you live here? ↗",
+          "What do you do? ↘"
+        ]
+      },
+      "dialogue": {
+        "title": "Study abroad interview",
+        "context_pt": "Camila faz uma entrevista online para um programa de intercâmbio no Canadá.",
+        "lines": [
+          {
+            "speaker": "Interviewer",
+            "en": "Good afternoon, Camila. Where are you from?",
+            "pt": "Boa tarde, Camila. De onde você é?"
+          },
+          {
+            "speaker": "Camila",
+            "en": "Good afternoon! I'm from Fortaleza, Brazil.",
+            "pt": "Boa tarde! Sou de Fortaleza, Brasil."
+          },
+          {
+            "speaker": "Interviewer",
+            "en": "Do you work or study?",
+            "pt": "Você trabalha ou estuda?"
+          },
+          {
+            "speaker": "Camila",
+            "en": "Both. I study marketing at university, and I work part-time at an agency.",
+            "pt": "Os dois. Estudo marketing na faculdade e trabalho meio período numa agência."
+          },
+          {
+            "speaker": "Interviewer",
+            "en": "When do you study?",
+            "pt": "Quando você estuda?"
+          },
+          {
+            "speaker": "Camila",
+            "en": "In the morning. I work in the afternoon.",
+            "pt": "De manhã. Trabalho à tarde."
+          },
+          {
+            "speaker": "Interviewer",
+            "en": "And why do you want to study in Canada?",
+            "pt": "E por que você quer estudar no Canadá?"
+          },
+          {
+            "speaker": "Camila",
+            "en": "Because I want to improve my English and learn about international marketing.",
+            "pt": "Porque quero melhorar meu inglês e aprender sobre marketing internacional."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Remote work: the new normal?",
+        "text": "Remote work is very common today. Many people work from home two or three days a week — this is called hybrid work. Why do people like it? Because they save time and money on their commute. But there are problems, too: some people feel lonely, and some people work too many hours. Where do remote workers work? At home, in coffee shops, in coworking spaces — and some travel the world as \"digital nomads\".",
+        "questions": [
+          {
+            "q": "What is hybrid work?",
+            "answer": "Working from home two or three days a week (and in the office on other days)."
+          },
+          {
+            "q": "Why do people like remote work?",
+            "answer": "Because they save time and money on their commute."
+          },
+          {
+            "q": "What are two problems of remote work?",
+            "answer": "Some people feel lonely and some work too many hours."
+          },
+          {
+            "q": "Where do remote workers work?",
+            "answer": "At home, in coffee shops, in coworking spaces, or traveling."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "fill_blank",
+          "title": "Question words",
+          "instruction_pt": "Complete com what, where, when, who, why ou how.",
+          "items": [
+            {
+              "prompt": "___ do you live? — In Belo Horizonte.",
+              "answer": "Where"
+            },
+            {
+              "prompt": "___ do you live with? — With my sister.",
+              "answer": "Who"
+            },
+            {
+              "prompt": "___ do you study? — Engineering.",
+              "answer": "What"
+            },
+            {
+              "prompt": "___ do you have class? — On Mondays.",
+              "answer": "When"
+            },
+            {
+              "prompt": "___ do you work at night? — Because it pays more.",
+              "answer": "Why"
+            }
+          ],
+          "instruction": "Complete with what, where, when, who, why or how."
+        },
+        {
+          "id": "ex2",
+          "type": "order_words",
+          "title": "Monte a pergunta",
+          "instruction_pt": "Organize as palavras para formar perguntas.",
+          "items": [
+            {
+              "prompt": "do / where / work / you / ?",
+              "answer": "Where do you work?"
+            },
+            {
+              "prompt": "from / are / where / you / ?",
+              "answer": "Where are you from?"
+            },
+            {
+              "prompt": "English / why / study / you / do / ?",
+              "answer": "Why do you study English?"
+            },
+            {
+              "prompt": "do / when / you / the gym / go to / ?",
+              "answer": "When do you go to the gym?"
+            }
+          ],
+          "instruction": "Put the words in order to make questions."
+        },
+        {
+          "id": "ex3",
+          "type": "answer",
+          "title": "Escreva a pergunta",
+          "instruction_pt": "Escreva a pergunta para a resposta sublinhada (em CAPS).",
+          "items": [
+            {
+              "prompt": "I work IN AN OFFICE.",
+              "answer": "Where do you work?"
+            },
+            {
+              "prompt": "I study AT NIGHT.",
+              "answer": "When do you study?"
+            },
+            {
+              "prompt": "I'm a DESIGNER.",
+              "answer": "What do you do?"
+            },
+            {
+              "prompt": "I study English BECAUSE I WANT TO TRAVEL.",
+              "answer": "Why do you study English?"
+            }
+          ],
+          "instruction": "Write the question for the answer in CAPS."
+        },
+        {
+          "id": "ex4",
+          "type": "dictation",
+          "title": "Dictation",
+          "instruction": "Listen and write the question.",
+          "instruction_pt": "Ouça e escreva a pergunta.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "Where do you work?"
+            },
+            {
+              "prompt": "2",
+              "answer": "What do you study?"
+            },
+            {
+              "prompt": "3",
+              "answer": "Who do you live with?"
+            },
+            {
+              "prompt": "4",
+              "answer": "Why do you study English?"
+            }
+          ]
+        },
+        {
+          "id": "ex5",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the mistake.",
+          "instruction_pt": "Encontre e corrija o erro.",
+          "items": [
+            {
+              "prompt": "Where you live?",
+              "answer": "Where do you live?"
+            },
+            {
+              "prompt": "Where do you are from?",
+              "answer": "Where are you from?"
+            },
+            {
+              "prompt": "Why I need it for work.",
+              "answer": "Because I need it for work."
+            },
+            {
+              "prompt": "What you do on Sundays?",
+              "answer": "What do you do on Sundays?"
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "fill_blank",
+          "title": "Complete the dialogue",
+          "instruction": "Complete with question words or because.",
+          "instruction_pt": "Complete com question words ou because.",
+          "items": [
+            {
+              "prompt": "A: ___ do you study? — B: At a university in Recife.",
+              "answer": "Where"
+            },
+            {
+              "prompt": "A: ___ do you study? — B: Law.",
+              "answer": "What"
+            },
+            {
+              "prompt": "A: ___ do you have classes? — B: In the evening.",
+              "answer": "When"
+            },
+            {
+              "prompt": "A: ___ in the evening? — B: ___ I work during the day.",
+              "answer": "Why / Because"
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction_pt": "Entreviste um colega como se fosse para um intercâmbio ou vaga de emprego. Faça follow-up questions (perguntas de continuação).",
+        "questions": [
+          "Do you work or study?",
+          "Where do you work/study?",
+          "What do you like about it?",
+          "Who do you work or study with?",
+          "Why do you study English?",
+          "When do you practice English?"
+        ],
+        "instruction": "Interview a partner for an exchange program or a job. Ask follow-up questions."
+      },
+      "writing": {
+        "task_pt": "Responda o formulário de inscrição para um programa de intercâmbio (5 respostas completas).",
+        "model": "Where are you from? I'm from Manaus, Brazil.\nDo you work or study? I work. I'm a nurse.\nWhere do you work? I work at a public hospital.\nWhy do you want to study abroad? Because I want to improve my English and work in Canada.",
+        "task": "Answer the application form for an exchange program (5 complete answers)."
+      },
+      "culture_note": {
+        "title": "Small talk ou entrevista?",
+        "text_pt": "Em conversas casuais, perguntas como \"Where do you work?\" são normais. Mas evite perguntar idade, religião, salário ou estado civil para quem acabou de conhecer — em muitos países de língua inglesa isso soa invasivo, especialmente no trabalho."
+      },
+      "summary_pt": [
+        "Wh- + do + sujeito + verbo?",
+        "Com to be, sem do: Where are you from?",
+        "Why pergunta, because responde.",
+        "Wh- questions: voz desce no final ↘."
+      ],
+      "listening": {
+        "title": "Job interview call",
+        "context_pt": "Uma recrutadora faz perguntas rápidas a um candidato por telefone.",
+        "lines": [
+          {
+            "speaker": "Recruiter",
+            "en": "Hi, André. Thanks for your time. Where do you live?"
+          },
+          {
+            "speaker": "André",
+            "en": "I live in Campinas, near São Paulo."
+          },
+          {
+            "speaker": "Recruiter",
+            "en": "And what do you do now?"
+          },
+          {
+            "speaker": "André",
+            "en": "I'm a developer. I work remotely for a small company."
+          },
+          {
+            "speaker": "Recruiter",
+            "en": "Why do you want this job?"
+          },
+          {
+            "speaker": "André",
+            "en": "Because I want to work with an international team and use my English every day."
+          },
+          {
+            "speaker": "Recruiter",
+            "en": "Great. When can we have a video interview?"
+          },
+          {
+            "speaker": "André",
+            "en": "Any day after 5 p.m. Mondays and Wednesdays are best."
+          }
+        ],
+        "questions": [
+          {
+            "q": "Where is André's home?",
+            "answer": "In Campinas, near São Paulo."
+          },
+          {
+            "q": "What's his job?",
+            "answer": "He's a developer (he works remotely)."
+          },
+          {
+            "q": "Why this job?",
+            "answer": "Because he wants to work with an international team and use English every day."
+          },
+          {
+            "q": "What are the best days for the interview?",
+            "answer": "Mondays and Wednesdays (after 5 p.m.)."
+          }
+        ]
+      }
+    }
+  ],
+  "review": {
+    "intro_pt": "Revise horas, rotina, frequência e perguntas.",
+    "exercises": [
+      {
+        "id": "r1",
+        "type": "multiple_choice",
+        "title": "Escolha a correta",
+        "instruction_pt": "Escolha a opção correta.",
+        "items": [
+          {
+            "prompt": "The meeting is ___ Monday ___ 10 a.m.",
+            "options": [
+              "on / at",
+              "in / at",
+              "at / on"
+            ],
+            "answer": "on / at"
+          },
+          {
+            "prompt": "I ___ late.",
+            "options": [
+              "am always",
+              "always am",
+              "always"
+            ],
+            "answer": "am always"
+          },
+          {
+            "prompt": "___ do you live?",
+            "options": [
+              "What",
+              "Where",
+              "Who"
+            ],
+            "answer": "Where"
+          },
+          {
+            "prompt": "I take a ___ every morning.",
+            "options": [
+              "bath",
+              "shower",
+              "shave"
+            ],
+            "answer": "shower"
+          },
+          {
+            "prompt": "I go to the gym ___.",
+            "options": [
+              "two times week",
+              "twice a week",
+              "twice for week"
+            ],
+            "answer": "twice a week"
+          }
+        ],
+        "instruction": "Choose the correct option."
+      },
+      {
+        "id": "r2",
+        "type": "answer",
+        "title": "Horas",
+        "instruction_pt": "Escreva as horas.",
+        "items": [
+          {
+            "prompt": "7:30",
+            "answer": "seven thirty / half past seven"
+          },
+          {
+            "prompt": "11:45",
+            "answer": "eleven forty-five / quarter to twelve"
+          },
+          {
+            "prompt": "3:15",
+            "answer": "three fifteen / quarter past three"
+          }
+        ],
+        "instruction": "Write the time."
+      },
+      {
+        "id": "r3",
+        "type": "translate",
+        "title": "Traduza",
+        "instruction_pt": "Traduza para o inglês.",
+        "items": [
+          {
+            "prompt": "Que horas você acorda?",
+            "answer": "What time do you wake up?"
+          },
+          {
+            "prompt": "Primeiro, tomo café. Depois, escovo os dentes.",
+            "answer": "First, I have breakfast. Then I brush my teeth."
+          },
+          {
+            "prompt": "Eu raramente cozinho.",
+            "answer": "I rarely cook."
+          },
+          {
+            "prompt": "Por que você estuda inglês? Porque preciso para o trabalho.",
+            "answer": "Why do you study English? Because I need it for work."
+          }
+        ],
+        "instruction": "Translate into English."
+      },
+      {
+        "id": "r4",
+        "type": "dictation",
+        "title": "Dictation",
+        "instruction": "Listen and write the sentence.",
+        "instruction_pt": "Ouça e escreva a frase.",
+        "items": [
+          {
+            "prompt": "1",
+            "answer": "I usually get up at seven."
+          },
+          {
+            "prompt": "2",
+            "answer": "The meeting is on Monday at ten."
+          },
+          {
+            "prompt": "3",
+            "answer": "Where do you work?"
+          }
+        ]
+      },
+      {
+        "id": "r5",
+        "type": "correct_error",
+        "title": "Fix the mistake",
+        "instruction": "Find and correct the mistake.",
+        "instruction_pt": "Encontre e corrija o erro.",
+        "items": [
+          {
+            "prompt": "I go never to the gym.",
+            "answer": "I never go to the gym."
+          },
+          {
+            "prompt": "What time you wake up?",
+            "answer": "What time do you wake up?"
+          },
+          {
+            "prompt": "I work in the night.",
+            "answer": "I work at night."
+          }
+        ]
+      }
+    ],
+    "speaking_pt": "Grave \"A day in my life\" (1 a 2 minutos): sua rotina de um dia de semana, com horários e frequências.",
+    "speaking_questions": [
+      "What time do you wake up and go to bed?",
+      "What do you do in the morning?",
+      "How often do you exercise?",
+      "Where do you work or study?",
+      "What do you usually do on weekends?"
+    ],
+    "project_pt": "**My week planner:** crie uma agenda semanal em inglês (pode ser no Notion, Google Agenda ou papel) com seus compromissos, horários e hábitos. Apresente-a em 1 minuto."
+  }
+}

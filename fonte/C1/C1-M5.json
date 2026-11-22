@@ -1,0 +1,526 @@
+{
+  "id": "C1-M5",
+  "level": "C1",
+  "title": "Global Issues",
+  "theme_pt": "Clima, migração, desinformação e escrita discursiva",
+  "can_do": ["Falar do futuro com formas formais (be set to, be on the verge of, be due to)", "Usar multi-word verbs com sentido abstrato", "Relatar informações com distanciamento", "Escrever um ensaio discursivo C1 coeso"],
+  "lessons": [
+    {
+      "id": "C1-M5-L1",
+      "title": "Climate crossroads",
+      "subtitle_pt": "Futuro formal: be set to, be on the verge of, be due to, be poised to, is to",
+      "duration_min": 80,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – C1 (future forms: formal and journalistic)", "Cambridge C1 Advanced – Reading and Use of English Part 4"],
+      "objectives": ["Usar be set to / be poised to / be expected to para previsões jornalísticas", "Usar be on the verge / point / brink of para algo iminente", "Usar be due to e be (about) to para horários e iminência", "Usar is/are to + verbo para planos oficiais e instruções"],
+      "warmup": {
+        "text_pt": "Manchetes em inglês raramente usam \"will\". Em vez disso: \"Emissions **set to** rise\", \"Species **on the brink of** extinction\", \"President **to** visit Brazil\". No C1, você precisa entender e usar essas formas para ler notícias e escrever com precisão. Tema: **o futuro do clima**.",
+        "questions": ["How has the climate changed in your city or region during your lifetime?", "Are you optimistic or pessimistic about the future of the planet?"]
+      },
+      "vocabulary": [
+        {"en": "emissions / to emit", "pt": "emissões / emitir", "say": "imíshanz / tu imít"},
+        {"en": "renewable energy / renewables", "pt": "energia renovável / renováveis", "say": "riniúabol énerdji"},
+        {"en": "fossil fuels", "pt": "combustíveis fósseis", "say": "fósol fiúolz"},
+        {"en": "deforestation", "pt": "desmatamento", "say": "diforestêishan"},
+        {"en": "a tipping point", "pt": "um ponto de não retorno", "say": "a típin póint"},
+        {"en": "extreme weather events", "pt": "eventos climáticos extremos", "say": "ekstrím uéder ivénts"},
+        {"en": "to mitigate / mitigation", "pt": "mitigar / mitigação", "say": "tu mítigueit"},
+        {"en": "to adapt / adaptation", "pt": "adaptar-se / adaptação", "say": "tu adépt / adaptêishan"},
+        {"en": "net zero", "pt": "emissões líquidas zero", "say": "nét zírou"},
+        {"en": "a carbon footprint", "pt": "uma pegada de carbono", "say": "a kárbon fútprint"},
+        {"en": "drought / flooding", "pt": "seca / enchentes", "say": "dráut / flâdin"},
+        {"en": "to phase out", "pt": "eliminar gradualmente", "say": "tu fêiz áut"}
+      ],
+      "chunks": [
+        {"en": "Global temperatures are set to rise further.", "pt": "As temperaturas globais devem subir ainda mais."},
+        {"en": "The species is on the verge of extinction.", "pt": "A espécie está à beira da extinção."},
+        {"en": "The report is due to be published next week.", "pt": "O relatório deve ser publicado na semana que vem."},
+        {"en": "The government is poised to announce new targets.", "pt": "O governo está prestes a anunciar novas metas."},
+        {"en": "The summit is to be held in Belém.", "pt": "A cúpula será realizada em Belém."},
+        {"en": "We were about to leave when the storm hit.", "pt": "Estávamos prestes a sair quando a tempestade chegou."}
+      ],
+      "grammar": {
+        "title": "Formal future forms",
+        "explanation_pt": "**1. Previsões (jornalismo, relatórios):**\n- **be set to** + verbo: muito provável, já encaminhado — \"Renewables **are set to** overtake coal.\"\n- **be expected / likely / predicted to**: \"Temperatures **are expected to** rise by...\"\n- **be poised to**: pronto para agir, prestes a — \"The country **is poised to** become a leader in green hydrogen.\"\n- **be bound to**: certeza (revisão C1-M2)\n\n**2. Iminência:**\n- **be about to** + verbo: prestes a (muito em breve) — \"The meeting **is about to** start.\"\n- **be on the verge / point / brink of** + substantivo ou -ing: à beira de\n  \"on the **verge of** a breakthrough\" / \"on the **point of** leaving\" / \"on the **brink of** extinction\" (brink = algo negativo, catastrófico)\n\n**3. Horários e cronogramas:**\n- **be due to** + verbo / **be due** + tempo: previsto para — \"The report **is due to** be published in May.\" / \"The train **is due** at 5.\"\n\n**4. be to + verbo** (formal): planos oficiais, ordens, instruções, destino\n- Plano oficial: \"The summit **is to be held** in Belém.\" / \"The president **is to visit** the Amazon.\"\n- Ordem/instrução: \"You **are to report** to the director immediately.\" / \"All staff **are not to** leave the building.\"\n- Em condicionais: \"If we **are to** meet our targets, we must act now.\" (= se quisermos)\n- Passado (destino): \"He **was** never **to** see his homeland again.\" (nunca mais veria)\n\n**5. Futuro no passado** (revisão): was going to / was about to / was to have + pp (plano frustrado: \"The bridge **was to have opened** in 2020.\")\n\n**Manchetes:** omitem o **be**: \"Emissions **set to** fall\" / \"PM **to** resign\" / \"Species **on brink of** extinction\".",
+        "table": {
+          "headers": ["Forma", "Sentido", "Exemplo"],
+          "rows": [["be set to", "muito provável", "Prices are set to rise."], ["be poised to", "pronto para", "Brazil is poised to lead."], ["be about to", "prestes a", "The film is about to start."], ["be on the verge/brink of", "à beira de", "on the brink of collapse"], ["be due to", "previsto para", "The plane is due to land at 8."], ["be to + verbo", "plano oficial / ordem", "The minister is to resign."], ["If... be to", "se quisermos", "If we are to succeed, ..."]]
+        },
+        "examples": [
+          {"en": "Solar energy is set to become one of the main sources of electricity in Brazil within the next decade.", "pt": "A energia solar deve se tornar uma das principais fontes de eletricidade do Brasil na próxima década."},
+          {"en": "Scientists warn that parts of the Amazon could be approaching a tipping point, beyond which the forest might turn into savannah.", "pt": "Cientistas alertam que partes da Amazônia podem estar se aproximando de um ponto de não retorno, além do qual a floresta poderia virar savana."},
+          {"en": "If the world is to limit warming to 1.5°C, emissions will need to fall dramatically this decade.", "pt": "Se o mundo quiser limitar o aquecimento a 1,5°C, as emissões precisarão cair drasticamente nesta década."}
+        ],
+        "tip_pt": "**If we are to...** é uma estrutura poderosa em redações: \"**If** Brazil **is to** meet its climate goals, deforestation must end.\" Significa \"**se quisermos / para que**\" — e mostra domínio C1."
+      },
+      "common_mistakes": [
+        {"wrong": "Prices are set to rising.", "right": "Prices are set to rise.", "why_pt": "be set to + verbo base."},
+        {"wrong": "The species is on the verge to disappear.", "right": "The species is on the verge of disappearing.", "why_pt": "on the verge of + -ing ou substantivo."},
+        {"wrong": "The report is due to publish next week.", "right": "The report is due to be published next week.", "why_pt": "O relatório é publicado (passiva): due to be published."}
+      ],
+      "pronunciation": {
+        "focus": "Linguagem de manchetes",
+        "tip_pt": "Manchetes lidas em voz alta (no rádio, por exemplo) acentuam as palavras de conteúdo e quase \"engolem\" as gramaticais: \"Emissions **SET** to **FALL**\" / \"Minister **TO** re**SIGN**\". O **to** de \"be to\" é forte quando é a ideia principal.",
+        "practice": ["EMISsions SET to FALL.", "SPEcies on the BRINK of exTINCtion.", "PRESident TO VISit the AMazon."]
+      },
+      "dialogue": {
+        "title": "Covering the climate summit",
+        "context_pt": "Uma editora e um repórter planejam a cobertura de uma conferência do clima.",
+        "lines": [
+          {"speaker": "Editor", "en": "OK, the summit's due to start on Monday. What are the key stories?", "pt": "OK, a cúpula está prevista para começar na segunda. Quais são as principais pautas?"},
+          {"speaker": "Bruno", "en": "The big one: several countries are set to announce new emissions targets. Brazil is poised to present its plan for ending illegal deforestation.", "pt": "A principal: vários países devem anunciar novas metas de emissões. O Brasil está prestes a apresentar seu plano para acabar com o desmatamento ilegal."},
+          {"speaker": "Editor", "en": "And the negotiations on finance?", "pt": "E as negociações sobre financiamento?"},
+          {"speaker": "Bruno", "en": "Tense. Talks were on the verge of collapsing last night, but they're expected to continue. Developing countries are insisting that richer nations pay more.", "pt": "Tensas. As conversas estavam à beira de fracassar ontem à noite, mas devem continuar. Países em desenvolvimento estão insistindo que as nações mais ricas paguem mais."},
+          {"speaker": "Editor", "en": "Is the UN report out yet?", "pt": "O relatório da ONU já saiu?"},
+          {"speaker": "Bruno", "en": "It's due to be published on Wednesday. Apparently, it'll warn that several ecosystems are on the brink of irreversible damage.", "pt": "Está previsto para quarta. Ao que parece, vai alertar que vários ecossistemas estão à beira de danos irreversíveis."},
+          {"speaker": "Editor", "en": "Right. If we're to cover all this properly, we'll need a second reporter. You're to send me a schedule by tonight.", "pt": "Certo. Se quisermos cobrir tudo isso direito, vamos precisar de um segundo repórter. Você me manda uma programação até hoje à noite."},
+          {"speaker": "Bruno", "en": "Will do. I was just about to start on it.", "pt": "Pode deixar. Eu estava prestes a começar."}
+        ]
+      },
+      "listening": {
+        "title": "Climate news bulletin",
+        "context_pt": "Um boletim de notícias de rádio sobre clima e energia (manchetes fictícias criadas para a aula).",
+        "lines": [
+          {"speaker": "Announcer", "en": "Here are today's climate headlines. Renewable energy is set to supply more than half of the country's electricity by the end of the decade, according to a new industry report. Wind and solar capacity are expected to keep growing rapidly, although experts warn that investment in transmission lines will be needed if the targets are to be met. Meanwhile, scientists say a species of frog found only in the Atlantic Forest is on the brink of extinction, following years of habitat loss. A rescue programme is to be launched next month. In the south of the country, farmers are on the verge of losing a second harvest to drought, and the government is due to announce emergency support on Friday. And finally, the city council is poised to approve a plan to plant one million trees, which, if successful, could make the city significantly cooler within twenty years."}
+        ],
+        "questions": [
+          {"q": "What is renewable energy set to do by the end of the decade?", "answer": "Supply more than half of the country's electricity."},
+          {"q": "What will be needed if the targets are to be met?", "answer": "Investment in transmission lines."},
+          {"q": "What is to be launched next month?", "answer": "A rescue programme for an endangered frog species."},
+          {"q": "When is the government due to announce support for farmers?", "answer": "On Friday."}
+        ]
+      },
+      "reading": {
+        "title": "The Amazon at a tipping point?",
+        "text": "For decades, scientists have warned that the Amazon rainforest may be approaching a critical threshold. The concept is relatively simple. The forest generates a large share of its own rainfall: trees release moisture into the air, which forms clouds that carry rain further inland. As deforestation and climate change reduce the number of trees and increase temperatures, this cycle weakens. Beyond a certain point — a \"tipping point\" — parts of the forest could be unable to sustain themselves and might gradually turn into a drier, savannah-like ecosystem. Estimates of where exactly that point lies vary. In widely cited work, the Brazilian climate scientist Carlos Nobre and the American biologist Thomas Lovejoy suggested that it might be reached if deforestation exceeded around 20 to 25 percent of the original forest. Some studies indicate that parts of the eastern Amazon are already showing signs of stress, with longer dry seasons and, in certain areas, the forest releasing more carbon than it absorbs. Not all researchers agree on how close the tipping point is, and the forest is likely to respond differently from region to region. What is broadly accepted, however, is that the consequences of large-scale dieback would extend far beyond the Amazon itself. Rainfall in other parts of South America, including Brazil's agricultural heartland, depends partly on moisture from the forest. There are reasons for cautious hope. Deforestation rates have fallen significantly in some recent years, demonstrating that policy and enforcement can make a difference. Restoration projects are also under way. But if the Amazon is to remain a rainforest, many scientists argue, the next two decades are likely to be decisive.",
+        "questions": [
+          {"q": "How does the Amazon generate its own rainfall?", "answer": "Trees release moisture that forms clouds carrying rain further inland."},
+          {"q": "What might happen beyond the tipping point?", "answer": "Parts of the forest could turn into a drier, savannah-like ecosystem."},
+          {"q": "What threshold did Nobre and Lovejoy suggest?", "answer": "Around 20–25% deforestation of the original forest."},
+          {"q": "Why would the consequences extend beyond the Amazon?", "answer": "Rainfall elsewhere in South America, including farming regions, depends partly on the forest's moisture."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Choose the future form", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+         "items": [{"prompt": "Electric car sales are ___ double next year.", "options": ["set to", "on the verge of", "due"], "answer": "set to"}, {"prompt": "The species is on the brink ___ extinction.", "options": ["of", "to", "for"], "answer": "of"}, {"prompt": "The flight is ___ to land at 10:45.", "options": ["due", "set", "poised"], "answer": "due"}, {"prompt": "The minister ___ visit the affected areas tomorrow.", "options": ["is to", "is on the point", "is due"], "answer": "is to"}, {"prompt": "We were just ___ leave when the phone rang.", "options": ["about to", "due to", "set to"], "answer": "about to"}]},
+        {"id": "ex2", "type": "answer", "title": "Rewrite with the word given", "instruction": "Rewrite the sentence using the word in CAPS.", "instruction_pt": "Reescreva usando a palavra em CAPS.",
+         "items": [{"prompt": "It is very likely that emissions will fall this year. (SET)", "answer": "Emissions are set to fall this year."}, {"prompt": "The company is very close to going bankrupt. (VERGE)", "answer": "The company is on the verge of going bankrupt / of bankruptcy."}, {"prompt": "The report will be published, according to the schedule, on Monday. (DUE)", "answer": "The report is due to be published on Monday."}, {"prompt": "If we want to succeed, we must work together. (ARE TO)", "answer": "If we are to succeed, we must work together."}]},
+        {"id": "ex3", "type": "answer", "title": "Headlines", "instruction": "Write the full sentence that each headline represents.", "instruction_pt": "Escreva a frase completa que cada manchete representa.",
+         "items": [{"prompt": "PM TO RESIGN", "answer": "The Prime Minister is to resign / is going to resign."}, {"prompt": "FUEL PRICES SET TO SOAR", "answer": "Fuel prices are set to soar / are very likely to rise sharply."}, {"prompt": "GLACIER ON BRINK OF COLLAPSE", "answer": "The glacier is on the brink of collapse."}, {"prompt": "NEW METRO LINE DUE TO OPEN IN MAY", "answer": "The new metro line is due to open in May."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "Global temperatures are set to rise further."}, {"prompt": "2", "answer": "The species is on the verge of extinction."}, {"prompt": "3", "answer": "The report is due to be published next week."}, {"prompt": "4", "answer": "The summit is to be held in Belém."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "Sea levels are set to rising.", "answer": "Sea levels are set to rise."}, {"prompt": "The forest is on the verge to collapse.", "answer": "The forest is on the verge of collapse / of collapsing."}, {"prompt": "The new law is due to approve next month.", "answer": "The new law is due to be approved next month."}, {"prompt": "If we are to meeting our targets, we must act now.", "answer": "If we are to meet our targets, we must act now."}]},
+        {"id": "ex6", "type": "match", "title": "Climate vocabulary", "instruction": "Write the English expression.", "instruction_pt": "Escreva a expressão em inglês.",
+         "items": [{"prompt": "ponto de não retorno", "answer": "tipping point"}, {"prompt": "combustíveis fósseis", "answer": "fossil fuels"}, {"prompt": "eliminar gradualmente", "answer": "phase out"}, {"prompt": "pegada de carbono", "answer": "carbon footprint"}, {"prompt": "desmatamento", "answer": "deforestation"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Newsroom\": in groups, write and present a 2-minute TV news bulletin about climate and the environment (real or invented stories). Use at least six formal future forms and headline language.",
+        "instruction_pt": "\"Redação de jornal\": em grupos, escrevam e apresentem um boletim de TV de 2 minutos sobre clima e meio ambiente (notícias reais ou inventadas). Usem pelo menos seis formas formais de futuro e linguagem de manchete.",
+        "questions": ["Which environmental problem in Brazil worries you most?", "Is individual action meaningful, or only government and corporate action?", "Should rich countries pay more to fight climate change? Why?", "How is your city likely to change because of climate change?", "If the world is to avoid disaster, what needs to happen first?"]
+      },
+      "writing": {
+        "task": "Write a news article (280–320 words) about a climate or environmental issue in Brazil (real or plausible). Include a headline, a lead paragraph, quotes and background. Use at least six formal future forms.",
+        "task_pt": "Escreva uma notícia (280–320 palavras) sobre uma questão climática ou ambiental no Brasil (real ou plausível). Inclua manchete, lide, citações e contexto. Use pelo menos seis formas formais de futuro.",
+        "model": "Coastal city set to build \"sponge parks\" to fight flooding\n\nA coastal city in southern Brazil is set to become one of the first in the country to adopt \"sponge city\" techniques on a large scale, as it struggles to cope with increasingly frequent floods. (Fictional story created for this lesson.)\n\nThe city council is due to vote next Tuesday on a plan to transform six urban areas into parks designed to absorb rainwater, along with permeable pavements and rain gardens in several neighbourhoods. If approved, work is to begin in March, with the first park expected to open within eighteen months.\n\nThe plan comes after a series of floods last year left thousands of residents temporarily homeless. \"We were on the verge of losing an entire neighbourhood,\" said the mayor at a press conference on Monday. \"If we are to protect our citizens, we cannot simply build higher walls. We need to work with nature, not against it.\"\n\nThe concept of the \"sponge city\" was popularized in China, where cities have used green spaces, wetlands and permeable surfaces to reduce flooding. Experts say similar approaches are poised to spread across Latin America as extreme rainfall becomes more common.\n\nNot everyone is convinced. Some business owners have warned that construction work is bound to disrupt trade in the city centre, while opposition councillors have questioned the project's estimated cost of 180 million reais.\n\nEnvironmental scientist Dr. Helena Prado, who advised the council, said the investment would pay for itself. \"Every flood costs the city millions in repairs and lost income,\" she explained. \"The real question is not whether we can afford to do this, but whether we can afford not to.\"\n\nThe council's decision is expected to be announced on Tuesday evening."
+      },
+      "culture_note": {
+        "title": "A COP30 em Belém",
+        "text_pt": "Em novembro de 2025, Belém do Pará sediou a **COP30**, a conferência do clima da ONU — a primeira realizada na Amazônia. Em inglês, **COP** significa **Conference of the Parties**. Termos comuns na cobertura: **climate finance**, **loss and damage**, **nationally determined contributions (NDCs)** e **just transition**."
+      },
+      "summary_pt": ["be set to / expected to / poised to = previsões.", "be about to; on the verge / point / brink of + -ing/substantivo.", "be due to = previsto (cronograma).", "be to + verbo = plano oficial / ordem; If we are to... = se quisermos..."]
+    },
+    {
+      "id": "C1-M5-L2",
+      "title": "On the move",
+      "subtitle_pt": "Multi-word verbs abstratos: bring about, stem from, account for, come up against, set out",
+      "duration_min": 80,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – C1 (phrasal and prepositional verbs with abstract meanings)", "Cambridge C1 Advanced – Reading and Use of English Part 1"],
+      "objectives": ["Usar phrasal verbs com sentido abstrato em contextos formais (bring about, stem from, account for)", "Usar verbos de três partes (come up against, face up to, do away with)", "Escolher entre phrasal verb e equivalente latino conforme o registro", "Discutir migração, refúgio e diásporas"],
+      "warmup": {
+        "text_pt": "Phrasal verbs não são só informais! \"The crisis **stemmed from** years of conflict\" ou \"Migrants **account for** 15% of the workforce\" aparecem em jornais sérios e textos acadêmicos. No C1, você usa phrasal verbs com **sentidos abstratos**. Tema: **migração**.",
+        "questions": ["Does your family have a migration story — from another country or another region of Brazil?", "Why do people leave their home countries?"]
+      },
+      "vocabulary": [
+        {"en": "a migrant / an immigrant / an emigrant", "pt": "um migrante / imigrante / emigrante", "say": "a máigrant / an ímigrant / an émigrant"},
+        {"en": "a refugee / an asylum seeker", "pt": "um refugiado / solicitante de asilo", "say": "a refiudjí / an asáilam síker"},
+        {"en": "to flee / to be displaced", "pt": "fugir / ser deslocado", "say": "tu flí / tu bí displêist"},
+        {"en": "the host country", "pt": "o país de acolhimento", "say": "dâ rôust kântri"},
+        {"en": "a diaspora", "pt": "uma diáspora", "say": "a daiéspora"},
+        {"en": "remittances", "pt": "remessas de dinheiro (para a família)", "say": "rimítansiz"},
+        {"en": "integration / to integrate", "pt": "integração / integrar-se", "say": "integrêishan"},
+        {"en": "xenophobia", "pt": "xenofobia", "say": "zenofôubia"},
+        {"en": "brain drain", "pt": "fuga de cérebros", "say": "brêin drêin"},
+        {"en": "push and pull factors", "pt": "fatores de expulsão e atração", "say": "push énd pul féktorz"},
+        {"en": "undocumented", "pt": "sem documentos", "say": "ândókiumentid"},
+        {"en": "to resettle", "pt": "reassentar", "say": "tu risétol"}
+      ],
+      "chunks": [
+        {"en": "The crisis stemmed from years of conflict.", "pt": "A crise teve origem em anos de conflito."},
+        {"en": "Migrants account for 15% of the workforce.", "pt": "Os migrantes representam 15% da força de trabalho."},
+        {"en": "The war brought about a huge wave of migration.", "pt": "A guerra provocou uma enorme onda migratória."},
+        {"en": "They came up against a lot of bureaucracy.", "pt": "Eles esbarraram em muita burocracia."},
+        {"en": "We need to face up to the problem.", "pt": "Precisamos encarar o problema."},
+        {"en": "She set out to help other newcomers.", "pt": "Ela se propôs a ajudar outros recém-chegados."}
+      ],
+      "grammar": {
+        "title": "Multi-word verbs with abstract meanings",
+        "explanation_pt": "Muitos phrasal verbs têm um **sentido literal** (B1/B2) e um **sentido abstrato** (C1), que aparece em textos formais.\n\n**1. Causa e origem:**\n- **bring about** = causar, provocar (mudança): \"The war **brought about** mass migration.\"\n- **stem from** = originar-se de: \"Many problems **stem from** a lack of documents.\"\n- **give rise to** = dar origem a: \"Climate change **gives rise to** new forms of displacement.\"\n- **lead to / result in** (revisão)\n\n**2. Explicar e quantificar:**\n- **account for** = representar (proporção) / explicar: \"Women **account for** half of all migrants.\" / \"How do you **account for** the increase?\"\n- **bear out** = confirmar: \"The data **bear out** this theory.\"\n- **point to** = indicar: \"Studies **point to** economic factors.\"\n\n**3. Enfrentar e lidar:**\n- **come up against** = deparar-se com (obstáculo)\n- **face up to** = encarar (realidade difícil)\n- **grapple / contend with** = lutar com, lidar com\n- **cope with / deal with** (revisão)\n\n**4. Começar, propor-se, eliminar:**\n- **set out to** = propor-se a / **set up** = criar, estabelecer\n- **embark on** = embarcar em, começar (projeto, jornada)\n- **do away with** = abolir / **phase out** = eliminar gradualmente\n- **draw up** = elaborar (plano, documento) / **carry out** = realizar\n\n**5. Outros úteis:**\n- **fall through** = fracassar (plano) · **put forward** = propor (ideia) · **rule out** = descartar · **look into** = investigar · **bring up** = mencionar · **step up** = intensificar\n\n**Registro:** muitos phrasal verbs têm equivalentes latinos mais formais:\nbring about = **cause** · set up = **establish** · look into = **investigate** · do away with = **abolish** · put forward = **propose** · rule out = **exclude**\nEm redações C1, uma **mistura** dos dois soa natural; só latinos soa pesado.\n\n**Gramática:** verbos de três partes são **inseparáveis**: \"face up **to** it\" (não \"face it up to\").",
+        "table": {
+          "headers": ["Phrasal verb", "Equivalente formal", "Exemplo"],
+          "rows": [["bring about", "cause", "The reform brought about change."], ["stem from", "originate in", "It stems from poverty."], ["account for", "represent / explain", "They account for 10%."], ["come up against", "encounter", "They came up against prejudice."], ["face up to", "confront", "We must face up to the facts."], ["do away with", "abolish", "They did away with the visa."], ["set up", "establish", "She set up an NGO."], ["rule out", "exclude", "We can't rule it out."]]
+        },
+        "examples": [
+          {"en": "Much of the hostility towards migrants stems from misinformation about their impact on jobs and public services.", "pt": "Grande parte da hostilidade contra migrantes vem da desinformação sobre seu impacto nos empregos e serviços públicos."},
+          {"en": "Many newly arrived refugees come up against language barriers, bureaucracy and, at times, open prejudice.", "pt": "Muitos refugiados recém-chegados esbarram em barreiras linguísticas, burocracia e, às vezes, preconceito aberto."},
+          {"en": "Remittances account for a significant share of the economy in several Latin American countries.", "pt": "As remessas representam uma parcela significativa da economia em vários países latino-americanos."}
+        ],
+        "tip_pt": "**Account for** é muito útil e muito confundido: \"Migrants **account for** 10% of the population\" (= representam) / \"This **accounts for** the rise\" (= explica). Não confunda com \"count\" ou \"represent for\"."
+      },
+      "common_mistakes": [
+        {"wrong": "Migrants account 10% of the workforce.", "right": "Migrants account for 10% of the workforce.", "why_pt": "account FOR."},
+        {"wrong": "The problem stems in poverty.", "right": "The problem stems from poverty.", "why_pt": "stem FROM."},
+        {"wrong": "We must face the problem up to.", "right": "We must face up to the problem.", "why_pt": "Verbos de três partes não se separam."}
+      ],
+      "pronunciation": {
+        "focus": "Acento em phrasal verbs",
+        "tip_pt": "Em phrasal verbs, o acento costuma cair na **partícula**: bring a**BOUT**, set **UP**, rule **OUT**. Em verbos de três partes, acento na **segunda** palavra: come up a**GAINST**? Não — come **UP** against, face **UP** to, do a**WAY** with.",
+        "practice": ["The war brought aBOUT change.", "She set UP an organization.", "We must face UP to it.", "They did aWAY with the rule."]
+      },
+      "dialogue": {
+        "title": "Starting again",
+        "context_pt": "Uma jornalista entrevista um homem venezuelano que reconstruiu a vida em Roraima e depois em Curitiba.",
+        "lines": [
+          {"speaker": "Journalist", "en": "Thank you for talking to us, Diego. What brought about your decision to leave Venezuela?", "pt": "Obrigada por conversar conosco, Diego. O que provocou sua decisão de sair da Venezuela?"},
+          {"speaker": "Diego", "en": "It stemmed from many things — shortages, no medicine for my mother, no future for my children. In the end, we simply couldn't cope with it any more.", "pt": "Veio de muitas coisas — escassez, falta de remédio para minha mãe, nenhum futuro para meus filhos. No fim, simplesmente não conseguíamos mais lidar com aquilo."},
+          {"speaker": "Journalist", "en": "What were the first months in Brazil like?", "pt": "Como foram os primeiros meses no Brasil?"},
+          {"speaker": "Diego", "en": "Hard. We came up against so many obstacles — the language, documents, finding work. I'm an engineer, but at first I worked in a supermarket.", "pt": "Difíceis. Esbarramos em muitos obstáculos — a língua, documentos, achar trabalho. Sou engenheiro, mas no começo trabalhei num supermercado."},
+          {"speaker": "Journalist", "en": "And how did you end up in Curitiba?", "pt": "E como você acabou em Curitiba?"},
+          {"speaker": "Diego", "en": "Through a relocation programme that helps people move from the border to other cities with more jobs. A local NGO helped us set up our life here.", "pt": "Por meio de um programa de interiorização que ajuda pessoas a se mudarem da fronteira para outras cidades com mais empregos. Uma ONG local nos ajudou a montar nossa vida aqui."},
+          {"speaker": "Journalist", "en": "And now?", "pt": "E agora?"},
+          {"speaker": "Diego", "en": "I had my qualifications recognized last year, and I'm working as an engineer again. And I've set out to help other newcomers — I give free Portuguese classes on Saturdays.", "pt": "Tive meu diploma reconhecido ano passado e estou trabalhando como engenheiro de novo. E me propus a ajudar outros recém-chegados — dou aulas gratuitas de português aos sábados."},
+          {"speaker": "Journalist", "en": "What would you say to Brazilians who are suspicious of migrants?", "pt": "O que você diria aos brasileiros que desconfiam dos migrantes?"},
+          {"speaker": "Diego", "en": "That most of that fear stems from not knowing us. Come and have a coffee with us. Most of us just want to work and give something back.", "pt": "Que a maior parte desse medo vem de não nos conhecer. Venham tomar um café com a gente. A maioria de nós só quer trabalhar e retribuir."}
+        ]
+      },
+      "listening": {
+        "title": "A nation of migrants",
+        "context_pt": "Um historiador fala sobre a história da migração no Brasil.",
+        "lines": [
+          {"speaker": "Historian", "en": "Brazil has been shaped by migration — much of it forced. Over three centuries, an estimated four to five million enslaved Africans were brought to Brazil, more than to any other country in the Americas. Their descendants account for a large part of today's population, and African influences run through Brazilian culture, from music and religion to food and language. From the late nineteenth century, a new wave of immigration began, much of it brought about by government policies to attract European labour after the abolition of slavery in 1888. Italians, Portuguese, Spaniards and Germans arrived in large numbers, followed by Japanese immigrants from 1908 — today, Brazil is home to the largest population of Japanese descent outside Japan. Lebanese and Syrian communities also set down deep roots. In recent decades, the picture has changed again: Brazil has received people from Haiti, Venezuela, Bolivia and African countries, while hundreds of thousands of Brazilians have themselves emigrated, to places such as the United States, Portugal and Japan."}
+        ],
+        "questions": [
+          {"q": "How many enslaved Africans were brought to Brazil, according to estimates?", "answer": "Four to five million."},
+          {"q": "What brought about the wave of European immigration?", "answer": "Government policies to attract European labour after the abolition of slavery in 1888."},
+          {"q": "What is notable about the Japanese community in Brazil?", "answer": "It's the largest population of Japanese descent outside Japan."},
+          {"q": "Where have many Brazilians emigrated to?", "answer": "The United States, Portugal and Japan."}
+        ]
+      },
+      "reading": {
+        "title": "The economics of migration",
+        "text": "Few issues provoke as much political debate as migration, and few are as widely misunderstood. Public opinion surveys in many countries suggest that people tend to overestimate the number of immigrants living among them, sometimes considerably. Much of the anxiety surrounding migration stems from economic fears: that newcomers will take jobs, push down wages or place an unbearable burden on public services. What does the evidence say? On the question of jobs, most economic research has failed to bear out the most pessimistic predictions. Migrants often take up work that local workers are unwilling or unavailable to do, or set up businesses that create new employment. Their effect on average wages is generally found to be small, although some studies point to modest negative effects for specific groups of low-skilled workers, particularly in the short term. Migrants also tend to be of working age, which means that, in ageing societies, they can help to pay for pensions and healthcare. At the same time, it would be naive to rule out real challenges. Rapid arrivals can put pressure on housing, schools and health services in particular areas, especially when governments fail to plan or invest accordingly. Integration does not happen automatically: newcomers frequently come up against language barriers, unrecognized qualifications and discrimination, all of which can prevent them from contributing fully. Emigration, meanwhile, has its own consequences for countries of origin. The \"brain drain\" of doctors, engineers and other professionals can weaken health and education systems, although remittances sent home by migrants account for a substantial share of income in many developing economies. Ultimately, the evidence suggests that migration is neither the catastrophe some fear nor the simple solution others claim. Its effects depend largely on how societies choose to face up to it.",
+        "questions": [
+          {"q": "What do people tend to overestimate?", "answer": "The number of immigrants living among them."},
+          {"q": "What does most research say about migrants and jobs?", "answer": "It has failed to bear out pessimistic predictions; effects on wages are generally small."},
+          {"q": "What real challenges does the text mention?", "answer": "Pressure on housing, schools and health services; integration barriers."},
+          {"q": "What are the consequences for countries of origin?", "answer": "Brain drain, but also significant income from remittances."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Choose the phrasal verb", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+         "items": [{"prompt": "Many of the problems ___ a lack of planning.", "options": ["stem from", "bring about", "account for"], "answer": "stem from"}, {"prompt": "Foreign students ___ 20% of the university's population.", "options": ["account for", "stem from", "set out"], "answer": "account for"}, {"prompt": "The new law ___ significant changes in the job market.", "options": ["brought about", "came up against", "stemmed from"], "answer": "brought about"}, {"prompt": "The project ___ strong opposition from local residents.", "options": ["came up against", "accounted for", "did away with"], "answer": "came up against"}, {"prompt": "The government has ___ the old visa system.", "options": ["done away with", "faced up to", "stemmed from"], "answer": "done away with"}]},
+        {"id": "ex2", "type": "match", "title": "Formal equivalents", "instruction": "Write a phrasal verb with the same meaning.", "instruction_pt": "Escreva um phrasal verb com o mesmo sentido.",
+         "items": [{"prompt": "establish (an organization)", "answer": "set up"}, {"prompt": "abolish", "answer": "do away with"}, {"prompt": "investigate", "answer": "look into"}, {"prompt": "exclude (a possibility)", "answer": "rule out"}, {"prompt": "propose (an idea)", "answer": "put forward"}, {"prompt": "confirm (a theory)", "answer": "bear out"}]},
+        {"id": "ex3", "type": "answer", "title": "Rewrite with a phrasal verb", "instruction": "Rewrite the sentences using the phrasal verb in brackets.", "instruction_pt": "Reescreva usando o phrasal verb indicado.",
+         "items": [{"prompt": "The conflict caused a refugee crisis. (bring about)", "answer": "The conflict brought about a refugee crisis."}, {"prompt": "We have to accept the reality of climate migration. (face up to)", "answer": "We have to face up to the reality of climate migration."}, {"prompt": "Her plan to open a restaurant failed. (fall through)", "answer": "Her plan to open a restaurant fell through."}, {"prompt": "The study confirms what migrants have been saying for years. (bear out)", "answer": "The study bears out what migrants have been saying for years."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "The crisis stemmed from years of conflict."}, {"prompt": "2", "answer": "Migrants account for 15% of the workforce."}, {"prompt": "3", "answer": "They came up against a lot of bureaucracy."}, {"prompt": "4", "answer": "We need to face up to the problem."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "Women account 48% of all migrants.", "answer": "Women account for 48% of all migrants."}, {"prompt": "The tension stems in economic inequality.", "answer": "The tension stems from economic inequality."}, {"prompt": "They did away the old rules.", "answer": "They did away with the old rules."}, {"prompt": "We came against many problems up.", "answer": "We came up against many problems."}]},
+        {"id": "ex6", "type": "match", "title": "Migration vocabulary", "instruction": "Write the English word or expression.", "instruction_pt": "Escreva a palavra ou expressão em inglês.",
+         "items": [{"prompt": "fuga de cérebros", "answer": "brain drain"}, {"prompt": "remessas de dinheiro", "answer": "remittances"}, {"prompt": "solicitante de asilo", "answer": "asylum seeker"}, {"prompt": "país de acolhimento", "answer": "host country"}, {"prompt": "fatores de expulsão e atração", "answer": "push and pull factors"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Migration stories\": share (or research) the migration story of your family or of a community in your city. Explain what brought it about, what obstacles people came up against and how the community has contributed. Use at least six multi-word verbs.",
+        "instruction_pt": "\"Histórias de migração\": compartilhe (ou pesquise) a história migratória da sua família ou de uma comunidade da sua cidade. Explique o que a provocou, que obstáculos as pessoas enfrentaram e como a comunidade contribuiu. Use pelo menos seis multi-word verbs.",
+        "questions": ["What are the main push and pull factors for migration today?", "Is brain drain a problem for Brazil?", "How well does Brazil integrate migrants and refugees?", "Will climate change bring about more migration? Where?", "Would you consider emigrating? What would make you decide?"]
+      },
+      "writing": {
+        "task": "Write a formal proposal (280–320 words) to your city council suggesting a programme to help migrants and refugees integrate. Describe the problems they face, your proposal and its expected benefits. Use at least eight multi-word verbs.",
+        "task_pt": "Escreva uma proposta formal (280–320 palavras) para a câmara municipal sugerindo um programa para ajudar migrantes e refugiados a se integrarem. Descreva os problemas, a proposta e os benefícios esperados. Use pelo menos oito multi-word verbs.",
+        "model": "Proposal: The \"Welcome Neighbour\" integration programme\n\nIntroduction\nThe aim of this proposal is to put forward a programme to help the growing number of migrants and refugees in our city to integrate more quickly and fully into local life. Over the past five years, newcomers from Venezuela, Haiti and several African countries have come to account for a visible share of our population, yet support services remain limited.\n\nCurrent situation\nInterviews carried out by our association with more than sixty migrant families suggest that most of their difficulties stem from three sources: language barriers, the slow recognition of professional qualifications and a lack of information about public services. Many highly qualified people, including nurses and engineers, come up against so much bureaucracy that they end up in low-paid, informal work. This represents a waste of talent that the city cannot afford.\n\nProposal\nWe propose that the council set up a \"Welcome Neighbour\" centre, run in partnership with local NGOs and universities. The centre would:\n• offer free Portuguese classes at different levels, including evening and weekend options;\n• help newcomers draw up the documents needed to have their qualifications recognized;\n• pair each family with a local volunteer \"neighbour\" for their first six months;\n• organize regular cultural events to bring migrant and local communities together.\n\nExpected benefits\nThe programme is likely to bring about faster integration into the job market, which would in turn increase tax revenue and reduce dependence on social support. Perhaps more importantly, it would help to do away with the misunderstandings and prejudice that often arise when communities live side by side without meeting.\n\nConclusion\nWe are aware that the council is facing budget constraints. However, the costs of the programme would be modest, and we believe the city cannot afford to ignore the issue. We would welcome the opportunity to present the proposal in more detail."
+      },
+      "culture_note": {
+        "title": "A Operação Acolhida",
+        "text_pt": "Desde 2018, a **Operação Acolhida** recebe migrantes e refugiados venezuelanos na fronteira de Roraima e promove a **interiorização** — a realocação voluntária para outras cidades brasileiras com mais oportunidades. O programa tem sido citado internacionalmente como exemplo de resposta humanitária, embora enfrente desafios de financiamento e integração."
+      },
+      "summary_pt": ["Causa/origem: bring about, stem from, give rise to.", "Quantificar/explicar: account for, bear out, point to.", "Enfrentar: come up against, face up to, grapple with.", "Outros: set up, set out to, do away with, rule out, put forward, fall through."]
+    },
+    {
+      "id": "C1-M5-L3",
+      "title": "Truth and trust",
+      "subtitle_pt": "Distanciamento: allegedly, reportedly, is alleged to have, reporting verbs com nuance",
+      "duration_min": 80,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – C1 (distancing, reporting verbs)", "Cambridge C1 Advanced – Reading and Use of English Part 7"],
+      "objectives": ["Usar advérbios de distanciamento (allegedly, reportedly, supposedly, purportedly)", "Usar passivas de relato em todos os tempos (is alleged to have been...)", "Escolher reporting verbs que mostram atitude (claim, admit, deny, insist, concede)", "Analisar desinformação e checar fatos"],
+      "warmup": {
+        "text_pt": "Um jornal sério nunca diz \"O político roubou dinheiro\" antes de uma condenação. Diz: \"The politician **allegedly** stole...\" ou \"He **is alleged to have** stolen...\". Essa linguagem de **distanciamento** protege o autor e mostra ao leitor o **grau de certeza**. Tema: **desinformação e confiança**.",
+        "questions": ["Have you ever shared something online that turned out to be false?", "Which sources of news do you trust most? Why?"]
+      },
+      "vocabulary": [
+        {"en": "misinformation / disinformation", "pt": "informação errada / desinformação (intencional)", "say": "misinformêishan / disinformêishan"},
+        {"en": "a fact-checker / to fact-check", "pt": "um checador / checar fatos", "say": "a fékt tchéker"},
+        {"en": "a hoax", "pt": "um boato, uma farsa", "say": "a rôuks"},
+        {"en": "a deepfake", "pt": "um deepfake (vídeo falso gerado por IA)", "say": "a dípfêik"},
+        {"en": "to go viral", "pt": "viralizar", "say": "tu gôu váiral"},
+        {"en": "unverified / unsubstantiated", "pt": "não verificado / sem fundamento", "say": "ânvérifaid / ânsabsténshieitid"},
+        {"en": "a reliable / credible source", "pt": "uma fonte confiável / crível", "say": "a riláiabol / krédibol sórs"},
+        {"en": "allegedly / reportedly", "pt": "supostamente / segundo relatos", "say": "alédjidli / ripórtidli"},
+        {"en": "to debunk", "pt": "desmentir, desmascarar", "say": "tu dibânk"},
+        {"en": "an echo chamber", "pt": "uma câmara de eco, bolha", "say": "an ékou tchêimber"},
+        {"en": "confirmation bias", "pt": "viés de confirmação", "say": "konfirmêishan báias"},
+        {"en": "clickbait", "pt": "caça-cliques", "say": "klíkbêit"}
+      ],
+      "chunks": [
+        {"en": "The minister allegedly accepted bribes.", "pt": "O ministro supostamente aceitou propina."},
+        {"en": "He is alleged to have lied under oath.", "pt": "Alega-se que ele mentiu sob juramento."},
+        {"en": "The video is reported to be fake.", "pt": "Relata-se que o vídeo é falso."},
+        {"en": "The company denied any wrongdoing.", "pt": "A empresa negou qualquer irregularidade."},
+        {"en": "She conceded that mistakes had been made.", "pt": "Ela admitiu que erros foram cometidos."},
+        {"en": "The story was quickly debunked.", "pt": "A história foi rapidamente desmentida."}
+      ],
+      "grammar": {
+        "title": "Distancing language",
+        "explanation_pt": "**1. Advérbios de distanciamento** — mostram que a informação **não foi confirmada** pelo autor:\n- **allegedly** (acusação ainda não provada): \"The mayor **allegedly** used public funds.\"\n- **reportedly** (segundo relatos/a imprensa): \"The singer is **reportedly** planning a tour.\"\n- **supposedly** (supostamente — com dúvida/ironia): \"The diet **supposedly** cures everything.\"\n- **apparently** (ao que parece), **purportedly** (formal, = supostamente), **ostensibly** (aparentemente, mas na verdade não)\n\n**2. Passivas de relato** (revisão B2 + todos os tempos):\n- **It is + particípio + that**: \"**It is alleged that** he lied.\" / \"**It has been reported that**...\"\n- **Sujeito + be + particípio + infinitivo**:\n  • presente: \"He **is said to be** in Portugal.\"\n  • contínuo: \"He **is thought to be hiding** abroad.\"\n  • passado: \"He **is alleged to have lied**.\"\n  • passado passivo: \"The data **are believed to have been manipulated**.\"\n  • passado do relato: \"She **was reported to have left** the country.\"\n- **There is said / thought to be**: \"**There are thought to be** thousands of fake accounts.\"\n\n**3. Reporting verbs que mostram atitude:**\n- **Neutro:** say, state, report, explain\n- **Dúvida do autor:** **claim** (afirmar, sem prova), **allege**, **purport**\n- **Admitir:** **admit**, **concede** (admitir a contragosto), **acknowledge**\n- **Negar:** **deny** (+ -ing / that), **reject**, **dismiss** (descartar como sem importância)\n- **Insistir:** **insist**, **maintain** (sustentar), **assert**\n- **Prometer/ameaçar:** pledge, vow, threaten\n\nCompare: \"The CEO **said** profits were stable\" (neutro) x \"The CEO **claimed** profits were stable\" (o jornalista duvida) x \"The CEO **conceded** profits had fallen\" (admitiu a contragosto).",
+        "table": {
+          "headers": ["Estrutura", "Exemplo"],
+          "rows": [["allegedly / reportedly", "He allegedly hacked the system."], ["It is + pp + that", "It is claimed that the photo is fake."], ["S + is + pp + to + verbo", "She is said to be very ill."], ["S + is + pp + to have + pp", "He is believed to have fled."], ["... + to have been + pp", "The votes are alleged to have been altered."], ["There is thought to be", "There are thought to be 200 victims."], ["claim / concede / deny / insist", "He denied having seen the email."]]
+        },
+        "examples": [
+          {"en": "The video, which is reported to have been viewed millions of times, was later shown to be a deepfake.", "pt": "O vídeo, que teria sido visto milhões de vezes, depois se mostrou um deepfake."},
+          {"en": "The company has repeatedly denied using customers' data without consent, but it conceded that its privacy policy had been unclear.", "pt": "A empresa negou repetidamente usar dados de clientes sem consentimento, mas admitiu que sua política de privacidade era pouco clara."},
+          {"en": "There are thought to be thousands of automated accounts spreading political content.", "pt": "Acredita-se que existam milhares de contas automatizadas espalhando conteúdo político."}
+        ],
+        "tip_pt": "**Claim** em inglês carrega **dúvida**: \"He **claims** to be a doctor\" sugere que talvez não seja. Para relatar de forma neutra, use **say** ou **state**. Escolher o verbo certo é escolher sua **atitude** em relação à informação."
+      },
+      "common_mistakes": [
+        {"wrong": "He is said that he is rich.", "right": "He is said to be rich. / It is said that he is rich.", "why_pt": "Duas estruturas possíveis; não misture."},
+        {"wrong": "She is believed to leave the country last week.", "right": "She is believed to have left the country last week.", "why_pt": "Ação anterior = to have + particípio."},
+        {"wrong": "He denied to have taken the money.", "right": "He denied taking / having taken the money. / He denied that he had taken...", "why_pt": "deny + -ing ou that."}
+      ],
+      "pronunciation": {
+        "focus": "allegedly / reportedly",
+        "tip_pt": "**Allegedly** = \"a-LÉ-djid-li\" (4 sílabas, o -ed é pronunciado \"id\"!). **Reportedly** = \"ri-PÓR-tid-li\". **Supposedly** = \"sa-PÔU-zid-li\" (não \"supposably\"!).",
+        "practice": ["a-LÉ-djid-li", "ri-PÓR-tid-li", "sa-PÔU-zid-li"]
+      },
+      "dialogue": {
+        "title": "Is this true?",
+        "context_pt": "Uma checadora de fatos ajuda o pai a verificar uma mensagem que ele recebeu no grupo da família.",
+        "lines": [
+          {"speaker": "Dad", "en": "Look at this message from the family group. It says a famous doctor has discovered that lemon water cures diabetes!", "pt": "Olha essa mensagem do grupo da família. Diz que um médico famoso descobriu que água com limão cura diabetes!"},
+          {"speaker": "Fernanda", "en": "Hmm. Who's the doctor? Is there a link to a study?", "pt": "Hmm. Quem é o médico? Tem link para algum estudo?"},
+          {"speaker": "Dad", "en": "It just says he's \"a renowned specialist\". And it's supposedly been shared a million times.", "pt": "Só diz que é \"um especialista renomado\". E supostamente foi compartilhado um milhão de vezes."},
+          {"speaker": "Fernanda", "en": "That's a classic sign. Let me search... OK, here. Fact-checkers debunked this months ago. The \"doctor\" is alleged to be a fake profile, and the photo is reported to have been taken from a stock image site.", "pt": "Esse é um sinal clássico. Deixa eu pesquisar... OK, aqui. Checadores desmentiram isso meses atrás. Alega-se que o \"médico\" é um perfil falso, e a foto teria sido tirada de um banco de imagens."},
+          {"speaker": "Dad", "en": "But your aunt insisted it was true!", "pt": "Mas sua tia insistiu que era verdade!"},
+          {"speaker": "Fernanda", "en": "I'm sure she meant well. But the people behind it are thought to be selling a \"miracle\" supplement. That's what the link at the bottom is for.", "pt": "Tenho certeza de que ela teve boa intenção. Mas acredita-se que quem está por trás disso vende um suplemento \"milagroso\". É para isso que serve o link no final."},
+          {"speaker": "Dad", "en": "Oh. I almost bought it. OK, I concede — I should have checked.", "pt": "Ah. Quase comprei. OK, admito — eu deveria ter checado."},
+          {"speaker": "Fernanda", "en": "Don't worry. Just remember: if a message makes you feel shocked or excited and asks you to share urgently, stop and check first.", "pt": "Não se preocupe. Só lembra: se uma mensagem te deixa chocado ou empolgado e pede para compartilhar com urgência, pare e verifique antes."}
+        ]
+      },
+      "listening": {
+        "title": "Why lies spread faster",
+        "context_pt": "Uma pesquisadora fala sobre um estudo famoso sobre notícias falsas no Twitter.",
+        "lines": [
+          {"speaker": "Researcher", "en": "In 2018, a team of researchers at MIT published a study in the journal Science that analysed around 126,000 stories shared on Twitter between 2006 and 2017. Each story had been checked by independent fact-checking organizations. The findings were striking. False stories were found to spread significantly further, faster and more widely than true ones. According to the study, false news was about 70 percent more likely to be retweeted than the truth. Why? The researchers suggested that false stories tend to be more novel and surprising, and that they provoke stronger emotional reactions, such as disgust and fear. Interestingly, the study concluded that it was humans, not automated bots, who were primarily responsible for the difference. Bots were found to spread true and false stories at similar rates. The implication is uncomfortable. If we want to fight misinformation, it is not enough to blame algorithms or foreign agents. We also have to look at our own behaviour — and pause before we click \"share\"."}
+        ],
+        "questions": [
+          {"q": "What did the MIT study analyse?", "answer": "Around 126,000 stories shared on Twitter between 2006 and 2017."},
+          {"q": "How much more likely was false news to be retweeted?", "answer": "About 70 percent more likely."},
+          {"q": "Why do false stories spread faster, according to the researchers?", "answer": "They are more novel and provoke stronger emotions."},
+          {"q": "Who was primarily responsible for spreading false news?", "answer": "Humans, not bots."}
+        ]
+      },
+      "reading": {
+        "title": "The age of deepfakes",
+        "text": "In 2018, a video appeared online in which former US president Barack Obama seemed to insult his successor. The video was not real. It had been created by the media company BuzzFeed, in collaboration with the filmmaker Jordan Peele, who voiced the words, to warn the public about a new kind of technology: deepfakes. Since then, the tools needed to produce convincing fake video and audio have become dramatically cheaper and easier to use. What once required a professional studio can now reportedly be done in minutes with a laptop or even a phone. The consequences are already visible. Fake audio recordings of politicians have allegedly been circulated shortly before elections in several countries, when there is little time to debunk them. Criminals are reported to have used cloned voices of company executives to persuade employees to transfer money. Ordinary people, too, have been targeted with fabricated images. Perhaps the most worrying effect, however, is not that people will believe fake content but that they will stop believing real content. Researchers have called this the \"liar's dividend\": when anything could be fake, those caught on camera doing something wrong can simply claim that the evidence has been fabricated. Truth itself becomes a matter of opinion. There are responses. Technology companies are said to be developing tools to detect manipulated media and to label AI-generated content, and several governments have introduced or proposed regulations. Journalists and fact-checkers are increasingly trained in verification techniques. But most experts concede that technology alone cannot solve the problem. In the end, the best defence may be an old-fashioned one: a healthy scepticism, combined with trust in reliable, accountable sources.",
+        "questions": [
+          {"q": "Why was the fake Obama video created?", "answer": "To warn the public about deepfake technology."},
+          {"q": "How have criminals reportedly used deepfakes?", "answer": "Cloned voices of executives to persuade employees to transfer money."},
+          {"q": "What is the \"liar's dividend\"?", "answer": "When anything could be fake, people caught doing wrong can claim the evidence was fabricated."},
+          {"q": "What may be the best defence, according to the text?", "answer": "Healthy scepticism combined with trust in reliable, accountable sources."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "answer", "title": "Report with distance", "instruction": "Rewrite the sentences starting with the subject, using a reporting passive.", "instruction_pt": "Reescreva começando pelo sujeito, usando uma passiva de relato.",
+         "items": [{"prompt": "People say that the senator is very ill.", "answer": "The senator is said to be very ill."}, {"prompt": "It is alleged that the company hid the data.", "answer": "The company is alleged to have hidden the data."}, {"prompt": "It is believed that the photos were manipulated.", "answer": "The photos are believed to have been manipulated."}, {"prompt": "It is thought that the hacker is living abroad now.", "answer": "The hacker is thought to be living abroad now."}]},
+        {"id": "ex2", "type": "multiple_choice", "title": "Choose the reporting verb", "instruction": "Choose the verb that best shows the attitude described.", "instruction_pt": "Escolha o verbo que melhor mostra a atitude descrita.",
+         "items": [{"prompt": "He ___ that he had seen the email. (said no)", "options": ["denied", "conceded", "claimed"], "answer": "denied"}, {"prompt": "The minister ___ that mistakes had been made. (admitted reluctantly)", "options": ["insisted", "conceded", "alleged"], "answer": "conceded"}, {"prompt": "The website ___ to have the cure for cancer. (the writer doubts it)", "options": ["claims", "admits", "concedes"], "answer": "claims"}, {"prompt": "Despite the evidence, she ___ that she was innocent. (kept saying firmly)", "options": ["denied", "insisted", "conceded"], "answer": "insisted"}, {"prompt": "The CEO ___ the criticism as \"irrelevant\". (said it wasn't important)", "options": ["dismissed", "admitted", "alleged"], "answer": "dismissed"}]},
+        {"id": "ex3", "type": "fill_blank", "title": "Distancing adverbs", "instruction": "Complete with: allegedly · reportedly · supposedly · apparently.", "instruction_pt": "Complete com o advérbio de distanciamento.",
+         "items": [{"prompt": "The suspect ___ broke into the house, but he hasn't been convicted.", "answer": "allegedly"}, {"prompt": "The band is ___ planning a reunion tour, according to several newspapers.", "answer": "reportedly"}, {"prompt": "This cream ___ makes you look ten years younger. I doubt it.", "answer": "supposedly"}, {"prompt": "___, the meeting has been cancelled — that's what Ana told me.", "answer": "Apparently"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "The minister allegedly accepted bribes."}, {"prompt": "2", "answer": "He is alleged to have lied under oath."}, {"prompt": "3", "answer": "She conceded that mistakes had been made."}, {"prompt": "4", "answer": "The story was quickly debunked."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "The actor is said that he is very generous.", "answer": "The actor is said to be very generous."}, {"prompt": "The documents are thought to have destroyed.", "answer": "The documents are thought to have been destroyed."}, {"prompt": "He denied to steal the money.", "answer": "He denied stealing the money."}, {"prompt": "There are thought to being many victims.", "answer": "There are thought to be many victims."}]},
+        {"id": "ex6", "type": "match", "title": "Misinformation vocabulary", "instruction": "Write the English word or expression.", "instruction_pt": "Escreva a palavra ou expressão em inglês.",
+         "items": [{"prompt": "desmentir", "answer": "debunk"}, {"prompt": "câmara de eco, bolha", "answer": "echo chamber"}, {"prompt": "viés de confirmação", "answer": "confirmation bias"}, {"prompt": "boato, farsa", "answer": "hoax"}, {"prompt": "sem fundamento", "answer": "unsubstantiated"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Fact-check desk\": in pairs, each person reads out three \"news stories\" (two true, one false — invented by you). Your partner asks questions to decide which is false. Use distancing language when presenting them (reportedly, is said to have, claims...).",
+        "instruction_pt": "\"Mesa de checagem\": em pares, cada um apresenta três \"notícias\" (duas verdadeiras e uma falsa, inventadas por você). O colega faz perguntas para descobrir qual é falsa. Use linguagem de distanciamento ao apresentá-las.",
+        "questions": ["How do you check whether a piece of news is true?", "Why do people share false information, even with good intentions?", "Should social media companies be legally responsible for fake news?", "Will deepfakes make it impossible to trust video evidence?", "How can we get out of our echo chambers?"]
+      },
+      "writing": {
+        "task": "Write a news report (280–320 words) about a (fictional) scandal involving a company or public figure. Use distancing language throughout: at least three distancing adverbs, four reporting passives and five attitude-showing reporting verbs.",
+        "task_pt": "Escreva uma reportagem (280–320 palavras) sobre um escândalo (fictício) envolvendo uma empresa ou figura pública. Use linguagem de distanciamento: pelo menos três advérbios, quatro passivas de relato e cinco reporting verbs que mostram atitude.",
+        "model": "Health app accused of selling users' data\n\nA popular fitness app with more than five million Brazilian users is alleged to have sold sensitive health information to advertisers without users' consent, according to an investigation published yesterday. (Fictional story created for this lesson.)\n\nThe company, VidaFit, reportedly shared data including users' weight, sleep patterns and menstrual cycles with at least three marketing firms between 2022 and 2024. Internal emails seen by journalists are said to show that senior managers were aware of the practice.\n\nIn a statement released on Monday evening, VidaFit's CEO, Marcos Teixeira, denied that the company had \"ever sold personal data\". He insisted that all information shared with partners had been \"fully anonymized\" and claimed that users had agreed to the practice when accepting the app's terms and conditions.\n\nPrivacy experts, however, dismissed this explanation. \"Health data is extremely difficult to anonymize,\" said Dr. Larissa Moura, a specialist in digital rights. \"And it is hard to argue that consent buried on page forty of the terms is genuine consent.\"\n\nThe national data protection authority is understood to have opened a preliminary investigation. If the allegations are confirmed, the company could face fines of up to 2% of its revenue in Brazil, as provided for under the General Data Protection Law (LGPD).\n\nBy Tuesday afternoon, the company appeared to be changing its position. A spokesperson conceded that \"communication with users could have been clearer\" and announced that the data-sharing programme had been suspended \"as a precaution\".\n\nThe case has prompted calls for stricter rules on health apps. Thousands of users are thought to have deleted their accounts since the story broke, and a consumer group has threatened to take legal action."
+      },
+      "culture_note": {
+        "title": "Checagem de fatos no Brasil",
+        "text_pt": "O Brasil tem várias agências de checagem respeitadas, como **Lupa**, **Aos Fatos** e o **Projeto Comprova** (que reúne vários veículos). Muitas fazem parte da **International Fact-Checking Network (IFCN)**. Em inglês, o trabalho delas é descrito como **fact-checking** e **debunking**, e as notícias falsas que circulam por apps de mensagem são um tema de pesquisa internacional."
+      },
+      "summary_pt": ["allegedly (acusação), reportedly (segundo relatos), supposedly (com dúvida).", "S + is said/thought/alleged + to be / to have + pp / to have been + pp.", "It is reported that... / There are thought to be...", "claim (dúvida), concede (admitir a contragosto), deny + -ing, insist, dismiss."]
+    },
+    {
+      "id": "C1-M5-L4",
+      "title": "Making the case",
+      "subtitle_pt": "Coesão: referência, substituição e conexão entre parágrafos; o ensaio C1",
+      "duration_min": 85,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – C1 (cohesion and coherence)", "Cambridge C1 Advanced – Writing Part 1 (essay)"],
+      "objectives": ["Usar referência (this, these, such, the former / the latter) para ligar ideias", "Usar sinônimos e \"umbrella nouns\" (this issue, this trend, such measures) para evitar repetição", "Conectar parágrafos com frases de transição", "Escrever um ensaio C1 Advanced (220–260 palavras) avaliando duas opções"],
+      "warmup": {
+        "text_pt": "Na prova C1 Advanced, a Parte 1 da escrita é um **essay** (220–260 palavras) em que você deve **avaliar duas de três opções** apresentadas e dizer qual é mais importante. A diferença entre um B2 e um C1? A **coesão**: o texto flui como um todo, sem repetições, com cada frase ligada à anterior. Tema: **políticas públicas**.",
+        "questions": ["If you were president, which problem would you tackle first?", "What makes an argument convincing in writing?"]
+      },
+      "vocabulary": [
+        {"en": "cohesion / cohesive", "pt": "coesão / coeso", "say": "kouhízhan / kouhísiv"},
+        {"en": "coherence / coherent", "pt": "coerência / coerente", "say": "kourírens / kourírent"},
+        {"en": "the former / the latter", "pt": "o primeiro / o último (de dois)", "say": "dâ fórmer / dâ léter"},
+        {"en": "a policy / a policymaker", "pt": "uma política / um formulador de políticas", "say": "a pólisi / a pólisi mêiker"},
+        {"en": "to tackle (an issue)", "pt": "enfrentar (uma questão)", "say": "tu tékol"},
+        {"en": "to allocate (funds / resources)", "pt": "alocar (verbas / recursos)", "say": "tu élokeit"},
+        {"en": "a measure / to take measures", "pt": "uma medida / tomar medidas", "say": "a mézher"},
+        {"en": "a long-term / short-term solution", "pt": "uma solução de longo / curto prazo", "say": "a lóng târm"},
+        {"en": "to prioritize / a priority", "pt": "priorizar / uma prioridade", "say": "tu praióritaiz"},
+        {"en": "far-reaching", "pt": "de grande alcance", "say": "fár rítchin"},
+        {"en": "to weigh up (pros and cons)", "pt": "ponderar (prós e contras)", "say": "tu uêi âp"},
+        {"en": "on balance", "pt": "pesando tudo", "say": "on bélans"}
+      ],
+      "chunks": [
+        {"en": "This approach has several advantages.", "pt": "Essa abordagem tem várias vantagens."},
+        {"en": "Such measures would be costly.", "pt": "Tais medidas seriam caras."},
+        {"en": "The former is cheaper; the latter is faster.", "pt": "O primeiro é mais barato; o último é mais rápido."},
+        {"en": "Turning now to public transport, ...", "pt": "Passando agora ao transporte público, ..."},
+        {"en": "Of the two options, education is the more urgent.", "pt": "Das duas opções, a educação é a mais urgente."},
+        {"en": "On balance, I believe that...", "pt": "Pesando tudo, acredito que..."}
+      ],
+      "grammar": {
+        "title": "Cohesion in writing",
+        "explanation_pt": "**Coesão** = os mecanismos que **ligam** frases e parágrafos. Um texto C1 usa vários, **sem exagerar nos conectores**.\n\n**1. Referência (para trás):**\n- **this / that / these / those** + substantivo: \"Many cities have introduced bike lanes. **This policy** has...\"\n- **such** + substantivo (= desse tipo): \"**Such measures** are expensive.\" / \"**Such a policy**...\"\n- **the former / the latter** (o primeiro / o último de **dois**): \"Investing in schools or hospitals? **The former** has long-term benefits; **the latter** saves lives now.\"\n- **it / they / which** (pronomes — cuidado com ambiguidade!)\n\n**2. \"Umbrella nouns\"** — substantivos gerais que resumem uma ideia anterior:\n**this issue / problem / trend / approach / development / situation / view / claim / argument / measure / phenomenon**\n\"Young people are increasingly leaving rural areas. **This trend** has serious consequences...\"\n\n**3. Sinônimos e variação lexical** — evite repetir a mesma palavra:\npublic transport → the transport network → buses and trains → the system\n\n**4. Substituição e elipse** (revisão C1-M1-L2): do so, one(s), so/not.\n\n**5. Transições entre parágrafos** (ligam ideia anterior + nova):\n- \"**Turning now to** healthcare, ...\"\n- \"**Another area which deserves attention is**...\"\n- \"**While** improving transport would clearly benefit commuters, **investing in** education might have more far-reaching effects.\"\n- \"**Having considered** X, **it is worth examining** Y.\"\n\n**6. Estrutura do essay C1 Advanced (avaliar 2 de 3 opções):**\n1. **Introdução:** apresente o tema e diga quais duas opções vai discutir.\n2. **Parágrafo 1:** opção A — vantagens, exemplos, possíveis limitações.\n3. **Parágrafo 2:** opção B — idem.\n4. **Conclusão:** diga **qual é mais importante/eficaz** e **por quê** (obrigatório!).\n\n⚠️ **Dica:** um conector por frase é muito. Use **referência e vocabulário** para criar coesão — isso é o que distingue C1.",
+        "table": {
+          "headers": ["Recurso", "Exemplo"],
+          "rows": [["this / these + umbrella noun", "This trend is worrying."], ["such + noun", "Such policies have worked elsewhere."], ["the former / the latter", "The former is cheaper; the latter is fairer."], ["Sinônimos", "the elderly → older people → senior citizens"], ["Transição", "Turning now to housing, ..."], ["Comparação final", "Of the two, the former would be more effective."]]
+        },
+        "examples": [
+          {"en": "Several countries have introduced free public transport. Such schemes reduce traffic, but they are expensive to maintain.", "pt": "Vários países introduziram transporte público gratuito. Esquemas desse tipo reduzem o trânsito, mas são caros de manter."},
+          {"en": "Governments can either invest in renewable energy or subsidize electric cars. The former tends to have a broader impact, whereas the latter mainly benefits wealthier citizens.", "pt": "Os governos podem investir em energia renovável ou subsidiar carros elétricos. A primeira opção tende a ter impacto mais amplo, enquanto a segunda beneficia principalmente os cidadãos mais ricos."},
+          {"en": "Youth unemployment has risen sharply in recent years. This development is particularly worrying because it affects long-term earnings.", "pt": "O desemprego juvenil aumentou acentuadamente nos últimos anos. Esse fenômeno é particularmente preocupante porque afeta a renda de longo prazo."}
+        ],
+        "tip_pt": "Use **the former / the latter** apenas quando houver **exatamente dois** itens. Para três ou mais, use **the first / the last** ou repita o substantivo."
+      },
+      "common_mistakes": [
+        {"wrong": "Such measure would be expensive.", "right": "Such a measure would be expensive. / Such measures would be expensive.", "why_pt": "such + a + substantivo singular contável."},
+        {"wrong": "There are three options: the latter is the best.", "right": "There are three options: the last is the best.", "why_pt": "the former / the latter só para dois itens."},
+        {"wrong": "Moreover, ... Furthermore, ... Moreover, ... In addition, ...", "right": "Use referência e umbrella nouns: This approach... Such a policy...", "why_pt": "Conectores demais prejudicam o texto; varie os recursos de coesão."}
+      ],
+      "pronunciation": {
+        "focus": "former / latter",
+        "tip_pt": "**Former** = \"FÓR-mer\" e **latter** = \"LÉ-ter\" (no americano, o tt soa quase como um \"r\" rápido: \"LÉ-rer\"). Não confunda **latter** (o último) com **later** (\"LÊI-ter\", mais tarde)!",
+        "practice": ["the FORmer and the LATter", "LATter (o último) x LAter (mais tarde)", "Of the two, the former is cheaper."]
+      },
+      "dialogue": {
+        "title": "Exam preparation",
+        "context_pt": "Uma professora e uma aluna analisam juntas o planejamento de um essay C1 Advanced.",
+        "lines": [
+          {"speaker": "Teacher", "en": "OK, the task: your class has discussed three ways governments could improve quality of life in cities — public transport, green spaces and affordable housing. You have to discuss two and say which is more important.", "pt": "OK, a tarefa: sua turma discutiu três formas de os governos melhorarem a qualidade de vida nas cidades — transporte público, áreas verdes e moradia acessível. Você precisa discutir duas e dizer qual é mais importante."},
+          {"speaker": "Luiza", "en": "I'll choose transport and housing. I have more ideas for those.", "pt": "Vou escolher transporte e moradia. Tenho mais ideias para essas."},
+          {"speaker": "Teacher", "en": "Good strategy. Now, look at your draft. You wrote \"public transport\" seven times in one paragraph.", "pt": "Boa estratégia. Agora, olhe seu rascunho. Você escreveu \"public transport\" sete vezes num parágrafo."},
+          {"speaker": "Luiza", "en": "I know. I didn't know how to avoid it.", "pt": "Eu sei. Não sabia como evitar."},
+          {"speaker": "Teacher", "en": "Use reference and synonyms. After the first mention, try \"the transport network\", \"buses and trains\" or \"this investment\".", "pt": "Use referência e sinônimos. Depois da primeira menção, tente \"the transport network\", \"buses and trains\" ou \"this investment\"."},
+          {"speaker": "Luiza", "en": "And here? \"Building houses is good. Building houses is expensive.\"", "pt": "E aqui? \"Construir casas é bom. Construir casas é caro.\""},
+          {"speaker": "Teacher", "en": "Combine them with an umbrella noun: \"Building affordable homes would benefit millions. Such a programme, however, would be costly.\"", "pt": "Combine com um umbrella noun: \"Construir moradias acessíveis beneficiaria milhões. Um programa desse tipo, porém, seria caro.\""},
+          {"speaker": "Luiza", "en": "That sounds much better. And in the conclusion, I can say \"Of the two, the latter is more urgent\"?", "pt": "Fica bem melhor. E na conclusão, posso dizer \"Das duas, a última é mais urgente\"?"},
+          {"speaker": "Teacher", "en": "Perfect — as long as it's clear which one is \"the latter\". And remember: you must say which is more important and why. Many students forget that.", "pt": "Perfeito — desde que fique claro qual é \"a última\". E lembre-se: você precisa dizer qual é mais importante e por quê. Muitos alunos esquecem."}
+        ]
+      },
+      "listening": {
+        "title": "What examiners look for",
+        "context_pt": "Uma examinadora explica os critérios de correção do essay C1.",
+        "lines": [
+          {"speaker": "Examiner", "en": "At C1 level, the difference between a good essay and an excellent one is often not the ideas but the organization. We assess writing in four areas: content, communicative achievement, organization and language. Under organization, we're looking for a text that is well structured and cohesive, using a variety of devices — not just linking words. Many candidates think that the more \"furthermore\" and \"moreover\" they use, the higher their score will be. In fact, overusing linking words can make a text feel mechanical. What really impresses examiners is when ideas flow naturally: when a sentence refers back to the previous one using \"this problem\" or \"such an approach\", and when paragraphs are connected by a clear line of argument. The other common mistake is forgetting part of the task. In the essay, you must clearly state which option you consider more important, and give reasons. If you don't, your content score will suffer, however good your English is."}
+        ],
+        "questions": [
+          {"q": "What is often the difference between good and excellent essays at C1?", "answer": "The organization, not the ideas."},
+          {"q": "What mistake do many candidates make with linking words?", "answer": "They overuse them, making the text feel mechanical."},
+          {"q": "What really impresses examiners?", "answer": "Ideas flowing naturally, with reference (this problem, such an approach) and a clear line of argument."},
+          {"q": "What part of the task do candidates often forget?", "answer": "Stating which option is more important and giving reasons."}
+        ]
+      },
+      "reading": {
+        "title": "Model essay: Improving life in cities",
+        "text": "Over half of the world's population now lives in cities, and this proportion is expected to keep rising. As a result, the question of how to make urban life healthier and more sustainable has become increasingly urgent. Of the various measures available to governments, investment in public transport and the provision of affordable housing are two of the most frequently discussed.\n\nAn efficient public transport system can transform daily life. When buses and trains are frequent, safe and affordable, fewer people depend on cars, which in turn reduces congestion, air pollution and carbon emissions. Such a network also widens access to jobs and education, particularly for those living on the outskirts. However, this kind of infrastructure is costly and can take years to build, and its benefits depend heavily on good planning and maintenance.\n\nAffordable housing, by contrast, addresses a more fundamental need. In many cities, soaring rents have pushed low-income families into informal settlements or distant suburbs, where they face long commutes and limited services. Providing decent homes closer to city centres would not only improve living conditions but also reduce the very travel demands that transport investment seeks to meet. Admittedly, such programmes can be poorly managed and may concentrate poverty if they are badly designed.\n\nOn balance, although both measures are valuable, I believe the latter should be the priority. Without a secure, affordable place to live, people cannot fully benefit from any other improvement a city has to offer. Moreover, well-located housing reduces the need for long journeys in the first place, making it, in the long term, the more far-reaching solution.",
+        "questions": [
+          {"q": "Which two measures does the essay discuss?", "answer": "Investment in public transport and affordable housing."},
+          {"q": "What benefits of public transport are mentioned?", "answer": "Less congestion, pollution and emissions; wider access to jobs and education."},
+          {"q": "Find two examples of cohesive devices in paragraph 2.", "answer": "Such a network / this kind of infrastructure / which in turn / However."},
+          {"q": "Which option does the writer prioritize, and why?", "answer": "Affordable housing (the latter): it's a fundamental need and reduces the need for long journeys."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "fill_blank", "title": "Umbrella nouns", "instruction": "Complete with: trend · measure · issue · approach · development.", "instruction_pt": "Complete com o umbrella noun adequado.",
+         "items": [{"prompt": "More and more young people are moving abroad. This ___ worries economists.", "answer": "trend"}, {"prompt": "The city banned cars from the centre on Sundays. This ___ proved very popular.", "answer": "measure"}, {"prompt": "Some schools teach through projects instead of exams. This ___ encourages creativity.", "answer": "approach"}, {"prompt": "Housing costs have doubled. This ___ must be addressed. Recently, a new metro line opened — a welcome ___.", "answer": "issue / development"}]},
+        {"id": "ex2", "type": "multiple_choice", "title": "Reference words", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+         "items": [{"prompt": "Governments can tax sugar or ban advertising. ___ raises money; the latter changes habits.", "options": ["The former", "The first one", "The latter"], "answer": "The former"}, {"prompt": "___ policies have been successful in several European cities.", "options": ["Such", "Such a", "So"], "answer": "Such"}, {"prompt": "It would be ___ expensive project that few cities could afford it.", "options": ["such an", "so", "such"], "answer": "such an"}, {"prompt": "Some favour fines; others prefer education. I agree with ___ view.", "options": ["the latter", "the latest", "the later"], "answer": "the latter"}]},
+        {"id": "ex3", "type": "answer", "title": "Improve cohesion", "instruction": "Rewrite the pairs of sentences to avoid repetition, using reference, umbrella nouns or synonyms.", "instruction_pt": "Reescreva os pares de frases evitando repetição.",
+         "items": [{"prompt": "Many cities offer free public transport. Free public transport reduces traffic.", "answer": "Many cities offer free public transport. Such schemes reduce traffic. / This measure reduces traffic."}, {"prompt": "Older people are often isolated. Older people need more support.", "answer": "Older people are often isolated. Senior citizens / They need more support."}, {"prompt": "Governments could raise taxes or cut spending. Raising taxes is unpopular. Cutting spending affects services.", "answer": "Governments could raise taxes or cut spending. The former is unpopular, while the latter affects services."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "This approach has several advantages."}, {"prompt": "2", "answer": "Such measures would be costly."}, {"prompt": "3", "answer": "The former is cheaper; the latter is faster."}, {"prompt": "4", "answer": "On balance, I believe that housing should be the priority."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "Such policy would be popular.", "answer": "Such a policy would be popular. / Such policies would be popular."}, {"prompt": "We discussed transport, housing and parks. The latter is the most important.", "answer": "We discussed transport, housing and parks. The last is the most important. / Parks are the most important."}, {"prompt": "I'll discuss this issue latter in the essay.", "answer": "I'll discuss this issue later in the essay."}, {"prompt": "In other hand, this trend has advantages.", "answer": "On the other hand, this trend has advantages."}]},
+        {"id": "ex6", "type": "order_words", "title": "Plan the essay", "instruction": "Put the parts of a C1 essay in the correct order (write the letters).", "instruction_pt": "Coloque as partes do essay C1 na ordem correta (escreva as letras).",
+         "items": [{"prompt": "a) Affordable housing, by contrast, addresses... / b) On balance, I believe the latter should be the priority... / c) Over half of the world's population lives in cities... This essay will consider... / d) An efficient public transport system can transform daily life...", "answer": "c, d, a, b"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Budget committee\": your group has money for only one of three projects in your city (a new metro line, a social housing programme, a network of parks). Discuss two in detail, compare them using the former / the latter, and agree on a final recommendation.",
+        "instruction_pt": "\"Comitê de orçamento\": o grupo tem verba para apenas um de três projetos na cidade (nova linha de metrô, programa de moradia social, rede de parques). Discutam dois em detalhe, comparem usando the former / the latter e cheguem a uma recomendação final.",
+        "questions": ["Which public policy would most improve life in your city?", "Should governments prioritize short-term or long-term solutions?", "Is it better to invest in education or in healthcare? Why?", "How should public money be allocated: by experts or by citizens?", "What policy from another country would you like Brazil to adopt?"]
+      },
+      "writing": {
+        "task": "C1 Advanced essay (220–260 words): \"Your class has discussed three ways governments could reduce inequality: free university education, a guaranteed minimum income, and investment in early childhood education. Write an essay discussing two of these, explaining which is more effective and why.\" Use a range of cohesive devices.",
+        "task_pt": "Essay C1 Advanced (220–260 palavras): \"Sua turma discutiu três formas de os governos reduzirem a desigualdade: universidade gratuita, renda mínima garantida e investimento na educação infantil. Discuta duas delas, explicando qual é mais eficaz e por quê.\" Use vários recursos de coesão.",
+        "model": "Reducing inequality: where should governments begin?\n\nInequality remains one of the most persistent challenges facing countries such as Brazil. Of the many policies proposed to address this issue, a guaranteed minimum income and investment in early childhood education are among the most widely debated.\n\nA guaranteed minimum income offers immediate relief. By ensuring that every household has enough to cover its basic needs, such a scheme can reduce extreme poverty almost overnight. Cash transfer programmes have been credited with lowering poverty rates in several countries, including Brazil, and they allow families to decide for themselves how best to spend the money. Nevertheless, this approach is expensive and, on its own, does little to change the conditions that cause poverty in the first place.\n\nEarly childhood education, by contrast, targets those underlying conditions. Research suggests that the first years of life are crucial for cognitive and social development, and that children from poorer families who attend high-quality nurseries and pre-schools are more likely to succeed later on. The benefits of this investment, however, take many years to appear, which makes it politically less attractive.\n\nOn balance, although both measures have clear merits, I believe the latter is ultimately more effective. While a minimum income alleviates the symptoms of inequality, early education addresses one of its root causes, giving children a fairer start regardless of their background. Ideally, the two policies would work together; if only one can be prioritized, however, investing in the youngest citizens is likely to have the most far-reaching impact."
+      },
+      "culture_note": {
+        "title": "Coesão em inglês x português",
+        "text_pt": "Textos acadêmicos em português costumam aceitar frases longas, com muitas orações subordinadas. Em inglês, a tradição valoriza frases mais **curtas e diretas**, ligadas por **referência** (this, such, these) em vez de conectores longos. Uma dica prática: se sua frase em inglês tem mais de 35 palavras, provavelmente vale dividir em duas."
+      },
+      "summary_pt": ["Referência: this / these + umbrella noun; such (a) + noun.", "the former / the latter: só para dois itens.", "Sinônimos e variação evitam repetição; menos conectores, mais referência.", "Essay C1: introdução · opção A · opção B · conclusão com qual é mais importante e por quê."]
+    }
+  ],
+  "review": {
+    "intro_pt": "Revise futuro formal, multi-word verbs abstratos, linguagem de distanciamento e coesão.",
+    "exercises": [
+      {"id": "r1", "type": "multiple_choice", "title": "Choose the correct option", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+       "items": [{"prompt": "Food prices are set ___ rise again.", "options": ["to", "for", "on"], "answer": "to"}, {"prompt": "The species is on the brink ___ extinction.", "options": ["to", "of", "for"], "answer": "of"}, {"prompt": "The problem stems ___ a lack of investment.", "options": ["from", "in", "of"], "answer": "from"}, {"prompt": "The suspect is believed ___ the country.", "options": ["to leave", "to have left", "leaving"], "answer": "to have left"}, {"prompt": "___ measures have been introduced in other countries.", "options": ["Such", "Such a", "So"], "answer": "Such"}]},
+      {"id": "r2", "type": "answer", "title": "Transform", "instruction": "Rewrite the sentences as instructed.", "instruction_pt": "Reescreva as frases como indicado.",
+       "items": [{"prompt": "If we want to succeed, we must cooperate. (If we are to...)", "answer": "If we are to succeed, we must cooperate."}, {"prompt": "Migrants represent 10% of the workforce. (account)", "answer": "Migrants account for 10% of the workforce."}, {"prompt": "It is alleged that the mayor accepted bribes. (The mayor...)", "answer": "The mayor is alleged to have accepted bribes."}]},
+      {"id": "r3", "type": "translate", "title": "Translate", "instruction": "Translate into English.", "instruction_pt": "Traduza para o inglês.",
+       "items": [{"prompt": "O relatório deve ser publicado na segunda (previsto).", "answer": "The report is due to be published on Monday."}, {"prompt": "Eles esbarraram em muita burocracia.", "answer": "They came up against a lot of bureaucracy."}, {"prompt": "A primeira opção é mais barata; a segunda é mais rápida.", "answer": "The former is cheaper; the latter is faster."}]},
+      {"id": "r4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+       "items": [{"prompt": "1", "answer": "The summit is to be held in Belém."}, {"prompt": "2", "answer": "The war brought about a huge wave of migration."}, {"prompt": "3", "answer": "She conceded that mistakes had been made."}]},
+      {"id": "r5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+       "items": [{"prompt": "The forest is on the verge to collapse.", "answer": "The forest is on the verge of collapse / of collapsing."}, {"prompt": "He is said that he is very rich.", "answer": "He is said to be very rich."}, {"prompt": "Such policy would be unpopular.", "answer": "Such a policy would be unpopular."}]}
+    ],
+    "speaking_pt": "Faça uma apresentação de 5 minutos no formato \"policy briefing\" sobre uma questão global (clima, migração ou desinformação): apresente previsões (futuro formal), explique causas e consequências (multi-word verbs), relate informações com distanciamento e termine com uma recomendação bem argumentada (coesão).",
+    "speaking_questions": ["Which global issue will define the next decade?", "Can individuals make a real difference to global problems?", "How should Brazil respond to climate migration?", "Who is responsible for stopping misinformation?", "If you could change one global policy, what would it be?"],
+    "project_pt": "**\"Model UN\":** a turma simula uma sessão da ONU sobre uma questão global. Cada grupo representa um país, prepara um discurso de 2 minutos (com futuro formal e distanciamento), negocia com os outros e, no final, todos redigem juntos uma resolução de 300 palavras, coesa e formal."
+  }
+}

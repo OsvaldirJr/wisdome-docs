@@ -1,0 +1,535 @@
+{
+  "id": "B1P-M2",
+  "level": "B1+",
+  "title": "Money and Success",
+  "theme_pt": "Finanças pessoais, autocontrole, conquistas e como lidar com erros",
+  "can_do": ["Falar de dinheiro e hábitos de consumo com quantificadores precisos", "Contar experiências e conquistas combinando present perfect e past simple", "Destacar processos e esforços com o present perfect continuous", "Pedir desculpas, justificar e assumir responsabilidade de forma profissional", "Discutir o que é sucesso para diferentes pessoas"],
+  "lessons": [
+    {
+      "id": "B1P-M2-L1",
+      "title": "Managing your money",
+      "subtitle_pt": "Quantificadores: much, many, a lot of, a few, a little, plenty of, too much, enough",
+      "duration_min": 70,
+      "source_refs": ["Keynote Intermediate – Unit 3 (Money: The money in your pocket / How to manage your money)", "Keynote Intermediate – Grammar summary (quantifiers)"],
+      "objectives": ["Usar quantificadores com contáveis e incontáveis com precisão", "Diferenciar few/a few e little/a little", "Usar too much / too many / not enough", "Falar de orçamento, dívidas e hábitos financeiros"],
+      "warmup": {
+        "text_pt": "Pix, cartão de crédito, parcelado em 10x, investimento... Como você controla seu dinheiro? Planilha, app ou \"no olho\"?",
+        "questions": ["Are you a saver or a spender?", "What do you spend too much money on?"]
+      },
+      "vocabulary": [
+        {"en": "budget / to budget", "pt": "orçamento / fazer orçamento", "say": "bâdjet"},
+        {"en": "income / expenses", "pt": "renda / despesas", "say": "ínkâm / ikspénsiz"},
+        {"en": "savings / to save", "pt": "economias / economizar", "say": "sêivinz"},
+        {"en": "debt / to be in debt", "pt": "dívida / estar endividado", "say": "dét / in dét"},
+        {"en": "to pay in installments", "pt": "pagar parcelado", "say": "tu pêi in instólments"},
+        {"en": "interest (rate)", "pt": "juros (taxa de)", "say": "íntrest rêit"},
+        {"en": "to afford", "pt": "ter condições de pagar", "say": "tu afórd"},
+        {"en": "to invest / investment", "pt": "investir / investimento", "say": "tu invést"},
+        {"en": "emergency fund", "pt": "reserva de emergência", "say": "imârdjensi fând"},
+        {"en": "impulse buying", "pt": "compra por impulso", "say": "ímpâls báiin"},
+        {"en": "to cut back on", "pt": "reduzir (gastos com)", "say": "tu kât bék on"},
+        {"en": "to make ends meet", "pt": "fechar as contas do mês", "say": "tu mêik éndz mít"}
+      ],
+      "chunks": [
+        {"en": "I can't afford it right now.", "pt": "Não tenho condições de comprar agora."},
+        {"en": "I spend too much on delivery.", "pt": "Gasto demais com delivery."},
+        {"en": "I've got a little money saved.", "pt": "Tenho um pouco de dinheiro guardado."},
+        {"en": "Few people know how to invest.", "pt": "Poucas pessoas sabem investir."},
+        {"en": "I'm trying to cut back on eating out.", "pt": "Estou tentando reduzir as refeições fora."},
+        {"en": "Can I pay in installments?", "pt": "Posso parcelar?"}
+      ],
+      "grammar": {
+        "title": "Quantifiers",
+        "explanation_pt": "**Grande quantidade:**\n- **a lot of / lots of** + contável e incontável (principalmente afirmativas): a lot of money, lots of bills\n- **many** + contável · **much** + incontável → principalmente em **perguntas e negativas**: How much debt? / not many options\n- **plenty of** = mais que suficiente: \"Don't worry, we have **plenty of** time.\"\n\n**Pequena quantidade — a diferença sutil:**\n- **a few** (contável) / **a little** (incontável) = **alguns, um pouco** → sentido **positivo** (é suficiente)\n  \"I have **a little** money saved. Let's go out!\"\n- **few** / **little** (sem \"a\") = **poucos, pouco** → sentido **negativo** (quase nada)\n  \"**Few** people save enough for retirement.\" / \"There's **little** hope.\"\n\n**Excesso e falta:**\n- **too much** + incontável / **too many** + contável = demais (problema): \"I spend **too much** money on apps.\" / \"I have **too many** subscriptions.\"\n- **(not) enough** + substantivo = (não) suficiente: \"I don't have **enough** savings.\"\n\n**Nenhum:**\n- **no** + substantivo = \"There's **no** money left.\" (= not any)\n- **none (of)** sozinho: \"How much is left? **None**.\"",
+        "table": {
+          "headers": ["Quantificador", "Contável (bills)", "Incontável (money)"],
+          "rows": [["muito", "a lot of / many bills", "a lot of / much money"], ["mais que suficiente", "plenty of bills", "plenty of money"], ["alguns / um pouco (+)", "a few bills", "a little money"], ["poucos / pouco (−)", "few bills", "little money"], ["demais", "too many bills", "too much money"], ["suficiente", "enough bills", "enough money"], ["nenhum", "no bills", "no money"]]
+        },
+        "examples": [
+          {"en": "Few Brazilians have an emergency fund, but a few apps are trying to change that.", "pt": "Poucos brasileiros têm reserva de emergência, mas alguns apps estão tentando mudar isso."},
+          {"en": "I had too many subscriptions, so I cancelled a few of them.", "pt": "Eu tinha assinaturas demais, então cancelei algumas."},
+          {"en": "We don't have much time, but we have plenty of ideas.", "pt": "Não temos muito tempo, mas temos ideias de sobra."}
+        ],
+        "tip_pt": "**Money** é incontável, mas **reais / dollars / coins / bills** são contáveis: \"How **much money**?\" x \"How **many dollars**?\""
+      },
+      "common_mistakes": [
+        {"wrong": "I have too much bills to pay.", "right": "I have too many bills to pay.", "why_pt": "Bills é contável: too many."},
+        {"wrong": "I have few money, so let's have a coffee.", "right": "I have a little money, so let's have a coffee.", "why_pt": "Sentido positivo (é suficiente) = a little."},
+        {"wrong": "There are much people in debt.", "right": "There are a lot of / many people in debt.", "why_pt": "People é contável: many ou a lot of."}
+      ],
+      "pronunciation": {
+        "focus": "Debt, budget, installments",
+        "tip_pt": "**Debt** = \"dét\" (B mudo, como em doubt). **Budget** = \"BÂ-djet\". **Installments** = \"in-STÓL-ments\". **Afford** = \"a-FÓRD\" (força no fim).",
+        "practice": ["I'm trying to pay off my debt.", "We need a monthly budget.", "I can't afford it."]
+      },
+      "dialogue": {
+        "title": "Money talk",
+        "context_pt": "Duas amigas conversam sobre finanças depois de uma delas receber a fatura do cartão.",
+        "lines": [
+          {"speaker": "Tati", "en": "I just saw my credit card bill. I spent too much again! How do you manage to save money?", "pt": "Acabei de ver a fatura do cartão. Gastei demais de novo! Como você consegue economizar?"},
+          {"speaker": "Rosa", "en": "It took me a while. First, I wrote down every expense for a month. I was shocked.", "pt": "Levou um tempo. Primeiro, anotei todas as despesas por um mês. Fiquei chocada."},
+          {"speaker": "Tati", "en": "Why?", "pt": "Por quê?"},
+          {"speaker": "Rosa", "en": "I had too many subscriptions — six streaming services! And I was spending a lot of money on delivery.", "pt": "Eu tinha assinaturas demais — seis streamings! E estava gastando muito dinheiro com delivery."},
+          {"speaker": "Tati", "en": "Ha, that's me. And I always pay in installments. Ten times, no interest... it feels free!", "pt": "Ha, essa sou eu. E eu sempre parcelo. Dez vezes sem juros... parece de graça!"},
+          {"speaker": "Rosa", "en": "That's the trap. When you have too many installments, there's little money left at the end of the month.", "pt": "Essa é a armadilha. Quando você tem parcelas demais, sobra pouco dinheiro no fim do mês."},
+          {"speaker": "Tati", "en": "True. I don't even have an emergency fund.", "pt": "Verdade. Eu nem tenho reserva de emergência."},
+          {"speaker": "Rosa", "en": "Start with a little — even fifty reais a month. Few people start big. The habit is what matters.", "pt": "Comece com pouco — até cinquenta reais por mês. Poucas pessoas começam grande. O que importa é o hábito."}
+        ]
+      },
+      "listening": {
+        "title": "Financial tips podcast",
+        "context_pt": "Um educador financeiro dá dicas em um podcast.",
+        "lines": [
+          {"speaker": "Educator", "en": "Here are a few rules I teach everyone. One: before you buy something that isn't essential, wait 48 hours. Most impulse purchases don't survive the wait. Two: try the 50-30-20 rule — 50% of your income for needs, 30% for wants, and 20% for savings or paying debt. Three: build an emergency fund. Ideally, you should have enough to cover three to six months of expenses. And four: be careful with credit card debt. In some countries, the interest rates are extremely high — few loans are more expensive. If you can't pay the full bill, cut back on something else before you pay only the minimum."}
+        ],
+        "questions": [
+          {"q": "What should you do before buying something non-essential?", "answer": "Wait 48 hours."},
+          {"q": "What is the 50-30-20 rule?", "answer": "50% for needs, 30% for wants, 20% for savings or paying debt."},
+          {"q": "How big should an emergency fund be?", "answer": "Enough for three to six months of expenses."},
+          {"q": "Why should you be careful with credit card debt?", "answer": "Interest rates can be extremely high."}
+        ]
+      },
+      "reading": {
+        "title": "Cashless societies",
+        "text": "In just a few years, the way people pay for things has changed dramatically. In Sweden, very few shops still accept cash, and some banks no longer handle coins and notes at all. In Brazil, Pix — the instant payment system launched by the Central Bank in 2020 — became one of the most widely used payment methods in the country in a remarkably short time. Street vendors, taxi drivers and even beggars now display QR codes. The advantages are clear: payments are fast, free for individuals and convenient. But there are concerns too. Digital payments make it easier to spend without noticing — paying with a phone doesn't \"hurt\" as much as handing over a banknote. Fraud and scams have also increased. And not everyone has a smartphone or a bank account, so a fully cashless society could leave the most vulnerable people behind. The question is not whether cash will disappear, but how quickly — and who will pay the price.",
+        "questions": [
+          {"q": "What is happening in Sweden?", "answer": "Very few shops accept cash and some banks don't handle coins and notes."},
+          {"q": "What is Pix?", "answer": "The instant payment system launched by Brazil's Central Bank in 2020."},
+          {"q": "Why can digital payments make us spend more?", "answer": "Paying with a phone doesn't \"hurt\" as much as handing over a banknote."},
+          {"q": "Who could be left behind in a cashless society?", "answer": "People without a smartphone or bank account (the most vulnerable)."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Choose the quantifier", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+         "items": [{"prompt": "How ___ money do you spend on food?", "options": ["much", "many"], "answer": "much"}, {"prompt": "I have ___ subscriptions. I need to cancel some.", "options": ["too much", "too many"], "answer": "too many"}, {"prompt": "Don't hurry. We have ___ time.", "options": ["plenty of", "few"], "answer": "plenty of"}, {"prompt": "There's ___ milk left. Can you buy some?", "options": ["a little", "little"], "answer": "little"}, {"prompt": "I've saved ___ money. Let's go to the beach!", "options": ["a little", "little"], "answer": "a little"}, {"prompt": "___ people understand how interest works. It's a problem.", "options": ["Few", "A few"], "answer": "Few"}]},
+        {"id": "ex2", "type": "fill_blank", "title": "Complete with a quantifier", "instruction": "Complete with: enough · too much · a few · no · many.", "instruction_pt": "Complete com um quantificador.",
+         "items": [{"prompt": "I don't earn ___ to save every month.", "answer": "enough"}, {"prompt": "There's ___ money left in my account. Zero!", "answer": "no"}, {"prompt": "I spend ___ time scrolling online stores.", "answer": "too much"}, {"prompt": "How ___ installments do you have?", "answer": "many"}, {"prompt": "I've got ___ ideas to save money. Want to hear them?", "answer": "a few"}]},
+        {"id": "ex3", "type": "match", "title": "Money vocabulary", "instruction": "Write the English expression.", "instruction_pt": "Escreva a expressão em inglês.",
+         "items": [{"prompt": "fechar as contas do mês", "answer": "make ends meet"}, {"prompt": "reserva de emergência", "answer": "emergency fund"}, {"prompt": "pagar parcelado", "answer": "pay in installments"}, {"prompt": "compra por impulso", "answer": "impulse buying"}, {"prompt": "estar endividado", "answer": "be in debt"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "I can't afford it right now."}, {"prompt": "2", "answer": "I spend too much on delivery."}, {"prompt": "3", "answer": "Few people know how to invest."}, {"prompt": "4", "answer": "I'm trying to cut back on eating out."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "I have too much debts.", "answer": "I have too many debts. / I have too much debt."}, {"prompt": "How many money do you need?", "answer": "How much money do you need?"}, {"prompt": "We don't have money enough.", "answer": "We don't have enough money."}, {"prompt": "There are much options.", "answer": "There are many / a lot of options."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the advice", "instruction": "Complete with: budget · afford · interest · cut · savings.", "instruction_pt": "Complete o conselho.",
+         "items": [{"prompt": "Make a monthly ___ and follow it.", "answer": "budget"}, {"prompt": "If you can't ___ something, don't buy it on credit.", "answer": "afford"}, {"prompt": "Credit cards have very high ___ rates.", "answer": "interest"}, {"prompt": "___ back on small expenses, and put the difference into your ___.", "answer": "Cut / savings"}]}
+      ],
+      "speaking": {
+        "instruction": "Discuss money habits in groups. Then create a \"money challenge\" for the group for the next 30 days.",
+        "instruction_pt": "Discutam hábitos financeiros em grupo. Depois criem um \"desafio financeiro\" para o grupo nos próximos 30 dias.",
+        "questions": ["Are you a saver or a spender? Give examples.", "What do you spend too much money on?", "Do you pay in installments? Is it a good idea?", "Should schools teach financial education?", "Would you like to live in a cashless society? Why?"]
+      },
+      "writing": {
+        "task": "Write an article (150–180 words) for a student magazine: \"5 money tips for young people\". Use at least 6 different quantifiers.",
+        "task_pt": "Escreva um artigo (150–180 palavras) para uma revista estudantil: \"5 dicas de dinheiro para jovens\". Use pelo menos 6 quantificadores diferentes.",
+        "model": "5 money tips for young people\n\n1. Track every expense for a month. Most people are surprised by how much money they spend on small things like snacks and apps.\n2. Cancel what you don't use. Many of us have too many subscriptions — a few of them we haven't opened in months.\n3. Be careful with installments. Paying in ten installments feels easy, but if you have too many, there will be little money left at the end of the month.\n4. Start an emergency fund, even with a little money. Few students can save a lot, but saving something every month builds a powerful habit.\n5. Learn the basics of investing. You don't need much money to start, and there are plenty of free courses online.\n\nRemember: financial freedom isn't about earning a lot. It's about spending less than you earn — and making sure you always have enough for the unexpected."
+      },
+      "culture_note": {
+        "title": "\"Parcelado sem juros\" — uma invenção brasileira",
+        "text_pt": "O parcelamento sem juros no cartão é muito comum no Brasil, mas raro em outros países. Nos EUA e na Europa, existem serviços de **BNPL (Buy Now, Pay Later)**, mas pagar uma TV em 10x sem juros surpreende estrangeiros. Para explicar: **\"In Brazil, you can split the payment into installments with no interest.\"**"
+      },
+      "summary_pt": ["many + contável · much + incontável · a lot of + ambos.", "a few / a little = alguns (positivo) · few / little = poucos (negativo).", "too much / too many = demais · enough = suficiente.", "money (incontável) x reais/dollars (contáveis)."]
+    },
+    {
+      "id": "B1P-M2-L2",
+      "title": "Don't eat the marshmallow!",
+      "subtitle_pt": "Present perfect x past simple em histórias de sucesso",
+      "duration_min": 70,
+      "source_refs": ["Keynote Intermediate – Unit 4.1 (Don't eat the marshmallow!)", "Keynote Intermediate Videos – TED Talks playlist"],
+      "objectives": ["Contrastar present perfect (resultado/experiência) e past simple (evento terminado) em textos mais longos", "Usar expressões de tempo de cada tempo verbal com precisão", "Discutir autocontrole, gratificação adiada e sucesso", "Resumir oralmente uma palestra e um estudo científico"],
+      "warmup": {
+        "text_pt": "Se te oferecessem um doce agora ou dois daqui a 15 minutos, o que você escolheria? Esse é o famoso \"teste do marshmallow\" — e ele tem muito a dizer sobre sucesso (e sobre os limites da ciência).",
+        "questions": ["Are you good at waiting for rewards?", "What have you given up now for a bigger goal later?"]
+      },
+      "vocabulary": [
+        {"en": "self-control / willpower", "pt": "autocontrole / força de vontade", "say": "sélf kontrôul / uílpauer"},
+        {"en": "delayed gratification", "pt": "gratificação adiada", "say": "diléid gratifikêishon"},
+        {"en": "to resist temptation", "pt": "resistir à tentação", "say": "tu rizíst tempêishon"},
+        {"en": "a reward", "pt": "uma recompensa", "say": "a riuórd"},
+        {"en": "an experiment / a study", "pt": "um experimento / um estudo", "say": "an ikspériment / a stâdi"},
+        {"en": "to follow up (on)", "pt": "acompanhar (depois)", "say": "tu fálou âp"},
+        {"en": "outcome / result", "pt": "resultado", "say": "áutkâm / rizâlt"},
+        {"en": "to predict", "pt": "prever", "say": "tu pridíkt"},
+        {"en": "to replicate (a study)", "pt": "replicar (um estudo)", "say": "tu réplikeit"},
+        {"en": "background (family)", "pt": "origem, contexto (familiar)", "say": "békgraund"},
+        {"en": "to achieve / achievement", "pt": "alcançar / conquista", "say": "tu atchív"},
+        {"en": "in the long run", "pt": "a longo prazo", "say": "in dâ lóng rân"}
+      ],
+      "chunks": [
+        {"en": "Researchers have found that...", "pt": "Pesquisadores descobriram que..."},
+        {"en": "The study was carried out in the 1960s.", "pt": "O estudo foi realizado nos anos 1960."},
+        {"en": "I've never been good at waiting.", "pt": "Nunca fui bom em esperar."},
+        {"en": "It pays off in the long run.", "pt": "Vale a pena a longo prazo."},
+        {"en": "Since then, things have changed.", "pt": "Desde então, as coisas mudaram."},
+        {"en": "I gave in to temptation.", "pt": "Cedi à tentação."}
+      ],
+      "grammar": {
+        "title": "Present perfect x past simple (nível B1+)",
+        "explanation_pt": "Você já conhece a regra básica (tempo terminado x aberto). No B1+, veja como os dois tempos **trabalham juntos** em textos de não ficção e notícias:\n\n**1. Present perfect para apresentar o tema ou resultado atual → past simple para os detalhes:**\n\"Scientists **have studied** self-control for decades. The first famous experiment **took place** at Stanford in the 1960s.\"\n\n**2. Present perfect com `since` + past simple na outra parte:**\n\"**Since** the study **was published**, many researchers **have tried** to replicate it.\"\n\n**3. Superlativo + present perfect (ever):**\n\"It's **the most famous** psychology experiment I**'ve ever read** about.\"\n\n**4. `It's the first time` + present perfect:**\n\"**It's the first time** I**'ve saved** money for a whole year.\"\n\n**5. Expressões de período aberto (present perfect):** recently, lately, so far, up to now, over the past few years, in the last decade\n\"**Over the past few years**, researchers **have questioned** the original conclusions.\"\n\n**Expressões de tempo fechado (past simple):** in the 1960s, at that time, back then, when I was..., years ago, at first\n\"**At that time**, nobody **questioned** the results.\"",
+        "table": {
+          "headers": ["Present perfect (até agora)", "Past simple (fechado)"],
+          "rows": [["Scientists have studied it for 50 years.", "The first study took place in 1968."], ["Over the past decade, many people have questioned it.", "In 2018, a new study was published."], ["I've never resisted chocolate.", "Yesterday I ate a whole box."], ["Since she started saving, she has bought a car.", "She started saving in 2022."], ["It's the first time I've done this.", "The first time I did it, I was 15."]]
+        },
+        "examples": [
+          {"en": "Over the last few years, researchers have found that family background also matters.", "pt": "Nos últimos anos, pesquisadores descobriram que a origem familiar também importa."},
+          {"en": "When the children took the test, nobody knew it would become so famous.", "pt": "Quando as crianças fizeram o teste, ninguém sabia que ficaria tão famoso."},
+          {"en": "It's the first time I've managed to stay off social media for a week.", "pt": "É a primeira vez que consigo ficar uma semana fora das redes sociais."}
+        ],
+        "tip_pt": "Em resumos de estudos e palestras, um padrão muito útil é: **\"Researchers have found that... In one study, they... The results showed that...\"** (present perfect → past simple → past simple)."
+      },
+      "common_mistakes": [
+        {"wrong": "Since the study was published, many scientists tried to replicate it.", "right": "Since the study was published, many scientists have tried to replicate it.", "why_pt": "A parte principal com since (até agora) = present perfect."},
+        {"wrong": "It's the first time I do this.", "right": "It's the first time I've done this.", "why_pt": "It's the first time + present perfect."},
+        {"wrong": "The experiment has taken place in 1968.", "right": "The experiment took place in 1968.", "why_pt": "Data definida = past simple."}
+      ],
+      "pronunciation": {
+        "focus": "Formas fracas: have / has / been",
+        "tip_pt": "Em textos falados (palestras, podcasts), **have** e **has** quase desaparecem: \"Researchers've found\" = \"risârtcherz-v fáund\". Treine o ouvido: o particípio (found, studied, shown) é a pista principal.",
+        "practice": ["Researchers have found that...", "Many studies have shown...", "It's the first time I've done this."]
+      },
+      "dialogue": {
+        "title": "Talking about the talk",
+        "context_pt": "Dois colegas comentam uma palestra sobre autocontrole que assistiram no trabalho.",
+        "lines": [
+          {"speaker": "Diego", "en": "Have you seen the talk about the marshmallow test? Our manager showed it in the meeting.", "pt": "Você viu a palestra sobre o teste do marshmallow? Nosso gestor mostrou na reunião."},
+          {"speaker": "Malu", "en": "I saw it years ago, in college. The kids who waited for the second marshmallow did better later in life, right?", "pt": "Vi anos atrás, na faculdade. As crianças que esperaram pelo segundo marshmallow se saíram melhor depois na vida, né?"},
+          {"speaker": "Diego", "en": "That's what the original studies suggested. But I've read that newer research has questioned that conclusion.", "pt": "Foi o que os estudos originais sugeriram. Mas li que pesquisas mais recentes questionaram essa conclusão."},
+          {"speaker": "Malu", "en": "Really? Why?", "pt": "Sério? Por quê?"},
+          {"speaker": "Diego", "en": "Some researchers repeated the experiment with a larger and more diverse group in 2018. They found that family income explained a lot of the difference.", "pt": "Alguns pesquisadores repetiram o experimento com um grupo maior e mais diverso em 2018. Descobriram que a renda familiar explicava boa parte da diferença."},
+          {"speaker": "Malu", "en": "That makes sense. If you've grown up with very little, you learn to take what you can get now.", "pt": "Faz sentido. Se você cresceu com muito pouco, aprende a pegar o que pode agora."},
+          {"speaker": "Diego", "en": "Exactly. Self-control matters, but so does context. Anyway, it's the first time I've thought about it so deeply!", "pt": "Exatamente. Autocontrole importa, mas o contexto também. Enfim, é a primeira vez que penso nisso tão a fundo!"}
+        ]
+      },
+      "listening": {
+        "title": "Willpower and phones",
+        "context_pt": "Uma neurocientista fala sobre autocontrole na era dos smartphones.",
+        "lines": [
+          {"speaker": "Scientist", "en": "Over the past fifteen years, our relationship with temptation has changed completely. In the 1960s, the temptation in the experiment was a marshmallow on a table. Today, it's in our pocket all day: notifications, videos, online shopping. Apps have been designed by very smart people to capture our attention. So if you've ever felt that you have no willpower, it's not entirely your fault. The best strategy isn't to fight harder — it's to change your environment. In one study, people who simply put their phones in another room performed better on memory tests. Out of sight, out of mind."}
+        ],
+        "questions": [
+          {"q": "What was the temptation in the 1960s experiment?", "answer": "A marshmallow on a table."},
+          {"q": "Where is temptation today?", "answer": "In our pocket (phones: notifications, videos, shopping)."},
+          {"q": "What is the best strategy, according to the scientist?", "answer": "Change your environment, not fight harder."},
+          {"q": "What happened to people who put their phones in another room?", "answer": "They performed better on memory tests."}
+        ]
+      },
+      "video": {
+        "title": "Don't eat the marshmallow!",
+        "speaker": "Joachim de Posada",
+        "url": "https://www.ted.com/search?q=don%27t+eat+the+marshmallow",
+        "playlist": "https://www.youtube.com/watch?v=sAQfzHBpRsc&list=PLdIk6oC5e9pYKMTeYKp9dEOSeoNEEJ0BJ",
+        "task_pt": "Assista à palestra (cerca de 6 minutos). Depois, leia o texto da aula e compare: o que a palestra afirma e o que pesquisas mais recentes sugerem?",
+        "questions": ["Describe the experiment in your own words (use the past simple).", "What conclusion does the speaker draw?", "Based on the reading, why might that conclusion be too simple?", "Have you ever resisted a temptation for a bigger reward later? What happened?"]
+      },
+      "reading": {
+        "title": "What the marshmallow test really tells us",
+        "text": "The marshmallow test is one of the most famous experiments in psychology. In the late 1960s and early 1970s, researchers at Stanford University offered preschool children a choice: eat one treat now, or wait alone for about fifteen minutes and get two. Years later, follow-up studies suggested that the children who had waited tended to have better school results and other positive outcomes. The idea spread quickly: self-control, it seemed, was a key to success. Since then, however, the story has become more complicated. The original groups were small and mostly came from families connected to the university. In 2018, a larger study with a more diverse group of children found a much weaker connection, and much of it seemed to be explained by factors like family income and education. Other researchers have shown that children wait longer when they trust the adult who made the promise. So the test may measure not only willpower, but also experience: if promises in your life have often been broken, eating the marshmallow now is a rational choice.",
+        "questions": [
+          {"q": "What choice did the children have?", "answer": "Eat one treat now or wait about fifteen minutes and get two."},
+          {"q": "What did follow-up studies suggest?", "answer": "Children who had waited tended to have better school results and outcomes."},
+          {"q": "What was the problem with the original groups?", "answer": "They were small and mostly from families connected to the university."},
+          {"q": "Why might eating the marshmallow now be a rational choice?", "answer": "If promises in your life have often been broken, you can't trust that the reward will come."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Present perfect or past simple?", "instruction": "Choose the correct form.", "instruction_pt": "Escolha a forma correta.",
+         "items": [{"prompt": "The experiment ___ in the 1960s.", "options": ["started", "has started"], "answer": "started"}, {"prompt": "Since then, many studies ___ the results.", "options": ["questioned", "have questioned"], "answer": "have questioned"}, {"prompt": "It's the first time I ___ a whole book in English.", "options": ["read", "'ve read"], "answer": "'ve read"}, {"prompt": "At that time, nobody ___ the conclusions.", "options": ["doubted", "has doubted"], "answer": "doubted"}, {"prompt": "Over the past decade, people ___ more aware of mental health.", "options": ["became", "have become"], "answer": "have become"}]},
+        {"id": "ex2", "type": "fill_blank", "title": "Summary of a study", "instruction": "Complete the summary with the correct form of the verbs.", "instruction_pt": "Complete o resumo com a forma correta dos verbos.",
+         "items": [{"prompt": "Researchers ___ (study) sleep for many years.", "answer": "have studied"}, {"prompt": "In 2017, a team in the UK ___ (ask) 1,000 students to keep a sleep diary.", "answer": "asked"}, {"prompt": "The results ___ (show) that students who slept more got better grades.", "answer": "showed"}, {"prompt": "Since the study ___ (come) out, several universities ___ (change) their exam times.", "answer": "came / have changed"}]},
+        {"id": "ex3", "type": "match", "title": "Time expressions", "instruction": "Write PP (present perfect) or PS (past simple).", "instruction_pt": "Escreva PP (present perfect) ou PS (past simple).",
+         "items": [{"prompt": "over the past few years", "answer": "PP"}, {"prompt": "back then", "answer": "PS"}, {"prompt": "in the 1960s", "answer": "PS"}, {"prompt": "so far", "answer": "PP"}, {"prompt": "at first", "answer": "PS"}, {"prompt": "lately", "answer": "PP"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "Researchers have found that context matters."}, {"prompt": "2", "answer": "The study was carried out in the 1960s."}, {"prompt": "3", "answer": "It pays off in the long run."}, {"prompt": "4", "answer": "Since then, things have changed."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "It's the first time I visit London.", "answer": "It's the first time I've visited London."}, {"prompt": "Scientists have published the results in 2018.", "answer": "Scientists published the results in 2018."}, {"prompt": "Since I started this job, I learned a lot.", "answer": "Since I started this job, I've learned a lot."}, {"prompt": "It's the best talk I ever watched.", "answer": "It's the best talk I've ever watched."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the text", "instruction": "Complete with: willpower · temptation · reward · long run · gave in.", "instruction_pt": "Complete o texto.",
+         "items": [{"prompt": "I tried a no-sugar month, but on day 10 I ___ and ate a whole cake.", "answer": "gave in"}, {"prompt": "The ___ was too strong — it was my birthday!", "answer": "temptation"}, {"prompt": "I don't think I have a lot of ___.", "answer": "willpower"}, {"prompt": "But my ___ for finishing the month will be a trip, and I know it pays off in the ___.", "answer": "reward / long run"}]}
+      ],
+      "speaking": {
+        "instruction": "Summarize the TED talk or the reading for your partner in 1 minute (present perfect → past simple). Then discuss the questions.",
+        "instruction_pt": "Resuma a palestra ou a leitura para o colega em 1 minuto (present perfect → past simple). Depois discutam as perguntas.",
+        "questions": ["Would you have eaten the marshmallow as a child? Why?", "What's something you've achieved thanks to self-control?", "What temptations are hardest for you to resist?", "Is success more about willpower or about opportunities?", "What's the best decision you've ever made for your future?"]
+      },
+      "writing": {
+        "task": "Write a summary and response (150–180 words) to the reading: summarize the research in 3–4 sentences, then give your opinion about self-control and success.",
+        "task_pt": "Escreva um resumo e resposta (150–180 palavras) para a leitura: resuma a pesquisa em 3–4 frases e depois dê sua opinião sobre autocontrole e sucesso.",
+        "model": "The marshmallow test has become one of the best-known experiments in psychology. In the 1960s and 70s, researchers at Stanford gave young children a choice between one treat now and two later, and follow-up studies suggested that the children who waited did better in life. However, since then, larger studies have found that family background explains much of this difference, and that trust also affects how long children wait.\n\nIn my opinion, self-control is important, but it isn't the whole story. I've always been quite disciplined, but I know that discipline is easier when you have stability. When I was a child, my parents always kept their promises, so waiting felt safe. Many children don't have that experience. So instead of telling people to \"just be more disciplined\", I think we should also create environments where waiting is worth it — like fair schools, stable jobs and trustworthy institutions."
+      },
+      "culture_note": {
+        "title": "Replication crisis",
+        "text_pt": "O teste do marshmallow faz parte de um debate maior: a **replication crisis** (crise de replicação), quando estudos famosos não se confirmam ao serem repetidos. Na hora de citar ciência em inglês, use linguagem cuidadosa: **\"Research suggests...\"**, **\"Some studies indicate...\"** em vez de **\"Science proves...\"**."
+      },
+      "summary_pt": ["Present perfect apresenta o tema → past simple dá os detalhes.", "Since + past simple, present perfect.", "It's the first time + present perfect.", "Linguagem cuidadosa: research suggests / studies indicate."]
+    },
+    {
+      "id": "B1P-M2-L3",
+      "title": "The road to success",
+      "subtitle_pt": "Present perfect simple x continuous: resultado x processo",
+      "duration_min": 65,
+      "source_refs": ["Keynote Intermediate – Unit 4.2 (The road to success)", "Keynote Intermediate – Grammar summary (present perfect simple and continuous)"],
+      "objectives": ["Escolher entre present perfect simple (resultado, quantidade) e continuous (processo, duração)", "Falar de esforços contínuos e conquistas", "Usar how long x how many/much", "Contar uma trajetória de sucesso pessoal"],
+      "warmup": {
+        "text_pt": "Sucesso de um dia para o outro geralmente é resultado de anos de trabalho invisível. Pense numa conquista sua: há quanto tempo você vinha trabalhando nela?",
+        "questions": ["What have you been working on recently?", "What's an overnight success you know that actually took years?"]
+      },
+      "vocabulary": [
+        {"en": "overnight success", "pt": "sucesso repentino", "say": "ôuvernait saksés"},
+        {"en": "to persevere / perseverance", "pt": "perseverar / perseverança", "say": "tu pârseviér"},
+        {"en": "setback", "pt": "contratempo, revés", "say": "sétbék"},
+        {"en": "to bounce back", "pt": "se recuperar, dar a volta por cima", "say": "tu báuns bék"},
+        {"en": "to keep at it", "pt": "persistir, continuar insistindo", "say": "tu kíp ét it"},
+        {"en": "milestone", "pt": "marco", "say": "máilstoun"},
+        {"en": "to pay off", "pt": "valer a pena, dar resultado", "say": "tu pêi óf"},
+        {"en": "breakthrough", "pt": "avanço decisivo", "say": "brêikθru"},
+        {"en": "a role model", "pt": "um exemplo, modelo", "say": "a rôul módel"},
+        {"en": "to rehearse / to practice", "pt": "ensaiar / praticar", "say": "tu riârs"},
+        {"en": "the 10,000-hour rule", "pt": "a regra das 10 mil horas", "say": "dâ ten θáuzend áuer rúl"},
+        {"en": "to struggle (with)", "pt": "ter dificuldade (com), batalhar", "say": "tu strâgol"}
+      ],
+      "chunks": [
+        {"en": "I've been working on this for years.", "pt": "Estou trabalhando nisso há anos."},
+        {"en": "I've finally finished it!", "pt": "Finalmente terminei!"},
+        {"en": "All that hard work has paid off.", "pt": "Todo aquele trabalho duro valeu a pena."},
+        {"en": "It's been a long road.", "pt": "Foi um longo caminho."},
+        {"en": "Keep at it!", "pt": "Continue insistindo!"},
+        {"en": "She bounced back after the setback.", "pt": "Ela deu a volta por cima depois do revés."}
+      ],
+      "grammar": {
+        "title": "Present perfect simple x continuous",
+        "explanation_pt": "**Present perfect continuous (have been + -ing)** → foco no **processo**, na **duração**, na **atividade** (que pode ainda não ter terminado):\n- \"I**'ve been writing** my thesis **for** two years.\" (processo em andamento)\n- \"She**'s been training** every day.\" (esforço repetido)\n- \"Why are you so tired? — I**'ve been studying** all night.\" (atividade recente com efeito visível)\n\n**Present perfect simple (have + particípio)** → foco no **resultado**, na **quantidade**, no que foi **concluído**:\n- \"I**'ve written** three chapters.\" (quantidade concluída)\n- \"She**'s won** two medals.\"\n- \"I**'ve finished** my thesis!\" (completo)\n\n**Pergunta-chave:**\n- **How long** have you been...? → duração (continuous)\n- **How many / How much** have you...? → quantidade (simple)\n\n**Stative verbs** (know, believe, have [posse], want, own) → sempre simple: \"I**'ve known** her for years.\"\n\n**Live, work, study, teach** → com for/since, os dois são possíveis com pouca diferença; o continuous sugere algo mais **temporário**: \"I've lived here all my life\" (permanente) x \"I've been living here since March\" (temporário).",
+        "table": {
+          "headers": ["Continuous (processo)", "Simple (resultado)"],
+          "rows": [["I've been running since 7.", "I've run 15 km."], ["She's been saving for a car.", "She's saved R$20,000."], ["They've been building their startup for 3 years.", "They've hired 40 people."], ["How long have you been learning guitar?", "How many songs have you learned?"], ["I've been reading this book.", "I've read this book. (terminei)"]]
+        },
+        "examples": [
+          {"en": "We've been developing this app for three years, and we've finally launched it!", "pt": "Estamos desenvolvendo este app há três anos, e finalmente o lançamos!"},
+          {"en": "How many marathons have you run? — Four. I've been running for ten years.", "pt": "Quantas maratonas você já correu? — Quatro. Corro há dez anos."},
+          {"en": "I've been struggling with this exercise all morning, and I still haven't solved it.", "pt": "Estou batalhando com este exercício a manhã toda, e ainda não resolvi."}
+        ],
+        "tip_pt": "Se você diz **um número de vezes ou uma quantidade**, quase sempre é **simple**: \"I've **called** her **three times**\" (❌ \"I've been calling her three times\")."
+      },
+      "common_mistakes": [
+        {"wrong": "I've been writing four emails this morning.", "right": "I've written four emails this morning.", "why_pt": "Quantidade (four) = simple."},
+        {"wrong": "I've been knowing him since school.", "right": "I've known him since school.", "why_pt": "Know é stative: sempre simple."},
+        {"wrong": "How long have you read this book? (ainda está lendo)", "right": "How long have you been reading this book?", "why_pt": "Duração de atividade em andamento = continuous."}
+      ],
+      "pronunciation": {
+        "focus": "Ritmo no present perfect continuous",
+        "tip_pt": "\"I've been working\" tem só uma sílaba forte: **WORK**. O resto é rápido: \"aivbin-WÓR-kin\". Pratique batendo na mesa só na sílaba forte.",
+        "practice": ["I've been WORKing on it for YEARS.", "She's been TRAINing every DAY.", "How LONG have you been WAITing?"]
+      },
+      "dialogue": {
+        "title": "Overnight success?",
+        "context_pt": "Um jornalista entrevista uma cantora brasileira cuja música viralizou de repente.",
+        "lines": [
+          {"speaker": "Journalist", "en": "Your song has had 50 million streams in two months. Everyone's calling you an overnight success. Is that true?", "pt": "Sua música teve 50 milhões de streams em dois meses. Todo mundo está te chamando de sucesso repentino. É verdade?"},
+          {"speaker": "Nina", "en": "Ha! I've been singing since I was eight, and I've been writing songs for fifteen years. So... a very long night!", "pt": "Ha! Canto desde os oito anos, e escrevo músicas há quinze anos. Então... uma noite bem longa!"},
+          {"speaker": "Journalist", "en": "How many songs have you written?", "pt": "Quantas músicas você já escreveu?"},
+          {"speaker": "Nina", "en": "More than two hundred. Most of them nobody has heard! I've played in bars, at weddings, on the street...", "pt": "Mais de duzentas. A maioria ninguém ouviu! Já toquei em bares, casamentos, na rua..."},
+          {"speaker": "Journalist", "en": "Were there moments when you wanted to give up?", "pt": "Houve momentos em que você quis desistir?"},
+          {"speaker": "Nina", "en": "Many. I had a lot of setbacks. But I kept at it. And now all that hard work has paid off.", "pt": "Muitos. Tive muitos reveses. Mas continuei insistindo. E agora todo esse trabalho valeu a pena."},
+          {"speaker": "Journalist", "en": "What have you been doing since the song went viral?", "pt": "O que você tem feito desde que a música viralizou?"},
+          {"speaker": "Nina", "en": "I've been touring non-stop. I've played in twelve cities this month! I'm exhausted, but very happy.", "pt": "Estou em turnê sem parar. Toquei em doze cidades este mês! Estou exausta, mas muito feliz."}
+        ]
+      },
+      "listening": {
+        "title": "Athlete interview",
+        "context_pt": "Uma atleta paralímpica brasileira fala após conquistar uma medalha.",
+        "lines": [
+          {"speaker": "Reporter", "en": "Congratulations! How long have you been preparing for this moment?"},
+          {"speaker": "Athlete", "en": "I've been training for this competition for four years. Every day, six hours a day."},
+          {"speaker": "Reporter", "en": "This is your third Games. How many medals have you won in total?"},
+          {"speaker": "Athlete", "en": "With today's, I've won five. But this one is special. Two years ago, I had a serious injury, and many people thought I'd never compete again."},
+          {"speaker": "Reporter", "en": "How did you bounce back?"},
+          {"speaker": "Athlete", "en": "My team. My coach has been with me since I was fourteen. She's never stopped believing in me."}
+        ],
+        "questions": [
+          {"q": "How long has she been training for this competition?", "answer": "For four years (six hours a day)."},
+          {"q": "How many medals has she won in total?", "answer": "Five."},
+          {"q": "What happened two years ago?", "answer": "She had a serious injury."},
+          {"q": "How long has her coach been with her?", "answer": "Since she was fourteen."}
+        ]
+      },
+      "reading": {
+        "title": "The myth of talent",
+        "text": "When we see a brilliant musician, athlete or entrepreneur, we often assume they were simply born with a special talent. But researchers who study expertise tell a different story. In a famous study in the 1990s, psychologist Anders Ericsson looked at violin students at a music academy in Berlin. He found that the best students had practiced significantly more hours than the others — and, crucially, that they had practiced in a specific way. Ericsson called it \"deliberate practice\": working on your weaknesses, getting regular feedback and constantly pushing beyond your comfort zone. Writer Malcolm Gladwell later popularized the idea as the \"10,000-hour rule\", although Ericsson himself said that the number was not a magic rule. Since then, other scientists have argued that factors like genes, starting age and opportunity also matter. Still, the main lesson remains: behind most \"overnight successes\" there are years of invisible, focused work.",
+        "questions": [
+          {"q": "What did Ericsson find about the best violin students?", "answer": "They had practiced significantly more hours, in a specific way."},
+          {"q": "What is deliberate practice?", "answer": "Working on your weaknesses, getting feedback and pushing beyond your comfort zone."},
+          {"q": "Who popularized the 10,000-hour rule?", "answer": "Malcolm Gladwell."},
+          {"q": "What other factors have scientists mentioned?", "answer": "Genes, starting age and opportunity."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Simple or continuous?", "instruction": "Choose the best option.", "instruction_pt": "Escolha a melhor opção.",
+         "items": [{"prompt": "I ___ this book for weeks. It's very long!", "options": ["'ve read", "'ve been reading"], "answer": "'ve been reading"}, {"prompt": "I ___ three books this month.", "options": ["'ve read", "'ve been reading"], "answer": "'ve read"}, {"prompt": "She ___ her boss since 2015.", "options": ["'s known", "'s been knowing"], "answer": "'s known"}, {"prompt": "Your hands are dirty! What ___?", "options": ["have you done", "have you been doing"], "answer": "have you been doing"}, {"prompt": "We ___ the project! Let's celebrate!", "options": ["'ve finished", "'ve been finishing"], "answer": "'ve finished"}]},
+        {"id": "ex2", "type": "fill_blank", "title": "How long or how many?", "instruction": "Complete the questions with How long or How many/much + the correct form.", "instruction_pt": "Complete as perguntas com How long ou How many/much + a forma correta.",
+         "items": [{"prompt": "___ have you been learning English? — For two years.", "answer": "How long"}, {"prompt": "___ countries have you visited? — Twelve.", "answer": "How many"}, {"prompt": "___ money have you saved? — About R$5,000.", "answer": "How much"}, {"prompt": "___ has she been working there? — Since 2020.", "answer": "How long"}]},
+        {"id": "ex3", "type": "fill_blank", "title": "Success story", "instruction": "Complete with the present perfect simple or continuous.", "instruction_pt": "Complete com present perfect simple ou continuous.",
+         "items": [{"prompt": "Leo ___ (build) his bakery business for five years.", "answer": "has been building"}, {"prompt": "In that time, he ___ (open) three shops.", "answer": "has opened"}, {"prompt": "He ___ (work) seven days a week lately, so he's tired.", "answer": "has been working"}, {"prompt": "But he ___ (never / regret) his decision.", "answer": "has never regretted"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "I've been working on this for years."}, {"prompt": "2", "answer": "All that hard work has paid off."}, {"prompt": "3", "answer": "How many songs have you written?"}, {"prompt": "4", "answer": "She bounced back after the setback."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "I've been calling her five times today.", "answer": "I've called her five times today."}, {"prompt": "How long have you known to swim?", "answer": "How long have you known how to swim? / How long have you been swimming?"}, {"prompt": "I've been having this car since 2019.", "answer": "I've had this car since 2019."}, {"prompt": "She's been finishing her degree! Congratulations!", "answer": "She's finished her degree! Congratulations!"}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the speech", "instruction": "Complete with: setbacks · paid off · keep at it · breakthrough · struggled.", "instruction_pt": "Complete o discurso.",
+         "items": [{"prompt": "When I started my company, I ___ for years to find investors.", "answer": "struggled"}, {"prompt": "We had many ___, including a fire in our first factory.", "answer": "setbacks"}, {"prompt": "Our ___ came in 2021, when a big retailer bought our product.", "answer": "breakthrough"}, {"prompt": "All the hard work has ___. My advice? ___!", "answer": "paid off / Keep at it"}]}
+      ],
+      "speaking": {
+        "instruction": "Interview a partner about a long-term project or skill (sport, instrument, language, career). Ask How long...? and How many...? and find the \"invisible work\" behind their achievements.",
+        "instruction_pt": "Entreviste um colega sobre um projeto ou habilidade de longo prazo (esporte, instrumento, idioma, carreira). Pergunte How long...? e How many...? e descubra o \"trabalho invisível\" por trás das conquistas.",
+        "questions": ["What have you been working on lately?", "What have you achieved this year?", "What's the biggest setback you've had? How did you bounce back?", "Who's your role model? Why?", "Do you believe in talent or in practice?"]
+      },
+      "writing": {
+        "task": "Write a short profile (150–180 words) of someone who reached success after a long process (a family member, a celebrity or yourself). Use present perfect simple and continuous.",
+        "task_pt": "Escreva um perfil curto (150–180 palavras) de alguém que alcançou o sucesso depois de um longo processo (familiar, celebridade ou você mesmo). Use present perfect simple e continuous.",
+        "model": "My aunt Lúcia has been running a small restaurant in Belém for almost twenty years. She started with four tables in her garage, cooking the recipes she had learned from her grandmother. For years, she struggled: she worked fourteen hours a day, and there were months when she couldn't pay the bills. But she kept at it. Little by little, people started talking about her maniçoba and her tacacá. In the last five years, her restaurant has appeared in national magazines, and she's won two regional awards. Recently, she's been training young cooks from her neighborhood, and she's hired eleven of them. She's also been writing a cookbook, which she hopes to publish next year. When journalists call her an overnight success, she laughs. \"I've been cooking every single day for twenty years,\" she says. \"This isn't luck. It's work.\""
+      },
+      "culture_note": {
+        "title": "\"Fail fast\" e a cultura do erro",
+        "text_pt": "No Vale do Silício, expressões como **\"fail fast\"** e **\"fail forward\"** celebram o erro como parte do aprendizado. Muitos empreendedores contam com orgulho quantas vezes **have failed** antes de dar certo. Em entrevistas americanas, falar de um fracasso e do que aprendeu com ele é visto como força, não fraqueza."
+      },
+      "summary_pt": ["Continuous = processo/duração (How long?).", "Simple = resultado/quantidade (How many/much?).", "Stative verbs: sempre simple.", "setback · bounce back · keep at it · pay off."]
+    },
+    {
+      "id": "B1P-M2-L4",
+      "title": "Sorry, I did my best",
+      "subtitle_pt": "Pedidos de desculpas, justificativas e should have",
+      "duration_min": 65,
+      "source_refs": ["Keynote Intermediate – Unit 4.4 (Sorry, I did my best)", "Keynote Intermediate – Unit 4 (Real life: apologizing)"],
+      "objectives": ["Pedir desculpas em diferentes níveis de formalidade", "Justificar e explicar o que aconteceu sem parecer que está dando desculpas", "Usar should have / shouldn't have para arrependimentos e críticas", "Responder a pedidos de desculpas e oferecer soluções"],
+      "warmup": {
+        "text_pt": "Errar todo mundo erra. O que diferencia um profissional é **como** ele lida com o erro. Como você pede desculpas no trabalho? E quando é você que recebe um pedido de desculpas?",
+        "questions": ["When was the last time you apologized for something?", "What's the worst apology you've ever heard?"]
+      },
+      "vocabulary": [
+        {"en": "to apologize (for)", "pt": "pedir desculpas (por)", "say": "tu apólodjaiz"},
+        {"en": "an apology", "pt": "um pedido de desculpas", "say": "an apólodji"},
+        {"en": "to take responsibility", "pt": "assumir a responsabilidade", "say": "tu têik risponsibíliti"},
+        {"en": "my fault", "pt": "culpa minha", "say": "mái fólt"},
+        {"en": "to make up for", "pt": "compensar", "say": "tu mêik âp for"},
+        {"en": "to mess up / a mess", "pt": "fazer besteira / bagunça", "say": "tu més âp"},
+        {"en": "a misunderstanding", "pt": "um mal-entendido", "say": "a misanderstándin"},
+        {"en": "to let (someone) down", "pt": "decepcionar (alguém)", "say": "tu lét dáun"},
+        {"en": "inconvenience", "pt": "inconveniente, transtorno", "say": "inkonvíniens"},
+        {"en": "to make sure", "pt": "garantir, certificar-se", "say": "tu mêik shúr"},
+        {"en": "it won't happen again", "pt": "não vai acontecer de novo", "say": "it uônt répen aguén"},
+        {"en": "no hard feelings", "pt": "sem ressentimentos", "say": "nôu rárd fílinz"}
+      ],
+      "chunks": [
+        {"en": "I'm really sorry about that.", "pt": "Sinto muito por isso."},
+        {"en": "It was my fault. I should have checked.", "pt": "Foi culpa minha. Eu deveria ter conferido."},
+        {"en": "Please accept our apologies for the inconvenience.", "pt": "Por favor, aceite nossas desculpas pelo transtorno."},
+        {"en": "I'll make sure it doesn't happen again.", "pt": "Vou garantir que não aconteça de novo."},
+        {"en": "Don't worry about it. These things happen.", "pt": "Não se preocupe. Essas coisas acontecem."},
+        {"en": "Let me make it up to you.", "pt": "Deixa eu compensar."}
+      ],
+      "grammar": {
+        "title": "Should have / shouldn't have + particípio",
+        "explanation_pt": "**Should have + particípio** → algo que **deveria ter acontecido, mas não aconteceu** (arrependimento ou crítica sobre o passado):\n- \"I **should have checked** the numbers.\" (não conferi — me arrependo)\n- \"You **should have told** me earlier!\" (você não me contou — crítica)\n\n**Shouldn't have + particípio** → algo que **aconteceu, mas não deveria**:\n- \"I **shouldn't have sent** that email.\" (mandei — erro)\n- \"You **shouldn't have spent** so much money!\" (às vezes é carinho, ao receber um presente!)\n\nNa fala: **should have** = \"**shúdav**\" ou até \"**shúda**\".\n\n**Estrutura de um bom pedido de desculpas profissional:**\n1. **Reconheça:** \"I'm sorry for / I apologize for + -ing / substantivo\": \"I apologize for **missing** the deadline.\"\n2. **Assuma a responsabilidade** (sem culpar outros): \"It was my fault. I **should have** asked for help earlier.\"\n3. **Explique** brevemente (sem desculpas longas): \"I underestimated how long it would take.\"\n4. **Ofereça solução:** \"I'll send it by 10 tomorrow.\"\n5. **Prevenção:** \"In future, I'll make sure to...\"\n\n⚠️ **Sorry for** + -ing/substantivo (sobre algo que você fez) · **sorry to** + verbo (algo que você está fazendo agora): \"Sorry **to bother** you.\" / \"Sorry **for being** late.\"",
+        "table": {
+          "headers": ["Situação", "Frase"],
+          "rows": [["Arrependimento (não fiz)", "I should have studied more."], ["Arrependimento (fiz)", "I shouldn't have eaten so much."], ["Crítica (não fez)", "You should have called me."], ["Crítica (fez)", "They shouldn't have cancelled the event."], ["Desculpa formal", "We apologize for the delay."], ["Desculpa informal", "Sorry, my bad!"]]
+        },
+        "examples": [
+          {"en": "I apologize for the mistake in the report. I should have double-checked the figures.", "pt": "Peço desculpas pelo erro no relatório. Eu deveria ter conferido os números duas vezes."},
+          {"en": "We shouldn't have promised such a tight deadline.", "pt": "Não deveríamos ter prometido um prazo tão apertado."},
+          {"en": "Sorry to interrupt, but the client is on the phone.", "pt": "Desculpe interromper, mas o cliente está no telefone."}
+        ],
+        "tip_pt": "O famoso **\"I did my best\"** (fiz o meu melhor) pode soar como desculpa se vier sozinho. Combine com responsabilidade e solução: \"I did my best, but I should have asked for help sooner. Here's what I'll do now...\""
+      },
+      "common_mistakes": [
+        {"wrong": "I should checked the email.", "right": "I should have checked the email.", "why_pt": "Should have + particípio."},
+        {"wrong": "I should have went to the meeting.", "right": "I should have gone to the meeting.", "why_pt": "Use o particípio (gone), não o passado (went)."},
+        {"wrong": "Sorry for disturb you.", "right": "Sorry to disturb you. / Sorry for disturbing you.", "why_pt": "Sorry to + verbo base ou sorry for + -ing."}
+      ],
+      "pronunciation": {
+        "focus": "Should have = \"shúdav\"",
+        "tip_pt": "**Should have** → \"**shúdav**\" / \"**shúda**\"; **shouldn't have** → \"**shúdentav**\". Por isso muitos nativos escrevem errado \"should of\"! Não copie na escrita — mas reconheça na fala.",
+        "practice": ["I should have called you. (\"shúdav\")", "You shouldn't have done that.", "We should have left earlier."]
+      },
+      "dialogue": {
+        "title": "Missed deadline",
+        "context_pt": "Um analista conversa com a gestora depois de atrasar um relatório importante para um cliente.",
+        "lines": [
+          {"speaker": "Manager", "en": "Pedro, do you have a minute? The client called. The report was due yesterday.", "pt": "Pedro, você tem um minuto? O cliente ligou. O relatório era para ontem."},
+          {"speaker": "Pedro", "en": "Yes, I'm really sorry about that. It was my fault. I underestimated how long the data analysis would take.", "pt": "Sim, sinto muito. Foi culpa minha. Subestimei quanto tempo a análise de dados ia levar."},
+          {"speaker": "Manager", "en": "Why didn't you say anything? You should have told me on Monday.", "pt": "Por que você não disse nada? Deveria ter me avisado na segunda."},
+          {"speaker": "Pedro", "en": "You're right. I should have asked for help earlier instead of trying to do everything myself. I did my best, but that wasn't enough.", "pt": "Você tem razão. Eu deveria ter pedido ajuda antes em vez de tentar fazer tudo sozinho. Fiz o meu melhor, mas não foi suficiente."},
+          {"speaker": "Manager", "en": "OK. So what's the plan now?", "pt": "OK. Então qual é o plano agora?"},
+          {"speaker": "Pedro", "en": "The analysis is 90% done. I'll finish it today and send it to you by 9 a.m. tomorrow. I've also written an apology email to the client — could you check it before I send it?", "pt": "A análise está 90% pronta. Termino hoje e te mando até as 9h de amanhã. Também escrevi um e-mail de desculpas para o cliente — você pode revisar antes de eu enviar?"},
+          {"speaker": "Manager", "en": "Good. I appreciate you taking responsibility. Next time, just flag problems early.", "pt": "Ótimo. Agradeço por assumir a responsabilidade. Da próxima vez, só sinalize os problemas cedo."},
+          {"speaker": "Pedro", "en": "Absolutely. It won't happen again.", "pt": "Com certeza. Não vai acontecer de novo."}
+        ]
+      },
+      "listening": {
+        "title": "Airline apology",
+        "context_pt": "O comunicado de uma companhia aérea após um grande atraso.",
+        "lines": [
+          {"speaker": "Captain", "en": "Ladies and gentlemen, this is your captain speaking. First of all, I'd like to apologize for the four-hour delay today. I know many of you have missed connections and important plans, and we're truly sorry for the inconvenience. The delay was caused by a technical problem with one of our engines. We could have flown, but we decided not to take any risks with your safety. To make up for it, every passenger will receive a voucher for a free meal and a 30% discount on your next flight. Our staff will help you with any connecting flights when we land. Thank you for your patience and understanding."}
+        ],
+        "questions": [
+          {"q": "How long was the delay?", "answer": "Four hours."},
+          {"q": "What caused it?", "answer": "A technical problem with one of the engines."},
+          {"q": "Why didn't they fly anyway?", "answer": "They didn't want to take risks with passengers' safety."},
+          {"q": "How are they making up for it?", "answer": "A free meal voucher and a 30% discount on the next flight."}
+        ]
+      },
+      "reading": {
+        "title": "The anatomy of a good apology",
+        "text": "Why do some apologies make things better while others make them worse? Researchers who study communication have identified several elements that make an apology effective. The most important one, according to some studies, is acknowledging responsibility: saying clearly \"It was my fault\" or \"I made a mistake\". The second is offering to repair the damage. Expressing regret (\"I'm sorry\") matters too, but on its own it often isn't enough. Interestingly, long explanations can backfire: if you spend too much time explaining why something happened, people may hear it as an excuse. The worst apologies are \"non-apologies\" — phrases like \"I'm sorry if you were offended\" or \"Mistakes were made\", which avoid taking real responsibility. Public figures and companies use them all the time, and audiences usually notice. The lesson? A good apology is short, specific and focused on the other person, not on yourself.",
+        "questions": [
+          {"q": "What is the most important element of an apology, according to some studies?", "answer": "Acknowledging responsibility."},
+          {"q": "Why can long explanations backfire?", "answer": "People may hear them as excuses."},
+          {"q": "What is a \"non-apology\"?", "answer": "A phrase that avoids taking real responsibility (e.g., \"I'm sorry if you were offended\")."},
+          {"q": "How should a good apology be?", "answer": "Short, specific and focused on the other person."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "fill_blank", "title": "should have / shouldn't have", "instruction": "Complete with should have or shouldn't have + the verb in parentheses.", "instruction_pt": "Complete com should have ou shouldn't have + verbo.",
+         "items": [{"prompt": "I missed my flight. I ___ (leave) home earlier.", "answer": "should have left"}, {"prompt": "I feel sick. I ___ (eat) so much cake.", "answer": "shouldn't have eaten"}, {"prompt": "You ___ (tell) me it was your birthday! I would have bought a gift.", "answer": "should have told"}, {"prompt": "He ___ (send) that angry email to his boss.", "answer": "shouldn't have sent"}, {"prompt": "We ___ (book) the hotel in advance. Now everything is full.", "answer": "should have booked"}]},
+        {"id": "ex2", "type": "multiple_choice", "title": "Formal or informal?", "instruction": "Choose the most appropriate apology for each situation.", "instruction_pt": "Escolha o pedido de desculpas mais adequado para cada situação.",
+         "items": [{"prompt": "(e-mail para um cliente sobre atraso na entrega)", "options": ["Sorry, my bad!", "Please accept our apologies for the delay."], "answer": "Please accept our apologies for the delay."}, {"prompt": "(você pisou no pé de um amigo)", "options": ["Oops, sorry!", "We sincerely apologize for any inconvenience."], "answer": "Oops, sorry!"}, {"prompt": "(você interrompe uma reunião)", "options": ["Sorry to interrupt, but...", "Sorry for interrupt."], "answer": "Sorry to interrupt, but..."}]},
+        {"id": "ex3", "type": "order_words", "title": "A good apology", "instruction": "Put the parts of the apology in the best order (write the letters).", "instruction_pt": "Coloque as partes do pedido de desculpas na melhor ordem (escreva as letras).",
+         "items": [{"prompt": "a) I'll send the corrected version by noon. / b) I'm sorry for the mistake in the invoice. / c) In future, I'll double-check all figures before sending. / d) It was my fault — I used last month's prices.", "answer": "b, d, a, c"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "It was my fault. I should have checked."}, {"prompt": "2", "answer": "I'll make sure it doesn't happen again."}, {"prompt": "3", "answer": "Please accept our apologies for the inconvenience."}, {"prompt": "4", "answer": "Let me make it up to you."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "I should have went to the doctor.", "answer": "I should have gone to the doctor."}, {"prompt": "You should of told me.", "answer": "You should have told me."}, {"prompt": "Sorry for disturb you.", "answer": "Sorry to disturb you. / Sorry for disturbing you."}, {"prompt": "I apologize for miss the meeting.", "answer": "I apologize for missing the meeting."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Respond to an apology", "instruction": "Complete with: worry · happen · feelings · up · fault.", "instruction_pt": "Complete as respostas.",
+         "items": [{"prompt": "A: I'm so sorry I forgot your birthday! — B: Don't ___ about it.", "answer": "worry"}, {"prompt": "B: These things ___.", "answer": "happen"}, {"prompt": "A: It was totally my ___. Let me make it ___ to you — dinner on me?", "answer": "fault / up"}, {"prompt": "B: Deal! No hard ___.", "answer": "feelings"}]}
+      ],
+      "speaking": {
+        "instruction": "Role-play 3 situations where something went wrong (at work, with a friend, with a customer). Apologize using the 5 steps; your partner reacts and accepts (or not!).",
+        "instruction_pt": "Role-play de 3 situações em que algo deu errado (no trabalho, com um amigo, com um cliente). Peça desculpas usando os 5 passos; o colega reage e aceita (ou não!).",
+        "questions": ["What's something you should have done differently last year?", "What's something you shouldn't have bought?", "Is it hard for you to say \"It was my fault\"?", "How do companies in your country usually apologize?", "What do you think of public apologies by celebrities?"]
+      },
+      "writing": {
+        "task": "Write a professional apology email (120–150 words) to a client or manager about a mistake (real or invented). Follow the 5-step structure.",
+        "task_pt": "Escreva um e-mail profissional de desculpas (120–150 palavras) para um cliente ou gestor sobre um erro (real ou inventado). Siga a estrutura de 5 passos.",
+        "model": "Subject: Apology – error in invoice #2045\n\nDear Mr. Thompson,\n\nI'm writing to apologize for the error in the invoice we sent you on Monday. The total was R$3,200 higher than agreed in our contract.\n\nThis was entirely my fault. When I prepared the invoice, I used last year's price table, and I should have checked it against our current agreement before sending it.\n\nI've attached the corrected invoice to this email. If you've already made the payment, we'll refund the difference within two working days.\n\nTo make sure this doesn't happen again, we've introduced a second review step for all invoices before they're sent to clients.\n\nOnce again, please accept my apologies for the inconvenience, and thank you for your understanding.\n\nKind regards,\nMariana Lopes\nAccounts Manager"
+      },
+      "culture_note": {
+        "title": "\"Sorry\" britânico",
+        "text_pt": "Britânicos dizem **sorry** o tempo todo — até quando **outra pessoa** esbarra neles! É mais um sinal de educação do que um pedido de desculpas real. Já em contextos jurídicos nos EUA, empresas às vezes evitam dizer \"sorry\" porque pode ser interpretado como admissão de culpa."
+      },
+      "summary_pt": ["should have + particípio = deveria ter (não fez).", "shouldn't have + particípio = não deveria ter (fez).", "Desculpa: reconheça → assuma → explique pouco → solução → prevenção.", "sorry for + -ing (o que fez) · sorry to + verbo (agora)."]
+    }
+  ],
+  "review": {
+    "intro_pt": "Revise quantificadores, present perfect x past simple, simple x continuous e linguagem de desculpas.",
+    "exercises": [
+      {"id": "r1", "type": "multiple_choice", "title": "Choose the correct option", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+       "items": [{"prompt": "I have ___ money saved, so I can go on the trip.", "options": ["little", "a little", "few"], "answer": "a little"}, {"prompt": "Since she started the course, she ___ a lot.", "options": ["learned", "has learned"], "answer": "has learned"}, {"prompt": "How long ___ for this exam?", "options": ["have you studied", "have you been studying"], "answer": "have you been studying"}, {"prompt": "I ___ three exams this week.", "options": ["'ve taken", "'ve been taking"], "answer": "'ve taken"}, {"prompt": "I should ___ the report before sending it.", "options": ["check", "have checked", "checked"], "answer": "have checked"}]},
+      {"id": "r2", "type": "fill_blank", "title": "Mixed practice", "instruction": "Complete with the correct form.", "instruction_pt": "Complete com a forma correta.",
+       "items": [{"prompt": "I have too ___ subscriptions. (quantificador)", "answer": "many"}, {"prompt": "It's the first time I ___ (save) money for a whole year.", "answer": "'ve saved"}, {"prompt": "You ___ (not / spend) so much on that phone!", "answer": "shouldn't have spent"}]},
+      {"id": "r3", "type": "translate", "title": "Translate", "instruction": "Translate into English.", "instruction_pt": "Traduza para o inglês.",
+       "items": [{"prompt": "Poucas pessoas têm reserva de emergência.", "answer": "Few people have an emergency fund."}, {"prompt": "Estou escrevendo este livro há dois anos.", "answer": "I've been writing this book for two years."}, {"prompt": "Foi culpa minha. Eu deveria ter pedido ajuda.", "answer": "It was my fault. I should have asked for help."}]},
+      {"id": "r4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+       "items": [{"prompt": "1", "answer": "I can't afford it right now."}, {"prompt": "2", "answer": "All that hard work has paid off."}, {"prompt": "3", "answer": "I shouldn't have sent that email."}]},
+      {"id": "r5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+       "items": [{"prompt": "I have too much bills this month.", "answer": "I have too many bills this month."}, {"prompt": "I've been reading five books this year.", "answer": "I've read five books this year."}, {"prompt": "I should have went earlier.", "answer": "I should have gone earlier."}]}
+    ],
+    "speaking_pt": "Grave um áudio de 3 minutos sobre \"Minha relação com dinheiro e sucesso\": seus hábitos financeiros, uma conquista que exigiu tempo (present perfect continuous), algo que você deveria ter feito diferente e o que sucesso significa para você.",
+    "speaking_questions": ["How do you manage your money?", "What have you been working towards lately?", "What's your biggest achievement so far?", "What should you have done differently in your career or studies?", "How do you define success?"],
+    "project_pt": "**Success stories podcast:** grave (em dupla) um episódio de podcast de 4 a 5 minutos entrevistando alguém (real ou personagem) sobre sua trajetória: como começou, quanto tempo vem trabalhando nisso, conquistas, erros e o que deveria ter feito diferente."
+  }
+}

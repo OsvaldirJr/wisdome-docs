@@ -1,0 +1,532 @@
+{
+  "id": "C2-M5",
+  "level": "C2",
+  "title": "Language in the World",
+  "theme_pt": "Neologismos, Englishes do mundo, registro jurídico e resumo",
+  "can_do": ["Entender e formar neologismos (blends, conversão, sufixos produtivos)", "Reconhecer variedades do inglês e suas características", "Entender a linguagem de obrigação jurídica (shall, be liable to)", "Resumir e avaliar dois textos no formato C2 Proficiency"],
+  "lessons": [
+    {
+      "id": "C2-M5-L1",
+      "title": "New words, new worlds",
+      "subtitle_pt": "Neologismos: blends, conversão (to google, an ask), sufixos produtivos (-ify, -esque, -ism)",
+      "duration_min": 80,
+      "source_refs": ["CEFR – C2 descriptors (lexical range, word formation)", "Cambridge C2 Proficiency – Reading and Use of English Part 3"],
+      "objectives": ["Entender como novas palavras surgem (blends, conversão, siglas, empréstimos, back-formation)", "Usar sufixos e prefixos produtivos (-ify, -esque, -ism, -ish, hyper-, post-, mega-)", "Avaliar quando um neologismo é adequado ao registro", "Discutir tecnologia, cultura digital e mudança linguística"],
+      "warmup": {
+        "text_pt": "\"**Google**\" virou verbo. \"**Brunch**\" é breakfast + lunch. \"**Selfie**\" foi palavra do ano do Oxford Dictionaries em 2013. A cada ano, milhares de palavras novas surgem em inglês — e algumas entram nos dicionários. No C2, você precisa **entender neologismos na hora**, reconhecendo os **mecanismos** que os criam, e saber **quando** usá-los.",
+        "questions": ["Which English words have entered Portuguese recently? Do you use them?", "Can you think of a word that didn't exist ten years ago?"]
+      },
+      "vocabulary": [
+        {"en": "a neologism / to coin (a word)", "pt": "um neologismo / cunhar (uma palavra)", "say": "a niólodjizm / tu kóin"},
+        {"en": "a blend / a portmanteau", "pt": "uma palavra-valise", "say": "a blénd / a portménto"},
+        {"en": "conversion (zero derivation)", "pt": "conversão (derivação imprópria)", "say": "konvârzhan"},
+        {"en": "back-formation", "pt": "derivação regressiva", "say": "bék formêishan"},
+        {"en": "an acronym / an initialism", "pt": "uma sigla pronunciável / uma sigla soletrada", "say": "an ékronim / an iníshalizm"},
+        {"en": "a loanword / to borrow", "pt": "um empréstimo / tomar emprestado", "say": "a lôunuârd"},
+        {"en": "to catch on / to go mainstream", "pt": "pegar / virar popular", "say": "tu kétch on"},
+        {"en": "a buzzword", "pt": "uma palavra da moda", "say": "a bâzuârd"},
+        {"en": "doomscrolling", "pt": "rolar notícias ruins compulsivamente", "say": "dúmskrôulin"},
+        {"en": "ghosting / to ghost (sb)", "pt": "sumir sem explicação", "say": "gôustin"},
+        {"en": "to upskill / an influencer", "pt": "requalificar-se / um influenciador", "say": "tu âpskil / an ínfluenser"},
+        {"en": "Word of the Year", "pt": "Palavra do Ano", "say": "uârd ov dâ iír"}
+      ],
+      "chunks": [
+        {"en": "Just google it.", "pt": "É só dar um Google."},
+        {"en": "That's a big ask.", "pt": "É pedir muito."},
+        {"en": "I spent all night doomscrolling.", "pt": "Passei a noite toda rolando notícias ruins."},
+        {"en": "He ghosted me after the second date.", "pt": "Ele sumiu depois do segundo encontro."},
+        {"en": "The film has a very Kafkaesque feel.", "pt": "O filme tem um clima bem kafkiano."},
+        {"en": "It's a post-truth world.", "pt": "É um mundo da pós-verdade."}
+      ],
+      "grammar": {
+        "title": "How new words are made",
+        "explanation_pt": "**1. Blends (palavras-valise)** — partes de duas palavras:\n- brunch (breakfast + lunch), smog (smoke + fog), motel (motor + hotel), podcast (iPod + broadcast), staycation (stay + vacation), Brexit (Britain + exit), infodemic (information + epidemic)\n\n**2. Conversão** — a palavra muda de **classe** sem mudar de forma:\n- substantivo → verbo: **to google**, **to text**, **to email**, **to friend**, **to adult** (informal), **to gift**\n- verbo → substantivo: **an ask** (\"a big ask\"), **a read** (\"a good read\"), **a must-have**, **a fail**\n- adjetivo → verbo: **to green** (a cidade), **to empty**\n\n**3. Afixos produtivos:**\n- **-ify / -ize**: gamify, monetize, weaponize, Uberize\n- **-esque / -ian**: Kafkaesque, Orwellian, Dickensian (como na obra de...)\n- **-ism / -ist**: ageism, lookism, ableism\n- **-ish**: sevenish, greenish, \"Are you happy?\" \"**Ish.**\" (informal)\n- **-ee / -er**: trainee, influencer\n- **hyper- / mega- / post- / micro- / e- / cyber-**: hyperlocal, mega-rich, post-truth, microplastics, e-learning, cybercrime\n- **un-** criativo: unfriend, unfollow, unsend\n\n**4. Compostos:** deepfake, doomscrolling, screen time, side hustle, cancel culture\n\n**5. Siglas:**\n- **Acronym** (lido como palavra): NASA, laser (light amplification by...), FOMO, YOLO\n- **Initialism** (soletrada): FAQ, DIY, BBC\n\n**6. Back-formation** — criar uma palavra \"mais simples\" a partir de uma mais longa: **edit** (de editor), **babysit** (de babysitter), **donate** (de donation), **burgle** (de burglar)\n\n**7. Empréstimos:** emoji (japonês), tsunami, schadenfreude (alemão), hygge (dinamarquês) — e do português: **samba, caipirinha, favela, capoeira, piranha**.\n\n**Registro:** neologismos informais (ghosting, adulting) funcionam na fala e em textos leves; em textos formais, prefira termos estabelecidos ou explique o neologismo (\"so-called 'doomscrolling'\").",
+        "table": {
+          "headers": ["Mecanismo", "Exemplos"],
+          "rows": [["Blend", "brunch, smog, staycation, Brexit"], ["Conversão", "to google, an ask, a must-have"], ["Sufixo produtivo", "gamify, Kafkaesque, ageism, -ish"], ["Prefixo produtivo", "post-truth, hyperlocal, unfriend"], ["Composto", "deepfake, side hustle"], ["Sigla", "FOMO (acronym), DIY (initialism)"], ["Back-formation", "edit, babysit, donate"], ["Empréstimo", "emoji, hygge, samba"]]
+        },
+        "examples": [
+          {"en": "Many companies are trying to gamify their training programmes to keep employees engaged.", "pt": "Muitas empresas estão tentando gamificar seus programas de treinamento para manter os funcionários engajados."},
+          {"en": "Dealing with the tax office was a truly Kafkaesque experience.", "pt": "Lidar com a Receita foi uma experiência verdadeiramente kafkiana."},
+          {"en": "Several dictionaries chose words related to misinformation and online life as their Words of the Year in the 2010s and 2020s.", "pt": "Vários dicionários escolheram palavras ligadas à desinformação e à vida online como Palavras do Ano nos anos 2010 e 2020."}
+        ],
+        "tip_pt": "Ao encontrar uma palavra desconhecida, **desmonte-a**: qual é a raiz? Há um prefixo ou sufixo conhecido? Pode ser um blend? Na prova C2 (Part 3, word formation), essa habilidade é testada diretamente."
+      },
+      "common_mistakes": [
+        {"wrong": "Can you make a google for me?", "right": "Can you google it for me?", "why_pt": "google é usado como verbo (conversão)."},
+        {"wrong": "That's a big asking.", "right": "That's a big ask.", "why_pt": "ask virou substantivo por conversão, sem -ing."},
+        {"wrong": "Using \"adulting\" or \"ghosting\" in a formal report without explanation.", "right": "Use established terms or explain: the practice known as \"ghosting\" (ending contact without explanation).", "why_pt": "Neologismos informais exigem cuidado com o registro."}
+      ],
+      "pronunciation": {
+        "focus": "Acento em compostos e conversões",
+        "tip_pt": "Compostos substantivos geralmente têm acento na **primeira** parte: **DEEP**fake, **DOOM**scrolling, **SIDE** hustle. Algumas conversões mudam o acento entre substantivo e verbo: a **RE**cord / to re**CORD**; an **UP**grade / to up**GRADE**; a **PRE**sent / to pre**SENT**.",
+        "practice": ["DEEPfake, DOOMscrolling, SIDE hustle", "an UPgrade / to upGRADE", "a REcord / to reCORD"]
+      },
+      "dialogue": {
+        "title": "The generation gap",
+        "context_pt": "Uma avó pergunta à neta o significado de palavras que ela ouve no trabalho e nas redes.",
+        "lines": [
+          {"speaker": "Grandma", "en": "Bia, your cousin said she was \"ghosted\". Did she see a ghost?", "pt": "Bia, sua prima disse que foi \"ghosted\". Ela viu um fantasma?"},
+          {"speaker": "Bia", "en": "Ha! No, Grandma. It means a guy she was dating just disappeared — stopped answering messages without any explanation.", "pt": "Ha! Não, vó. Significa que um cara com quem ela estava saindo simplesmente sumiu — parou de responder mensagens sem explicação."},
+          {"speaker": "Grandma", "en": "Ah. In my day we just called that being rude. And \"doomscrolling\"? Your father says he's been doing it.", "pt": "Ah. No meu tempo a gente chamava isso só de falta de educação. E \"doomscrolling\"? Seu pai diz que anda fazendo isso."},
+          {"speaker": "Bia", "en": "That's scrolling through bad news on your phone for hours. \"Doom\" plus \"scrolling\". People started using it a lot during the pandemic.", "pt": "É ficar rolando notícias ruins no celular por horas. \"Doom\" mais \"scrolling\". As pessoas começaram a usar muito durante a pandemia."},
+          {"speaker": "Grandma", "en": "These words appear from nowhere! When I was young, nobody \"googled\" anything. We went to the library.", "pt": "Essas palavras aparecem do nada! Quando eu era jovem, ninguém \"googlava\" nada. A gente ia à biblioteca."},
+          {"speaker": "Bia", "en": "But you invented words too! Didn't you tell me \"smog\" was new once?", "pt": "Mas vocês também inventavam palavras! Você não me disse que \"smog\" já foi novidade?"},
+          {"speaker": "Grandma", "en": "That was before my time, cheeky! But you're right. Language never stops changing.", "pt": "Isso foi antes do meu tempo, sua atrevida! Mas você tem razão. A língua nunca para de mudar."},
+          {"speaker": "Bia", "en": "Exactly. Now, can I teach you what \"FOMO\" means?", "pt": "Exatamente. Agora, posso te ensinar o que significa \"FOMO\"?"}
+        ]
+      },
+      "listening": {
+        "title": "How a word gets into the dictionary",
+        "context_pt": "Uma lexicógrafa explica como os dicionários decidem incluir palavras novas.",
+        "lines": [
+          {"speaker": "Lexicographer", "en": "People often ask me who decides whether a word is \"real\". The honest answer is: nobody — and everybody. Dictionaries of English don't create words, and they don't approve them. They observe them. Lexicographers track huge collections of real language — books, newspapers, websites, transcripts — looking for words that are being used widely, by many different people, over a sustained period. A word that appears once in a viral post and then disappears won't make it. But if a word keeps appearing in different contexts, across different types of writing, for several years, it's likely to be added. That's how words like \"selfie\", \"emoji\" and \"podcast\" found their way into major dictionaries. This is quite different from languages that have official academies — Portuguese and French, for example, have institutions that publish official vocabularies or spelling rules. English has never had an equivalent. Its dictionaries are descriptive: they tell you how people actually use the language, not how they ought to."}
+        ],
+        "questions": [
+          {"q": "Who decides whether an English word is \"real\"?", "answer": "Nobody and everybody — dictionaries observe usage."},
+          {"q": "What do lexicographers look for?", "answer": "Words used widely, by many people, in different contexts, over a sustained period."},
+          {"q": "Why won't a word from one viral post be included?", "answer": "It isn't used widely over time."},
+          {"q": "How is English different from Portuguese and French in this respect?", "answer": "English has no official academy; its dictionaries are descriptive."}
+        ]
+      },
+      "video": {
+        "title": "Go ahead, make up new words!",
+        "speaker": "Erin McKean",
+        "url": "https://www.ted.com/search?q=erin+mckean+go+ahead+make+up+new+words",
+        "task_pt": "Assista à palestra (cerca de 9 minutos) da lexicógrafa Erin McKean. Responda:",
+        "questions": ["What are the main ways of making new words that she describes?", "Why does she encourage people to make up new words?", "Invent a new English word (blend, conversion or affix) for something in modern life that has no name yet. Define it.", "Do you think Portuguese should accept English words freely?"]
+      },
+      "reading": {
+        "title": "Is English being ruined?",
+        "text": "Complaints about the decline of the English language are almost as old as the language itself. In the eighteenth century, Jonathan Swift lamented the \"corruptions\" introduced by fashionable young writers and proposed an academy to fix the language once and for all. Two centuries later, critics worried about the influence of American films; more recently, the targets have been text messages, social media and teenagers. Each generation, it seems, is convinced that it is witnessing the end of proper English. Linguists tend to be considerably more relaxed. From their perspective, change is not a sign of decay but a condition of life. Every living language constantly gains new words and loses old ones, shifts its pronunciation and adjusts its grammar. Many words now considered perfectly respectable began as slang or as \"errors\". \"Mob\", for example, was once a disreputable abbreviation of the Latin mobile vulgus; \"nice\" originally meant \"foolish\"; and the verb \"to contact\", now indispensable in any office, was widely condemned as vulgar American usage in the early twentieth century. The digital age has undoubtedly accelerated the process. New words can now spread across the globe in days rather than decades, and the boundaries between speech and writing have blurred. Yet research on young people's writing has generally found little evidence that texting damages literacy; some studies even suggest that playful abbreviation requires a sophisticated awareness of how language works. None of this means that every innovation deserves to survive, or that standards no longer matter. Clear, precise language remains essential in law, science and public life, and most speakers are perfectly capable of switching between registers. The real skill, perhaps, is not resisting change but navigating it: knowing when \"ghosting\" is the perfect word, and when it would be entirely out of place.",
+        "questions": [
+          {"q": "What did Jonathan Swift propose?", "answer": "An academy to fix the English language once and for all."},
+          {"q": "How do linguists view language change?", "answer": "Not as decay but as a normal condition of a living language."},
+          {"q": "Give one example of a word that changed status or meaning.", "answer": "\"Mob\" (once disreputable), \"nice\" (once meant foolish), \"to contact\" (once considered vulgar)."},
+          {"q": "What has research found about texting and literacy?", "answer": "Little evidence that it damages literacy; it may even show linguistic awareness."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "match", "title": "Identify the blend", "instruction": "Write the two words that form each blend.", "instruction_pt": "Escreva as duas palavras que formam cada blend.",
+         "items": [{"prompt": "brunch", "answer": "breakfast + lunch"}, {"prompt": "smog", "answer": "smoke + fog"}, {"prompt": "staycation", "answer": "stay + vacation"}, {"prompt": "infodemic", "answer": "information + epidemic"}, {"prompt": "motel", "answer": "motor + hotel"}]},
+        {"id": "ex2", "type": "fill_blank", "title": "Word formation (C2 Proficiency Part 3 style)", "instruction": "Use the word in CAPS to form a word that fits the gap.", "instruction_pt": "Use a palavra em CAPS para formar uma palavra que complete a lacuna.",
+         "items": [{"prompt": "Many apps try to ___ learning by adding points and badges. (GAME)", "answer": "gamify"}, {"prompt": "The bureaucracy was absurd — truly ___. (KAFKA)", "answer": "Kafkaesque"}, {"prompt": "Discrimination based on age, or ___, is common in recruitment. (AGE)", "answer": "ageism"}, {"prompt": "We live in what some call a ___ era. (TRUTH)", "answer": "post-truth"}, {"prompt": "The company has been accused of trying to ___ every aspect of family life. (MONEY)", "answer": "monetize"}]},
+        {"id": "ex3", "type": "multiple_choice", "title": "Which process?", "instruction": "Identify the word-formation process.", "instruction_pt": "Identifique o processo de formação da palavra.",
+         "items": [{"prompt": "to google", "options": ["conversion", "blend", "back-formation"], "answer": "conversion"}, {"prompt": "edit (from editor)", "options": ["back-formation", "blend", "acronym"], "answer": "back-formation"}, {"prompt": "FOMO", "options": ["acronym", "initialism", "blend"], "answer": "acronym"}, {"prompt": "DIY", "options": ["initialism", "acronym", "conversion"], "answer": "initialism"}, {"prompt": "podcast", "options": ["blend", "conversion", "loanword"], "answer": "blend"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "That's a big ask."}, {"prompt": "2", "answer": "I spent all night doomscrolling."}, {"prompt": "3", "answer": "The film has a very Kafkaesque feel."}, {"prompt": "4", "answer": "Language never stops changing."}]},
+        {"id": "ex5", "type": "answer", "title": "Coin a word", "instruction": "Invent a new English word for each situation, explain how you formed it, and use it in a sentence.", "instruction_pt": "Invente uma palavra nova em inglês para cada situação, explique como a formou e use-a numa frase.",
+         "items": [{"prompt": "The feeling of checking your phone and finding no messages.", "answer": "Model: \"notifixation\" (notification + fixation) — I've got serious notifixation today; I've checked my phone fifty times."}, {"prompt": "A meeting that could have been an email.", "answer": "Model: \"meetmail\" (meeting + email) — That was a total meetmail; we could have saved an hour."}, {"prompt": "Pretending to be busy at work.", "answer": "Model: \"to busify\" (busy + -ify) — He spent the afternoon busifying while the boss was around."}]},
+        {"id": "ex6", "type": "match", "title": "Digital vocabulary", "instruction": "Write the English word.", "instruction_pt": "Escreva a palavra em inglês.",
+         "items": [{"prompt": "sumir sem explicação", "answer": "ghost"}, {"prompt": "rolar notícias ruins compulsivamente", "answer": "doomscrolling"}, {"prompt": "palavra da moda", "answer": "buzzword"}, {"prompt": "cunhar uma palavra", "answer": "coin a word"}, {"prompt": "renda extra (trabalho paralelo)", "answer": "side hustle"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Word of the Year committee\": in groups, propose three candidates for this year's Word of the Year (in English, real or newly coined). For each, explain its origin, how it's formed, why it matters and whether it will last. Then vote.",
+        "instruction_pt": "\"Comitê da Palavra do Ano\": em grupos, proponham três candidatas a Palavra do Ano (em inglês, reais ou recém-criadas). Para cada uma, expliquem a origem, como é formada, por que importa e se vai durar. Depois votem.",
+        "questions": ["Is the influence of English on Portuguese a problem?", "Which English neologism do you find most useful?", "Should dictionaries include slang?", "Who has the right to decide what is \"correct\" language?", "Which Portuguese word should English borrow next?"]
+      },
+      "writing": {
+        "task": "Write an essay (300–350 words): \"Language change: decline or evolution?\" Use examples of neologisms and word formation from English (and, if you wish, Portuguese), and reach a balanced conclusion.",
+        "task_pt": "Escreva um ensaio (300–350 palavras): \"Mudança linguística: declínio ou evolução?\" Use exemplos de neologismos e formação de palavras do inglês (e, se quiser, do português) e chegue a uma conclusão equilibrada.",
+        "model": "Language change: decline or evolution?\n\nEvery few years, a new wave of anxiety sweeps through the media: young people are destroying the language. Their texts are full of abbreviations, their speech full of slang, and words like \"ghosting\", \"adulting\" and \"doomscrolling\" are invading the dictionary. Is this evidence of decline, or simply evolution in action?\n\nThere is no doubt that English is changing rapidly. Digital technology has accelerated the creation and spread of new words, many of them formed through familiar processes. Blends such as \"staycation\" and \"infodemic\" combine existing words; conversion has turned nouns like \"google\" and \"text\" into verbs; and productive suffixes allow speakers to coin terms such as \"gamify\" or \"Uberization\" almost effortlessly. Far from being chaotic, these innovations follow patterns that have shaped English for centuries.\n\nIndeed, history suggests that today's \"corruption\" is often tomorrow's standard. Words such as \"mob\" and \"bus\" were once condemned as vulgar abbreviations, and the use of \"contact\" as a verb provoked indignation in the early twentieth century. Few people would now consider them anything but ordinary English. The same process is visible in Portuguese, which has absorbed words like \"deletar\" and \"printar\", to the dismay of some purists.\n\nThat said, it would be naive to claim that all change is neutral. Rapidly multiplying jargon can exclude older people or non-specialists, and the informality of online communication can make it harder for some young people to master formal registers when they need them — in job applications, legal documents or academic writing.\n\nThe solution, however, is not to resist change but to teach flexibility. A speaker who can use \"ghosted\" with friends and \"failed to respond\" in a formal complaint is not a victim of linguistic decline but a skilled user of the language.\n\nIn conclusion, language change is neither a catastrophe nor a cause for unqualified celebration. It is, quite simply, what living languages do. Our task is not to stop it, but to understand it — and to use every register well."
+      },
+      "culture_note": {
+        "title": "Palavras portuguesas no inglês",
+        "text_pt": "O inglês tomou emprestadas várias palavras do português (algumas via outras línguas): **samba, bossa nova, caipirinha, capoeira, favela, piranha, jaguar, cashew** (de *caju*), **marmalade** (de *marmelada*, via francês) e **flamingo** (provavelmente via português ou espanhol). Por outro lado, o português brasileiro absorveu centenas de anglicismos: **deletar, printar, dar um like, home office**..."
+      },
+      "summary_pt": ["Blends: brunch, smog, staycation. Conversão: to google, a big ask.", "Afixos produtivos: -ify, -ize, -esque, -ism, -ish, post-, hyper-, un-.", "Siglas: acronym (FOMO) x initialism (DIY). Back-formation: edit, donate.", "Dicionários ingleses são descritivos: registram o uso, não o aprovam."]
+    },
+    {
+      "id": "C2-M5-L2",
+      "title": "Global Englishes",
+      "subtitle_pt": "Variedades do inglês: vocabulário, gramática e pronúncia (UK, US, Índia, Nigéria, Singapura...)",
+      "duration_min": 80,
+      "source_refs": ["CEFR – C2 descriptors (understanding a wide range of accents and varieties)", "Cambridge C2 Proficiency – Listening (range of accents)"],
+      "objectives": ["Reconhecer diferenças entre inglês britânico, americano e outras variedades", "Entender características de World Englishes (Índia, Nigéria, Singapura, Caribe)", "Compreender sotaques diversos com mais facilidade", "Discutir o inglês como língua global e como língua franca"],
+      "warmup": {
+        "text_pt": "Hoje há muito mais pessoas que falam inglês como **segunda língua** ou **língua estrangeira** do que como língua materna. Isso significa que, no mundo real, você provavelmente vai conversar em inglês com indianos, nigerianos, alemães e chineses tanto quanto com britânicos ou americanos. No C2, entender **variedades** e **sotaques** diversos é parte essencial da proficiência.",
+        "questions": ["Which English accents do you find easiest and hardest to understand?", "Is there a \"correct\" English accent? Why / why not?"]
+      },
+      "vocabulary": [
+        {"en": "a variety / a dialect", "pt": "uma variedade / um dialeto", "say": "a varáieti / a dáialekt"},
+        {"en": "an accent / to have an accent", "pt": "um sotaque / ter sotaque", "say": "an éksent"},
+        {"en": "World Englishes", "pt": "os \"ingleses\" do mundo", "say": "uârld ínglishiz"},
+        {"en": "a lingua franca", "pt": "uma língua franca", "say": "a língua frénka"},
+        {"en": "a native / non-native speaker", "pt": "um falante nativo / não nativo", "say": "a nêitiv / nón nêitiv spíker"},
+        {"en": "Received Pronunciation (RP)", "pt": "pronúncia padrão britânica tradicional", "say": "risívd pronansiêishan"},
+        {"en": "General American", "pt": "pronúncia padrão americana", "say": "djéneral amérikan"},
+        {"en": "rhotic / non-rhotic", "pt": "que pronuncia / não pronuncia o r final", "say": "róutik / nón róutik"},
+        {"en": "a creole / a pidgin", "pt": "um crioulo / um pidgin", "say": "a kríoul / a pídjin"},
+        {"en": "intelligibility", "pt": "inteligibilidade", "say": "intelidjibíliti"},
+        {"en": "Singlish / Hinglish", "pt": "inglês de Singapura / mistura de hindi e inglês", "say": "síngglish / híngglish"},
+        {"en": "linguistic prejudice", "pt": "preconceito linguístico", "say": "lingüístik prédjudis"}
+      ],
+      "chunks": [
+        {"en": "I'm in the queue / I'm in line.", "pt": "Estou na fila. (UK / US)"},
+        {"en": "I'll do the needful.", "pt": "Farei o necessário. (inglês indiano)"},
+        {"en": "Can or not?", "pt": "Pode ou não? (Singlish)"},
+        {"en": "Are you coming? — I'm coming now-now.", "pt": "Você vem? — Já, já. (inglês sul-africano)"},
+        {"en": "Have you got a car? / Do you have a car?", "pt": "Você tem carro? (UK / US)"},
+        {"en": "There's no single correct accent.", "pt": "Não existe um único sotaque correto."}
+      ],
+      "grammar": {
+        "title": "Varieties of English",
+        "explanation_pt": "**1. Britânico x americano** (as diferenças mais comuns):\n- **Vocabulário:** flat/apartment, lift/elevator, queue/line, holiday/vacation, pavement/sidewalk, autumn/fall, mobile/cell phone, rubbish/trash, chemist/pharmacy, motorway/highway\n- **Ortografia:** colour/color, centre/center, organise/organize (ambos aceitos no UK), travelled/traveled, programme/program, defence/defense\n- **Gramática:**\n  - **have got** (UK) / **have** (US): \"Have you got...?\" / \"Do you have...?\"\n  - **Present perfect** mais usado no UK: \"I've just eaten\" (UK) x \"I just ate\" (US, comum)\n  - **Substantivos coletivos:** \"The team **are** playing well\" (UK, possível) x \"The team **is**...\" (US)\n  - **Preposições:** at the weekend (UK) / on the weekend (US); different from/to (UK) / different from/than (US)\n  - **gotten** (US) / got (UK)\n- **Pronúncia:** o \"r\" final (rhotic no US, non-rhotic em RP: car = \"kaa\"); o \"t\" entre vogais (US: water ≈ \"wárer\"); vogais (bath, can't, tomato)\n\n**2. World Englishes** — variedades legítimas com normas próprias:\n- **Inglês indiano:** \"do the needful\", \"prepone\" (antecipar, oposto de postpone), \"revert\" (= responder), \"cousin-brother\"; uso frequente do contínuo (\"I am knowing him\")\n- **Inglês nigeriano:** \"to off the light\" (desligar), \"to on the TV\", \"well done\" como saudação a quem trabalha\n- **Singlish (Singapura):** partículas como **lah**, **lor**, **meh**; \"Can or not?\", \"Got or not?\"\n- **Inglês sul-africano:** \"now-now\" (já, já), \"just now\" (daqui a pouco, às vezes!), \"robot\" (semáforo)\n- **Inglês australiano:** arvo (afternoon), brekkie (breakfast), \"no worries\"\n- **Inglês caribenho/crioulos:** sistemas gramaticais próprios (ex.: Jamaican Patois)\n\n**3. Inglês como língua franca (ELF):** em comunicação internacional, **inteligibilidade** importa mais que sotaque \"nativo\". Pesquisadores como **Jennifer Jenkins** identificaram um \"núcleo\" de características de pronúncia que mais afetam a compreensão (certas consoantes, vogais longas x curtas, acento nas palavras importantes) — o resto, como o \"th\", pode variar sem prejudicar a comunicação.\n\n**4. Atitude C2:** reconheça e **respeite** a variação. Escolha uma variedade-base para escrever (UK ou US) e seja **consistente** na ortografia.",
+        "table": {
+          "headers": ["Britânico", "Americano"],
+          "rows": [["flat, lift, queue", "apartment, elevator, line"], ["colour, centre, travelled", "color, center, traveled"], ["Have you got a pen?", "Do you have a pen?"], ["at the weekend", "on the weekend"], ["got (past participle)", "gotten"], ["The team are...", "The team is..."], ["car = /kɑː/ (non-rhotic)", "car = /kɑr/ (rhotic)"]]
+        },
+        "examples": [
+          {"en": "In Indian English, \"Please revert at the earliest\" simply means \"Please reply as soon as possible\".", "pt": "No inglês indiano, \"Please revert at the earliest\" significa simplesmente \"Por favor, responda o quanto antes\"."},
+          {"en": "There are now far more people who use English as a second or foreign language than as a first language.", "pt": "Hoje há muito mais pessoas que usam o inglês como segunda língua ou língua estrangeira do que como primeira língua."},
+          {"en": "Whether you write \"organise\" or \"organize\", the key is to be consistent throughout the text.", "pt": "Quer você escreva \"organise\" ou \"organize\", o importante é ser consistente ao longo do texto."}
+        ],
+        "tip_pt": "Para melhorar a compreensão de sotaques, **varie suas fontes**: ouça podcasts e entrevistas com falantes da Índia, Nigéria, Escócia, Austrália, Irlanda, África do Sul. Na prova C2 Proficiency, o Listening inclui uma variedade de sotaques."
+      },
+      "common_mistakes": [
+        {"wrong": "Mixing spellings in the same text: \"colour\" and \"center\".", "right": "Choose British (colour, centre) or American (color, center) and be consistent.", "why_pt": "Consistência ortográfica é esperada em textos formais."},
+        {"wrong": "Thinking Indian, Nigerian or Singaporean English are \"wrong\".", "right": "They are legitimate varieties with their own norms.", "why_pt": "Variação não é erro; é diversidade."},
+        {"wrong": "\"Have you gotten a car?\" (UK context)", "right": "\"Have you got a car?\" (UK) / \"Do you have a car?\" (US)", "why_pt": "gotten é americano e não se usa com o sentido de posse."}
+      ],
+      "pronunciation": {
+        "focus": "Reconhecendo sotaques",
+        "tip_pt": "Algumas pistas rápidas: **r final** pronunciado (US, Escócia, Irlanda, Índia) ou não (RP, Austrália, África do Sul); **t entre vogais** como \"r\" rápido (US, Austrália); **bath / can't** com /ɑː/ longo (sul da Inglaterra) ou /æ/ (US, norte da Inglaterra). Ouça \"water\", \"car\" e \"bath\" em vários sotaques.",
+        "practice": ["water — /ˈwɔːtə/ (UK) x /ˈwɑːɾɚ/ (US)", "car — /kɑː/ (UK) x /kɑr/ (US)", "bath — /bɑːθ/ (southern UK) x /bæθ/ (US)"]
+      },
+      "dialogue": {
+        "title": "The international team",
+        "context_pt": "Uma reunião online de uma equipe internacional, com membros do Brasil, da Índia, da Escócia e dos EUA.",
+        "lines": [
+          {"speaker": "Priya", "en": "Good morning, everyone. Before we start, kindly revert on the budget email at the earliest — I'll do the needful once I have your numbers.", "pt": "Bom dia a todos. Antes de começarmos, por favor respondam o e-mail do orçamento o quanto antes — farei o necessário assim que tiver os números de vocês."},
+          {"speaker": "Jack", "en": "Sorry, Priya — \"revert\"? Do you want us to go back to the old version?", "pt": "Desculpa, Priya — \"revert\"? Você quer que a gente volte para a versão antiga?"},
+          {"speaker": "Priya", "en": "Ha, no! In Indian English, \"revert\" just means \"reply\". Sorry, I forget that it's not universal.", "pt": "Ha, não! No inglês indiano, \"revert\" significa só \"responder\". Desculpa, esqueço que não é universal."},
+          {"speaker": "Duda", "en": "That's interesting. And Jack, earlier you said the meeting had been \"preponed\"?", "pt": "Interessante. E Jack, mais cedo você disse que a reunião tinha sido \"preponed\"?"},
+          {"speaker": "Jack", "en": "No, that was Priya too! I'd say \"brought forward\". Honestly, I think \"prepone\" is brilliant — it's the logical opposite of \"postpone\".", "pt": "Não, foi a Priya também! Eu diria \"brought forward\". Sinceramente, acho \"prepone\" genial — é o oposto lógico de \"postpone\"."},
+          {"speaker": "Mark", "en": "Speaking of which, I'm in Chicago, so for me the deadline is on the weekend, not at the weekend!", "pt": "Falando nisso, estou em Chicago, então para mim o prazo é \"on the weekend\", não \"at the weekend\"!"},
+          {"speaker": "Duda", "en": "And I'm the Brazilian who learned British English at school and American English from Netflix. I mix everything!", "pt": "E eu sou a brasileira que aprendeu inglês britânico na escola e americano com a Netflix. Misturo tudo!"},
+          {"speaker": "Priya", "en": "That's the beauty of it. As long as we understand each other, we're all speaking English.", "pt": "Essa é a beleza da coisa. Desde que a gente se entenda, todos estamos falando inglês."}
+        ]
+      },
+      "listening": {
+        "title": "Whose English is it?",
+        "context_pt": "Uma pesquisadora fala sobre a expansão global do inglês.",
+        "lines": [
+          {"speaker": "Researcher", "en": "The linguist Braj Kachru, who was born in Kashmir and worked in the United States, proposed an influential model of English around the world, often pictured as three concentric circles. The inner circle includes countries where English is the main first language: the UK, the US, Australia and so on. The outer circle includes countries where English has an official or institutional role as a second language, often as a result of colonial history: India, Nigeria, Singapore, the Philippines. And the expanding circle includes countries where English is learned as a foreign language for international communication — Brazil, China, Japan, Germany, and most of the world. The model has been criticized and revised, but its central insight remains powerful: English no longer belongs only to its native speakers. In fact, most interactions in English today probably take place between people for whom it isn't a first language at all. Which raises a fascinating question: who, now, sets the standard?"}
+        ],
+        "questions": [
+          {"q": "Who proposed the three-circle model?", "answer": "Braj Kachru."},
+          {"q": "What is the inner circle?", "answer": "Countries where English is the main first language (UK, US, Australia...)."},
+          {"q": "Which circle does Brazil belong to?", "answer": "The expanding circle."},
+          {"q": "What is the central insight of the model?", "answer": "English no longer belongs only to its native speakers."}
+        ]
+      },
+      "reading": {
+        "title": "The myth of the perfect accent",
+        "text": "For decades, many language learners have pursued a single, elusive goal: to sound like a native speaker. Textbooks offered recordings in \"standard\" British or American accents; learners practised minimal pairs late into the night; and those who failed to eliminate every trace of their first language often felt that they had, in some sense, failed. In recent years, this ideal has come under sustained criticism. The first problem is practical. There is no single native accent to imitate. A speaker from Glasgow sounds very different from one from London, Dublin, Texas or Sydney, and none of these accents is inherently more correct than the others. Even the \"standard\" British accent traditionally taught to learners, Received Pronunciation, is spoken natively by only a small minority of people in the United Kingdom. The second problem concerns purpose. For the vast majority of learners, English is a means of communicating with people from many different countries, most of whom are not native speakers themselves. In these situations, what matters is not whether one sounds British or American but whether one is understood. Research on English as a lingua franca has suggested that certain features — word stress, the distinction between some long and short vowels, and a number of consonant sounds — are far more important for intelligibility than others. A Brazilian speaker who pronounces \"think\" as \"fink\" will almost always be understood; one who misplaces the stress in \"comfortable\" or \"development\" may cause genuine confusion. None of this means that pronunciation does not matter. Clear pronunciation is a courtesy to one's listeners, and many learners find great satisfaction in mastering the sounds of a new language. But the goal has shifted from imitation to intelligibility, and from shame to confidence. An accent, after all, is not a defect. It is a sign that someone has learned to live in more than one language — which is, by any measure, an achievement.",
+        "questions": [
+          {"q": "What goal have many learners pursued?", "answer": "To sound like a native speaker."},
+          {"q": "Why is there no single native accent to imitate?", "answer": "Native accents vary enormously; none is inherently more correct."},
+          {"q": "What matters most in lingua franca communication?", "answer": "Being understood (intelligibility), not sounding British or American."},
+          {"q": "Which features does research suggest are most important for intelligibility?", "answer": "Word stress, long/short vowel distinctions and some consonant sounds."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "match", "title": "British → American", "instruction": "Write the American English equivalent.", "instruction_pt": "Escreva o equivalente americano.",
+         "items": [{"prompt": "flat", "answer": "apartment"}, {"prompt": "lift", "answer": "elevator"}, {"prompt": "queue", "answer": "line"}, {"prompt": "pavement", "answer": "sidewalk"}, {"prompt": "rubbish", "answer": "trash / garbage"}, {"prompt": "motorway", "answer": "highway / freeway"}]},
+        {"id": "ex2", "type": "multiple_choice", "title": "UK or US?", "instruction": "Identify the variety most typically associated with each sentence.", "instruction_pt": "Identifique a variedade tipicamente associada a cada frase.",
+         "items": [{"prompt": "Have you got a minute?", "options": ["British", "American"], "answer": "British"}, {"prompt": "I've gotten used to it.", "options": ["British", "American"], "answer": "American"}, {"prompt": "What are you doing at the weekend?", "options": ["British", "American"], "answer": "British"}, {"prompt": "The color of the center is gray.", "options": ["British", "American"], "answer": "American"}, {"prompt": "The government are divided on the issue.", "options": ["British", "American"], "answer": "British"}]},
+        {"id": "ex3", "type": "match", "title": "World Englishes", "instruction": "Write the meaning of each expression.", "instruction_pt": "Escreva o significado de cada expressão.",
+         "items": [{"prompt": "\"Please revert at the earliest.\" (Indian English)", "answer": "Please reply as soon as possible."}, {"prompt": "\"The meeting has been preponed.\" (Indian English)", "answer": "The meeting has been brought forward / moved earlier."}, {"prompt": "\"Please off the light.\" (Nigerian English)", "answer": "Please turn off the light."}, {"prompt": "\"I'll do it now-now.\" (South African English)", "answer": "I'll do it very soon."}, {"prompt": "\"See you this arvo.\" (Australian English)", "answer": "See you this afternoon."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "There's no single correct accent."}, {"prompt": "2", "answer": "English no longer belongs only to its native speakers."}, {"prompt": "3", "answer": "The goal is intelligibility, not imitation."}, {"prompt": "4", "answer": "An accent is not a defect."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Consistency check", "instruction": "Rewrite each sentence with consistent British spelling.", "instruction_pt": "Reescreva cada frase com ortografia britânica consistente.",
+         "items": [{"prompt": "The color of the theatre's center was gray.", "answer": "The colour of the theatre's centre was grey."}, {"prompt": "We traveled to the defence ministry's program.", "answer": "We travelled to the defence ministry's programme."}, {"prompt": "She organized a favorite neighbour's party.", "answer": "She organised a favourite neighbour's party."}]},
+        {"id": "ex6", "type": "match", "title": "Varieties vocabulary", "instruction": "Write the English term.", "instruction_pt": "Escreva o termo em inglês.",
+         "items": [{"prompt": "língua franca", "answer": "lingua franca"}, {"prompt": "inteligibilidade", "answer": "intelligibility"}, {"prompt": "que pronuncia o r final", "answer": "rhotic"}, {"prompt": "preconceito linguístico", "answer": "linguistic prejudice"}, {"prompt": "crioulo (língua)", "answer": "creole"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Accent tour\": in groups, each person researches one variety of English (Scottish, Irish, Indian, Nigerian, Singaporean, Australian, South African, Jamaican...) and presents three features (vocabulary, grammar, pronunciation) with an audio or video clip. Discuss which features affect intelligibility most.",
+        "instruction_pt": "\"Tour de sotaques\": em grupos, cada pessoa pesquisa uma variedade do inglês e apresenta três características (vocabulário, gramática, pronúncia) com um trecho de áudio ou vídeo. Discutam quais características mais afetam a compreensão.",
+        "questions": ["Should learners aim to sound like native speakers?", "Who \"owns\" English today?", "Is there linguistic prejudice in Brazil (e.g. against certain accents)?", "Which accent of English do you have, or would like to have?", "Will English remain the global language in 100 years?"]
+      },
+      "writing": {
+        "task": "Write an article (300–350 words) for an international student magazine: \"Whose English is it anyway?\" Discuss the global spread of English, the varieties that have emerged and what this means for learners like you.",
+        "task_pt": "Escreva um artigo (300–350 palavras) para uma revista internacional de estudantes: \"Afinal, de quem é o inglês?\" Discuta a expansão global do inglês, as variedades que surgiram e o que isso significa para estudantes como você.",
+        "model": "Whose English is it anyway?\n\nWhen I started learning English as a child in Brazil, I believed there was one \"correct\" version of the language, spoken by people in London or New York, and that my job was to imitate it as closely as possible. Every trace of my Portuguese accent felt like a mistake. It took me many years — and many conversations with people from very different places — to realize how wrong that idea was.\n\nEnglish today is spoken by an estimated one and a half billion people, but only a minority of them learned it as their first language. It is the official or institutional language of countries as diverse as India, Nigeria, Singapore and the Philippines, each of which has developed its own vocabulary, rhythms and expressions. An Indian colleague might ask me to \"revert\" on an email; a Nigerian friend might ask me to \"off the light\"; a Singaporean classmate might end a sentence with \"lah\". These are not errors. They are features of established varieties of English, as legitimate as the British \"queue\" or the American \"sidewalk\".\n\nFor learners, this has liberating implications. First, there is no single accent we are obliged to imitate. What matters in international communication is intelligibility: speaking clearly, stressing the right syllables and adapting to our listeners. Second, we are not merely visitors in someone else's language. As members of the global community of English users, we have a stake in it — and perhaps even a right to shape it.\n\nThat does not mean anything goes. In formal writing, consistency and accuracy still matter, and learners benefit from understanding the major standard varieties. But the old hierarchy, in which native speakers were the only judges of what was correct, is giving way to something more democratic.\n\nSo whose English is it? The honest answer is: everyone's who uses it. And that, I believe, is the best reason of all to keep learning it — accent and all."
+      },
+      "culture_note": {
+        "title": "Português: também uma língua global",
+        "text_pt": "Como o inglês, o português tem variedades nacionais com normas próprias: **brasileiro, europeu, angolano, moçambicano, cabo-verdiano**... O Brasil tem muito mais falantes que Portugal, o que levanta perguntas semelhantes às do inglês: quem define o \"padrão\"? O **Acordo Ortográfico de 1990** tentou unificar a escrita — com resultados polêmicos."
+      },
+      "summary_pt": ["UK x US: vocabulário (flat/apartment), ortografia (colour/color), gramática (have got / have, gotten).", "World Englishes: Índia (revert, prepone), Nigéria (off the light), Singapura (lah), África do Sul (now-now).", "Kachru: inner, outer e expanding circles.", "Objetivo: inteligibilidade, não imitação. Seja consistente na ortografia."]
+    },
+    {
+      "id": "C2-M5-L3",
+      "title": "Rights and duties",
+      "subtitle_pt": "Modais jurídicos e institucionais: shall, may not, be liable to, be entitled to",
+      "duration_min": 80,
+      "source_refs": ["CEFR – C2 descriptors (understanding specialized texts)", "Legal and institutional English (rights, obligations, liability)"],
+      "objectives": ["Entender o uso de shall, must, may, may not em textos legais", "Usar be entitled to, be liable to/for, be obliged to, be prohibited from, be subject to", "Ler e resumir direitos e deveres em documentos oficiais", "Discutir direitos humanos, cidadania e justiça"],
+      "warmup": {
+        "text_pt": "\"Everyone **shall** have the right to...\" \"No one **shall** be subjected to...\" \"Employees **are entitled to** 30 days' leave.\" Em leis, constituições e contratos, os modais têm **sentidos técnicos** precisos. No C2, você precisa ler esses textos com segurança — e explicá-los em linguagem simples. Tema: **direitos e deveres**.",
+        "questions": ["Which right do you consider the most important? Why?", "Do most people know their rights as citizens, workers or consumers?"]
+      },
+      "vocabulary": [
+        {"en": "a right / to be entitled to", "pt": "um direito / ter direito a", "say": "a ráit / tu bí entáitold tu"},
+        {"en": "a duty / an obligation", "pt": "um dever / uma obrigação", "say": "a diúti / an obliguêishan"},
+        {"en": "to be liable (for / to)", "pt": "ser responsável (por) / estar sujeito (a)", "say": "tu bí láiabol"},
+        {"en": "to be subject to", "pt": "estar sujeito a", "say": "tu bí sâbdjekt tu"},
+        {"en": "to be prohibited / barred from", "pt": "ser proibido de", "say": "tu bí prohíbitid fróm"},
+        {"en": "to uphold / to enforce (a law)", "pt": "defender / fazer cumprir (uma lei)", "say": "tu âphôuld / tu infórs"},
+        {"en": "to infringe / to violate (a right)", "pt": "infringir / violar (um direito)", "say": "tu infríndj / tu váioleit"},
+        {"en": "due process", "pt": "devido processo legal", "say": "diú prôuses"},
+        {"en": "the rule of law", "pt": "o Estado de Direito", "say": "dâ rúl ov ló"},
+        {"en": "a plaintiff / a defendant", "pt": "um autor (da ação) / um réu", "say": "a plêintif / a diféndant"},
+        {"en": "to sue / to file a lawsuit", "pt": "processar / entrar com uma ação", "say": "tu sú / tu fáil a lósut"},
+        {"en": "inalienable", "pt": "inalienável", "say": "inêilianabol"}
+      ],
+      "chunks": [
+        {"en": "Everyone shall have the right to freedom of expression.", "pt": "Todos terão direito à liberdade de expressão."},
+        {"en": "No one shall be subjected to torture.", "pt": "Ninguém será submetido a tortura."},
+        {"en": "Employees are entitled to paid holidays.", "pt": "Os funcionários têm direito a férias remuneradas."},
+        {"en": "The company may be liable for damages.", "pt": "A empresa pode ser responsabilizada por danos."},
+        {"en": "Visitors are prohibited from taking photographs.", "pt": "É proibido aos visitantes tirar fotografias."},
+        {"en": "Prices are subject to change without notice.", "pt": "Preços sujeitos a alteração sem aviso prévio."}
+      ],
+      "grammar": {
+        "title": "Modals and expressions of obligation in legal texts",
+        "explanation_pt": "**1. Shall** — em leis e contratos, expressa **obrigação** ou **determinação legal** (não futuro):\n- \"The tenant **shall** pay the rent on the first day of each month.\" (= deve pagar)\n- \"Everyone **shall** have the right to...\" (= terá/tem garantido)\n- **Shall not** = proibição: \"No one **shall** be held in slavery.\"\n- ⚠️ Muitos especialistas em *plain English* recomendam substituir **shall** por **must** (obrigação) ou pelo presente (\"Everyone **has** the right...\"), pois \"shall\" pode ser ambíguo.\n\n**2. Must / must not** — obrigação / proibição clara.\n\n**3. May / may not** — em textos legais:\n- **may** = **permissão** ou **possibilidade**: \"The landlord **may** inspect the property with 24 hours' notice.\"\n- **may not** = **proibição** (= is not allowed to): \"Tenants **may not** sublet the property.\"\n\n**4. Expressões com be + adjetivo/particípio:**\n- **be entitled to** + substantivo/verbo (ter direito a): \"Workers **are entitled to** thirty days' leave.\" / \"...entitled to receive...\"\n- **be liable for** (ser responsável por) / **be liable to** (estar sujeito a — pena, multa): \"Offenders **are liable to** a fine of up to...\"\n- **be obliged / required to** (ser obrigado a)\n- **be prohibited / barred / forbidden from** + -ing: \"Members **are prohibited from** sharing...\"\n- **be subject to** (estar sujeito a): \"**Subject to** approval\" / \"Prices **are subject to** change.\"\n- **be eligible for / to** (ser elegível)\n- **be exempt from** (ser isento de)\n\n**5. Passiva e linguagem impessoal** — típicas de leis: \"It **is hereby** enacted...\", \"Any person who... **shall be guilty of** an offence.\"\n\n**6. Explicando em linguagem simples:** \"The tenant shall not keep pets\" → \"You're not allowed to have pets.\"",
+        "table": {
+          "headers": ["Texto legal", "Significado", "Linguagem simples"],
+          "rows": [["shall", "obrigação legal", "must / has to"], ["shall not / may not", "proibição", "is not allowed to"], ["may", "permissão / possibilidade", "can / is allowed to"], ["be entitled to", "ter direito a", "have the right to"], ["be liable for", "ser responsável por", "be responsible for"], ["be liable to (a fine)", "estar sujeito a", "can be punished with"], ["be subject to", "depender de / sujeito a", "depends on / can change"]]
+        },
+        "examples": [
+          {"en": "Under the law, consumers are entitled to cancel online purchases within seven days.", "pt": "Segundo a lei, os consumidores têm direito a cancelar compras online em até sete dias."},
+          {"en": "Any person who fails to comply with this order shall be liable to a fine.", "pt": "Qualquer pessoa que descumprir esta ordem estará sujeita a multa."},
+          {"en": "Employees may not disclose confidential information to third parties.", "pt": "Os funcionários não podem divulgar informações confidenciais a terceiros."}
+        ],
+        "tip_pt": "Atenção: **shall** em contratos **não** é futuro! E **may not** em regulamentos é **proibição**, não \"talvez não\". Ao ler um contrato em inglês, pergunte sempre: isto é um **direito** (entitled, may), um **dever** (shall, must, required) ou uma **proibição** (shall not, may not, prohibited)?"
+      },
+      "common_mistakes": [
+        {"wrong": "Reading \"The tenant shall pay...\" as future (\"will probably pay\").", "right": "It means \"The tenant must pay...\".", "why_pt": "Em textos legais, shall expressa obrigação."},
+        {"wrong": "You are entitled for a refund.", "right": "You are entitled to a refund.", "why_pt": "entitled TO."},
+        {"wrong": "Visitors are prohibited to take photos.", "right": "Visitors are prohibited from taking photos.", "why_pt": "prohibited FROM + -ing."}
+      ],
+      "pronunciation": {
+        "focus": "Leitura de textos formais",
+        "tip_pt": "Ao ler textos legais em voz alta, acentue os **termos-chave de obrigação**: \"The tenant **SHALL** pay...\", \"No one **SHALL** be...\", \"may **NOT**\". Em **entitled** (in-TÁI-told) e **liable** (LÁI-a-bol), cuidado com a sílaba tônica.",
+        "practice": ["Everyone SHALL have the right...", "Tenants may NOT sublet.", "You're enTITled to a reFUND."]
+      },
+      "dialogue": {
+        "title": "Know your rights",
+        "context_pt": "Uma advogada trabalhista explica a um amigo seus direitos depois de ser demitido no exterior.",
+        "lines": [
+          {"speaker": "Vini", "en": "They fired me yesterday. They said it was \"restructuring\". Can they just do that?", "pt": "Me demitiram ontem. Disseram que era \"reestruturação\". Eles podem simplesmente fazer isso?"},
+          {"speaker": "Fernanda", "en": "Let's look at your contract. Here: \"Either party may terminate this agreement with one month's written notice.\" So yes, they may — but they're obliged to give you a month's notice or pay you for it.", "pt": "Vamos olhar seu contrato. Aqui: \"Qualquer das partes poderá rescindir este acordo com aviso prévio por escrito de um mês.\" Então sim, podem — mas são obrigados a te dar um mês de aviso ou pagar por ele."},
+          {"speaker": "Vini", "en": "They didn't give me any notice.", "pt": "Eles não me deram aviso nenhum."},
+          {"speaker": "Fernanda", "en": "Then you're entitled to a month's pay in lieu of notice. And look at clause 9: \"The employee shall be entitled to payment for any unused annual leave.\"", "pt": "Então você tem direito a um mês de salário em substituição ao aviso. E veja a cláusula 9: \"O empregado terá direito ao pagamento de férias não gozadas.\""},
+          {"speaker": "Vini", "en": "I have twelve days left. What about this part — \"The employee shall not work for a competitor for six months\"?", "pt": "Tenho doze dias sobrando. E esta parte — \"O empregado não poderá trabalhar para um concorrente por seis meses\"?"},
+          {"speaker": "Fernanda", "en": "That's a non-compete clause. It may not be enforceable, depending on local law — courts often limit them. I'd want to check.", "pt": "Isso é uma cláusula de não concorrência. Pode não ser executável, dependendo da lei local — tribunais costumam limitá-las. Eu precisaria verificar."},
+          {"speaker": "Vini", "en": "And if they refuse to pay?", "pt": "E se eles se recusarem a pagar?"},
+          {"speaker": "Fernanda", "en": "Then they may be liable for breach of contract, and you'd be entitled to take the case to an employment tribunal. But let's start with a polite, formal letter.", "pt": "Então podem ser responsabilizados por quebra de contrato, e você teria direito de levar o caso a um tribunal trabalhista. Mas vamos começar com uma carta formal e educada."}
+        ]
+      },
+      "listening": {
+        "title": "The Universal Declaration",
+        "context_pt": "Uma professora de direito internacional fala sobre a Declaração Universal dos Direitos Humanos.",
+        "lines": [
+          {"speaker": "Professor", "en": "On 10 December 1948, the General Assembly of the United Nations adopted the Universal Declaration of Human Rights. Drafted in the aftermath of the Second World War, it set out, for the first time, a list of rights that all human beings are entitled to, regardless of nationality, race, sex, religion or any other status. The committee that drafted it was chaired by Eleanor Roosevelt, and it included representatives from many countries and traditions. Its thirty articles cover civil and political rights — such as the right to life, liberty and a fair trial — as well as economic, social and cultural rights, including the right to education and to work. Notice the language: \"No one shall be held in slavery\"; \"Everyone has the right to education\". Technically, the Declaration itself is not a binding treaty. But it has inspired many later legally binding agreements and national constitutions, including Brazil's 1988 Constitution. It has also been translated into more languages than almost any other document in the world."}
+        ],
+        "questions": [
+          {"q": "When was the Universal Declaration adopted?", "answer": "On 10 December 1948."},
+          {"q": "Who chaired the drafting committee?", "answer": "Eleanor Roosevelt."},
+          {"q": "What two broad types of rights does it cover?", "answer": "Civil and political rights, and economic, social and cultural rights."},
+          {"q": "Is the Declaration legally binding?", "answer": "Not itself, but it inspired binding treaties and constitutions."}
+        ]
+      },
+      "reading": {
+        "title": "Rights in the digital age",
+        "text": "When the Universal Declaration of Human Rights was drafted in 1948, its authors could not have imagined smartphones, social media or artificial intelligence. Yet many of the most urgent debates about rights today concern precisely these technologies. Article 12 of the Declaration states that no one shall be subjected to arbitrary interference with their privacy. What does that mean in a world where vast amounts of personal data are collected, analysed and sold, often without users fully understanding what they have agreed to? In response, a growing number of jurisdictions have adopted data protection laws. The European Union's General Data Protection Regulation, which came into force in 2018, has been particularly influential; Brazil's own General Data Protection Law (LGPD) followed shortly afterwards. Under such laws, individuals are typically entitled to know what data is held about them, to request its correction and, in certain circumstances, to have it deleted. Organizations that process data are obliged to have a legal basis for doing so and may be liable to substantial fines if they fail to protect it. New questions continue to emerge. Should people have a right to an explanation when an algorithm denies them a loan or a job? Is internet access itself becoming a basic right, given that so many essential services now depend on it? To what extent should platforms be held liable for harmful content posted by their users? These debates are far from settled. What is clear is that rights are not fixed for all time. They are interpreted, extended and sometimes contested as societies change. The language of the law may sound timeless — \"shall\", \"entitled\", \"liable\" — but the questions it must answer are constantly new.",
+        "questions": [
+          {"q": "What does Article 12 of the Declaration protect?", "answer": "Privacy, against arbitrary interference."},
+          {"q": "What rights do individuals typically have under data protection laws?", "answer": "To know what data is held, request correction and, in some cases, deletion."},
+          {"q": "What may happen to organizations that fail to protect data?", "answer": "They may be liable to substantial fines."},
+          {"q": "Name one new question about rights in the digital age.", "answer": "Right to an explanation from algorithms / internet access as a right / platform liability for content."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Right, duty or prohibition?", "instruction": "Identify what each sentence expresses.", "instruction_pt": "Identifique o que cada frase expressa.",
+         "items": [{"prompt": "The tenant shall keep the property in good condition.", "options": ["duty", "right", "prohibition"], "answer": "duty"}, {"prompt": "Employees are entitled to 30 days' paid leave.", "options": ["right", "duty", "prohibition"], "answer": "right"}, {"prompt": "Guests may not smoke in the rooms.", "options": ["prohibition", "possibility", "right"], "answer": "prohibition"}, {"prompt": "The landlord may enter the property with 24 hours' notice.", "options": ["permission", "duty", "prohibition"], "answer": "permission"}, {"prompt": "No one shall be subjected to torture.", "options": ["prohibition", "right", "possibility"], "answer": "prohibition"}]},
+        {"id": "ex2", "type": "fill_blank", "title": "Legal expressions", "instruction": "Complete with: entitled · liable · subject · prohibited · exempt.", "instruction_pt": "Complete com a expressão correta.",
+         "items": [{"prompt": "Customers are ___ to a full refund if the product is faulty.", "answer": "entitled"}, {"prompt": "The company may be ___ for any damage caused by its products.", "answer": "liable"}, {"prompt": "All bookings are ___ to availability.", "answer": "subject"}, {"prompt": "Passengers are ___ from using mobile phones during take-off.", "answer": "prohibited"}, {"prompt": "Small businesses are ___ from the new tax.", "answer": "exempt"}]},
+        {"id": "ex3", "type": "answer", "title": "Translate into plain English", "instruction": "Rewrite each legal sentence in plain, everyday English.", "instruction_pt": "Reescreva cada frase legal em inglês simples do dia a dia.",
+         "items": [{"prompt": "The lessee shall not sublet the premises without the prior written consent of the lessor.", "answer": "You can't rent the place to someone else without the landlord's written permission."}, {"prompt": "Any person found guilty of this offence shall be liable to a fine not exceeding R$10,000.", "answer": "If you break this rule, you can be fined up to R$10,000."}, {"prompt": "Members are entitled to use the facilities free of charge, subject to availability.", "answer": "Members can use the facilities for free, if they're available."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "Everyone shall have the right to freedom of expression."}, {"prompt": "2", "answer": "Employees are entitled to paid holidays."}, {"prompt": "3", "answer": "The company may be liable for damages."}, {"prompt": "4", "answer": "Prices are subject to change without notice."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "You are entitled for compensation.", "answer": "You are entitled to compensation."}, {"prompt": "Students are prohibited to use phones in exams.", "answer": "Students are prohibited from using phones in exams."}, {"prompt": "The offer is subject of availability.", "answer": "The offer is subject to availability."}, {"prompt": "The driver was liable of the accident.", "answer": "The driver was liable for the accident."}]},
+        {"id": "ex6", "type": "match", "title": "Justice vocabulary", "instruction": "Write the English term.", "instruction_pt": "Escreva o termo em inglês.",
+         "items": [{"prompt": "Estado de Direito", "answer": "the rule of law"}, {"prompt": "devido processo legal", "answer": "due process"}, {"prompt": "réu", "answer": "defendant"}, {"prompt": "processar (alguém)", "answer": "sue"}, {"prompt": "fazer cumprir (uma lei)", "answer": "enforce"}, {"prompt": "inalienável", "answer": "inalienable"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Rights clinic\": in pairs, one person describes a problem (a faulty product, an unfair dismissal, a data leak, a landlord who won't return a deposit). The other acts as an adviser, explaining the person's rights and obligations clearly, first in legal language and then in plain English.",
+        "instruction_pt": "\"Clínica de direitos\": em pares, uma pessoa descreve um problema (produto com defeito, demissão injusta, vazamento de dados, locador que não devolve o depósito). A outra age como consultor, explicando direitos e deveres com clareza, primeiro em linguagem jurídica e depois em linguagem simples.",
+        "questions": ["Which right do you think is most at risk today?", "Should internet access be a human right?", "Are people in Brazil aware of their consumer rights?", "Should platforms be liable for what users post?", "Is it possible to have rights without duties?"]
+      },
+      "writing": {
+        "task": "Write a \"charter of rights and responsibilities\" (250–300 words) for a community you belong to (a school, a workplace, an online community, a residents' association). Use legal-style modals and expressions, then add a plain English summary (60–80 words).",
+        "task_pt": "Escreva uma \"carta de direitos e responsabilidades\" (250–300 palavras) para uma comunidade da qual você faz parte (escola, trabalho, comunidade online, associação de moradores). Use modais e expressões de estilo jurídico e depois acrescente um resumo em linguagem simples (60–80 palavras).",
+        "model": "Charter of Rights and Responsibilities — Riverside Online Learning Community\n\nPreamble\nThis Charter sets out the rights and responsibilities of all members of the Riverside Online Learning Community (\"the Community\"). By joining the Community, members agree to abide by its provisions.\n\nArticle 1 — Respect\nEvery member shall have the right to participate in discussions without being subjected to harassment, discrimination or personal attacks. Members shall treat one another with courtesy, regardless of nationality, age, gender, religion or level of English.\n\nArticle 2 — Freedom of expression\nMembers are entitled to express their opinions freely, subject to the limits set out in Article 1. Disagreement is welcome; abuse is not.\n\nArticle 3 — Privacy\nMembers may not share other members' personal information, including photographs, messages or contact details, without their explicit consent. The Community shall not sell or disclose members' data to third parties.\n\nArticle 4 — Academic integrity\nMembers shall submit only their own work. Members found to have plagiarised may be liable to suspension from the Community.\n\nArticle 5 — Moderation\nModerators may remove content that breaches this Charter. Any member whose content has been removed shall be entitled to request an explanation and to appeal the decision within fourteen days.\n\nArticle 6 — Amendments\nThis Charter may be amended by a majority vote of members, provided that all members are notified at least one month in advance.\n\n— Plain English summary —\nBe respectful: no harassment or discrimination. You can say what you think, but don't attack people. Don't share other people's personal information; we won't sell yours. Only submit your own work — if you copy, you may be suspended. Moderators can delete posts that break the rules, but you can ask why and appeal. Rules can change only if most members vote for it, with a month's notice."
+      },
+      "culture_note": {
+        "title": "A Constituição Cidadã",
+        "text_pt": "A **Constituição brasileira de 1988**, conhecida como \"**Constituição Cidadã**\", é uma das mais extensas do mundo e garante uma ampla lista de direitos sociais, como saúde, educação e moradia. Em inglês, é frequentemente descrita como **\"one of the most rights-oriented constitutions in the world\"**. Comparar sua linguagem com a de constituições anglófonas (muito mais curtas, como a dos EUA) é um ótimo exercício de vocabulário jurídico."
+      },
+      "summary_pt": ["shall (contratos/leis) = obrigação; shall not / may not = proibição; may = permissão.", "be entitled to (direito), be liable for (responsável) / liable to (sujeito a pena).", "be subject to, be prohibited from + -ing, be exempt from, be obliged to.", "Sempre que possível, explique em plain English."]
+    },
+    {
+      "id": "C2-M5-L4",
+      "title": "In a nutshell",
+      "subtitle_pt": "Resumir e parafrasear: síntese de dois textos (C2 Proficiency Writing Part 1)",
+      "duration_min": 85,
+      "source_refs": ["CEFR – C2 descriptors (summarizing and synthesizing information from different sources)", "Cambridge C2 Proficiency – Writing Part 1 (essay summarizing and evaluating two texts)"],
+      "objectives": ["Identificar as ideias principais de dois textos", "Parafrasear sem copiar (mudança de estrutura, vocabulário e classe de palavras)", "Sintetizar e comparar pontos de vista", "Escrever o essay da Parte 1 do C2 Proficiency (240–280 palavras)"],
+      "warmup": {
+        "text_pt": "Na Parte 1 da escrita do **C2 Proficiency**, você lê **dois textos curtos** sobre um mesmo tema e escreve um **ensaio de 240–280 palavras** que **resume e avalia** as ideias principais de ambos, incluindo **sua própria opinião** — tudo **com suas palavras**. É a habilidade de **mediação** em nível máximo: sintetizar, parafrasear e posicionar-se.",
+        "questions": ["How do you usually summarize long texts — at work, at school, for friends?", "Why is it harder to summarize than to copy?"]
+      },
+      "vocabulary": [
+        {"en": "to summarize / a summary", "pt": "resumir / um resumo", "say": "tu sâmaraiz"},
+        {"en": "to paraphrase / a paraphrase", "pt": "parafrasear / uma paráfrase", "say": "tu pérafreiz"},
+        {"en": "to synthesize / a synthesis", "pt": "sintetizar / uma síntese", "say": "tu sínθesaiz"},
+        {"en": "the gist / the main thrust", "pt": "a ideia geral / o argumento central", "say": "dâ djíst / dâ mêin θrâst"},
+        {"en": "to condense", "pt": "condensar", "say": "tu kondéns"},
+        {"en": "to lift (phrases from a text)", "pt": "copiar (frases de um texto)", "say": "tu lift"},
+        {"en": "in a nutshell", "pt": "em poucas palavras", "say": "in a nâtshél"},
+        {"en": "to concur / to diverge", "pt": "concordar / divergir", "say": "tu konkâr / tu daivârdj"},
+        {"en": "by contrast / conversely", "pt": "em contraste / inversamente", "say": "bái kóntrast / kónvârsli"},
+        {"en": "to take issue with", "pt": "discordar de, contestar", "say": "tu têik íshu uídh"},
+        {"en": "to echo (a view)", "pt": "fazer eco a (uma opinião)", "say": "tu ékou"},
+        {"en": "to strike a balance", "pt": "encontrar um equilíbrio", "say": "tu stráik a bélans"}
+      ],
+      "chunks": [
+        {"en": "In a nutshell, both writers agree that...", "pt": "Em poucas palavras, os dois autores concordam que..."},
+        {"en": "The first text argues that...", "pt": "O primeiro texto argumenta que..."},
+        {"en": "The second writer takes issue with this view.", "pt": "O segundo autor contesta essa visão."},
+        {"en": "Both texts concur on one point:", "pt": "Os dois textos concordam num ponto:"},
+        {"en": "Where they diverge is in...", "pt": "Onde divergem é em..."},
+        {"en": "In my view, the second writer strikes a better balance.", "pt": "Na minha opinião, o segundo autor encontra um equilíbrio melhor."}
+      ],
+      "grammar": {
+        "title": "Paraphrasing and synthesizing",
+        "explanation_pt": "**1. Técnicas de paráfrase** (combine várias!):\n- **Sinônimos:** \"children\" → \"young people\"; \"harmful\" → \"detrimental\"\n- **Mudar a classe da palavra:** \"Technology **has transformed** education\" → \"Education **has undergone a transformation** because of technology\"\n- **Mudar a estrutura (ativa/passiva, ordem):** \"Schools should ban phones\" → \"Phones ought to be prohibited in schools\"\n- **Generalizar / abstrair:** \"teachers, parents and pupils\" → \"the whole school community\"\n- **Usar um verbo de citação que mostra a posição do autor:** \"The writer **contends / warns / dismisses the idea that**...\"\n⚠️ **Não copie** sequências de 3+ palavras do texto original (exceto termos técnicos).\n\n**2. Resumir:** identifique **a tese** e **2–3 argumentos de cada texto**; ignore exemplos e detalhes.\n\n**3. Sintetizar (comparar os textos):**\n- **Concordância:** \"Both writers **agree / concur** that...\" / \"The second text **echoes** this view...\"\n- **Divergência:** \"**Whereas** the first writer..., the second...\" / \"The second writer **takes issue with**...\" / \"**Where they diverge** is...\"\n- **Complemento:** \"The second text **adds** a further dimension...\" / \"...**goes further**, arguing that...\"\n\n**4. Avaliar (sua opinião):**\n- \"I find the first argument **more convincing** because...\"\n- \"**While** the second writer **rightly points out**..., she **overlooks**...\"\n- \"**In my view**, the most persuasive point is...\"\n\n**5. Estrutura do essay C2 Part 1 (240–280 palavras):**\n1. **Introdução:** tema geral + o que os dois textos discutem\n2. **Texto 1:** ideias principais (parafraseadas) + sua avaliação\n3. **Texto 2:** ideias principais + relação com o texto 1 + sua avaliação\n4. **Conclusão:** sua posição geral\n(Alternativa: organizar por **temas**, comparando os dois textos em cada parágrafo.)",
+        "table": {
+          "headers": ["Original", "Paráfrase"],
+          "rows": [["Social media is harmful to teenagers.", "Young people's well-being may be damaged by online platforms."], ["Schools should ban phones.", "Mobile devices ought to be prohibited in classrooms."], ["Technology has transformed education.", "Education has undergone a profound transformation as a result of technology."], ["Many experts disagree.", "This view is far from universally accepted."], ["It costs a lot of money.", "It entails considerable expense."]]
+        },
+        "examples": [
+          {"en": "Both writers concur that remote work offers greater flexibility; where they diverge is in their assessment of its long-term impact on collaboration.", "pt": "Os dois autores concordam que o trabalho remoto oferece mais flexibilidade; onde divergem é na avaliação de seu impacto de longo prazo na colaboração."},
+          {"en": "The second writer takes issue with the idea that technology alone can solve educational inequality.", "pt": "O segundo autor contesta a ideia de que a tecnologia sozinha pode resolver a desigualdade educacional."},
+          {"en": "In a nutshell, the first text is optimistic, the second cautious — and the truth, I would argue, lies somewhere in between.", "pt": "Em poucas palavras, o primeiro texto é otimista, o segundo cauteloso — e a verdade, eu diria, está em algum ponto intermediário."}
+        ],
+        "tip_pt": "Na prova, **planeje 10 minutos**: sublinhe a tese e os argumentos de cada texto, anote **sinônimos** antes de escrever e decida sua opinião. O erro mais comum é **copiar frases inteiras** do texto — isso é penalizado. O segundo mais comum é **esquecer a avaliação**."
+      },
+      "common_mistakes": [
+        {"wrong": "Copying full sentences from the input texts.", "right": "Paraphrase using synonyms, new structures and reporting verbs.", "why_pt": "Na prova, cópia de trechos é penalizada."},
+        {"wrong": "Summarizing without evaluating.", "right": "Include your opinion on each text and an overall position.", "why_pt": "A tarefa exige resumo E avaliação."},
+        {"wrong": "Including examples and minor details from the texts.", "right": "Focus on the main arguments only.", "why_pt": "Com 240–280 palavras, não há espaço para detalhes."}
+      ],
+      "pronunciation": {
+        "focus": "Resumir oralmente (mediação)",
+        "tip_pt": "Ao resumir um texto em voz alta (numa reunião, por exemplo), use **marcadores claros** e **pausas** entre as ideias: \"So, in a nutshell, | the first report says... | The second, by contrast, | argues that... | Where they agree is...\". Acentue as palavras de **contraste**.",
+        "practice": ["In a NUTshell, | BOTH writers agree that...", "The SECond, by CONtrast, | argues that...", "Where they diVERGE | is in the SOlution."]
+      },
+      "dialogue": {
+        "title": "Briefing the boss",
+        "context_pt": "Uma analista resume dois relatórios para o diretor antes de uma reunião.",
+        "lines": [
+          {"speaker": "Director", "en": "I've got five minutes before the board meeting. Can you give me the gist of those two reports on the four-day week?", "pt": "Tenho cinco minutos antes da reunião do conselho. Pode me dar a ideia geral daqueles dois relatórios sobre a semana de quatro dias?"},
+          {"speaker": "Juliana", "en": "Sure. In a nutshell: the first, from the consultancy, is very positive. It argues that a shorter week boosts productivity and reduces burnout, and it recommends a company-wide trial.", "pt": "Claro. Em poucas palavras: o primeiro, da consultoria, é muito positivo. Argumenta que uma semana mais curta aumenta a produtividade e reduz o burnout, e recomenda um teste em toda a empresa."},
+          {"speaker": "Director", "en": "And the second?", "pt": "E o segundo?"},
+          {"speaker": "Juliana", "en": "The finance team's report takes issue with that. It doesn't dispute the well-being benefits, but it warns that customer service could suffer, especially in our call centres.", "pt": "O relatório da equipe financeira contesta isso. Não questiona os benefícios para o bem-estar, mas alerta que o atendimento ao cliente pode sofrer, principalmente nas nossas centrais."},
+          {"speaker": "Director", "en": "So where do they agree?", "pt": "E onde eles concordam?"},
+          {"speaker": "Juliana", "en": "Both concur that staff are exhausted and that something needs to change. Where they diverge is on the solution — and the risk.", "pt": "Ambos concordam que a equipe está exausta e que algo precisa mudar. Onde divergem é na solução — e no risco."},
+          {"speaker": "Director", "en": "What's your view?", "pt": "Qual é sua opinião?"},
+          {"speaker": "Juliana", "en": "I think the second report strikes a better balance. My suggestion would be a six-month trial in two departments first — not the whole company.", "pt": "Acho que o segundo relatório encontra um equilíbrio melhor. Minha sugestão seria um teste de seis meses em dois departamentos primeiro — não na empresa toda."},
+          {"speaker": "Director", "en": "Perfect. That's exactly what I needed. Thank you.", "pt": "Perfeito. Era exatamente o que eu precisava. Obrigado."}
+        ]
+      },
+      "listening": {
+        "title": "Two views on homework",
+        "context_pt": "Dois especialistas apresentam visões diferentes sobre lição de casa num programa de rádio.",
+        "lines": [
+          {"speaker": "Voice 1", "en": "Homework, in my view, remains an essential part of learning. It reinforces what students have studied in class, develops independent study habits and gives parents a window into their children's education. Without it, many pupils would simply forget what they had learned. The problem is not homework itself but bad homework: repetitive tasks that take hours and teach nothing new."},
+          {"speaker": "Voice 2", "en": "I'd go further. The research on homework, particularly for younger children, is mixed at best. Some studies suggest a modest benefit for older students, but for primary school pupils, the evidence is weak. Meanwhile, homework can increase stress and inequality: children with educated parents and quiet places to study benefit, while others fall further behind. I'd abolish it for under-twelves and drastically reduce it for everyone else."}
+        ],
+        "questions": [
+          {"q": "What does the first speaker think homework is good for?", "answer": "Reinforcing learning, developing study habits and involving parents."},
+          {"q": "What does the first speaker see as the real problem?", "answer": "Bad homework — repetitive, time-consuming and not useful."},
+          {"q": "What does the second speaker say about the research?", "answer": "It's mixed; weak evidence for young children, some benefit for older students."},
+          {"q": "Where do the speakers agree and diverge? (synthesis)", "answer": "Both criticize bad/excessive homework; they diverge on whether homework is essential (1) or should be abolished for young children (2)."}
+        ]
+      },
+      "reading": {
+        "title": "C2 Part 1 practice: two texts on tourism",
+        "text": "Text 1 — The case for tourism\nFor many regions, tourism is not merely an industry but a lifeline. It brings income to places where few other opportunities exist, creates jobs for young people who might otherwise be forced to migrate, and provides funding for the preservation of historic buildings and natural landscapes. Moreover, travel broadens the mind: visitors who encounter other cultures at first hand often return home more tolerant and curious. To condemn tourism wholesale, as some critics now do, is to ignore the livelihoods of millions and the very real benefits of human contact across borders.\n\nText 2 — The cost of popularity\nAcross the world, a growing number of cities and natural sites are struggling under the weight of their own popularity. In some historic centres, short-term rentals have driven up housing costs so steeply that local residents can no longer afford to live there; neighbourhoods once full of life now resemble theme parks. Fragile ecosystems are damaged by crowds, and much of the money generated by tourism flows to international companies rather than local communities. This is not an argument against travel itself, but against an unregulated model that treats places as products. Without limits, tourism risks destroying the very things that make destinations worth visiting.\n\nModel essay\nBoth texts address the impact of tourism on the places that receive it, but they reach rather different conclusions.\n\nThe first writer presents tourism as vital for many communities, arguing that it generates income and employment in areas with few alternatives and helps finance the conservation of heritage and nature. The text also emphasizes the cultural value of travel, suggesting that contact with other ways of life fosters open-mindedness. While these points are undoubtedly valid, the writer arguably overstates the case by dismissing critics so readily.\n\nThe second text, by contrast, focuses on the consequences of excessive tourism. Its author contends that soaring demand for holiday accommodation has priced residents out of their own neighbourhoods, that natural environments are suffering, and that the economic benefits often bypass local people. Crucially, however, the writer does not reject travel as such, but rather a model that lacks regulation.\n\nIn my view, the second text offers the more nuanced analysis. It acknowledges, at least implicitly, the advantages highlighted in the first text, while identifying real problems that a purely positive account ignores. The challenge, as I see it, is not to choose between tourism and its critics, but to strike a balance: to welcome visitors while ensuring that communities retain control over their homes, their environment and their economy.",
+        "questions": [
+          {"q": "What are the main arguments of Text 1?", "answer": "Tourism provides income and jobs, funds preservation and broadens the mind."},
+          {"q": "What are the main arguments of Text 2?", "answer": "Overtourism raises housing costs, damages ecosystems and benefits international companies more than locals; it needs regulation."},
+          {"q": "Find two paraphrases in the model essay.", "answer": "Examples: \"priced residents out\" (local residents can no longer afford...); \"bypass local people\" (flows to international companies); \"fosters open-mindedness\" (broadens the mind)."},
+          {"q": "What is the writer's own evaluation?", "answer": "Text 2 is more nuanced; the solution is to strike a balance through regulation."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "answer", "title": "Paraphrase", "instruction": "Paraphrase each sentence without copying more than two consecutive words.", "instruction_pt": "Parafraseie cada frase sem copiar mais de duas palavras seguidas.",
+         "items": [{"prompt": "Social media can be harmful to teenagers' mental health.", "answer": "Model: Young people's psychological well-being may be damaged by online platforms."}, {"prompt": "The government should invest more money in public transport.", "answer": "Model: Greater public funding ought to be allocated to buses and trains."}, {"prompt": "Many experts disagree with this theory.", "answer": "Model: This theory is far from universally accepted among specialists."}, {"prompt": "Tourism creates jobs in poor regions.", "answer": "Model: Travel and leisure generate employment in economically disadvantaged areas."}]},
+        {"id": "ex2", "type": "multiple_choice", "title": "Synthesis language", "instruction": "Choose the best expression.", "instruction_pt": "Escolha a melhor expressão.",
+         "items": [{"prompt": "Both writers ___ that the problem is urgent.", "options": ["concur", "diverge", "take issue"], "answer": "concur"}, {"prompt": "The second writer ___ with the first writer's optimism.", "options": ["takes issue", "concurs", "echoes"], "answer": "takes issue"}, {"prompt": "___ the texts differ is in their proposed solutions.", "options": ["Where", "What", "Which"], "answer": "Where"}, {"prompt": "The second text ___ this view, adding further evidence.", "options": ["echoes", "diverges", "lifts"], "answer": "echoes"}, {"prompt": "___ the first writer is optimistic, the second is cautious.", "options": ["Whereas", "Despite", "In a nutshell"], "answer": "Whereas"}]},
+        {"id": "ex3", "type": "answer", "title": "Summarize in one sentence", "instruction": "Summarize each speaker's position from the listening in one sentence of your own.", "instruction_pt": "Resuma a posição de cada falante do listening numa frase sua.",
+         "items": [{"prompt": "Speaker 1 (homework)", "answer": "Model: The first speaker believes homework is valuable for consolidating learning, provided that it is well designed."}, {"prompt": "Speaker 2 (homework)", "answer": "Model: The second speaker argues that the evidence for homework is weak, especially for young children, and that it may worsen inequality."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "In a nutshell, both writers agree that change is necessary."}, {"prompt": "2", "answer": "The second writer takes issue with this view."}, {"prompt": "3", "answer": "Where they diverge is in the solution."}, {"prompt": "4", "answer": "In my view, the second writer strikes a better balance."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Improve the summary", "instruction": "Each sentence copies too much from Text 2 (tourism). Rewrite it as a paraphrase.", "instruction_pt": "Cada frase copia demais do Texto 2 (turismo). Reescreva como paráfrase.",
+         "items": [{"prompt": "The writer says that cities are struggling under the weight of their own popularity.", "answer": "The writer contends that many popular destinations are overwhelmed by the number of visitors they receive."}, {"prompt": "The text says short-term rentals have driven up housing costs.", "answer": "The text claims that holiday lets have made homes far more expensive for local people."}, {"prompt": "The writer argues against an unregulated model that treats places as products.", "answer": "The writer objects not to travel itself but to uncontrolled tourism that commercializes destinations."}]},
+        {"id": "ex6", "type": "match", "title": "Summary vocabulary", "instruction": "Write the English expression.", "instruction_pt": "Escreva a expressão em inglês.",
+         "items": [{"prompt": "a ideia geral", "answer": "the gist"}, {"prompt": "em poucas palavras", "answer": "in a nutshell"}, {"prompt": "contestar, discordar de", "answer": "take issue with"}, {"prompt": "encontrar um equilíbrio", "answer": "strike a balance"}, {"prompt": "copiar frases de um texto", "answer": "lift phrases"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Mediation task\": your teacher gives each pair two short opinion texts on the same topic (or you find them). Summarize both orally for your partner in 90 seconds, without reading, then give your evaluation. Your partner checks whether you captured the main points and avoided copying.",
+        "instruction_pt": "\"Tarefa de mediação\": o professor dá a cada par dois textos curtos de opinião sobre o mesmo tema (ou vocês os encontram). Resuma os dois oralmente para o colega em 90 segundos, sem ler, e depois dê sua avaliação. O colega verifica se você captou os pontos principais e evitou copiar.",
+        "questions": ["Is summarizing a skill that schools teach well?", "In what situations do you need to summarize at work?", "Why is paraphrasing harder than translating?", "Should tourism be limited in popular destinations?", "Is homework useful? Summarize both sides, then give your view."]
+      },
+      "writing": {
+        "task": "C2 Proficiency Writing Part 1 (240–280 words): Read the two texts on homework from the listening (or two short texts on another topic). Write an essay summarizing and evaluating the key points from both, using your own words throughout and including your own view.",
+        "task_pt": "C2 Proficiency Writing Part 1 (240–280 palavras): Leia (ou use) os dois textos sobre lição de casa do listening (ou dois textos curtos sobre outro tema). Escreva um ensaio resumindo e avaliando os pontos principais de ambos, usando suas próprias palavras e incluindo sua opinião.",
+        "model": "Homework: essential or outdated?\n\nThe value of homework has long divided educators and parents, and the two contributions considered here illustrate the debate well.\n\nThe first speaker defends homework as a fundamental component of education. In her view, tasks completed at home consolidate classroom learning, encourage pupils to work independently and allow families to follow their children's progress. Importantly, she acknowledges that much homework is poorly designed, attributing the problem not to the practice itself but to repetitive, time-consuming assignments that add little to students' understanding. This distinction seems to me a sensible one, although she offers little evidence to support her confidence in homework's benefits.\n\nThe second speaker takes a considerably more sceptical position. Drawing on research, he argues that the advantages of homework are, at best, uncertain, particularly in primary education. Furthermore, he raises the important issue of fairness: pupils from more privileged homes, he contends, are far better placed to benefit from work set outside school, so homework may actually widen educational gaps. His proposal — to eliminate homework for younger children and greatly reduce it for older ones — follows logically from this analysis.\n\nOn balance, I find the second argument more persuasive, largely because it addresses the question of equity, which the first speaker overlooks. That said, both contributions converge on one crucial point: the quantity and quality of homework matter far more than whether it exists at all. A reasonable compromise, I would suggest, might be to limit homework to short, purposeful tasks — such as reading — for younger pupils, while ensuring that schools provide quiet study spaces for those who lack them at home."
+      },
+      "culture_note": {
+        "title": "Resumo no ENEM e no exterior",
+        "text_pt": "No Brasil, a habilidade de resumir aparece em provas como o ENEM (interpretação de textos) e em vestibulares. Em universidades anglófonas, o **summary** e o **critical review** são tarefas acadêmicas constantes, e **plágio** (inclusive copiar frases sem aspas) é tratado com muita seriedade — podendo levar à reprovação ou expulsão. Parafrasear bem é, portanto, uma questão de **integridade acadêmica**."
+      },
+      "summary_pt": ["Paráfrase: sinônimos + nova estrutura + nova classe de palavras; não copie 3+ palavras.", "Síntese: Both concur... / Whereas X..., Y... / Where they diverge... / takes issue with...", "Avaliação: I find X more convincing because... / X rightly points out..., but overlooks...", "C2 Part 1: 240–280 palavras; resuma E avalie os dois textos, com sua opinião."]
+    }
+  ],
+  "review": {
+    "intro_pt": "Revise neologismos e formação de palavras, variedades do inglês, linguagem jurídica e resumo.",
+    "exercises": [
+      {"id": "r1", "type": "multiple_choice", "title": "Choose the correct option", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+       "items": [{"prompt": "\"Brunch\" is an example of a ___.", "options": ["blend", "back-formation", "initialism"], "answer": "blend"}, {"prompt": "\"Have you got a car?\" is typically ___.", "options": ["British", "American", "Indian"], "answer": "British"}, {"prompt": "In a contract, \"The tenant shall pay\" means the tenant ___ pay.", "options": ["must", "will probably", "may"], "answer": "must"}, {"prompt": "You are entitled ___ a refund.", "options": ["to", "for", "of"], "answer": "to"}, {"prompt": "The second writer takes ___ with this view.", "options": ["issue", "problem", "question"], "answer": "issue"}]},
+      {"id": "r2", "type": "fill_blank", "title": "Word formation", "instruction": "Use the word in CAPS to form a word that fits the gap.", "instruction_pt": "Use a palavra em CAPS para completar a lacuna.",
+       "items": [{"prompt": "Many apps ___ learning with points and badges. (GAME)", "answer": "gamify"}, {"prompt": "The bureaucracy was absolutely ___. (KAFKA)", "answer": "Kafkaesque"}, {"prompt": "Visitors are ___ from taking photos. (PROHIBIT)", "answer": "prohibited"}]},
+      {"id": "r3", "type": "translate", "title": "Translate", "instruction": "Translate into English.", "instruction_pt": "Traduza para o inglês.",
+       "items": [{"prompt": "Os funcionários têm direito a férias remuneradas.", "answer": "Employees are entitled to paid holidays."}, {"prompt": "Preços sujeitos a alteração.", "answer": "Prices are subject to change."}, {"prompt": "Em poucas palavras, os dois autores concordam.", "answer": "In a nutshell, both writers agree / concur."}]},
+      {"id": "r4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+       "items": [{"prompt": "1", "answer": "English no longer belongs only to its native speakers."}, {"prompt": "2", "answer": "No one shall be subjected to torture."}, {"prompt": "3", "answer": "Where they diverge is in the solution."}]},
+      {"id": "r5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+       "items": [{"prompt": "That's a big asking.", "answer": "That's a big ask."}, {"prompt": "Students are prohibited to use phones.", "answer": "Students are prohibited from using phones."}, {"prompt": "The color of the theatre's centre... (British spelling)", "answer": "The colour of the theatre's centre..."}]}
+    ],
+    "speaking_pt": "Faça um \"language in the world\" briefing de 5 minutos: apresente três neologismos recentes explicando como foram formados, compare duas variedades do inglês com exemplos, explique um direito importante em linguagem jurídica e em plain English, e termine resumindo dois pontos de vista sobre a expansão global do inglês.",
+    "speaking_questions": ["Which new English word would you add to the dictionary?", "Do you prefer British or American English? Why?", "Which right would you add to the Universal Declaration today?", "Is summarizing a skill or an art?", "Will English become more or less diverse in the future?"],
+    "project_pt": "**\"Language observatory\":** em grupos, criem um relatório de 500 palavras sobre o inglês no Brasil hoje: (1) anglicismos recentes no português (com mecanismos de formação), (2) qual variedade do inglês os brasileiros mais encontram (filmes, trabalho, internet), (3) um resumo de dois artigos com opiniões opostas sobre o tema e (4) recomendações para escolas. Apresentem em formato de painel."
+  }
+}

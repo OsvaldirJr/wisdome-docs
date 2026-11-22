@@ -1,0 +1,528 @@
+{
+  "id": "A2-M2",
+  "level": "A2",
+  "title": "Right Now",
+  "theme_pt": "Ações em andamento, descrição de imagens e contraste com a rotina",
+  "can_do": ["Dizer o que estou fazendo agora", "Perguntar o que outras pessoas estão fazendo", "Descrever fotos, vídeos e cenas", "Diferenciar rotina (simple present) de ações temporárias (present continuous)", "Concordar e discordar com educação"],
+  "lessons": [
+    {
+      "id": "A2-M2-L1",
+      "title": "What are you doing?",
+      "subtitle_pt": "Present continuous: afirmativa, negativa e perguntas",
+      "duration_min": 55,
+      "source_refs": ["To Go A2 – Lesson 7 (present continuous tense)", "StartUp 1 – Unit 9 (present continuous)"],
+      "objectives": ["Formar o present continuous (am/is/are + -ing)", "Dizer o que você está fazendo neste momento", "Fazer perguntas sim/não e respostas curtas", "Usar now, right now, at the moment"],
+      "warmup": {
+        "text_pt": "Pare tudo e olhe ao redor. O que as pessoas perto de você estão fazendo agora? E você?",
+        "questions": ["What are you doing right now?", "What's your family doing at the moment?"]
+      },
+      "vocabulary": [
+        {"en": "now / right now", "pt": "agora / agora mesmo", "say": "náu / ráit náu"},
+        {"en": "at the moment", "pt": "no momento", "say": "ét dâ môument"},
+        {"en": "to wait (for)", "pt": "esperar (por)", "say": "tu uêit"},
+        {"en": "to text", "pt": "mandar mensagem", "say": "tu tékst"},
+        {"en": "to chat", "pt": "conversar, bater papo", "say": "tu tchét"},
+        {"en": "to drive", "pt": "dirigir", "say": "tu dráiv"},
+        {"en": "to get ready", "pt": "se arrumar", "say": "tu guét rédi"},
+        {"en": "to stream / to binge-watch", "pt": "transmitir / maratonar", "say": "tu strím / tu bíndj uótch"},
+        {"en": "to work on (a project)", "pt": "trabalhar em (um projeto)", "say": "tu uórk on"},
+        {"en": "to look for", "pt": "procurar", "say": "tu luk for"},
+        {"en": "on my way", "pt": "a caminho", "say": "on mái uêi"},
+        {"en": "to hang on", "pt": "esperar um pouco (informal)", "say": "tu réng on"}
+      ],
+      "chunks": [
+        {"en": "What are you doing?", "pt": "O que você está fazendo?"},
+        {"en": "I'm on my way!", "pt": "Estou a caminho!"},
+        {"en": "I'm getting ready.", "pt": "Estou me arrumando."},
+        {"en": "Can I call you back? I'm driving.", "pt": "Posso te ligar depois? Estou dirigindo."},
+        {"en": "Hang on, I'm coming!", "pt": "Espera aí, já estou indo!"},
+        {"en": "Are you listening to me?", "pt": "Você está me ouvindo?"}
+      ],
+      "grammar": {
+        "title": "Present continuous",
+        "explanation_pt": "Usamos o **present continuous** para ações que estão **acontecendo agora** ou **neste período**. É o \"estou fazendo\" do português.\n\n**Estrutura:** sujeito + **am / is / are** + verbo**-ing**\n\nVocê já conhece as duas partes: o **to be** e o **-ing**! Revise a ortografia do -ing:\n- regra geral: work → work**ing**\n- termina em **-e**: tira o e → make → mak**ing**, come → com**ing**\n- consoante-vogal-consoante (1 sílaba): dobra → run → ru**nn**ing, sit → si**tt**ing, shop → sho**pp**ing\n- termina em **-ie**: vira **-ying** → lie → l**ying**, die → d**ying**",
+        "table": {
+          "headers": ["Afirmativa", "Negativa", "Pergunta", "Resposta curta"],
+          "rows": [["I'm working.", "I'm not working.", "Am I working?", "Yes, I am. / No, I'm not."], ["She's driving.", "She isn't driving.", "Is she driving?", "Yes, she is. / No, she isn't."], ["They're waiting.", "They aren't waiting.", "Are they waiting?", "Yes, they are. / No, they aren't."]]
+        },
+        "examples": [
+          {"en": "I'm working from home today.", "pt": "Estou trabalhando de casa hoje."},
+          {"en": "She isn't answering her phone. Is she driving?", "pt": "Ela não está atendendo o celular. Será que está dirigindo?"},
+          {"en": "We're waiting for you at the entrance!", "pt": "Estamos te esperando na entrada!"}
+        ],
+        "tip_pt": "Não esqueça o **to be**! O erro mais comum é dizer \"I working\". O verbo to be é a \"cola\" da estrutura."
+      },
+      "common_mistakes": [
+        {"wrong": "I working now.", "right": "I'm working now.", "why_pt": "O present continuous precisa do verbo to be."},
+        {"wrong": "She is writeing an email.", "right": "She is writing an email.", "why_pt": "Verbos terminados em -e perdem o e: write → writing."},
+        {"wrong": "I'm waiting you.", "right": "I'm waiting for you.", "why_pt": "Wait pede for antes da pessoa ou coisa esperada."}
+      ],
+      "pronunciation": {
+        "focus": "O -ing natural",
+        "tip_pt": "Na fala rápida, o **-ing** muitas vezes soa como **-in'**: \"I'm workin'\", \"What are you doin'?\". Você não precisa falar assim, mas precisa **reconhecer**. E \"What are you\" vira algo como \"uórâiu\".",
+        "practice": ["What are you doing?", "I'm getting ready.", "We're waiting for you."]
+      },
+      "dialogue": {
+        "title": "Where are you?",
+        "context_pt": "Duda está esperando os amigos no cinema e liga para saber onde eles estão.",
+        "lines": [
+          {"speaker": "Duda", "en": "Hey! Where are you? The movie is starting in ten minutes!", "pt": "Ei! Onde você está? O filme começa em dez minutos!"},
+          {"speaker": "Vini", "en": "I'm on my way! I'm parking the car right now.", "pt": "Estou a caminho! Estou estacionando o carro agora mesmo."},
+          {"speaker": "Duda", "en": "And Carol? Is she coming with you?", "pt": "E a Carol? Ela está vindo com você?"},
+          {"speaker": "Vini", "en": "No, she isn't. She's still getting ready at home.", "pt": "Não. Ela ainda está se arrumando em casa."},
+          {"speaker": "Duda", "en": "Typical! What are the others doing?", "pt": "Típico! E o que os outros estão fazendo?"},
+          {"speaker": "Vini", "en": "They're buying popcorn. They're inside already.", "pt": "Estão comprando pipoca. Já estão lá dentro."},
+          {"speaker": "Duda", "en": "OK. I'm waiting for you at the entrance. Hurry up!", "pt": "OK. Estou te esperando na entrada. Anda logo!"}
+        ]
+      },
+      "listening": {
+        "title": "Family video call",
+        "context_pt": "Uma mãe liga para a família enquanto está viajando a trabalho.",
+        "lines": [
+          {"speaker": "Mom", "en": "Hi, honey! What's everybody doing?"},
+          {"speaker": "Dad", "en": "Well, I'm cooking dinner. Pasta, of course."},
+          {"speaker": "Mom", "en": "And the kids? Are they doing their homework?"},
+          {"speaker": "Dad", "en": "Hmm... Theo is doing his homework. Lia isn't. She's playing video games in her room."},
+          {"speaker": "Mom", "en": "Again? And what's the dog doing?"},
+          {"speaker": "Dad", "en": "He's sleeping on the sofa, as usual. Where are you now?"},
+          {"speaker": "Mom", "en": "I'm sitting in the hotel restaurant. I'm waiting for my food."}
+        ],
+        "questions": [
+          {"q": "What is Dad doing?", "answer": "He's cooking dinner (pasta)."},
+          {"q": "Is Lia doing her homework?", "answer": "No, she isn't. She's playing video games."},
+          {"q": "What is the dog doing?", "answer": "He's sleeping on the sofa."},
+          {"q": "What is Mom doing?", "answer": "She's sitting in the hotel restaurant, waiting for her food."}
+        ]
+      },
+      "reading": {
+        "title": "Live updates from the marathon",
+        "text": "10:15 a.m. — It's a beautiful morning in Rio, and thousands of runners are running the city marathon right now. The leaders are passing Copacabana beach. Fans are cheering and taking photos. A Kenyan runner, Joseph Kiprop, is leading the race, but a Brazilian runner, Ana Ribeiro, is getting closer! Volunteers are giving water to the runners. Everyone is having a great time... except the drivers: the streets are closed!",
+        "questions": [
+          {"q": "Where are the leaders now?", "answer": "They're passing Copacabana beach."},
+          {"q": "Who is leading the race?", "answer": "Joseph Kiprop, a Kenyan runner."},
+          {"q": "What are the volunteers doing?", "answer": "They're giving water to the runners."},
+          {"q": "Who isn't having a great time? Why?", "answer": "The drivers, because the streets are closed."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "answer", "title": "-ing spelling", "instruction": "Write the -ing form.", "instruction_pt": "Escreva a forma -ing.",
+         "items": [{"prompt": "make", "answer": "making"}, {"prompt": "sit", "answer": "sitting"}, {"prompt": "study", "answer": "studying"}, {"prompt": "lie", "answer": "lying"}, {"prompt": "shop", "answer": "shopping"}, {"prompt": "write", "answer": "writing"}]},
+        {"id": "ex2", "type": "fill_blank", "title": "Present continuous", "instruction": "Complete with the present continuous of the verb in parentheses.", "instruction_pt": "Complete com o present continuous.",
+         "items": [{"prompt": "I ___ (wait) for the bus.", "answer": "'m waiting / am waiting"}, {"prompt": "She ___ (not / work) today.", "answer": "isn't working"}, {"prompt": "___ they ___ (come) to the party?", "answer": "Are / coming"}, {"prompt": "We ___ (watch) a new series.", "answer": "'re watching / are watching"}, {"prompt": "My phone ___ (not / charge).", "answer": "isn't charging"}]},
+        {"id": "ex3", "type": "answer", "title": "Short answers", "instruction": "Answer with a short answer.", "instruction_pt": "Responda com resposta curta.",
+         "items": [{"prompt": "Is Dad cooking? (✔)", "answer": "Yes, he is."}, {"prompt": "Are the kids sleeping? (✘)", "answer": "No, they aren't."}, {"prompt": "Are you studying English now? (✔)", "answer": "Yes, I am."}, {"prompt": "Is it raining? (✘)", "answer": "No, it isn't."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "I'm on my way!"}, {"prompt": "2", "answer": "She's getting ready."}, {"prompt": "3", "answer": "What are you doing right now?"}, {"prompt": "4", "answer": "They aren't listening."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "I studying English.", "answer": "I'm studying English."}, {"prompt": "He is runing in the park.", "answer": "He is running in the park."}, {"prompt": "We're waiting the taxi.", "answer": "We're waiting for the taxi."}, {"prompt": "Are you listen to me?", "answer": "Are you listening to me?"}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the dialogue", "instruction": "Complete with: doing · driving · coming · call · way.", "instruction_pt": "Complete o diálogo.",
+         "items": [{"prompt": "A: Hi! What are you ___?", "answer": "doing"}, {"prompt": "B: I'm ___. Can I ___ you back?", "answer": "driving / call"}, {"prompt": "A: Sure. Are you ___ to dinner tonight?", "answer": "coming"}, {"prompt": "B: Yes! I'm on my ___ now.", "answer": "way"}]}
+      ],
+      "speaking": {
+        "instruction": "Text-message role-play: say what you are doing, ask what your partner is doing and make a plan.",
+        "instruction_pt": "Role-play por mensagens: diga o que você está fazendo, pergunte o que o colega está fazendo e combinem algo.",
+        "questions": ["What are you doing right now?", "What's your best friend doing now? (guess!)", "Are you working on any projects at the moment?", "What series are you watching these days?", "What are you learning at the moment (besides English)?"]
+      },
+      "writing": {
+        "task": "Write 5 \"live updates\" (like the reading) about what is happening in your house or street right now.",
+        "task_pt": "Escreva 5 \"atualizações ao vivo\" (como na leitura) sobre o que está acontecendo na sua casa ou rua agora.",
+        "model": "8:05 p.m. — My neighbor is playing the guitar (badly).\nMy mom is talking to my aunt on the phone.\nTwo kids are riding bikes in the street.\nMy cat is sleeping on my laptop.\nAnd I'm doing my English homework! 📚"
+      },
+      "culture_note": {
+        "title": "\"I'm coming!\" e \"On my way!\"",
+        "text_pt": "Assim como o brasileiro diz \"já estou saindo\" quando ainda está no banho, em inglês existe a piada do **\"On my way!\"** (OMW) enviado por quem nem saiu de casa. 😄 Para avisar que vai atrasar, use **\"I'm running late\"** ou **\"I'll be there in 10\"**."
+      },
+      "summary_pt": ["am/is/are + verbo-ing.", "Ações agora ou temporárias.", "Ortografia: making, sitting, lying.", "wait for, listen to, look for."]
+    },
+    {
+      "id": "A2-M2-L2",
+      "title": "Look at this photo",
+      "subtitle_pt": "Present continuous para descrever imagens + roupas",
+      "duration_min": 50,
+      "source_refs": ["To Go A2 – Lesson 8 (present continuous with question words)", "StartUp 1 – Unit 5 (clothes)"],
+      "objectives": ["Descrever pessoas em fotos e vídeos", "Usar wh- questions com present continuous", "Nomear roupas e acessórios", "Usar in the background, on the left, in the middle"],
+      "warmup": {
+        "text_pt": "Abra a última foto que você tirou. O que as pessoas estão fazendo? O que estão vestindo?",
+        "questions": ["What's in your last photo?", "What are you wearing today?"]
+      },
+      "vocabulary": [
+        {"en": "to wear", "pt": "vestir, usar (roupa)", "say": "tu uér"},
+        {"en": "T-shirt / shirt", "pt": "camiseta / camisa", "say": "tí shârt / shârt"},
+        {"en": "jeans / pants / shorts", "pt": "calça jeans / calça / bermuda", "say": "djínz / pénts / shórts"},
+        {"en": "dress / skirt", "pt": "vestido / saia", "say": "drés / skârt"},
+        {"en": "jacket / hoodie", "pt": "jaqueta / moletom com capuz", "say": "djéket / rúdi"},
+        {"en": "sneakers / sandals", "pt": "tênis / sandálias", "say": "sníkerz / séndolz"},
+        {"en": "cap / hat", "pt": "boné / chapéu", "say": "kép / rét"},
+        {"en": "in the background / foreground", "pt": "ao fundo / em primeiro plano", "say": "in dâ békgraund / fórgraund"},
+        {"en": "on the left / on the right", "pt": "à esquerda / à direita", "say": "on dâ léft / on dâ ráit"},
+        {"en": "in the middle", "pt": "no meio", "say": "in dâ mídol"},
+        {"en": "to smile / to laugh", "pt": "sorrir / rir", "say": "tu smáil / tu léf"},
+        {"en": "to hold", "pt": "segurar", "say": "tu rôuld"}
+      ],
+      "chunks": [
+        {"en": "In this photo, we're celebrating...", "pt": "Nesta foto, estamos comemorando..."},
+        {"en": "The woman on the left is wearing a red dress.", "pt": "A mulher à esquerda está usando um vestido vermelho."},
+        {"en": "In the background, you can see...", "pt": "Ao fundo, dá para ver..."},
+        {"en": "Who's the guy in the middle?", "pt": "Quem é o cara no meio?"},
+        {"en": "What's she holding?", "pt": "O que ela está segurando?"}
+      ],
+      "grammar": {
+        "title": "Wh- questions no present continuous",
+        "explanation_pt": "Para perguntas com question words, a ordem é:\n\n**Question word + am/is/are + sujeito + verbo-ing?**\n\n- **What** is she **wearing**?\n- **Where** are they **going**?\n- **Why** is he **laughing**?\n- **Who** are you **talking** to?\n\nPara **descrever imagens**, o present continuous é o tempo principal: \"A man **is sitting** on a bench. He**'s reading** a book.\" Combine com **there is / there are**: \"**There are** two kids. They**'re playing** soccer.\"",
+        "table": {
+          "headers": ["Question word", "be", "Sujeito", "Verbo-ing", "Resposta"],
+          "rows": [["What", "is", "he", "wearing?", "A blue hoodie."], ["Where", "are", "they", "sitting?", "On the beach."], ["Why", "is", "she", "laughing?", "Because the dog is funny."], ["Who", "are", "you", "texting?", "My sister."]]
+        },
+        "examples": [
+          {"en": "What's the man in the background doing? He's taking a selfie.", "pt": "O que o homem ao fundo está fazendo? Está tirando uma selfie."},
+          {"en": "In this photo, my friends are wearing costumes. It's Carnival!", "pt": "Nesta foto, meus amigos estão fantasiados. É Carnaval!"},
+          {"en": "There's a girl on the right. She's holding a balloon.", "pt": "Tem uma menina à direita. Ela está segurando um balão."}
+        ],
+        "tip_pt": "Em inglês, **wear** é usado para roupas, acessórios, óculos, perfume e até maquiagem: \"She's wearing glasses / perfume / makeup.\""
+      },
+      "common_mistakes": [
+        {"wrong": "He is using a blue cap.", "right": "He is wearing a blue cap.", "why_pt": "Para roupas e acessórios, o verbo é wear, não use."},
+        {"wrong": "What she is doing?", "right": "What is she doing?", "why_pt": "Na pergunta, o be vem antes do sujeito."},
+        {"wrong": "a pants / a jeans", "right": "a pair of pants / some jeans", "why_pt": "Pants, jeans, shorts e glasses são sempre plurais em inglês."}
+      ],
+      "pronunciation": {
+        "focus": "Wear x where",
+        "tip_pt": "**Wear** (vestir) e **where** (onde) têm o **mesmo som**: \"uér\". Os dois soam igual a **ware** (como em software). O contexto resolve!",
+        "practice": ["Where are you going?", "What are you wearing?", "Where's the jacket I wear to work?"]
+      },
+      "dialogue": {
+        "title": "Wedding photos",
+        "context_pt": "Duas colegas olham as fotos do casamento de uma delas no celular.",
+        "lines": [
+          {"speaker": "Ellen", "en": "Oh, these photos are beautiful! What's happening here?", "pt": "Ah, essas fotos estão lindas! O que está acontecendo aqui?"},
+          {"speaker": "Camila", "en": "That's the first dance. We're dancing to our favorite song.", "pt": "Essa é a primeira dança. Estamos dançando nossa música favorita."},
+          {"speaker": "Ellen", "en": "And who's the man on the left? Why is he crying?", "pt": "E quem é o homem à esquerda? Por que ele está chorando?"},
+          {"speaker": "Camila", "en": "That's my dad! He's very emotional. And the woman next to him is my mom.", "pt": "É o meu pai! Ele é muito emotivo. E a mulher ao lado dele é minha mãe."},
+          {"speaker": "Ellen", "en": "She's wearing a gorgeous green dress. And what are the kids doing in the background?", "pt": "Ela está usando um vestido verde lindo. E o que as crianças estão fazendo ao fundo?"},
+          {"speaker": "Camila", "en": "They're eating the cake... before the cutting! 😂", "pt": "Estão comendo o bolo... antes do corte! 😂"}
+        ]
+      },
+      "listening": {
+        "title": "Fashion show commentary",
+        "context_pt": "Uma apresentadora comenta um desfile de moda sustentável ao vivo.",
+        "lines": [
+          {"speaker": "Host", "en": "Welcome back to the Green Fashion Show! Now model number one is walking down the runway. She's wearing a long white dress made of recycled plastic. Amazing! Behind her, model number two is coming. He's wearing jeans, a vintage denim jacket and white sneakers. And look — the audience is standing up and clapping. The designer is smiling in the background. What a night!"}
+        ],
+        "questions": [
+          {"q": "What is model number one wearing?", "answer": "A long white dress made of recycled plastic."},
+          {"q": "What is model number two wearing?", "answer": "Jeans, a vintage denim jacket and white sneakers."},
+          {"q": "What is the audience doing?", "answer": "Standing up and clapping."},
+          {"q": "Where is the designer?", "answer": "In the background (smiling)."}
+        ]
+      },
+      "reading": {
+        "title": "Photo challenge: describe it!",
+        "text": "This week's photo was taken in a park in London on a sunny Sunday. In the foreground, a family is having a picnic. The mother is pouring juice, and the father is making sandwiches. Their little boy is chasing a dog. In the middle, two teenagers are skateboarding. One is wearing a yellow hoodie, and the other is filming him with a phone. In the background, people are walking and some are lying on the grass. Everyone is enjoying the rare London sun!",
+        "questions": [
+          {"q": "What is the family doing?", "answer": "They're having a picnic."},
+          {"q": "What is the boy doing?", "answer": "He's chasing a dog."},
+          {"q": "What is the teenager with the phone doing?", "answer": "He's filming his friend."},
+          {"q": "Why is the sun called \"rare\"?", "answer": "Because it isn't often sunny in London."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "order_words", "title": "Make questions", "instruction": "Put the words in order to make questions.", "instruction_pt": "Organize as palavras para formar perguntas.",
+         "items": [{"prompt": "she / what / wearing / is / ?", "answer": "What is she wearing?"}, {"prompt": "are / where / going / they / ?", "answer": "Where are they going?"}, {"prompt": "laughing / why / you / are / ?", "answer": "Why are you laughing?"}, {"prompt": "talking / who / to / is / he / ?", "answer": "Who is he talking to?"}]},
+        {"id": "ex2", "type": "match", "title": "Clothes", "instruction": "Write the English word.", "instruction_pt": "Escreva a palavra em inglês.",
+         "items": [{"prompt": "tênis", "answer": "sneakers"}, {"prompt": "moletom com capuz", "answer": "hoodie"}, {"prompt": "saia", "answer": "skirt"}, {"prompt": "boné", "answer": "cap"}, {"prompt": "bermuda", "answer": "shorts"}]},
+        {"id": "ex3", "type": "true_false", "title": "Reading", "instruction": "Read \"Photo challenge\" again. True or False?", "instruction_pt": "Releia o texto e marque True ou False.",
+         "items": [{"prompt": "The father is pouring juice.", "answer": false}, {"prompt": "Two teenagers are skateboarding.", "answer": true}, {"prompt": "One teenager is wearing a yellow hoodie.", "answer": true}, {"prompt": "It's raining in the photo.", "answer": false}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "What is she wearing?"}, {"prompt": "2", "answer": "The man on the left is laughing."}, {"prompt": "3", "answer": "In the background, kids are playing."}, {"prompt": "4", "answer": "Who are you texting?"}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "She's using a beautiful dress.", "answer": "She's wearing a beautiful dress."}, {"prompt": "Where they are going?", "answer": "Where are they going?"}, {"prompt": "I need a new jean.", "answer": "I need new jeans. / I need a new pair of jeans."}, {"prompt": "What is he hold?", "answer": "What is he holding?"}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Describe the photo", "instruction": "Complete with: left · wearing · background · holding · middle.", "instruction_pt": "Complete a descrição da foto.",
+         "items": [{"prompt": "The woman on the ___ is smiling.", "answer": "left"}, {"prompt": "She's ___ a black dress.", "answer": "wearing"}, {"prompt": "The boy in the ___ is ___ a cake.", "answer": "middle / holding"}, {"prompt": "In the ___, you can see the mountains.", "answer": "background"}]}
+      ],
+      "speaking": {
+        "instruction": "Choose a photo on your phone. Describe it in 1 minute: where, who, what they are doing and wearing. Your partner asks 2 questions.",
+        "instruction_pt": "Escolha uma foto do celular. Descreva em 1 minuto: onde, quem, o que estão fazendo e vestindo. O colega faz 2 perguntas.",
+        "questions": ["Where are you in this photo?", "Who's the person on the left?", "What are you doing?", "What are you wearing?", "What's happening in the background?"]
+      },
+      "writing": {
+        "task": "Write a caption-style description of a photo (60–80 words) using the present continuous and place expressions.",
+        "task_pt": "Escreva a descrição de uma foto (60–80 palavras) usando present continuous e expressões de lugar.",
+        "model": "This is me and my cousins at Ibirapuera Park. We're sitting on the grass and eating açaí.\nMy cousin Rafa, on the left, is wearing a funny hat and he's making a face.\nIn the middle, my little cousin is holding a balloon.\nIn the background, people are running and riding bikes. It's a perfect Sunday!"
+      },
+      "culture_note": {
+        "title": "Descrever imagens em provas",
+        "text_pt": "Descrever fotos é uma tarefa clássica de exames como **Cambridge**, **TOEFL** e **Duolingo English Test**. A fórmula: onde é → quem aparece → o que estão fazendo (present continuous) → detalhes de roupas e fundo → sua opinião/hipótese (\"They look happy\")."
+      },
+      "summary_pt": ["Question word + be + sujeito + -ing?", "Descrever imagens = present continuous.", "Roupas: wear (nunca use).", "on the left / in the middle / in the background."]
+    },
+    {
+      "id": "A2-M2-L3",
+      "title": "Usually vs. today",
+      "subtitle_pt": "Simple present x present continuous",
+      "duration_min": 55,
+      "source_refs": ["To Go A2 – Lesson 9 (simple present and present continuous)", "To Go A2 – Lesson 14 (review present continuous)"],
+      "objectives": ["Diferenciar hábitos (simple present) de ações agora (present continuous)", "Falar de situações temporárias (this week, these days)", "Conhecer os stative verbs (like, know, want)", "Contrastar sua rotina com o que está fazendo hoje"],
+      "warmup": {
+        "text_pt": "Sua semana está normal ou diferente? Você está fazendo algo diferente da rotina hoje?",
+        "questions": ["What do you usually do on weekday mornings?", "What are you doing differently this week?"]
+      },
+      "vocabulary": [
+        {"en": "usually / normally", "pt": "geralmente / normalmente", "say": "iújuali / nórmali"},
+        {"en": "today / this week", "pt": "hoje / esta semana", "say": "tudêi / dis uík"},
+        {"en": "these days / currently", "pt": "ultimamente / atualmente", "say": "díz dêiz / kârentli"},
+        {"en": "temporary / permanent", "pt": "temporário / permanente", "say": "témporeri / pârmanent"},
+        {"en": "to cover (for someone)", "pt": "substituir (alguém)", "say": "tu kâver"},
+        {"en": "to stay (at)", "pt": "ficar hospedado (em)", "say": "tu stêi"},
+        {"en": "to rent", "pt": "alugar", "say": "tu rént"},
+        {"en": "to know / to understand", "pt": "saber / entender", "say": "tu nôu / tu ânderstand"},
+        {"en": "to need / to want", "pt": "precisar / querer", "say": "tu níd / tu uónt"},
+        {"en": "to belong / to own", "pt": "pertencer / possuir", "say": "tu bilóng / tu ôun"},
+        {"en": "on vacation", "pt": "de férias", "say": "on vekêishon"},
+        {"en": "under construction", "pt": "em obras", "say": "ânder konstrâkshon"}
+      ],
+      "chunks": [
+        {"en": "I usually..., but today I'm...", "pt": "Eu geralmente..., mas hoje estou..."},
+        {"en": "I'm staying with a friend this week.", "pt": "Estou na casa de um amigo esta semana."},
+        {"en": "I'm covering for a coworker.", "pt": "Estou substituindo um colega."},
+        {"en": "These days, I'm trying to eat better.", "pt": "Ultimamente, estou tentando comer melhor."},
+        {"en": "I know what you mean.", "pt": "Sei o que você quer dizer."}
+      ],
+      "grammar": {
+        "title": "Simple present x present continuous",
+        "explanation_pt": "**Simple present** → hábitos, rotina, fatos permanentes:\n\"I **work** in an office.\" (sempre) · \"Water **boils** at 100°C.\"\nPalavras-chave: always, usually, every day, on Mondays, never.\n\n**Present continuous** → ações agora ou **temporárias**:\n\"I**'m working** from home **this week**.\" (temporário)\nPalavras-chave: now, right now, today, this week, these days, at the moment.\n\n**Stative verbs (verbos de estado)** normalmente **não** usam -ing, mesmo falando de agora, porque descrevem estados, não ações:\n- **like, love, hate, want, need, prefer**\n- **know, understand, believe, remember, mean**\n- **own, belong, have** (posse)\n\n\"I **want** a coffee now\" (✅) — e não \"I'm wanting\". \"Do you **understand**?\" (✅) — e não \"Are you understanding?\"",
+        "table": {
+          "headers": ["Simple present (rotina)", "Present continuous (agora/temporário)"],
+          "rows": [["I usually take the bus.", "Today I'm taking an Uber."], ["She works in São Paulo.", "This month she's working in Lisbon."], ["We don't eat meat on Mondays.", "We're not eating sugar these days."], ["He lives with his parents.", "He's staying at a hotel this week."]]
+        },
+        "examples": [
+          {"en": "I usually drink coffee, but today I'm drinking tea. My stomach hurts.", "pt": "Geralmente bebo café, mas hoje estou bebendo chá. Estou com dor de estômago."},
+          {"en": "My boss is on vacation, so I'm covering for her.", "pt": "Minha chefe está de férias, então estou substituindo ela."},
+          {"en": "I know the answer! / I don't understand.", "pt": "Eu sei a resposta! / Não entendo."}
+        ],
+        "tip_pt": "**Have** pode ser ação: \"I'm **having** lunch\" (estou almoçando), \"We're **having** a party\". Mas como posse, nunca: \"I **have** a car\" (e não \"I'm having a car\")."
+      },
+      "common_mistakes": [
+        {"wrong": "I'm working in a bank since 2020. (trabalho fixo)", "right": "I work in a bank.", "why_pt": "Emprego permanente = simple present."},
+        {"wrong": "Are you understanding?", "right": "Do you understand?", "why_pt": "Understand é stative verb: não usa -ing."},
+        {"wrong": "I'm wanting a pizza.", "right": "I want a pizza.", "why_pt": "Want é stative verb."}
+      ],
+      "pronunciation": {
+        "focus": "Ritmo: palavras fortes e fracas",
+        "tip_pt": "Em inglês, as palavras importantes (verbos, substantivos) são fortes e as pequenas (am, is, are, to, a) são fracas e rápidas: \"I**'m** WORK-ing from HOME this WEEK.\" Isso dá o ritmo natural do inglês.",
+        "practice": ["I USUALLY take the BUS.", "But TODAY I'm taking an UBER.", "She's STAYING at a HOTEL this WEEK."]
+      },
+      "dialogue": {
+        "title": "A different week",
+        "context_pt": "Dois amigos se encontram por acaso numa cafeteria em um horário incomum.",
+        "lines": [
+          {"speaker": "Leo", "en": "Igor? What are you doing here? You usually work downtown!", "pt": "Igor? O que você está fazendo aqui? Você geralmente trabalha no centro!"},
+          {"speaker": "Igor", "en": "I know! But our office is under construction, so we're working from coffee shops this week.", "pt": "Eu sei! Mas nosso escritório está em obras, então estamos trabalhando em cafeterias esta semana."},
+          {"speaker": "Leo", "en": "Nice. And are you still living in Pinheiros?", "pt": "Legal. E você ainda mora em Pinheiros?"},
+          {"speaker": "Igor", "en": "Yes, I live there. But I'm staying at my parents' house right now. My apartment is getting new floors.", "pt": "Sim, moro lá. Mas estou na casa dos meus pais agora. Meu apartamento está ganhando piso novo."},
+          {"speaker": "Leo", "en": "Wow, everything is under construction! Do you want a coffee?", "pt": "Uau, tudo em obras! Você quer um café?"},
+          {"speaker": "Igor", "en": "No, thanks. I usually drink three a day, but these days I'm trying to drink less.", "pt": "Não, obrigado. Geralmente tomo três por dia, mas ultimamente estou tentando tomar menos."}
+        ]
+      },
+      "listening": {
+        "title": "Podcast: a teacher in Japan",
+        "context_pt": "Uma professora brasileira fala sobre sua vida temporária no Japão.",
+        "lines": [
+          {"speaker": "Host", "en": "So, Fernanda, you're a teacher in Brazil, right?"},
+          {"speaker": "Fernanda", "en": "Yes, I teach math in a public school in Belo Horizonte. But this year I'm living in Japan. I'm doing an exchange program."},
+          {"speaker": "Host", "en": "What are you doing there?"},
+          {"speaker": "Fernanda", "en": "I'm observing classes and I'm studying Japanese teaching methods. Japanese students usually clean their classrooms every day — I love that!"},
+          {"speaker": "Host", "en": "And do you speak Japanese?"},
+          {"speaker": "Fernanda", "en": "Just a little. I'm taking classes three times a week. I understand more than I speak!"}
+        ],
+        "questions": [
+          {"q": "What does Fernanda do in Brazil?", "answer": "She teaches math in a public school."},
+          {"q": "Why is she in Japan this year?", "answer": "She's doing an exchange program."},
+          {"q": "What do Japanese students usually do every day?", "answer": "They clean their classrooms."},
+          {"q": "How often is she taking Japanese classes?", "answer": "Three times a week."}
+        ]
+      },
+      "reading": {
+        "title": "Remote nurse, real life",
+        "text": "Mariana is a nurse. She usually works at a hospital in Porto Alegre, where she takes care of patients in the emergency room. She works twelve-hour shifts and she rarely sees her family on weekends. But this year is different: she's working for a telehealth company. She's helping patients by video calls from her home office. She's spending more time with her kids, and she's learning a lot about technology. \"I love the hospital,\" she says, \"but right now, this is what my family needs.\"",
+        "questions": [
+          {"q": "Where does Mariana usually work?", "answer": "At a hospital in Porto Alegre (in the emergency room)."},
+          {"q": "What is she doing this year?", "answer": "She's working for a telehealth company, helping patients by video calls."},
+          {"q": "What are the good changes?", "answer": "She's spending more time with her kids and learning about technology."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Simple or continuous?", "instruction": "Choose the correct form.", "instruction_pt": "Escolha a forma correta.",
+         "items": [{"prompt": "I ___ to work by bus every day.", "options": ["go", "'m going"], "answer": "go"}, {"prompt": "Look! It ___.", "options": ["snows", "'s snowing"], "answer": "'s snowing"}, {"prompt": "She ___ at a hotel this week.", "options": ["stays", "'s staying"], "answer": "'s staying"}, {"prompt": "I ___ what you mean.", "options": ["know", "'m knowing"], "answer": "know"}, {"prompt": "We ___ lunch right now. Can I call you back?", "options": ["have", "'re having"], "answer": "'re having"}, {"prompt": "He ___ a new car.", "options": ["has", "'s having"], "answer": "has"}]},
+        {"id": "ex2", "type": "fill_blank", "title": "Usually vs. today", "instruction": "Complete with the correct form of the verb in parentheses.", "instruction_pt": "Complete com a forma correta do verbo.",
+         "items": [{"prompt": "I usually ___ (wake up) at 6, but today I ___ (sleep) late.", "answer": "wake up / 'm sleeping"}, {"prompt": "Paulo ___ (teach) English, but this month he ___ (travel) in Asia.", "answer": "teaches / 's traveling"}, {"prompt": "We normally ___ (not / cook), but tonight we ___ (make) lasagna.", "answer": "don't cook / 're making"}]},
+        {"id": "ex3", "type": "correct_error", "title": "Stative verbs", "instruction": "Correct the stative verb mistakes.", "instruction_pt": "Corrija os erros com stative verbs.",
+         "items": [{"prompt": "Are you understanding me?", "answer": "Do you understand me?"}, {"prompt": "I'm needing help.", "answer": "I need help."}, {"prompt": "This bag is belonging to my sister.", "answer": "This bag belongs to my sister."}, {"prompt": "She's knowing the answer.", "answer": "She knows the answer."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "I usually take the bus, but today I'm driving."}, {"prompt": "2", "answer": "She's staying with a friend this week."}, {"prompt": "3", "answer": "Do you understand?"}, {"prompt": "4", "answer": "These days, I'm trying to sleep more."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "I'm working in a bank. It's my job since 2018.", "answer": "I work in a bank."}, {"prompt": "Every day she's going to the gym.", "answer": "Every day she goes to the gym."}, {"prompt": "Listen! The baby cries.", "answer": "Listen! The baby is crying."}, {"prompt": "I'm having two brothers.", "answer": "I have two brothers."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the dialogue", "instruction": "Complete with: usually · this week · covering · know · 'm working.", "instruction_pt": "Complete o diálogo.",
+         "items": [{"prompt": "A: You ___ start at 9. Why are you here at 7?", "answer": "usually"}, {"prompt": "B: I ___ early ___.", "answer": "'m working / this week"}, {"prompt": "B: I'm ___ for Ana. She's on vacation.", "answer": "covering"}, {"prompt": "A: Oh, I ___ — she's in Bahia!", "answer": "know"}]}
+      ],
+      "speaking": {
+        "instruction": "Compare your normal life with your life these days. Use usually... but these days...",
+        "instruction_pt": "Compare sua vida normal com sua vida atualmente. Use usually... but these days...",
+        "questions": ["What do you usually do on weekday evenings?", "What are you doing differently these days?", "What series are you watching at the moment?", "Are you reading a good book these days?", "What are you trying to change in your life right now?"]
+      },
+      "writing": {
+        "task": "Write an email to a friend you haven't seen in a while: your normal routine + what is different these days (80–100 words).",
+        "task_pt": "Escreva um e-mail para um amigo que você não vê há tempos: sua rotina normal + o que está diferente ultimamente (80–100 palavras).",
+        "model": "Hi Sam,\nHow are you? Things are a bit crazy here! I usually work in an office downtown, but these days I'm working from home because I'm taking care of my mom — she's recovering from surgery. She's doing well, don't worry. I'm also learning to cook, because she usually cooks for the family. I'm not very good yet! 😂 I'm also studying English every night. What are you doing these days?\nHugs,\nTati"
+      },
+      "culture_note": {
+        "title": "\"I'm loving it\"",
+        "text_pt": "Você conhece o slogan **\"I'm lovin' it\"**? Gramaticalmente, love é stative e \"I'm loving\" seria estranho — mas na linguagem informal moderna, o -ing com love/like expressa **entusiasmo no momento**: \"I'm loving this song!\" É aceito na fala, mas em provas use a forma tradicional."
+      },
+      "summary_pt": ["Rotina/fatos = simple present.", "Agora/temporário = present continuous.", "Stative verbs (know, want, need, like) sem -ing.", "Have (posse) sem -ing; have lunch pode."]
+    },
+    {
+      "id": "A2-M2-L4",
+      "title": "I agree / I don't think so",
+      "subtitle_pt": "Opiniões: concordar e discordar com educação",
+      "duration_min": 50,
+      "source_refs": ["To Go A2 – Lesson 10 (video lesson: agree and disagree)", "To Go A2 – Lesson 14 (video lesson)"],
+      "objectives": ["Dar opinião com I think / In my opinion", "Concordar e discordar com educação", "Usar So do I / Neither do I", "Participar de uma discussão simples"],
+      "warmup": {
+        "text_pt": "Você costuma discordar das pessoas em voz alta ou prefere ficar quieto? Como você discorda educadamente em português?",
+        "questions": ["Is it easy for you to disagree with people?", "What's a topic people always argue about?"]
+      },
+      "vocabulary": [
+        {"en": "I think / I don't think", "pt": "eu acho / eu não acho", "say": "ái θink / ái dôunt θink"},
+        {"en": "in my opinion", "pt": "na minha opinião", "say": "in mái opínion"},
+        {"en": "I agree / I disagree", "pt": "concordo / discordo", "say": "ái agrí / ái disagrí"},
+        {"en": "exactly / absolutely", "pt": "exatamente / com certeza", "say": "igzéktli / ébsolutli"},
+        {"en": "I'm not sure", "pt": "não tenho certeza", "say": "áim nót shúr"},
+        {"en": "that's true", "pt": "é verdade", "say": "déts trú"},
+        {"en": "it depends", "pt": "depende", "say": "it dipéndz"},
+        {"en": "good point", "pt": "bem lembrado / bom argumento", "say": "gud póint"},
+        {"en": "to argue", "pt": "discutir, argumentar", "say": "tu árgiu"},
+        {"en": "pros and cons", "pt": "prós e contras", "say": "prôuz end kónz"},
+        {"en": "overrated / underrated", "pt": "superestimado / subestimado", "say": "ôuverrêirid / ânderrêirid"},
+        {"en": "honestly", "pt": "sinceramente", "say": "ónestli"}
+      ],
+      "chunks": [
+        {"en": "I see your point, but...", "pt": "Entendo seu ponto, mas..."},
+        {"en": "I'm not so sure about that.", "pt": "Não tenho tanta certeza disso."},
+        {"en": "You're absolutely right.", "pt": "Você tem toda razão."},
+        {"en": "I don't think so.", "pt": "Acho que não."},
+        {"en": "So do I. / Neither do I.", "pt": "Eu também. / Eu também não."},
+        {"en": "Let's agree to disagree.", "pt": "Vamos concordar em discordar."}
+      ],
+      "grammar": {
+        "title": "Opiniões, So do I / Neither do I",
+        "explanation_pt": "**Dar opinião:** I think (that)... / I don't think... / In my opinion... / For me...\n\nAtenção: em inglês, a negação vai no **think**: \"I **don't think** it's a good idea\" (mais natural que \"I think it isn't a good idea\").\n\n**Discordar com educação** é suavizar: comece reconhecendo o outro lado.\n- Direto (pode soar rude): \"You're wrong.\" / \"No.\"\n- Educado: \"**I see your point, but**...\" / \"**I'm not so sure.**\" / \"**Maybe, but**...\"\n\n**So / Neither + auxiliar + I** para concordar (versão mais formal de Me too / Me neither):\n- \"I love pizza.\" → **So do I.** (simple present: do)\n- \"I'm tired.\" → **So am I.** (to be: am)\n- \"I don't like horror movies.\" → **Neither do I.**\n- \"I'm not ready.\" → **Neither am I.**\n- \"I can swim.\" → **So can I.**",
+        "table": {
+          "headers": ["Frase", "Concordar (+)", "Concordar (−)"],
+          "rows": [["I like jazz.", "So do I.", "—"], ["I don't drink coffee.", "—", "Neither do I."], ["I'm hungry.", "So am I.", "—"], ["I'm not ready.", "—", "Neither am I."], ["I can drive.", "So can I.", "—"]]
+        },
+        "examples": [
+          {"en": "I don't think remote work is for everyone.", "pt": "Não acho que o trabalho remoto seja para todos."},
+          {"en": "I see your point, but I think social media has good sides, too.", "pt": "Entendo seu ponto, mas acho que as redes sociais têm lados bons também."},
+          {"en": "\"I'm addicted to my phone.\" \"So am I!\"", "pt": "\"Sou viciado no celular.\" \"Eu também!\""}
+        ],
+        "tip_pt": "Na dúvida, **Me too / Me neither** sempre funcionam na conversa informal."
+      },
+      "common_mistakes": [
+        {"wrong": "I am agree.", "right": "I agree.", "why_pt": "Agree é verbo, não adjetivo. Não use am."},
+        {"wrong": "I think it's not a good idea.", "right": "I don't think it's a good idea.", "why_pt": "A forma natural nega o think."},
+        {"wrong": "\"I'm tired.\" \"So do I.\"", "right": "\"I'm tired.\" \"So am I.\"", "why_pt": "O auxiliar repete o verbo da frase original (am → am)."}
+      ],
+      "pronunciation": {
+        "focus": "Entonação de opinião",
+        "tip_pt": "Ao discordar com educação, a entonação é **suave e subindo** no \"but\": \"I see your point ↗, but...\". Uma entonação seca e descendente faz até frases educadas soarem agressivas.",
+        "practice": ["I see your point, but... ↗", "I'm not so sure about that.", "So do I! / Neither do I!"]
+      },
+      "dialogue": {
+        "title": "Is remote work better?",
+        "context_pt": "Três colegas discutem na pausa do café se o home office é melhor que o escritório.",
+        "lines": [
+          {"speaker": "Kai", "en": "Honestly, I think remote work is better. No traffic, no noise!", "pt": "Sinceramente, acho que o remoto é melhor. Sem trânsito, sem barulho!"},
+          {"speaker": "Rosa", "en": "I see your point, but I miss people. I don't think it's good for everyone.", "pt": "Entendo seu ponto, mas sinto falta das pessoas. Não acho que seja bom para todo mundo."},
+          {"speaker": "Kai", "en": "That's true. Some people feel lonely.", "pt": "É verdade. Algumas pessoas se sentem sozinhas."},
+          {"speaker": "Pedro", "en": "In my opinion, hybrid is the answer. Two days at home, three in the office.", "pt": "Na minha opinião, o híbrido é a resposta. Dois dias em casa, três no escritório."},
+          {"speaker": "Rosa", "en": "I agree with Pedro. And I love the free coffee here!", "pt": "Concordo com o Pedro. E eu amo o café de graça daqui!"},
+          {"speaker": "Kai", "en": "So do I! OK, good point. Let's agree to disagree.", "pt": "Eu também! OK, bom argumento. Vamos concordar em discordar."}
+        ]
+      },
+      "listening": {
+        "title": "Radio debate: social media for kids",
+        "context_pt": "Um debate curto no rádio sobre crianças nas redes sociais.",
+        "lines": [
+          {"speaker": "Host", "en": "Our question today: should kids under 14 use social media? Dr. Silva?"},
+          {"speaker": "Dr. Silva", "en": "I don't think they should. In my opinion, it's bad for their sleep and their self-esteem."},
+          {"speaker": "Host", "en": "Ms. Park, do you agree?"},
+          {"speaker": "Ms. Park", "en": "I see her point, but I'm not so sure. Kids learn a lot online. The problem isn't social media — it's no rules."},
+          {"speaker": "Dr. Silva", "en": "That's true. Rules are important."},
+          {"speaker": "Ms. Park", "en": "Exactly. Parents need to talk with their kids."}
+        ],
+        "questions": [
+          {"q": "What's Dr. Silva's opinion?", "answer": "Kids under 14 shouldn't use social media (it's bad for sleep and self-esteem)."},
+          {"q": "Does Ms. Park agree completely?", "answer": "No. She thinks kids learn a lot online; the problem is no rules."},
+          {"q": "What do they agree on?", "answer": "Rules are important / parents need to talk with kids."}
+        ]
+      },
+      "reading": {
+        "title": "Unpopular opinions",
+        "text": "We asked our readers: what's your unpopular opinion? Here are some answers. \"I think pineapple on pizza is delicious!\" — Laura, 24. \"In my opinion, coffee is overrated. I prefer tea.\" — Ravi, 31. \"I don't think everyone needs to go to college. There are many great careers without a degree.\" — Ana, 45. \"Honestly, I don't like the beach. Too much sand!\" — Bruno, 29, from Rio de Janeiro. Do you agree or disagree?",
+        "questions": [
+          {"q": "What does Laura think?", "answer": "Pineapple on pizza is delicious."},
+          {"q": "What does Ravi prefer?", "answer": "Tea (he thinks coffee is overrated)."},
+          {"q": "What's Ana's opinion?", "answer": "Not everyone needs to go to college."},
+          {"q": "Why is Bruno's opinion surprising?", "answer": "He's from Rio, but he doesn't like the beach."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "So / Neither", "instruction": "Choose the correct reply to agree.", "instruction_pt": "Escolha a resposta correta para concordar.",
+         "items": [{"prompt": "I love traveling.", "options": ["So do I.", "So am I.", "Neither do I."], "answer": "So do I."}, {"prompt": "I'm not a fan of rap.", "options": ["Neither do I.", "Neither am I.", "So am I."], "answer": "Neither am I."}, {"prompt": "I can't cook.", "options": ["Neither can I.", "So can I.", "Neither do I."], "answer": "Neither can I."}, {"prompt": "I'm exhausted.", "options": ["So do I.", "So am I.", "Neither am I."], "answer": "So am I."}, {"prompt": "I don't use TikTok.", "options": ["Neither do I.", "So do I.", "Neither am I."], "answer": "Neither do I."}]},
+        {"id": "ex2", "type": "match", "title": "Polite or rude?", "instruction": "Rewrite the rude sentence in a polite way.", "instruction_pt": "Reescreva a frase rude de forma educada.",
+         "items": [{"prompt": "You're wrong.", "answer": "I'm not so sure about that. / I see your point, but..."}, {"prompt": "That's a stupid idea.", "answer": "I don't think it's a good idea."}, {"prompt": "No!", "answer": "I don't think so."}]},
+        {"id": "ex3", "type": "order_words", "title": "Opinions", "instruction": "Put the words in order.", "instruction_pt": "Organize as palavras.",
+         "items": [{"prompt": "think / don't / I / it's / expensive", "answer": "I don't think it's expensive."}, {"prompt": "your / I / point / see / but", "answer": "I see your point, but..."}, {"prompt": "opinion / in / it's / my / overrated", "answer": "In my opinion, it's overrated."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "I see your point, but I'm not sure."}, {"prompt": "2", "answer": "I don't think so."}, {"prompt": "3", "answer": "You're absolutely right."}, {"prompt": "4", "answer": "Neither do I."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "I'm agree with you.", "answer": "I agree with you."}, {"prompt": "I think it isn't true.", "answer": "I don't think it's true."}, {"prompt": "\"I'm hungry.\" \"So do I.\"", "answer": "So am I."}, {"prompt": "\"I don't smoke.\" \"So do I.\"", "answer": "Neither do I."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the discussion", "instruction": "Complete with: think · point · agree · depends · true.", "instruction_pt": "Complete a discussão.",
+         "items": [{"prompt": "A: I ___ electric cars are the future.", "answer": "think"}, {"prompt": "B: I ___. They're cleaner.", "answer": "agree"}, {"prompt": "C: Good ___, but they're expensive.", "answer": "point"}, {"prompt": "A: That's ___. — B: Well, it ___ on the country.", "answer": "true / depends"}]}
+      ],
+      "speaking": {
+        "instruction": "Mini-debate in pairs or groups: give your opinion, agree or disagree politely. 2 minutes per topic.",
+        "instruction_pt": "Mini-debate em duplas ou grupos: dê sua opinião, concorde ou discorde com educação. 2 minutos por tema.",
+        "questions": ["Is remote work better than office work?", "Are kids using phones too much?", "Is coffee overrated?", "Should English be mandatory from age 5?", "What's your unpopular opinion?"]
+      },
+      "writing": {
+        "task": "Write your \"unpopular opinion\" post (60–80 words): your opinion, two reasons, and a polite question to your readers.",
+        "task_pt": "Escreva seu post de \"opinião impopular\" (60–80 palavras): sua opinião, dois motivos e uma pergunta educada aos leitores.",
+        "model": "Unpopular opinion: I don't think Carnival is the best holiday. 🎭\nFirst, the streets are too crowded and noisy for me.\nSecond, I prefer quiet holidays, like a weekend in the mountains.\nI see why people love it — the music and the energy are amazing.\nBut honestly, I'm happier with a book and a blanket. Do you agree?"
+      },
+      "culture_note": {
+        "title": "Discordar no trabalho internacional",
+        "text_pt": "Culturas variam: holandeses e alemães costumam discordar de forma direta; britânicos e japoneses, de forma bem indireta. Um britânico que diz **\"That's an interesting idea\"** ou **\"With respect...\"** pode estar discordando totalmente! Na dúvida, prefira o estilo suave: **I see your point, but...**"
+      },
+      "summary_pt": ["I think / I don't think / In my opinion.", "Discordar: I see your point, but...", "So do I / So am I / Neither do I / Neither am I.", "I agree (nunca I am agree)."]
+    }
+  ],
+  "review": {
+    "intro_pt": "Revise present continuous, descrição de imagens, contraste com simple present e opiniões.",
+    "exercises": [
+      {"id": "r1", "type": "multiple_choice", "title": "Choose the correct option", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+       "items": [{"prompt": "Shh! The baby ___.", "options": ["sleeps", "is sleeping", "sleeping"], "answer": "is sleeping"}, {"prompt": "I ___ to the gym three times a week.", "options": ["go", "am going", "going"], "answer": "go"}, {"prompt": "What ___ she wearing?", "options": ["does", "is", "are"], "answer": "is"}, {"prompt": "I ___ what you mean.", "options": ["understand", "am understanding"], "answer": "understand"}, {"prompt": "\"I'm not ready.\" \"___\"", "options": ["Neither am I.", "Neither do I.", "So am I."], "answer": "Neither am I."}]},
+      {"id": "r2", "type": "fill_blank", "title": "Simple or continuous?", "instruction": "Complete with the correct form of the verb.", "instruction_pt": "Complete com a forma correta.",
+       "items": [{"prompt": "She usually ___ (drive) to work, but today she ___ (take) the train.", "answer": "drives / 's taking"}, {"prompt": "Look! They ___ (dance)!", "answer": "'re dancing"}, {"prompt": "I ___ (not / like) horror movies.", "answer": "don't like"}]},
+      {"id": "r3", "type": "translate", "title": "Translate", "instruction": "Translate into English.", "instruction_pt": "Traduza para o inglês.",
+       "items": [{"prompt": "Estou a caminho!", "answer": "I'm on my way!"}, {"prompt": "A mulher à direita está usando óculos.", "answer": "The woman on the right is wearing glasses."}, {"prompt": "Entendo seu ponto, mas não concordo.", "answer": "I see your point, but I don't agree."}]},
+      {"id": "r4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+       "items": [{"prompt": "1", "answer": "What are you doing right now?"}, {"prompt": "2", "answer": "I'm staying at a hotel this week."}, {"prompt": "3", "answer": "I don't think it's a good idea."}]},
+      {"id": "r5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+       "items": [{"prompt": "I waiting for you.", "answer": "I'm waiting for you."}, {"prompt": "He's using a red cap.", "answer": "He's wearing a red cap."}, {"prompt": "I am agree.", "answer": "I agree."}]}
+    ],
+    "speaking_pt": "Grave um vídeo curto (1 a 2 minutos) mostrando o lugar onde você está agora: descreva o que está acontecendo, compare com a sua rotina normal e dê uma opinião sobre algo.",
+    "speaking_questions": ["What are you doing right now?", "What are the people around you doing?", "What do you usually do at this time?", "What's different in your life these days?", "What's something you disagree with?"],
+    "project_pt": "**Photo story:** escolha 5 fotos da sua semana e faça um carrossel com legendas em inglês usando present continuous (o que está acontecendo em cada foto) e uma frase de opinião no final."
+  }
+}

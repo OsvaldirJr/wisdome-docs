@@ -1,0 +1,534 @@
+{
+  "id": "A2-M6",
+  "level": "A2",
+  "title": "Out in the World",
+  "theme_pt": "Viagem, saúde, compras de mercado e resolução de problemas",
+  "can_do": ["Fazer check-in em hotel e resolver situações no aeroporto", "Fazer pedidos formais com Could you...? e May I...?", "Explicar sintomas simples e dar conselhos com should", "Usar some, any, much, many, a lot of corretamente", "Fazer uma reclamação educada e pedir uma solução"],
+  "lessons": [
+    {
+      "id": "A2-M6-L1",
+      "title": "Do you have a reservation?",
+      "subtitle_pt": "Hotel e aeroporto: pedidos formais com Could you / May I",
+      "duration_min": 55,
+      "source_refs": ["StartUp 1 – Unit 8 (Do you have a reservation?)", "SAM-B3 – Lesson 2 (could questions)"],
+      "objectives": ["Fazer check-in e check-out em hotel", "Fazer pedidos formais com Could you...? / Could I...?", "Pedir permissão com May I...? / Can I...?", "Entender anúncios e perguntas no aeroporto"],
+      "warmup": {
+        "text_pt": "Qual é a situação mais estressante em uma viagem para você: aeroporto, hotel, imigração? Você já passou aperto por causa do inglês?",
+        "questions": ["What's the most stressful part of traveling for you?", "Do you prefer hotels, hostels or Airbnb?"]
+      },
+      "vocabulary": [
+        {"en": "reservation / booking", "pt": "reserva", "say": "rezervêishon / búkin"},
+        {"en": "check-in / check-out", "pt": "entrada / saída", "say": "tchék in / tchék áut"},
+        {"en": "front desk / reception", "pt": "recepção", "say": "frânt désk / risépshon"},
+        {"en": "single / double room", "pt": "quarto de solteiro / casal", "say": "síngol / dâbol rúm"},
+        {"en": "key card", "pt": "cartão-chave", "say": "kí kárd"},
+        {"en": "boarding pass", "pt": "cartão de embarque", "say": "bórdin pés"},
+        {"en": "gate / terminal", "pt": "portão / terminal", "say": "guêit / târminal"},
+        {"en": "carry-on / checked bag", "pt": "bagagem de mão / despachada", "say": "kéri on / tchékt bég"},
+        {"en": "aisle seat / window seat", "pt": "corredor / janela", "say": "áil sít / uíndou sít"},
+        {"en": "delayed / on time", "pt": "atrasado / no horário", "say": "dilêid / on táim"},
+        {"en": "customs / immigration", "pt": "alfândega / imigração", "say": "kâstomz / imigrêishon"},
+        {"en": "wake-up call", "pt": "serviço de despertar", "say": "uêik âp kól"}
+      ],
+      "chunks": [
+        {"en": "I have a reservation under the name Silva.", "pt": "Tenho uma reserva no nome Silva."},
+        {"en": "Could I have a late check-out?", "pt": "Poderia ter um check-out mais tarde?"},
+        {"en": "Could you call a taxi for me, please?", "pt": "Poderia chamar um táxi para mim, por favor?"},
+        {"en": "May I see your passport?", "pt": "Posso ver seu passaporte?"},
+        {"en": "What's the purpose of your visit?", "pt": "Qual é o motivo da sua visita?"},
+        {"en": "Is breakfast included?", "pt": "O café da manhã está incluído?"}
+      ],
+      "grammar": {
+        "title": "Pedidos e permissão: can, could, may",
+        "explanation_pt": "Você já usa **can** para pedidos. Em situações formais (hotel, aeroporto, trabalho), suba o nível de educação:\n\n**Pedir que alguém faça algo:**\n- **Can you** help me? (neutro)\n- **Could you** help me, please? (mais educado ✅)\n- **Would you mind** helping me? (muito educado — note o -ing)\n\n**Pedir permissão para você fazer algo:**\n- **Can I** leave my bags here? (neutro)\n- **Could I** leave my bags here? (educado)\n- **May I** leave my bags here? (formal)\n\nSempre: **could / may + verbo base** (sem to).\n\n**Respostas:** Sure. / Of course. / Certainly. (sim) · I'm sorry, but... / I'm afraid not. (não)\n\nNo aeroporto, você **ouve** muito **may**: \"**May I** see your boarding pass?\"",
+        "table": {
+          "headers": ["Nível", "Pedido (você)", "Permissão (eu)"],
+          "rows": [["Neutro", "Can you open the door?", "Can I sit here?"], ["Educado", "Could you open the door, please?", "Could I sit here?"], ["Formal", "Would you mind opening the door?", "May I sit here?"]]
+        },
+        "examples": [
+          {"en": "Could you give me a wake-up call at 6, please?", "pt": "Poderia me dar um serviço de despertar às 6, por favor?"},
+          {"en": "May I have an aisle seat?", "pt": "Posso ter um assento no corredor?"},
+          {"en": "I'm afraid check-in is only at 3 p.m., but you can leave your bags here.", "pt": "Infelizmente o check-in é só às 15h, mas você pode deixar suas malas aqui."}
+        ],
+        "tip_pt": "Na imigração, respostas curtas e claras são melhores: \"**Tourism.**\" / \"**Two weeks.**\" / \"**At a hotel in Manhattan.**\" Não precisa fazer frases longas."
+      },
+      "common_mistakes": [
+        {"wrong": "Could you to help me?", "right": "Could you help me?", "why_pt": "Could + verbo base, sem to."},
+        {"wrong": "I want a room with two beds. (soa rude)", "right": "Could I have a room with two beds, please?", "why_pt": "I want soa exigente com funcionários."},
+        {"wrong": "I have a reserve.", "right": "I have a reservation. / I have a booking.", "why_pt": "Reserve é verbo (reservar). O substantivo é reservation."}
+      ],
+      "pronunciation": {
+        "focus": "Could you = \"kúdja\"",
+        "tip_pt": "**Could you** se junta e vira \"**kúdja**\", e o L de could é mudo (\"kúd\"). **Would** e **should** também têm o L mudo: \"wúd\", \"shúd\".",
+        "practice": ["Could you help me? (\"kúdja rélp mi\")", "Could I have the key?", "May I see your passport?"]
+      },
+      "dialogue": {
+        "title": "Hotel check-in",
+        "context_pt": "Letícia chega a um hotel em Londres depois de um voo longo.",
+        "lines": [
+          {"speaker": "Receptionist", "en": "Good morning! Welcome to the Riverside Hotel. How can I help you?", "pt": "Bom dia! Bem-vinda ao Riverside Hotel. Como posso ajudar?"},
+          {"speaker": "Letícia", "en": "Hi. I have a reservation under the name Letícia Moraes.", "pt": "Oi. Tenho uma reserva no nome Letícia Moraes."},
+          {"speaker": "Receptionist", "en": "Let me check... Yes, a double room for four nights. May I see your passport, please?", "pt": "Deixa eu verificar... Sim, um quarto de casal por quatro noites. Posso ver seu passaporte, por favor?"},
+          {"speaker": "Letícia", "en": "Here you go. Could I check in now? My flight arrived very early.", "pt": "Aqui está. Poderia fazer o check-in agora? Meu voo chegou muito cedo."},
+          {"speaker": "Receptionist", "en": "I'm afraid the room isn't ready. Check-in is at 2 p.m. But you can leave your luggage here.", "pt": "Infelizmente o quarto não está pronto. O check-in é às 14h. Mas você pode deixar sua bagagem aqui."},
+          {"speaker": "Letícia", "en": "OK, thanks. Is breakfast included?", "pt": "OK, obrigada. O café está incluído?"},
+          {"speaker": "Receptionist", "en": "Yes, from 7 to 10:30. Would you like a map of the area?", "pt": "Sim, das 7 às 10h30. Gostaria de um mapa da região?"},
+          {"speaker": "Letícia", "en": "Yes, please. And could you recommend a café nearby?", "pt": "Sim, por favor. E poderia recomendar um café aqui perto?"}
+        ]
+      },
+      "listening": {
+        "title": "At immigration",
+        "context_pt": "Um passageiro passa pela imigração nos EUA.",
+        "lines": [
+          {"speaker": "Officer", "en": "Good afternoon. May I see your passport and customs form?"},
+          {"speaker": "Bruno", "en": "Sure, here you go."},
+          {"speaker": "Officer", "en": "What's the purpose of your visit?"},
+          {"speaker": "Bruno", "en": "Tourism. I'm visiting my sister."},
+          {"speaker": "Officer", "en": "How long are you staying?"},
+          {"speaker": "Bruno", "en": "Two weeks. I'm flying back on the twentieth."},
+          {"speaker": "Officer", "en": "Where are you staying?"},
+          {"speaker": "Bruno", "en": "At my sister's apartment in Orlando."},
+          {"speaker": "Officer", "en": "OK. Could you look at the camera, please? ... Thank you. Enjoy your stay."}
+        ],
+        "questions": [
+          {"q": "What's the purpose of Bruno's visit?", "answer": "Tourism (visiting his sister)."},
+          {"q": "How long is he staying?", "answer": "Two weeks."},
+          {"q": "When is he flying back?", "answer": "On the 20th."},
+          {"q": "Where is he staying?", "answer": "At his sister's apartment in Orlando."}
+        ]
+      },
+      "reading": {
+        "title": "Flight information email",
+        "text": "Dear Ms. Moraes, your flight LA8084 from São Paulo (GRU) to London (LHR) is confirmed. Departure: March 14, 10:35 p.m., Terminal 3. Please arrive at the airport at least three hours before departure. Online check-in opens 48 hours before the flight. Baggage allowance: one carry-on bag (up to 10 kg) and one checked bag (up to 23 kg). Seat: 32A (window). Boarding closes 20 minutes before departure. Have a nice flight!",
+        "questions": [
+          {"q": "What time does the flight leave?", "answer": "At 10:35 p.m. (on March 14)."},
+          {"q": "When does online check-in open?", "answer": "48 hours before the flight."},
+          {"q": "How heavy can the checked bag be?", "answer": "Up to 23 kg."},
+          {"q": "Is her seat by the window or the aisle?", "answer": "By the window (32A)."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Polite requests", "instruction": "Choose the most polite option for a hotel or airport.", "instruction_pt": "Escolha a opção mais educada para hotel ou aeroporto.",
+         "items": [{"prompt": "(pedir um travesseiro)", "options": ["I want another pillow.", "Could I have another pillow, please?", "Give me a pillow."], "answer": "Could I have another pillow, please?"}, {"prompt": "(pedir para chamar um táxi)", "options": ["Call a taxi.", "Could you call a taxi for me, please?", "You call a taxi?"], "answer": "Could you call a taxi for me, please?"}, {"prompt": "(pedir para sentar)", "options": ["May I sit here?", "I sit here.", "Sit here?"], "answer": "May I sit here?"}]},
+        {"id": "ex2", "type": "match", "title": "Travel vocabulary", "instruction": "Write the English expression.", "instruction_pt": "Escreva a expressão em inglês.",
+         "items": [{"prompt": "cartão de embarque", "answer": "boarding pass"}, {"prompt": "bagagem de mão", "answer": "carry-on (bag)"}, {"prompt": "assento no corredor", "answer": "aisle seat"}, {"prompt": "recepção do hotel", "answer": "front desk / reception"}, {"prompt": "alfândega", "answer": "customs"}]},
+        {"id": "ex3", "type": "true_false", "title": "Reading", "instruction": "Read the flight email again. True or False?", "instruction_pt": "Releia o e-mail do voo e marque True ou False.",
+         "items": [{"prompt": "The flight leaves from Terminal 2.", "answer": false}, {"prompt": "She needs to arrive three hours early.", "answer": true}, {"prompt": "The carry-on can weigh 23 kg.", "answer": false}, {"prompt": "Boarding closes 20 minutes before departure.", "answer": true}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "I have a reservation under the name Silva."}, {"prompt": "2", "answer": "Could you call a taxi for me, please?"}, {"prompt": "3", "answer": "May I see your passport?"}, {"prompt": "4", "answer": "Is breakfast included?"}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "Could you to help me with my bags?", "answer": "Could you help me with my bags?"}, {"prompt": "I have a reserve for two nights.", "answer": "I have a reservation for two nights."}, {"prompt": "May I to see the room?", "answer": "May I see the room?"}, {"prompt": "Would you mind to wait a moment?", "answer": "Would you mind waiting a moment?"}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the check-out", "instruction": "Complete with: Could · check-out · bill · included · afraid.", "instruction_pt": "Complete o check-out.",
+         "items": [{"prompt": "Guest: Hi, I'd like to ___, please. Room 412.", "answer": "check-out"}, {"prompt": "Receptionist: Of course. Here's your ___.", "answer": "bill"}, {"prompt": "Guest: Is the minibar ___? — Receptionist: I'm ___ not. It's $12.", "answer": "included / afraid"}, {"prompt": "Guest: OK. ___ I leave my bags here until 4?", "answer": "Could"}]}
+      ],
+      "speaking": {
+        "instruction": "Role-play three situations: hotel check-in, airline check-in and immigration. Then change roles.",
+        "instruction_pt": "Role-play de três situações: check-in no hotel, check-in na companhia aérea e imigração. Depois troquem os papéis.",
+        "questions": ["Do you have a reservation?", "May I see your passport?", "Window or aisle?", "What's the purpose of your visit?", "How long are you staying?"]
+      },
+      "writing": {
+        "task": "Write an email to a hotel before your trip (60–80 words): confirm your reservation and make two polite requests.",
+        "task_pt": "Escreva um e-mail para um hotel antes da viagem (60–80 palavras): confirme a reserva e faça dois pedidos educados.",
+        "model": "Subject: Reservation #8821 – Moraes\n\nDear Riverside Hotel,\nI have a reservation for a double room from March 15 to 19. My flight arrives at 7 a.m. Could I check in early, if possible? If not, could I leave my luggage at the front desk? Also, could you tell me if there's a pharmacy near the hotel?\nThank you very much.\nBest regards,\nLetícia Moraes"
+      },
+      "culture_note": {
+        "title": "Gorjetas em hotel",
+        "text_pt": "Nos EUA, é comum dar **tip** para quem carrega malas (**bellhop**: US$1–2 por mala) e deixar alguns dólares para a camareira (**housekeeping**) por noite. No Reino Unido e na Europa, gorjeta em hotel é opcional."
+      },
+      "summary_pt": ["Could you...? (pedido) / Could I... / May I...? (permissão).", "could/may + verbo base.", "Would you mind + -ing? = muito formal.", "reservation (não reserve)."]
+    },
+    {
+      "id": "A2-M6-L2",
+      "title": "I have a headache",
+      "subtitle_pt": "Corpo, sintomas e conselhos com should",
+      "duration_min": 55,
+      "source_refs": ["SAM-B3 – Lesson 3 (should questions)", "StartUp 1 – Unit 8 (personal care items)"],
+      "objectives": ["Nomear partes do corpo e sintomas comuns", "Explicar como você está se sentindo ao médico ou farmacêutico", "Dar e pedir conselhos com should / shouldn't", "Entender instruções de remédios"],
+      "warmup": {
+        "text_pt": "Você sabe dizer \"estou com dor de cabeça\" em inglês? Saber falar sobre saúde é essencial em qualquer viagem.",
+        "questions": ["What do you do when you have a cold?", "Do you go to the doctor often?"]
+      },
+      "vocabulary": [
+        {"en": "head / throat / stomach", "pt": "cabeça / garganta / estômago", "say": "réd / θrôut / stâmak"},
+        {"en": "back / chest / tooth (teeth)", "pt": "costas / peito / dente (dentes)", "say": "bék / tchést / túθ (tíθ)"},
+        {"en": "headache / stomachache", "pt": "dor de cabeça / dor de estômago", "say": "rédêik / stâmakêik"},
+        {"en": "sore throat", "pt": "dor de garganta", "say": "sór θrôut"},
+        {"en": "a cold / the flu", "pt": "resfriado / gripe", "say": "a kôuld / dâ flú"},
+        {"en": "fever", "pt": "febre", "say": "fíver"},
+        {"en": "cough / to cough", "pt": "tosse / tossir", "say": "kóf"},
+        {"en": "allergy / allergic (to)", "pt": "alergia / alérgico (a)", "say": "élerdji / alârdjik"},
+        {"en": "dizzy", "pt": "tonto", "say": "dízi"},
+        {"en": "medicine / pills", "pt": "remédio / comprimidos", "say": "médsin / pílz"},
+        {"en": "prescription", "pt": "receita médica", "say": "priskrípshon"},
+        {"en": "to rest / to get better", "pt": "descansar / melhorar", "say": "tu rést / tu guét bérer"}
+      ],
+      "chunks": [
+        {"en": "I don't feel well.", "pt": "Não estou me sentindo bem."},
+        {"en": "I have a headache.", "pt": "Estou com dor de cabeça."},
+        {"en": "My back hurts.", "pt": "Minhas costas doem."},
+        {"en": "I'm allergic to penicillin.", "pt": "Sou alérgico a penicilina."},
+        {"en": "You should see a doctor.", "pt": "Você deveria ir ao médico."},
+        {"en": "Get well soon!", "pt": "Melhoras!"}
+      ],
+      "grammar": {
+        "title": "Should / shouldn't + have / hurt",
+        "explanation_pt": "**Should** = deveria (conselho, recomendação). É um modal como can e will: **should + verbo base**, igual para todas as pessoas.\n- You **should** drink more water.\n- You **shouldn't** (should not) take antibiotics without a prescription.\n- **Should** I go to the hospital? / What **should** I do?\n\nPara dizer o que você sente, há três estruturas principais:\n1. **I have a/an** + sintoma: I have **a** headache / **a** fever / **a** cold / **the** flu\n2. **My** + parte do corpo + **hurts / hurt**: My back **hurts**. My feet **hurt**.\n3. **I feel** / **I'm** + adjetivo: I feel dizzy. I'm sick.\n\nAtenção: **-ache** (dor) se junta a algumas partes: headache, stomachache, toothache, backache, earache. Para garganta: **sore throat**.",
+        "table": {
+          "headers": ["Estrutura", "Exemplo", "Português"],
+          "rows": [["have + a + sintoma", "I have a fever.", "Estou com febre."], ["parte do corpo + hurts", "My knee hurts.", "Meu joelho dói."], ["feel + adjetivo", "I feel sick.", "Estou enjoado / mal."], ["should + verbo", "You should rest.", "Você deveria descansar."], ["shouldn't + verbo", "You shouldn't go to work.", "Você não deveria ir trabalhar."]]
+        },
+        "examples": [
+          {"en": "I have a sore throat and a cough. What should I take?", "pt": "Estou com dor de garganta e tosse. O que devo tomar?"},
+          {"en": "You should rest and drink hot tea with honey.", "pt": "Você deveria descansar e tomar chá quente com mel."},
+          {"en": "You shouldn't drive if you feel dizzy.", "pt": "Você não deveria dirigir se estiver tonto."}
+        ],
+        "tip_pt": "**Sick** nos EUA = doente (\"I'm sick\"). No Reino Unido, **sick** também significa \"enjoado, com vontade de vomitar\" (\"I feel sick\"). Para \"doente\" os britânicos preferem **ill**."
+      },
+      "common_mistakes": [
+        {"wrong": "I have pain of head.", "right": "I have a headache.", "why_pt": "Dor de cabeça = headache."},
+        {"wrong": "You should to rest.", "right": "You should rest.", "why_pt": "Should + verbo base, sem to."},
+        {"wrong": "I'm with fever.", "right": "I have a fever.", "why_pt": "\"Estar com\" sintoma = have."}
+      ],
+      "pronunciation": {
+        "focus": "-ache e should",
+        "tip_pt": "**Ache** = \"êik\" (o CH soa como K!): headache = \"rédêik\", stomachache = \"stâmakêik\". **Should** tem L mudo: \"shúd\"; **shouldn't** = \"shúdent\".",
+        "practice": ["headache · stomachache · toothache", "You should rest.", "You shouldn't go out."]
+      },
+      "dialogue": {
+        "title": "At the pharmacy",
+        "context_pt": "Um turista brasileiro vai a uma farmácia em Nova York.",
+        "lines": [
+          {"speaker": "Pharmacist", "en": "Hi there. How can I help you?", "pt": "Olá. Como posso ajudar?"},
+          {"speaker": "Rodrigo", "en": "Hi. I don't feel well. I have a sore throat and a bad cough.", "pt": "Oi. Não estou me sentindo bem. Estou com dor de garganta e uma tosse forte."},
+          {"speaker": "Pharmacist", "en": "I'm sorry. Do you have a fever?", "pt": "Sinto muito. Você está com febre?"},
+          {"speaker": "Rodrigo", "en": "A little, I think. And my head hurts.", "pt": "Um pouco, acho. E minha cabeça dói."},
+          {"speaker": "Pharmacist", "en": "It sounds like a cold. Are you allergic to any medicine?", "pt": "Parece um resfriado. Você é alérgico a algum remédio?"},
+          {"speaker": "Rodrigo", "en": "No, I'm not.", "pt": "Não."},
+          {"speaker": "Pharmacist", "en": "OK. Take these pills every six hours. You should rest and drink lots of water. If you don't feel better in three days, you should see a doctor.", "pt": "OK. Tome esses comprimidos a cada seis horas. Você deveria descansar e beber muita água. Se não melhorar em três dias, deveria ir ao médico."},
+          {"speaker": "Rodrigo", "en": "Thank you so much.", "pt": "Muito obrigado."},
+          {"speaker": "Pharmacist", "en": "You're welcome. Get well soon!", "pt": "De nada. Melhoras!"}
+        ]
+      },
+      "listening": {
+        "title": "Advice podcast: better sleep",
+        "context_pt": "Uma médica dá conselhos sobre sono em um podcast de saúde.",
+        "lines": [
+          {"speaker": "Doctor", "en": "Many of my patients say: \"I'm always tired, and I often have headaches.\" Usually, the problem is sleep. Adults should sleep seven to nine hours a night. You should go to bed at the same time every day, even on weekends. You shouldn't drink coffee after four p.m., and you shouldn't use your phone in bed — the blue light keeps your brain awake. And if you can't sleep after twenty minutes, you should get up and read a book."}
+        ],
+        "questions": [
+          {"q": "How many hours should adults sleep?", "answer": "Seven to nine hours a night."},
+          {"q": "When shouldn't you drink coffee?", "answer": "After 4 p.m."},
+          {"q": "Why shouldn't you use your phone in bed?", "answer": "The blue light keeps your brain awake."},
+          {"q": "What should you do if you can't sleep after 20 minutes?", "answer": "Get up and read a book."}
+        ]
+      },
+      "reading": {
+        "title": "Medicine label",
+        "text": "COLDAWAY — Cold & Flu Relief. Directions: Adults and children over 12: take 2 tablets every 6 hours. Do not take more than 8 tablets in 24 hours. Take with food. Warnings: Do not drive or use machines — may cause drowsiness. Do not drink alcohol. Ask a doctor before use if you are pregnant. Stop use and see a doctor if symptoms last more than 7 days or if you have a high fever.",
+        "questions": [
+          {"q": "How many tablets should adults take, and how often?", "answer": "Two tablets every six hours."},
+          {"q": "What's the maximum in 24 hours?", "answer": "Eight tablets."},
+          {"q": "Why shouldn't you drive?", "answer": "It may cause drowsiness."},
+          {"q": "When should you see a doctor?", "answer": "If symptoms last more than 7 days or if you have a high fever."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "match", "title": "Symptoms", "instruction": "Write the English expression.", "instruction_pt": "Escreva a expressão em inglês.",
+         "items": [{"prompt": "Estou com dor de cabeça.", "answer": "I have a headache."}, {"prompt": "Estou com dor de garganta.", "answer": "I have a sore throat."}, {"prompt": "Minhas costas doem.", "answer": "My back hurts."}, {"prompt": "Estou com febre.", "answer": "I have a fever."}, {"prompt": "Estou tonto.", "answer": "I feel dizzy. / I'm dizzy."}]},
+        {"id": "ex2", "type": "match", "title": "Give advice", "instruction": "Give advice with should or shouldn't.", "instruction_pt": "Dê um conselho com should ou shouldn't.",
+         "items": [{"prompt": "I have a toothache.", "answer": "You should see a dentist."}, {"prompt": "I'm always tired.", "answer": "You should sleep more. / You shouldn't stay up late."}, {"prompt": "I have a stomachache.", "answer": "You shouldn't eat heavy food. / You should drink tea."}, {"prompt": "I have the flu.", "answer": "You should rest. / You shouldn't go to work."}]},
+        {"id": "ex3", "type": "multiple_choice", "title": "Choose the correct option", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+         "items": [{"prompt": "I ___ a cold.", "options": ["am", "have", "feel"], "answer": "have"}, {"prompt": "My feet ___.", "options": ["hurt", "hurts", "are hurt"], "answer": "hurt"}, {"prompt": "You ___ take this medicine with food.", "options": ["should", "should to", "shoulds"], "answer": "should"}, {"prompt": "What ___ I do?", "options": ["should", "do should", "am should"], "answer": "should"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "I don't feel well."}, {"prompt": "2", "answer": "I have a sore throat."}, {"prompt": "3", "answer": "You should see a doctor."}, {"prompt": "4", "answer": "I'm allergic to penicillin."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "I have pain in the head.", "answer": "I have a headache."}, {"prompt": "You should to drink water.", "answer": "You should drink water."}, {"prompt": "I'm with a cough.", "answer": "I have a cough."}, {"prompt": "My stomach hurt.", "answer": "My stomach hurts."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "At the doctor's", "instruction": "Complete with: feel · hurts · should · fever · prescription.", "instruction_pt": "Complete a consulta.",
+         "items": [{"prompt": "Doctor: How do you ___?", "answer": "feel"}, {"prompt": "Patient: Terrible. I have a high ___ and my ear ___.", "answer": "fever / hurts"}, {"prompt": "Doctor: It's an ear infection. Here's a ___ for antibiotics.", "answer": "prescription"}, {"prompt": "Doctor: You ___ stay home for two days.", "answer": "should"}]}
+      ],
+      "speaking": {
+        "instruction": "Role-play: patient and pharmacist (or doctor). The patient describes 2–3 symptoms; the pharmacist asks questions and gives advice.",
+        "instruction_pt": "Role-play: paciente e farmacêutico (ou médico). O paciente descreve 2–3 sintomas; o farmacêutico faz perguntas e dá conselhos.",
+        "questions": ["What do you do when you have a cold?", "What should people do to sleep better?", "What's your best advice for stress?", "Are you allergic to anything?", "What's a home remedy from your family?"]
+      },
+      "writing": {
+        "task": "Write a message to your boss or teacher explaining you are sick and can't come today (40–60 words).",
+        "task_pt": "Escreva uma mensagem para seu chefe ou professor explicando que está doente e não pode ir hoje (40–60 palavras).",
+        "model": "Hi Mark,\nI'm sorry, but I can't come to work today. I have the flu — I have a high fever and a terrible headache. The doctor says I should rest for two days. I'll check my emails if I can. I'll send you an update tomorrow.\nThanks for understanding,\nJu"
+      },
+      "culture_note": {
+        "title": "Sick day e farmácias",
+        "text_pt": "Nos EUA, muitas farmácias (**drugstores**) vendem de tudo: comida, maquiagem, presentes. Remédios simples ficam nas prateleiras (**over-the-counter**), mas antibióticos precisam de receita. E um **sick day** é o dia de folga remunerado por doença — muitos empregos dão um número limitado por ano."
+      },
+      "summary_pt": ["I have a headache / a fever / a cold / the flu.", "My back hurts · I feel dizzy.", "should / shouldn't + verbo base.", "Get well soon! = Melhoras!"]
+    },
+    {
+      "id": "A2-M6-L3",
+      "title": "Some, any, a lot of",
+      "subtitle_pt": "Contáveis, incontáveis e quantificadores",
+      "duration_min": 55,
+      "source_refs": ["To Go A1 – Lesson 16 (how many, how much, quantifiers)", "StartUp 1 – Unit 7 (count/non-count nouns, some/any)"],
+      "objectives": ["Diferenciar substantivos contáveis e incontáveis", "Usar some e any em afirmativas, negativas e perguntas", "Usar much, many, a lot of, a few, a little", "Fazer uma lista de compras e seguir uma receita"],
+      "warmup": {
+        "text_pt": "O que tem na sua geladeira agora? Você faz lista de compras ou compra no improviso?",
+        "questions": ["What's in your fridge right now?", "Do you cook with recipes?"]
+      },
+      "vocabulary": [
+        {"en": "flour / sugar / salt", "pt": "farinha / açúcar / sal", "say": "fláuer / shúgar / sólt"},
+        {"en": "rice / pasta / bread", "pt": "arroz / macarrão / pão", "say": "ráis / pásta / bréd"},
+        {"en": "butter / oil", "pt": "manteiga / óleo", "say": "bârer / óil"},
+        {"en": "tomatoes / onions / potatoes", "pt": "tomates / cebolas / batatas", "say": "tomêitouz / ânionz / potêitouz"},
+        {"en": "a bottle of / a can of", "pt": "uma garrafa de / uma lata de", "say": "a bárol ov / a kén ov"},
+        {"en": "a loaf of bread", "pt": "um pão (de forma, inteiro)", "say": "a lôuf ov bréd"},
+        {"en": "a carton of milk / eggs", "pt": "uma caixa de leite / ovos", "say": "a kárton ov"},
+        {"en": "a slice of / a piece of", "pt": "uma fatia de / um pedaço de", "say": "a sláis ov / a pís ov"},
+        {"en": "grocery list", "pt": "lista de compras", "say": "grôuseri list"},
+        {"en": "recipe / ingredients", "pt": "receita / ingredientes", "say": "résipi / ingrídients"},
+        {"en": "to chop / to mix / to bake", "pt": "picar / misturar / assar", "say": "tu tchóp / tu miks / tu bêik"},
+        {"en": "advice / information / news", "pt": "conselho(s) / informação / notícia(s)", "say": "edváis / informêishon / niúz"}
+      ],
+      "chunks": [
+        {"en": "Do we have any milk?", "pt": "Temos leite?"},
+        {"en": "There's some cheese in the fridge.", "pt": "Tem um pouco de queijo na geladeira."},
+        {"en": "We don't have any eggs.", "pt": "Não temos ovos."},
+        {"en": "How much sugar do we need?", "pt": "Quanto açúcar precisamos?"},
+        {"en": "Just a little, please.", "pt": "Só um pouquinho, por favor."},
+        {"en": "I have a lot of work today.", "pt": "Tenho muito trabalho hoje."}
+      ],
+      "grammar": {
+        "title": "Countable / uncountable + quantifiers",
+        "explanation_pt": "**Contáveis** (countable): dá para contar — têm plural. an egg → two eggs, a tomato → tomatoes.\n**Incontáveis** (uncountable): não têm plural e não usam a/an. **water, milk, rice, sugar, money, time, information, advice, news, work, bread**.\n\nPara contar incontáveis, use uma **unidade**: a **bottle of** water, a **slice of** bread, a **piece of** advice.\n\n**Some x any:**\n- **some** → afirmativas (e ofertas/pedidos): There's **some** milk. / Would you like **some** coffee?\n- **any** → negativas e perguntas: We don't have **any** eggs. / Do we have **any** butter?\n\n**Quantidades:**\n- **many** + contável (perguntas/negativas): How **many** eggs? / not **many** people\n- **much** + incontável (perguntas/negativas): How **much** money? / not **much** time\n- **a lot of** + os dois (principalmente afirmativas): **a lot of** friends / **a lot of** work\n- **a few** + contável (alguns, poucos): **a few** tomatoes\n- **a little** + incontável (um pouco): **a little** salt",
+        "table": {
+          "headers": ["", "Contável (eggs)", "Incontável (milk)"],
+          "rows": [["Afirmativa", "some eggs / a lot of eggs / a few eggs", "some milk / a lot of milk / a little milk"], ["Negativa", "not any eggs / not many eggs", "not any milk / not much milk"], ["Pergunta", "any eggs? / How many eggs?", "any milk? / How much milk?"]]
+        },
+        "examples": [
+          {"en": "We need some tomatoes, a few onions and a little olive oil.", "pt": "Precisamos de alguns tomates, umas cebolas e um pouco de azeite."},
+          {"en": "There isn't much time. How many guests are coming?", "pt": "Não tem muito tempo. Quantos convidados vêm?"},
+          {"en": "Can I give you a piece of advice?", "pt": "Posso te dar um conselho?"}
+        ],
+        "tip_pt": "**Advice, information, news** e **furniture** são incontáveis em inglês, mas contáveis em português! \"Many informations\" ❌ → \"**a lot of information**\" ✅. \"An advice\" ❌ → \"**a piece of advice**\" / \"**some advice**\" ✅."
+      },
+      "common_mistakes": [
+        {"wrong": "I need an advice.", "right": "I need some advice. / I need a piece of advice.", "why_pt": "Advice é incontável."},
+        {"wrong": "How many money do you have?", "right": "How much money do you have?", "why_pt": "Money é incontável: much."},
+        {"wrong": "I don't have some time.", "right": "I don't have any time.", "why_pt": "Negativas usam any."}
+      ],
+      "pronunciation": {
+        "focus": "Some e of fracos",
+        "tip_pt": "Em frases, **some** é fraco (\"sâm\" → \"sm\") e **of** vira \"âv\" ou até só \"â\": \"a bottle of water\" = \"a bárol â uórer\", \"a lot of\" = \"a lórâv\" ou \"a lóra\".",
+        "practice": ["some milk · some bread", "a bottle of water", "a lot of people"]
+      },
+      "dialogue": {
+        "title": "Making a grocery list",
+        "context_pt": "Um casal faz a lista de compras para um jantar com amigos.",
+        "lines": [
+          {"speaker": "Ju", "en": "OK, we're making lasagna on Saturday. What do we need?", "pt": "OK, vamos fazer lasanha no sábado. Do que precisamos?"},
+          {"speaker": "Pedro", "en": "Let me check... We have some pasta, but we don't have any cheese.", "pt": "Deixa eu ver... Temos macarrão, mas não temos queijo."},
+          {"speaker": "Ju", "en": "How much cheese do we need?", "pt": "Quanto queijo precisamos?"},
+          {"speaker": "Pedro", "en": "A lot! Eight people are coming. And we need a few tomatoes and some onions.", "pt": "Muito! Vêm oito pessoas. E precisamos de alguns tomates e cebolas."},
+          {"speaker": "Ju", "en": "Do we have any olive oil?", "pt": "Temos azeite?"},
+          {"speaker": "Pedro", "en": "Just a little. Let's buy a bottle. And how many bottles of wine?", "pt": "Só um pouquinho. Vamos comprar uma garrafa. E quantas garrafas de vinho?"},
+          {"speaker": "Ju", "en": "Not many. Three is enough. People don't drink much on Saturdays... I hope!", "pt": "Não muitas. Três é suficiente. As pessoas não bebem muito no sábado... espero!"}
+        ]
+      },
+      "listening": {
+        "title": "Cooking video: easy pancakes",
+        "context_pt": "Um cozinheiro ensina panquecas americanas em um vídeo curto.",
+        "lines": [
+          {"speaker": "Chef", "en": "Hi, everyone! Today: easy pancakes. You don't need many ingredients. You need one cup of flour, a little sugar, a pinch of salt, two eggs and one cup of milk. Mix everything in a bowl. Don't mix too much — a few small lumps are OK. Put a little butter in a hot pan and cook each pancake for about one minute on each side. Serve with some fruit and a lot of maple syrup. Delicious!"}
+        ],
+        "questions": [
+          {"q": "How much flour do you need?", "answer": "One cup."},
+          {"q": "How many eggs?", "answer": "Two."},
+          {"q": "What do you put in the pan?", "answer": "A little butter."},
+          {"q": "What do you serve the pancakes with?", "answer": "Some fruit and a lot of maple syrup."}
+        ]
+      },
+      "reading": {
+        "title": "Zero-waste kitchen",
+        "text": "Brazil wastes a lot of food — millions of tons a year. Here are a few tips to waste less. First, make a grocery list and check what you already have. Don't buy too much bread: you can freeze some slices for later. Use old bananas in cakes or smoothies. Keep vegetables in the fridge, not in a bag. And don't throw away leftovers: a little rice and a few vegetables can become a delicious fried rice! Small changes save a lot of money, too.",
+        "questions": [
+          {"q": "What's the first tip?", "answer": "Make a grocery list and check what you already have."},
+          {"q": "What can you do with extra bread?", "answer": "Freeze some slices for later."},
+          {"q": "What can you make with old bananas?", "answer": "Cakes or smoothies."},
+          {"q": "What can leftover rice become?", "answer": "Fried rice."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "match", "title": "Countable or uncountable?", "instruction": "Write C (countable) or U (uncountable).", "instruction_pt": "Escreva C (contável) ou U (incontável).",
+         "items": [{"prompt": "egg", "answer": "C"}, {"prompt": "rice", "answer": "U"}, {"prompt": "advice", "answer": "U"}, {"prompt": "tomato", "answer": "C"}, {"prompt": "information", "answer": "U"}, {"prompt": "money", "answer": "U"}]},
+        {"id": "ex2", "type": "fill_blank", "title": "some or any?", "instruction": "Complete with some or any.", "instruction_pt": "Complete com some ou any.",
+         "items": [{"prompt": "There's ___ juice in the fridge.", "answer": "some"}, {"prompt": "We don't have ___ bread.", "answer": "any"}, {"prompt": "Are there ___ apples?", "answer": "any"}, {"prompt": "Would you like ___ coffee?", "answer": "some"}, {"prompt": "I need ___ help, please.", "answer": "some"}]},
+        {"id": "ex3", "type": "multiple_choice", "title": "Quantifiers", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+         "items": [{"prompt": "How ___ eggs do we need?", "options": ["much", "many"], "answer": "many"}, {"prompt": "There isn't ___ time.", "options": ["much", "many"], "answer": "much"}, {"prompt": "Add ___ salt.", "options": ["a few", "a little"], "answer": "a little"}, {"prompt": "I have ___ friends in Canada.", "options": ["a few", "a little"], "answer": "a few"}, {"prompt": "She has ___ work this week.", "options": ["a lot of", "many"], "answer": "a lot of"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "Do we have any milk?"}, {"prompt": "2", "answer": "We need a few tomatoes."}, {"prompt": "3", "answer": "How much sugar do we need?"}, {"prompt": "4", "answer": "Can I give you a piece of advice?"}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "Can you give me an information?", "answer": "Can you give me some information?"}, {"prompt": "How many water do you drink?", "answer": "How much water do you drink?"}, {"prompt": "We don't have some eggs.", "answer": "We don't have any eggs."}, {"prompt": "I bought two breads.", "answer": "I bought two loaves of bread."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the recipe", "instruction": "Complete with: some · a little · a few · much · many.", "instruction_pt": "Complete a receita.",
+         "items": [{"prompt": "Guacamole: you don't need ___ ingredients.", "answer": "many"}, {"prompt": "Mash two avocados and add ___ lime juice.", "answer": "a little"}, {"prompt": "Chop ___ tomatoes and ___ onion.", "answer": "a few / some"}, {"prompt": "Don't add too ___ salt!", "answer": "much"}]}
+      ],
+      "speaking": {
+        "instruction": "Describe your favorite recipe to a partner: ingredients (with quantities) and steps. Your partner asks How much / How many questions.",
+        "instruction_pt": "Descreva sua receita favorita para um colega: ingredientes (com quantidades) e passos. O colega faz perguntas com How much / How many.",
+        "questions": ["What's in your fridge right now?", "How much water do you drink a day?", "How many cups of coffee do you drink?", "What's your favorite recipe? What do you need?", "Do you waste a lot of food? What can you do?"]
+      },
+      "writing": {
+        "task": "Write a recipe in English (60–100 words) for a typical Brazilian dish: ingredients with quantities and simple steps.",
+        "task_pt": "Escreva uma receita em inglês (60–100 palavras) de um prato típico brasileiro: ingredientes com quantidades e passos simples.",
+        "model": "Brigadeiro 🍫\nIngredients: 1 can of condensed milk, 2 tablespoons of cocoa powder, 1 tablespoon of butter, some chocolate sprinkles.\nSteps: Put the condensed milk, the cocoa and the butter in a pan. Cook on low heat and mix all the time for about 10 minutes. Let it cool. Make small balls with a little butter on your hands. Roll them in the sprinkles. Don't eat too many!"
+      },
+      "culture_note": {
+        "title": "Cups e ounces",
+        "text_pt": "Receitas americanas usam **cups** (xícaras), **tablespoons** (colheres de sopa), **teaspoons** (colheres de chá), **ounces** (onças, ~28 g) e **°F** (Fahrenheit: 350°F ≈ 180°C). Receitas britânicas usam gramas e °C, como no Brasil."
+      },
+      "summary_pt": ["Incontáveis: sem plural e sem a/an (water, advice, information).", "some (afirmativa/oferta) · any (negativa/pergunta).", "many + contável · much + incontável · a lot of + ambos.", "a few + contável · a little + incontável."]
+    },
+    {
+      "id": "A2-M6-L4",
+      "title": "There's a problem with my order",
+      "subtitle_pt": "Reclamações educadas e revisão geral do A2",
+      "duration_min": 60,
+      "source_refs": ["StartUp 1 – Unit 9 (Is everything OK? ask about a problem)", "To Go A2 – general review"],
+      "objectives": ["Fazer uma reclamação educada em restaurante, hotel ou loja", "Explicar o problema e pedir uma solução", "Combinar os tempos verbais do A2 numa situação real", "Encerrar a conversa de forma positiva"],
+      "warmup": {
+        "text_pt": "Você costuma reclamar quando algo dá errado num restaurante ou loja? Ou prefere ficar quieto e não voltar mais?",
+        "questions": ["When was the last time you complained about something?", "Is it easy for you to complain politely?"]
+      },
+      "vocabulary": [
+        {"en": "to complain / a complaint", "pt": "reclamar / reclamação", "say": "tu komplêin / a komplêint"},
+        {"en": "the manager", "pt": "o gerente", "say": "dâ ménedjer"},
+        {"en": "cold / undercooked / overcooked", "pt": "frio / cru (malpassado) / passado demais", "say": "kôuld / ânderkúkt / ôuverkúkt"},
+        {"en": "noisy / dirty", "pt": "barulhento / sujo", "say": "nóizi / dârti"},
+        {"en": "to be overcharged", "pt": "ser cobrado a mais", "say": "tu bí ôuvertchárdjd"},
+        {"en": "to fix / to solve", "pt": "consertar / resolver", "say": "tu fiks / tu sólv"},
+        {"en": "to apologize", "pt": "pedir desculpas", "say": "tu apólodjaiz"},
+        {"en": "a discount / a voucher", "pt": "um desconto / um vale", "say": "a dískaunt / a váutcher"},
+        {"en": "to replace", "pt": "trocar, substituir", "say": "tu riplêis"},
+        {"en": "it's not working", "pt": "não está funcionando", "say": "its nót uórkin"},
+        {"en": "unacceptable", "pt": "inaceitável", "say": "ânakséptabol"},
+        {"en": "I appreciate it", "pt": "eu agradeço", "say": "ái apríshieit it"}
+      ],
+      "chunks": [
+        {"en": "Excuse me, I'm afraid there's a problem.", "pt": "Com licença, infelizmente há um problema."},
+        {"en": "I ordered the fish, but this is chicken.", "pt": "Pedi o peixe, mas isto é frango."},
+        {"en": "The air conditioning isn't working.", "pt": "O ar-condicionado não está funcionando."},
+        {"en": "I think there's a mistake on the bill.", "pt": "Acho que há um erro na conta."},
+        {"en": "Could you change it, please?", "pt": "Poderia trocar, por favor?"},
+        {"en": "Thanks for sorting it out.", "pt": "Obrigado por resolver."}
+      ],
+      "grammar": {
+        "title": "A estrutura de uma reclamação educada",
+        "explanation_pt": "Reclamar bem em inglês é uma **habilidade social**. O segredo é ser **claro e educado** ao mesmo tempo — e usar tudo o que você aprendeu no A2:\n\n**1. Chame a atenção com educação:** \"Excuse me...\" / \"Sorry to bother you, but...\"\n**2. Suavize:** \"**I'm afraid** there's a problem with...\" / \"**I think** there's a mistake...\"\n**3. Explique** (simple past + present continuous / present):\n\"I **ordered** the steak medium, but it**'s** very undercooked.\" / \"The AC **isn't working** and the room **is too** hot.\"\n**4. Peça uma solução** (could / would):\n\"**Could you** bring me another one?\" / \"**Would it be possible to** change rooms?\"\n**5. Feche bem:** \"Thank you, I appreciate it.\" / \"Thanks for sorting it out.\"\n\n**Evite:** \"This is horrible!\" / \"I want my money back now!\" — soa agressivo e geralmente resolve menos.",
+        "table": {
+          "headers": ["Passo", "Frase modelo"],
+          "rows": [["1. Atenção", "Excuse me, sorry to bother you..."], ["2. Suavizar", "I'm afraid there's a problem with my room."], ["3. Explicar", "I asked for a quiet room, but it's next to the elevator."], ["4. Solução", "Could I change to another room, please?"], ["5. Fechar", "Thank you so much, I appreciate it."]]
+        },
+        "examples": [
+          {"en": "Excuse me, I'm afraid my soup is cold. Could you heat it up, please?", "pt": "Com licença, infelizmente minha sopa está fria. Poderia esquentar, por favor?"},
+          {"en": "I think there's a mistake on the bill. We didn't order any dessert.", "pt": "Acho que há um erro na conta. Não pedimos sobremesa."},
+          {"en": "The shower isn't working. Would it be possible to send someone?", "pt": "O chuveiro não está funcionando. Seria possível mandar alguém?"}
+        ],
+        "tip_pt": "Respostas comuns do atendente: **\"I'm so sorry about that.\"** / **\"I'll fix that right away.\"** (will para decisão na hora!) / **\"Let me talk to the manager.\"**"
+      },
+      "common_mistakes": [
+        {"wrong": "I want to make a reclamation.", "right": "I'd like to make a complaint.", "why_pt": "Reclamação = complaint. Reclamation é recuperação (de terras, materiais)."},
+        {"wrong": "The food is cold! Change it!", "right": "I'm afraid the food is cold. Could you change it, please?", "why_pt": "Imperativo direto soa rude com atendentes."},
+        {"wrong": "The AC doesn't work now.", "right": "The AC isn't working.", "why_pt": "Problema temporário/agora = present continuous."}
+      ],
+      "pronunciation": {
+        "focus": "Tom de voz calmo",
+        "tip_pt": "Na reclamação, o **tom** importa tanto quanto as palavras. Fale devagar, com voz calma e entonação que sobe levemente nos pedidos: \"Could you change it, please? ↗\". Sorria — dá para \"ouvir\" o sorriso!",
+        "practice": ["Excuse me, I'm afraid there's a problem.", "Could you change it, please? ↗", "Thank you, I really appreciate it."]
+      },
+      "dialogue": {
+        "title": "At the restaurant",
+        "context_pt": "Um casal tem problemas com o pedido em um restaurante em Lisboa.",
+        "lines": [
+          {"speaker": "Bia", "en": "Excuse me, sorry to bother you. I'm afraid there's a problem with our order.", "pt": "Com licença, desculpe incomodar. Infelizmente há um problema com o nosso pedido."},
+          {"speaker": "Waiter", "en": "Oh, I'm sorry. What's wrong?", "pt": "Ah, desculpe. O que houve?"},
+          {"speaker": "Bia", "en": "I ordered the grilled fish, but this is chicken. And my husband's steak is a bit cold.", "pt": "Pedi o peixe grelhado, mas isto é frango. E o bife do meu marido está um pouco frio."},
+          {"speaker": "Waiter", "en": "I'm so sorry about that. I'll bring the fish right away and I'll ask the chef to heat up the steak.", "pt": "Sinto muito. Vou trazer o peixe agora mesmo e vou pedir ao chef para esquentar o bife."},
+          {"speaker": "Bia", "en": "Thank you. We appreciate it.", "pt": "Obrigada. Agradecemos."},
+          {"speaker": "Waiter", "en": "Here you are. And the desserts are on the house today, to apologize.", "pt": "Aqui está. E as sobremesas são por conta da casa hoje, como pedido de desculpas."},
+          {"speaker": "Bia", "en": "Oh, that's very kind! Thanks for sorting it out so quickly.", "pt": "Ah, que gentil! Obrigada por resolver tão rápido."}
+        ]
+      },
+      "listening": {
+        "title": "Hotel complaint call",
+        "context_pt": "Uma hóspede liga para a recepção do hotel à noite.",
+        "lines": [
+          {"speaker": "Receptionist", "en": "Front desk, good evening. How can I help?"},
+          {"speaker": "Guest", "en": "Hi, this is Room 508. I'm sorry to call so late, but there's a problem. The air conditioning isn't working, and it's really hot. Also, the people next door are having a party. It's very noisy."},
+          {"speaker": "Receptionist", "en": "I'm so sorry. I'll call the room next door right now. Would you like to change rooms? We have a quiet room on the tenth floor."},
+          {"speaker": "Guest", "en": "Yes, please. That would be great."},
+          {"speaker": "Receptionist", "en": "Perfect. Someone will bring you the new key in five minutes. And breakfast is free tomorrow."}
+        ],
+        "questions": [
+          {"q": "What are the two problems?", "answer": "The AC isn't working and the room next door is noisy (a party)."},
+          {"q": "What does the receptionist offer?", "answer": "To change rooms (a quiet room on the 10th floor)."},
+          {"q": "When will someone bring the new key?", "answer": "In five minutes."},
+          {"q": "What is free tomorrow?", "answer": "Breakfast."}
+        ]
+      },
+      "reading": {
+        "title": "How to complain (and get results)",
+        "text": "A customer experience study found that most unhappy customers never complain — they just don't come back. That's bad for businesses, so many companies are happy when you complain politely! Experts give this advice: complain quickly, while the problem is happening. Talk to the right person — the manager, if necessary. Be specific: \"The coffee was cold\" is better than \"Everything was terrible.\" Say what you want: a new dish, a discount, a refund. And stay calm: people help nice customers more.",
+        "questions": [
+          {"q": "What do most unhappy customers do?", "answer": "They never complain — they just don't come back."},
+          {"q": "When should you complain?", "answer": "Quickly, while the problem is happening."},
+          {"q": "Why should you be specific?", "answer": "Because a specific complaint is clearer (e.g., \"The coffee was cold\")."},
+          {"q": "Why should you stay calm?", "answer": "Because people help nice customers more."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "order_words", "title": "Polite complaints", "instruction": "Put the words in order.", "instruction_pt": "Organize as palavras.",
+         "items": [{"prompt": "afraid / there's / I'm / a problem", "answer": "I'm afraid there's a problem."}, {"prompt": "change / could / it / you / please / ?", "answer": "Could you change it, please?"}, {"prompt": "a mistake / think / there's / I / on the bill", "answer": "I think there's a mistake on the bill."}, {"prompt": "isn't / the Wi-Fi / working", "answer": "The Wi-Fi isn't working."}]},
+        {"id": "ex2", "type": "match", "title": "Rude to polite", "instruction": "Rewrite the sentence in a polite way.", "instruction_pt": "Reescreva a frase de forma educada.",
+         "items": [{"prompt": "This soup is cold! Take it back!", "answer": "Excuse me, I'm afraid my soup is cold. Could you heat it up, please?"}, {"prompt": "The bill is wrong.", "answer": "I think there's a mistake on the bill."}, {"prompt": "I want another room. Now.", "answer": "Would it be possible to change rooms, please?"}]},
+        {"id": "ex3", "type": "multiple_choice", "title": "A2 grammar review", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+         "items": [{"prompt": "I ___ the salmon, but this is tuna.", "options": ["order", "ordered", "am ordering"], "answer": "ordered"}, {"prompt": "The shower ___ right now.", "options": ["doesn't work", "isn't working", "didn't work"], "answer": "isn't working"}, {"prompt": "\"The bill is wrong.\" \"I'm sorry, I ___ check it.\"", "options": ["'ll", "'m going to", "am"], "answer": "'ll"}, {"prompt": "The room is ___ noisy. I can't sleep.", "options": ["too", "enough", "very enough"], "answer": "too"}, {"prompt": "We didn't order ___ dessert.", "options": ["some", "any", "many"], "answer": "any"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "Excuse me, I'm afraid there's a problem."}, {"prompt": "2", "answer": "The air conditioning isn't working."}, {"prompt": "3", "answer": "I think there's a mistake on the bill."}, {"prompt": "4", "answer": "Thanks for sorting it out."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "I'd like to make a reclamation.", "answer": "I'd like to make a complaint."}, {"prompt": "I ordered a pizza, but it come cold.", "answer": "I ordered a pizza, but it came cold."}, {"prompt": "The TV doesn't work right now.", "answer": "The TV isn't working."}, {"prompt": "Could you to bring the manager?", "answer": "Could you bring the manager, please?"}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the complaint", "instruction": "Complete with: bother · afraid · ordered · could · appreciate.", "instruction_pt": "Complete a reclamação.",
+         "items": [{"prompt": "Sorry to ___ you.", "answer": "bother"}, {"prompt": "I'm ___ there's a problem with my coffee.", "answer": "afraid"}, {"prompt": "I ___ it with oat milk, but this is regular milk.", "answer": "ordered"}, {"prompt": "___ you make another one, please? Thanks, I ___ it.", "answer": "Could / appreciate"}]}
+      ],
+      "speaking": {
+        "instruction": "Role-play 3 complaints (restaurant, hotel, online store). Use the 5 steps. The other person apologizes and offers a solution.",
+        "instruction_pt": "Role-play de 3 reclamações (restaurante, hotel, loja online). Use os 5 passos. A outra pessoa pede desculpas e oferece uma solução.",
+        "questions": ["Tell me about a time something went wrong at a restaurant.", "Do you complain or stay quiet? Why?", "What's the most common problem in hotels?", "Is customer service better in Brazil or abroad?", "What's the best way to complain?"]
+      },
+      "writing": {
+        "task": "Write a polite complaint review or email (80–100 words) about a real or invented bad experience: what happened, how you felt and what you want.",
+        "task_pt": "Escreva uma avaliação ou e-mail de reclamação educado (80–100 palavras) sobre uma experiência ruim real ou inventada: o que aconteceu, como você se sentiu e o que você quer.",
+        "model": "Subject: Problem with my stay – Room 508\n\nDear Manager,\nI stayed at your hotel from June 3 to 6. I'm afraid there were some problems. On the first night, the air conditioning wasn't working and the room was too hot. The next night, the room next door was very noisy. The staff were friendly and they changed my room, but I didn't sleep well for two nights. Would it be possible to get a small discount on my bill?\nThank you for your attention.\nBest regards,\nTatiana Lopes"
+      },
+      "culture_note": {
+        "title": "\"Can I speak to the manager?\"",
+        "text_pt": "Nos EUA, a frase **\"Can I speak to the manager?\"** virou meme associado a clientes arrogantes (o famoso estereótipo \"Karen\"). Use-a só quando necessário — e com educação. Na maioria das vezes, o próprio atendente consegue resolver se você for gentil."
+      },
+      "summary_pt": ["Excuse me → I'm afraid... → explicação → Could you...? → Thank you.", "complaint (não reclamation).", "Problema agora = present continuous (isn't working).", "Calma e educação resolvem mais."]
+    }
+  ],
+  "review": {
+    "intro_pt": "Revisão final do Nível A2! Faça os exercícios e o projeto final antes de seguir para o B1.",
+    "exercises": [
+      {"id": "r1", "type": "multiple_choice", "title": "Module review", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+       "items": [{"prompt": "___ you call a taxi for me, please?", "options": ["Could", "May", "Should"], "answer": "Could"}, {"prompt": "You ___ see a doctor.", "options": ["should", "should to", "shoulds"], "answer": "should"}, {"prompt": "We don't have ___ milk.", "options": ["some", "any", "many"], "answer": "any"}, {"prompt": "How ___ eggs do you need?", "options": ["much", "many"], "answer": "many"}, {"prompt": "I'd like to make a ___.", "options": ["reclamation", "complaint", "complain"], "answer": "complaint"}]},
+      {"id": "r2", "type": "multiple_choice", "title": "A2 general review", "instruction": "Questions from the whole A2 level.", "instruction_pt": "Questões de todo o nível A2.",
+       "items": [{"prompt": "I ___ afraid of heights.", "options": ["have", "am", "do"], "answer": "am"}, {"prompt": "Look! It ___.", "options": ["snows", "is snowing", "snowed"], "answer": "is snowing"}, {"prompt": "I ___ cooking when the phone rang.", "options": ["was", "were", "did"], "answer": "was"}, {"prompt": "This is ___ city in the world!", "options": ["the most beautiful", "the beautifulest", "more beautiful"], "answer": "the most beautiful"}, {"prompt": "We ___ to Peru next month. We booked the flights.", "options": ["'re flying", "fly", "will to fly"], "answer": "'re flying"}, {"prompt": "Whose phone is this? It's ___.", "options": ["my", "mine", "me"], "answer": "mine"}]},
+      {"id": "r3", "type": "translate", "title": "Translate", "instruction": "Translate into English.", "instruction_pt": "Traduza para o inglês.",
+       "items": [{"prompt": "Tenho uma reserva no nome Costa.", "answer": "I have a reservation under the name Costa."}, {"prompt": "Estou com dor de garganta.", "answer": "I have a sore throat."}, {"prompt": "Precisamos de alguns tomates e um pouco de sal.", "answer": "We need a few tomatoes and a little salt."}, {"prompt": "Acho que há um erro na conta.", "answer": "I think there's a mistake on the bill."}]},
+      {"id": "r4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+       "items": [{"prompt": "1", "answer": "May I see your boarding pass?"}, {"prompt": "2", "answer": "You shouldn't drive if you feel dizzy."}, {"prompt": "3", "answer": "The shower isn't working."}]},
+      {"id": "r5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+       "items": [{"prompt": "Could you to help me?", "answer": "Could you help me?"}, {"prompt": "I need an advice.", "answer": "I need some advice. / I need a piece of advice."}, {"prompt": "I have pain of head.", "answer": "I have a headache."}]}
+    ],
+    "speaking_pt": "Apresentação final do A2: fale por 2 a 3 minutos, sem ler. Use as perguntas como roteiro e procure usar todos os tempos verbais do nível.",
+    "speaking_questions": ["How are you these days, and what's different in your life right now?", "Tell me a story about a trip or a funny moment (past simple and continuous).", "Compare your city with another place you know.", "What are your plans for the next year? What do you think will happen?", "Tell me about a problem you had (hotel, restaurant, health) and how you solved it."],
+    "project_pt": "**Projeto final A2 — \"My trip\":** grave um vídeo de 3 a 4 minutos simulando uma viagem completa em inglês: check-in no aeroporto e no hotel, um pedido em restaurante com uma reclamação educada, uma ida à farmácia e, no final, um relato do que você fez (passado) e do que vai fazer na próxima viagem (futuro). Depois, assista ao seu vídeo \"This is me\" do A1 e compare: quanto você evoluiu? 🚀"
+  }
+}

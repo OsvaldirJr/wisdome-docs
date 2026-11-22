@@ -1,0 +1,534 @@
+{
+  "id": "B1-M2",
+  "level": "B1",
+  "title": "Life So Far",
+  "theme_pt": "Present perfect em profundidade: duração, mudanças, conquistas e carreira",
+  "can_do": ["Falar há quanto tempo algo acontece com for e since", "Falar de tarefas concluídas ou pendentes com already, yet e just", "Escolher entre present perfect e simple past com segurança", "Falar de atividades em andamento até agora com o present perfect continuous", "Descrever minha trajetória profissional em uma entrevista"],
+  "lessons": [
+    {
+      "id": "B1-M2-L1",
+      "title": "I've lived here for 5 years",
+      "subtitle_pt": "Present perfect + for / since + How long...?",
+      "duration_min": 60,
+      "source_refs": ["Book III English – Present Perfect (for/since)", "Top Notch 3A – Unit 2"],
+      "objectives": ["Usar o present perfect para situações que começaram no passado e continuam", "Diferenciar for (período) e since (ponto de partida)", "Perguntar How long have you...?", "Evitar o erro clássico \"I live here since...\""],
+      "warmup": {
+        "text_pt": "Há quanto tempo você mora na sua casa? Estuda inglês? Conhece seu melhor amigo? Em português usamos o presente (\"moro aqui há 5 anos\"), mas em inglês é diferente!",
+        "questions": ["How long have you lived in your city?", "Who's the person you've known the longest?"]
+      },
+      "vocabulary": [
+        {"en": "for (+ period)", "pt": "há, por (+ período)", "say": "fór"},
+        {"en": "since (+ starting point)", "pt": "desde", "say": "sins"},
+        {"en": "How long...?", "pt": "Há quanto tempo...?", "say": "ráu lóng"},
+        {"en": "ages / a long time", "pt": "séculos / muito tempo", "say": "êidjiz / a lóng táim"},
+        {"en": "to move (in / out)", "pt": "mudar-se (para dentro / para fora)", "say": "tu múv in / áut"},
+        {"en": "to settle down", "pt": "estabelecer-se, sossegar", "say": "tu sétol dáun"},
+        {"en": "hometown", "pt": "cidade natal", "say": "rôumtaun"},
+        {"en": "roommate / flatmate", "pt": "colega de casa", "say": "rúmmêit / flétmêit"},
+        {"en": "to be married (to)", "pt": "ser casado (com)", "say": "tu bí mérid"},
+        {"en": "to know (known)", "pt": "conhecer (conhecido)", "say": "tu nôu (nôun)"},
+        {"en": "to have (had)", "pt": "ter (tido)", "say": "tu rév (réd)"},
+        {"en": "neighborhood", "pt": "bairro, vizinhança", "say": "nêiborrud"}
+      ],
+      "chunks": [
+        {"en": "How long have you lived here?", "pt": "Há quanto tempo você mora aqui?"},
+        {"en": "I've lived here for five years.", "pt": "Moro aqui há cinco anos."},
+        {"en": "I've known her since college.", "pt": "Conheço ela desde a faculdade."},
+        {"en": "We've been married since 2015.", "pt": "Somos casados desde 2015."},
+        {"en": "I haven't seen him for ages!", "pt": "Não o vejo há séculos!"},
+        {"en": "It's been a long time!", "pt": "Quanto tempo!"}
+      ],
+      "grammar": {
+        "title": "Present perfect para duração: for / since",
+        "explanation_pt": "Este é o uso do present perfect que mais confunde brasileiros. Em português dizemos:\n\"**Moro** aqui **há** 5 anos\" (presente).\n\nEm inglês, se a situação **começou no passado e continua agora**, usamos o **present perfect**:\n\"I**'ve lived** here **for** 5 years.\" ✅\n\"I live here for 5 years.\" ❌ (erro muito comum!)\n\n**For** + **período** (quanto tempo): for two hours, for three weeks, for ten years, for ages, for a long time.\n**Since** + **ponto de partida** (desde quando): since 2019, since Monday, since January, since I was a child, since 8 a.m.\n\n**Pergunta:** **How long have you** + particípio? → \"How long have you worked here?\"\n\n**Negativa com for/since:** \"I **haven't seen** her **for** months.\" / \"We **haven't talked since** the party.\"\n\n**Stative verbs** (know, be, have, like) usam present perfect simples: \"I've **known** him for years.\" / \"She's **been** a teacher since 2010.\"",
+        "table": {
+          "headers": ["for + período", "since + ponto de partida"],
+          "rows": [["for ten minutes", "since 9 o'clock"], ["for three days", "since Monday"], ["for six months", "since January"], ["for five years", "since 2021"], ["for a long time", "since I was a kid"]]
+        },
+        "examples": [
+          {"en": "How long have you had your car? — I've had it for three years.", "pt": "Há quanto tempo você tem seu carro? — Tenho há três anos."},
+          {"en": "She's been my best friend since we were six.", "pt": "Ela é minha melhor amiga desde que tínhamos seis anos."},
+          {"en": "I haven't been to the beach for ages!", "pt": "Não vou à praia há séculos!"}
+        ],
+        "tip_pt": "Compare: \"I **lived** in Rio **for** 5 years\" (simple past = já não moro mais lá) x \"I**'ve lived** in Rio **for** 5 years\" (present perfect = ainda moro). Uma palavra muda toda a história!"
+      },
+      "common_mistakes": [
+        {"wrong": "I live here since 2018.", "right": "I've lived here since 2018.", "why_pt": "Situação que começou no passado e continua = present perfect."},
+        {"wrong": "I've worked here since three years.", "right": "I've worked here for three years.", "why_pt": "Período = for; ponto de partida = since."},
+        {"wrong": "How long do you know her?", "right": "How long have you known her?", "why_pt": "Há quanto tempo = How long have you + particípio."}
+      ],
+      "pronunciation": {
+        "focus": "For e since fracos e o 've",
+        "tip_pt": "**For** é fraco: \"fâr\" (\"I've lived here fâr five years\"). Não esqueça o **'ve**: \"I've lived\" (\"áivlivd\") — sem ele, a frase vira presente (\"I lived\" / \"I live\") e muda o sentido.",
+        "practice": ["I've lived here for five years.", "We've known each other since 2010.", "How long have you worked there?"]
+      },
+      "dialogue": {
+        "title": "Running into an old friend",
+        "context_pt": "Duas amigas de escola se encontram por acaso no aeroporto depois de muitos anos.",
+        "lines": [
+          {"speaker": "Paula", "en": "Camila? Oh my God, it's been a long time! I haven't seen you since high school!", "pt": "Camila? Meu Deus, quanto tempo! Não te vejo desde o ensino médio!"},
+          {"speaker": "Camila", "en": "Paula! That's almost fifteen years! Where are you living now?", "pt": "Paula! Isso é quase quinze anos! Onde você está morando agora?"},
+          {"speaker": "Paula", "en": "In Lisbon. I've lived there for six years. And you? Are you still in Campinas?", "pt": "Em Lisboa. Moro lá há seis anos. E você? Ainda está em Campinas?"},
+          {"speaker": "Camila", "en": "No, I moved to Curitiba in 2017. I've worked at the same hospital since then.", "pt": "Não, me mudei para Curitiba em 2017. Trabalho no mesmo hospital desde então."},
+          {"speaker": "Paula", "en": "Are you still with Marcelo?", "pt": "Você ainda está com o Marcelo?"},
+          {"speaker": "Camila", "en": "Yes! We've been married for nine years. We have two kids now. How long have you been in Brazil?", "pt": "Sim! Somos casados há nove anos. Temos dois filhos agora. Há quanto tempo você está no Brasil?"},
+          {"speaker": "Paula", "en": "Just for a week. I'm flying back today. Give me your number — we can't wait another fifteen years!", "pt": "Só uma semana. Volto hoje. Me passa seu número — não podemos esperar mais quinze anos!"}
+        ]
+      },
+      "listening": {
+        "title": "Neighborhood stories",
+        "context_pt": "Moradores antigos de um bairro falam para um documentário.",
+        "lines": [
+          {"speaker": "Dona Célia", "en": "I've lived on this street since 1968. I've seen everything change. When I arrived, there were no buildings, only houses."},
+          {"speaker": "Seu Antônio", "en": "I've had this bakery for forty years. My father opened it, and I've worked here since I was fifteen."},
+          {"speaker": "Juliana", "en": "I've only lived here for two years, but I already feel at home. My neighbors have been so welcoming."},
+          {"speaker": "Narrator", "en": "Three generations, one neighborhood — and the bakery has made the same cheese bread for four decades."}
+        ],
+        "questions": [
+          {"q": "Since when has Dona Célia lived on the street?", "answer": "Since 1968."},
+          {"q": "How long has Seu Antônio had the bakery?", "answer": "For forty years."},
+          {"q": "Since when has he worked there?", "answer": "Since he was fifteen."},
+          {"q": "How long has Juliana lived in the neighborhood?", "answer": "For two years."}
+        ]
+      },
+      "reading": {
+        "title": "The longest-serving...",
+        "text": "Some people stay in the same place for an incredibly long time. In Japan, a hotel called Nishiyama Onsen Keiunkan has welcomed guests since the year 705 — it's been run by the same family for more than fifty generations. In the UK, a man named Bob Tanner delivered newspapers for 70 years in the same town. And in Brazil, many small businesses have passed from parents to children for decades. Why do people stay? Researchers say a sense of belonging is one of the main reasons: when you've known your neighbors for years and your customers since they were children, leaving feels like losing part of your identity. In a world where people change jobs every few years, these stories feel almost magical.",
+        "questions": [
+          {"q": "Since when has the Japanese hotel welcomed guests?", "answer": "Since the year 705."},
+          {"q": "For how many generations has the same family run it?", "answer": "For more than fifty generations."},
+          {"q": "What did Bob Tanner do for 70 years?", "answer": "He delivered newspapers in the same town."},
+          {"q": "What is one of the main reasons people stay?", "answer": "A sense of belonging."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "for or since?", "instruction": "Choose for or since.", "instruction_pt": "Escolha for ou since.",
+         "items": [{"prompt": "___ two weeks", "options": ["for", "since"], "answer": "for"}, {"prompt": "___ last Christmas", "options": ["for", "since"], "answer": "since"}, {"prompt": "___ 2015", "options": ["for", "since"], "answer": "since"}, {"prompt": "___ a long time", "options": ["for", "since"], "answer": "for"}, {"prompt": "___ I was born", "options": ["for", "since"], "answer": "since"}, {"prompt": "___ ten minutes", "options": ["for", "since"], "answer": "for"}]},
+        {"id": "ex2", "type": "fill_blank", "title": "Present perfect + for/since", "instruction": "Complete with the present perfect and for or since.", "instruction_pt": "Complete com o present perfect e for ou since.",
+         "items": [{"prompt": "I ___ (know) Rafa ___ we were kids.", "answer": "'ve known / since"}, {"prompt": "She ___ (work) at Google ___ three years.", "answer": "'s worked / for"}, {"prompt": "We ___ (not / see) them ___ the wedding.", "answer": "haven't seen / since"}, {"prompt": "How long ___ you ___ (have) your dog?", "answer": "have / had"}]},
+        {"id": "ex3", "type": "multiple_choice", "title": "Still true or finished?", "instruction": "Choose the correct sentence for each situation.", "instruction_pt": "Escolha a frase correta para cada situação.",
+         "items": [{"prompt": "Ela ainda mora em Paris (há 3 anos).", "options": ["She lived in Paris for 3 years.", "She's lived in Paris for 3 years."], "answer": "She's lived in Paris for 3 years."}, {"prompt": "Ele trabalhou no banco por 10 anos e se aposentou.", "options": ["He worked at the bank for 10 years.", "He's worked at the bank for 10 years."], "answer": "He worked at the bank for 10 years."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "How long have you lived here?"}, {"prompt": "2", "answer": "I've known her since college."}, {"prompt": "3", "answer": "We've been married for nine years."}, {"prompt": "4", "answer": "I haven't seen him for ages!"}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "I study English since 2022.", "answer": "I've studied / I've been studying English since 2022."}, {"prompt": "She's had her car since two years.", "answer": "She's had her car for two years."}, {"prompt": "How long do you work here?", "answer": "How long have you worked here?"}, {"prompt": "I know him for ten years.", "answer": "I've known him for ten years."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the conversation", "instruction": "Complete with: long · since · for · been · known.", "instruction_pt": "Complete a conversa.",
+         "items": [{"prompt": "A: It's ___ ages! How are you?", "answer": "been"}, {"prompt": "B: Great! How ___ have you lived in this building?", "answer": "long"}, {"prompt": "A: ___ March. Only ___ a few months.", "answer": "Since / for"}, {"prompt": "B: And you've ___ Ana for a long time, right?", "answer": "known"}]}
+      ],
+      "speaking": {
+        "instruction": "Interview a partner with How long have you...? questions. Ask follow-up questions in the simple past (When did you start? Why did you choose...?).",
+        "instruction_pt": "Entreviste um colega com perguntas How long have you...? Faça perguntas de continuação no simple past (When did you start? Why did you choose...?).",
+        "questions": ["How long have you lived in your current home?", "How long have you studied English?", "Who's your oldest friend? How long have you known each other?", "What's something you've had for a very long time?", "What haven't you done for ages but miss?"]
+      },
+      "writing": {
+        "task": "Write a profile of someone you admire who has done the same thing for a long time (100–120 words). Use for, since and How long.",
+        "task_pt": "Escreva o perfil de alguém que você admira e que faz a mesma coisa há muito tempo (100–120 palavras). Use for, since e How long.",
+        "model": "My uncle Zé has been a fisherman for more than forty years. He's lived in the same small village in Bahia since he was born, and he's had the same boat, \"Esperança\", since 1990. He's never wanted to live in a big city. \"I've seen this beach change a lot,\" he says, \"but the sea has always been my office.\" He's taught three generations of kids to fish, including me. He hasn't taken a vacation for years, but he says he doesn't need one. For me, he's the happiest person I've ever known."
+      },
+      "culture_note": {
+        "title": "\"Long time no see!\"",
+        "text_pt": "Ao reencontrar alguém, você vai ouvir **\"Long time no see!\"** (Quanto tempo!) — uma expressão informal e gramaticalmente \"estranha\", mas muito usada. Outras: **\"It's been ages!\"** e **\"Look who it is!\"** (Olha quem está aqui!)."
+      },
+      "summary_pt": ["Começou no passado e continua = present perfect.", "for + período · since + ponto de partida.", "How long have you + particípio?", "I've lived (ainda moro) x I lived (não moro mais)."]
+    },
+    {
+      "id": "B1-M2-L2",
+      "title": "Have you finished yet?",
+      "subtitle_pt": "Already, yet, just e tarefas recentes",
+      "duration_min": 55,
+      "source_refs": ["Book III English – Present Perfect (already/yet/just)", "Top Notch 3A – Unit 2"],
+      "objectives": ["Usar already, yet e just com o present perfect", "Falar sobre tarefas concluídas e pendentes", "Dar notícias recentes", "Atualizar alguém sobre o progresso de um projeto"],
+      "warmup": {
+        "text_pt": "Pense na sua lista de tarefas de hoje. O que você já fez? O que ainda não fez? Acabou de fazer algo?",
+        "questions": ["What have you already done today?", "What haven't you done yet this week?"]
+      },
+      "vocabulary": [
+        {"en": "already", "pt": "já", "say": "olrédi"},
+        {"en": "yet", "pt": "ainda (neg.) / já (perg.)", "say": "iét"},
+        {"en": "just", "pt": "acabou de", "say": "djâst"},
+        {"en": "still", "pt": "ainda", "say": "stil"},
+        {"en": "to-do list", "pt": "lista de tarefas", "say": "tu dú list"},
+        {"en": "deadline", "pt": "prazo", "say": "dédlain"},
+        {"en": "to submit / to send off", "pt": "enviar, entregar", "say": "tu sabmít / tu sénd óf"},
+        {"en": "to sort out", "pt": "resolver, organizar", "say": "tu sórt áut"},
+        {"en": "to get back to (someone)", "pt": "dar retorno a (alguém)", "say": "tu guét bék tu"},
+        {"en": "update", "pt": "atualização", "say": "âpdêit"},
+        {"en": "to be on track / behind schedule", "pt": "estar dentro do prazo / atrasado", "say": "on trék / birráind skédjul"},
+        {"en": "breaking news", "pt": "notícia urgente", "say": "brêikin niúz"}
+      ],
+      "chunks": [
+        {"en": "Have you finished yet?", "pt": "Você já terminou?"},
+        {"en": "I haven't started yet.", "pt": "Ainda não comecei."},
+        {"en": "I've already sent it.", "pt": "Já enviei."},
+        {"en": "She's just left.", "pt": "Ela acabou de sair."},
+        {"en": "I still haven't heard from them.", "pt": "Ainda não tive notícias deles."},
+        {"en": "Guess what? I've just got the job!", "pt": "Adivinha? Acabei de conseguir o emprego!"}
+      ],
+      "grammar": {
+        "title": "Already, yet, just (+ still)",
+        "explanation_pt": "Esses três advérbios são os \"melhores amigos\" do present perfect para falar de ações **recentes** e **tarefas**:\n\n**Already** = já (antes do esperado) → **afirmativas**, entre have e o particípio:\n\"I**'ve already** paid the bill.\"\n\n**Yet** → no **fim da frase**:\n- **negativas** = ainda (não): \"I haven't paid **yet**.\"\n- **perguntas** = já: \"Have you paid **yet**?\"\n\n**Just** = acabou de (muito recente) → entre have e o particípio:\n\"She**'s just** arrived.\" (Ela acabou de chegar.)\n\n**Still** = ainda (com ênfase na demora/frustração) → **antes** do haven't: \"I **still haven't** received my package!\"\n\n💡 No inglês americano informal, é comum usar o **simple past** com already, yet e just: \"Did you eat **yet**?\" / \"I **just** saw him.\" Ambos estão certos — mas o present perfect é o padrão em provas e no inglês britânico.",
+        "table": {
+          "headers": ["Palavra", "Posição", "Exemplo", "Português"],
+          "rows": [["already", "have + already + particípio", "I've already eaten.", "Já comi."], ["yet (neg.)", "fim da frase", "I haven't eaten yet.", "Ainda não comi."], ["yet (perg.)", "fim da frase", "Have you eaten yet?", "Você já comeu?"], ["just", "have + just + particípio", "I've just eaten.", "Acabei de comer."], ["still", "still + haven't", "I still haven't eaten!", "Ainda não comi!"]]
+        },
+        "examples": [
+          {"en": "Have you booked the flights yet? — Yes, I've already booked them.", "pt": "Você já reservou os voos? — Sim, já reservei."},
+          {"en": "Sorry, the manager has just left. Can I take a message?", "pt": "Desculpe, o gerente acabou de sair. Posso anotar um recado?"},
+          {"en": "It's been three weeks and I still haven't received my refund.", "pt": "Já faz três semanas e ainda não recebi meu reembolso."}
+        ],
+        "tip_pt": "Cuidado com **\"já\"**: em perguntas, use **yet** (\"Have you finished **yet**?\"). **Already** em perguntas mostra **surpresa**: \"Have you finished **already**?! That was fast!\""
+      },
+      "common_mistakes": [
+        {"wrong": "I haven't finished already.", "right": "I haven't finished yet.", "why_pt": "\"Ainda não\" em negativas = yet."},
+        {"wrong": "I've yet sent the email.", "right": "I've already sent the email.", "why_pt": "\"Já\" em afirmativas = already."},
+        {"wrong": "He has arrived just.", "right": "He has just arrived.", "why_pt": "Just vem entre have e o particípio."}
+      ],
+      "pronunciation": {
+        "focus": "Yet x jet / just",
+        "tip_pt": "**Yet** começa com som de \"i\" (\"iét\") — não confunda com **jet** (\"djét\", jato). **Just** começa com \"dj\" (\"djâst\") e o T final é leve: \"I've jus(t) arrived\".",
+        "practice": ["Have you finished yet?", "I've just arrived.", "I've already done it."]
+      },
+      "dialogue": {
+        "title": "Project update",
+        "context_pt": "Numa reunião rápida, a gerente pergunta sobre o andamento do lançamento de um app.",
+        "lines": [
+          {"speaker": "Manager", "en": "OK, team, quick update. Has the design team finished the new screens yet?", "pt": "OK, equipe, atualização rápida. O time de design já terminou as novas telas?"},
+          {"speaker": "Igor", "en": "Yes, they've already sent them. I've just uploaded the files to the shared folder.", "pt": "Sim, eles já enviaram. Acabei de subir os arquivos na pasta compartilhada."},
+          {"speaker": "Manager", "en": "Great. And have we tested the payment feature yet?", "pt": "Ótimo. E já testamos a função de pagamento?"},
+          {"speaker": "Rafaela", "en": "Not yet. We've had some problems with the bank's system. We still haven't received their test codes.", "pt": "Ainda não. Tivemos alguns problemas com o sistema do banco. Ainda não recebemos os códigos de teste deles."},
+          {"speaker": "Manager", "en": "Hmm. Have you contacted them?", "pt": "Hmm. Vocês já entraram em contato com eles?"},
+          {"speaker": "Rafaela", "en": "I've already emailed them twice. They said they'd get back to us today.", "pt": "Já mandei e-mail duas vezes. Disseram que dariam retorno hoje."},
+          {"speaker": "Manager", "en": "OK. The launch is on Friday, so we're a bit behind schedule. Let me know as soon as they reply.", "pt": "OK. O lançamento é na sexta, então estamos um pouco atrasados. Me avise assim que responderem."},
+          {"speaker": "Rafaela", "en": "Oh — they've just replied! The codes are here.", "pt": "Ah — acabaram de responder! Os códigos chegaram."}
+        ]
+      },
+      "listening": {
+        "title": "Moving checklist",
+        "context_pt": "Um casal revisa a lista de tarefas da mudança na véspera.",
+        "lines": [
+          {"speaker": "Bel", "en": "OK, the move is tomorrow. Have you packed the kitchen yet?"},
+          {"speaker": "Rafa", "en": "Yes, I've already packed everything except the coffee machine. I need coffee tomorrow!"},
+          {"speaker": "Bel", "en": "Fair enough. Have you called the internet company?"},
+          {"speaker": "Rafa", "en": "Not yet. I'll do it now. Have you returned the keys to the landlord?"},
+          {"speaker": "Bel", "en": "No, I'm doing that tomorrow. But I've just confirmed the truck: it's coming at seven."},
+          {"speaker": "Rafa", "en": "Seven?! And we still haven't packed the bedroom..."}
+        ],
+        "questions": [
+          {"q": "What hasn't Rafa packed in the kitchen?", "answer": "The coffee machine."},
+          {"q": "Has Rafa called the internet company?", "answer": "No, not yet (he's going to do it now)."},
+          {"q": "What has Bel just done?", "answer": "She's just confirmed the truck."},
+          {"q": "What haven't they packed yet?", "answer": "The bedroom."}
+        ]
+      },
+      "reading": {
+        "title": "The Zeigarnik effect",
+        "text": "Have you ever noticed that unfinished tasks stay in your head, while finished ones disappear? This is called the Zeigarnik effect, after a psychologist who observed that waiters remembered unpaid orders perfectly — but forgot them as soon as the customers had paid. Our brains keep \"open\" tasks active, which can cause stress. Productivity experts suggest a simple solution: write everything down. Once a task is on a list, your brain can relax a little. At the end of the day, look at what you've already done, not only at what you haven't done yet. Celebrating small wins — \"I've just answered all my emails!\" — keeps you motivated.",
+        "questions": [
+          {"q": "What is the Zeigarnik effect?", "answer": "Unfinished tasks stay in our heads, while finished ones disappear."},
+          {"q": "What did the waiters remember?", "answer": "Unpaid orders (and forgot them after customers paid)."},
+          {"q": "What's the experts' solution?", "answer": "Write everything down."},
+          {"q": "Why should you celebrate small wins?", "answer": "It keeps you motivated."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "already, yet or just?", "instruction": "Choose the correct word.", "instruction_pt": "Escolha a palavra correta.",
+         "items": [{"prompt": "I haven't called her ___.", "options": ["already", "yet", "just"], "answer": "yet"}, {"prompt": "Have you seen the new episode ___?", "options": ["already", "yet", "just"], "answer": "yet"}, {"prompt": "We've ___ bought the tickets. Don't worry!", "options": ["already", "yet", "still"], "answer": "already"}, {"prompt": "Your taxi has ___ arrived. It's outside.", "options": ["just", "yet", "still"], "answer": "just"}, {"prompt": "I ___ haven't found my keys!", "options": ["yet", "already", "still"], "answer": "still"}]},
+        {"id": "ex2", "type": "order_words", "title": "Word order", "instruction": "Put the words in the correct order.", "instruction_pt": "Coloque as palavras na ordem certa.",
+         "items": [{"prompt": "already / I've / the report / finished", "answer": "I've already finished the report."}, {"prompt": "yet / you / have / eaten / ?", "answer": "Have you eaten yet?"}, {"prompt": "just / has / she / left", "answer": "She has just left."}, {"prompt": "still / we / heard / haven't / from them", "answer": "We still haven't heard from them."}]},
+        {"id": "ex3", "type": "fill_blank", "title": "To-do list", "instruction": "Look at the list and write sentences with already or yet. (✔ = done, ✘ = not done)", "instruction_pt": "Olhe a lista e escreva frases com already ou yet.",
+         "items": [{"prompt": "pay the rent ✔ → I ___.", "answer": "'ve already paid the rent"}, {"prompt": "call the dentist ✘ → I ___.", "answer": "haven't called the dentist yet"}, {"prompt": "buy a gift for Ana ✔ → I ___.", "answer": "'ve already bought a gift for Ana"}, {"prompt": "renew my passport ✘ → I ___.", "answer": "haven't renewed my passport yet"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "Have you finished yet?"}, {"prompt": "2", "answer": "I've already sent it."}, {"prompt": "3", "answer": "She's just left."}, {"prompt": "4", "answer": "I still haven't heard from them."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "I haven't decided already.", "answer": "I haven't decided yet."}, {"prompt": "Have you yet seen it?", "answer": "Have you seen it yet?"}, {"prompt": "He has arrived just.", "answer": "He has just arrived."}, {"prompt": "I've finished it yesterday.", "answer": "I finished it yesterday."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the chat", "instruction": "Complete with: yet · already · just · still · sent.", "instruction_pt": "Complete o chat.",
+         "items": [{"prompt": "A: Have you sent the invitation ___?", "answer": "yet"}, {"prompt": "B: Yes, I've ___ ___ it to everyone.", "answer": "already / sent"}, {"prompt": "A: Has Leo replied? — B: He's ___ said yes!", "answer": "just"}, {"prompt": "B: But Carla ___ hasn't answered.", "answer": "still"}]}
+      ],
+      "speaking": {
+        "instruction": "Write a to-do list for this week (6 items). Your partner asks Have you... yet? and you answer with already, yet, just or still.",
+        "instruction_pt": "Escreva uma lista de tarefas da semana (6 itens). O colega pergunta Have you... yet? e você responde com already, yet, just ou still.",
+        "questions": ["What have you already done today?", "What haven't you done yet this week?", "Have you just finished anything important?", "Is there something you still haven't done this year?", "Have you watched any good series lately?"]
+      },
+      "writing": {
+        "task": "Write a project update email to your manager (100–120 words): what you've already done, what you've just finished, what you haven't done yet and any problem.",
+        "task_pt": "Escreva um e-mail de atualização de projeto para seu gestor (100–120 palavras): o que você já fez, o que acabou de terminar, o que ainda não fez e algum problema.",
+        "model": "Subject: Website project – weekly update\n\nHi Laura,\nHere's a quick update on the new website. We've already finished the home page and the product pages, and the client has approved the design. I've just uploaded the final images, so the gallery is now complete. We haven't started the blog section yet — we're waiting for the texts from the marketing team. Unfortunately, we still haven't received the logo files from the client, and this could delay the launch. I've already sent them two reminders. I'll call them tomorrow morning.\nOverall, we're on track for the 30th.\nBest,\nIgor"
+      },
+      "culture_note": {
+        "title": "\"Did you eat yet?\"",
+        "text_pt": "No inglês americano informal, você vai ouvir muito **\"Did you eat yet?\"** e **\"I just saw it\"** — simple past com yet/just. No inglês britânico, o padrão é **\"Have you eaten yet?\"**. Entenda os dois; em provas e textos formais, prefira o present perfect."
+      },
+      "summary_pt": ["already = já (afirmativa, no meio).", "yet = ainda não (neg.) / já (perg.), no fim.", "just = acabou de (no meio).", "still haven't = ainda não (com frustração)."]
+    },
+    {
+      "id": "B1-M2-L3",
+      "title": "Did you or have you?",
+      "subtitle_pt": "Present perfect x simple past",
+      "duration_min": 60,
+      "source_refs": ["Book III English – Present Perfect vs. Past", "Keynote Intermediate – Unit 7 (present perfect and past simple)"],
+      "objectives": ["Escolher entre present perfect e simple past", "Reconhecer expressões de tempo de cada tempo verbal", "Usar this week / today / this year com os dois tempos", "Contar notícias: começar com present perfect e detalhar no simple past"],
+      "warmup": {
+        "text_pt": "Em português, \"eu fui\" serve para tudo. Em inglês, \"I went\" e \"I've been\" têm usos diferentes. Hoje você vai entender de vez a diferença.",
+        "questions": ["Have you traveled this year? Where did you go?", "What's the best news you've had recently?"]
+      },
+      "vocabulary": [
+        {"en": "ago / last / in (+ year)", "pt": "atrás / passado / em (+ ano)", "say": "agôu / lést / in"},
+        {"en": "ever / never / before", "pt": "alguma vez / nunca / antes", "say": "éver / néver / bifór"},
+        {"en": "recently / lately", "pt": "recentemente / ultimamente", "say": "rísentli / lêitli"},
+        {"en": "so far", "pt": "até agora", "say": "sôu fár"},
+        {"en": "up to now / until now", "pt": "até agora", "say": "âp tu náu"},
+        {"en": "this week / this year", "pt": "esta semana / este ano", "say": "dis uík / dis iír"},
+        {"en": "the other day", "pt": "outro dia", "say": "dâ âder dêi"},
+        {"en": "headline", "pt": "manchete", "say": "rédlain"},
+        {"en": "to announce", "pt": "anunciar", "say": "tu anáuns"},
+        {"en": "to launch", "pt": "lançar", "say": "tu lóntch"},
+        {"en": "to break a record", "pt": "quebrar um recorde", "say": "tu brêik a rékord"},
+        {"en": "achievement", "pt": "conquista", "say": "atchívment"}
+      ],
+      "chunks": [
+        {"en": "Have you heard the news?", "pt": "Você ficou sabendo da notícia?"},
+        {"en": "It happened last night.", "pt": "Aconteceu ontem à noite."},
+        {"en": "So far, so good.", "pt": "Até agora, tudo bem."},
+        {"en": "I've been really busy lately.", "pt": "Tenho estado muito ocupado ultimamente."},
+        {"en": "When did it happen?", "pt": "Quando aconteceu?"},
+        {"en": "That's the best thing that's happened this year!", "pt": "É a melhor coisa que aconteceu este ano!"}
+      ],
+      "grammar": {
+        "title": "Present perfect x simple past",
+        "explanation_pt": "**A pergunta-chave:** o tempo está **terminado** ou **ainda aberto**?\n\n**Simple past** → tempo **terminado e definido**. Você sabe (ou diz) **quando**.\n- Palavras: yesterday, last week, in 2020, two days ago, when I was a child, on Monday, What time...? When...?\n- \"I **visited** Rome **in 2019**.\" / \"**When did** you **arrive**?\"\n\n**Present perfect** → tempo **aberto** ou **não mencionado**; o foco é o **resultado agora** ou a **experiência**.\n- Palavras: ever, never, before, already, yet, just, so far, recently, lately, for, since, How long...?\n- \"I**'ve visited** Rome **three times**.\" / \"**Have** you **ever been** to Rome?\"\n\n**Períodos ainda abertos** (today, this week, this month, this year) usam **present perfect** se o período não acabou:\n- \"I**'ve had** three coffees **today**.\" (o dia não acabou)\n- \"I **had** three coffees **yesterday**.\" (acabou)\n\n**Notícias:** a primeira frase anuncia com present perfect; os detalhes vêm no simple past:\n\"Scientists **have discovered** a new planet. They **found** it last month using a new telescope.\"",
+        "table": {
+          "headers": ["Simple past (terminado)", "Present perfect (aberto / sem tempo)"],
+          "rows": [["I saw that movie last week.", "I've seen that movie (twice)."], ["She lived in Tokyo for 2 years. (não mora mais)", "She's lived in Tokyo for 2 years. (ainda mora)"], ["Did you finish the report yesterday?", "Have you finished the report yet?"], ["I wrote three emails this morning. (já é tarde)", "I've written three emails this morning. (ainda é manhã)"], ["When did you meet him?", "How long have you known him?"]]
+        },
+        "examples": [
+          {"en": "Have you heard? Brazil has won the gold medal! They beat Japan in the final last night.", "pt": "Ficou sabendo? O Brasil ganhou a medalha de ouro! Venceu o Japão na final ontem à noite."},
+          {"en": "I've been to Chile, but I didn't go to the Atacama Desert.", "pt": "Já fui ao Chile, mas não fui ao Deserto do Atacama."},
+          {"en": "We've had a great year so far. Sales grew 20% in the first quarter.", "pt": "Tivemos um ótimo ano até agora. As vendas cresceram 20% no primeiro trimestre."}
+        ],
+        "tip_pt": "Atalho mental: se dá para responder **\"When?\"** com uma data ou momento, é **simple past**. Se a resposta é **\"Not important\"** ou **\"Until now\"**, é **present perfect**."
+      },
+      "common_mistakes": [
+        {"wrong": "I've bought this phone two years ago.", "right": "I bought this phone two years ago.", "why_pt": "Ago indica tempo definido → simple past."},
+        {"wrong": "When have you arrived?", "right": "When did you arrive?", "why_pt": "When pede um momento definido → simple past."},
+        {"wrong": "Did you ever try açaí?", "right": "Have you ever tried açaí?", "why_pt": "Experiência de vida, sem tempo definido → present perfect (padrão)."}
+      ],
+      "pronunciation": {
+        "focus": "Ouvir a diferença: I've / I",
+        "tip_pt": "Na fala rápida, \"I've seen\" e \"I saw\" soam bem diferentes, mas \"I've finished\" e \"I finished\" podem ser quase iguais — o 've é só um \"v\" leve. Preste atenção ao **contexto** (palavras como yet, already, yesterday) para entender o tempo.",
+        "practice": ["I've finished. / I finished yesterday.", "Have you heard the news?", "When did it happen?"]
+      },
+      "dialogue": {
+        "title": "Big news",
+        "context_pt": "Uma amiga conta uma grande novidade numa ligação.",
+        "lines": [
+          {"speaker": "Luiza", "en": "Ellen! Have you heard the news? I've got a job in Dublin!", "pt": "Ellen! Ficou sabendo? Consegui um emprego em Dublin!"},
+          {"speaker": "Ellen", "en": "What?! Congratulations! When did you find out?", "pt": "O quê?! Parabéns! Quando você soube?"},
+          {"speaker": "Luiza", "en": "They called me this morning. I had the final interview last Tuesday.", "pt": "Me ligaram hoje de manhã. Tive a entrevista final na terça passada."},
+          {"speaker": "Ellen", "en": "Amazing! Have you ever been to Ireland?", "pt": "Incrível! Você já foi à Irlanda?"},
+          {"speaker": "Luiza", "en": "Once. I went to Dublin for a conference in 2022, and I loved it.", "pt": "Uma vez. Fui a Dublin para uma conferência em 2022, e amei."},
+          {"speaker": "Ellen", "en": "Have you told your parents yet?", "pt": "Já contou para os seus pais?"},
+          {"speaker": "Luiza", "en": "Not yet. You're the first person I've told! I called you as soon as I put the phone down.", "pt": "Ainda não. Você é a primeira pessoa para quem contei! Te liguei assim que desliguei o telefone."},
+          {"speaker": "Ellen", "en": "I'm honored! This is the best news I've had all year.", "pt": "Que honra! É a melhor notícia que recebi o ano todo."}
+        ]
+      },
+      "listening": {
+        "title": "Radio news bulletin",
+        "context_pt": "Um boletim de notícias curto no rádio.",
+        "lines": [
+          {"speaker": "Newsreader", "en": "Good evening. Here are today's headlines. A Brazilian startup has developed a new biodegradable plastic made from cassava. The company presented the product at a conference in Berlin yesterday. In sports, Kenyan runner Faith Kipyegon has broken another world record. She ran the mile in under four minutes and seven seconds in Monaco last night. And finally, the city of Recife has opened its first floating park. More than ten thousand people visited it on its opening day."}
+        ],
+        "questions": [
+          {"q": "What has the Brazilian startup developed?", "answer": "A biodegradable plastic made from cassava."},
+          {"q": "When did they present it?", "answer": "Yesterday (at a conference in Berlin)."},
+          {"q": "What has Faith Kipyegon done?", "answer": "She's broken another world record (the mile)."},
+          {"q": "How many people visited the floating park on its opening day?", "answer": "More than ten thousand."}
+        ]
+      },
+      "reading": {
+        "title": "My first year abroad",
+        "text": "It's been exactly one year since I moved to Montreal, and what a year it's been! When I arrived last September, I didn't speak any French, and my English was basic. I lived in a tiny room and worked in a restaurant kitchen. Since then, a lot has changed. I've taken two French courses, and I've made friends from more than ten countries. I've also found a job in my area — I started as a junior architect in March. Of course, it hasn't all been easy. I've missed my family terribly, and I'll never forget my first winter: in January, the temperature fell to minus 30 degrees, and I cried on my way to work. But so far, moving here has been the best decision of my life.",
+        "questions": [
+          {"q": "When did the writer move to Montreal?", "answer": "Last September (one year ago)."},
+          {"q": "What has the writer done since then?", "answer": "Taken two French courses, made friends from 10+ countries, found a job as a junior architect."},
+          {"q": "When did the writer start the new job?", "answer": "In March."},
+          {"q": "What happened in January?", "answer": "The temperature fell to minus 30 and the writer cried on the way to work."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Choose the tense", "instruction": "Choose the correct form.", "instruction_pt": "Escolha a forma correta.",
+         "items": [{"prompt": "I ___ my keys. I can't find them anywhere!", "options": ["lost", "'ve lost"], "answer": "'ve lost"}, {"prompt": "I ___ my keys yesterday, but I found them.", "options": ["lost", "'ve lost"], "answer": "lost"}, {"prompt": "___ you ever ___ a marathon?", "options": ["Did / run", "Have / run"], "answer": "Have / run"}, {"prompt": "When ___ you ___ your job?", "options": ["did / start", "have / started"], "answer": "did / start"}, {"prompt": "I ___ four cups of coffee today. (it's 3 p.m.)", "options": ["had", "'ve had"], "answer": "'ve had"}, {"prompt": "Shakespeare ___ 39 plays.", "options": ["wrote", "has written"], "answer": "wrote"}]},
+        {"id": "ex2", "type": "fill_blank", "title": "News story", "instruction": "Complete with the present perfect or simple past.", "instruction_pt": "Complete com present perfect ou simple past.",
+         "items": [{"prompt": "A firefighter ___ (save) a cat from a 10-story building.", "answer": "has saved"}, {"prompt": "The cat ___ (climb) up the building on Sunday night.", "answer": "climbed"}, {"prompt": "Neighbors ___ (call) the fire department at 7 a.m.", "answer": "called"}, {"prompt": "The video ___ (get) two million views so far.", "answer": "has got / has gotten"}]},
+        {"id": "ex3", "type": "match", "title": "Time expressions", "instruction": "Write PP (present perfect) or SP (simple past).", "instruction_pt": "Escreva PP (present perfect) ou SP (simple past).",
+         "items": [{"prompt": "yesterday", "answer": "SP"}, {"prompt": "so far", "answer": "PP"}, {"prompt": "three years ago", "answer": "SP"}, {"prompt": "never", "answer": "PP"}, {"prompt": "in 2018", "answer": "SP"}, {"prompt": "lately", "answer": "PP"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "Have you heard the news?"}, {"prompt": "2", "answer": "When did it happen?"}, {"prompt": "3", "answer": "I've been really busy lately."}, {"prompt": "4", "answer": "I went to Dublin in 2022."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "I've seen him two days ago.", "answer": "I saw him two days ago."}, {"prompt": "When have you moved here?", "answer": "When did you move here?"}, {"prompt": "I didn't finish the report yet.", "answer": "I haven't finished the report yet."}, {"prompt": "Did you ever eat snails?", "answer": "Have you ever eaten snails?"}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the conversation", "instruction": "Complete with the correct form of the verb in parentheses.", "instruction_pt": "Complete com a forma correta do verbo.",
+         "items": [{"prompt": "A: ___ you ever ___ (be) to a music festival?", "answer": "Have / been"}, {"prompt": "B: Yes, I ___ (go) to Lollapalooza last year.", "answer": "went"}, {"prompt": "A: Who ___ you ___ (see)?", "answer": "did / see"}, {"prompt": "B: Lots of bands. It ___ (be) the best weekend I've ever had!", "answer": "was"}]}
+      ],
+      "speaking": {
+        "instruction": "\"News of the week\": tell your partner 3 things that have happened in your life recently (present perfect) and give details (simple past). Your partner asks When? Where? How?",
+        "instruction_pt": "\"Notícias da semana\": conte ao colega 3 coisas que aconteceram recentemente na sua vida (present perfect) e dê detalhes (simple past). O colega pergunta When? Where? How?",
+        "questions": ["What's the best thing that's happened to you this year?", "Have you started anything new recently? When did you start?", "Have you traveled this year? Where did you go?", "What have you learned lately?", "What did you do last weekend?"]
+      },
+      "writing": {
+        "task": "Write a short news article (100–120 words) about a real or invented event: headline, first sentence in the present perfect, details in the simple past.",
+        "task_pt": "Escreva uma notícia curta (100–120 palavras) sobre um fato real ou inventado: manchete, primeira frase no present perfect e detalhes no simple past.",
+        "model": "LOCAL TEACHER WINS NATIONAL AWARD\n\nA public school teacher from Fortaleza has won Brazil's Teacher of the Year award. Marta Lima, 41, received the prize in a ceremony in Brasília last Friday. She created a robotics club with recycled materials in 2021, and her students won three national competitions. \"I've taught for eighteen years, and this is the proudest moment of my career,\" she said. Since the announcement, Marta has received hundreds of messages from former students. The school has already announced that it will open two more robotics clubs next year."
+      },
+      "culture_note": {
+        "title": "Manchetes em inglês",
+        "text_pt": "Manchetes de jornal usam um \"inglês telegráfico\": **presente simples para o passado** (\"Teacher **wins** award\"), sem artigos e sem verbo to be (\"Mayor **to visit** school\" = o prefeito vai visitar). Mas o primeiro parágrafo da notícia segue a regra: present perfect + simple past."
+      },
+      "summary_pt": ["Tempo terminado/definido → simple past.", "Tempo aberto ou não mencionado → present perfect.", "ago, last, yesterday, when, in 2020 → simple past.", "ever, never, yet, already, just, so far, since → present perfect."]
+    },
+    {
+      "id": "B1-M2-L4",
+      "title": "Professionally speaking",
+      "subtitle_pt": "Present perfect continuous e trajetória profissional",
+      "duration_min": 60,
+      "source_refs": ["Book III / Basic II – \"Professionally speaking\" sections", "Keynote Intermediate – Unit 4 (success, present perfect continuous)"],
+      "objectives": ["Formar o present perfect continuous (have been + -ing)", "Falar de atividades em andamento até agora e de seus resultados visíveis", "Diferenciar present perfect simple x continuous", "Apresentar sua trajetória numa entrevista de emprego"],
+      "warmup": {
+        "text_pt": "Numa entrevista em inglês, a pergunta \"Tell me about yourself\" quase sempre aparece. Você saberia responder? Hoje você vai montar sua resposta.",
+        "questions": ["What have you been working on lately?", "How long have you been studying English?"]
+      },
+      "vocabulary": [
+        {"en": "résumé (US) / CV (UK)", "pt": "currículo", "say": "rézumei / sí ví"},
+        {"en": "background", "pt": "formação, histórico", "say": "békgraund"},
+        {"en": "experience in / with", "pt": "experiência em / com", "say": "ikspíriens"},
+        {"en": "to be in charge of", "pt": "ser responsável por", "say": "tu bí in tchárdj ov"},
+        {"en": "to lead (a team)", "pt": "liderar (uma equipe)", "say": "tu líd"},
+        {"en": "to manage", "pt": "gerenciar", "say": "tu ménidj"},
+        {"en": "to be promoted", "pt": "ser promovido", "say": "tu bí promôutid"},
+        {"en": "skills / strengths", "pt": "habilidades / pontos fortes", "say": "skilz / strénkθs"},
+        {"en": "achievement", "pt": "conquista", "say": "atchívment"},
+        {"en": "to apply (for a job)", "pt": "candidatar-se (a uma vaga)", "say": "tu aplái"},
+        {"en": "full-time / part-time / freelance", "pt": "integral / meio período / autônomo", "say": "fúl táim / párt táim / frílens"},
+        {"en": "career change", "pt": "mudança de carreira", "say": "karír tchêindj"}
+      ],
+      "chunks": [
+        {"en": "Tell me about yourself.", "pt": "Fale sobre você."},
+        {"en": "I've been working in marketing for six years.", "pt": "Trabalho com marketing há seis anos."},
+        {"en": "I've been in charge of a team of five.", "pt": "Sou responsável por uma equipe de cinco pessoas."},
+        {"en": "Lately, I've been focusing on data analysis.", "pt": "Ultimamente, tenho me dedicado à análise de dados."},
+        {"en": "I'm looking for new challenges.", "pt": "Estou buscando novos desafios."},
+        {"en": "What have you been up to?", "pt": "O que você tem feito? / Quais as novidades?"}
+      ],
+      "grammar": {
+        "title": "Present perfect continuous",
+        "explanation_pt": "**Estrutura:** **have / has been** + verbo**-ing**\n- I**'ve been working** here since 2020.\n- She**'s been studying** all day.\n- **How long have** you **been learning** English?\n\n**Usos:**\n1. **Atividade que começou no passado e continua** (ênfase na **duração**/continuidade): \"I**'ve been studying** English **for** three years.\"\n2. **Atividade recente com resultado visível agora:** \"Why are you so tired?\" \"I**'ve been running**.\" / \"Your eyes are red. **Have** you **been crying**?\"\n3. **Atividades temporárias recentes:** \"**Lately**, I**'ve been working** from home.\"\n\n**Simple x continuous:**\n- **Continuous** = foco na **atividade/duração**: \"I**'ve been writing** emails all morning.\" (o processo)\n- **Simple** = foco no **resultado/quantidade**: \"I**'ve written** 20 emails.\" (quantos — completo)\n\nCom **stative verbs** (know, be, have, like, want), use sempre o **simple**: \"I**'ve known** her for years\" (❌ \"I've been knowing\").\n\nCom **work, live, study, teach**, os dois funcionam com for/since: \"I've worked / I've been working here for 5 years.\"",
+        "table": {
+          "headers": ["Present perfect continuous (processo)", "Present perfect simple (resultado)"],
+          "rows": [["I've been reading this book all week.", "I've read 200 pages."], ["She's been painting the house.", "She's painted two rooms."], ["We've been saving money for a year.", "We've saved R$10,000."], ["How long have you been waiting?", "How many times have you called?"]]
+        },
+        "examples": [
+          {"en": "I've been working as a nurse for twelve years, and for the last four years I've been leading the ICU team.", "pt": "Trabalho como enfermeira há doze anos, e nos últimos quatro lidero a equipe da UTI."},
+          {"en": "Sorry I'm sweaty — I've been cycling.", "pt": "Desculpe, estou suado — estava pedalando."},
+          {"en": "What have you been up to lately? — I've been learning to code!", "pt": "O que você tem feito? — Tenho aprendido a programar!"}
+        ],
+        "tip_pt": "**\"What have you been up to?\"** é uma das perguntas mais comuns ao reencontrar alguém. Responda com present perfect continuous: \"I've been working a lot / traveling / taking a course...\""
+      },
+      "common_mistakes": [
+        {"wrong": "I'm working here since 2019.", "right": "I've been working here since 2019.", "why_pt": "Desde/há + continua = present perfect (continuous), não present continuous."},
+        {"wrong": "I've been knowing him for years.", "right": "I've known him for years.", "why_pt": "Know é stative verb: sem -ing."},
+        {"wrong": "I've been drinking five coffees today.", "right": "I've drunk / I've had five coffees today.", "why_pt": "Quantidade (resultado) = present perfect simple."}
+      ],
+      "pronunciation": {
+        "focus": "I've been = \"áivbin\"",
+        "tip_pt": "**I've been** é dito como uma palavra: \"áivbin\" (americano) ou \"áivbín\" (britânico). **She's been** = \"shízbin\". A força vai no verbo principal: \"I've been **WORK**ing here for **SIX** years.\"",
+        "practice": ["I've been working here for six years.", "What have you been up to?", "She's been studying all day."]
+      },
+      "dialogue": {
+        "title": "Job interview",
+        "context_pt": "Fernanda faz uma entrevista online para uma vaga de gerente de projetos numa empresa canadense.",
+        "lines": [
+          {"speaker": "Interviewer", "en": "Thanks for joining us, Fernanda. So, tell me about yourself.", "pt": "Obrigado por participar, Fernanda. Então, fale sobre você."},
+          {"speaker": "Fernanda", "en": "Sure. I'm a civil engineer, and I've been working in project management for eight years. I started my career at a construction company in São Paulo.", "pt": "Claro. Sou engenheira civil e trabalho com gestão de projetos há oito anos. Comecei a carreira numa construtora em São Paulo."},
+          {"speaker": "Interviewer", "en": "And what are you doing now?", "pt": "E o que você faz atualmente?"},
+          {"speaker": "Fernanda", "en": "For the last three years, I've been leading a team of twelve at a solar energy company. We've delivered more than forty projects so far.", "pt": "Nos últimos três anos, lidero uma equipe de doze pessoas numa empresa de energia solar. Já entregamos mais de quarenta projetos até agora."},
+          {"speaker": "Interviewer", "en": "Impressive. What's your biggest achievement?", "pt": "Impressionante. Qual é sua maior conquista?"},
+          {"speaker": "Fernanda", "en": "Last year, I managed our largest project — a solar farm in Bahia. We finished it two months early and under budget.", "pt": "No ano passado, gerenciei nosso maior projeto — uma usina solar na Bahia. Terminamos dois meses antes e abaixo do orçamento."},
+          {"speaker": "Interviewer", "en": "And why are you interested in this position?", "pt": "E por que você se interessa por esta vaga?"},
+          {"speaker": "Fernanda", "en": "I've been following your company's work in renewable energy for a while, and I'm looking for international challenges. I've also been taking an advanced English course to prepare.", "pt": "Acompanho o trabalho da empresa em energia renovável há um tempo e estou buscando desafios internacionais. Também tenho feito um curso avançado de inglês para me preparar."}
+        ]
+      },
+      "listening": {
+        "title": "Catching up",
+        "context_pt": "Dois ex-colegas se reencontram num evento e colocam o papo em dia.",
+        "lines": [
+          {"speaker": "Tom", "en": "Diego! What have you been up to? I haven't seen you since you left the agency."},
+          {"speaker": "Diego", "en": "Hey, Tom! Well, I've been freelancing for about two years now. I've been working mainly with startups."},
+          {"speaker": "Tom", "en": "Nice. Do you like it?"},
+          {"speaker": "Diego", "en": "Love it. I've had clients from five countries so far. And I've been learning Spanish because I've got a big client in Mexico."},
+          {"speaker": "Tom", "en": "That's great. Me? Same company, but I've been promoted twice. And I've been running marathons — I've done three this year!"}
+        ],
+        "questions": [
+          {"q": "How long has Diego been freelancing?", "answer": "For about two years."},
+          {"q": "How many countries have his clients been from?", "answer": "Five (so far)."},
+          {"q": "Why has he been learning Spanish?", "answer": "Because he has a big client in Mexico."},
+          {"q": "How many marathons has Tom done this year?", "answer": "Three."}
+        ]
+      },
+      "reading": {
+        "title": "The career-change generation",
+        "text": "For our parents, a career was often a single straight line: one company, one profession, a gold watch at retirement. Today, it looks more like a zigzag. Surveys suggest that many young professionals expect to change careers — not just jobs — several times in their lives. Take Rodrigo, 38. He worked as a lawyer for ten years, but he'd been feeling unhappy for a long time. Three years ago, he started a coding bootcamp at night. \"I've been working as a software developer for two years now, and I've never been happier,\" he says. Experts say the key skills for this new world are adaptability and continuous learning. In other words, the question is no longer \"What do you want to be when you grow up?\" but \"What have you been learning lately?\"",
+        "questions": [
+          {"q": "How was a career different for our parents?", "answer": "It was a straight line: one company, one profession."},
+          {"q": "What do many young professionals expect?", "answer": "To change careers several times."},
+          {"q": "What did Rodrigo do three years ago?", "answer": "He started a coding bootcamp at night."},
+          {"q": "What are the key skills for this new world?", "answer": "Adaptability and continuous learning."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "fill_blank", "title": "Present perfect continuous", "instruction": "Complete with the present perfect continuous.", "instruction_pt": "Complete com o present perfect continuous.",
+         "items": [{"prompt": "I ___ (wait) for you for an hour!", "answer": "'ve been waiting"}, {"prompt": "She ___ (work) here since 2021.", "answer": "'s been working"}, {"prompt": "How long ___ you ___ (learn) English?", "answer": "have / been learning"}, {"prompt": "It ___ (rain) all day.", "answer": "'s been raining"}, {"prompt": "We ___ (not / sleep) well lately.", "answer": "haven't been sleeping"}]},
+        {"id": "ex2", "type": "multiple_choice", "title": "Simple or continuous?", "instruction": "Choose the best option.", "instruction_pt": "Escolha a melhor opção.",
+         "items": [{"prompt": "I ___ three chapters of the book.", "options": ["'ve read", "'ve been reading"], "answer": "'ve read"}, {"prompt": "I ___ this book all week. It's long!", "options": ["'ve read", "'ve been reading"], "answer": "'ve been reading"}, {"prompt": "I ___ Ana since 2010.", "options": ["'ve known", "'ve been knowing"], "answer": "'ve known"}, {"prompt": "Why are you wet? — I ___ in the rain.", "options": ["'ve walked", "'ve been walking"], "answer": "'ve been walking"}, {"prompt": "She ___ to the gym four times this week.", "options": ["'s gone", "'s been going"], "answer": "'s gone"}]},
+        {"id": "ex3", "type": "match", "title": "Interview phrases", "instruction": "Write the English expression.", "instruction_pt": "Escreva a expressão em inglês.",
+         "items": [{"prompt": "Fale sobre você.", "answer": "Tell me about yourself."}, {"prompt": "Sou responsável por uma equipe.", "answer": "I'm in charge of a team. / I've been leading a team."}, {"prompt": "Estou buscando novos desafios.", "answer": "I'm looking for new challenges."}, {"prompt": "Fui promovido duas vezes.", "answer": "I've been promoted twice."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "I've been working in marketing for six years."}, {"prompt": "2", "answer": "What have you been up to?"}, {"prompt": "3", "answer": "Lately, I've been focusing on data analysis."}, {"prompt": "4", "answer": "We've delivered forty projects so far."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "I'm living here since 2015.", "answer": "I've been living / I've lived here since 2015."}, {"prompt": "She's been having that car for ten years.", "answer": "She's had that car for ten years."}, {"prompt": "I've been writing ten emails today.", "answer": "I've written ten emails today."}, {"prompt": "How long are you working here?", "answer": "How long have you been working here?"}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Your elevator pitch", "instruction": "Complete the pitch with: been · for · charge · since · looking.", "instruction_pt": "Complete o pitch.",
+         "items": [{"prompt": "I've ___ working as a graphic designer ___ seven years.", "answer": "been / for"}, {"prompt": "I've been in ___ of the visual identity of three brands.", "answer": "charge"}, {"prompt": "I've been studying UX design ___ last year.", "answer": "since"}, {"prompt": "Now I'm ___ for a role in a product team.", "answer": "looking"}]}
+      ],
+      "speaking": {
+        "instruction": "Prepare and present your 1-minute \"Tell me about yourself\" answer: background (past simple), current role (present perfect continuous), achievements (present perfect) and goals.",
+        "instruction_pt": "Prepare e apresente sua resposta de 1 minuto para \"Tell me about yourself\": formação (simple past), função atual (present perfect continuous), conquistas (present perfect) e objetivos.",
+        "questions": ["Tell me about yourself.", "What have you been working on lately?", "What's your biggest professional achievement?", "Have you ever changed careers or thought about it?", "Where do you see yourself in five years?"]
+      },
+      "writing": {
+        "task": "Write the \"About\" section of your LinkedIn profile in English (120–150 words). Use the present perfect (simple and continuous) and the simple past.",
+        "task_pt": "Escreva a seção \"Sobre\" do seu perfil do LinkedIn em inglês (120–150 palavras). Use o present perfect (simple e continuous) e o simple past.",
+        "model": "I'm a marketing professional with a passion for data and storytelling. I graduated in Advertising from UFPE in 2016 and started my career at a digital agency in Recife, where I worked with brands like retail chains and fintechs.\n\nFor the last four years, I've been leading the growth marketing team at an edtech company. We've grown our user base from 50,000 to over 1 million, and I've managed campaigns in Brazil, Mexico and Colombia. Lately, I've been focusing on marketing analytics and AI tools, and I've completed two certifications in data analysis.\n\nI've always believed that good marketing is about people, not just numbers. I'm now looking for international opportunities where I can combine creativity and data to build meaningful brands.\n\nLet's connect!"
+      },
+      "culture_note": {
+        "title": "Currículo americano x brasileiro",
+        "text_pt": "Currículos em inglês (**résumé** nos EUA, **CV** no Reino Unido) geralmente **não** têm foto, idade, estado civil, CPF ou endereço completo — isso evita discriminação. O foco é em **conquistas mensuráveis** com verbos de ação: \"**Increased** sales by 30%\", \"**Led** a team of 12\", \"**Reduced** costs by 15%\"."
+      },
+      "summary_pt": ["have/has been + -ing.", "Duração até agora / resultado visível / atividade recente.", "Continuous = processo · simple = resultado/quantidade.", "Stative verbs: só simple (I've known)."]
+    }
+  ],
+  "review": {
+    "intro_pt": "Revise o present perfect em todas as formas e o contraste com o simple past.",
+    "exercises": [
+      {"id": "r1", "type": "multiple_choice", "title": "Choose the correct option", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+       "items": [{"prompt": "I've lived here ___ 2019.", "options": ["for", "since", "ago"], "answer": "since"}, {"prompt": "Have you finished ___?", "options": ["already", "yet", "just"], "answer": "yet"}, {"prompt": "I ___ him last week.", "options": ["saw", "'ve seen", "'ve been seeing"], "answer": "saw"}, {"prompt": "How long ___ you known her?", "options": ["do", "did", "have"], "answer": "have"}, {"prompt": "I'm tired. I ___ all day.", "options": ["'ve worked", "'ve been working", "work"], "answer": "'ve been working"}]},
+      {"id": "r2", "type": "fill_blank", "title": "Mixed tenses", "instruction": "Complete with the correct form of the verb.", "instruction_pt": "Complete com a forma correta do verbo.",
+       "items": [{"prompt": "She ___ (work) at the bank for 20 years. She retired in 2020.", "answer": "worked"}, {"prompt": "We ___ (just / arrive). Where are you?", "answer": "'ve just arrived"}, {"prompt": "I ___ (study) Spanish since March, but I can't speak much yet.", "answer": "'ve been studying"}]},
+      {"id": "r3", "type": "translate", "title": "Translate", "instruction": "Translate into English.", "instruction_pt": "Traduza para o inglês.",
+       "items": [{"prompt": "Moro aqui há dez anos.", "answer": "I've lived / I've been living here for ten years."}, {"prompt": "Ainda não comi.", "answer": "I haven't eaten yet."}, {"prompt": "O que você tem feito?", "answer": "What have you been up to?"}]},
+      {"id": "r4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+       "items": [{"prompt": "1", "answer": "I haven't seen you since high school!"}, {"prompt": "2", "answer": "Have you told your parents yet?"}, {"prompt": "3", "answer": "I've been leading the team for three years."}]},
+      {"id": "r5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+       "items": [{"prompt": "I know her since 2010.", "answer": "I've known her since 2010."}, {"prompt": "I've met him two years ago.", "answer": "I met him two years ago."}, {"prompt": "I haven't decided already.", "answer": "I haven't decided yet."}]}
+    ],
+    "speaking_pt": "Grave um vídeo de 2 minutos respondendo \"Tell me about yourself\" como numa entrevista real: formação, trajetória, o que você tem feito ultimamente e suas maiores conquistas.",
+    "speaking_questions": ["Tell me about yourself.", "How long have you been in your current job or studies?", "What have you achieved so far?", "What have you been learning lately?", "What did you do before your current job?"],
+    "project_pt": "**Career timeline:** monte uma linha do tempo visual da sua vida profissional ou acadêmica em inglês (Canva, slides ou papel): marcos no simple past (\"2016 – Graduated from...\") e uma seção \"Now\" com present perfect (\"I've been leading... / I've completed...\"). Apresente em 2 minutos."
+  }
+}

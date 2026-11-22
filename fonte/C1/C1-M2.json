@@ -1,0 +1,538 @@
+{
+  "id": "C1-M2",
+  "level": "C1",
+  "title": "Work and Innovation",
+  "theme_pt": "Inovação, novas formas de trabalho, liderança e pitch",
+  "can_do": ["Usar inversão com advérbios negativos", "Escrever em registro formal com nominalização", "Expressar probabilidade e atitude com modais avançados", "Fazer um pitch persuasivo com recursos retóricos"],
+  "lessons": [
+    {
+      "id": "C1-M2-L1",
+      "title": "Disruption",
+      "subtitle_pt": "Inversão: Not only..., Never before..., Little did..., No sooner... than, Only when...",
+      "duration_min": 80,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – C1 (inversion with negative adverbials)", "Cambridge C1 Advanced – Reading and Use of English Part 4"],
+      "objectives": ["Usar inversão depois de advérbios negativos e restritivos", "Usar No sooner... than / Hardly... when para sequências rápidas", "Usar Only when / Only after / Not until com inversão na oração principal", "Narrar e analisar histórias de inovação e disrupção"],
+      "warmup": {
+        "text_pt": "No B2 você viu \"Never have I seen...\" e \"Had I known...\". No C1, a **inversão** vira uma ferramenta completa de **ênfase e drama**, muito usada em jornalismo, discursos e na prova C1 Advanced. Tema: empresas que **mudaram o mundo** — e as que **não perceberam** a mudança chegando.",
+        "questions": ["Which technology has changed your daily life the most in the last ten years?", "Can you think of a company that disappeared because it didn't adapt?"]
+      },
+      "vocabulary": [
+        {"en": "disruption / disruptive", "pt": "disrupção / disruptivo", "say": "disrâpshan / disrâptiv"},
+        {"en": "a breakthrough", "pt": "um avanço decisivo", "say": "a brêikθru"},
+        {"en": "to render (sth) obsolete", "pt": "tornar obsoleto", "say": "tu rénder obsolít"},
+        {"en": "an incumbent", "pt": "empresa já estabelecida (líder)", "say": "an inkâmbent"},
+        {"en": "a start-up / a scale-up", "pt": "uma startup / empresa em expansão", "say": "a stártâp / a skêilâp"},
+        {"en": "to pivot", "pt": "mudar de estratégia", "say": "tu pívot"},
+        {"en": "complacent / complacency", "pt": "acomodado / acomodação", "say": "kompléisent"},
+        {"en": "to overlook", "pt": "ignorar, não perceber", "say": "tu ôuverluk"},
+        {"en": "a game-changer", "pt": "algo que muda o jogo", "say": "a guêim tchêindjer"},
+        {"en": "to catch on", "pt": "pegar, virar moda", "say": "tu kétch on"},
+        {"en": "market share", "pt": "participação de mercado", "say": "márkit shér"},
+        {"en": "to lag behind", "pt": "ficar para trás", "say": "tu lég biháind"}
+      ],
+      "chunks": [
+        {"en": "Not only did they lose money, but they also lost their best people.", "pt": "Não só perderam dinheiro, como também perderam seus melhores profissionais."},
+        {"en": "Never before had a phone sold so fast.", "pt": "Nunca antes um celular tinha vendido tão rápido."},
+        {"en": "Little did they know what was coming.", "pt": "Mal sabiam eles o que estava por vir."},
+        {"en": "No sooner had they launched the app than it crashed.", "pt": "Mal lançaram o app, ele travou."},
+        {"en": "Only when it was too late did they react.", "pt": "Só quando já era tarde demais eles reagiram."},
+        {"en": "Under no circumstances should you ignore your customers.", "pt": "Em hipótese alguma você deve ignorar seus clientes."}
+      ],
+      "grammar": {
+        "title": "Inversion after negative and limiting adverbials",
+        "explanation_pt": "Quando uma expressão **negativa ou restritiva** abre a frase, invertemos sujeito e auxiliar, **como numa pergunta**. O efeito é **formal e enfático**.\n\n**Estrutura:** expressão + **auxiliar + sujeito** + verbo\n(se não houver auxiliar, use **do / does / did**)\n\n**1. Never / Rarely / Seldom / Hardly ever**\n- \"**Never before had** a product sold so fast.\"\n- \"**Rarely do** start-ups survive their first five years.\"\n\n**2. Not only... but (also)**\n- \"**Not only did** they lose money, **but** they **also** lost their reputation.\"\n\n**3. Little** (= não fazer ideia)\n- \"**Little did** they **know** that a small start-up would replace them.\"\n\n**4. Sequências rápidas: No sooner... than / Hardly... when / Scarcely... when** (geralmente com past perfect)\n- \"**No sooner had** they launched the app **than** it crashed.\"\n- \"**Hardly had** the CEO resigned **when** the share price rose.\"\n\n**5. Only + expressão de tempo/condição** → a inversão vem na **oração principal**:\n- \"**Only when** sales collapsed **did they realize** the problem.\"\n- \"**Only after** the merger **was** the extent of the debt revealed.\"\n- \"**Not until** 2010 **did** the company **launch** its first app.\"\n- \"**Only by** listening to customers **can** you succeed.\"\n\n**6. Expressões com \"no\"**\n- \"**Under no circumstances should** you share your password.\"\n- \"**On no account must** this information leave the room.\"\n- \"**At no time did** the board **consider** selling.\"\n- \"**In no way is** this a criticism.\"\n\n⚠️ **Não inverta** se a expressão não for negativa/restritiva ou não estiver no início: \"They **had never** seen...\" (sem inversão).\n⚠️ **Not only** no meio da frase não inverte: \"They **not only** lost money **but also**...\"",
+        "table": {
+          "headers": ["Expressão", "Exemplo"],
+          "rows": [["Never before / Rarely / Seldom", "Seldom have I seen such growth."], ["Not only... but also", "Not only is it cheaper, but it's also faster."], ["Little", "Little did we know..."], ["No sooner... than", "No sooner had I arrived than the phone rang."], ["Hardly / Scarcely... when", "Hardly had we started when the power went off."], ["Only when / after / by / then", "Only then did I understand."], ["Not until", "Not until the end did he speak."], ["Under no circumstances / On no account", "On no account should you sign it."]]
+        },
+        "examples": [
+          {"en": "Not only did streaming change how we watch films, but it also transformed how they are made.", "pt": "O streaming não só mudou como assistimos filmes, como também transformou como eles são feitos."},
+          {"en": "Little did the company realize that its own engineers had invented the technology that would replace it.", "pt": "Mal sabia a empresa que seus próprios engenheiros tinham inventado a tecnologia que a substituiria."},
+          {"en": "Only when customers started leaving in large numbers did the management team accept that change was necessary.", "pt": "Só quando os clientes começaram a sair em massa a diretoria aceitou que a mudança era necessária."}
+        ],
+        "tip_pt": "Na **fala** do dia a dia, inversão soa teatral. Use-a em **apresentações, redações, discursos e na prova** — ou com intenção humorística: \"Never have I been so tired!\""
+      },
+      "common_mistakes": [
+        {"wrong": "Never before they had seen such growth.", "right": "Never before had they seen such growth.", "why_pt": "Depois de Never before no início: auxiliar + sujeito."},
+        {"wrong": "Only when it was too late they reacted.", "right": "Only when it was too late did they react.", "why_pt": "Com Only when, a inversão vem na oração principal."},
+        {"wrong": "No sooner had we arrived when it started raining.", "right": "No sooner had we arrived than it started raining.", "why_pt": "No sooner... than (Hardly... when)."}
+      ],
+      "pronunciation": {
+        "focus": "Ritmo da inversão",
+        "tip_pt": "Frases com inversão começam com **ênfase forte** na expressão negativa e uma leve pausa antes do resto: \"**NEVER** before | had a phone sold so fast.\" / \"**LITTLE** did they know...\". Isso cria o efeito dramático.",
+        "practice": ["NEVER before | had a phone sold so fast.", "LITTLE did they know | what was coming.", "Not ONLY did they lose money, | but they ALSO lost their people."]
+      },
+      "dialogue": {
+        "title": "Post-mortem",
+        "context_pt": "Dois ex-diretores de uma rede de locadoras de vídeo (empresa fictícia) relembram o fim do negócio numa entrevista para um podcast.",
+        "lines": [
+          {"speaker": "Host", "en": "So, looking back, when did you realize the company was in trouble?", "pt": "Então, olhando para trás, quando vocês perceberam que a empresa estava com problemas?"},
+          {"speaker": "Mark", "en": "Honestly? Far too late. Only when our biggest stores started closing did we accept that streaming wasn't a fad.", "pt": "Sinceramente? Tarde demais. Só quando nossas maiores lojas começaram a fechar aceitamos que o streaming não era moda passageira."},
+          {"speaker": "Paula", "en": "And the frustrating thing is that we'd been warned. A young engineer presented a streaming prototype in 2006. Not only did we reject it, but we also cut her team's budget.", "pt": "E o frustrante é que fomos avisados. Uma jovem engenheira apresentou um protótipo de streaming em 2006. Não só rejeitamos, como cortamos o orçamento da equipe dela."},
+          {"speaker": "Host", "en": "Why?", "pt": "Por quê?"},
+          {"speaker": "Mark", "en": "Complacency. We had 70% of the market. Never before had we faced a real competitor, so we assumed we never would.", "pt": "Acomodação. Tínhamos 70% do mercado. Nunca antes tínhamos enfrentado um concorrente de verdade, então achávamos que nunca enfrentaríamos."},
+          {"speaker": "Paula", "en": "Little did we know that the engineer would go on to found a streaming start-up — which eventually bought our brand name!", "pt": "Mal sabíamos que aquela engenheira fundaria uma startup de streaming — que acabou comprando nossa marca!"},
+          {"speaker": "Host", "en": "That's quite an ending. What's the lesson for leaders today?", "pt": "Que final. Qual é a lição para os líderes de hoje?"},
+          {"speaker": "Mark", "en": "Under no circumstances should you assume your success will last. Rarely does disruption come from where you expect it.", "pt": "Em hipótese alguma presuma que seu sucesso vai durar. Raramente a disrupção vem de onde você espera."}
+        ]
+      },
+      "listening": {
+        "title": "The innovator's dilemma",
+        "context_pt": "Uma professora de administração explica a teoria da inovação disruptiva.",
+        "lines": [
+          {"speaker": "Professor", "en": "In 1997, the Harvard professor Clayton Christensen published The Innovator's Dilemma, a book that changed how business leaders think about innovation. His central question was a puzzling one: why do successful, well-managed companies fail? His answer was that they often fail precisely because they do the right things — they listen to their best customers and focus on improving their most profitable products. Meanwhile, a new technology appears at the bottom of the market. At first, it's cheaper, simpler and, frankly, worse. Established firms ignore it, because their best customers don't want it. But the new technology improves, and by the time it's good enough for mainstream customers, it's too late. Not only have the newcomers taken the low end of the market; they've learned how to move up. Kodak is often cited as an example: one of its own engineers built an early digital camera in 1975, yet the company struggled to embrace the technology that eventually helped to bring it down."}
+        ],
+        "questions": [
+          {"q": "What was Christensen's central question?", "answer": "Why do successful, well-managed companies fail?"},
+          {"q": "Why do established companies ignore the new technology?", "answer": "Because their best customers don't want it at first."},
+          {"q": "What is the new technology like at first?", "answer": "Cheaper, simpler and worse."},
+          {"q": "Why is Kodak cited as an example?", "answer": "Its engineer built an early digital camera in 1975, but it struggled to embrace digital technology."}
+        ]
+      },
+      "reading": {
+        "title": "Brazil's banking revolution",
+        "text": "For decades, opening a bank account in Brazil was, for many people, a frustrating experience. Fees were high, branches were crowded and the paperwork seemed endless. Large numbers of adults, particularly among lower-income groups, had no account at all. Then, in the 2010s, a wave of digital banks began to change the picture. Offering free accounts and credit cards that could be managed entirely through an app, companies such as Nubank attracted millions of customers who had long been ignored or poorly served by traditional institutions. Never before had so many Brazilians been able to open an account in a matter of minutes, from their phones. The traditional banks, at first, appeared unconcerned. Only when the new players had gathered tens of millions of customers did several of them respond seriously, launching their own digital brands and cutting fees. The changes did not stop there. In 2020, the Central Bank launched Pix, an instant payment system that is free for individuals. Not only did Pix make transfers immediate, but it also allowed small businesses and informal workers to accept payments without expensive card machines. Its adoption was remarkably fast: within a few years it had become one of the most widely used payment methods in the country. Seldom has a public innovation been embraced so quickly. Experts still debate the risks, from fraud to rising household debt. Yet few would deny that, in little more than a decade, the relationship between Brazilians and their money has been transformed.",
+        "questions": [
+          {"q": "What problems did many Brazilians face with traditional banks?", "answer": "High fees, crowded branches and endless paperwork; many had no account."},
+          {"q": "What did digital banks offer?", "answer": "Free accounts and credit cards managed entirely through an app."},
+          {"q": "When did traditional banks respond seriously?", "answer": "Only when the new players had gathered tens of millions of customers."},
+          {"q": "What two benefits of Pix are mentioned?", "answer": "Immediate transfers and allowing small businesses to accept payments without card machines."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Choose the correct inversion", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+         "items": [{"prompt": "Never before ___ such a successful launch.", "options": ["we had seen", "had we seen", "we saw"], "answer": "had we seen"}, {"prompt": "Not only ___ late, but he also forgot the slides.", "options": ["he arrived", "did he arrive", "arrived he"], "answer": "did he arrive"}, {"prompt": "No sooner had the meeting started ___ the fire alarm went off.", "options": ["when", "than", "that"], "answer": "than"}, {"prompt": "Only after the audit ___ the losses.", "options": ["they discovered", "did they discover", "discovered they"], "answer": "did they discover"}, {"prompt": "Under no circumstances ___ the door unlocked.", "options": ["you should leave", "should you leave", "leave you"], "answer": "should you leave"}]},
+        {"id": "ex2", "type": "answer", "title": "Rewrite with inversion", "instruction": "Rewrite the sentences beginning with the words given.", "instruction_pt": "Reescreva as frases começando com as palavras indicadas.",
+         "items": [{"prompt": "They didn't know that the start-up would succeed. (Little...)", "answer": "Little did they know that the start-up would succeed."}, {"prompt": "As soon as we signed the contract, the price went up. (No sooner...)", "answer": "No sooner had we signed the contract than the price went up."}, {"prompt": "The company rarely takes risks. (Rarely...)", "answer": "Rarely does the company take risks."}, {"prompt": "We didn't understand the problem until we spoke to customers. (Only when...)", "answer": "Only when we spoke to customers did we understand the problem."}]},
+        {"id": "ex3", "type": "answer", "title": "Not only... but also", "instruction": "Join the ideas using Not only... but also with inversion.", "instruction_pt": "Una as ideias com Not only... but also (com inversão).",
+         "items": [{"prompt": "The app is free. It is also very easy to use.", "answer": "Not only is the app free, but it is also very easy to use."}, {"prompt": "They cut prices. They also improved the service.", "answer": "Not only did they cut prices, but they also improved the service."}, {"prompt": "She has founded two companies. She has also written a bestseller.", "answer": "Not only has she founded two companies, but she has also written a bestseller."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "Little did they know what was coming."}, {"prompt": "2", "answer": "Never before had a phone sold so fast."}, {"prompt": "3", "answer": "Only when it was too late did they react."}, {"prompt": "4", "answer": "Under no circumstances should you ignore your customers."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "Seldom we have seen such a talented team.", "answer": "Seldom have we seen such a talented team."}, {"prompt": "Not until 2015 the company launched its app.", "answer": "Not until 2015 did the company launch its app."}, {"prompt": "Hardly had I sat down than my boss called.", "answer": "Hardly had I sat down when my boss called."}, {"prompt": "Only by working together we can solve this.", "answer": "Only by working together can we solve this."}]},
+        {"id": "ex6", "type": "match", "title": "Innovation vocabulary", "instruction": "Write the English word or expression.", "instruction_pt": "Escreva a palavra ou expressão em inglês.",
+         "items": [{"prompt": "tornar obsoleto", "answer": "render obsolete"}, {"prompt": "acomodado", "answer": "complacent"}, {"prompt": "mudar de estratégia", "answer": "pivot"}, {"prompt": "empresa líder já estabelecida", "answer": "incumbent"}, {"prompt": "ficar para trás", "answer": "lag behind"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Rise and fall\": in pairs, choose a company or product that was disrupted (or did the disrupting). Tell its story dramatically in 3 minutes, using at least five inversions (Never before..., Little did..., Only when..., Not only...).",
+        "instruction_pt": "\"Ascensão e queda\": em pares, escolham uma empresa ou produto que sofreu (ou causou) disrupção. Contem a história de forma dramática em 3 minutos, usando pelo menos cinco inversões.",
+        "questions": ["Which industry in Brazil do you think will be disrupted next?", "Why do successful companies become complacent?", "Has technology ever made your job (or a job you know) obsolete?", "Is disruption always good for consumers?", "Would you rather work for a start-up or an established company? Why?"]
+      },
+      "writing": {
+        "task": "Write a feature article (280–320 words) for a business magazine about a company or product that changed an industry. Use at least six different types of inversion.",
+        "task_pt": "Escreva uma reportagem (280–320 palavras) para uma revista de negócios sobre uma empresa ou produto que transformou um setor. Use pelo menos seis tipos diferentes de inversão.",
+        "model": "The phone that swallowed the world\n\nWhen Apple unveiled the first iPhone in January 2007, many industry experts were unimpressed. It had no physical keyboard, it was expensive, and at launch it couldn't run apps made by other companies. Little did they know that they were looking at the device that would transform not only the phone industry but almost every industry it touched.\n\nAt the time, the market leaders were Nokia and BlackBerry. Seldom had any company dominated a sector as completely as Nokia did in the mid-2000s, and BlackBerry was the undisputed favourite of business users. Both believed that their strengths — reliable hardware and physical keyboards — would protect them. Only when their customers began switching in large numbers did they accept that the rules of the game had changed.\n\nWhat made the smartphone so disruptive? Not only did it combine a phone, a music player and an internet browser in one device, but, with the launch of the App Store in 2008, it became a platform on which other businesses could be built. No sooner had the store opened than developers began creating products that nobody had imagined: ride-hailing, mobile banking, food delivery, dating apps.\n\nThe consequences went far beyond technology. Cameras, maps, alarm clocks and even torches were absorbed into a single device. Rarely has a product rendered so many others obsolete so quickly.\n\nThere is, of course, a darker side. Not until years later did researchers and parents begin to seriously question the effects of constant connectivity on attention and mental health, a debate that continues today.\n\nThe lesson for business leaders is clear. Under no circumstances should a company assume that today's market leadership guarantees tomorrow's survival. In technology, as Nokia discovered, the fall can be as fast as the rise."
+      },
+      "culture_note": {
+        "title": "\"Disrupt\" — de palavra negativa a elogio",
+        "text_pt": "Tradicionalmente, **disrupt** significa perturbar, interromper (\"protesters disrupted the meeting\"). Desde a teoria de Clayton Christensen, nos anos 1990, **disruptive** virou elogio no mundo dos negócios. Hoje, muitos críticos acham a palavra desgastada — usada para qualquer startup, mesmo sem inovação real."
+      },
+      "summary_pt": ["Expressão negativa/restritiva no início + auxiliar + sujeito.", "Not only did... but also · Little did... · Never before had...", "No sooner... than · Hardly/Scarcely... when.", "Only when/after/by... + inversão na oração principal."]
+    },
+    {
+      "id": "C1-M2-L2",
+      "title": "The future of work",
+      "subtitle_pt": "Nominalização e registro formal",
+      "duration_min": 80,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – C1 (nominalisation, formal register)", "Cambridge C1 Advanced – Writing Part 2 (report, proposal)"],
+      "objectives": ["Transformar verbos e adjetivos em substantivos (nominalização)", "Escrever frases densas e impessoais típicas de relatórios", "Usar collocations formais com substantivos (carry out an investigation, make an improvement)", "Discutir trabalho por plataformas, automação e novos modelos de emprego"],
+      "warmup": {
+        "text_pt": "Compare: \"Because the company **decided** to **automate** the factory, many workers **lost** their jobs.\" x \"The company's **decision** to **automate** the factory led to **significant job losses**.\" A segunda frase usa **nominalização**: transforma ações em **substantivos**. É o estilo de relatórios, artigos acadêmicos e da redação C1.",
+        "questions": ["Do you think your job will exist in 20 years?", "Would you prefer a stable job or the freedom of freelance or app-based work?"]
+      },
+      "vocabulary": [
+        {"en": "the gig economy", "pt": "a economia dos bicos / por plataformas", "say": "dâ gig ikónami"},
+        {"en": "a platform worker", "pt": "trabalhador de aplicativo", "say": "a plétform uârker"},
+        {"en": "job security / precarious work", "pt": "estabilidade / trabalho precário", "say": "djób sekiúriti / prikérias uârk"},
+        {"en": "employee benefits", "pt": "benefícios trabalhistas", "say": "emplóií bénefits"},
+        {"en": "to upskill / reskill", "pt": "aprimorar / requalificar", "say": "tu âpskil / riskil"},
+        {"en": "automation / to automate", "pt": "automação / automatizar", "say": "otomêishan"},
+        {"en": "productivity", "pt": "produtividade", "say": "prodâktíviti"},
+        {"en": "a workforce", "pt": "força de trabalho", "say": "a uârkfórs"},
+        {"en": "flexibility", "pt": "flexibilidade", "say": "fleksibíliti"},
+        {"en": "regulation / to regulate", "pt": "regulação / regulamentar", "say": "reguiulêishan"},
+        {"en": "the implementation of", "pt": "a implementação de", "say": "dí implimentêishan ov"},
+        {"en": "a shift towards", "pt": "uma mudança em direção a", "say": "a shift tuórdz"}
+      ],
+      "chunks": [
+        {"en": "The introduction of new technology led to job losses.", "pt": "A introdução de novas tecnologias levou à perda de empregos."},
+        {"en": "There has been a significant increase in freelance work.", "pt": "Houve um aumento significativo do trabalho freelancer."},
+        {"en": "The lack of regulation is a major concern.", "pt": "A falta de regulamentação é uma grande preocupação."},
+        {"en": "to carry out an investigation", "pt": "realizar uma investigação"},
+        {"en": "to have an impact on", "pt": "ter impacto em"},
+        {"en": "to make a recommendation", "pt": "fazer uma recomendação"}
+      ],
+      "grammar": {
+        "title": "Nominalisation and formal register",
+        "explanation_pt": "**Nominalização** = transformar **verbos** ou **adjetivos** em **substantivos**. O resultado é um texto mais **denso, impessoal e objetivo** — o estilo de relatórios, artigos e textos acadêmicos.\n\n**Comparação:**\n- Fala: \"Prices **went up** sharply, so people **bought** less.\"\n- Formal: \"The sharp **rise** in prices led to a **fall** in consumption.\"\n\n**Sufixos comuns:**\n- **-tion / -sion:** introduce → introduction, decide → decision, expand → expansion\n- **-ment:** develop → development, improve → improvement\n- **-ance / -ence:** perform → performance, depend → dependence\n- **-ity:** flexible → flexibility, secure → security\n- **-ness:** aware → awareness, effective → effectiveness\n- **-al:** arrive → arrival, refuse → refusal\n- Mesma forma: increase, decline, rise, fall, change, cut, demand\n\n**Como nominalizar:**\n1. Transforme o verbo principal em substantivo.\n2. O sujeito vira **possessivo** ou **of**: \"The government **regulated** apps\" → \"The government's **regulation** of apps\" / \"**the regulation of** apps **by** the government\".\n3. Advérbio vira **adjetivo**: \"increased **sharply**\" → \"a **sharp** increase\".\n4. Conectores viram **verbos/preposições de causa**: because/so → **led to, resulted in, caused, due to, as a result of**.\n\n**Collocations formais com substantivos:**\ncarry out (research / an investigation / a survey) · make (an improvement / a recommendation / a contribution) · have (an impact / an effect on) · take (measures / steps / action) · reach (a conclusion / an agreement) · pose (a threat / a risk)\n\n⚠️ **Cuidado com o exagero:** nominalização demais deixa o texto pesado e difícil. Equilibre com verbos fortes.",
+        "table": {
+          "headers": ["Estilo verbal (fala)", "Estilo nominal (formal)"],
+          "rows": [["Many people lost their jobs.", "There were widespread job losses."], ["The company decided to close the plant.", "The company's decision to close the plant..."], ["Workers are not secure.", "There is a lack of job security."], ["Sales fell dramatically.", "There was a dramatic fall in sales."], ["They introduced apps, so work became more flexible.", "The introduction of apps resulted in greater flexibility."]]
+        },
+        "examples": [
+          {"en": "The rapid growth of delivery apps has resulted in a sharp increase in the number of platform workers.", "pt": "O rápido crescimento dos apps de entrega resultou num aumento acentuado do número de trabalhadores por plataforma."},
+          {"en": "The lack of social protection for these workers poses a serious challenge for policymakers.", "pt": "A falta de proteção social para esses trabalhadores representa um sério desafio para os formuladores de políticas."},
+          {"en": "The implementation of a four-day week led to a noticeable improvement in staff well-being.", "pt": "A implementação de uma semana de quatro dias levou a uma melhora perceptível no bem-estar da equipe."}
+        ],
+        "tip_pt": "Português formal também nominaliza muito (\"a implementação de\", \"o aumento de\"). O desafio em inglês é escolher a **collocation** certa: **carry out** research (não \"make research\"), **take** measures, **reach** a conclusion."
+      },
+      "common_mistakes": [
+        {"wrong": "There was a dramatically increase in prices.", "right": "There was a dramatic increase in prices.", "why_pt": "Antes de substantivo, use adjetivo (dramatic), não advérbio."},
+        {"wrong": "They made a research about the gig economy.", "right": "They carried out research into the gig economy.", "why_pt": "carry out research (incontável) + into/on."},
+        {"wrong": "The introduce of apps changed work.", "right": "The introduction of apps changed work.", "why_pt": "Use a forma de substantivo (introduction)."}
+      ],
+      "pronunciation": {
+        "focus": "Acento em palavras derivadas",
+        "tip_pt": "O acento muda com o sufixo! **pro**duct → pro**duc**tive → produc**ti**vity · **flex**ible → flexi**bi**lity · im**ple**ment → implemen**ta**tion. Regra útil: em palavras com **-tion, -ity, -ic**, o acento cai na sílaba **antes** do sufixo.",
+        "practice": ["PROduct → proDUCtive → producTIVity", "FLEXible → flexiBIlity", "IMplement → implemenTAtion"]
+      },
+      "dialogue": {
+        "title": "Writing the report",
+        "context_pt": "Duas analistas revisam juntas um relatório sobre trabalho por aplicativos.",
+        "lines": [
+          {"speaker": "Fernanda", "en": "OK, let's look at the introduction. You wrote: \"Lots of people started working for apps because they lost their jobs.\" It's a bit informal for a report.", "pt": "OK, vamos ver a introdução. Você escreveu: \"Muita gente começou a trabalhar para apps porque perdeu o emprego.\" Está um pouco informal para um relatório."},
+          {"speaker": "Rafaela", "en": "True. How about: \"Rising unemployment led to a significant increase in platform work\"?", "pt": "Verdade. Que tal: \"O aumento do desemprego levou a um aumento significativo do trabalho por plataformas\"?"},
+          {"speaker": "Fernanda", "en": "Much better. And here: \"The apps don't protect workers, which worries experts.\"", "pt": "Muito melhor. E aqui: \"Os apps não protegem os trabalhadores, o que preocupa os especialistas.\""},
+          {"speaker": "Rafaela", "en": "\"The lack of protection for workers is a major concern among experts.\"", "pt": "\"A falta de proteção para os trabalhadores é uma grande preocupação entre os especialistas.\""},
+          {"speaker": "Fernanda", "en": "Perfect. Now the recommendations. We need something stronger than \"The government should do something.\"", "pt": "Perfeito. Agora as recomendações. Precisamos de algo mais forte que \"O governo deveria fazer alguma coisa.\""},
+          {"speaker": "Rafaela", "en": "\"We recommend the introduction of minimum standards for pay and safety, and the creation of a dialogue between platforms and workers' associations.\"", "pt": "\"Recomendamos a introdução de padrões mínimos de remuneração e segurança e a criação de um diálogo entre plataformas e associações de trabalhadores.\""},
+          {"speaker": "Fernanda", "en": "Great. Just be careful not to overdo it. If every sentence is full of nouns, nobody will want to read it.", "pt": "Ótimo. Só cuidado para não exagerar. Se toda frase estiver cheia de substantivos, ninguém vai querer ler."},
+          {"speaker": "Rafaela", "en": "Fair point. A good balance, then — clear, but professional.", "pt": "Bem lembrado. Equilíbrio, então — claro, mas profissional."}
+        ]
+      },
+      "listening": {
+        "title": "The four-day week",
+        "context_pt": "Uma jornalista apresenta resultados de testes da semana de quatro dias.",
+        "lines": [
+          {"speaker": "Journalist", "en": "One of the most talked-about experiments in the world of work in recent years has been the four-day week. In 2022, a large pilot programme in the UK involved around sixty companies, whose employees moved to a four-day week with no loss of pay, on the condition that productivity was maintained. The results, published in 2023, attracted international attention. Most of the participating companies said they would continue with the new schedule. Researchers reported reductions in stress and burnout among employees, as well as improvements in sleep and work-life balance. Similar trials have since been carried out in other countries, including Brazil. Critics point out, however, that the companies involved chose to take part, which may have influenced the results, and that the model is far harder to implement in sectors such as healthcare or retail. The debate, in other words, is far from over."}
+        ],
+        "questions": [
+          {"q": "What was the condition of the UK pilot?", "answer": "No loss of pay, as long as productivity was maintained."},
+          {"q": "What did most participating companies decide?", "answer": "To continue with the four-day week."},
+          {"q": "What improvements did researchers report?", "answer": "Less stress and burnout, better sleep and work-life balance."},
+          {"q": "What criticisms are mentioned?", "answer": "Companies chose to take part, and it is harder in sectors like healthcare or retail."}
+        ]
+      },
+      "reading": {
+        "title": "Working for the algorithm",
+        "text": "The expansion of app-based work has been one of the most significant changes in the labour market of the past decade. In Brazil, as in many other countries, the growth of ride-hailing and food delivery platforms has created opportunities for hundreds of thousands of people, particularly during periods of high unemployment. For many workers, the attraction lies in the flexibility these platforms offer: the ability to choose when and how long to work, and the absence of a boss in the traditional sense. However, this flexibility comes at a price. Unlike conventional employees, most platform workers do not have access to paid holidays, sick pay or guaranteed minimum earnings. Their income depends on fluctuations in demand and on decisions made by algorithms over which they have little control or understanding. The suspension of an account, for example, can mean the immediate loss of a worker's livelihood, often without a clear explanation. These concerns have led to growing pressure for regulation. Governments in several countries, including Brazil, have attempted to introduce rules guaranteeing minimum standards of pay and social protection, though such proposals have frequently met with resistance from both companies and some workers, who fear the loss of flexibility. The challenge for policymakers, therefore, lies in the development of a model that combines the advantages of flexibility with an adequate level of security. The outcome of this debate will have a profound impact not only on platform workers, but on the future of work as a whole.",
+        "questions": [
+          {"q": "What attracts many workers to platforms?", "answer": "Flexibility: choosing when and how long to work, and no traditional boss."},
+          {"q": "What do most platform workers lack?", "answer": "Paid holidays, sick pay and guaranteed minimum earnings."},
+          {"q": "Why can an account suspension be serious?", "answer": "It can mean the immediate loss of a livelihood, often without explanation."},
+          {"q": "Why have some workers resisted regulation?", "answer": "They fear losing flexibility."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "match", "title": "Form the noun", "instruction": "Write the noun form of each word.", "instruction_pt": "Escreva o substantivo de cada palavra.",
+         "items": [{"prompt": "expand", "answer": "expansion"}, {"prompt": "secure", "answer": "security"}, {"prompt": "refuse", "answer": "refusal"}, {"prompt": "aware", "answer": "awareness"}, {"prompt": "depend", "answer": "dependence"}, {"prompt": "implement", "answer": "implementation"}]},
+        {"id": "ex2", "type": "answer", "title": "Nominalise", "instruction": "Rewrite the sentences in a more formal style using nominalisation.", "instruction_pt": "Reescreva as frases num estilo mais formal usando nominalização.",
+         "items": [{"prompt": "Unemployment rose sharply, so more people started working for apps.", "answer": "The sharp rise in unemployment led to an increase in app-based work."}, {"prompt": "The company decided to close the factory, which surprised everyone.", "answer": "The company's decision to close the factory came as a surprise to everyone."}, {"prompt": "Workers are worried because they don't feel secure.", "answer": "There is growing concern among workers about the lack of job security."}, {"prompt": "When they introduced the new system, productivity improved a lot.", "answer": "The introduction of the new system resulted in a significant improvement in productivity."}]},
+        {"id": "ex3", "type": "multiple_choice", "title": "Formal collocations", "instruction": "Choose the correct verb.", "instruction_pt": "Escolha o verbo correto.",
+         "items": [{"prompt": "The university ___ out a survey of 2,000 workers.", "options": ["made", "carried", "did"], "answer": "carried"}, {"prompt": "The committee failed to ___ an agreement.", "options": ["reach", "do", "take"], "answer": "reach"}, {"prompt": "The government must ___ measures to protect workers.", "options": ["make", "take", "do"], "answer": "take"}, {"prompt": "Automation ___ a threat to many routine jobs.", "options": ["poses", "makes", "does"], "answer": "poses"}, {"prompt": "The report ___ several recommendations.", "options": ["does", "makes", "takes"], "answer": "makes"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "The introduction of new technology led to job losses."}, {"prompt": "2", "answer": "There has been a significant increase in freelance work."}, {"prompt": "3", "answer": "The lack of regulation is a major concern."}, {"prompt": "4", "answer": "Automation poses a threat to many routine jobs."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "There was a significantly improvement in sales.", "answer": "There was a significant improvement in sales."}, {"prompt": "The researchers made a research on remote work.", "answer": "The researchers carried out research on remote work."}, {"prompt": "The develop of new apps has changed the market.", "answer": "The development of new apps has changed the market."}, {"prompt": "The rise of prices led to a fall of demand.", "answer": "The rise in prices led to a fall in demand."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the report", "instruction": "Complete with: impact · lack · introduction · increase · recommendation.", "instruction_pt": "Complete o relatório.",
+         "items": [{"prompt": "Over the past five years, there has been a steady ___ in the number of remote workers.", "answer": "increase"}, {"prompt": "The ___ of hybrid working has had a positive ___ on staff retention.", "answer": "introduction / impact"}, {"prompt": "However, many employees mention a ___ of contact with colleagues.", "answer": "lack"}, {"prompt": "Our main ___ is to organize at least one in-person team day per week.", "answer": "recommendation"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Policy debate\": your group is advising the government on platform work. Half the group defends more regulation, half defends flexibility. Prepare your arguments, debate for 6 minutes, then summarize your conclusion in formal language (using nominalisation).",
+        "instruction_pt": "\"Debate de políticas públicas\": seu grupo assessora o governo sobre trabalho por plataformas. Metade defende mais regulamentação, metade defende flexibilidade. Preparem os argumentos, debatam por 6 minutos e resumam a conclusão em linguagem formal (com nominalização).",
+        "questions": ["Should app workers have the same rights as regular employees?", "Would a four-day week work in your company or industry?", "Which jobs are most at risk from automation? Which are safest?", "Is job security more important than flexibility for young people today?", "What skills will be most valuable in the job market of 2040?"]
+      },
+      "writing": {
+        "task": "Write a formal report (280–320 words) for your company's HR director on the results of a six-month hybrid working trial. Use headings (Introduction, Findings, Recommendations, Conclusion) and nominalisation throughout.",
+        "task_pt": "Escreva um relatório formal (280–320 palavras) para o diretor de RH sobre os resultados de um teste de seis meses de trabalho híbrido. Use títulos (Introduction, Findings, Recommendations, Conclusion) e nominalização ao longo do texto.",
+        "model": "Report on the hybrid working trial\n\nIntroduction\nThe aim of this report is to evaluate the results of the six-month hybrid working trial carried out in the marketing and finance departments between January and June, and to make recommendations regarding its continuation. The findings are based on an online survey of 85 employees, interviews with team leaders and an analysis of performance data.\n\nFindings\nOverall, the introduction of hybrid working was well received. Approximately 80% of respondents reported an improvement in their work-life balance, largely as a result of the reduction in commuting time. Performance data showed no decline in productivity; in fact, the finance department recorded a slight increase in the number of tasks completed on time.\n\nHowever, the trial also revealed some concerns. Several employees mentioned a lack of contact with colleagues and a sense of isolation, particularly among new staff. Team leaders also highlighted difficulties in the coordination of projects when team members were rarely in the office on the same days. In addition, the absence of clear guidelines led to some confusion regarding availability and response times.\n\nRecommendations\nIn light of these findings, the following measures are recommended:\n• the continuation of the hybrid model, with a minimum of two office days per week;\n• the introduction of fixed \"team days\" to facilitate collaboration;\n• the creation of a mentoring programme for new employees;\n• the publication of clear guidelines on working hours and communication.\n\nConclusion\nThe trial has demonstrated that hybrid working can lead to greater employee satisfaction without any loss of productivity. Provided that the issues of isolation and coordination are addressed, the adoption of the model on a permanent basis would be of considerable benefit to the company."
+      },
+      "culture_note": {
+        "title": "\"Plain English\"",
+        "text_pt": "Em países anglófonos, há um movimento forte por **Plain English**: governos e empresas são incentivados a escrever de forma clara e direta, evitando jargão e nominalização excessiva. No Reino Unido, a **Plain English Campaign** existe desde 1979. A lição: use estilo formal quando o gênero exige — mas clareza vem sempre primeiro."
+      },
+      "summary_pt": ["Nominalização: verbo/adjetivo → substantivo (decide → decision, secure → security).", "Advérbio vira adjetivo: rose sharply → a sharp rise.", "Causa/efeito: led to, resulted in, as a result of.", "Collocations: carry out research, take measures, reach a conclusion, pose a threat."]
+    },
+    {
+      "id": "C1-M2-L3",
+      "title": "Leading people",
+      "subtitle_pt": "Modais avançados: might well, may as well, be bound to, should (probabilidade), could hardly",
+      "duration_min": 80,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – C1 (modals: nuance of probability and attitude)", "Cambridge C1 Advanced – Speaking Part 3"],
+      "objectives": ["Graduar probabilidade com might well, may well, could well, be bound to, be sure to", "Usar should para expectativa (It should be ready by Friday)", "Usar may/might as well para sugestões resignadas", "Discutir liderança, confiança e cultura de equipe"],
+      "warmup": {
+        "text_pt": "\"Ele **pode muito bem** ser promovido.\" \"Já que estamos aqui, **é melhor** começarmos.\" \"Isso **deve** ficar pronto até sexta.\" Os modais no C1 servem para **graduar certeza** e mostrar **atitude** com precisão — habilidade essencial para quem lidera pessoas.",
+        "questions": ["What makes a good leader? Think of the best boss or teacher you've had.", "Is leadership something you're born with, or can it be learned?"]
+      },
+      "vocabulary": [
+        {"en": "psychological safety", "pt": "segurança psicológica", "say": "saikolódjikol sêifti"},
+        {"en": "to empower (staff)", "pt": "dar autonomia (à equipe)", "say": "tu empáuer"},
+        {"en": "to delegate", "pt": "delegar", "say": "tu déligueit"},
+        {"en": "to micromanage", "pt": "microgerenciar", "say": "tu máikroménidj"},
+        {"en": "to lead by example", "pt": "liderar pelo exemplo", "say": "tu líd bái igzémpol"},
+        {"en": "accountability / accountable", "pt": "responsabilização / responsável", "say": "akauntabíliti"},
+        {"en": "morale", "pt": "moral, ânimo (da equipe)", "say": "morál"},
+        {"en": "to earn (sb's) trust", "pt": "conquistar a confiança", "say": "tu ârn trâst"},
+        {"en": "a hands-on / hands-off approach", "pt": "estilo presente / distante", "say": "a réndz on / réndz óf aprôutch"},
+        {"en": "to step up", "pt": "assumir responsabilidade", "say": "tu stép âp"},
+        {"en": "to own a mistake", "pt": "assumir um erro", "say": "tu ôun a mistêik"},
+        {"en": "a toxic workplace", "pt": "ambiente de trabalho tóxico", "say": "a tóksik uârkplêis"}
+      ],
+      "chunks": [
+        {"en": "She might well become the next CEO.", "pt": "Ela pode muito bem se tornar a próxima CEO."},
+        {"en": "There's bound to be some resistance.", "pt": "Com certeza vai haver alguma resistência."},
+        {"en": "The report should be ready by Friday.", "pt": "O relatório deve estar pronto até sexta."},
+        {"en": "We may as well start without him.", "pt": "É melhor a gente começar sem ele."},
+        {"en": "I could hardly believe it.", "pt": "Eu mal podia acreditar."},
+        {"en": "You'd think they'd have learned by now.", "pt": "Era de se esperar que eles já tivessem aprendido."}
+      ],
+      "grammar": {
+        "title": "Advanced modals: probability and attitude",
+        "explanation_pt": "**1. Graduando a probabilidade (do mais certo ao menos certo):**\n- **will / be bound to / be sure to / be certain to** → certeza: \"There**'s bound to** be resistance.\" (com certeza)\n- **should / ought to** → expectativa lógica: \"The report **should be** ready by Friday.\" (é o esperado)\n- **may well / might well / could well** → **bem provável** (o \"well\" aumenta a chance): \"She **might well** get the job.\"\n- **may / might / could** → possível\n- **might just / could just** → pequena chance (às vezes com esperança): \"It **might just** work!\"\n- **be unlikely to / I doubt** → improvável\n\n**2. May / might as well** → \"é melhor / tanto faz, então...\" (sugestão sem entusiasmo, porque não há opção melhor):\n- \"The meeting is cancelled. We **may as well** go home.\"\n- \"Nobody's listening. I **might as well** be talking to a wall.\" (= é como se...)\n\n**3. Could hardly / can't possibly** → quase impossível:\n- \"I **could hardly** say no to my boss.\" / \"We **can't possibly** finish by Monday.\"\n\n**4. Would para expectativa e crítica:**\n- \"You**'d think** a manager **would** know that.\" (seria de esperar)\n- \"She **would** say that, wouldn't she?\" (típico dela)\n- \"I**'d have thought** so.\" (eu acharia que sim)\n\n**5. No passado:** might well have, is bound to have, should have (expectativa: \"They **should have arrived** by now.\")",
+        "table": {
+          "headers": ["Modal", "Grau / atitude", "Exemplo"],
+          "rows": [["be bound to / be sure to", "certeza", "He's bound to be late."], ["should", "expectativa", "It should take ten minutes."], ["may / might / could well", "bem provável", "Prices could well rise."], ["might just", "pequena chance, esperança", "We might just win."], ["may / might as well", "sem opção melhor", "We may as well wait."], ["could hardly", "quase impossível", "I could hardly refuse."], ["You'd think...", "expectativa frustrada", "You'd think he'd apologize."]]
+        },
+        "examples": [
+          {"en": "If you micromanage talented people, they may well start looking for another job.", "pt": "Se você microgerencia pessoas talentosas, é bem provável que elas comecem a procurar outro emprego."},
+          {"en": "Any major change is bound to cause some anxiety, so communicate early and often.", "pt": "Qualquer grande mudança com certeza vai causar alguma ansiedade, então comunique cedo e com frequência."},
+          {"en": "You'd think that, after three failed projects, the director would listen to the team.", "pt": "Era de se esperar que, depois de três projetos fracassados, o diretor ouvisse a equipe."}
+        ],
+        "tip_pt": "Atenção: **should** de probabilidade (\"It **should** be easy\" = deve ser fácil) é diferente de **should** de conselho. O contexto decide. E **may well** NÃO significa \"pode bem\" no sentido de \"tem permissão\" — significa **\"é bem provável\"**."
+      },
+      "common_mistakes": [
+        {"wrong": "He is bound to being late.", "right": "He is bound to be late.", "why_pt": "be bound to + verbo base."},
+        {"wrong": "We might as well to go home.", "right": "We might as well go home.", "why_pt": "might as well + verbo base (sem to)."},
+        {"wrong": "I could hardly not believe it.", "right": "I could hardly believe it.", "why_pt": "hardly já é negativo."}
+      ],
+      "pronunciation": {
+        "focus": "Acento em may/might WELL",
+        "tip_pt": "Em **may well / might well / could well**, o **well** é acentuado: \"She might **WELL** get the job.\" Em **may as well**, o acento recai no verbo principal: \"We may as well **GO**.\" E **bound to** = \"báundtu\".",
+        "practice": ["She might WELL get the job.", "We may as well GO home.", "There's BOUND to be resistance."]
+      },
+      "dialogue": {
+        "title": "Restructuring the team",
+        "context_pt": "Um diretor e um gerente planejam como comunicar uma reestruturação à equipe.",
+        "lines": [
+          {"speaker": "Director", "en": "So, the restructuring is going ahead. How do you think the team will react?", "pt": "Então, a reestruturação vai acontecer. Como você acha que a equipe vai reagir?"},
+          {"speaker": "Leo", "en": "Honestly, there's bound to be some resistance. Two people are changing departments, and they might well see it as a demotion.", "pt": "Sinceramente, com certeza vai haver alguma resistência. Duas pessoas vão mudar de departamento e podem muito bem ver isso como rebaixamento."},
+          {"speaker": "Director", "en": "That's what I was afraid of. When should we tell them?", "pt": "Era disso que eu tinha medo. Quando devemos contar?"},
+          {"speaker": "Leo", "en": "As soon as possible. Rumours are already going round, so we may as well be transparent.", "pt": "O quanto antes. Já tem boato circulando, então é melhor sermos transparentes."},
+          {"speaker": "Director", "en": "Agreed. HR says the new structure should be in place by March.", "pt": "Concordo. O RH diz que a nova estrutura deve estar implementada até março."},
+          {"speaker": "Leo", "en": "That's tight, but doable. One thing, though: you'd think the board would have consulted us before deciding.", "pt": "É apertado, mas dá. Só uma coisa: era de se esperar que a diretoria tivesse nos consultado antes de decidir."},
+          {"speaker": "Director", "en": "I know. I could hardly argue with them at that stage. But we can involve the team in how it's implemented.", "pt": "Eu sei. Eu mal podia contestar naquele momento. Mas podemos envolver a equipe na forma de implementar."},
+          {"speaker": "Leo", "en": "Good idea. If they feel heard, it might just work.", "pt": "Boa ideia. Se eles se sentirem ouvidos, pode ser que dê certo."}
+        ]
+      },
+      "listening": {
+        "title": "What makes a team work?",
+        "context_pt": "Um consultor fala sobre pesquisas sobre equipes eficazes.",
+        "lines": [
+          {"speaker": "Consultant", "en": "A few years ago, Google ran an internal research project, known as Project Aristotle, to find out why some of its teams performed better than others. You'd think the answer would be about talent — put the smartest people together and you're bound to succeed. But that's not what they found. According to the company's own summary, the most important factor was psychological safety: whether team members feel safe to take risks, ask questions and admit mistakes without being embarrassed or punished. The concept was developed by Amy Edmondson, a professor at Harvard Business School. Her early research in hospitals produced a surprising result: the better teams appeared to report more errors — not because they made more, she concluded, but because people felt safe enough to talk about them. So, if you're a leader, the message is clear. Your team may well be hiding problems from you. And if they are, you might as well be flying blind."}
+        ],
+        "questions": [
+          {"q": "What was Project Aristotle?", "answer": "Google's internal research project on why some teams performed better than others."},
+          {"q": "What was the most important factor?", "answer": "Psychological safety."},
+          {"q": "Who developed the concept?", "answer": "Amy Edmondson, a professor at Harvard Business School."},
+          {"q": "Why did better hospital teams report more errors?", "answer": "People felt safe enough to talk about them."}
+        ]
+      },
+      "video": {
+        "title": "How to turn a group of strangers into a team",
+        "speaker": "Amy Edmondson",
+        "url": "https://www.ted.com/search?q=amy+edmondson+how+to+turn+a+group+of+strangers+into+a+team",
+        "task_pt": "Assista à palestra (cerca de 12 minutos) e responda usando modais avançados (might well, be bound to, should...):",
+        "questions": ["What does the speaker mean by \"teaming\"?", "Which example from the talk did you find most powerful? Why?", "How psychologically safe is your current team, class or family? Give examples.", "What could a leader do tomorrow to increase psychological safety?"]
+      },
+      "reading": {
+        "title": "The humble leader",
+        "text": "For much of the twentieth century, the ideal leader was imagined as a confident, decisive figure who had all the answers. That image may well be changing. A growing body of research suggests that some of the most effective leaders combine ambition with a quality that is rarely associated with power: humility. In his influential study of companies that had made the leap from good to great performance, the management writer Jim Collins described what he called \"Level 5 leaders\" — executives who blended intense professional will with personal modesty. They were quick to give credit to others for success and to take responsibility for failure. Later studies have pointed in a similar direction, linking humble leadership with greater team engagement and learning. Why should humility matter so much? One explanation is that no leader, however talented, can possibly know everything in a complex organization. Leaders who admit what they don't know are more likely to ask for input, and their teams are more likely to offer it. Arrogant leaders, by contrast, are bound to hear only what they want to hear. None of this means that leaders should be passive or indecisive. Teams still need direction, and there will be moments when someone simply has to decide. But the old idea that admitting a mistake is a sign of weakness looks increasingly outdated. You'd think, after decades of evidence, that this lesson would be widely accepted. In many workplaces, however, it is still waiting to be learned.",
+        "questions": [
+          {"q": "What was the traditional image of an ideal leader?", "answer": "A confident, decisive figure who had all the answers."},
+          {"q": "How did Collins describe \"Level 5 leaders\"?", "answer": "Executives who combined intense professional will with personal modesty."},
+          {"q": "Why does humility matter, according to the text?", "answer": "No leader can know everything; humble leaders ask for input and get it."},
+          {"q": "Does the text say leaders should be passive?", "answer": "No — teams still need direction and decisions."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Choose the modal", "instruction": "Choose the most appropriate option.", "instruction_pt": "Escolha a opção mais adequada.",
+         "items": [{"prompt": "With so many changes, there's ___ be some confusion.", "options": ["bound to", "may as well", "could hardly"], "answer": "bound to"}, {"prompt": "The train left five minutes ago. We ___ walk.", "options": ["might as well", "are bound to", "should well"], "answer": "might as well"}, {"prompt": "If we send it today, it ___ arrive by Thursday.", "options": ["should", "may as well", "could hardly"], "answer": "should"}, {"prompt": "She's the most experienced candidate, so she ___ get the job.", "options": ["may well", "may as well", "could hardly"], "answer": "may well"}, {"prompt": "It was so noisy that I ___ hear what he said.", "options": ["could hardly", "was bound to", "might well"], "answer": "could hardly"}]},
+        {"id": "ex2", "type": "answer", "title": "Rewrite with the word given", "instruction": "Rewrite the sentence using the word in CAPS.", "instruction_pt": "Reescreva usando a palavra em CAPS.",
+         "items": [{"prompt": "It's very likely that the project will be delayed. (WELL)", "answer": "The project may/might/could well be delayed."}, {"prompt": "I'm certain they'll complain about the new rules. (BOUND)", "answer": "They're bound to complain about the new rules."}, {"prompt": "There's no point in waiting any longer, so let's start. (AS WELL)", "answer": "We may/might as well start."}, {"prompt": "It was almost impossible to refuse his offer. (HARDLY)", "answer": "I could hardly refuse his offer."}]},
+        {"id": "ex3", "type": "match", "title": "Leadership vocabulary", "instruction": "Write the English expression.", "instruction_pt": "Escreva a expressão em inglês.",
+         "items": [{"prompt": "microgerenciar", "answer": "micromanage"}, {"prompt": "liderar pelo exemplo", "answer": "lead by example"}, {"prompt": "moral da equipe", "answer": "morale"}, {"prompt": "assumir um erro", "answer": "own a mistake"}, {"prompt": "segurança psicológica", "answer": "psychological safety"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "She might well become the next CEO."}, {"prompt": "2", "answer": "There's bound to be some resistance."}, {"prompt": "3", "answer": "We may as well start without him."}, {"prompt": "4", "answer": "You'd think they'd have learned by now."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "The new manager is bound to making changes.", "answer": "The new manager is bound to make changes."}, {"prompt": "It's raining, so we might as well to stay in.", "answer": "It's raining, so we might as well stay in."}, {"prompt": "I could hardly not hear him.", "answer": "I could hardly hear him."}, {"prompt": "The parcel should arrives tomorrow.", "answer": "The parcel should arrive tomorrow."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the advice", "instruction": "Complete with: bound · well · hardly · should · as well · think.", "instruction_pt": "Complete o conselho.",
+         "items": [{"prompt": "When you become a manager, you're ___ to make mistakes. Own them.", "answer": "bound"}, {"prompt": "If you never delegate, your best people may ___ leave.", "answer": "well"}, {"prompt": "You'd ___ experienced leaders would know this, but many don't.", "answer": "think"}, {"prompt": "A new team ___ take a few months to find its rhythm. If a meeting has no clear purpose, you might ___ cancel it. And you can ___ expect trust if you never share information.", "answer": "should / as well / hardly"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Leadership scenarios\": in groups, discuss what a good leader should do in each scenario (a team member keeps missing deadlines; two colleagues are in conflict; the company is about to announce lay-offs). Predict reactions using advanced modals.",
+        "instruction_pt": "\"Cenários de liderança\": em grupos, discutam o que um bom líder deveria fazer em cada situação (um membro da equipe perde prazos; dois colegas estão em conflito; a empresa vai anunciar demissões). Prevejam reações usando modais avançados.",
+        "questions": ["Who is the best leader you've ever worked or studied with? Why?", "Should leaders show vulnerability? Is there a limit?", "What's more dangerous: a leader who micromanages or one who is never there?", "How psychologically safe do you feel in your current team?", "Would you like to be a manager? Why / why not?"]
+      },
+      "writing": {
+        "task": "Write an email (250–300 words) from a new team leader to their team, introducing themselves, explaining their leadership style and preparing the team for upcoming changes. Use at least six advanced modals.",
+        "task_pt": "Escreva um e-mail (250–300 palavras) de um novo líder para a equipe, apresentando-se, explicando seu estilo de liderança e preparando o time para mudanças. Use pelo menos seis modais avançados.",
+        "model": "Subject: Hello from your new team leader\n\nDear all,\n\nAs most of you will know by now, I'm joining the customer experience team as your new leader from Monday. I wanted to take this opportunity to introduce myself and share a few thoughts about how I like to work.\n\nI've spent the last eight years in customer service, first as an agent and later as a supervisor, so I have a pretty good idea of what your days look like — the good, the bad and the frustrating. That said, every team is different, and I'm bound to have a lot to learn about how things work here. Over the next few weeks, I'd like to meet each of you individually. The meetings should take about thirty minutes, and Ana will send out a schedule shortly.\n\nIn terms of style, I try to be hands-on without micromanaging. I'll set clear goals, but I trust you to decide how to reach them. I'd much rather you came to me with a problem early than tried to hide it — mistakes are inevitable, and you'll find I'm the first to own mine.\n\nYou may well have heard that the company is planning to introduce a new support platform later this year. I know changes like this can cause anxiety, and there may well be some difficult moments during the transition. However, I can promise that you'll be involved in the process from the start. After all, you know our customers better than anyone, so it would hardly make sense to plan this without you.\n\nFinally, my door — or my Teams chat — is always open. If you have questions, ideas or concerns, you might as well send them now rather than wait for our meeting!\n\nLooking forward to working with you all.\n\nBest wishes,\nGabriela"
+      },
+      "culture_note": {
+        "title": "\"Hierarchy\" e cultura",
+        "text_pt": "Pesquisadores como **Erin Meyer** (*The Culture Map*) mostram que culturas variam muito na relação com hierarquia. Na Escandinávia e na Holanda, chefes são tratados como iguais e decisões costumam ser consensuais; no Brasil, no Japão e na Índia, a hierarquia tende a ser mais marcada. Em equipes internacionais, um bom líder **adapta** seu estilo."
+      },
+      "summary_pt": ["Certeza: be bound to / be sure to · Expectativa: should.", "Bem provável: may / might / could well · Pequena chance: might just.", "Sem opção melhor: may / might as well.", "Quase impossível: could hardly · Expectativa frustrada: You'd think..."]
+    },
+    {
+      "id": "C1-M2-L4",
+      "title": "Pitch perfect",
+      "subtitle_pt": "Recursos retóricos: regra de três, perguntas retóricas, cleft sentences e signposting",
+      "duration_min": 85,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – C1 (presentations, rhetorical devices)", "Cambridge C1 Advanced – Speaking Part 2 (long turn)"],
+      "objectives": ["Usar a regra de três, perguntas retóricas e contraste para persuadir", "Usar cleft sentences para focar (What we need is..., The reason why... is that...)", "Estruturar uma apresentação com signposting", "Fazer um pitch de 3 minutos para investidores"],
+      "warmup": {
+        "text_pt": "Você tem **três minutos** para convencer investidores a apostarem na sua ideia. O que diz? Grandes oradores usam os mesmos truques há mais de 2.000 anos: **regra de três**, **perguntas retóricas**, **contraste**, **repetição**. Hoje você vai aprender e usar esses recursos em inglês.",
+        "questions": ["Who is the most persuasive speaker you've ever heard? What made them convincing?", "If you could start a business tomorrow, what would it be?"]
+      },
+      "vocabulary": [
+        {"en": "a pitch / to pitch an idea", "pt": "uma apresentação de venda / apresentar uma ideia", "say": "a pítch"},
+        {"en": "an elevator pitch", "pt": "um pitch de elevador (bem curto)", "say": "an éleveiter pítch"},
+        {"en": "a pain point", "pt": "um problema do cliente", "say": "a pêin póint"},
+        {"en": "a value proposition", "pt": "proposta de valor", "say": "a véliu propozíshan"},
+        {"en": "scalable", "pt": "escalável", "say": "skêilabol"},
+        {"en": "a funding round", "pt": "uma rodada de investimento", "say": "a fândin ráund"},
+        {"en": "traction", "pt": "tração (crescimento comprovado)", "say": "trékshan"},
+        {"en": "to hook (the audience)", "pt": "prender (a atenção do público)", "say": "tu huk"},
+        {"en": "a call to action", "pt": "uma chamada para ação", "say": "a kól tu ékshan"},
+        {"en": "rhetorical", "pt": "retórico", "say": "ritórikol"},
+        {"en": "compelling", "pt": "convincente, cativante", "say": "kompélin"},
+        {"en": "to wrap up", "pt": "concluir, encerrar", "say": "tu rép âp"}
+      ],
+      "chunks": [
+        {"en": "Imagine a world where...", "pt": "Imagine um mundo onde..."},
+        {"en": "What we need is a simpler solution.", "pt": "O que precisamos é de uma solução mais simples."},
+        {"en": "The reason why this matters is that...", "pt": "A razão pela qual isso importa é que..."},
+        {"en": "So, what does this mean for you?", "pt": "Então, o que isso significa para vocês?"},
+        {"en": "Let me move on to the numbers.", "pt": "Deixem-me passar para os números."},
+        {"en": "Faster, cheaper and greener.", "pt": "Mais rápido, mais barato e mais sustentável."}
+      ],
+      "grammar": {
+        "title": "Rhetorical devices and cleft sentences",
+        "explanation_pt": "**1. Regra de três (tricolon)** — três elementos paralelos soam completos e memoráveis:\n- \"Our app is **faster, cheaper and safer**.\"\n- \"**We listened, we learned, and we built** something better.\"\n\n**2. Perguntas retóricas** — envolvem o público (você responde logo em seguida):\n- \"**How many of you** have waited an hour for a doctor's appointment? **Exactly.**\"\n- \"**So, why does this matter?** Because...\"\n\n**3. Contraste e antítese:**\n- \"It's **not about** working harder; **it's about** working smarter.\"\n- \"**Yesterday**, it took three days. **Today**, it takes three minutes.\"\n\n**4. Repetição (anáfora)** — repetir o início das frases:\n- \"**Every day**, families lose time. **Every day**, businesses lose money. **Every day**, we wait.\"\n\n**5. Cleft sentences para foco** (revisão e expansão do B2):\n- **What** + oração + **is/was**: \"**What we need is** a simpler solution.\" / \"**What surprised us was** the demand.\"\n- **All** + oração (= a única coisa): \"**All you need is** a phone.\"\n- **The reason (why)... is that**: \"**The reason why** we're different **is that** we listen.\"\n- **The thing / The problem / The truth is (that)**: \"**The problem is that** nobody trusts the current system.\"\n- **It is/was... that/who**: \"**It was** our customers **who** gave us this idea.\"\n\n**6. Signposting** — sinaliza a estrutura:\n- Começo: \"I'd like to start by... / Let me begin with a question.\"\n- Transição: \"Let's move on to... / This brings me to... / Turning now to...\"\n- Ênfase: \"I'd like to stress that... / The key point here is...\"\n- Fim: \"To wrap up... / Let me leave you with one thought...\"",
+        "table": {
+          "headers": ["Recurso", "Exemplo"],
+          "rows": [["Regra de três", "Simple, fast and affordable."], ["Pergunta retórica", "Sound familiar? I thought so."], ["Contraste", "Not a product, but a movement."], ["Repetição", "We'll grow. We'll learn. We'll lead."], ["What-cleft", "What makes us different is our community."], ["It-cleft", "It's the data that tells the story."], ["Signposting", "This brings me to my final point."]]
+        },
+        "examples": [
+          {"en": "What small farmers need isn't charity; it's access to fair markets.", "pt": "Do que os pequenos agricultores precisam não é caridade; é acesso a mercados justos."},
+          {"en": "How much time do you spend looking for parking every week? For most city drivers, it's hours.", "pt": "Quanto tempo você passa procurando vaga toda semana? Para a maioria dos motoristas urbanos, são horas."},
+          {"en": "It was our first hundred users who showed us what the product should really be.", "pt": "Foram nossos primeiros cem usuários que nos mostraram o que o produto realmente deveria ser."}
+        ],
+        "tip_pt": "Não exagere! Um pitch com perguntas retóricas a cada frase soa artificial. Uma boa receita: **uma pergunta para abrir**, **uma regra de três** para a proposta de valor e **uma cleft sentence** para o ponto principal."
+      },
+      "common_mistakes": [
+        {"wrong": "What we need it is more time.", "right": "What we need is more time.", "why_pt": "Na what-cleft, não repita o sujeito (it)."},
+        {"wrong": "The reason why we're different is because we listen.", "right": "The reason why we're different is that we listen.", "why_pt": "Em textos formais, prefira the reason... is that (\"because\" é redundante)."},
+        {"wrong": "It was our customers which gave us the idea.", "right": "It was our customers who gave us the idea.", "why_pt": "Pessoas: who (ou that)."}
+      ],
+      "pronunciation": {
+        "focus": "Ritmo e pausas em apresentações",
+        "tip_pt": "Na **regra de três**, a entonação sobe nos dois primeiros itens e **cai** no último: \"faster ↗, cheaper ↗ and safer ↘\". Depois de uma **pergunta retórica**, faça uma **pausa de 1–2 segundos** — o silêncio cria impacto. Em **cleft sentences**, enfatize o elemento focado.",
+        "practice": ["Faster ↗, cheaper ↗ and safer ↘.", "How many of you have waited an hour for a doctor? | (pause) | Exactly.", "What we NEED | is a SIMPLER solution."]
+      },
+      "dialogue": {
+        "title": "Rehearsing the pitch",
+        "context_pt": "Uma fundadora ensaia seu pitch com um mentor antes de apresentar a investidores.",
+        "lines": [
+          {"speaker": "Mentor", "en": "OK, from the top. You have three minutes. Go.", "pt": "OK, do começo. Você tem três minutos. Vai."},
+          {"speaker": "Malu", "en": "\"Hello, my name is Malu and I'm the founder of FeiraJá. Our app connects small farmers with restaurants...\"", "pt": "\"Olá, meu nome é Malu e sou fundadora da FeiraJá. Nosso app conecta pequenos agricultores a restaurantes...\""},
+          {"speaker": "Mentor", "en": "Stop there. You've lost them already. Don't start with your name — start with the problem. Hook them.", "pt": "Para aí. Você já perdeu eles. Não comece com seu nome — comece com o problema. Prenda a atenção."},
+          {"speaker": "Malu", "en": "Right. \"How much of the food grown in Brazil never reaches a plate? According to some estimates, a significant share is wasted along the way. What small farmers need isn't charity — it's a direct route to buyers.\"", "pt": "Certo. \"Quanto da comida produzida no Brasil nunca chega a um prato? Segundo algumas estimativas, uma parcela significativa é desperdiçada pelo caminho. Do que os pequenos agricultores precisam não é caridade — é um caminho direto até os compradores.\""},
+          {"speaker": "Mentor", "en": "Much better. Now the solution, and keep it simple.", "pt": "Muito melhor. Agora a solução, e mantenha simples."},
+          {"speaker": "Malu", "en": "\"FeiraJá connects farmers directly with restaurants. Fresher food, fairer prices and less waste. Restaurants order by 8 p.m.; the food arrives the next morning.\"", "pt": "\"A FeiraJá conecta agricultores diretamente a restaurantes. Comida mais fresca, preços mais justos e menos desperdício. Os restaurantes pedem até as 20h; a comida chega na manhã seguinte.\""},
+          {"speaker": "Mentor", "en": "Great use of the rule of three. What about traction? Investors will want numbers.", "pt": "Ótimo uso da regra de três. E a tração? Investidores vão querer números."},
+          {"speaker": "Malu", "en": "\"This brings me to our results. In twelve months, we've grown from five farmers to two hundred. It was our first restaurant clients who asked us to expand — and that's why we're here today.\"", "pt": "\"Isso me leva aos nossos resultados. Em doze meses, passamos de cinco para duzentos agricultores. Foram nossos primeiros restaurantes clientes que pediram para expandirmos — e é por isso que estamos aqui hoje.\""},
+          {"speaker": "Mentor", "en": "Excellent. Finish with a clear call to action, and you've got it.", "pt": "Excelente. Termine com uma chamada para ação clara e está pronto."}
+        ]
+      },
+      "listening": {
+        "title": "Three tricks from the ancient world",
+        "context_pt": "Um professor de oratória explica recursos retóricos clássicos.",
+        "lines": [
+          {"speaker": "Speaker", "en": "More than two thousand years ago, Aristotle argued that persuasion rests on three pillars: ethos, your credibility; pathos, the emotions you create; and logos, your logic and evidence. Notice, by the way, that even his theory comes in three parts. The rule of three is everywhere in rhetoric. Julius Caesar's famous message, often quoted as \"veni, vidi, vici\" — \"I came, I saw, I conquered\" — is perhaps the most famous example. Why does it work? Psychologists suggest that three is the smallest number that creates a pattern. Two items feel like a comparison; four start to feel like a list. Three feels complete. The second trick is antithesis — putting opposites side by side. Think of Neil Armstrong's line about \"one small step for man\" and \"one giant leap for mankind\". And the third is the rhetorical question, which turns a lecture into a conversation. So, what do these techniques have in common? They make your message easier to remember. And in a pitch, what matters most is what people remember after you've left the room."}
+        ],
+        "questions": [
+          {"q": "What are Aristotle's three pillars of persuasion?", "answer": "Ethos (credibility), pathos (emotion) and logos (logic and evidence)."},
+          {"q": "Why does the rule of three work?", "answer": "Three is the smallest number that creates a pattern; it feels complete."},
+          {"q": "What is antithesis?", "answer": "Putting opposites side by side."},
+          {"q": "What do the three techniques have in common?", "answer": "They make the message easier to remember."}
+        ]
+      },
+      "video": {
+        "title": "How to speak so that people want to listen",
+        "speaker": "Julian Treasure",
+        "url": "https://www.ted.com/search?q=julian+treasure+how+to+speak+so+that+people+want+to+listen",
+        "task_pt": "Assista à palestra (cerca de 10 minutos) e responda:",
+        "questions": ["What are the \"seven deadly sins\" of speaking that the speaker mentions? Which do you commit?", "What does the acronym HAIL stand for?", "Which vocal tools (register, timbre, prosody, pace, pitch, volume) do you need to work on most?", "How would you use his advice in a job interview or a pitch?"]
+      },
+      "reading": {
+        "title": "Why most pitches fail",
+        "text": "Every year, thousands of founders stand in front of investors hoping to secure funding. Most of them fail — and, according to experienced investors, the reason is rarely the idea itself. What sinks most pitches is the way the idea is communicated. The first mistake is starting in the wrong place. Many founders open with their company history or a detailed description of their technology. Investors, however, want to understand the problem before they care about the solution. A strong pitch begins with a pain point the audience can feel — ideally one that is large, urgent and growing. The second mistake is trying to say too much. Faced with a short time slot, nervous presenters often try to cram every feature onto their slides. The result is confusion. What investors remember is a single clear message: who the product is for, what it does, and why it is better than the alternatives. The third mistake is neglecting evidence. Enthusiasm is necessary, but it is not sufficient. Investors want to see traction — paying customers, growth rates, partnerships — that proves the idea works outside the founder's imagination. Finally, many pitches simply end. The speaker reaches the last slide, says \"thank you\" and waits for questions. A compelling pitch, by contrast, finishes with a clear call to action: what the founder is asking for and what the investor will gain. The best founders understand that a pitch is not a lecture. It is the beginning of a relationship. And, as with any relationship, first impressions matter enormously.",
+        "questions": [
+          {"q": "What sinks most pitches, according to investors?", "answer": "The way the idea is communicated, not the idea itself."},
+          {"q": "Where should a strong pitch begin?", "answer": "With a pain point the audience can feel."},
+          {"q": "What is traction? Give examples.", "answer": "Evidence the idea works: paying customers, growth rates, partnerships."},
+          {"q": "How should a compelling pitch end?", "answer": "With a clear call to action: what is asked and what the investor gains."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "answer", "title": "Make it a cleft sentence", "instruction": "Rewrite the sentences as cleft sentences beginning with the words given.", "instruction_pt": "Reescreva como cleft sentences, começando com as palavras indicadas.",
+         "items": [{"prompt": "We need more investment. (What...)", "answer": "What we need is more investment."}, {"prompt": "Our customers gave us the idea. (It was...)", "answer": "It was our customers who gave us the idea."}, {"prompt": "We are different because we listen to farmers. (The reason why...)", "answer": "The reason why we are different is that we listen to farmers."}, {"prompt": "You only need a smartphone. (All...)", "answer": "All you need is a smartphone."}]},
+        {"id": "ex2", "type": "multiple_choice", "title": "Identify the device", "instruction": "Which rhetorical device is used in each sentence?", "instruction_pt": "Qual recurso retórico é usado em cada frase?",
+         "items": [{"prompt": "Cleaner, quicker and cheaper.", "options": ["rule of three", "rhetorical question", "antithesis"], "answer": "rule of three"}, {"prompt": "Who here has ever lost a document they needed?", "options": ["rule of three", "rhetorical question", "antithesis"], "answer": "rhetorical question"}, {"prompt": "It's not a cost; it's an investment.", "options": ["repetition", "rhetorical question", "antithesis"], "answer": "antithesis"}, {"prompt": "Every week we grow. Every week we learn. Every week we improve.", "options": ["repetition", "rule of three only", "cleft sentence"], "answer": "repetition"}]},
+        {"id": "ex3", "type": "fill_blank", "title": "Signposting", "instruction": "Complete with: start by · brings me to · move on · wrap up · stress.", "instruction_pt": "Complete com a expressão de signposting correta.",
+         "items": [{"prompt": "I'd like to ___ asking you a question.", "answer": "start by"}, {"prompt": "Now, let's ___ to the market opportunity.", "answer": "move on"}, {"prompt": "This ___ our results for the first year.", "answer": "brings me to"}, {"prompt": "I'd like to ___ that we are already profitable. So, to ___, here's what we're asking for.", "answer": "stress / wrap up"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "What we need is a simpler solution."}, {"prompt": "2", "answer": "The reason why this matters is that time is money."}, {"prompt": "3", "answer": "So, what does this mean for you?"}, {"prompt": "4", "answer": "Let me move on to the numbers."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "What we need it is a bigger team.", "answer": "What we need is a bigger team."}, {"prompt": "It was the investors which asked for more data.", "answer": "It was the investors who asked for more data."}, {"prompt": "All what you need is a phone.", "answer": "All you need is a phone."}, {"prompt": "The reason why we failed was because we grew too fast.", "answer": "The reason why we failed was that we grew too fast."}]},
+        {"id": "ex6", "type": "answer", "title": "Write a hook", "instruction": "Write an opening hook (a rhetorical question + a cleft sentence) for each product.", "instruction_pt": "Escreva uma abertura (pergunta retórica + cleft sentence) para cada produto.",
+         "items": [{"prompt": "An app that finds parking spaces in big cities.", "answer": "Model: How many hours did you spend looking for parking last month? What drivers need is a way to know where the free spaces are before they arrive."}, {"prompt": "A platform that connects retired teachers with students who need tutoring.", "answer": "Model: What happens to decades of teaching experience when a teacher retires? What our schools need is a way to keep that knowledge in the classroom."}]}
+      ],
+      "speaking": {
+        "instruction": "\"Shark tank\": prepare a 3-minute pitch for a business idea (real or invented). Include a hook, the problem, your solution (rule of three), traction or evidence and a call to action. The class acts as investors, asks questions and decides who gets the funding.",
+        "instruction_pt": "\"Shark Tank\": prepare um pitch de 3 minutos para uma ideia de negócio (real ou inventada). Inclua um gancho, o problema, a solução (regra de três), tração ou evidências e uma chamada para ação. A turma faz o papel de investidores, faz perguntas e decide quem recebe o investimento.",
+        "questions": ["What makes a pitch convincing — the idea or the speaker?", "Can rhetorical techniques be manipulative? Where's the line?", "Which Brazilian start-up do you admire most? Why?", "What's the best presentation you've ever seen? What made it work?", "How do you deal with nerves before speaking in public?"]
+      },
+      "writing": {
+        "task": "Write the script for a 3-minute pitch (300–350 words) for a product or social project. Include at least one rhetorical question, one rule of three, one antithesis, two cleft sentences and clear signposting.",
+        "task_pt": "Escreva o roteiro de um pitch de 3 minutos (300–350 palavras) para um produto ou projeto social. Inclua pelo menos uma pergunta retórica, uma regra de três, uma antítese, duas cleft sentences e signposting claro.",
+        "model": "Pitch script: AulaViva\n\nHow many of you had a teacher who changed your life? (Pause.) Now imagine if that teacher, after retiring, could keep changing lives — from home, a few hours a week.\n\nThat's the idea behind AulaViva.\n\nLet me start with the problem. Across Brazil, many students who struggle at school have no access to extra help. Private tutoring is expensive, and public schools are often overloaded. At the same time, thousands of experienced teachers retire every year. They have the knowledge, the patience and, very often, the desire to keep teaching. What's missing is a bridge between these two groups.\n\nAulaViva is that bridge. We're an online platform that connects retired teachers with students who need support. Sessions are affordable for families, flexible for teachers and free for students from low-income households, thanks to sponsorship from local businesses.\n\nThis brings me to our results. We launched a pilot in two cities last year. In six months, 120 retired teachers joined the platform and delivered more than 3,000 hours of tutoring. Participating schools reported that most students improved their maths grades. But it was the teachers who surprised us most: many told us they felt useful and connected again.\n\nSo, what makes us different? It's not just a tutoring app; it's a community. The reason why our teachers stay is that they feel valued, not just paid.\n\nNow, let's look at the opportunity. Brazil has millions of students who could benefit, and the number of retired teachers is growing every year. We're ready to expand to ten more cities.\n\nTo wrap up, we're looking for an investment of two million reais to fund this expansion and develop our mobile app. In return, we're offering a 15% stake in a company with proven impact, a scalable model and a mission that matters.\n\nWhat we're asking for today isn't charity. It's a partnership. Thank you."
+      },
+      "culture_note": {
+        "title": "Pitch à americana",
+        "text_pt": "O estilo de pitch do Vale do Silício é **direto, confiante e otimista** — às vezes até exagerado para padrões britânicos ou brasileiros. No Reino Unido, um tom mais **modesto** e algum humor autodepreciativo costumam funcionar melhor. Conheça seu público: o que soa \"confiante\" em São Francisco pode soar \"arrogante\" em Londres."
+      },
+      "summary_pt": ["Regra de três, perguntas retóricas, antítese e repetição.", "What we need is... / All you need is... / The reason why... is that...", "It was X who/that... (it-cleft).", "Signposting: Let me start by... / This brings me to... / To wrap up..."]
+    }
+  ],
+  "review": {
+    "intro_pt": "Revise inversão, nominalização, modais avançados e recursos retóricos.",
+    "exercises": [
+      {"id": "r1", "type": "multiple_choice", "title": "Choose the correct option", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+       "items": [{"prompt": "Little ___ that the company would collapse.", "options": ["they knew", "did they know", "knew they"], "answer": "did they know"}, {"prompt": "There has been a ___ increase in remote work.", "options": ["significantly", "significant", "signify"], "answer": "significant"}, {"prompt": "With so many applicants, there's ___ to be a delay.", "options": ["bound", "well", "hardly"], "answer": "bound"}, {"prompt": "The bus has gone. We ___ as well walk.", "options": ["may", "should", "bound"], "answer": "may"}, {"prompt": "What we need ___ more time.", "options": ["it is", "is", "are"], "answer": "is"}]},
+      {"id": "r2", "type": "answer", "title": "Transform", "instruction": "Rewrite the sentences as instructed.", "instruction_pt": "Reescreva as frases como indicado.",
+       "items": [{"prompt": "We realized the problem only when customers complained. (Only when...)", "answer": "Only when customers complained did we realize the problem."}, {"prompt": "Prices rose sharply, so demand fell. (nominalise: The sharp rise...)", "answer": "The sharp rise in prices led to a fall in demand."}, {"prompt": "Our users gave us the idea. (It was...)", "answer": "It was our users who gave us the idea."}]},
+      {"id": "r3", "type": "translate", "title": "Translate", "instruction": "Translate into English.", "instruction_pt": "Traduza para o inglês.",
+       "items": [{"prompt": "Não só perdemos o cliente, como também perdemos dinheiro. (inversão)", "answer": "Not only did we lose the client, but we also lost money."}, {"prompt": "Ela pode muito bem ser promovida.", "answer": "She may/might well be promoted."}, {"prompt": "Tudo de que você precisa é um celular.", "answer": "All you need is a phone."}]},
+      {"id": "r4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+       "items": [{"prompt": "1", "answer": "No sooner had they launched the app than it crashed."}, {"prompt": "2", "answer": "The lack of regulation is a major concern."}, {"prompt": "3", "answer": "This brings me to my final point."}]},
+      {"id": "r5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+       "items": [{"prompt": "Never before we had seen such growth.", "answer": "Never before had we seen such growth."}, {"prompt": "They made a research on the gig economy.", "answer": "They carried out research on the gig economy."}, {"prompt": "He is bound to winning.", "answer": "He is bound to win."}]}
+    ],
+    "speaking_pt": "Apresente em 5 minutos uma análise da \"next big disruption\" no seu setor: conte uma história de disrupção (com inversões), descreva o impacto em linguagem formal (nominalização), faça previsões com modais avançados e termine com um mini-pitch de uma solução (com recursos retóricos).",
+    "speaking_questions": ["Which industry in Brazil is most likely to be disrupted next?", "What makes a great leader in times of change?", "Is the gig economy good or bad for workers?", "What's the most important skill for the future of work?", "If you had to pitch yourself to an employer in one minute, what would you say?"],
+    "project_pt": "**\"Innovation lab\":** em grupos, criem uma startup fictícia que resolva um problema real da sua cidade. Entreguem (1) um relatório formal de 300 palavras sobre o problema, (2) um pitch de 3 minutos com recursos retóricos e (3) um e-mail do \"CEO\" à equipe sobre a próxima fase. A turma vota no projeto mais convincente."
+  }
+}

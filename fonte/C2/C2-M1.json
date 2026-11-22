@@ -1,0 +1,530 @@
+{
+  "id": "C2-M1",
+  "level": "C2",
+  "title": "Precision and Nuance",
+  "theme_pt": "Sinônimos, conotação, negação enfática, expressões fixas e orações absolutas",
+  "can_do": ["Escolher entre quase-sinônimos pela conotação e pela collocation", "Usar negação enfática e litotes (by no means, far from, not unlike)", "Usar e adaptar binômios e expressões fixas", "Condensar ideias com orações absolutas (The meeting over, ...)"],
+  "lessons": [
+    {
+      "id": "C2-M1-L1",
+      "title": "Shades of meaning",
+      "subtitle_pt": "Quase-sinônimos, conotação e precisão de collocation",
+      "duration_min": 80,
+      "source_refs": ["CEFR – C2 descriptors (vocabulary range and control)", "Cambridge C2 Proficiency – Reading and Use of English Part 1"],
+      "objectives": ["Distinguir quase-sinônimos pela conotação (positiva, neutra, negativa)", "Escolher a palavra certa pela collocation e pelo registro", "Usar a conotação para persuadir ou suavizar", "Descrever pessoas e comportamentos com precisão"],
+      "warmup": {
+        "text_pt": "Ela é **determinada** ou **teimosa**? **Econômica** ou **pão-dura**? **Magra** ou **esquelética**? No C2, o desafio não é conhecer uma palavra, mas escolher **a palavra exata** entre várias quase iguais. Mark Twain teria dito que a diferença entre a palavra certa e a quase certa é a diferença entre o raio e o vaga-lume.",
+        "questions": ["How would you describe yourself in a job interview? And how would your worst enemy describe the same traits?", "Can you think of a Portuguese word with a positive and a negative \"twin\"?"]
+      },
+      "vocabulary": [
+        {"en": "determined / stubborn / pig-headed", "pt": "determinado / teimoso / cabeça-dura", "say": "ditârmind / stâbern / píg hédid"},
+        {"en": "thrifty / frugal / stingy", "pt": "econômico / frugal / pão-duro", "say": "θrífti / frúgal / stíndji"},
+        {"en": "slim / slender / skinny / gaunt", "pt": "magro / esguio / magricela / abatido", "say": "slim / slénder / skíni / gónt"},
+        {"en": "assertive / pushy", "pt": "assertivo / insistente, agressivo", "say": "asârtiv / púshi"},
+        {"en": "curious / nosy", "pt": "curioso / bisbilhoteiro", "say": "kiúrias / nôuzi"},
+        {"en": "confident / arrogant / cocky", "pt": "confiante / arrogante / convencido", "say": "kónfident / érogant / kóki"},
+        {"en": "to stroll / to saunter / to amble", "pt": "passear / andar com displicência / andar sem pressa", "say": "tu strôul / tu sónter / tu émbol"},
+        {"en": "unique / unusual / eccentric / weird", "pt": "único / incomum / excêntrico / esquisito", "say": "iuník / ânhiúzhual / ekséntrik / uírd"},
+        {"en": "connotation / denotation", "pt": "conotação / denotação", "say": "konotêishan / dinotêishan"},
+        {"en": "pejorative", "pt": "pejorativo", "say": "pidjórativ"},
+        {"en": "to euphemize / to sugar-coat", "pt": "eufemizar / dourar a pílula", "say": "tu iúfemaiz"},
+        {"en": "a loaded word", "pt": "uma palavra carregada (de juízo)", "say": "a lôudid uârd"}
+      ],
+      "chunks": [
+        {"en": "She's determined; he's just stubborn.", "pt": "Ela é determinada; ele é só teimoso."},
+        {"en": "I'm frugal, not stingy.", "pt": "Sou econômico, não pão-duro."},
+        {"en": "That's a rather loaded word.", "pt": "Essa é uma palavra bastante carregada."},
+        {"en": "It's not the word I'd have chosen.", "pt": "Não é a palavra que eu teria escolhido."},
+        {"en": "He sauntered in as if he owned the place.", "pt": "Ele entrou todo displicente, como se fosse o dono do lugar."},
+        {"en": "One person's terrorist is another person's freedom fighter.", "pt": "O terrorista de um é o combatente pela liberdade de outro."}
+      ],
+      "grammar": {
+        "title": "Near-synonyms: connotation, collocation and register",
+        "explanation_pt": "No C2, quase-sinônimos raramente são intercambiáveis. Eles se diferenciam em **quatro dimensões**:\n\n**1. Conotação (juízo de valor)**\n- positivo → neutro → negativo: **slender** → **thin** → **skinny** → **scrawny**\n- **determined** (+) / **persistent** (=) / **stubborn** (−) / **obstinate** (− formal)\n- **frugal / thrifty** (+) / **careful with money** (=) / **mean / stingy / tight-fisted** (−)\n- **confident** (+) / **self-assured** (=) / **arrogant / cocky** (−)\n\n**2. Collocation (com o que a palavra combina)**\n- **commit** a crime / an error ✔ · **make** a mistake ✔ · ❌ commit a mistake\n- **heavy** rain / **strong** wind / **high** temperature\n- **utterly** combina com palavras negativas ou extremas: utterly **ridiculous / exhausted** (raro: utterly delighted)\n- **broad** daylight, **bitterly** cold, **acutely** aware, **painfully** shy, **blissfully** unaware\n\n**3. Registro**\n- **commence** (formal) / **start** (neutro) / **kick off** (informal)\n- **deceased** (formal/jurídico) / **dead** (neutro) / **passed away** (eufemismo)\n- **inebriated** (formal/humorístico) / **drunk** (neutro) / **hammered** (gíria)\n\n**4. Intensidade**\n- **like** < **be fond of** < **adore** < **worship**\n- **annoyed** < **irritated** < **angry** < **furious** < **livid**\n- **interesting** < **fascinating** < **riveting**\n\n**Uso estratégico:** a escolha de palavras revela **posição**. Jornalistas, políticos e advogados escolhem com cuidado: \"**reform**\" (+) x \"**cuts**\" (−); \"**protesters**\" x \"**rioters**\"; \"**estate tax**\" x \"**death tax**\".",
+        "table": {
+          "headers": ["Positivo", "Neutro", "Negativo"],
+          "rows": [["determined", "persistent", "stubborn / pig-headed"], ["frugal / thrifty", "careful with money", "stingy / tight-fisted"], ["slender / slim", "thin", "skinny / scrawny / gaunt"], ["confident", "self-assured", "arrogant / cocky"], ["curious / inquisitive", "interested", "nosy / prying"], ["assertive", "direct", "pushy / aggressive"]]
+        },
+        "examples": [
+          {"en": "What her supporters call principled, her critics call obstinate.", "pt": "O que seus apoiadores chamam de íntegro, seus críticos chamam de obstinado."},
+          {"en": "He was blissfully unaware that the whole office had been talking about him.", "pt": "Ele estava felizmente alheio ao fato de que o escritório inteiro andava falando dele."},
+          {"en": "The government described the measures as \"reforms\"; the unions called them \"cuts\".", "pt": "O governo descreveu as medidas como \"reformas\"; os sindicatos as chamaram de \"cortes\"."}
+        ],
+        "tip_pt": "Use um **dicionário de collocations** (como o *Oxford Collocations Dictionary*) e um **corpus** (buscadores de frases reais) para checar combinações. No C2, a pergunta não é \"essa palavra existe?\", mas \"**um nativo diria assim?**\""
+      },
+      "common_mistakes": [
+        {"wrong": "She's very skinny and elegant.", "right": "She's very slender and elegant.", "why_pt": "skinny tem conotação negativa; slender combina com elegância."},
+        {"wrong": "He committed a mistake.", "right": "He made a mistake. / He committed an error (formal).", "why_pt": "commit combina com crime, error, offence — não com mistake."},
+        {"wrong": "I was utterly pleased with the result.", "right": "I was thoroughly / immensely pleased with the result.", "why_pt": "utterly costuma combinar com palavras negativas ou absolutas."}
+      ],
+      "pronunciation": {
+        "focus": "Atitude na voz",
+        "tip_pt": "A conotação também está no **tom**. A mesma palavra neutra pode ficar negativa com ênfase e entonação: \"He's very... *confident*\" (com pausa e tom descendente = arrogante). No C2, perceba e use essa camada.",
+        "practice": ["He's very... CONfident. (= arrogante)", "She's... DEtermined, let's say. (= teimosa)", "It's... unUSual. (= estranho)"]
+      },
+      "dialogue": {
+        "title": "Writing the reference letter",
+        "context_pt": "Dois gerentes discutem como redigir uma carta de recomendação para uma ex-funcionária difícil.",
+        "lines": [
+          {"speaker": "Kate", "en": "So, how do we describe Patrícia in this reference? Honestly, she was a nightmare in meetings.", "pt": "Então, como descrevemos a Patrícia nesta carta de referência? Sinceramente, ela era um pesadelo nas reuniões."},
+          {"speaker": "Tom", "en": "We can't say that. But we can't lie either. What about \"assertive\"?", "pt": "Não podemos dizer isso. Mas também não podemos mentir. Que tal \"assertiva\"?"},
+          {"speaker": "Kate", "en": "\"Assertive\" is generous. \"Pushy\" would be nearer the mark.", "pt": "\"Assertiva\" é generoso. \"Insistente demais\" seria mais preciso."},
+          {"speaker": "Tom", "en": "True, but she got results. She never gave up on a client. I'd call that determined rather than stubborn.", "pt": "Verdade, mas ela trazia resultados. Nunca desistia de um cliente. Eu chamaria isso de determinação, não de teimosia."},
+          {"speaker": "Kate", "en": "Fair enough. And she was very... direct with junior staff.", "pt": "Justo. E ela era muito... direta com os funcionários juniores."},
+          {"speaker": "Tom", "en": "\"Direct\" is fine — it's neutral. Any reader with experience will read between the lines anyway.", "pt": "\"Direta\" está bom — é neutro. Qualquer leitor experiente vai ler nas entrelinhas de qualquer jeito."},
+          {"speaker": "Kate", "en": "So: \"a determined and results-driven professional with a direct communication style\".", "pt": "Então: \"uma profissional determinada e orientada a resultados, com estilo de comunicação direto\"."},
+          {"speaker": "Tom", "en": "Perfect. Every word's true — and every word's been chosen very carefully.", "pt": "Perfeito. Cada palavra é verdadeira — e cada palavra foi escolhida com muito cuidado."}
+        ]
+      },
+      "listening": {
+        "title": "Same facts, different words",
+        "context_pt": "Uma professora de linguística mostra como a escolha de palavras muda a percepção de um mesmo fato.",
+        "lines": [
+          {"speaker": "Speaker", "en": "In a classic experiment published in 1974, the psychologists Elizabeth Loftus and John Palmer showed participants films of car accidents and then asked them how fast the cars were going. The only difference between the groups was a single verb. Some were asked how fast the cars were going when they \"smashed into\" each other; others heard \"collided\", \"bumped\", \"hit\" or \"contacted\". Those who heard \"smashed\" gave the highest speed estimates. A week later, they were also more likely to report having seen broken glass — even though there was none in the film. One word changed not just how people judged the event, but what they remembered. Journalists, lawyers and politicians understand this intuitively. Is a sudden rise in prices a \"spike\" or a \"correction\"? Are people who cross a border \"migrants\", \"refugees\" or \"illegals\"? Each choice is a small argument in disguise. And at the highest level of language, noticing those choices — and making them consciously — is perhaps the most important skill of all."}
+        ],
+        "questions": [
+          {"q": "What did participants in the 1974 experiment watch?", "answer": "Films of car accidents."},
+          {"q": "What was the only difference between the groups?", "answer": "The verb used in the question (smashed, collided, bumped, hit, contacted)."},
+          {"q": "What happened a week later?", "answer": "The \"smashed\" group were more likely to report seeing broken glass, though there was none."},
+          {"q": "What does the speaker mean by \"a small argument in disguise\"?", "answer": "Word choice subtly expresses a position or judgement."}
+        ]
+      },
+      "reading": {
+        "title": "The tyranny of the thesaurus",
+        "text": "Every writing teacher has encountered it: the essay in which every second word appears to have been lifted from a thesaurus. \"The protagonist perambulated pensively through the verdant arboretum\", writes the student, when what he means is that the main character walked through the park, thinking. The impulse is understandable. Learners — and, for that matter, many native speakers — are often taught that variety is a virtue and that repetition is a sin. A thesaurus seems to offer an endless supply of alternatives. The difficulty is that a thesaurus lists words that are similar, not words that are interchangeable. \"Slender\", \"skinny\", \"gaunt\" and \"emaciated\" all denote thinness, but they evoke four very different people. \"Notorious\" and \"famous\" both describe someone widely known, yet only one would be welcome on a reference letter. Even apparently neutral synonyms differ in collocation and register: one \"commences\" a legal procedure but rarely \"commences\" a holiday. Linguists sometimes claim that there are no true synonyms in any language — that if two words were genuinely identical in every context, one of them would eventually fall out of use or acquire a distinct meaning. Whether or not this is strictly true, it captures something important. Words carry histories, associations and social signals that no list can fully record. The solution is not to abandon the thesaurus but to treat it as a starting point rather than an answer. Before adopting an unfamiliar word, a careful writer checks how it is actually used: in which contexts, with which neighbours, in what tone. Precision, not variety, is the hallmark of good writing — and, at the highest levels of proficiency, of good speaking too. As the novelist Elmore Leonard memorably advised: if it sounds like writing, rewrite it.",
+        "questions": [
+          {"q": "What is the problem with the student's sentence?", "answer": "It uses unnecessarily elaborate thesaurus words instead of simple, natural ones."},
+          {"q": "What does a thesaurus list, according to the text?", "answer": "Words that are similar, not interchangeable."},
+          {"q": "What do some linguists claim about synonyms?", "answer": "That there are no true synonyms; identical words would fall out of use or change meaning."},
+          {"q": "What is the hallmark of good writing, according to the writer?", "answer": "Precision, not variety."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Connotation", "instruction": "Choose the word with the connotation indicated.", "instruction_pt": "Escolha a palavra com a conotação indicada.",
+         "items": [{"prompt": "(positive) Our grandmother was very ___ — she never wasted anything.", "options": ["stingy", "thrifty", "mean"], "answer": "thrifty"}, {"prompt": "(negative) Stop being so ___ — it's none of your business!", "options": ["curious", "inquisitive", "nosy"], "answer": "nosy"}, {"prompt": "(positive) The model was tall and ___.", "options": ["skinny", "slender", "scrawny"], "answer": "slender"}, {"prompt": "(negative) He's so ___ — he thinks he's better than everyone.", "options": ["confident", "self-assured", "arrogant"], "answer": "arrogant"}, {"prompt": "(positive) She's a ___ negotiator who never gives up.", "options": ["determined", "pig-headed", "obstinate"], "answer": "determined"}]},
+        {"id": "ex2", "type": "multiple_choice", "title": "Collocation precision (C2 Proficiency Part 1 style)", "instruction": "Choose the word that best completes each sentence.", "instruction_pt": "Escolha a palavra que melhor completa cada frase.",
+         "items": [{"prompt": "She was ___ aware of the risks she was taking.", "options": ["acutely", "heavily", "deeply"], "answer": "acutely"}, {"prompt": "The robbery took place in ___ daylight.", "options": ["wide", "broad", "full"], "answer": "broad"}, {"prompt": "The suggestion was ___ ridiculous.", "options": ["utterly", "highly", "greatly"], "answer": "utterly"}, {"prompt": "He was ___ shy as a child.", "options": ["painfully", "bitterly", "strongly"], "answer": "painfully"}, {"prompt": "It was ___ cold on the mountain.", "options": ["bitterly", "deeply", "acutely"], "answer": "bitterly"}]},
+        {"id": "ex3", "type": "answer", "title": "Change the spin", "instruction": "Rewrite each description twice: once positively and once negatively.", "instruction_pt": "Reescreva cada descrição duas vezes: uma positiva e uma negativa.",
+         "items": [{"prompt": "He doesn't spend much money.", "answer": "Positive: He's thrifty / frugal. Negative: He's stingy / tight-fisted."}, {"prompt": "She always says exactly what she thinks.", "answer": "Positive: She's honest / straightforward. Negative: She's blunt / tactless."}, {"prompt": "He asks a lot of questions about other people.", "answer": "Positive: He's curious / inquisitive. Negative: He's nosy / prying."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "She's determined; he's just stubborn."}, {"prompt": "2", "answer": "That's a rather loaded word."}, {"prompt": "3", "answer": "He was blissfully unaware of the problem."}, {"prompt": "4", "answer": "It's not the word I'd have chosen."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the collocation", "instruction": "Find and correct the unnatural word.", "instruction_pt": "Encontre e corrija a palavra pouco natural.",
+         "items": [{"prompt": "She committed a terrible mistake.", "answer": "She made a terrible mistake."}, {"prompt": "We were strongly disappointed by the decision.", "answer": "We were bitterly / deeply disappointed by the decision."}, {"prompt": "He's a highly smoker.", "answer": "He's a heavy smoker."}, {"prompt": "The film was utterly enjoyable.", "answer": "The film was thoroughly / highly enjoyable."}]},
+        {"id": "ex6", "type": "match", "title": "Intensity scale", "instruction": "Write the stronger word from each pair.", "instruction_pt": "Escreva a palavra mais forte de cada par.",
+         "items": [{"prompt": "annoyed / livid", "answer": "livid"}, {"prompt": "fond of / adore", "answer": "adore"}, {"prompt": "interesting / riveting", "answer": "riveting"}, {"prompt": "tired / exhausted", "answer": "exhausted"}, {"prompt": "surprised / astounded", "answer": "astounded"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Two press releases\": in pairs, describe the same event (a protest, a company's lay-offs, a celebrity's behaviour) twice — once sympathetically and once critically — changing only your word choice, not the facts. The class identifies the loaded words.",
+        "instruction_pt": "\"Dois comunicados\": em pares, descrevam o mesmo evento (um protesto, demissões numa empresa, o comportamento de uma celebridade) duas vezes — uma de forma simpática e outra crítica — mudando apenas as palavras, não os fatos. A turma identifica as palavras carregadas.",
+        "questions": ["Which words do politicians in Brazil use to make unpopular policies sound positive?", "Have you ever been described with a word you felt was unfair?", "Is it possible to describe something completely neutrally?", "Which English words still feel \"almost right\" to you?", "Do you agree that there are no true synonyms?"]
+      },
+      "writing": {
+        "task": "Write a reference letter (280–320 words) for a former colleague with both strengths and weaknesses. Be honest, but choose your words so that every statement is accurate and professional. Then write two lines explaining three of your word choices.",
+        "task_pt": "Escreva uma carta de referência (280–320 palavras) para um ex-colega com pontos fortes e fracos. Seja honesto, mas escolha as palavras para que cada afirmação seja precisa e profissional. Depois escreva duas linhas explicando três das suas escolhas.",
+        "model": "Reference for Mr. André Santos\n\nTo whom it may concern,\n\nI am pleased to provide a reference for André Santos, who worked as a Senior Analyst in my team at Horizonte Consultoria from March 2021 to June 2025.\n\nAndré is a highly capable analyst with an exceptional eye for detail. His reports were consistently thorough and meticulously researched, and on several occasions he identified errors in financial models that others had overlooked. Clients frequently commented on the clarity of his written work.\n\nHe is also a determined professional. When a project encountered difficulties, he was invariably the last person to give up, and he often worked well beyond what was expected of him to meet a deadline. This persistence was particularly valuable during a complex restructuring project in 2023, which he helped to bring to a successful conclusion.\n\nAndré holds strong views on how work should be done and expresses them directly. While this occasionally led to lively discussions within the team, his contributions were always motivated by a genuine commitment to quality. He would, I believe, thrive in a role that allows him a degree of independence and values precision above speed.\n\nI have no hesitation in recommending him for a position that requires analytical rigour and dedication. Should you require any further information, please do not hesitate to contact me.\n\nYours faithfully,\n\nMariana Duarte\nHead of Analysis, Horizonte Consultoria\n\n—\nWord choices: \"determined\" rather than \"stubborn\" emphasizes the positive side of his persistence; \"expresses them directly\" is a neutral way of acknowledging that he could be blunt; \"lively discussions\" signals conflict without exaggerating it."
+      },
+      "culture_note": {
+        "title": "\"Damning with faint praise\"",
+        "text_pt": "Em inglês, **damning with faint praise** (condenar com elogio fraco) é a arte de criticar elogiando pouco. Numa carta de referência britânica, frases como \"He was always **punctual**\" ou \"She **did her best**\" podem ser lidas como **sinais negativos** — porque o autor não encontrou nada melhor para dizer. O que **não** se diz também comunica!"
+      },
+      "summary_pt": ["Quase-sinônimos diferem em conotação, collocation, registro e intensidade.", "+/=/−: frugal / careful with money / stingy; determined / persistent / stubborn.", "Collocations: acutely aware, broad daylight, bitterly cold, utterly ridiculous.", "A escolha de palavras é uma posição: reforms x cuts, protesters x rioters."]
+    },
+    {
+      "id": "C2-M1-L2",
+      "title": "Between the lines",
+      "subtitle_pt": "Negação enfática e litotes: by no means, far from, none too, not unlike",
+      "duration_min": 80,
+      "source_refs": ["CEFR – C2 descriptors (implicit meaning, fine shades of meaning)", "Cambridge C2 Proficiency – Reading and Use of English Part 4"],
+      "objectives": ["Usar negação enfática (by no means, not in the least, far from, anything but)", "Usar litotes — afirmar negando o contrário (not bad, not unlike, no small feat)", "Usar none too / none the + comparativo / not so much... as", "Interpretar implicaturas e o que fica subentendido"],
+      "warmup": {
+        "text_pt": "\"Ela **não é nada boba**\" significa que ela é esperta. \"**Não foi pouca coisa**\" significa que foi uma grande conquista. Essa figura — afirmar algo **negando o contrário** — se chama **litotes**, e o inglês adora: \"**not bad**\", \"**no small achievement**\", \"**not unlike**\". No C2, você também precisa dominar as **negações enfáticas**: \"by no means\", \"far from\", \"anything but\".",
+        "questions": ["When someone says \"not bad\" in Portuguese, what do they usually mean?", "Can you think of a time when what someone said was very different from what they meant?"]
+      },
+      "vocabulary": [
+        {"en": "by no means / not by any means", "pt": "de modo algum", "say": "bái nôu mínz"},
+        {"en": "not in the least / not in the slightest", "pt": "nem um pouco", "say": "nót in dâ líst / sláitest"},
+        {"en": "far from (+ adj / -ing)", "pt": "longe de", "say": "fár fróm"},
+        {"en": "anything but", "pt": "tudo menos", "say": "éniθin bât"},
+        {"en": "none too (+ adj)", "pt": "nem um pouco, não muito", "say": "nân tú"},
+        {"en": "none the wiser / none the worse", "pt": "nem um pouco mais esclarecido / sem prejuízo", "say": "nân dâ uáizer / uârs"},
+        {"en": "not unlike", "pt": "não muito diferente de, parecido com", "say": "nót ânláik"},
+        {"en": "no mean feat / no small achievement", "pt": "não é pouca coisa", "say": "nôu mín fít"},
+        {"en": "litotes", "pt": "litotes (figura de linguagem)", "say": "láitoutíz"},
+        {"en": "implicature / to imply / to infer", "pt": "implicatura / insinuar / deduzir", "say": "implíkatcher / tu implái / tu infâr"},
+        {"en": "subtext", "pt": "subtexto", "say": "sâbtekst"},
+        {"en": "to read into (sth)", "pt": "ver mais do que há (em algo)", "say": "tu ríd íntu"}
+      ],
+      "chunks": [
+        {"en": "It's by no means certain.", "pt": "Não é nada certo."},
+        {"en": "I'm not in the least surprised.", "pt": "Não estou nem um pouco surpreso."},
+        {"en": "The situation is far from ideal.", "pt": "A situação está longe de ser ideal."},
+        {"en": "The journey was anything but relaxing.", "pt": "A viagem foi tudo, menos relaxante."},
+        {"en": "He was none too pleased.", "pt": "Ele não ficou nada satisfeito."},
+        {"en": "Running a marathon at 70 is no mean feat.", "pt": "Correr uma maratona aos 70 não é pouca coisa."}
+      ],
+      "grammar": {
+        "title": "Emphatic negation and litotes",
+        "explanation_pt": "**1. Negação enfática** — reforça o \"não\":\n- **by no means / not by any means** (de modo algum): \"The result is **by no means** certain.\"\n- **not in the least / not in the slightest / not at all**: \"I'm **not in the least** worried.\"\n- **far from** + adjetivo/-ing/substantivo (longe de): \"The plan is **far from** perfect.\" / \"**Far from** helping, he made things worse.\"\n- **anything but** (tudo menos): \"The meeting was **anything but** productive.\"\n- **nowhere near** (nem perto de): \"We're **nowhere near** ready.\"\n- **not remotely / not the least bit**: \"It's **not remotely** funny.\"\n- No início da frase → **inversão**: \"**By no means** is this the end.\" / \"**In no way** am I criticizing you.\"\n\n**2. None too / none the + comparativo**\n- **none too** + adjetivo (= not very, irônico): \"He was **none too** happy about it.\"\n- **none the** + comparativo (= not at all + comparativo): \"I read the instructions twice and was **none the wiser**.\" (não entendi nada mais) / \"He fell but was **none the worse for** it.\" (não sofreu nada)\n\n**3. Litotes** — afirmar algo negando o oposto (understatement elegante):\n- **not bad** (= bom) · **not uncommon** (= bastante comum) · **not unlike** (= parecido com) · **not without** (= com algum) · **no small** / **no mean** (= grande)\n- \"It was **no mean feat**.\" / \"The idea is **not without** its problems.\" / \"His style is **not unlike** Hemingway's.\"\n- Efeito: soa **cauteloso, irônico ou modesto**.\n\n**4. Not so much X as Y** (não tanto X, mas sim Y):\n- \"It's **not so much** a problem **as** an opportunity.\"\n\n**5. Implicatura** — o que se comunica sem dizer:\n- \"Some of the students passed.\" → implica que **nem todos** passaram.\n- \"Can you pass the salt?\" → não é uma pergunta sobre habilidade.\n- \"He's a good typist.\" (numa carta de referência para professor universitário) → implica que **não há nada mais** a elogiar.",
+        "table": {
+          "headers": ["Estrutura", "Significado", "Exemplo"],
+          "rows": [["by no means", "de modo algum", "It's by no means easy."], ["far from", "longe de", "Far from perfect."], ["anything but", "tudo menos", "Anything but boring."], ["none too + adj", "nem um pouco", "None too happy."], ["none the wiser", "sem entender mais", "I was none the wiser."], ["not unlike", "parecido com", "Not unlike his father."], ["no mean feat", "grande conquista", "It was no mean feat."], ["not so much X as Y", "não tanto X, mas Y", "Not so much a job as a calling."]]
+        },
+        "examples": [
+          {"en": "The decision was by no means unanimous; several board members argued strongly against it.", "pt": "A decisão não foi de modo algum unânime; vários membros do conselho argumentaram fortemente contra ela."},
+          {"en": "Far from solving the problem, the new law has created a host of new ones.", "pt": "Longe de resolver o problema, a nova lei criou uma série de novos."},
+          {"en": "Learning to play the cello in your sixties is no mean feat.", "pt": "Aprender a tocar violoncelo depois dos sessenta não é pouca coisa."}
+        ],
+        "tip_pt": "Português também tem litotes: \"**não é nada mau**\", \"**não é de se jogar fora**\", \"**não foi pouca coisa**\". O equivalente mais natural em inglês geralmente é **not bad at all**, **not to be sniffed at** (informal) ou **no mean feat**."
+      },
+      "common_mistakes": [
+        {"wrong": "The plan is far from be perfect.", "right": "The plan is far from perfect. / far from being perfect.", "why_pt": "far from + adjetivo, substantivo ou -ing."},
+        {"wrong": "By no means this is easy.", "right": "By no means is this easy. / This is by no means easy.", "why_pt": "No início da frase, by no means pede inversão."},
+        {"wrong": "I'm not in the less worried.", "right": "I'm not in the least worried.", "why_pt": "A expressão fixa é not in the least."}
+      ],
+      "pronunciation": {
+        "focus": "Litotes e ironia",
+        "tip_pt": "Litotes dependem do tom. \"**Not BAD**\" com entonação ascendente-descendente e sorriso = bom de verdade. Com tom plano = só razoável. Em **anything but**, o acento vai em **ANYthing**: \"It was **ANY**thing but relaxing.\"",
+        "practice": ["Not BAD at all!", "It was ANYthing but relaxing.", "It's by NO means certain."]
+      },
+      "dialogue": {
+        "title": "Reading the feedback",
+        "context_pt": "Uma escritora e seu agente analisam a resposta de uma editora britânica ao manuscrito dela.",
+        "lines": [
+          {"speaker": "Isa", "en": "The publisher's replied. Listen: \"The manuscript is not without merit, and the second half is not unlike some of the more ambitious literary fiction we've published.\" Is that good?", "pt": "A editora respondeu. Escuta: \"O manuscrito não é desprovido de mérito, e a segunda metade não é muito diferente de algumas das ficções literárias mais ambiciosas que publicamos.\" Isso é bom?"},
+          {"speaker": "Ben", "en": "It's... far from a rejection. \"Not without merit\" is British for \"there's something here\".", "pt": "Está... longe de ser uma rejeição. \"Não desprovido de mérito\" é o jeito britânico de dizer \"tem algo aqui\"."},
+          {"speaker": "Isa", "en": "And the first half? They don't mention it.", "pt": "E a primeira metade? Eles não mencionam."},
+          {"speaker": "Ben", "en": "Exactly. That's the implicature. If they'd liked it, they'd have said so.", "pt": "Exatamente. Essa é a implicatura. Se tivessem gostado, teriam dito."},
+          {"speaker": "Isa", "en": "Wonderful. I spent two years on the first half.", "pt": "Maravilha. Passei dois anos na primeira metade."},
+          {"speaker": "Ben", "en": "Look, writing a 400-page novel while working full-time is no mean feat. And they're by no means saying no. Read the last line.", "pt": "Olha, escrever um romance de 400 páginas trabalhando em tempo integral não é pouca coisa. E eles não estão de modo algum dizendo não. Leia a última linha."},
+          {"speaker": "Isa", "en": "\"We would be interested in seeing a revised version.\" Oh! So it's not so much a rejection as an invitation.", "pt": "\"Teríamos interesse em ver uma versão revisada.\" Ah! Então não é tanto uma rejeição quanto um convite."},
+          {"speaker": "Ben", "en": "Precisely. Now, I suspect you'll be none too pleased to hear this, but the first half needs to go.", "pt": "Precisamente. Agora, suspeito que você não vai ficar nada satisfeita em ouvir isso, mas a primeira metade precisa sair."}
+        ]
+      },
+      "listening": {
+        "title": "What we mean when we don't say it",
+        "context_pt": "Um filósofo da linguagem explica as máximas de Grice num podcast.",
+        "lines": [
+          {"speaker": "Speaker", "en": "In the 1960s and 1970s, the British philosopher Paul Grice proposed that conversation is guided by what he called the Cooperative Principle. We assume that the people we talk to are trying to communicate efficiently, and he described several \"maxims\" they generally follow: say as much as is needed but no more; say what you believe to be true; be relevant; and be clear. The fascinating part is what happens when someone appears to break a maxim. Suppose I ask a friend, \"How was the restaurant?\" and she replies, \"Well, the parking was easy.\" She's apparently being irrelevant. But because I assume she's cooperating, I infer something she hasn't said: the food was by no means good. Grice called this kind of meaning an \"implicature\". It's how irony works, how politeness works, and how a great deal of everyday communication works. And it's often where advanced learners struggle — not with the words, but with what lies between them."}
+        ],
+        "questions": [
+          {"q": "What is the Cooperative Principle?", "answer": "The assumption that people in conversation are trying to communicate efficiently."},
+          {"q": "Name two of Grice's maxims.", "answer": "Say as much as needed; say what you believe true; be relevant; be clear."},
+          {"q": "What does the friend imply by \"the parking was easy\"?", "answer": "That the food was not good."},
+          {"q": "Where do advanced learners often struggle, according to the speaker?", "answer": "With what lies between the words — implied meaning."}
+        ]
+      },
+      "reading": {
+        "title": "The art of saying less",
+        "text": "English, and British English in particular, has a reputation for understatement, and few devices capture this more neatly than litotes: the practice of asserting something by denying its opposite. To describe a brilliant performance as \"not bad\", a catastrophic error as \"not ideal\" or a significant achievement as \"no mean feat\" is to communicate, paradoxically, by appearing to say less than one means. The device is far from new. It appears in Old English poetry, where a hero might be said to be \"not unfamiliar\" with battle, and it was a favourite of classical rhetoricians, who valued it as a way of sounding modest while making a strong point. Why should speakers choose such an indirect route? Part of the answer lies in social risk. Unrestrained praise can sound insincere; unrestrained criticism can sound aggressive. Litotes offers a way of expressing judgement while leaving room for retreat. A manager who calls a report \"not without its problems\" can, if challenged, insist that she meant only minor issues — even if both parties know she meant something rather more serious. There is also an aesthetic dimension. Understatement invites the listener to participate, to reconstruct the full meaning from the restrained version. When it works, it creates a sense of shared understanding, almost of complicity. Yet the same quality makes litotes treacherous for anyone unfamiliar with the code. A visitor who takes \"not bad\" at face value may underestimate genuine enthusiasm, while one who takes \"it's not the worst idea I've heard\" as encouragement may be in for a disappointment. At the highest levels of proficiency, then, understanding English is by no means simply a matter of knowing words. It is a matter of knowing how much — and how little — they are being asked to carry.",
+        "questions": [
+          {"q": "What is litotes?", "answer": "Asserting something by denying its opposite."},
+          {"q": "Is the device new? Give evidence.", "answer": "No — it appears in Old English poetry and classical rhetoric."},
+          {"q": "Why might speakers choose litotes, according to the text?", "answer": "To reduce social risk: to express judgement while leaving room for retreat."},
+          {"q": "Why can litotes be treacherous for outsiders?", "answer": "They may take it at face value and misjudge enthusiasm or criticism."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "answer", "title": "Key word transformations (C2 style)", "instruction": "Complete the second sentence so it means the same as the first. Use the word in CAPS and between three and eight words.", "instruction_pt": "Complete a segunda frase com o mesmo sentido da primeira, usando a palavra em CAPS e de três a oito palavras.",
+         "items": [{"prompt": "It's not at all certain that the project will be approved. (MEANS) → It is ___ the project will be approved.", "answer": "by no means certain that"}, {"prompt": "Instead of helping, the new rules made things worse. (FAR) → ___ the new rules made things worse.", "answer": "Far from helping,"}, {"prompt": "After reading the manual, I understood nothing more than before. (WISER) → I read the manual but was ___.", "answer": "none the wiser"}, {"prompt": "He wasn't at all pleased with the result. (TOO) → He was ___ the result.", "answer": "none too pleased with"}, {"prompt": "Climbing that mountain was a great achievement. (MEAN) → Climbing that mountain was ___.", "answer": "no mean feat"}]},
+        {"id": "ex2", "type": "match", "title": "Decode the litotes", "instruction": "Write what the speaker really means.", "instruction_pt": "Escreva o que a pessoa realmente quer dizer.",
+         "items": [{"prompt": "\"It's not uncommon for flights to be delayed.\"", "answer": "Flights are often delayed."}, {"prompt": "\"Her style is not unlike Clarice Lispector's.\"", "answer": "Her style is similar to Lispector's."}, {"prompt": "\"The plan is not without its risks.\"", "answer": "The plan has some (significant) risks."}, {"prompt": "\"That was no small achievement.\"", "answer": "That was a great achievement."}, {"prompt": "\"He's not the most reliable person.\"", "answer": "He's unreliable."}]},
+        {"id": "ex3", "type": "answer", "title": "Rewrite with emphatic negation", "instruction": "Rewrite using the expression in brackets.", "instruction_pt": "Reescreva usando a expressão entre parênteses.",
+         "items": [{"prompt": "The holiday wasn't relaxing at all. (anything but)", "answer": "The holiday was anything but relaxing."}, {"prompt": "I'm not worried at all. (in the least)", "answer": "I'm not in the least worried."}, {"prompt": "This isn't the end of the story. (By no means — begin the sentence)", "answer": "By no means is this the end of the story."}, {"prompt": "It's more an opportunity than a problem. (not so much... as)", "answer": "It's not so much a problem as an opportunity."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "It's by no means certain."}, {"prompt": "2", "answer": "The situation is far from ideal."}, {"prompt": "3", "answer": "He was none too pleased."}, {"prompt": "4", "answer": "The journey was anything but relaxing."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "By no means this is acceptable.", "answer": "By no means is this acceptable."}, {"prompt": "The results were far from be satisfactory.", "answer": "The results were far from satisfactory."}, {"prompt": "I'm not in the less interested.", "answer": "I'm not in the least interested."}, {"prompt": "He was none the wise after the explanation.", "answer": "He was none the wiser after the explanation."}]},
+        {"id": "ex6", "type": "answer", "title": "Infer the implicature", "instruction": "Explain what each reply implies.", "instruction_pt": "Explique o que cada resposta implica.",
+         "items": [{"prompt": "A: Did you enjoy the party? B: The music was loud.", "answer": "B probably didn't enjoy it."}, {"prompt": "A: Is Paulo a good manager? B: He's always very punctual.", "answer": "B has nothing better to say; Paulo is probably not a good manager."}, {"prompt": "A: Did everyone pass? B: Most of them did.", "answer": "Not everyone passed."}]}
+      ],
+      "speaking": {
+        "instruction": "\"Read between the lines\": in pairs, take turns asking questions (about a film, a restaurant, a colleague, a city). Answer only with litotes, emphatic negation or implicature — never directly. Your partner guesses what you really mean.",
+        "instruction_pt": "\"Leia nas entrelinhas\": em pares, revezem-se fazendo perguntas (sobre um filme, um restaurante, um colega, uma cidade). Responda apenas com litotes, negação enfática ou implicatura — nunca diretamente. O colega adivinha o que você realmente quis dizer.",
+        "questions": ["Are Brazilians more or less indirect than British people?", "Is understatement a form of politeness or a form of dishonesty?", "Have you ever misread someone's implicature?", "What's something that was no mean feat for you?", "When is it better to say exactly what you mean?"]
+      },
+      "writing": {
+        "task": "Write a review (280–320 words) of a restaurant, hotel, product or event in the style of a witty, understated British critic. Never praise or criticize directly; use at least eight examples of litotes, emphatic negation or implicature.",
+        "task_pt": "Escreva uma resenha (280–320 palavras) de um restaurante, hotel, produto ou evento no estilo de um crítico britânico espirituoso e contido. Nunca elogie ou critique diretamente; use pelo menos oito exemplos de litotes, negação enfática ou implicatura.",
+        "model": "Review: The Golden Fork, Vila Madalena\n\nThe Golden Fork has been open for six months and has already acquired a reputation, though not, perhaps, the one its owners were hoping for. I visited on a Friday evening, which, given that the restaurant was anything but crowded, was no mean feat of timing.\n\nThe décor is not unlike that of an airport lounge in the late 1990s: a great deal of chrome, a certain amount of beige and lighting that can only be described as candid. The music, I was assured, was jazz. I am none the wiser as to which jazz.\n\nThe menu is ambitious. It is by no means short, running to some forty dishes across seven cuisines, a range that would challenge a far larger kitchen. I ordered the \"signature\" seafood risotto. It arrived promptly, which I have learned to regard as not entirely a good sign. The rice was far from undercooked; indeed, it had clearly been cooked for some time, possibly that morning. The prawns, to their credit, were present.\n\nService was attentive, in the sense that our waiter returned to the table on eleven occasions to ask whether everything was all right. I was not in the least tempted to tell him.\n\nDessert was the high point of the evening. The chocolate mousse was not bad at all — light, rich and genuinely delicious — and it would not be unfair to say that I would return for it alone. Whether I would wish to pass through the rest of the menu to reach it is another question.\n\nAt around 200 reais per person without wine, The Golden Fork is none too cheap. It is, however, unforgettable. I shall leave readers to decide which of those qualities matters more.\n\nRating: ★★☆☆☆ (one of them is for the mousse)"
+      },
+      "culture_note": {
+        "title": "\"Quite good\" é bom?",
+        "text_pt": "Uma famosa tabela que circula na internet (\"Anglo-EU translation guide\") mostra mal-entendidos entre britânicos e outros europeus: \"**Quite good**\" (o britânico quer dizer: um pouco decepcionante); \"**I'll bear it in mind**\" (não vou fazer nada); \"**Not bad**\" (bom ou muito bom). É exagerada e humorística — mas revela algo real sobre a cultura da **understatement**."
+      },
+      "summary_pt": ["Negação enfática: by no means, not in the least, far from, anything but, nowhere near.", "none too + adj; none the wiser / none the worse.", "Litotes: not bad, not uncommon, not unlike, not without, no mean feat.", "Implicatura: o que não se diz também comunica (Grice)."]
+    },
+    {
+      "id": "C2-M1-L3",
+      "title": "Part and parcel",
+      "subtitle_pt": "Binômios, provérbios e expressões fixas — e sua manipulação criativa",
+      "duration_min": 75,
+      "source_refs": ["CEFR – C2 descriptors (idiomatic expressions and colloquialisms)", "Cambridge C2 Proficiency – Reading and Use of English Part 2"],
+      "objectives": ["Usar binômios e trinômios fixos (by and large, part and parcel, sooner or later)", "Usar provérbios de forma natural (muitas vezes só a primeira metade)", "Reconhecer a manipulação criativa de expressões fixas em manchetes e publicidade", "Evitar o uso excessivo ou deslocado de idioms"],
+      "warmup": {
+        "text_pt": "\"**Por e para**\", \"**sãos e salvos**\", \"**mais cedo ou mais tarde**\" — em português também temos pares fixos. Em inglês, eles são chamados de **binomials**, e a ordem é **fixa**: \"salt and pepper\", nunca \"pepper and salt\". No C2, você também precisa reconhecer quando um jornalista **brinca** com uma expressão fixa — e fazer o mesmo.",
+        "questions": ["What's your favourite Portuguese proverb? Is there an English equivalent?", "Do you think using lots of idioms makes a foreign speaker sound more fluent?"]
+      },
+      "vocabulary": [
+        {"en": "by and large", "pt": "de modo geral", "say": "bái énd lárdj"},
+        {"en": "part and parcel (of)", "pt": "parte integrante (de)", "say": "párt énd pársol"},
+        {"en": "safe and sound", "pt": "são e salvo", "say": "sêif énd sáund"},
+        {"en": "odds and ends", "pt": "miudezas, coisinhas", "say": "ódz énd éndz"},
+        {"en": "pros and cons", "pt": "prós e contras", "say": "prôuz énd kónz"},
+        {"en": "touch and go", "pt": "incerto, por um fio", "say": "tâtch énd gôu"},
+        {"en": "few and far between", "pt": "raros", "say": "fiú énd fár bituín"},
+        {"en": "first and foremost", "pt": "antes de mais nada", "say": "fârst énd fórmôust"},
+        {"en": "the be-all and end-all", "pt": "a coisa mais importante de todas", "say": "dâ bí ól énd énd ól"},
+        {"en": "wear and tear", "pt": "desgaste natural", "say": "uér énd tér"},
+        {"en": "rough and ready", "pt": "improvisado, simples", "say": "râf énd rédi"},
+        {"en": "a proverb / a saying", "pt": "um provérbio / um ditado", "say": "a próverb / a sêiin"}
+      ],
+      "chunks": [
+        {"en": "By and large, the project was a success.", "pt": "De modo geral, o projeto foi um sucesso."},
+        {"en": "Stress is part and parcel of the job.", "pt": "O estresse faz parte do trabalho."},
+        {"en": "Good restaurants are few and far between here.", "pt": "Bons restaurantes são raros por aqui."},
+        {"en": "It was touch and go for a while.", "pt": "Ficou por um fio por um tempo."},
+        {"en": "Well, when in Rome...", "pt": "Bom, em Roma, como os romanos..."},
+        {"en": "Money isn't the be-all and end-all.", "pt": "Dinheiro não é tudo."}
+      ],
+      "grammar": {
+        "title": "Binomials, proverbs and creative manipulation",
+        "explanation_pt": "**1. Binômios (binomials)** — pares de palavras ligados por **and / or / but**, com **ordem fixa**:\n- **Sinônimos/reforço:** safe and sound, peace and quiet, pick and choose, first and foremost\n- **Opostos:** pros and cons, ups and downs, give and take, sooner or later, black and white, back and forth\n- **Repetição/rima:** neck and neck (empatados), touch and go, wear and tear, high and dry, rough and ready\n- **Preposições:** by and large, on and off, over and above, out and about\n⚠️ A ordem **não muda**: ❌ \"sound and safe\", ❌ \"cons and pros\".\n\n**Trinômios:** lock, stock and barrel (tudo); hook, line and sinker (completamente); tall, dark and handsome.\n\n**2. Provérbios** — nativos frequentemente dizem **só a primeira metade**:\n- \"When in Rome...\" (do as the Romans do)\n- \"Speak of the devil...\" (and he shall appear) — quando alguém de quem se falava aparece\n- \"Too many cooks...\" (spoil the broth)\n- \"The early bird...\" (catches the worm)\n- \"Every cloud...\" (has a silver lining)\n- \"Don't count your chickens...\" (before they hatch)\n\n**3. Manipulação criativa** — manchetes, publicidade e humor alteram expressões fixas, e o leitor C2 precisa reconhecer o original:\n- \"**Every cloud has a silver lining**\" → manchete sobre computação em nuvem: \"**Every cloud has a cyber lining**\"\n- \"**Better late than never**\" → \"**Better late than pregnant**\" (humor)\n- \"**All's well that ends well**\" → \"All's well that **sends** well\" (anúncio de correio)\n\n**4. Uso adequado** — idioms em excesso soam **artificiais** (\"It's raining cats and dogs, so let's kill two birds with one stone...\"). Use-os **com moderação** e no **registro certo**: \"by and large\" e \"first and foremost\" funcionam até em textos formais; \"lock, stock and barrel\" é mais informal/jornalístico.",
+        "table": {
+          "headers": ["Tipo", "Exemplos"],
+          "rows": [["Sinônimos", "safe and sound, peace and quiet, first and foremost"], ["Opostos", "pros and cons, ups and downs, give and take"], ["Rima/aliteração", "wear and tear, touch and go, part and parcel"], ["Preposições", "by and large, on and off, out and about"], ["Trinômios", "lock, stock and barrel; hook, line and sinker"], ["Provérbios cortados", "When in Rome... / Speak of the devil..."]]
+        },
+        "examples": [
+          {"en": "By and large, critics have welcomed the reform, though there have been a few dissenting voices.", "pt": "De modo geral, os críticos receberam bem a reforma, embora tenha havido algumas vozes discordantes."},
+          {"en": "Long hours and constant travel are part and parcel of being a foreign correspondent.", "pt": "Longas jornadas e viagens constantes fazem parte da vida de correspondente internacional."},
+          {"en": "He fell for the scam hook, line and sinker.", "pt": "Ele caiu no golpe direitinho."}
+        ],
+        "tip_pt": "Para o **resto do provérbio**, procure no dicionário pela palavra principal (\"Rome\", \"devil\", \"cooks\"). E evite traduzir provérbios brasileiros ao pé da letra: \"**Quem não tem cão caça com gato**\" → algo como \"**Needs must**\" ou \"**Make do with what you have**\"."
+      },
+      "common_mistakes": [
+        {"wrong": "We discussed the cons and pros.", "right": "We discussed the pros and cons.", "why_pt": "Binômios têm ordem fixa."},
+        {"wrong": "They arrived sound and safe.", "right": "They arrived safe and sound.", "why_pt": "A ordem é safe and sound."},
+        {"wrong": "Good jobs are far and few between.", "right": "Good jobs are few and far between.", "why_pt": "A expressão é few and far between."}
+      ],
+      "pronunciation": {
+        "focus": "O \"and\" reduzido",
+        "tip_pt": "Em binômios, o **and** quase desaparece: \"safe'n'sound\", \"pros'n'cons\", \"rock'n'roll\". As duas palavras principais recebem acento e o par soa como **uma unidade só**: \"PART'n'PARcel\", \"TOUCH'n'GO\".",
+        "practice": ["SAFE'n'SOUND", "PART'n'PARcel", "by'n'LARGE", "TOUCH'n'GO"]
+      },
+      "dialogue": {
+        "title": "The house move",
+        "context_pt": "Dois irmãos conversam depois de ajudarem os pais a se mudar para uma cidade menor.",
+        "lines": [
+          {"speaker": "Bruna", "en": "Well, Mum and Dad are in the new house, safe and sound. That was touch and go with the removal van, though.", "pt": "Bom, mamãe e papai estão na casa nova, sãos e salvos. Mas foi por um fio com o caminhão de mudança."},
+          {"speaker": "Rafa", "en": "I know! When it got stuck on that hill, I thought we'd never make it. Anyway, by and large, it went better than expected.", "pt": "Eu sei! Quando ele atolou naquela ladeira, achei que a gente não ia conseguir. Enfim, de modo geral, foi melhor do que o esperado."},
+          {"speaker": "Bruna", "en": "Did they really need to bring everything, lock, stock and barrel? Thirty years of odds and ends!", "pt": "Eles precisavam mesmo trazer absolutamente tudo? Trinta anos de miudezas!"},
+          {"speaker": "Rafa", "en": "That's Dad for you. First and foremost, he's a collector.", "pt": "Esse é o papai. Antes de mais nada, ele é um colecionador."},
+          {"speaker": "Bruna", "en": "Do you think they'll be happy here? Decent doctors are few and far between in a town this size.", "pt": "Você acha que eles vão ser felizes aqui? Bons médicos são raros numa cidade desse tamanho."},
+          {"speaker": "Rafa", "en": "We weighed up the pros and cons for months. They wanted peace and quiet, and they've got it.", "pt": "Pesamos os prós e contras por meses. Eles queriam paz e sossego, e conseguiram."},
+          {"speaker": "Bruna", "en": "True. And I suppose a bit of wear and tear on the old furniture is part and parcel of any move.", "pt": "Verdade. E acho que um pouco de desgaste nos móveis velhos faz parte de qualquer mudança."},
+          {"speaker": "Rafa", "en": "Speak of the devil — that's Mum calling. Probably to say she can't find the kettle.", "pt": "Falando no diabo — é a mamãe ligando. Provavelmente pra dizer que não acha a chaleira."}
+        ]
+      },
+      "listening": {
+        "title": "Why can't we say \"pepper and salt\"?",
+        "context_pt": "Uma linguista explica por que binômios têm ordem fixa.",
+        "lines": [
+          {"speaker": "Linguist", "en": "Why do English speakers say \"salt and pepper\" but never \"pepper and salt\"? Or \"rock and roll\", \"black and white\", \"ladies and gentlemen\"? Linguists have identified several tendencies — not strict rules, but strong patterns. First, the shorter word tends to come first: \"salt and pepper\", \"bread and butter\". Second, when vowels differ, words with higher, front vowels — like the \"i\" in \"zig\" — tend to precede lower, back vowels, like the \"a\" in \"zag\". That's why it's \"zig-zag\", \"tick-tock\", \"flip-flop\" and never the other way round. Third, cultural or logical priority often matters: \"cause and effect\", \"before and after\", \"husband and wife\" — though the last example also shows how these orders can reflect social hierarchies of the past. Interestingly, Portuguese often shows similar patterns. But when the orders differ between languages, learners tend to transfer their own — which is why, at C2, these small, fixed pairs are worth learning as single units."}
+        ],
+        "questions": [
+          {"q": "Which word tends to come first in a binomial?", "answer": "The shorter word."},
+          {"q": "What vowel pattern explains \"zig-zag\" and \"tick-tock\"?", "answer": "Higher, front vowels tend to come before lower, back vowels."},
+          {"q": "What does \"husband and wife\" show?", "answer": "Orders can reflect social hierarchies of the past."},
+          {"q": "Why should learners learn binomials as units?", "answer": "Because when orders differ between languages, learners transfer their own."}
+        ]
+      },
+      "reading": {
+        "title": "The headline writer's toolkit",
+        "text": "Few writers handle fixed expressions with as much mischief as the authors of newspaper headlines. Limited to a handful of words and competing for the reader's attention, headline writers — sub-editors, in British newsrooms — have long relied on a simple trick: take a familiar phrase and twist it. A story about a theft from a cheese factory becomes \"Grate Expectations\"; an article on the decline of hand-written letters is headed \"Signed, Sealed, Deleted\"; a report on rising house prices in a seaside town appears as \"Home and Dry? Not Any More\". The technique depends entirely on recognition. The reader must instantly recall the original — Dickens's Great Expectations, the song \"Signed, Sealed, Delivered\", the idiom \"home and dry\" — and register the change. The pleasure lies in the gap between the expected and the actual, and in the small flash of understanding that bridges it. Advertising uses the same mechanism, as do comedians, politicians and, increasingly, social media users. For language learners, this presents a particular challenge. It is perfectly possible to understand every word of a headline and still miss its point entirely. A learner unfamiliar with \"Every cloud has a silver lining\" will find nothing remarkable in a technology column titled \"Every Cloud Has a Cyber Lining\"; the native reader, by contrast, sees a joke, an argument and a cultural reference compressed into six words. This is why fixed expressions matter far more at the highest levels than their apparent triviality might suggest. They are part and parcel of a shared cultural memory — the background against which a great deal of creative language is written. To read like an insider, one must first know what the insiders know by heart. Only then can one appreciate, and eventually produce, the twist.",
+        "questions": [
+          {"q": "What trick do headline writers use?", "answer": "They take a familiar phrase and twist it."},
+          {"q": "What does the technique depend on?", "answer": "Recognition of the original expression."},
+          {"q": "Why can learners miss the point of a headline?", "answer": "They may understand every word but not recognize the original expression."},
+          {"q": "Why are fixed expressions important at the highest levels?", "answer": "They're part of a shared cultural memory against which creative language is written."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "fill_blank", "title": "Complete the binomial", "instruction": "Complete each binomial.", "instruction_pt": "Complete cada binômio.",
+         "items": [{"prompt": "They returned from the expedition safe and ___.", "answer": "sound"}, {"prompt": "We need to weigh up the pros and ___.", "answer": "cons"}, {"prompt": "___ and large, the reaction has been positive.", "answer": "By"}, {"prompt": "Late nights are part and ___ of being a doctor.", "answer": "parcel"}, {"prompt": "Good jobs in this area are few and far ___.", "answer": "between"}, {"prompt": "It was touch and ___ whether we'd catch the flight.", "answer": "go"}]},
+        {"id": "ex2", "type": "match", "title": "Finish the proverb", "instruction": "Write the second half of each proverb.", "instruction_pt": "Escreva a segunda metade de cada provérbio.",
+         "items": [{"prompt": "When in Rome...", "answer": "do as the Romans do."}, {"prompt": "Too many cooks...", "answer": "spoil the broth."}, {"prompt": "Every cloud...", "answer": "has a silver lining."}, {"prompt": "Don't count your chickens...", "answer": "before they hatch."}, {"prompt": "The early bird...", "answer": "catches the worm."}]},
+        {"id": "ex3", "type": "answer", "title": "Spot the original", "instruction": "Identify the fixed expression each headline is playing with.", "instruction_pt": "Identifique a expressão fixa que cada manchete está manipulando.",
+         "items": [{"prompt": "\"Grate Expectations\" (story about a cheese factory)", "answer": "Great Expectations (Dickens's novel)."}, {"prompt": "\"All's Well That Sends Well\" (postal service advert)", "answer": "All's well that ends well."}, {"prompt": "\"Two Wheels Good\" (article on cycling)", "answer": "\"Four legs good, two legs bad\" (Orwell's Animal Farm)."}, {"prompt": "\"Home and Dry? Not Any More\" (rising house prices in a flooding town)", "answer": "home and dry (= safe, successful)."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "By and large, the project was a success."}, {"prompt": "2", "answer": "Stress is part and parcel of the job."}, {"prompt": "3", "answer": "Good restaurants are few and far between here."}, {"prompt": "4", "answer": "Money isn't the be-all and end-all."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake in the fixed expression.", "instruction_pt": "Encontre e corrija o erro na expressão fixa.",
+         "items": [{"prompt": "We arrived sound and safe.", "answer": "We arrived safe and sound."}, {"prompt": "There were many downs and ups in my career.", "answer": "There were many ups and downs in my career."}, {"prompt": "He believed the story hook, line and fish.", "answer": "He believed the story hook, line and sinker."}, {"prompt": "Large and by, the meeting went well.", "answer": "By and large, the meeting went well."}]},
+        {"id": "ex6", "type": "match", "title": "Meaning of binomials", "instruction": "Write the binomial that matches each definition.", "instruction_pt": "Escreva o binômio que corresponde a cada definição.",
+         "items": [{"prompt": "small items of little value", "answer": "odds and ends"}, {"prompt": "damage from normal use", "answer": "wear and tear"}, {"prompt": "the most important thing", "answer": "the be-all and end-all"}, {"prompt": "simple, not perfect, but effective", "answer": "rough and ready"}, {"prompt": "completely, including everything", "answer": "lock, stock and barrel"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Headline lab\": in groups, write five headlines for real or invented news stories by twisting well-known English expressions, titles or proverbs. Present them to the class, who must identify the original and explain the joke.",
+        "instruction_pt": "\"Laboratório de manchetes\": em grupos, escrevam cinco manchetes para notícias reais ou inventadas, distorcendo expressões, títulos ou provérbios conhecidos em inglês. Apresentem à turma, que deve identificar o original e explicar a piada.",
+        "questions": ["Which English proverb do you find most true?", "Which Brazilian proverb would be hardest to explain to a foreigner?", "Do idioms make you sound more fluent or more artificial?", "What's part and parcel of your job or studies?", "What's the be-all and end-all for you?"]
+      },
+      "writing": {
+        "task": "Write a light-hearted magazine column (280–320 words) about a topic of your choice (moving house, working from home, family holidays, being a parent). Use at least eight binomials or fixed expressions naturally, and one creative twist on a well-known expression in the title.",
+        "task_pt": "Escreva uma coluna leve de revista (280–320 palavras) sobre um tema à sua escolha (mudança, home office, férias em família, ser pai/mãe). Use pelo menos oito binômios ou expressões fixas naturalmente e uma distorção criativa de uma expressão conhecida no título.",
+        "model": "Home Sweet Office\n\nWhen my company announced that we would be working from home \"for the foreseeable future\", I was, first and foremost, delighted. No more traffic, no more crowded lifts, no more colleagues reheating fish in the office microwave. Peace and quiet at last.\n\nThat was three years ago. By and large, I don't regret it. But I have learned that working from home has its ups and downs, and that some of them are not entirely obvious at first.\n\nTake the kitchen table. In theory, it's a temporary workspace. In practice, it has become my office lock, stock and barrel: laptop, second screen, a mountain of papers and an assortment of odds and ends that I'm afraid to throw away. My family now eats dinner on the sofa.\n\nThen there are the interruptions. Unexpected deliveries, the neighbour's renovations and a cat who believes my keyboard is a heated bed are, it seems, part and parcel of the arrangement. Last month, during an important video call with a client, it was touch and go whether I would finish my presentation before the drilling next door began. (It began.)\n\nThe biggest surprise, however, has been loneliness. Real conversations with colleagues are now few and far between. I never imagined I would miss Paulo from accounts and his endless stories about his weekend fishing trips. But I do.\n\nSo, after weighing up the pros and cons, I've reached a compromise. Twice a week, I go to a co-working space. It's rough and ready — the coffee is terrible — but there are people, and conversation, and nobody is drilling.\n\nIs working from home the be-all and end-all? Not quite. But sooner or later, I suspect, most of us will find our own balance. Meanwhile, the cat has the keyboard."
+      },
+      "culture_note": {
+        "title": "Shakespeare no dia a dia",
+        "text_pt": "Muitas expressões fixas do inglês vêm de **Shakespeare**: \"**break the ice**\", \"**wild-goose chase**\", \"**a heart of gold**\", \"**in a pickle**\", \"**wear your heart on your sleeve**\", \"**the be-all and the end-all**\" (de *Macbeth*). Muitos falantes as usam diariamente sem saber a origem — assim como dizemos \"**ser ou não ser**\" em português."
+      },
+      "summary_pt": ["Binômios têm ordem fixa: safe and sound, pros and cons, by and large.", "Trinômios: lock, stock and barrel; hook, line and sinker.", "Provérbios são frequentemente cortados: When in Rome...", "Manchetes e anúncios distorcem expressões fixas — reconheça o original."]
+    },
+    {
+      "id": "C2-M1-L4",
+      "title": "All things considered",
+      "subtitle_pt": "Orações absolutas: Weather permitting, The meeting over, With prices rising...",
+      "duration_min": 80,
+      "source_refs": ["CEFR – C2 descriptors (grammatical accuracy and range)", "Cambridge C2 Proficiency – Writing (narrative and descriptive style)"],
+      "objectives": ["Usar orações absolutas com sujeito próprio (The meeting over, we left)", "Usar with/without + objeto + particípio ou adjetivo (With prices rising, ...)", "Usar expressões absolutas fixas (weather permitting, all things considered, generally speaking)", "Evitar participles \"pendurados\" (dangling) e usar o estilo em narrativa e descrição"],
+      "warmup": {
+        "text_pt": "\"**Terminada a reunião**, fomos embora.\" \"**Se o tempo permitir**, faremos a trilha.\" \"**Com os preços subindo**, as famílias cortam gastos.\" Estas são **orações absolutas**: pequenas orações com **sujeito próprio** e sem verbo conjugado, que dão ao texto um ritmo **literário e condensado**. Tema: **viagens e narrativa**.",
+        "questions": ["What's the most memorable journey you've ever made?", "Do you prefer travel writing that is factual or literary?"]
+      },
+      "vocabulary": [
+        {"en": "weather permitting", "pt": "se o tempo permitir", "say": "uéder permítin"},
+        {"en": "all things considered", "pt": "considerando tudo", "say": "ól θinz konsídird"},
+        {"en": "generally / strictly / broadly speaking", "pt": "de modo geral / estritamente / em linhas gerais", "say": "djénerali spíkin"},
+        {"en": "given the circumstances", "pt": "dadas as circunstâncias", "say": "gíven dâ sârkamstansiz"},
+        {"en": "time permitting", "pt": "se houver tempo", "say": "táim permítin"},
+        {"en": "that said / that being said", "pt": "dito isso", "say": "dét séd / dét bíin séd"},
+        {"en": "the journey over", "pt": "terminada a viagem", "say": "dâ djârni ôuver"},
+        {"en": "to set off / to set out", "pt": "partir, pôr-se a caminho", "say": "tu sét óf / áut"},
+        {"en": "a wanderer / wanderlust", "pt": "um andarilho / desejo de viajar", "say": "a uónderer / uónderlâst"},
+        {"en": "off the beaten track", "pt": "fora do roteiro turístico", "say": "óf dâ bíten trék"},
+        {"en": "breathtaking / awe-inspiring", "pt": "de tirar o fôlego / impressionante", "say": "bréθteikin / ó inspáierin"},
+        {"en": "to linger", "pt": "demorar-se, permanecer", "say": "tu línguer"}
+      ],
+      "chunks": [
+        {"en": "Weather permitting, we'll climb the peak tomorrow.", "pt": "Se o tempo permitir, subiremos o pico amanhã."},
+        {"en": "The meeting over, we went for a drink.", "pt": "Terminada a reunião, fomos tomar algo."},
+        {"en": "With prices rising, families are cutting back.", "pt": "Com os preços subindo, as famílias estão cortando gastos."},
+        {"en": "She sat on the beach, her eyes closed.", "pt": "Ela estava sentada na praia, de olhos fechados."},
+        {"en": "All things considered, it was a success.", "pt": "Considerando tudo, foi um sucesso."},
+        {"en": "That being said, there's room for improvement.", "pt": "Dito isso, há espaço para melhorias."}
+      ],
+      "grammar": {
+        "title": "Absolute constructions",
+        "explanation_pt": "Uma **oração absoluta** tem **sujeito próprio** (diferente do da oração principal) e um particípio, adjetivo, advérbio ou locução — **sem verbo conjugado**. Ela acrescenta circunstância (tempo, causa, condição, descrição).\n\n**1. Substantivo + particípio (-ing / -ed)**\n- \"**The work done**, we went home.\" (= When the work was done...)\n- \"**The sun having set**, the temperature dropped.\"\n- \"**Weather permitting**, the ceremony will be held outdoors.\"\n- \"**Other things being equal**, the cheaper option is better.\"\n\n**2. Substantivo + adjetivo / advérbio / locução** (muito comum em descrições literárias):\n- \"**The meeting over**, they left.\"\n- \"She stood at the window, **her face pale**.\"\n- \"He walked in, **hands in his pockets**.\"\n- \"The children ran out, **their schoolbags forgotten**.\"\n\n**3. With / Without + objeto + particípio/adjetivo/locução** (mais natural na fala):\n- \"**With prices rising**, families are cutting back.\"\n- \"**With the deadline approaching**, nobody slept.\"\n- \"She fell asleep **with the light on**.\"\n- \"**Without anyone noticing**, he slipped out.\"\n\n**4. Expressões absolutas fixas** (sem sujeito explícito, aceitas como \"comentário\"):\n- **generally / strictly / broadly / frankly speaking** · **all things considered** · **considering** + noun · **given** + noun · **judging by / from** · **assuming** · **that said / that being said** · **talking of** · **taking everything into account**\n\n**5. Cuidado com o dangling participle** (erro de sujeito):\n- ❌ \"**Walking** to the station, **the rain** started.\" (a chuva estava andando?)\n- ✅ \"**Walking** to the station, **I** got caught in the rain.\" (mesmo sujeito)\n- ✅ \"**I was walking** to the station **when** the rain started.\"\n- As **expressões fixas** do item 4 são exceções aceitas.",
+        "table": {
+          "headers": ["Estrutura", "Exemplo"],
+          "rows": [["Noun + -ing", "Time permitting, we'll visit the museum."], ["Noun + -ed", "The decision made, there was no going back."], ["Noun + adj/adv", "The holiday over, they returned to work."], ["Noun + locução", "He sat, head in hands."], ["With + noun + -ing/-ed", "With inflation falling, rates may drop."], ["Expressão fixa", "Generally speaking, it's safe."]]
+        },
+        "examples": [
+          {"en": "The last ferry gone, we had no choice but to spend the night on the island.", "pt": "Tendo partido a última balsa, não tivemos escolha a não ser passar a noite na ilha."},
+          {"en": "She sat on the steps of the old church, her notebook open on her knees, watching the market come to life.", "pt": "Ela estava sentada nos degraus da velha igreja, o caderno aberto sobre os joelhos, observando o mercado ganhar vida."},
+          {"en": "With tourism booming and rents soaring, many locals can no longer afford to live in the historic centre.", "pt": "Com o turismo em alta e os aluguéis disparando, muitos moradores já não conseguem morar no centro histórico."}
+        ],
+        "tip_pt": "Português tem o equivalente exato: \"**Terminada a aula**, saímos\", \"**Feito isso**, ...\", \"**Dadas as circunstâncias**...\". Em inglês, use orações absolutas com **moderação**: na escrita literária e formal ficam elegantes; na fala informal, prefira **with** + objeto + -ing."
+      },
+      "common_mistakes": [
+        {"wrong": "Arriving at the hotel, the receptionist welcomed us.", "right": "When we arrived at the hotel, the receptionist welcomed us. / Arriving at the hotel, we were welcomed by the receptionist.", "why_pt": "Dangling participle: o sujeito precisa ser o mesmo."},
+        {"wrong": "The work was done, we went home.", "right": "The work done, we went home. / When the work was done, we went home.", "why_pt": "Duas orações completas exigem conjunção; a absoluta não tem verbo conjugado."},
+        {"wrong": "With the prices rise, people buy less.", "right": "With prices rising, people buy less.", "why_pt": "with + substantivo + particípio (-ing)."}
+      ],
+      "pronunciation": {
+        "focus": "Pausas e entonação",
+        "tip_pt": "Orações absolutas formam um **bloco de entonação** separado, como um parêntese, geralmente com tom **levemente ascendente** antes da oração principal: \"The meeting over ↗, | we went home ↘.\" No meio ou no fim da frase, use uma pausa e tom mais baixo: \"She sat there, | her eyes closed.\"",
+        "practice": ["The meeting over ↗, | we went home ↘.", "Weather permitting ↗, | we'll climb the peak ↘.", "She sat on the beach, | her eyes closed."]
+      },
+      "dialogue": {
+        "title": "Planning the trek",
+        "context_pt": "Dois amigos planejam uma travessia na Chapada Diamantina.",
+        "lines": [
+          {"speaker": "Diego", "en": "OK, here's the plan. Weather permitting, we set off from Vale do Capão at dawn on Friday.", "pt": "OK, o plano é este. Se o tempo permitir, saímos do Vale do Capão ao amanhecer na sexta."},
+          {"speaker": "Laura", "en": "And if it rains? It's the rainy season, strictly speaking.", "pt": "E se chover? Tecnicamente, é época de chuva."},
+          {"speaker": "Diego", "en": "Then we wait a day. With the rivers rising, some of the crossings could be dangerous.", "pt": "Aí esperamos um dia. Com os rios subindo, algumas travessias podem ficar perigosas."},
+          {"speaker": "Laura", "en": "Fair enough. And the guide?", "pt": "Justo. E o guia?"},
+          {"speaker": "Diego", "en": "Booked. Generally speaking, it's not a difficult route, but we'd be mad to do the Pati valley without someone local.", "pt": "Reservado. De modo geral, não é uma rota difícil, mas seria loucura fazer o vale do Pati sem alguém local."},
+          {"speaker": "Laura", "en": "Agreed. I remember last time — the trail lost, our water gone, both of us arguing about which way was north.", "pt": "Concordo. Lembro da última vez — a trilha perdida, nossa água acabada, nós dois discutindo para que lado era o norte."},
+          {"speaker": "Diego", "en": "Ha! That being said, it was the best trip I've ever done.", "pt": "Ha! Dito isso, foi a melhor viagem que já fiz."},
+          {"speaker": "Laura", "en": "It was. All things considered, I'd rather get lost there than be comfortable anywhere else.", "pt": "Foi. Considerando tudo, eu prefiro me perder lá do que estar confortável em qualquer outro lugar."}
+        ]
+      },
+      "listening": {
+        "title": "Travel writing at its best",
+        "context_pt": "Um editor de literatura de viagem fala sobre o que torna um relato memorável.",
+        "lines": [
+          {"speaker": "Editor", "en": "What separates great travel writing from a guidebook? Generally speaking, it's the shift from information to experience. A guidebook tells you the museum opens at nine. A travel writer puts you on the steps outside at ten to nine, the street still wet from the night's rain, a stray dog asleep in a patch of sunlight. Notice the grammar there — those little phrases with their own subjects, \"the street still wet\", \"a dog asleep\". They let a writer add layers of detail without stopping the flow of the sentence. Writers like Jan Morris, Bruce Chatwin and Paul Theroux used them constantly. The other ingredient is honesty. The best travel writers aren't afraid to describe disappointment, boredom or their own prejudices — and, all things considered, that's what makes us trust them when they describe wonder."}
+        ],
+        "questions": [
+          {"q": "What separates travel writing from a guidebook?", "answer": "The shift from information to experience."},
+          {"q": "What grammatical feature does the editor point out?", "answer": "Absolute phrases with their own subjects (\"the street still wet\")."},
+          {"q": "What do these phrases allow writers to do?", "answer": "Add layers of detail without stopping the flow of the sentence."},
+          {"q": "Why do we trust travel writers who describe disappointment?", "answer": "Their honesty makes us believe them when they describe wonder."}
+        ]
+      },
+      "video": {
+        "title": "Why we travel / the art of stillness",
+        "speaker": "Pico Iyer",
+        "url": "https://www.ted.com/search?q=pico+iyer+the+art+of+stillness",
+        "task_pt": "Assista à palestra (cerca de 15 minutos) do escritor de viagens Pico Iyer. Responda:",
+        "questions": ["Why does a travel writer argue for the value of going nowhere?", "Which image or phrase from the talk stayed with you? Why?", "Describe a moment of stillness in your life using at least two absolute constructions.", "Do you agree that we need to stop in order to see clearly?"]
+      },
+      "reading": {
+        "title": "Dawn in Ouro Preto",
+        "text": "I arrived in Ouro Preto after midnight, the bus from Belo Horizonte having been delayed by fog on the mountain road, and I remember almost nothing of that first night except the cold and the sound of rain on a tiled roof. It was the morning that stayed with me. I woke before six, the room still dark, and, unable to sleep, went out to walk. The town, built on hills so steep that some streets seem to defy gravity, was entirely silent. Mist lay in the valleys between the churches, their towers rising out of it like the masts of ships at anchor. The cobblestones, polished by three centuries of feet and that night's rain, shone under the last of the streetlamps. Somewhere below, a dog barked once, then thought better of it. I climbed towards the Church of São Francisco de Assis, my breath visible in the air, my legs protesting at every step. With the light growing stronger, details began to emerge: the soapstone carvings above the doorway, the blue and white of colonial façades, a woman in a doorway sweeping her front step, her radio murmuring a morning programme. She nodded to me without a word, as if strangers at dawn were part and parcel of her day. History in Ouro Preto is not a subject but an atmosphere. Gold made the town rich in the eighteenth century, its wealth flowing to Lisbon and beyond, and the beauty that remains was built, in large part, by enslaved labour — a fact no honest visitor should forget. Yet that morning, the streets empty and the mist slowly lifting, it felt less like a museum than a place still dreaming. By eight, the first tour buses had arrived. The spell broken, I went in search of coffee. All things considered, I have rarely spent two hours better.",
+        "questions": [
+          {"q": "Why did the writer arrive late?", "answer": "The bus was delayed by fog on the mountain road."},
+          {"q": "Find three absolute constructions in the text.", "answer": "Examples: the room still dark / their towers rising out of it / my breath visible in the air / my legs protesting / her radio murmuring / the streets empty / The spell broken."},
+          {"q": "What uncomfortable historical fact does the writer mention?", "answer": "The beauty was largely built by enslaved labour."},
+          {"q": "What broke the \"spell\"?", "answer": "The arrival of the first tour buses."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "answer", "title": "Make it absolute", "instruction": "Rewrite the first part of each sentence as an absolute construction.", "instruction_pt": "Reescreva a primeira parte de cada frase como oração absoluta.",
+         "items": [{"prompt": "When the meeting was over, we went for lunch.", "answer": "The meeting over, we went for lunch."}, {"prompt": "If the weather permits, we'll have the party outside.", "answer": "Weather permitting, we'll have the party outside."}, {"prompt": "After the decision had been made, there was no turning back.", "answer": "The decision made, there was no turning back."}, {"prompt": "Because prices are rising, people are saving more.", "answer": "With prices rising, people are saving more."}]},
+        {"id": "ex2", "type": "answer", "title": "Add descriptive detail", "instruction": "Add an absolute phrase to each sentence to make it more vivid.", "instruction_pt": "Acrescente uma oração absoluta a cada frase para torná-la mais vívida.",
+         "items": [{"prompt": "She sat by the window.", "answer": "Model: She sat by the window, her coffee growing cold."}, {"prompt": "The old man walked slowly along the beach.", "answer": "Model: The old man walked slowly along the beach, his trousers rolled up to his knees."}, {"prompt": "The children ran out of the school.", "answer": "Model: The children ran out of the school, their bags bouncing on their backs."}]},
+        {"id": "ex3", "type": "correct_error", "title": "Fix the dangling participle", "instruction": "Each sentence has a dangling participle. Rewrite it correctly.", "instruction_pt": "Cada frase tem um dangling participle. Reescreva corretamente.",
+         "items": [{"prompt": "Driving through the mountains, the view was breathtaking.", "answer": "Driving through the mountains, we found the view breathtaking. / As we drove through the mountains, the view was breathtaking."}, {"prompt": "Having eaten dinner, the dishes were washed.", "answer": "Having eaten dinner, we washed the dishes."}, {"prompt": "Arriving late, the doors were already closed.", "answer": "Arriving late, we found the doors already closed."}, {"prompt": "Opening the window, a cold wind blew in.", "answer": "When I opened the window, a cold wind blew in."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "Weather permitting, we'll climb the peak tomorrow."}, {"prompt": "2", "answer": "The meeting over, we went for a drink."}, {"prompt": "3", "answer": "With prices rising, families are cutting back."}, {"prompt": "4", "answer": "She sat on the beach, her eyes closed."}]},
+        {"id": "ex5", "type": "multiple_choice", "title": "Choose the correct form", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+         "items": [{"prompt": "___, the hike will start at 6 a.m.", "options": ["Weather permitting", "The weather permits", "Permitting weather"], "answer": "Weather permitting"}, {"prompt": "The work ___, they celebrated.", "options": ["finishing", "finished", "was finished"], "answer": "finished"}, {"prompt": "___ the deadline approaching, everyone worked late.", "options": ["With", "Being", "For"], "answer": "With"}, {"prompt": "He left the room, his face ___ with anger.", "options": ["red", "was red", "reddening was"], "answer": "red"}, {"prompt": "___ speaking, the service was excellent.", "options": ["General", "Generally", "In general"], "answer": "Generally"}]},
+        {"id": "ex6", "type": "match", "title": "Travel vocabulary", "instruction": "Write the English expression.", "instruction_pt": "Escreva a expressão em inglês.",
+         "items": [{"prompt": "fora do roteiro turístico", "answer": "off the beaten track"}, {"prompt": "desejo de viajar", "answer": "wanderlust"}, {"prompt": "demorar-se, permanecer", "answer": "linger"}, {"prompt": "se houver tempo", "answer": "time permitting"}, {"prompt": "considerando tudo", "answer": "all things considered"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Postcard from memory\": describe a place you love, in the present tense, as if you were there right now. Use at least five absolute constructions to add sensory detail (\"the sun low over the sea, the smell of grilled fish in the air...\"). Your classmates close their eyes and listen.",
+        "instruction_pt": "\"Cartão-postal da memória\": descreva um lugar que você ama, no presente, como se estivesse lá agora. Use pelo menos cinco orações absolutas para dar detalhes sensoriais. Os colegas fecham os olhos e ouvem.",
+        "questions": ["What's the most beautiful place you've ever woken up in?", "Is mass tourism ruining the world's most beautiful places?", "Do you travel to relax or to discover?", "Which Brazilian place should every foreigner visit? Describe it.", "All things considered, what was your best trip ever?"]
+      },
+      "writing": {
+        "task": "Write a piece of travel writing (300–350 words) about a place you know well, focused on a particular moment (dawn, a storm, a festival, a market). Use at least six absolute constructions and avoid dangling participles.",
+        "task_pt": "Escreva um texto de literatura de viagem (300–350 palavras) sobre um lugar que você conhece bem, focado num momento específico (amanhecer, tempestade, festa, feira). Use pelo menos seis orações absolutas e evite dangling participles.",
+        "model": "Saturday at the Ver-o-Peso\n\nI arrived at the Ver-o-Peso market in Belém just after five, the sky over the Guajará Bay still the colour of slate. The boats had come in during the night, their decks piled high with baskets of açaí, and men were already carrying them ashore, the purple fruit glistening in the half-light.\n\nThe noise came first. Vendors shouted prices to one another across the stalls, a radio somewhere played brega at full volume, and the vultures — there are always vultures at the Ver-o-Peso — circled above the fish market with an air of patient expectation. Then came the smells: river mud, diesel, coriander, the sharp, sweet scent of cupuaçu.\n\nI wandered through the herb section, where women sat behind tables crowded with bottles and roots, each labelled with promises. One mixture, I was told, would bring luck in love; another, prosperity in business; a third, a combination of both. The seller, a woman in her seventies, her hair tied back in a bright scarf, explained each one with the seriousness of a pharmacist. When I asked whether they really worked, she smiled and said nothing, which seemed the most honest answer possible.\n\nBy seven, the heat had arrived. With the sun climbing higher and the crowds growing thicker, I retreated to a stall by the water for breakfast: fried fish, farinha and a bowl of açaí so thick that the spoon stood upright in it. Around me, porters sat in silence, their work done for the morning, staring out at the river.\n\nThe market will doubtless change. There are always plans to modernize, to clean up, to make it more \"tourist-friendly\". Some of those changes may be welcome. But that morning, the river shining and the vultures still circling, it felt like the beating heart of the city — chaotic, generous and entirely alive.\n\nAll things considered, I can think of few better places to understand the Amazon without leaving the city."
+      },
+      "culture_note": {
+        "title": "Literatura de viagem em inglês",
+        "text_pt": "A **travel writing** é um gênero literário prestigiado em inglês, com autores como **Jan Morris**, **Bruce Chatwin** (*In Patagonia*), **Paul Theroux** e **Pico Iyer**. O Brasil também inspirou clássicos, como *Brazilian Adventure* (1933), de Peter Fleming, sobre uma expedição em busca do explorador desaparecido Percy Fawcett. Ler esses autores é uma ótima forma de absorver estilo C2."
+      },
+      "summary_pt": ["Oração absoluta: sujeito próprio + particípio/adjetivo/locução (The meeting over, ...).", "With + objeto + -ing/-ed: With prices rising, ...", "Fixas: weather permitting, all things considered, generally speaking, that being said.", "Evite dangling participles: o sujeito do particípio deve ser o da oração principal."]
+    }
+  ],
+  "review": {
+    "intro_pt": "Revise quase-sinônimos e conotação, negação enfática e litotes, binômios e expressões fixas, e orações absolutas.",
+    "exercises": [
+      {"id": "r1", "type": "multiple_choice", "title": "Choose the correct option", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+       "items": [{"prompt": "(positive) Our grandmother was very ___ with money.", "options": ["stingy", "thrifty", "tight-fisted"], "answer": "thrifty"}, {"prompt": "The outcome is ___ certain.", "options": ["by no means", "by any means", "no means"], "answer": "by no means"}, {"prompt": "They returned safe and ___.", "options": ["sound", "well", "safe"], "answer": "sound"}, {"prompt": "___, we'll eat outside.", "options": ["Weather permitting", "The weather permits", "Permitted weather"], "answer": "Weather permitting"}, {"prompt": "She was ___ aware of the danger.", "options": ["acutely", "strongly", "heavily"], "answer": "acutely"}]},
+      {"id": "r2", "type": "answer", "title": "Key word transformations", "instruction": "Complete the second sentence using the word in CAPS (3–8 words).", "instruction_pt": "Complete a segunda frase usando a palavra em CAPS (3–8 palavras).",
+       "items": [{"prompt": "The holiday was not at all relaxing. (BUT) → The holiday was ___.", "answer": "anything but relaxing"}, {"prompt": "When the work was finished, we went home. (DONE) → ___, we went home.", "answer": "The work done"}, {"prompt": "Generally, the results were good. (LARGE) → ___, the results were good.", "answer": "By and large"}]},
+      {"id": "r3", "type": "translate", "title": "Translate", "instruction": "Translate into English.", "instruction_pt": "Traduza para o inglês.",
+       "items": [{"prompt": "A situação está longe de ser ideal.", "answer": "The situation is far from ideal."}, {"prompt": "Não foi pouca coisa.", "answer": "It was no mean feat."}, {"prompt": "Terminada a reunião, fomos embora.", "answer": "The meeting over, we left."}]},
+      {"id": "r4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+       "items": [{"prompt": "1", "answer": "What her supporters call principled, her critics call obstinate."}, {"prompt": "2", "answer": "I read the manual but was none the wiser."}, {"prompt": "3", "answer": "Stress is part and parcel of the job."}]},
+      {"id": "r5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+       "items": [{"prompt": "By no means this is easy.", "answer": "By no means is this easy."}, {"prompt": "We discussed the cons and pros.", "answer": "We discussed the pros and cons."}, {"prompt": "Walking home, the rain started.", "answer": "Walking home, I got caught in the rain."}]}
+    ],
+    "speaking_pt": "Grave um áudio de 5 minutos no estilo \"slow travel podcast\": descreva uma viagem marcante com orações absolutas, use quase-sinônimos para pintar pessoas e lugares com precisão, comente com litotes e understatement e inclua pelo menos quatro binômios ou expressões fixas — sem soar forçado.",
+    "speaking_questions": ["Which word in English do you find hardest to choose correctly?", "Is understatement a form of politeness or of dishonesty?", "Which English idiom do you use most often?", "Describe a place you love in three sentences, using absolute constructions.", "What does \"precision\" in language mean to you?"],
+    "project_pt": "**\"Word watchers\":** durante uma semana, cada aluno coleta em notícias, séries e redes sociais (1) três pares de quase-sinônimos usados para mostrar posição, (2) três litotes ou implicaturas, (3) três expressões fixas manipuladas criativamente. Apresentem as descobertas num mural digital, explicando o efeito de cada escolha."
+  }
+}

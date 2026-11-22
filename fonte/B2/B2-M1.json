@@ -1,0 +1,544 @@
+{
+  "id": "B2-M1",
+  "level": "B2",
+  "title": "People and Perspectives",
+  "theme_pt": "Personalidade, relacionamentos, gerações e conversas delicadas",
+  "can_do": ["Descrever hábitos presentes e passados com nuance (tend to, keep -ing, will/would)", "Falar de relacionamentos com phrasal verbs", "Fazer comparações sofisticadas", "Suavizar opiniões em temas sensíveis (hedging)"],
+  "lessons": [
+    {
+      "id": "B2-M1-L1",
+      "title": "First impressions",
+      "subtitle_pt": "Hábitos e comportamentos: will / would / tend to / keep + -ing / always + continuous",
+      "duration_min": 75,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – B2 (habits: will, would, used to)", "TopNotch 3B Teacher's Book – Unit 6 (personality, life choices)"],
+      "objectives": ["Descrever hábitos típicos com will e would (inclusive com tom crítico)", "Usar tend to, keep + -ing e always + continuous para comportamentos", "Usar adjetivos compostos e precisos de personalidade", "Discutir primeiras impressões e vieses"],
+      "warmup": {
+        "text_pt": "Dizem que formamos uma primeira impressão sobre alguém em poucos segundos. Você confia na sua primeira impressão? Já errou feio sobre alguém? No B2, o objetivo é descrever pessoas e comportamentos com **nuance** — e não só com \"nice\" e \"friendly\".",
+        "questions": ["How accurate are your first impressions?", "What behavior annoys you most in other people?"]
+      },
+      "vocabulary": [
+        {"en": "outgoing / reserved", "pt": "extrovertido / reservado", "say": "áutgouin / rizârvd"},
+        {"en": "self-confident / self-conscious", "pt": "autoconfiante / inseguro (com a imagem)", "say": "sélf kónfident / sélf kónshas"},
+        {"en": "easy-going / uptight", "pt": "tranquilo / tenso, rígido", "say": "ízi gôuin / âptait"},
+        {"en": "down-to-earth", "pt": "pé no chão, simples", "say": "dáun tu ârθ"},
+        {"en": "open-minded / narrow-minded", "pt": "mente aberta / mente fechada", "say": "ôupen máindid / nérou máindid"},
+        {"en": "hard-working / laid-back", "pt": "trabalhador / descontraído", "say": "rárd uórkin / léid bék"},
+        {"en": "stubborn / headstrong", "pt": "teimoso / obstinado", "say": "stâborn / rédstrong"},
+        {"en": "thoughtful / considerate", "pt": "atencioso / respeitoso com os outros", "say": "θótful / konsíderet"},
+        {"en": "bossy / pushy", "pt": "mandão / insistente", "say": "bósi / púshi"},
+        {"en": "to come across as", "pt": "passar a impressão de ser", "say": "tu kâm akrós éz"},
+        {"en": "to judge a book by its cover", "pt": "julgar pelas aparências", "say": "tu djâdj a buk bái its kâver"},
+        {"en": "a bias / biased", "pt": "um viés / enviesado", "say": "a báias / báiast"}
+      ],
+      "chunks": [
+        {"en": "She comes across as quite shy, but she isn't.", "pt": "Ela passa a impressão de ser tímida, mas não é."},
+        {"en": "He tends to talk over people.", "pt": "Ele costuma falar por cima dos outros."},
+        {"en": "My dad will spend hours fixing things.", "pt": "Meu pai é capaz de passar horas consertando coisas."},
+        {"en": "She's always borrowing my charger!", "pt": "Ela vive pegando meu carregador!"},
+        {"en": "He keeps interrupting me.", "pt": "Ele fica me interrompendo."},
+        {"en": "Don't judge a book by its cover.", "pt": "Não julgue pelas aparências."}
+      ],
+      "grammar": {
+        "title": "Talking about habits with nuance",
+        "explanation_pt": "No B2, além de **usually** e **used to**, você tem estruturas que mostram **atitude** sobre o hábito:\n\n**1. Will + verbo (presente)** → hábito **característico** de alguém (muitas vezes com carinho ou resignação):\n\"My grandma **will** always **offer** you food, even if you've just eaten.\"\n**Would + verbo (passado)** → o mesmo, no passado (só ações, não estados):\n\"When I was a kid, my dad **would** wake us up singing.\"\n\n**2. Will / would com ênfase** (WILL, WOULD acentuados) → hábito **irritante**:\n\"He **WILL** leave his shoes in the middle of the room!\" / \"She **WOULD** say that — she always takes his side.\"\n\n**3. Always / constantly / forever + present continuous** → hábito irritante ou surpreendente:\n\"You're **always losing** your keys!\" / \"He's **constantly checking** his phone.\"\n\n**4. Keep (on) + -ing** → repetição (frequentemente irritante): \"The printer **keeps jamming**.\" / \"She **kept interrupting** me.\"\n\n**5. Tend to + verbo** → tendência geral (mais neutro, ótimo para generalizar com cuidado):\n\"Introverts **tend to** prefer small groups.\" / \"I **tend not to** trust first impressions.\" (negativa: tend not to / don't tend to)\n\n**6. Be prone to / be inclined to** (mais formal): \"He's **prone to** exaggerating.\"\n\n**Come across as** + adjetivo/substantivo = passar a impressão de ser: \"She **comes across as** arrogant, but she's just shy.\"",
+        "table": {
+          "headers": ["Estrutura", "Sentido", "Exemplo"],
+          "rows": [["will + verbo", "hábito característico (presente)", "He'll sit for hours reading."], ["would + verbo", "hábito característico (passado)", "We'd play outside until dark."], ["WILL (enfático)", "hábito irritante", "She WILL leave the lights on!"], ["always + continuous", "hábito irritante/surpreendente", "You're always complaining!"], ["keep + -ing", "repetição", "It keeps raining."], ["tend to + verbo", "tendência geral", "People tend to judge quickly."]]
+        },
+        "examples": [
+          {"en": "My boss will reply to emails at 2 a.m. — it's just how he is.", "pt": "Meu chefe é capaz de responder e-mails às 2 da manhã — é o jeito dele."},
+          {"en": "She tends to come across as cold, but once you get to know her, she's incredibly warm.", "pt": "Ela costuma passar uma imagem fria, mas quando você a conhece, ela é extremamente calorosa."},
+          {"en": "My roommate is forever leaving dirty dishes in the sink!", "pt": "Meu colega de casa vive deixando louça suja na pia!"}
+        ],
+        "tip_pt": "**Tend to** é uma das palavras mais úteis do B2: ela **suaviza generalizações**. Em vez de \"Brazilians are late\" (estereótipo), diga \"Brazilians **tend to** be more flexible about time\"."
+      },
+      "common_mistakes": [
+        {"wrong": "He would be very tall when he was young.", "right": "He used to be very tall... / He was very tall...", "why_pt": "Would não funciona com estados (be, have, know) — só com ações repetidas."},
+        {"wrong": "She tends to be talking a lot.", "right": "She tends to talk a lot.", "why_pt": "Tend to + verbo base."},
+        {"wrong": "He seems arrogant, but he comes across as shy.", "right": "He comes across as arrogant, but he's actually shy.", "why_pt": "Come across as = a impressão (aparente); depois vem a realidade."}
+      ],
+      "pronunciation": {
+        "focus": "Will / would enfáticos",
+        "tip_pt": "Para mostrar irritação, os nativos **acentuam** will/would, que normalmente são fracos: \"He **WILL** leave his socks everywhere!\" (\"rí UÍL lív...\"). Compare com o neutro: \"He'll sit for hours reading\" (\"ríl\").",
+        "practice": ["He'll sit for hours reading. (neutro)", "He WILL leave his socks everywhere! (irritado)", "She WOULD say that! (irônico)"]
+      },
+      "dialogue": {
+        "title": "The new manager",
+        "context_pt": "Duas colegas comentam suas impressões sobre o novo gerente depois do primeiro mês.",
+        "lines": [
+          {"speaker": "Duda", "en": "So, what do you make of the new manager? He came across as a bit arrogant at first.", "pt": "E aí, o que você acha do novo gerente? Ele passou uma impressão meio arrogante no começo."},
+          {"speaker": "Rosa", "en": "I thought so too, but I think he's just reserved. He tends to think before he speaks, which some people mistake for coldness.", "pt": "Também achei, mas acho que ele só é reservado. Ele costuma pensar antes de falar, e algumas pessoas confundem isso com frieza."},
+          {"speaker": "Duda", "en": "Maybe. Although he does keep interrupting people in meetings.", "pt": "Talvez. Embora ele fique interrompendo as pessoas nas reuniões."},
+          {"speaker": "Rosa", "en": "True, that's annoying. And he will send emails late at night — I got one at 11 p.m. yesterday.", "pt": "Verdade, isso é irritante. E ele tem mania de mandar e-mails tarde da noite — recebi um às 23h ontem."},
+          {"speaker": "Duda", "en": "Our old manager would never do that. She'd always say evenings were sacred.", "pt": "Nossa antiga gerente nunca faria isso. Ela sempre dizia que as noites eram sagradas."},
+          {"speaker": "Rosa", "en": "Well, to be fair, he's quite down-to-earth when you talk to him one-on-one. And he's open-minded — he actually listened to my idea.", "pt": "Bom, para ser justa, ele é bem pé no chão quando você conversa com ele a sós. E tem a mente aberta — ele realmente ouviu minha ideia."},
+          {"speaker": "Duda", "en": "So you're saying we shouldn't judge a book by its cover?", "pt": "Então você está dizendo que não devemos julgar pelas aparências?"},
+          {"speaker": "Rosa", "en": "Exactly. Give him another month. First impressions tend to be wrong more often than we think.", "pt": "Exatamente. Dê mais um mês a ele. Primeiras impressões costumam estar erradas mais vezes do que pensamos."}
+        ]
+      },
+      "listening": {
+        "title": "Podcast: the science of first impressions",
+        "context_pt": "Um psicólogo fala sobre como formamos primeiras impressões.",
+        "lines": [
+          {"speaker": "Psychologist", "en": "Research suggests that we form an impression of someone's face in a fraction of a second — some studies say about a tenth of a second. We tend to judge whether someone is trustworthy, competent or friendly almost instantly. The problem is that these snap judgements are heavily influenced by bias. For example, we tend to see people who look like us as more trustworthy, and we'll often assume that attractive people are also smarter — something psychologists call the halo effect. The good news is that first impressions aren't fixed. If we keep meeting someone and they keep behaving in a way that contradicts our first judgement, we'll eventually update our opinion. The key is to stay curious and to be aware of our own biases."}
+        ],
+        "questions": [
+          {"q": "How quickly do we form an impression of a face, according to some studies?", "answer": "In about a tenth of a second."},
+          {"q": "What is the halo effect?", "answer": "Assuming that attractive people are also smarter (one positive trait influences others)."},
+          {"q": "Whom do we tend to see as more trustworthy?", "answer": "People who look like us."},
+          {"q": "How can we change a first impression?", "answer": "By meeting the person repeatedly and staying curious/aware of our biases."}
+        ]
+      },
+      "video": {
+        "title": "The power of introverts",
+        "speaker": "Susan Cain",
+        "url": "https://www.ted.com/search?q=the+power+of+introverts",
+        "task_pt": "Assista à palestra (cerca de 19 minutos). Anote como a palestrante descreve introvertidos e extrovertidos. Depois responda usando tend to, will/would e come across as:",
+        "questions": ["How does the speaker describe her own habits as a child?", "Why do introverts sometimes come across as cold or unfriendly?", "Do you tend to be more introverted or extroverted? Give examples.", "How could schools or workplaces be fairer to introverts?"]
+      },
+      "reading": {
+        "title": "Why we misjudge people",
+        "text": "Imagine meeting two job candidates. One walks in confidently, makes eye contact and tells a funny story. The other speaks quietly and looks down. Most of us would instinctively prefer the first — even though nothing we've seen tells us who would actually do the job better. Psychologists have identified several reasons why our judgements of other people tend to be unreliable. One is the halo effect: when someone has one attractive quality, we'll tend to assume they have others too. Another is the fundamental attribution error: when other people behave badly, we tend to blame their personality (\"He's rude\"), but when we behave badly, we blame the situation (\"I was tired\"). Culture also plays a role. In some cultures, direct eye contact signals honesty; in others, it can come across as disrespectful. What seems confident in one country may seem arrogant in another. None of this means we should ignore our instincts completely. But it does suggest that we should hold our first impressions lightly, look for evidence, and give people the same benefit of the doubt that we would want them to give us.",
+        "questions": [
+          {"q": "Which candidate would most people instinctively prefer, and why is that a problem?", "answer": "The confident one, although nothing shows who would do the job better."},
+          {"q": "What is the fundamental attribution error?", "answer": "Blaming others' personality for their bad behavior but blaming the situation for our own."},
+          {"q": "How can eye contact be interpreted differently?", "answer": "In some cultures it signals honesty; in others it can seem disrespectful."},
+          {"q": "What does the writer recommend?", "answer": "Hold first impressions lightly, look for evidence and give people the benefit of the doubt."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Habit structures", "instruction": "Choose the best option.", "instruction_pt": "Escolha a melhor opção.",
+         "items": [{"prompt": "When we were kids, my grandpa ___ tell us ghost stories every night.", "options": ["would", "used to be", "will"], "answer": "would"}, {"prompt": "My sister ___ have long hair, but she cut it last year.", "options": ["would", "used to", "tends to"], "answer": "used to"}, {"prompt": "You're ___ forgetting your keys! It's so annoying.", "options": ["always", "tend to", "will"], "answer": "always"}, {"prompt": "People ___ trust those who look like them.", "options": ["tend to", "keep", "would"], "answer": "tend to"}, {"prompt": "The app ___ crashing. I'm going to delete it.", "options": ["keeps", "tends", "will"], "answer": "keeps"}]},
+        {"id": "ex2", "type": "fill_blank", "title": "Compound adjectives", "instruction": "Complete with: down-to-earth · open-minded · easy-going · self-conscious · hard-working.", "instruction_pt": "Complete com o adjetivo composto adequado.",
+         "items": [{"prompt": "Despite being a famous actor, he's very ___ and talks to everyone.", "answer": "down-to-earth"}, {"prompt": "She's really ___ — nothing seems to stress her.", "answer": "easy-going"}, {"prompt": "He's ___ about his accent, so he rarely speaks in meetings.", "answer": "self-conscious"}, {"prompt": "My grandparents are surprisingly ___ about new ideas.", "answer": "open-minded"}, {"prompt": "She's the most ___ person in the team — always the first to arrive.", "answer": "hard-working"}]},
+        {"id": "ex3", "type": "answer", "title": "Rewrite with the word given", "instruction": "Rewrite the sentence using the word in CAPS. Keep the meaning.", "instruction_pt": "Reescreva usando a palavra em CAPS, mantendo o sentido.",
+         "items": [{"prompt": "He interrupts me again and again. (KEEPS)", "answer": "He keeps interrupting me."}, {"prompt": "People usually prefer confident speakers. (TEND)", "answer": "People tend to prefer confident speakers."}, {"prompt": "She seems arrogant, but she's just shy. (COMES)", "answer": "She comes across as arrogant, but she's just shy."}, {"prompt": "In my childhood, my mom read to us every night. (WOULD)", "answer": "When I was a child, my mom would read to us every night."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "She comes across as quite shy, but she isn't."}, {"prompt": "2", "answer": "He tends to talk over people."}, {"prompt": "3", "answer": "She's always borrowing my charger!"}, {"prompt": "4", "answer": "First impressions tend to be wrong."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "When I was young, I would have a red bike.", "answer": "When I was young, I had / used to have a red bike."}, {"prompt": "He tends to being late.", "answer": "He tends to be late."}, {"prompt": "She keeps to call me at night.", "answer": "She keeps calling me at night."}, {"prompt": "He comes across like arrogant.", "answer": "He comes across as arrogant."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the description", "instruction": "Complete with: will · would · tends · always · comes.", "instruction_pt": "Complete a descrição.",
+         "items": [{"prompt": "My uncle ___ across as serious, but he's hilarious.", "answer": "comes"}, {"prompt": "At family parties, he ___ tell the same jokes every year.", "answer": "will"}, {"prompt": "When we were kids, he ___ take us fishing on Sundays.", "answer": "would"}, {"prompt": "He ___ to forget birthdays, and my aunt is ___ reminding him!", "answer": "tends / always"}]}
+      ],
+      "speaking": {
+        "instruction": "Describe three people in your life (one you admire, one who annoys you, one from your childhood) using at least 5 different habit structures and 4 compound adjectives.",
+        "instruction_pt": "Descreva três pessoas da sua vida (uma que você admira, uma que te irrita, uma da sua infância) usando pelo menos 5 estruturas de hábito diferentes e 4 adjetivos compostos.",
+        "questions": ["How do you think you come across to people who don't know you?", "Has a first impression ever been completely wrong? What happened?", "What habits of other people drive you crazy?", "What would your family always do when you were a child?", "Do you think people tend to judge others too quickly online?"]
+      },
+      "writing": {
+        "task": "Write a character description (180–220 words) of someone you know well for a creative writing blog. Describe their appearance briefly, their personality in depth and their habits, including at least one annoying habit.",
+        "task_pt": "Escreva a descrição de um personagem (180–220 palavras) — alguém que você conhece bem — para um blog de escrita criativa. Descreva a aparência brevemente, a personalidade em profundidade e os hábitos, incluindo pelo menos um irritante.",
+        "model": "My Aunt Zélia\n\nAt first glance, my Aunt Zélia comes across as a rather serious woman. She's tall, wears her grey hair in a tight bun and tends to look at people over the top of her glasses, as if she were assessing them. Strangers often find her intimidating.\n\nBut anyone who spends more than ten minutes with her soon discovers that she's one of the most down-to-earth and generous people you could meet. She'll stop to talk to the man who sells popcorn on her street, and she'll remember the names of all his children. When I was a teenager, she would call me every Sunday just to ask about my week, and she never once judged me, even when I made terrible decisions.\n\nShe isn't perfect, of course. She's incredibly stubborn: once she's made up her mind, there's no point arguing. And she WILL insist on giving you a second plate of food, no matter how many times you say you're full. She's forever telling me I look thin!\n\nStill, I can't imagine my life without her. If I've learned anything from Aunt Zélia, it's that the people who seem the toughest on the outside are often the softest inside."
+      },
+      "culture_note": {
+        "title": "Diretos x indiretos",
+        "text_pt": "O que é \"confiante\" ou \"educado\" muda entre culturas. Nos EUA, autopromoção e contato visual forte costumam ser vistos como confiança; no Japão, modéstia é valorizada; no Reino Unido, o **understatement** (dizer menos do que se sente) é comum: \"It's not bad\" pode significar \"é ótimo!\". No B2, perceber essas nuances é parte da fluência."
+      },
+      "summary_pt": ["will / would = hábito característico (would: só ações).", "always / forever + continuous e keep + -ing = repetição irritante.", "tend to = generalização suave.", "come across as = passar a impressão de ser."]
+    },
+    {
+      "id": "B2-M1-L2",
+      "title": "Getting on with people",
+      "subtitle_pt": "Phrasal verbs de relacionamentos: separáveis, inseparáveis e com três partes",
+      "duration_min": 75,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – B2 (phrasal verbs)", "TopNotch 3B Teacher's Book – Unit 6 (relationships, life choices)"],
+      "objectives": ["Usar phrasal verbs de relacionamento com naturalidade", "Diferenciar phrasal verbs separáveis e inseparáveis", "Usar phrasal verbs de três partes (put up with, look up to)", "Falar sobre amizades, conflitos e reconciliações"],
+      "warmup": {
+        "text_pt": "O inglês do dia a dia é cheio de **phrasal verbs** — verbo + partícula com sentido próprio. Nativos dizem \"we fell out\" muito mais do que \"we had a disagreement\". No B2, dominar os mais comuns faz você soar natural.",
+        "questions": ["Who do you get on best with in your family?", "Have you ever fallen out with a close friend? Did you make up?"]
+      },
+      "vocabulary": [
+        {"en": "to get on (well) with", "pt": "dar-se bem com", "say": "tu guét on uídh"},
+        {"en": "to fall out (with)", "pt": "brigar, desentender-se (com)", "say": "tu fól áut"},
+        {"en": "to make up (with)", "pt": "fazer as pazes (com)", "say": "tu mêik âp"},
+        {"en": "to break up (with)", "pt": "terminar (um relacionamento)", "say": "tu brêik âp"},
+        {"en": "to drift apart", "pt": "afastar-se aos poucos", "say": "tu dríft apárt"},
+        {"en": "to look up to", "pt": "admirar, ter como exemplo", "say": "tu luk âp tu"},
+        {"en": "to look down on", "pt": "menosprezar", "say": "tu luk dáun on"},
+        {"en": "to put up with", "pt": "tolerar, aguentar", "say": "tu put âp uídh"},
+        {"en": "to let (someone) down", "pt": "decepcionar (alguém)", "say": "tu lét dáun"},
+        {"en": "to stand up for", "pt": "defender (alguém/algo)", "say": "tu sténd âp for"},
+        {"en": "to count on / to rely on", "pt": "contar com", "say": "tu káunt on / tu rilái on"},
+        {"en": "to bring (someone) up", "pt": "criar (um filho)", "say": "tu bring âp"}
+      ],
+      "chunks": [
+        {"en": "We've always got on really well.", "pt": "Sempre nos demos muito bem."},
+        {"en": "They fell out over money.", "pt": "Eles brigaram por causa de dinheiro."},
+        {"en": "We drifted apart after college.", "pt": "Nos afastamos depois da faculdade."},
+        {"en": "I don't know how you put up with him.", "pt": "Não sei como você aguenta ele."},
+        {"en": "You can always count on me.", "pt": "Você sempre pode contar comigo."},
+        {"en": "Thanks for standing up for me.", "pt": "Obrigado por me defender."}
+      ],
+      "grammar": {
+        "title": "Phrasal verbs: tipos e posição do objeto",
+        "explanation_pt": "**1. Intransitivos (sem objeto):** fall out, make up, break up, drift apart, grow up\n\"We **fell out** last year, but we've **made up** now.\"\n\n**2. Separáveis (transitivos)** — o objeto pode ficar **no meio ou no fim**; mas se for **pronome**, **tem que ficar no meio**:\n- \"She **let her friends down**.\" / \"She **let down her friends**.\" ✅\n- \"She **let them down**.\" ✅ / ❌ \"She let down them.\"\n- Outros: bring up (criar), turn down (recusar), cheer up (animar), talk into (convencer), ask out (convidar para sair)\n\n**3. Inseparáveis** — o objeto vem sempre **depois** da partícula:\n- \"I can always **count on her**.\" (❌ count her on) / \"She **takes after her mother**.\" (puxou à mãe) / \"I **ran into** an old friend.\" (encontrei por acaso)\n\n**4. Três partes** (verbo + advérbio + preposição) — sempre inseparáveis:\n- **put up with** (tolerar), **look up to** (admirar), **look down on** (menosprezar), **get on with** (dar-se bem), **catch up with** (colocar o papo em dia), **come up with** (ter uma ideia), **stand up for** (defender), **fall out with** (brigar com)\n- \"I **look up to** my grandmother.\" / \"How do you **put up with** the noise?\"\n\n💡 **Dica de registro:** phrasal verbs são mais **informais**; em textos formais, muitas vezes existe um verbo latino equivalente: put up with → **tolerate**; fall out → **argue**; look up to → **admire**; bring up → **raise**.",
+        "table": {
+          "headers": ["Tipo", "Exemplo", "Com pronome"],
+          "rows": [["Intransitivo", "We fell out.", "—"], ["Separável", "She brought up three kids. / She brought three kids up.", "She brought them up."], ["Inseparável", "I ran into Ana.", "I ran into her."], ["Três partes", "I look up to my mom.", "I look up to her."]]
+        },
+        "examples": [
+          {"en": "My parents brought me up to stand up for what I believe in.", "pt": "Meus pais me criaram para defender aquilo em que acredito."},
+          {"en": "We used to be inseparable, but we drifted apart when she moved abroad.", "pt": "Éramos inseparáveis, mas nos afastamos quando ela se mudou para o exterior."},
+          {"en": "I ran into my ex at the supermarket — awkward! But we caught up and it was fine.", "pt": "Encontrei meu ex no supermercado por acaso — constrangedor! Mas colocamos o papo em dia e foi tranquilo."}
+        ],
+        "tip_pt": "Aprenda phrasal verbs **em contexto e por tema** (relacionamentos, trabalho, viagens), nunca em listas alfabéticas. E use um bom dicionário (Cambridge, Oxford Learner's) para saber se são separáveis."
+      },
+      "common_mistakes": [
+        {"wrong": "He let down me.", "right": "He let me down.", "why_pt": "Com pronome, o objeto vai no meio do phrasal verb separável."},
+        {"wrong": "I can't put up this noise.", "right": "I can't put up with this noise.", "why_pt": "Put up with tem três partes."},
+        {"wrong": "We made up with each other after we fell out with.", "right": "We made up after we fell out.", "why_pt": "Sem objeto, use as formas intransitivas (fall out, make up)."}
+      ],
+      "pronunciation": {
+        "focus": "Ênfase na partícula",
+        "tip_pt": "Em phrasal verbs, a **partícula** costuma ser a sílaba mais forte: \"We fell **OUT**\", \"They broke **UP**\", \"Don't let me **DOWN**\". Em verbos de três partes, a força fica no meio: \"put **UP** with\", \"look **UP** to\".",
+        "practice": ["We fell OUT, but we made UP.", "Don't let me DOWN.", "I look UP to her."]
+      },
+      "dialogue": {
+        "title": "An old friendship",
+        "context_pt": "Duas amigas conversam sobre uma amizade de infância que esfriou.",
+        "lines": [
+          {"speaker": "Lia", "en": "Do you still see Carol? You two used to be inseparable.", "pt": "Você ainda vê a Carol? Vocês eram inseparáveis."},
+          {"speaker": "Jade", "en": "Not really. We drifted apart after she moved to Recife. And then we fell out over something silly.", "pt": "Não muito. Nos afastamos depois que ela se mudou para Recife. E aí brigamos por uma bobagem."},
+          {"speaker": "Lia", "en": "What happened?", "pt": "O que aconteceu?"},
+          {"speaker": "Jade", "en": "She was supposed to be my bridesmaid, but she cancelled two weeks before the wedding. I felt she'd really let me down.", "pt": "Ela ia ser minha madrinha, mas cancelou duas semanas antes do casamento. Senti que ela realmente me decepcionou."},
+          {"speaker": "Lia", "en": "That must have hurt. Did you ever talk about it?", "pt": "Deve ter doído. Vocês chegaram a conversar sobre isso?"},
+          {"speaker": "Jade", "en": "No. I didn't want to bring it up, and she never explained. But last month I ran into her mum, who told me Carol had been going through a really hard time back then.", "pt": "Não. Eu não quis tocar no assunto, e ela nunca explicou. Mas mês passado encontrei a mãe dela por acaso, que me contou que a Carol estava passando por uma fase muito difícil na época."},
+          {"speaker": "Lia", "en": "Oh no. So maybe it wasn't about you at all.", "pt": "Ah não. Então talvez não tivesse nada a ver com você."},
+          {"speaker": "Jade", "en": "Exactly. I've been thinking about calling her to catch up. I've really missed her — I always looked up to her.", "pt": "Exatamente. Estou pensando em ligar para ela para colocar o papo em dia. Senti muita falta dela — sempre a admirei."}
+        ]
+      },
+      "listening": {
+        "title": "Radio: what makes friendships last?",
+        "context_pt": "Uma pesquisadora fala sobre amizades na vida adulta.",
+        "lines": [
+          {"speaker": "Researcher", "en": "One of the most common things people tell us is that they've drifted apart from friends without any real conflict. Life just gets in the way: people move, have children, change jobs. Research suggests that adult friendships need regular contact to survive — not necessarily long conversations, but small gestures, like sending a message or catching up over coffee. Another key factor is how people deal with conflict. Friends who fall out but then talk openly and make up often end up closer than before. On the other hand, friendships where people keep putting up with things they don't like, without saying anything, tend to fade. So my advice is simple: reach out, and if something bothers you, bring it up — kindly."}
+        ],
+        "questions": [
+          {"q": "Why do many adults drift apart from friends?", "answer": "Life gets in the way: moving, having children, changing jobs."},
+          {"q": "What do adult friendships need to survive?", "answer": "Regular contact — small gestures like messages or coffee."},
+          {"q": "What happens to friends who fall out and then make up openly?", "answer": "They often end up closer than before."},
+          {"q": "What's the researcher's advice?", "answer": "Reach out, and if something bothers you, bring it up kindly."}
+        ]
+      },
+      "video": {
+        "title": "What makes a good life? Lessons from the longest study on happiness",
+        "speaker": "Robert Waldinger",
+        "url": "https://www.ted.com/search?q=what+makes+a+good+life+longest+study+on+happiness",
+        "task_pt": "Assista à palestra (cerca de 12 minutos). Anote os três aprendizados principais sobre relacionamentos. Depois responda usando phrasal verbs da aula:",
+        "questions": ["What is the study, and how long has it been running?", "What are the main lessons about relationships?", "Who do you count on most in your life?", "Is there someone you've drifted apart from that you'd like to catch up with?"]
+      },
+      "reading": {
+        "title": "The friendship recession",
+        "text": "In recent years, several surveys in the United States and other countries have suggested that adults have fewer close friends than they used to. Some commentators have even started talking about a \"friendship recession\". The reasons are complex. People work longer hours, move more often for jobs and spend more time online. Many say they simply don't have time to catch up with friends, and that friendships slowly fade without anyone falling out. Researchers also point out that making new friends as an adult is harder than at school or university, where we meet the same people every day without trying. One frequently quoted study by Jeffrey Hall estimated that it takes around 50 hours of time together to go from acquaintance to casual friend, and more than 200 hours to become close friends. That's a lot of coffees. However, there are reasons for optimism. Many people are deliberately making time for friendship: joining running clubs, book clubs and volunteer groups, where repeated contact happens naturally. As one participant put it, \"I used to wait for friendships to happen. Now I put the effort in — and I've never felt less lonely.\"",
+        "questions": [
+          {"q": "What is the \"friendship recession\"?", "answer": "The idea that adults have fewer close friends than they used to."},
+          {"q": "Why is making friends harder as an adult?", "answer": "We don't meet the same people every day without trying, as at school or university."},
+          {"q": "How many hours does it take to become close friends, according to the study?", "answer": "More than 200 hours."},
+          {"q": "What are some people doing about it?", "answer": "Joining clubs and groups where repeated contact happens naturally."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "fill_blank", "title": "Relationship phrasal verbs", "instruction": "Complete with the correct form: get on · fall out · make up · drift apart · look up to · put up with.", "instruction_pt": "Complete com a forma correta do phrasal verb.",
+         "items": [{"prompt": "I really ___ my older sister. She's my role model.", "answer": "look up to"}, {"prompt": "They ___ over the inheritance and haven't spoken since.", "answer": "fell out"}, {"prompt": "How do you ___ your neighbor's loud music every night?", "answer": "put up with"}, {"prompt": "We had a huge argument, but we ___ the next day.", "answer": "made up"}, {"prompt": "Do you ___ well with your in-laws?", "answer": "get on"}, {"prompt": "We were best friends at school, but we ___ when we went to different universities.", "answer": "drifted apart"}]},
+        {"id": "ex2", "type": "multiple_choice", "title": "Object position", "instruction": "Choose the correct sentence.", "instruction_pt": "Escolha a frase correta.",
+         "items": [{"prompt": "Escolha:", "options": ["Don't let down me.", "Don't let me down."], "answer": "Don't let me down."}, {"prompt": "Escolha:", "options": ["I ran into her at the mall.", "I ran her into at the mall."], "answer": "I ran into her at the mall."}, {"prompt": "Escolha:", "options": ["My grandparents brought up me.", "My grandparents brought me up."], "answer": "My grandparents brought me up."}, {"prompt": "Escolha:", "options": ["He turned it down.", "He turned down it."], "answer": "He turned it down."}]},
+        {"id": "ex3", "type": "match", "title": "Formal equivalents", "instruction": "Write a more formal verb with the same meaning.", "instruction_pt": "Escreva um verbo mais formal com o mesmo sentido.",
+         "items": [{"prompt": "put up with", "answer": "tolerate"}, {"prompt": "look up to", "answer": "admire / respect"}, {"prompt": "bring up (a child)", "answer": "raise"}, {"prompt": "let (someone) down", "answer": "disappoint"}, {"prompt": "count on", "answer": "rely on / depend on"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "They fell out over money."}, {"prompt": "2", "answer": "We drifted apart after college."}, {"prompt": "3", "answer": "I don't know how you put up with him."}, {"prompt": "4", "answer": "Thanks for standing up for me."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "She really let down us.", "answer": "She really let us down."}, {"prompt": "I can't put up his attitude.", "answer": "I can't put up with his attitude."}, {"prompt": "I look up my father.", "answer": "I look up to my father."}, {"prompt": "They broke up with last year.", "answer": "They broke up last year."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the story", "instruction": "Complete with: brought · ran · catch · count · stood.", "instruction_pt": "Complete a história.",
+         "items": [{"prompt": "My grandmother ___ me up after my parents divorced.", "answer": "brought"}, {"prompt": "She always ___ up for me when other kids were mean.", "answer": "stood"}, {"prompt": "I knew I could ___ on her for anything.", "answer": "count"}, {"prompt": "Last week I ___ into her old neighbor, and we stopped to ___ up for an hour.", "answer": "ran / catch"}]}
+      ],
+      "speaking": {
+        "instruction": "Tell the story of an important relationship in your life (friend, family member, partner) — how you met, how you got on, any conflicts and how things are now. Use at least 8 phrasal verbs.",
+        "instruction_pt": "Conte a história de um relacionamento importante na sua vida (amigo, familiar, parceiro) — como se conheceram, como se davam, conflitos e como está hoje. Use pelo menos 8 phrasal verbs.",
+        "questions": ["Who do you look up to? Why?", "What's something you can't put up with in a friend?", "Have you drifted apart from anyone? Would you like to reconnect?", "How were you brought up? What values did your family teach you?", "Is it easier to make friends now or when you were younger?"]
+      },
+      "writing": {
+        "task": "Write an informal email (180–220 words) to a friend you haven't spoken to in a long time. Apologize for not keeping in touch, catch up on news and suggest meeting. Use at least 6 phrasal verbs.",
+        "task_pt": "Escreva um e-mail informal (180–220 palavras) para um amigo com quem você não fala há muito tempo. Peça desculpas por não manter contato, conte novidades e sugira um encontro. Use pelo menos 6 phrasal verbs.",
+        "model": "Hi Carol,\n\nI know it's been ages since we last spoke, and I'm really sorry I haven't been in touch. After the wedding, life just got in the way — new job, new apartment, and suddenly two years had gone by. I've thought about you so many times.\n\nThe other day I ran into your mum at the bakery near my old house. She told me you'd been going through a really tough time around the time of my wedding. I had no idea, and I feel awful that I didn't reach out. I think I was hurt that you couldn't come, and instead of bringing it up, I just stayed quiet. That wasn't fair to either of us.\n\nAnyway, I'd love to catch up properly. I've got loads of news (yes, I finally gave up my terrible job at the bank!), and I want to hear everything about your life in Recife. I'm actually going to be there for a conference next month. Could we meet up for lunch?\n\nYou've always been someone I looked up to, and I don't want us to drift apart for good. You can always count on me — I hope I can still count on you too.\n\nLots of love,\nJade"
+      },
+      "culture_note": {
+        "title": "\"Mates\", \"buddies\" e \"besties\"",
+        "text_pt": "Formas informais de dizer \"amigo\": **mate** (Reino Unido e Austrália), **buddy** ou **pal** (EUA), **bestie / BFF** (melhor amigo, mais jovem). E um **frenemy** é aquela pessoa que finge ser amiga, mas compete com você. Em inglês britânico, \"**Cheers, mate!**\" serve para agradecer quase tudo."
+      },
+      "summary_pt": ["Intransitivos: fall out, make up, drift apart.", "Separáveis: pronome no meio (let me down, bring them up).", "Inseparáveis e de três partes: count on her, put up with it, look up to him.", "Registro: phrasal verb (informal) x verbo latino (formal)."]
+    },
+    {
+      "id": "B2-M1-L3",
+      "title": "Generation gaps",
+      "subtitle_pt": "Comparações avançadas: the more... the more, far / slightly / nowhere near, as... as",
+      "duration_min": 75,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – B2 (comparatives: modification, double comparatives)", "TopNotch 3B Teacher's Book – Unit 9 (controversial issues)"],
+      "objectives": ["Modificar comparativos com far, much, slightly, a bit, considerably", "Usar not nearly as / nowhere near as / just as / twice as", "Usar comparativos duplos: the more... the more / -er and -er", "Discutir diferenças entre gerações sem estereótipos"],
+      "warmup": {
+        "text_pt": "Boomers, Geração X, Millennials, Geração Z, Alpha... Cada geração acha que a outra \"não entende nada\". Existem diferenças reais ou são só estereótipos? Hoje vamos comparar com **precisão** — e com cuidado.",
+        "questions": ["Which generation do you belong to? Do you identify with its stereotypes?", "What's the biggest difference between you and your parents?"]
+      },
+      "vocabulary": [
+        {"en": "generation gap", "pt": "conflito/diferença de gerações", "say": "djeneréishon guép"},
+        {"en": "Baby Boomers / Gen X / Millennials / Gen Z", "pt": "nascidos ~1946–64 / ~65–80 / ~81–96 / ~97–2012", "say": "bêibi búmerz / djén éks / miléniolz / djén zí"},
+        {"en": "digital native", "pt": "nativo digital", "say": "dídjital nêitiv"},
+        {"en": "values / priorities", "pt": "valores / prioridades", "say": "véliuz / praióritiz"},
+        {"en": "stereotype / to generalize", "pt": "estereótipo / generalizar", "say": "stériotaip / tu djéneralaiz"},
+        {"en": "job security / job hopping", "pt": "estabilidade no emprego / trocar de emprego com frequência", "say": "djób sikiúriti / djób rópin"},
+        {"en": "home ownership", "pt": "ter casa própria", "say": "rôum ôunership"},
+        {"en": "the cost of living", "pt": "o custo de vida", "say": "dâ kóst ov lívin"},
+        {"en": "to take for granted", "pt": "não dar valor, achar natural", "say": "tu têik for gréntid"},
+        {"en": "nostalgic / nostalgia", "pt": "nostálgico / nostalgia", "say": "nostáldjik"},
+        {"en": "OK, boomer", "pt": "expressão irônica (\"tá bom, tio\")", "say": "ôukêi búmer"},
+        {"en": "to bridge the gap", "pt": "diminuir a distância, aproximar", "say": "tu brídj dâ guép"}
+      ],
+      "chunks": [
+        {"en": "Houses are far more expensive than they were.", "pt": "As casas estão muito mais caras do que eram."},
+        {"en": "It's nowhere near as easy as it looks.", "pt": "Não é nem de longe tão fácil quanto parece."},
+        {"en": "The older I get, the more I understand my parents.", "pt": "Quanto mais velho fico, mais entendo meus pais."},
+        {"en": "Prices are getting higher and higher.", "pt": "Os preços estão ficando cada vez mais altos."},
+        {"en": "We're just as hard-working as they were.", "pt": "Somos tão trabalhadores quanto eles eram."},
+        {"en": "It's slightly different in my family.", "pt": "É um pouco diferente na minha família."}
+      ],
+      "grammar": {
+        "title": "Advanced comparisons",
+        "explanation_pt": "**1. Modificar comparativos** (o quanto maior/menor):\n- grande diferença: **much / far / a lot / considerably / significantly** + comparativo → \"Rent is **far higher** than it was in 2010.\"\n- pequena diferença: **slightly / a bit / a little / marginally** → \"Gen Z is **slightly more** likely to...\"\n- também com superlativos: \"**by far the** biggest change\" / \"**easily the** best\"\n\n**2. As... as (com modificadores):**\n- **just as** (exatamente tão): \"Young people are **just as** hard-working **as** their parents.\"\n- **not quite as / not nearly as / nowhere near as** (não tão / nem de longe tão): \"Buying a house is **nowhere near as** easy **as** it was.\"\n- **twice / three times as... as** (o dobro / o triplo): \"Houses cost **three times as much as** they did.\"\n- **the same as / similar to / different from**\n\n**3. Comparativos duplos (mudança progressiva / correlação):**\n- **-er and -er / more and more** (cada vez mais): \"Life is getting **more and more** expensive.\" / \"Phones are getting **smaller and smaller**.\"\n- **The + comparativo..., the + comparativo** (quanto mais..., mais...): \"**The more** you read, **the better** you write.\" / \"**The older** I get, **the less** I care about what people think.\" / \"**The sooner, the better.**\"\n\n**4. Linguagem para evitar estereótipos:** use **tend to**, **on average**, **many / some (but not all)**, **compared with**: \"**On average**, Gen Z **tends to** change jobs more often **than** previous generations.\"",
+        "table": {
+          "headers": ["Estrutura", "Exemplo"],
+          "rows": [["far / much + comparativo", "It's far more competitive now."], ["slightly / a bit + comparativo", "Salaries are slightly higher."], ["just as... as", "We're just as worried as they were."], ["nowhere near as... as", "It's nowhere near as cheap as before."], ["twice as... as", "It costs twice as much."], ["more and more / -er and -er", "It's getting harder and harder."], ["the more..., the more...", "The more I learn, the less I know."]]
+        },
+        "examples": [
+          {"en": "On average, young people today are far more likely to rent than to own a home.", "pt": "Em média, os jovens hoje têm muito mais chance de alugar do que de ter casa própria."},
+          {"en": "My grandparents' generation had nowhere near as many choices as we do.", "pt": "A geração dos meus avós não tinha nem de longe tantas opções quanto nós."},
+          {"en": "The more time I spend with my grandmother, the more I realize how much she's been through.", "pt": "Quanto mais tempo passo com minha avó, mais percebo o quanto ela passou."}
+        ],
+        "tip_pt": "Em português dizemos \"**cada vez mais caro**\"; em inglês, **more and more expensive** ou, para adjetivos curtos, **cheaper and cheaper**. Nunca \"each time more\" ❌."
+      },
+      "common_mistakes": [
+        {"wrong": "It's each time more difficult.", "right": "It's getting more and more difficult.", "why_pt": "\"Cada vez mais\" = more and more / -er and -er."},
+        {"wrong": "More you study, more you learn.", "right": "The more you study, the more you learn.", "why_pt": "A estrutura exige the nas duas partes."},
+        {"wrong": "It's very more expensive.", "right": "It's much/far more expensive.", "why_pt": "Use much/far (não very) com comparativos."}
+      ],
+      "pronunciation": {
+        "focus": "Ritmo de \"The more..., the more...\"",
+        "tip_pt": "Nas frases \"the more..., the more...\", há duas partes com ritmo paralelo e uma pausa no meio: \"The **MORE** you **READ** ↗ | the **BET**ter you **WRITE** ↘.\" A voz sobe na primeira parte e desce na segunda.",
+        "practice": ["The more you read, the better you write.", "The older I get, the wiser I feel.", "The sooner, the better."]
+      },
+      "dialogue": {
+        "title": "Sunday lunch debate",
+        "context_pt": "Num almoço de domingo, um avô e a neta discutem como a vida mudou.",
+        "lines": [
+          {"speaker": "Grandpa", "en": "In my day, we didn't have all these apps and gadgets, and we were just as happy. Maybe happier!", "pt": "No meu tempo, não tínhamos todos esses aplicativos e aparelhos, e éramos tão felizes quanto. Talvez mais!"},
+          {"speaker": "Bia", "en": "Maybe, Grandpa. But some things were far harder. You told me you had to wait months to get a phone line!", "pt": "Talvez, vô. Mas algumas coisas eram bem mais difíceis. O senhor me contou que tinha que esperar meses para ter uma linha de telefone!"},
+          {"speaker": "Grandpa", "en": "True. But a young couple could buy a house on one salary. Your generation can't do that.", "pt": "Verdade. Mas um casal jovem conseguia comprar uma casa com um salário só. A sua geração não consegue."},
+          {"speaker": "Bia", "en": "Exactly! Houses are about three times as expensive as they were, compared with salaries. That's why people say we're lazy — but we're just as hard-working as you were.", "pt": "Exatamente! As casas estão umas três vezes mais caras do que eram, em relação aos salários. Por isso dizem que somos preguiçosos — mas somos tão trabalhadores quanto vocês eram."},
+          {"speaker": "Grandpa", "en": "I never said you were lazy! I just think you change jobs far too often.", "pt": "Eu nunca disse que vocês eram preguiçosos! Só acho que vocês trocam de emprego vezes demais."},
+          {"speaker": "Bia", "en": "Well, job security is nowhere near as common as it was. If a company won't commit to us, why should we commit to it?", "pt": "Bom, estabilidade no emprego não é nem de longe tão comum quanto era. Se a empresa não se compromete com a gente, por que a gente deveria se comprometer com ela?"},
+          {"speaker": "Grandpa", "en": "Hmm. You know, the more I talk to you, the more I realize it isn't that simple.", "pt": "Hmm. Sabe, quanto mais converso com você, mais percebo que não é tão simples."},
+          {"speaker": "Bia", "en": "And the more I listen to your stories, the more I appreciate what you went through. Deal?", "pt": "E quanto mais ouço suas histórias, mais valorizo o que o senhor passou. Combinado?"}
+        ]
+      },
+      "listening": {
+        "title": "Generations at work",
+        "context_pt": "Uma consultora de RH fala sobre equipes com várias gerações.",
+        "lines": [
+          {"speaker": "Consultant", "en": "Today, many workplaces have four or even five generations working side by side. Managers often ask me whether younger employees are really that different. My answer: slightly, but nowhere near as much as the headlines suggest. Surveys show that, on average, younger workers tend to value flexibility and feedback a bit more, while older workers tend to value stability. But when you look at what people want most — fair pay, respect and meaningful work — the generations are remarkably similar. The bigger problem is stereotypes. The more we assume that a 60-year-old can't learn new technology, or that a 25-year-old won't stay in a job, the worse our teams work. The best approach is mentoring in both directions: older employees share experience, younger ones share new tools. The more they learn from each other, the better."}
+        ],
+        "questions": [
+          {"q": "How different are the generations, according to the consultant?", "answer": "Slightly, but nowhere near as much as headlines suggest."},
+          {"q": "What do younger workers tend to value a bit more?", "answer": "Flexibility and feedback."},
+          {"q": "What do all generations want most?", "answer": "Fair pay, respect and meaningful work."},
+          {"q": "What approach does she recommend?", "answer": "Mentoring in both directions."}
+        ]
+      },
+      "video": {
+        "title": "The danger of a single story",
+        "speaker": "Chimamanda Ngozi Adichie",
+        "url": "https://www.ted.com/search?q=the+danger+of+a+single+story",
+        "task_pt": "Assista à palestra (cerca de 18 minutos). Ela fala sobre estereótipos culturais, mas a ideia se aplica também às gerações. Responda:",
+        "questions": ["What does the speaker mean by \"a single story\"?", "Give one example from her life of a single story she believed or that others believed about her.", "What \"single story\" do people tell about your generation?", "How can we avoid single stories when we compare generations?"]
+      },
+      "reading": {
+        "title": "Are young people really so different?",
+        "text": "Every generation seems to believe that the next one is lazier, more selfish and more addicted to whatever technology is new. Similar complaints about young people can be found in texts from centuries ago. Today, the target is often Generation Z, described in headlines as anxious, glued to their phones and unwilling to work hard. But how much of this is true? The data paint a more complex picture. On the one hand, young people today do spend considerably more time online than previous generations did at the same age, and surveys in several countries suggest that reported levels of anxiety among teenagers have risen. On the other hand, many members of Gen Z drink far less alcohol and smoke much less than their parents did as teenagers, and they're often just as interested in meaningful work. Economic conditions matter too. In many countries, housing has become far more expensive relative to income, making it nowhere near as easy for young people to reach traditional milestones like buying a home. Researchers increasingly argue that differences between generations are often less about character and more about circumstances. Put simply: the more you change the world young people grow up in, the more their choices will change too.",
+        "questions": [
+          {"q": "What do many generations believe about the next one?", "answer": "That it's lazier, more selfish and more addicted to new technology."},
+          {"q": "In what ways might Gen Z be different?", "answer": "They spend more time online and report more anxiety."},
+          {"q": "In what ways might they be \"better\" than their parents at the same age?", "answer": "They drink less alcohol and smoke less."},
+          {"q": "What do researchers increasingly argue?", "answer": "Differences are less about character and more about circumstances."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Modifying comparatives", "instruction": "Choose the best option.", "instruction_pt": "Escolha a melhor opção.",
+         "items": [{"prompt": "Rent in São Paulo is ___ higher than in my hometown.", "options": ["far", "very", "too"], "answer": "far"}, {"prompt": "The new phone is only ___ faster than the old one.", "options": ["slightly", "nowhere", "much"], "answer": "slightly"}, {"prompt": "This test is ___ as difficult as the last one — it's much easier.", "options": ["just", "nowhere near", "twice"], "answer": "nowhere near"}, {"prompt": "Houses cost three times ___ much as they did in 1990.", "options": ["as", "so", "more"], "answer": "as"}, {"prompt": "It's ___ the best restaurant in town.", "options": ["by far", "far", "much"], "answer": "by far"}]},
+        {"id": "ex2", "type": "answer", "title": "The more..., the more...", "instruction": "Combine the ideas using The + comparative..., the + comparative.", "instruction_pt": "Combine as ideias com The + comparativo..., the + comparativo.",
+         "items": [{"prompt": "You practice more. You become more fluent.", "answer": "The more you practice, the more fluent you become."}, {"prompt": "I get older. I worry less.", "answer": "The older I get, the less I worry."}, {"prompt": "We leave early. It's better.", "answer": "The earlier we leave, the better."}, {"prompt": "The city grows. The traffic gets worse.", "answer": "The bigger the city grows, the worse the traffic gets."}]},
+        {"id": "ex3", "type": "fill_blank", "title": "Progressive change", "instruction": "Complete with a double comparative (more and more / -er and -er).", "instruction_pt": "Complete com um comparativo duplo.",
+         "items": [{"prompt": "Prices are getting ___ (high).", "answer": "higher and higher"}, {"prompt": "AI is becoming ___ (powerful).", "answer": "more and more powerful"}, {"prompt": "The days are getting ___ (short) in winter.", "answer": "shorter and shorter"}, {"prompt": "It's ___ (difficult) to find affordable housing.", "answer": "getting more and more difficult"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "Houses are far more expensive than they were."}, {"prompt": "2", "answer": "It's nowhere near as easy as it looks."}, {"prompt": "3", "answer": "The older I get, the more I understand my parents."}, {"prompt": "4", "answer": "We're just as hard-working as they were."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "Life is each time more expensive.", "answer": "Life is getting more and more expensive."}, {"prompt": "More you sleep, better you feel.", "answer": "The more you sleep, the better you feel."}, {"prompt": "It's very cheaper online.", "answer": "It's much/far cheaper online."}, {"prompt": "It costs two times more as before.", "answer": "It costs twice as much as before."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Avoiding stereotypes", "instruction": "Rewrite the stereotype in a more careful way. Complete with: tend · average · compared · many · slightly.", "instruction_pt": "Reescreva o estereótipo de forma mais cuidadosa.",
+         "items": [{"prompt": "\"Young people are lazy.\" → ___ young people work very hard, often in more than one job.", "answer": "Many"}, {"prompt": "\"Old people hate technology.\" → Older people ___ to adopt new technology a bit later.", "answer": "tend"}, {"prompt": "\"Gen Z changes jobs all the time.\" → On ___, Gen Z changes jobs ___ more often than older generations did at the same age.", "answer": "average / slightly"}, {"prompt": "___ with their parents, Millennials are less likely to own a home.", "answer": "Compared"}]}
+      ],
+      "speaking": {
+        "instruction": "Debate in pairs: \"Life was better for my parents' generation.\" One person argues for, the other against. Use at least 6 advanced comparative structures and avoid stereotypes.",
+        "instruction_pt": "Debate em duplas: \"A vida era melhor para a geração dos meus pais.\" Um defende, o outro contesta. Use pelo menos 6 estruturas comparativas avançadas e evite estereótipos.",
+        "questions": ["In what ways is your life far easier than your grandparents' lives were?", "What's nowhere near as good now as it used to be?", "Do you think the generation gap is getting bigger and bigger?", "What does your generation take for granted?", "How can families bridge the generation gap?"]
+      },
+      "writing": {
+        "task": "Write a comparison essay (200–250 words): \"Young people today have a better life than their grandparents did.\" Discuss both sides and give your opinion. Use advanced comparatives and careful generalizations.",
+        "task_pt": "Escreva uma redação comparativa (200–250 palavras): \"Os jovens de hoje têm uma vida melhor do que seus avós tiveram.\" Discuta os dois lados e dê sua opinião. Use comparativos avançados e generalizações cuidadosas.",
+        "model": "It is often said that young people today have a far better life than their grandparents did. While there is some truth in this, the picture is much more complex.\n\nOn the one hand, in many ways life has become considerably easier. Most young people today have access to far more information, healthcare and opportunities than their grandparents could have imagined. In Brazil, for example, the average life expectancy is significantly higher than it was in the 1960s, and many more people go to university. Technology also allows us to stay in touch with friends and family who live thousands of kilometers away.\n\nOn the other hand, some aspects of life have become harder and harder. Housing is nowhere near as affordable as it was, and stable, lifelong jobs are much less common. Many young people also report higher levels of anxiety, partly because of the constant pressure of social media.\n\nIn my opinion, it is misleading to say that one generation has it better than another. Each generation faces different challenges. My grandparents had fewer choices, but they had more stability; we have more freedom, but less security. Rather than competing over who suffered more, I believe that the more generations listen to each other, the better we will understand the world we share."
+      },
+      "culture_note": {
+        "title": "\"OK, boomer\"",
+        "text_pt": "Em 2019, a expressão **\"OK, boomer\"** viralizou como resposta irônica de jovens a pessoas mais velhas que criticam sua geração. Em contrapartida, termos como **\"snowflake\"** (floco de neve, frágil) foram usados para criticar jovens. Ambos são considerados desrespeitosos em contextos formais — use com cuidado (ou não use)."
+      },
+      "summary_pt": ["far / much / considerably (muito) · slightly / a bit (pouco) + comparativo.", "just as / nowhere near as / twice as... as.", "more and more / -er and -er = cada vez mais.", "The more..., the more... = quanto mais..., mais..."]
+    },
+    {
+      "id": "B2-M1-L4",
+      "title": "Handle with care",
+      "subtitle_pt": "Hedging: suavizar opiniões e discutir temas sensíveis com diplomacia",
+      "duration_min": 70,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – B2 (hedging, softening, discourse markers)", "TopNotch 3B Teacher's Book – Unit 9 (controversial issues, expressing and supporting opinions)"],
+      "objectives": ["Suavizar afirmações com hedging (seem, appear, tend, might, it could be argued)", "Discordar com diplomacia", "Falar de temas sensíveis (política, religião, dinheiro) com respeito", "Usar linguagem impessoal em contextos formais"],
+      "warmup": {
+        "text_pt": "Você está num jantar com colegas de vários países e alguém puxa um assunto polêmico. Como dar sua opinião sem ofender ninguém? Em inglês, o segredo se chama **hedging**: deixar a linguagem menos absoluta.",
+        "questions": ["Which topics do you avoid discussing with colleagues?", "How do you disagree with someone without starting a fight?"]
+      },
+      "vocabulary": [
+        {"en": "to hedge / hedging", "pt": "suavizar, relativizar", "say": "tu rédj"},
+        {"en": "controversial / divisive", "pt": "polêmico / que divide opiniões", "say": "kontrovârshal / diváisiv"},
+        {"en": "sensitive (topic)", "pt": "(assunto) delicado", "say": "sénsitiv"},
+        {"en": "tactful / tactless", "pt": "diplomático / sem tato", "say": "téktful / téktles"},
+        {"en": "to offend / offensive", "pt": "ofender / ofensivo", "say": "tu oféndi / oféndiv"},
+        {"en": "to tread carefully", "pt": "pisar em ovos, ir com cuidado", "say": "tu tréd kérfuli"},
+        {"en": "a point of view / a stance", "pt": "um ponto de vista / uma posição", "say": "a póint ov viú / a sténs"},
+        {"en": "to some extent", "pt": "até certo ponto", "say": "tu sâm ikstént"},
+        {"en": "arguably", "pt": "possivelmente, pode-se dizer que", "say": "árgiuabli"},
+        {"en": "presumably", "pt": "presumivelmente", "say": "prizúmabli"},
+        {"en": "to agree to disagree", "pt": "concordar em discordar", "say": "tu agrí tu disagrí"},
+        {"en": "common ground", "pt": "ponto em comum", "say": "kómon gráund"}
+      ],
+      "chunks": [
+        {"en": "It seems to me that...", "pt": "Me parece que..."},
+        {"en": "I'm not entirely convinced that...", "pt": "Não estou totalmente convencido de que..."},
+        {"en": "It could be argued that...", "pt": "Pode-se argumentar que..."},
+        {"en": "To some extent, I agree, but...", "pt": "Até certo ponto, concordo, mas..."},
+        {"en": "I see where you're coming from.", "pt": "Entendo de onde você está vindo / seu raciocínio."},
+        {"en": "Let's agree to disagree.", "pt": "Vamos concordar em discordar."}
+      ],
+      "grammar": {
+        "title": "Hedging and softening",
+        "explanation_pt": "**Hedging** é suavizar uma afirmação para soar menos absoluto, mais educado ou mais preciso. É essencial em reuniões, textos acadêmicos e conversas delicadas.\n\n**1. Verbos que suavizam:** **seem / appear / tend / suggest / indicate**\n- \"The plan **seems to** have some problems.\" (em vez de \"The plan has problems\")\n- \"The data **suggest** that...\" / \"It **appears that** prices will rise.\"\n\n**2. Modais de possibilidade:** **might / may / could / would**\n- \"That **might** not be the best approach.\" / \"I **would** say that...\" / \"I **would have thought**...\"\n\n**3. Advérbios e expressões de grau:** **perhaps, possibly, arguably, presumably, to some extent, in some ways, relatively, fairly, rather, a little, somewhat**\n- \"It's **arguably** the most important issue.\" / \"I **somewhat** disagree.\"\n\n**4. Estruturas impessoais:** **It could be argued that... / It is often said that... / There is some evidence that...**\n\n**5. Discordância suave** (nunca \"You're wrong\"):\n- \"**I'm not sure I agree.**\" / \"**I see what you mean, but**...\" / \"**I'm not entirely convinced.**\"\n- \"**Couldn't it also be argued that**...?\" (pergunta negativa = sugestão educada)\n- \"**With respect**, I see it a bit differently.\"\n\n**6. Quantificadores cuidadosos:** many (not all), some, most, a significant number of — em vez de **all / everyone / never / always**.\n\n⚠️ Não exagere: hedging demais soa inseguro. Use mais em **opiniões e temas sensíveis**, menos em **fatos claros**.",
+        "table": {
+          "headers": ["Direto (pode soar agressivo)", "Com hedging"],
+          "rows": [["Your idea is wrong.", "I'm not entirely sure that idea would work."], ["This is the best solution.", "This is arguably the best solution."], ["Politicians are corrupt.", "There seems to be a serious problem with corruption in some areas."], ["You don't understand.", "I think we might be seeing this from different angles."], ["Prices will rise.", "Prices are likely to rise. / It appears that prices may rise."]]
+        },
+        "examples": [
+          {"en": "It could be argued that social media has done more harm than good, although the evidence is somewhat mixed.", "pt": "Pode-se argumentar que as redes sociais fizeram mais mal do que bem, embora as evidências sejam um tanto divergentes."},
+          {"en": "I see where you're coming from, but I'm not entirely convinced that banning phones in schools is the answer.", "pt": "Entendo seu raciocínio, mas não estou totalmente convencido de que proibir celulares nas escolas seja a resposta."},
+          {"en": "There appears to be some confusion about the budget. Perhaps we could go through the numbers again?", "pt": "Parece haver alguma confusão sobre o orçamento. Talvez pudéssemos revisar os números de novo?"}
+        ],
+        "tip_pt": "Brasileiros costumam ser calorosos e diretos em opiniões entre amigos. Em ambientes internacionais, especialmente com britânicos e asiáticos, um pouco mais de hedging evita mal-entendidos — mas com americanos e holandeses, clareza também é valorizada. Ajuste ao público!"
+      },
+      "common_mistakes": [
+        {"wrong": "You are wrong about this.", "right": "I'm not sure I agree. / I see it a bit differently.", "why_pt": "Afirmação direta pode soar agressiva em contexto profissional."},
+        {"wrong": "All young people are addicted to phones.", "right": "Many young people seem to spend a lot of time on their phones.", "why_pt": "Generalização absoluta: use quantificadores e verbos de suavização."},
+        {"wrong": "It seems that is a problem.", "right": "It seems that there is a problem. / It seems to be a problem.", "why_pt": "Mantenha a frase completa (there is) ou use seem to be."}
+      ],
+      "pronunciation": {
+        "focus": "Entonação de suavização",
+        "tip_pt": "Hedging também é **tom de voz**: fale um pouco mais devagar, com entonação **ascendente** em \"I'm not sure ↗...\" e pausas curtas antes do \"but\". Um \"Well...\" ou \"Hmm...\" no começo já suaviza a discordância.",
+        "practice": ["Well... I'm not entirely convinced ↗.", "I see where you're coming from ↗, but...", "It could be argued that..."]
+      },
+      "dialogue": {
+        "title": "A tricky dinner conversation",
+        "context_pt": "Num jantar de equipe internacional, surge uma discussão sobre trabalho remoto e produtividade.",
+        "lines": [
+          {"speaker": "Mark", "en": "Honestly, I think remote work has killed productivity. People just don't work at home.", "pt": "Sinceramente, acho que o trabalho remoto matou a produtividade. As pessoas simplesmente não trabalham em casa."},
+          {"speaker": "Luana", "en": "Hmm, I see where you're coming from, but I'm not entirely convinced. The studies I've read seem to show mixed results.", "pt": "Hmm, entendo seu raciocínio, mas não estou totalmente convencida. Os estudos que li parecem mostrar resultados divergentes."},
+          {"speaker": "Mark", "en": "Mixed how?", "pt": "Divergentes como?"},
+          {"speaker": "Luana", "en": "Well, some suggest that people are more productive at home for focused tasks, while collaboration might suffer to some extent. So it arguably depends on the type of work.", "pt": "Bom, alguns sugerem que as pessoas são mais produtivas em casa em tarefas que exigem foco, enquanto a colaboração pode ser prejudicada até certo ponto. Então, pode-se dizer que depende do tipo de trabalho."},
+          {"speaker": "Kai", "en": "That's fair. In our team, the creative brainstorming does tend to work better in person.", "pt": "É justo. Na nossa equipe, o brainstorming criativo tende a funcionar melhor presencialmente."},
+          {"speaker": "Mark", "en": "OK, maybe \"killed\" was a bit strong. But couldn't it be argued that new employees learn less when everyone's at home?", "pt": "OK, talvez \"matou\" tenha sido forte demais. Mas não se poderia argumentar que funcionários novos aprendem menos quando todo mundo está em casa?"},
+          {"speaker": "Luana", "en": "That's a really good point — I'd agree with that. Perhaps hybrid is the common ground here?", "pt": "Excelente ponto — eu concordaria com isso. Talvez o híbrido seja o ponto em comum aqui?"},
+          {"speaker": "Mark", "en": "Perhaps. Or let's just agree to disagree and order dessert!", "pt": "Talvez. Ou vamos concordar em discordar e pedir a sobremesa!"}
+        ]
+      },
+      "listening": {
+        "title": "Academic hedging",
+        "context_pt": "Uma professora universitária explica por que a linguagem acadêmica é cheia de \"talvez\".",
+        "lines": [
+          {"speaker": "Professor", "en": "Students often ask me why academic writing is so full of words like \"may\", \"suggest\" and \"appear\". Isn't it better to be confident? The answer is that good researchers try not to claim more than their evidence shows. If one study finds that coffee drinkers live longer, a careful scientist won't write \"Coffee makes you live longer.\" They'll write something like \"The results suggest that moderate coffee consumption may be associated with a lower risk of mortality.\" It's less exciting, but it's more honest. The study can't prove that coffee is the cause — perhaps coffee drinkers also tend to have other healthy habits. Hedging isn't weakness. It's precision. And in a world full of exaggerated headlines, I'd argue we need much more of it."}
+        ],
+        "questions": [
+          {"q": "Why is academic writing full of words like \"may\" and \"suggest\"?", "answer": "Researchers try not to claim more than their evidence shows."},
+          {"q": "How would a careful scientist describe the coffee result?", "answer": "The results suggest that moderate coffee consumption may be associated with a lower risk of mortality."},
+          {"q": "Why can't the study prove that coffee is the cause?", "answer": "Coffee drinkers might also have other healthy habits."},
+          {"q": "What does the professor say hedging is?", "answer": "Not weakness, but precision."}
+        ]
+      },
+      "reading": {
+        "title": "How to disagree well",
+        "text": "In 2008, computer scientist and essayist Paul Graham proposed a \"hierarchy of disagreement\" — a pyramid showing different ways people argue, from the least to the most useful. At the bottom is name-calling: attacking the person rather than the idea (\"You're an idiot\"). Slightly higher is responding to tone (\"Why are you being so aggressive?\"), which avoids the actual argument. In the middle is contradiction: simply stating the opposite view without evidence. Near the top is counterargument — giving reasons and evidence for a different position — and at the very top is refutation: identifying exactly where the other person's argument goes wrong and explaining why. Graham's model has been widely shared online, perhaps because many public debates seem to be stuck at the bottom of the pyramid. Social media, which rewards quick and emotional reactions, arguably makes things worse. Psychologists who study conflict suggest a few habits that may help: listen to understand rather than to reply, summarize the other person's view before responding (\"So you're saying...\"), and look for common ground. Disagreeing well doesn't mean avoiding conflict. It means making conflict productive.",
+        "questions": [
+          {"q": "What is at the bottom of the hierarchy of disagreement?", "answer": "Name-calling (attacking the person, not the idea)."},
+          {"q": "What is the difference between contradiction and counterargument?", "answer": "Contradiction states the opposite without evidence; counterargument gives reasons and evidence."},
+          {"q": "Why might social media make things worse?", "answer": "It rewards quick and emotional reactions."},
+          {"q": "Name two habits that may help.", "answer": "Listen to understand, summarize the other person's view, look for common ground."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "answer", "title": "Soften the statement", "instruction": "Rewrite each statement using hedging language to make it more diplomatic.", "instruction_pt": "Reescreva cada frase usando hedging para torná-la mais diplomática.",
+         "items": [{"prompt": "Your plan won't work.", "answer": "I'm not sure the plan would work as it is. / The plan might need some changes."}, {"prompt": "This is the worst policy ever.", "answer": "This policy seems to have some serious problems."}, {"prompt": "Everyone hates the new system.", "answer": "Many people appear to be unhappy with the new system."}, {"prompt": "You're wrong.", "answer": "I see it a bit differently. / I'm not entirely convinced."}]},
+        {"id": "ex2", "type": "multiple_choice", "title": "Choose the hedge", "instruction": "Choose the most appropriate option for a professional context.", "instruction_pt": "Escolha a opção mais adequada para um contexto profissional.",
+         "items": [{"prompt": "(discordar do chefe numa reunião)", "options": ["That's a bad idea.", "I wonder if there might be another way to look at this."], "answer": "I wonder if there might be another way to look at this."}, {"prompt": "(relatório com dados limitados)", "options": ["The data prove that customers prefer us.", "The data suggest that customers may prefer us."], "answer": "The data suggest that customers may prefer us."}, {"prompt": "(responder a uma opinião forte num jantar)", "options": ["I see where you're coming from, but...", "That's ridiculous."], "answer": "I see where you're coming from, but..."}]},
+        {"id": "ex3", "type": "match", "title": "Hedging vocabulary", "instruction": "Write the English expression.", "instruction_pt": "Escreva a expressão em inglês.",
+         "items": [{"prompt": "até certo ponto", "answer": "to some extent"}, {"prompt": "pode-se argumentar que", "answer": "it could be argued that"}, {"prompt": "pisar em ovos", "answer": "tread carefully"}, {"prompt": "ponto em comum", "answer": "common ground"}, {"prompt": "possivelmente, pode-se dizer", "answer": "arguably"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "It seems to me that we need more time."}, {"prompt": "2", "answer": "I'm not entirely convinced that it's true."}, {"prompt": "3", "answer": "To some extent, I agree, but there's another side."}, {"prompt": "4", "answer": "I see where you're coming from."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "It seems that is a mistake in the report.", "answer": "It seems that there is a mistake in the report. / There seems to be a mistake..."}, {"prompt": "The results suggest that coffee may to reduce stress.", "answer": "The results suggest that coffee may reduce stress."}, {"prompt": "In some extent, I agree.", "answer": "To some extent, I agree."}, {"prompt": "I'm not entirely convincing.", "answer": "I'm not entirely convinced."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Diplomatic disagreement", "instruction": "Complete with: coming · entirely · arguably · appears · common.", "instruction_pt": "Complete a discordância diplomática.",
+         "items": [{"prompt": "I see where you're ___ from, Pedro.", "answer": "coming"}, {"prompt": "But I'm not ___ convinced that cutting the budget is the best option.", "answer": "entirely"}, {"prompt": "It ___ that training is what improves results most.", "answer": "appears"}, {"prompt": "It's ___ our most important investment. Perhaps we can find some ___ ground?", "answer": "arguably / common"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Diplomatic debate\": discuss two sensitive topics (e.g., \"Should social media be banned for under-16s?\", \"Should the working week be four days?\"). Rule: you must use at least 3 hedging expressions per turn and summarize the other person's view before responding.",
+        "instruction_pt": "\"Debate diplomático\": discutam dois temas sensíveis (ex.: \"As redes sociais deveriam ser proibidas para menores de 16?\", \"A semana de trabalho deveria ter quatro dias?\"). Regra: use pelo menos 3 expressões de hedging por turno e resuma a opinião do outro antes de responder.",
+        "questions": ["Which topics do you think are too sensitive to discuss at work?", "Are Brazilians generally more direct or indirect than other cultures you know?", "Where are you on Graham's pyramid of disagreement when you argue online?", "How do you react when someone disagrees with you strongly?", "When is it better to agree to disagree?"]
+      },
+      "writing": {
+        "task": "Write a reply (180–220 words) to a colleague's email proposing a change you partly disagree with (e.g., moving the team back to the office five days a week). Acknowledge their points, disagree diplomatically and suggest common ground.",
+        "task_pt": "Escreva uma resposta (180–220 palavras) ao e-mail de um colega propondo uma mudança com a qual você discorda em parte (ex.: voltar ao escritório cinco dias por semana). Reconheça os pontos dele, discorde com diplomacia e sugira um meio-termo.",
+        "model": "Hi Mark,\n\nThank you for sharing your proposal about returning to the office five days a week. I can see you've put a lot of thought into it, and I agree with several of your points. It's true that new team members seem to learn faster when they can sit with more experienced colleagues, and some of our brainstorming sessions have arguably been less creative online.\n\nThat said, I'm not entirely convinced that a full return is the best solution for everyone. Our productivity data from the last year appear to show that focused tasks, such as writing reports and analyzing data, have actually improved since we became hybrid. In addition, several team members have long commutes, and a sudden change might affect morale and, potentially, retention.\n\nPerhaps there's some common ground here. Would it be worth trying a model with three fixed office days for collaboration and training, and two flexible days for focused work? We could review the results after three months and adjust if necessary.\n\nI'd be happy to discuss this further in our next meeting. I really appreciate you opening the conversation.\n\nBest regards,\nLuana"
+      },
+      "culture_note": {
+        "title": "Assuntos que muitos evitam no trabalho",
+        "text_pt": "Em muitos ambientes profissionais anglófonos, há um consenso informal de evitar **politics, religion and money** (política, religião e dinheiro) com pessoas que você não conhece bem — especialmente salários. Mas isso está mudando: em alguns países, a transparência salarial (**pay transparency**) virou até lei."
+      },
+      "summary_pt": ["Verbos que suavizam: seem, appear, tend, suggest.", "Modais e advérbios: might, could, perhaps, arguably, to some extent.", "Impessoal: It could be argued that... / There seems to be...", "Discordar: I see where you're coming from, but... / I'm not entirely convinced."]
+    }
+  ],
+  "review": {
+    "intro_pt": "Revise estruturas de hábito, phrasal verbs de relacionamento, comparações avançadas e hedging.",
+    "exercises": [
+      {"id": "r1", "type": "multiple_choice", "title": "Choose the correct option", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+       "items": [{"prompt": "When we were kids, we ___ spend every summer at the beach.", "options": ["would", "used to be", "tend to"], "answer": "would"}, {"prompt": "He's ___ complaining about his job!", "options": ["always", "tends", "would"], "answer": "always"}, {"prompt": "Don't let ___.", "options": ["down me", "me down"], "answer": "me down"}, {"prompt": "It's ___ as easy as it looks.", "options": ["nowhere near", "far", "much"], "answer": "nowhere near"}, {"prompt": "The ___ you practice, the better you get.", "options": ["more", "most", "much"], "answer": "more"}]},
+      {"id": "r2", "type": "fill_blank", "title": "Mixed practice", "instruction": "Complete with one word.", "instruction_pt": "Complete com uma palavra.",
+       "items": [{"prompt": "She comes ___ as shy, but she's very confident.", "answer": "across"}, {"prompt": "I really look up ___ my grandmother.", "answer": "to"}, {"prompt": "Houses are getting more ___ more expensive.", "answer": "and"}, {"prompt": "It could ___ argued that the policy has failed.", "answer": "be"}]},
+      {"id": "r3", "type": "translate", "title": "Translate", "instruction": "Translate into English.", "instruction_pt": "Traduza para o inglês.",
+       "items": [{"prompt": "Nos afastamos depois da faculdade.", "answer": "We drifted apart after college/university."}, {"prompt": "Quanto mais velho fico, menos me preocupo.", "answer": "The older I get, the less I worry."}, {"prompt": "Entendo seu raciocínio, mas não estou totalmente convencido.", "answer": "I see where you're coming from, but I'm not entirely convinced."}]},
+      {"id": "r4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+       "items": [{"prompt": "1", "answer": "He keeps interrupting me."}, {"prompt": "2", "answer": "I don't know how you put up with him."}, {"prompt": "3", "answer": "It could be argued that the data are incomplete."}]},
+      {"id": "r5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+       "items": [{"prompt": "Life is each time more expensive.", "answer": "Life is getting more and more expensive."}, {"prompt": "I can't put up this situation.", "answer": "I can't put up with this situation."}, {"prompt": "When I was a child, I would have a dog.", "answer": "When I was a child, I had / used to have a dog."}]}
+    ],
+    "speaking_pt": "Grave um vídeo de 3 minutos sobre \"As pessoas que me formaram\": descreva duas pessoas importantes (personalidade e hábitos), como é sua relação com elas (phrasal verbs), compare sua geração com a delas e dê uma opinião sobre um tema delicado usando hedging.",
+    "speaking_questions": ["How would your best friend describe you?", "Who have you drifted apart from, and why?", "How is your life different from your parents' lives at your age?", "What stereotype about your generation do you disagree with?", "How do you disagree with someone you respect?"],
+    "project_pt": "**\"Across generations\" podcast:** entreviste (em inglês ou traduzindo) alguém de outra geração sobre como era a vida, os relacionamentos e o trabalho na juventude dela. Edite um episódio de 5 minutos comparando as duas experiências com comparações avançadas, evitando estereótipos e fechando com o que vocês têm em comum."
+  }
+}

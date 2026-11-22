@@ -1,0 +1,544 @@
+{
+  "id": "B1P-M5",
+  "level": "B1+",
+  "title": "Being Effective and Green",
+  "theme_pt": "Instruções, produtividade, meio ambiente e linguagem de esclarecimento",
+  "can_do": ["Dar instruções e dicas claras usando condicionais e imperativos", "Falar de regras, obrigações e recomendações no trabalho com nuance", "Usar a voz passiva em vários tempos para falar de processos e problemas ambientais", "Explicar processos passo a passo", "Pedir e dar esclarecimentos durante uma conversa ou apresentação"],
+  "lessons": [
+    {
+      "id": "B1P-M5-L1",
+      "title": "How to tie your shoes",
+      "subtitle_pt": "Zero/first conditional + imperativos para instruções e dicas",
+      "duration_min": 65,
+      "source_refs": ["Keynote Intermediate – Unit 9.1 (How to tie your shoes)", "Keynote Intermediate Videos – TED Talks playlist"],
+      "objectives": ["Dar instruções passo a passo com imperativos e sequenciadores", "Usar zero e first conditional para dicas e consequências", "Usar when, if, unless e as soon as em instruções", "Explicar como fazer algo que você domina"],
+      "warmup": {
+        "text_pt": "Você amarra o cadarço do mesmo jeito desde criança? E se estiver fazendo errado há anos? Às vezes, pequenas mudanças em coisas simples fazem uma grande diferença.",
+        "questions": ["What's something you've been doing the wrong way for years?", "What's a skill you could teach someone in two minutes?"]
+      },
+      "vocabulary": [
+        {"en": "step / step by step", "pt": "passo / passo a passo", "say": "stép bái stép"},
+        {"en": "to tie / to untie", "pt": "amarrar / desamarrar", "say": "tu tái / tu antái"},
+        {"en": "a knot / a bow", "pt": "um nó / um laço", "say": "a nót / a bôu"},
+        {"en": "shoelaces", "pt": "cadarços", "say": "shúleisiz"},
+        {"en": "to loosen / to tighten", "pt": "afrouxar / apertar", "say": "tu lúsen / tu táiten"},
+        {"en": "to twist / to fold / to pull", "pt": "torcer / dobrar / puxar", "say": "tu tuíst / tu fôuld / tu pul"},
+        {"en": "a hack / a life hack", "pt": "um truque / um truque do dia a dia", "say": "a rék / a láif rék"},
+        {"en": "a shortcut", "pt": "um atalho", "say": "a shórtkât"},
+        {"en": "efficient / effective", "pt": "eficiente / eficaz", "say": "ifíshent / iféktiv"},
+        {"en": "to make sure", "pt": "certificar-se", "say": "tu mêik shúr"},
+        {"en": "to avoid", "pt": "evitar", "say": "tu avóid"},
+        {"en": "a tutorial", "pt": "um tutorial", "say": "a tiutórial"}
+      ],
+      "chunks": [
+        {"en": "First of all, ...", "pt": "Antes de tudo, ..."},
+        {"en": "Make sure you...", "pt": "Certifique-se de..."},
+        {"en": "If it doesn't work, try again.", "pt": "Se não funcionar, tente de novo."},
+        {"en": "Once you've done that, ...", "pt": "Depois de fazer isso, ..."},
+        {"en": "Be careful not to...", "pt": "Cuidado para não..."},
+        {"en": "And that's it!", "pt": "E pronto!"}
+      ],
+      "grammar": {
+        "title": "Instruções: imperativos + condicionais + time clauses",
+        "explanation_pt": "Instruções claras em inglês combinam três estruturas:\n\n**1. Imperativos** (verbo base, sem sujeito):\n- \"**Hold** the lace in your right hand.\" / \"**Don't pull** too hard.\" / \"**Be careful not to** cut yourself.\"\n- Com **sequenciadores**: First, ... / Then, ... / Next, ... / After that, ... / Finally, ...\n\n**2. Zero conditional** → resultados sempre verdadeiros (como funciona):\n- \"If you **pull** both ends, the knot **gets** tighter.\"\n- \"When the water **boils**, the light **turns** off.\"\n\n**3. First conditional** → consequências e avisos:\n- \"If you **tie** it this way, it **won't** come undone.\"\n- \"If you **don't** save the file, you**'ll lose** everything.\"\n\n**Imperativo + if** (dicas): \"**If** the app freezes, **restart** your phone.\" / \"**If** in doubt, **ask**.\"\n\n**Time clauses** (presente simples, mesmo falando do futuro):\n- \"**Once** you**'ve tied** the first knot, **make** a loop.\" (once + present perfect = depois que você tiver feito)\n- \"**As soon as** the light **turns** green, **press** start.\"\n- \"**Unless** the instructions **say** otherwise, **use** cold water.\"",
+        "table": {
+          "headers": ["Função", "Estrutura", "Exemplo"],
+          "rows": [["Instrução", "imperativo", "Fold the paper in half."], ["Proibição/aviso", "Don't + verbo / Be careful not to", "Don't touch the screen."], ["Como funciona", "If + present, present", "If you press here, it opens."], ["Consequência", "If + present, will", "If you skip this step, it won't work."], ["Sequência", "Once / As soon as + present (perfect)", "Once you've finished, click Save."]]
+        },
+        "examples": [
+          {"en": "First, cross the laces. Then, make a loop with the right lace. Be careful not to pull too hard.", "pt": "Primeiro, cruze os cadarços. Depois, faça um laço com o cadarço direito. Cuidado para não puxar demais."},
+          {"en": "If you tie it the other way around, the knot will stay in place all day.", "pt": "Se você amarrar ao contrário, o nó vai ficar firme o dia todo."},
+          {"en": "Once you've uploaded the file, you'll receive a confirmation email.", "pt": "Depois que você enviar o arquivo, vai receber um e-mail de confirmação."}
+        ],
+        "tip_pt": "Em instruções escritas (manuais, receitas, tutoriais), o inglês é **direto e curto**. Não use \"you should\" para cada passo — o imperativo é educado nesse contexto."
+      },
+      "common_mistakes": [
+        {"wrong": "You must to press the button.", "right": "Press the button.", "why_pt": "Em instruções, o imperativo é natural e claro."},
+        {"wrong": "If you will press it, it opens.", "right": "If you press it, it opens.", "why_pt": "Depois de if, presente simples."},
+        {"wrong": "Don't to touch the screen.", "right": "Don't touch the screen.", "why_pt": "Imperativo negativo: don't + verbo base."}
+      ],
+      "pronunciation": {
+        "focus": "Entonação em listas e instruções",
+        "tip_pt": "Em sequências de passos, a voz **sobe** no fim de cada passo (indicando que vem mais) e **desce** no último: \"First, cross the laces ↗. Then, make a loop ↗. Finally, pull ↘.\"",
+        "practice": ["First, cross the laces ↗.", "Then, make a loop ↗.", "Finally, pull both ends ↘. And that's it!"]
+      },
+      "dialogue": {
+        "title": "Tech support at home",
+        "context_pt": "Uma neta ensina a avó a fazer uma videochamada pela primeira vez.",
+        "lines": [
+          {"speaker": "Duda", "en": "OK, Grandma, it's easy. First, open the app — it's the green icon.", "pt": "OK, vó, é fácil. Primeiro, abra o app — é o ícone verde."},
+          {"speaker": "Grandma", "en": "This one? Done. Now what?", "pt": "Esse? Pronto. E agora?"},
+          {"speaker": "Duda", "en": "Now tap on my name. Once you've found it, press the little camera at the top.", "pt": "Agora toque no meu nome. Depois de achar, aperte a camerazinha lá em cima."},
+          {"speaker": "Grandma", "en": "And if I press the wrong button?", "pt": "E se eu apertar o botão errado?"},
+          {"speaker": "Duda", "en": "Don't worry. If you press the wrong one, just press the back arrow. Nothing will break, I promise.", "pt": "Não se preocupe. Se apertar o errado, é só apertar a setinha de voltar. Nada vai quebrar, prometo."},
+          {"speaker": "Grandma", "en": "It's ringing! But I can't see you.", "pt": "Está chamando! Mas não estou te vendo."},
+          {"speaker": "Duda", "en": "Wait until I answer. As soon as I pick up, you'll see my face. And be careful not to put your finger over the camera!", "pt": "Espere até eu atender. Assim que eu atender, você vai ver meu rosto. E cuidado para não colocar o dedo em cima da câmera!"},
+          {"speaker": "Grandma", "en": "Oh, there you are! This is magic!", "pt": "Ah, aí está você! Isso é mágica!"}
+        ]
+      },
+      "listening": {
+        "title": "Life hacks video",
+        "context_pt": "Um influenciador apresenta três truques do dia a dia.",
+        "lines": [
+          {"speaker": "Host", "en": "Three life hacks that will save you time! Number one: if your phone is charging slowly, put it in airplane mode — it'll charge much faster. Number two: when you're packing a suitcase, roll your clothes instead of folding them. You'll save space, and they won't get as wrinkled. Number three: if a jar is hard to open, run the lid under hot water for thirty seconds. The metal expands, and the lid opens easily. Try them and let me know in the comments!"}
+        ],
+        "questions": [
+          {"q": "What should you do if your phone is charging slowly?", "answer": "Put it in airplane mode."},
+          {"q": "How should you pack clothes?", "answer": "Roll them instead of folding them."},
+          {"q": "What are the two advantages of rolling clothes?", "answer": "You save space and they don't get as wrinkled."},
+          {"q": "Why does hot water help open a jar?", "answer": "The metal expands."}
+        ]
+      },
+      "video": {
+        "title": "How to tie your shoes",
+        "speaker": "Terry Moore",
+        "url": "https://www.ted.com/search?q=how+to+tie+your+shoes",
+        "playlist": "https://www.youtube.com/watch?v=sAQfzHBpRsc&list=PLdIk6oC5e9pYKMTeYKp9dEOSeoNEEJ0BJ",
+        "task_pt": "Assista à palestra (cerca de 3 minutos) e tente seguir as instruções com seu próprio tênis! Depois responda:",
+        "questions": ["Explain the speaker's technique step by step, using imperatives.", "What's the bigger lesson behind this simple example?", "What other everyday things might we be doing the wrong way?", "Have you ever discovered a better way to do something simple?"]
+      },
+      "reading": {
+        "title": "Small changes, big results",
+        "text": "Most of us want to be more productive, but we often look for big solutions: a new job, a new app, a complete change of routine. Productivity experts suggest the opposite. If you make small, specific changes, they'll add up over time. Here are some research-backed ideas. If you check your email first thing in the morning, you'll spend the day reacting to other people's priorities — so start with your most important task instead. When you work on a difficult task, turn off notifications: some studies suggest that it can take a long time to fully refocus after an interruption. Use the \"two-minute rule\": if something takes less than two minutes, do it immediately. And unless you have a very good reason, don't multitask. Our brains don't really do two things at once; they switch quickly between them, and every switch costs energy. As the saying goes, \"If you chase two rabbits, you'll catch neither.\"",
+        "questions": [
+          {"q": "What do experts suggest instead of big solutions?", "answer": "Small, specific changes that add up over time."},
+          {"q": "What happens if you check email first thing in the morning?", "answer": "You'll spend the day reacting to other people's priorities."},
+          {"q": "What is the two-minute rule?", "answer": "If something takes less than two minutes, do it immediately."},
+          {"q": "Why shouldn't you multitask?", "answer": "The brain switches between tasks, and every switch costs energy."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "order_words", "title": "Put the instructions in order", "instruction": "Put the steps for making a cup of tea in order (write the letters).", "instruction_pt": "Coloque os passos para fazer chá na ordem (escreva as letras).",
+         "items": [{"prompt": "a) Pour the water over the tea bag. / b) Boil some water. / c) Remove the tea bag and add milk if you like. / d) Put a tea bag in a cup. / e) Wait three to five minutes.", "answer": "b, d, a, e, c"}]},
+        {"id": "ex2", "type": "fill_blank", "title": "Conditionals in instructions", "instruction": "Complete with the correct form of the verbs.", "instruction_pt": "Complete com a forma correta dos verbos.",
+         "items": [{"prompt": "If you ___ (heat) ice, it ___ (melt).", "answer": "heat / melts"}, {"prompt": "If you ___ (not / save) your work, you ___ (lose) it.", "answer": "don't save / 'll lose"}, {"prompt": "Once you ___ (finish) the form, ___ (click) Submit.", "answer": "'ve finished / click"}, {"prompt": "___ (not / open) the oven until the cake ___ (be) ready.", "answer": "Don't open / is"}]},
+        {"id": "ex3", "type": "match", "title": "Instruction language", "instruction": "Write the English expression.", "instruction_pt": "Escreva a expressão em inglês.",
+         "items": [{"prompt": "Certifique-se de...", "answer": "Make sure you..."}, {"prompt": "Cuidado para não...", "answer": "Be careful not to..."}, {"prompt": "E pronto!", "answer": "And that's it!"}, {"prompt": "Depois de fazer isso...", "answer": "Once you've done that..."}, {"prompt": "Antes de tudo...", "answer": "First of all..."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "Make sure you save the file."}, {"prompt": "2", "answer": "If it doesn't work, try again."}, {"prompt": "3", "answer": "Be careful not to pull too hard."}, {"prompt": "4", "answer": "Once you've done that, click Next."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "Don't to forget your password.", "answer": "Don't forget your password."}, {"prompt": "If you will press this, the door opens.", "answer": "If you press this, the door opens."}, {"prompt": "Be careful to not burn yourself.", "answer": "Be careful not to burn yourself."}, {"prompt": "As soon as you will arrive, call me.", "answer": "As soon as you arrive, call me."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the tutorial", "instruction": "Complete with: First · Then · Make sure · If · Finally.", "instruction_pt": "Complete o tutorial.",
+         "items": [{"prompt": "___, download the app from the store.", "answer": "First"}, {"prompt": "___, create an account with your email.", "answer": "Then"}, {"prompt": "___ you use a strong password.", "answer": "Make sure"}, {"prompt": "___ you forget it, click \"Reset\". ___, choose your language. And that's it!", "answer": "If / Finally"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Teach me in 2 minutes\": choose something you know how to do (a recipe, an app feature, a sport move, a life hack) and teach the class step by step, with tips using if/when.",
+        "instruction_pt": "\"Me ensine em 2 minutos\": escolha algo que você sabe fazer (uma receita, uma função de app, um movimento de esporte, um truque) e ensine à turma passo a passo, com dicas usando if/when.",
+        "questions": ["What's the best life hack you know?", "What do you do if you can't concentrate?", "What happens if you check your phone too much at work?", "What's something you could teach a child?", "Do you prefer learning from videos or written instructions?"]
+      },
+      "writing": {
+        "task": "Write a step-by-step tutorial (150–180 words) for something you know how to do well. Use imperatives, sequencers and at least 3 conditionals or time clauses.",
+        "task_pt": "Escreva um tutorial passo a passo (150–180 palavras) de algo que você sabe fazer bem. Use imperativos, sequenciadores e pelo menos 3 condicionais ou time clauses.",
+        "model": "How to make the perfect Brazilian rice\n\nFirst of all, rinse one cup of rice in cold water until the water runs clear. If you skip this step, the rice will be sticky.\n\nThen, heat two tablespoons of oil in a pan and add half a chopped onion and one clove of garlic. Be careful not to burn the garlic — if it turns dark, it'll taste bitter.\n\nOnce the onion is soft, add the rice and stir for about two minutes. This makes the grains loose and fluffy.\n\nNext, add two cups of hot water and a teaspoon of salt. As soon as the water boils, turn the heat down to low and cover the pan.\n\nCook for about 15 minutes. Don't open the lid and don't stir! When the water has disappeared and you see little holes on the surface, turn off the heat.\n\nFinally, leave the rice covered for five more minutes. Make sure you fluff it with a fork before serving. And that's it — perfect rice, every time!"
+      },
+      "culture_note": {
+        "title": "IKEA e o inglês das instruções",
+        "text_pt": "As instruções da IKEA são famosas por não terem quase nenhuma palavra — só desenhos! Mas manuais, receitas e tutoriais em inglês seguem um padrão: verbos no imperativo no começo de cada passo (**Insert**, **Turn**, **Press**, **Add**). Ler manuais em inglês é um ótimo treino de vocabulário prático."
+      },
+      "summary_pt": ["Instruções: imperativo + sequenciadores (First, Then, Finally).", "If + present, present (como funciona) / will (consequência).", "Once / as soon as / unless + presente.", "Make sure you... / Be careful not to... / And that's it!"]
+    },
+    {
+      "id": "B1P-M5-L2",
+      "title": "Small details matter",
+      "subtitle_pt": "Modais de obrigação e conselho com nuance: must, have to, need to, should, ought to, don't need to",
+      "duration_min": 65,
+      "source_refs": ["Keynote Intermediate – Unit 9.3 (Small details matter)", "Keynote Intermediate – Grammar summary (modal verbs: obligation, prohibition, advice)"],
+      "objectives": ["Diferenciar obrigação interna (must) e externa (have to)", "Usar need to / don't need to / needn't", "Usar should e ought to para recomendações profissionais", "Falar sobre regras, qualidade e atenção aos detalhes no trabalho"],
+      "warmup": {
+        "text_pt": "Um erro de digitação num contrato, um zero a mais numa fatura, um nome escrito errado num e-mail... Pequenos detalhes podem ter grandes consequências. Você é detalhista?",
+        "questions": ["Are you a detail-oriented person?", "Have you ever made a small mistake with big consequences?"]
+      },
+      "vocabulary": [
+        {"en": "detail-oriented", "pt": "detalhista, atento aos detalhes", "say": "díteil órientid"},
+        {"en": "to double-check", "pt": "conferir duas vezes", "say": "tu dâbol tchék"},
+        {"en": "a typo", "pt": "um erro de digitação", "say": "a táipou"},
+        {"en": "to proofread", "pt": "revisar (um texto)", "say": "tu prúfrid"},
+        {"en": "a checklist", "pt": "uma lista de verificação", "say": "a tchéklist"},
+        {"en": "a guideline / a policy", "pt": "uma diretriz / uma política", "say": "a gáidlain / a pólisi"},
+        {"en": "compulsory / optional", "pt": "obrigatório / opcional", "say": "kompâlsori / ópshonal"},
+        {"en": "to comply with", "pt": "cumprir (regras)", "say": "tu komplái uídh"},
+        {"en": "quality control", "pt": "controle de qualidade", "say": "kuóliti kontrôul"},
+        {"en": "a costly mistake", "pt": "um erro caro", "say": "a kóstli mistêik"},
+        {"en": "to overlook", "pt": "deixar passar, não perceber", "say": "tu ôuverlúk"},
+        {"en": "the devil is in the details", "pt": "o diabo mora nos detalhes", "say": "dâ dével iz in dâ díteilz"}
+      ],
+      "chunks": [
+        {"en": "You have to double-check everything.", "pt": "Você tem que conferir tudo duas vezes."},
+        {"en": "I must remember to call the client.", "pt": "Preciso lembrar de ligar para o cliente."},
+        {"en": "You don't need to print it.", "pt": "Você não precisa imprimir."},
+        {"en": "We ought to proofread it again.", "pt": "Deveríamos revisar de novo."},
+        {"en": "It's compulsory for all employees.", "pt": "É obrigatório para todos os funcionários."},
+        {"en": "The devil is in the details.", "pt": "O diabo mora nos detalhes."}
+      ],
+      "grammar": {
+        "title": "Obligation and advice: nuances",
+        "explanation_pt": "No B1 você aprendeu must/have to/mustn't/don't have to. No B1+, as **nuances**:\n\n**Must x have to (afirmativa):**\n- **must** → obrigação que **o falante** sente ou impõe (interna, pessoal) e regras **escritas** formais: \"I **must** call my mother — I promised.\" / \"Passengers **must** wear seatbelts.\" (aviso oficial)\n- **have to** → obrigação **externa** (regras, circunstâncias), mais comum na fala: \"I **have to** wear a uniform at work.\" (a empresa exige)\n\n**Need to / don't need to / needn't:**\n- **need to** = é necessário: \"We **need to** fix this bug before the launch.\"\n- **don't need to / needn't** = não é necessário (= don't have to): \"You **don't need to** bring anything.\" / \"You **needn't** worry.\" (needn't é mais britânico/formal)\n\n**Mustn't x don't have to (revisão — o erro mais comum):**\n- **mustn't** = proibido: \"You **mustn't** share your password.\"\n- **don't have to / don't need to** = não é necessário: \"You **don't have to** reply today.\"\n\n**Should / ought to** → recomendação (o certo a fazer, mas não obrigatório):\n- \"You **should** proofread every email before sending it.\" / \"We **ought to** update the checklist.\"\n\n**Passado:** **had to** (obrigação), **didn't have to / didn't need to** (não era necessário), **should have** (crítica — Módulo 2).",
+        "table": {
+          "headers": ["Força", "Estrutura", "Exemplo"],
+          "rows": [["Obrigação forte (regra escrita / pessoal)", "must", "All visitors must sign in."], ["Obrigação externa", "have to / need to", "I have to submit the report by Friday."], ["Proibição", "mustn't / can't", "You mustn't park here."], ["Não necessário", "don't have to / don't need to / needn't", "You needn't print it."], ["Recomendação", "should / ought to", "You should double-check the numbers."], ["Passado", "had to / didn't have to", "We had to redo the whole report."]]
+        },
+        "examples": [
+          {"en": "In aviation, pilots have to follow a checklist before every flight, no matter how experienced they are.", "pt": "Na aviação, pilotos têm que seguir uma checklist antes de cada voo, por mais experientes que sejam."},
+          {"en": "You don't need to write a long email. You should just make sure the numbers are correct.", "pt": "Você não precisa escrever um e-mail longo. Só deveria garantir que os números estão corretos."},
+          {"en": "I must stop checking my phone during meetings. It's a terrible habit.", "pt": "Preciso parar de olhar o celular durante as reuniões. É um hábito terrível."}
+        ],
+        "tip_pt": "**Need** como verbo comum pede **to** (need to do) e **do/does** nas perguntas (Do I need to...?). **Needn't** (modal) é usado sem to: \"You needn't come.\""
+      },
+      "common_mistakes": [
+        {"wrong": "You mustn't bring food. It's provided. (= não precisa)", "right": "You don't need to / don't have to bring food.", "why_pt": "Mustn't = proibido. Não é necessário = don't need to / don't have to."},
+        {"wrong": "Yesterday I must stay late.", "right": "Yesterday I had to stay late.", "why_pt": "Must não tem passado: use had to."},
+        {"wrong": "Do I must sign this?", "right": "Do I have to sign this? / Must I sign this?", "why_pt": "Must não usa do. A pergunta natural é com have to."}
+      ],
+      "pronunciation": {
+        "focus": "Need to / have to / ought to",
+        "tip_pt": "Na fala: **need to** = \"**nídu**\" (o D e o T se juntam), **have to** = \"**réfta**\", **has to** = \"**résta**\", **ought to** = \"**órâ**\" (EUA). **Mustn't** = \"**mâsent**\".",
+        "practice": ["We need to fix it. (\"nídu\")", "You have to sign here. (\"réfta\")", "You ought to call her. (\"órâ\")"]
+      },
+      "dialogue": {
+        "title": "The typo",
+        "context_pt": "Uma gerente conversa com um estagiário sobre um erro num documento enviado a um cliente.",
+        "lines": [
+          {"speaker": "Manager", "en": "Leo, have a look at this proposal. Can you see the problem?", "pt": "Leo, dá uma olhada nesta proposta. Você consegue ver o problema?"},
+          {"speaker": "Leo", "en": "Hmm... oh no. The price says 15,000 instead of 150,000.", "pt": "Hmm... ah não. O preço está 15.000 em vez de 150.000."},
+          {"speaker": "Manager", "en": "Exactly. One zero. Luckily, I saw it before the client signed. We'd have lost a lot of money.", "pt": "Exatamente. Um zero. Por sorte, vi antes de o cliente assinar. Teríamos perdido muito dinheiro."},
+          {"speaker": "Leo", "en": "I'm so sorry. I should have double-checked it.", "pt": "Mil desculpas. Eu deveria ter conferido duas vezes."},
+          {"speaker": "Manager", "en": "It happens. But from now on, you have to use our checklist before sending any proposal. It's compulsory for everyone in the team — even me.", "pt": "Acontece. Mas daqui para frente, você tem que usar nossa checklist antes de enviar qualquer proposta. É obrigatório para todo mundo da equipe — até para mim."},
+          {"speaker": "Leo", "en": "Do I need to send it to you before it goes to the client?", "pt": "Preciso enviar para você antes de ir para o cliente?"},
+          {"speaker": "Manager", "en": "You don't need to send me everything — just proposals over 50,000. And you should always ask someone to proofread important documents. Fresh eyes see more.", "pt": "Você não precisa me mandar tudo — só propostas acima de 50.000. E deveria sempre pedir para alguém revisar documentos importantes. Olhos descansados veem mais."},
+          {"speaker": "Leo", "en": "Got it. I must be more careful. The devil really is in the details!", "pt": "Entendi. Preciso ser mais cuidadoso. O diabo realmente mora nos detalhes!"}
+        ]
+      },
+      "listening": {
+        "title": "Onboarding: rules and recommendations",
+        "context_pt": "Um gerente explica as regras para novos funcionários de um laboratório.",
+        "lines": [
+          {"speaker": "Manager", "en": "Welcome to the lab. Let me explain the essentials. You must wear safety glasses and gloves at all times in this area — no exceptions. You mustn't eat or drink near the equipment. You have to log every sample in the system before you leave. You don't need to wear the white coat in the office area, only in the lab. And a recommendation: you should label everything twice — on the container and in the system. It takes an extra minute, but it can save weeks of work. Last year, a researcher had to repeat an entire experiment because of one missing label."}
+        ],
+        "questions": [
+          {"q": "What must employees wear at all times in the lab?", "answer": "Safety glasses and gloves."},
+          {"q": "What mustn't they do near the equipment?", "answer": "Eat or drink."},
+          {"q": "Where don't they need to wear the white coat?", "answer": "In the office area."},
+          {"q": "Why should they label everything twice?", "answer": "It can save weeks of work (a researcher had to repeat an experiment because of one missing label)."}
+        ]
+      },
+      "reading": {
+        "title": "The power of checklists",
+        "text": "In 1935, a new American bomber plane crashed during a test flight, killing two of its crew. The investigation found that the pilots hadn't made a mechanical error — they had simply forgotten one step: they hadn't released a lock on the controls. The plane was considered \"too complex for one person to fly\". Instead of giving up, test pilots created a simple solution: a checklist. With it, the plane went on to fly safely for millions of miles. Decades later, surgeon and writer Atul Gawande argued in his book The Checklist Manifesto that the same idea could save lives in hospitals. A study coordinated by the World Health Organization in eight hospitals around the world found that a simple surgical safety checklist was associated with a significant reduction in complications and deaths. The checklist didn't teach surgeons anything new; it made sure that the basic steps — confirming the patient's identity, checking allergies, counting instruments — weren't overlooked. The lesson goes beyond medicine: experts don't fail because they lack knowledge, but because even the best people sometimes forget the obvious.",
+        "questions": [
+          {"q": "Why did the plane crash in 1935?", "answer": "The pilots forgot to release a lock on the controls."},
+          {"q": "What solution did test pilots create?", "answer": "A checklist."},
+          {"q": "What did the WHO-coordinated study find?", "answer": "A surgical safety checklist was associated with fewer complications and deaths."},
+          {"q": "Why do experts sometimes fail, according to the text?", "answer": "Not because they lack knowledge, but because they forget the obvious."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Choose the modal", "instruction": "Choose the best option.", "instruction_pt": "Escolha a melhor opção.",
+         "items": [{"prompt": "You ___ share your password with anyone. It's forbidden.", "options": ["mustn't", "don't need to"], "answer": "mustn't"}, {"prompt": "You ___ print the ticket. You can show it on your phone.", "options": ["mustn't", "don't need to"], "answer": "don't need to"}, {"prompt": "I ___ remember to call my grandma. It's her birthday!", "options": ["must", "have to"], "answer": "must"}, {"prompt": "At my school, we ___ wear a uniform. It's the rule.", "options": ["must", "have to"], "answer": "have to"}, {"prompt": "Yesterday I ___ redo the whole presentation.", "options": ["must", "had to"], "answer": "had to"}, {"prompt": "You ___ proofread important emails. It's good practice.", "options": ["should", "mustn't"], "answer": "should"}]},
+        {"id": "ex2", "type": "fill_blank", "title": "Rules at work", "instruction": "Complete with: have to · don't have to · mustn't · should · had to.", "instruction_pt": "Complete com a forma adequada.",
+         "items": [{"prompt": "Employees ___ clock in before 9 a.m.", "answer": "have to"}, {"prompt": "You ___ come to the office on Fridays — it's a remote day.", "answer": "don't have to"}, {"prompt": "You ___ use personal email for company documents. It's against the policy.", "answer": "mustn't"}, {"prompt": "You ___ take short breaks every hour — it's good for your eyes.", "answer": "should"}, {"prompt": "Last month we ___ work on Saturday because of the deadline.", "answer": "had to"}]},
+        {"id": "ex3", "type": "match", "title": "Detail vocabulary", "instruction": "Write the English expression.", "instruction_pt": "Escreva a expressão em inglês.",
+         "items": [{"prompt": "erro de digitação", "answer": "a typo"}, {"prompt": "conferir duas vezes", "answer": "double-check"}, {"prompt": "revisar um texto", "answer": "proofread"}, {"prompt": "deixar passar", "answer": "overlook"}, {"prompt": "detalhista", "answer": "detail-oriented"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "You have to double-check everything."}, {"prompt": "2", "answer": "You don't need to print it."}, {"prompt": "3", "answer": "It's compulsory for all employees."}, {"prompt": "4", "answer": "The devil is in the details."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "You mustn't come if you're busy. (= não precisa)", "answer": "You don't have to / don't need to come if you're busy."}, {"prompt": "Do I must wear a tie?", "answer": "Do I have to wear a tie?"}, {"prompt": "We must worked late yesterday.", "answer": "We had to work late yesterday."}, {"prompt": "You need bring your ID.", "answer": "You need to bring your ID."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the email", "instruction": "Complete the email with: need to · must · should · don't have to · checklist.", "instruction_pt": "Complete o e-mail.",
+         "items": [{"prompt": "Hi team, just a reminder: all reports ___ be submitted by Friday at 5 p.m.", "answer": "must"}, {"prompt": "Before submitting, please use the attached ___.", "answer": "checklist"}, {"prompt": "You ___ include a summary of no more than 200 words.", "answer": "need to"}, {"prompt": "You ___ add charts, but you ___ check all numbers twice.", "answer": "don't have to / should"}]}
+      ],
+      "speaking": {
+        "instruction": "Create a \"golden rules\" list for your workplace, school or home: 3 obligations, 2 prohibitions, 2 things that aren't necessary and 3 recommendations. Present and justify them.",
+        "instruction_pt": "Crie uma lista de \"regras de ouro\" para seu trabalho, escola ou casa: 3 obrigações, 2 proibições, 2 coisas que não são necessárias e 3 recomendações. Apresente e justifique.",
+        "questions": ["What do you have to do at work that you think is unnecessary?", "What must you never forget to do?", "Are you detail-oriented? Give an example.", "Do you use checklists? For what?", "What small detail has made a big difference in your life?"]
+      },
+      "writing": {
+        "task": "Write a short guide (150–180 words) for new employees or students: \"Rules and tips for your first month\". Use at least 6 different modals of obligation, prohibition and advice.",
+        "task_pt": "Escreva um guia curto (150–180 palavras) para novos funcionários ou alunos: \"Regras e dicas para o primeiro mês\". Use pelo menos 6 modais diferentes de obrigação, proibição e conselho.",
+        "model": "Welcome to the team! Your first month: rules and tips\n\nRules\n• You have to complete the online security training in your first week. It's compulsory for all employees.\n• You must wear your ID badge at all times in the building.\n• You mustn't share client information on personal devices or social media.\n• You don't need to come to the office on Fridays — it's our remote day — but you do need to be online between 10 a.m. and 4 p.m.\n\nTips\n• You should ask questions. Nobody expects you to know everything, and it's much better to ask than to guess.\n• You ought to introduce yourself to people in other departments. Coffee breaks are a great opportunity.\n• Before you send anything to a client, double-check the details: names, dates and numbers. A small typo can cause big problems.\n• Finally, you don't have to be perfect. Everyone makes mistakes in their first month — the important thing is to learn from them."
+      },
+      "culture_note": {
+        "title": "\"Measure twice, cut once\"",
+        "text_pt": "Um provérbio de carpinteiros que virou lema de trabalho cuidadoso: **\"Measure twice, cut once\"** (meça duas vezes, corte uma). Outros: **\"Better safe than sorry\"** e **\"Haste makes waste\"** (a pressa é inimiga da perfeição)."
+      },
+      "summary_pt": ["must = obrigação pessoal / regra escrita · have to = obrigação externa.", "mustn't = proibido · don't have to / don't need to / needn't = não é necessário.", "should / ought to = recomendação.", "Passado: had to / didn't have to."]
+    },
+    {
+      "id": "B1P-M5-L3",
+      "title": "A big sum of small actions",
+      "subtitle_pt": "Voz passiva em vários tempos (is being, has been, will be, can be)",
+      "duration_min": 70,
+      "source_refs": ["Keynote Intermediate – Unit 10 (The environment: How we can eat our landscapes / A big sum of small actions)", "Keynote Intermediate Videos – TED Talks playlist"],
+      "objectives": ["Usar a voz passiva no present continuous, present perfect, futuro e com modais", "Descrever processos (reciclagem, produção) com a passiva", "Falar sobre problemas ambientais e soluções comunitárias", "Usar a passiva para soar mais formal e objetivo em relatórios"],
+      "warmup": {
+        "text_pt": "Muitas vezes achamos que só governos e grandes empresas podem salvar o planeta. Mas e se milhares de pequenas ações locais fizessem a diferença? Hoje vamos falar sobre meio ambiente e ação comunitária.",
+        "questions": ["What do you do to help the environment?", "Is there a community project in your neighborhood?"]
+      },
+      "vocabulary": [
+        {"en": "to recycle / recycling", "pt": "reciclar / reciclagem", "say": "tu risáikol"},
+        {"en": "waste / food waste", "pt": "lixo, desperdício / desperdício de alimentos", "say": "uêist / fúd uêist"},
+        {"en": "landfill", "pt": "aterro sanitário", "say": "léndfil"},
+        {"en": "compost / to compost", "pt": "adubo orgânico / compostar", "say": "kómpost"},
+        {"en": "single-use plastic", "pt": "plástico descartável", "say": "síngol iús pléstik"},
+        {"en": "renewable energy", "pt": "energia renovável", "say": "riniúabol énerdji"},
+        {"en": "deforestation", "pt": "desmatamento", "say": "diforestêishon"},
+        {"en": "community garden", "pt": "horta comunitária", "say": "komiúniti gárden"},
+        {"en": "to grow (food)", "pt": "cultivar (alimentos)", "say": "tu grôu"},
+        {"en": "sustainable / sustainability", "pt": "sustentável / sustentabilidade", "say": "sastêinabol"},
+        {"en": "to raise awareness", "pt": "conscientizar", "say": "tu rêiz auérnes"},
+        {"en": "grassroots (movement)", "pt": "(movimento) de base, popular", "say": "grésruts"}
+      ],
+      "chunks": [
+        {"en": "The plastic is being collected.", "pt": "O plástico está sendo recolhido."},
+        {"en": "Thousands of trees have been planted.", "pt": "Milhares de árvores foram plantadas."},
+        {"en": "The project will be launched next month.", "pt": "O projeto será lançado mês que vem."},
+        {"en": "This can be recycled.", "pt": "Isto pode ser reciclado."},
+        {"en": "Every small action counts.", "pt": "Cada pequena ação conta."},
+        {"en": "It's being done by volunteers.", "pt": "Está sendo feito por voluntários."}
+      ],
+      "grammar": {
+        "title": "Passive voice: all tenses",
+        "explanation_pt": "No B1 você aprendeu a passiva no presente e no passado simples. A regra é sempre a mesma: **be (no tempo certo) + particípio**. Só muda o **be**:\n\n- **Present simple:** am/is/are + particípio → \"Plastic **is recycled** here.\"\n- **Present continuous:** am/is/are **being** + particípio → \"A new park **is being built**.\" (está sendo construído)\n- **Past simple:** was/were + particípio → \"The garden **was created** in 2015.\"\n- **Past continuous:** was/were **being** + particípio → \"The river **was being cleaned** when I visited.\"\n- **Present perfect:** has/have **been** + particípio → \"More than 1,000 trees **have been planted**.\"\n- **Future (will):** will **be** + particípio → \"The results **will be published** next year.\"\n- **Going to:** am/is/are going to **be** + particípio → \"The old factory **is going to be turned** into a park.\"\n- **Modais:** can / should / must / might **be** + particípio → \"Glass **can be recycled** forever.\" / \"Food waste **should be composted**.\"\n\n**Para descrever processos**, a passiva é a forma mais natural, com sequenciadores:\n\"First, the bottles **are collected**. Then they**'re washed** and **cut** into small pieces. After that, the pieces **are melted** and **turned** into new products.\"\n\n**Get + particípio** (informal) às vezes substitui be: \"My bike **got stolen**.\" / \"The project **got cancelled**.\"",
+        "table": {
+          "headers": ["Tempo", "Passiva", "Exemplo"],
+          "rows": [["Present simple", "is/are + pp", "Paper is recycled every week."], ["Present continuous", "is/are being + pp", "The beach is being cleaned."], ["Past simple", "was/were + pp", "The park was opened in 2020."], ["Present perfect", "has/have been + pp", "Ten tons of trash have been removed."], ["Future", "will be + pp", "New bins will be installed."], ["Modal", "can/should/must be + pp", "Batteries must be disposed of safely."]]
+        },
+        "examples": [
+          {"en": "In the last five years, more than 200 community gardens have been created in São Paulo.", "pt": "Nos últimos cinco anos, mais de 200 hortas comunitárias foram criadas em São Paulo."},
+          {"en": "The old landfill is being transformed into a solar farm.", "pt": "O antigo aterro está sendo transformado numa usina solar."},
+          {"en": "Most food waste could be avoided if meals were planned better.", "pt": "A maior parte do desperdício de alimentos poderia ser evitada se as refeições fossem mais bem planejadas."}
+        ],
+        "tip_pt": "Em relatórios e textos formais, a passiva ajuda a manter o foco no **resultado**, não em quem fez: \"Mistakes **were made**\" (cuidado: às vezes é usada para **esconder** responsabilidade!)."
+      },
+      "common_mistakes": [
+        {"wrong": "The bridge is building now.", "right": "The bridge is being built now.", "why_pt": "Passiva no presente contínuo = is being + particípio."},
+        {"wrong": "Many trees have planted this year.", "right": "Many trees have been planted this year.", "why_pt": "Present perfect passivo = have been + particípio."},
+        {"wrong": "This can recycle.", "right": "This can be recycled.", "why_pt": "Modal + be + particípio."}
+      ],
+      "pronunciation": {
+        "focus": "Being e been",
+        "tip_pt": "**Being** = \"BÍ-in\" (duas sílabas). **Been** = \"bin\" (EUA) / \"bín\" (UK) — uma sílaba, fraca. Confundir os dois muda o tempo verbal: \"is **being** built\" (agora) x \"has **been** built\" (concluído).",
+        "practice": ["It's being built. (\"BÍ-in\")", "It's been built. (\"bin\")", "Trees have been planted."]
+      },
+      "dialogue": {
+        "title": "Neighborhood transformation",
+        "context_pt": "Uma moradora mostra a um amigo as mudanças no bairro desde que começou um projeto comunitário.",
+        "lines": [
+          {"speaker": "Bel", "en": "Remember this corner? It used to be full of trash.", "pt": "Lembra desta esquina? Vivia cheia de lixo."},
+          {"speaker": "Theo", "en": "Wow, I can't believe it's the same place! What happened?", "pt": "Nossa, não acredito que é o mesmo lugar! O que aconteceu?"},
+          {"speaker": "Bel", "en": "A group of neighbors started a project three years ago. The trash was removed, and the land was turned into a community garden.", "pt": "Um grupo de vizinhos começou um projeto há três anos. O lixo foi removido, e o terreno foi transformado numa horta comunitária."},
+          {"speaker": "Theo", "en": "Who looks after it?", "pt": "Quem cuida dela?"},
+          {"speaker": "Bel", "en": "It's maintained by volunteers. Vegetables are grown here and shared with local families. Over two tons of food have been harvested so far.", "pt": "É mantida por voluntários. Legumes são cultivados aqui e divididos com famílias do bairro. Mais de duas toneladas de alimentos já foram colhidas."},
+          {"speaker": "Theo", "en": "Amazing. And what's being built over there?", "pt": "Incrível. E o que está sendo construído ali?"},
+          {"speaker": "Bel", "en": "A compost center. All the organic waste from the street will be collected and turned into fertilizer for the garden.", "pt": "Um centro de compostagem. Todo o lixo orgânico da rua vai ser recolhido e transformado em adubo para a horta."},
+          {"speaker": "Theo", "en": "That's incredible. It shows that big changes can be made by ordinary people.", "pt": "Que incrível. Mostra que grandes mudanças podem ser feitas por pessoas comuns."}
+        ]
+      },
+      "listening": {
+        "title": "How plastic bottles are recycled",
+        "context_pt": "Um guia explica o processo de reciclagem numa visita a uma cooperativa.",
+        "lines": [
+          {"speaker": "Guide", "en": "Welcome to our cooperative. Let me show you how plastic bottles are recycled. First, the bottles are collected from homes and businesses by our members. Then they're sorted by color and type — this step is still done by hand. After that, the labels and caps are removed, and the bottles are washed. Next, they're cut into small flakes, which are melted and turned into pellets. Finally, these pellets are sold to factories, where they're used to make new products — clothes, carpets, even new bottles. Last year, more than 500 tons of plastic were processed here, and our cooperative has been recognized as one of the most efficient in the state."}
+        ],
+        "questions": [
+          {"q": "Who collects the bottles?", "answer": "The cooperative's members."},
+          {"q": "Which step is still done by hand?", "answer": "Sorting by color and type."},
+          {"q": "What are the flakes turned into?", "answer": "Pellets."},
+          {"q": "How much plastic was processed last year?", "answer": "More than 500 tons."}
+        ]
+      },
+      "video": {
+        "title": "How we can eat our landscapes",
+        "speaker": "Pam Warhurst",
+        "url": "https://www.ted.com/search?q=how+we+can+eat+our+landscapes",
+        "playlist": "https://www.youtube.com/watch?v=sAQfzHBpRsc&list=PLdIk6oC5e9pYKMTeYKp9dEOSeoNEEJ0BJ",
+        "task_pt": "Assista à palestra (cerca de 13 minutos — pode dividir em duas partes). Anote 3 frases na voz passiva que você ouvir. Depois responda:",
+        "questions": ["What did the people in the speaker's town do, and why?", "What has been achieved so far, according to the talk?", "Could a project like this work in your city? What would be needed?", "Do you agree that small local actions can change big problems?"]
+      },
+      "reading": {
+        "title": "Brazil's recyclers",
+        "text": "In Brazil, a large part of the waste that gets recycled is collected not by machines or big companies, but by people: the catadores, or waste pickers. Estimates suggest that hundreds of thousands of Brazilians work in this activity, many of them in cooperatives. For decades, their work was largely invisible and badly paid. In recent years, however, their role has been increasingly recognized. A national policy on solid waste, approved in 2010, encouraged cities to include waste picker cooperatives in their recycling systems, and in many places their work is now being formally contracted by local governments. Aluminum cans are a famous success story: Brazil has recycled a very high proportion of its aluminum cans for many years, largely thanks to the work of catadores. Challenges remain — many waste pickers still work in difficult and unsafe conditions — but their story shows that environmental solutions can't be separated from social justice.",
+        "questions": [
+          {"q": "Who collects much of Brazil's recycled waste?", "answer": "Waste pickers (catadores), many in cooperatives."},
+          {"q": "What did the 2010 national policy encourage?", "answer": "Cities to include waste picker cooperatives in their recycling systems."},
+          {"q": "What is a famous success story?", "answer": "Aluminum can recycling."},
+          {"q": "What does their story show?", "answer": "Environmental solutions can't be separated from social justice."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "fill_blank", "title": "Passive in different tenses", "instruction": "Complete with the passive form of the verb in the tense indicated.", "instruction_pt": "Complete com a passiva no tempo indicado.",
+         "items": [{"prompt": "A new bike lane ___ (build) right now. (present continuous)", "answer": "is being built"}, {"prompt": "Over 1,000 trees ___ (plant) since January. (present perfect)", "answer": "have been planted"}, {"prompt": "The results ___ (announce) next week. (future)", "answer": "will be announced"}, {"prompt": "Batteries ___ (should / not / throw) in the normal trash. (modal)", "answer": "shouldn't be thrown"}, {"prompt": "The beach ___ (clean) when we arrived. (past continuous)", "answer": "was being cleaned"}]},
+        {"id": "ex2", "type": "answer", "title": "Active to passive", "instruction": "Rewrite in the passive. Omit the agent if it isn't important.", "instruction_pt": "Reescreva na passiva. Omita o agente se não for importante.",
+         "items": [{"prompt": "Volunteers are cleaning the river.", "answer": "The river is being cleaned (by volunteers)."}, {"prompt": "The city has banned plastic straws.", "answer": "Plastic straws have been banned (by the city)."}, {"prompt": "They will open the new park in May.", "answer": "The new park will be opened in May."}, {"prompt": "You can recycle glass forever.", "answer": "Glass can be recycled forever."}]},
+        {"id": "ex3", "type": "fill_blank", "title": "Describe a process", "instruction": "Complete the process of making paper with the passive (present simple).", "instruction_pt": "Complete o processo de fabricação de papel com a passiva.",
+         "items": [{"prompt": "First, trees ___ (cut) down and ___ (take) to the factory.", "answer": "are cut / taken"}, {"prompt": "Then the wood ___ (chop) into small pieces.", "answer": "is chopped"}, {"prompt": "After that, the pieces ___ (mix) with water and chemicals to make pulp.", "answer": "are mixed"}, {"prompt": "Finally, the pulp ___ (press) and ___ (dry) into sheets of paper.", "answer": "is pressed / dried"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "The plastic is being collected."}, {"prompt": "2", "answer": "Thousands of trees have been planted."}, {"prompt": "3", "answer": "The project will be launched next month."}, {"prompt": "4", "answer": "This can be recycled."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "The new hospital is building now.", "answer": "The new hospital is being built now."}, {"prompt": "A lot of money has spent on the project.", "answer": "A lot of money has been spent on the project."}, {"prompt": "The report will published tomorrow.", "answer": "The report will be published tomorrow."}, {"prompt": "Plastic should recycled.", "answer": "Plastic should be recycled."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Environmental vocabulary", "instruction": "Complete with: landfill · compost · single-use · awareness · grassroots.", "instruction_pt": "Complete com o vocabulário ambiental.",
+         "items": [{"prompt": "Most of our trash ends up in a ___.", "answer": "landfill"}, {"prompt": "Many cities have banned ___ plastic bags.", "answer": "single-use"}, {"prompt": "We turn our food scraps into ___ for the garden.", "answer": "compost"}, {"prompt": "The ___ movement started with a few neighbors who wanted to raise ___.", "answer": "grassroots / awareness"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Before and after\": describe a place you know that has changed (or should change). Use the passive in different tenses: what was done, what is being done, what has been done and what will be done.",
+        "instruction_pt": "\"Antes e depois\": descreva um lugar que você conhece que mudou (ou deveria mudar). Use a passiva em diferentes tempos: o que foi feito, o que está sendo feito, o que já foi feito e o que será feito.",
+        "questions": ["What is being done in your city to help the environment?", "What has been done in your home to reduce waste?", "What should be banned to protect the planet?", "Do you think individual actions really make a difference?", "What could be done in your neighborhood with a little money and a lot of volunteers?"]
+      },
+      "writing": {
+        "task": "Write a short report (150–180 words) about an environmental project (real or invented): what problem existed, what has been done, what is being done now and what will be done next. Use at least 6 passive forms.",
+        "task_pt": "Escreva um relatório curto (150–180 palavras) sobre um projeto ambiental (real ou inventado): qual problema existia, o que já foi feito, o que está sendo feito agora e o que será feito em seguida. Use pelo menos 6 formas passivas.",
+        "model": "Project report: Green Schools Initiative\n\nThree years ago, our city's public schools produced more than 20 tons of food waste every month, and almost nothing was recycled. In 2023, the Green Schools Initiative was launched by a group of teachers and parents.\n\nSince then, a lot has been achieved. Compost bins have been installed in 45 schools, and more than 300 tons of organic waste have been turned into fertilizer. This fertilizer is used in school gardens, where vegetables are grown by the students themselves and served in the cafeteria.\n\nCurrently, a new recycling system is being tested in ten schools: plastic and paper are separated in each classroom and collected by a local waste pickers' cooperative.\n\nNext year, the project will be expanded to all 120 schools in the city, and a training program for cafeteria staff is going to be created. The initiative shows that big problems can be solved through small, everyday actions — especially when the whole community gets involved."
+      },
+      "culture_note": {
+        "title": "Reduce, reuse, recycle",
+        "text_pt": "Os famosos **3 Rs** em ordem de importância: **Reduce** (reduzir — o mais eficaz), **Reuse** (reutilizar) e **Recycle** (reciclar — o último recurso). Hoje muitos ativistas acrescentam **Refuse** (recusar o que você não precisa) e **Rot** (compostar). Outro termo comum: **greenwashing** — quando empresas fingem ser mais \"verdes\" do que são."
+      },
+      "summary_pt": ["Passiva = be (no tempo certo) + particípio.", "is being built (agora) · has been built (concluído) · will be built (futuro).", "Modal + be + particípio: can be recycled.", "Processos: First, X is collected. Then it's washed..."]
+    },
+    {
+      "id": "B1P-M5-L4",
+      "title": "Can you explain?",
+      "subtitle_pt": "Pedir e dar esclarecimentos; reformular e checar compreensão",
+      "duration_min": 60,
+      "source_refs": ["Keynote Intermediate – Unit 10.4 (Can you explain?)", "Keynote Intermediate – Unit 10 (Real life: asking for and giving clarification)"],
+      "objectives": ["Pedir esclarecimento quando não entende algo", "Reformular e explicar de outra forma", "Checar se o outro entendeu sem ser condescendente", "Lidar com mal-entendidos em reuniões e conversas"],
+      "warmup": {
+        "text_pt": "Quantas vezes você fingiu entender algo em inglês só para não interromper? É muito comum — e muito arriscado. Saber pedir esclarecimento é uma das habilidades mais importantes de um falante confiante.",
+        "questions": ["Do you ever pretend to understand? Why?", "What do you do when someone doesn't understand you?"]
+      },
+      "vocabulary": [
+        {"en": "to clarify / clarification", "pt": "esclarecer / esclarecimento", "say": "tu klérifai / klarifikêishon"},
+        {"en": "to rephrase / to put it another way", "pt": "reformular / dizer de outra forma", "say": "tu rifrêiz"},
+        {"en": "to elaborate", "pt": "detalhar, desenvolver", "say": "tu ilébareit"},
+        {"en": "to get the wrong end of the stick", "pt": "entender tudo errado", "say": "tu guét dâ róng énd ov dâ stik"},
+        {"en": "to follow (someone)", "pt": "acompanhar (o raciocínio)", "say": "tu fálou"},
+        {"en": "to make sense", "pt": "fazer sentido", "say": "tu mêik séns"},
+        {"en": "to spell out", "pt": "explicar detalhadamente", "say": "tu spél áut"},
+        {"en": "in plain English", "pt": "em linguagem simples", "say": "in plêin ínglish"},
+        {"en": "a misunderstanding", "pt": "um mal-entendido", "say": "a misanderstándin"},
+        {"en": "to point out", "pt": "apontar, observar", "say": "tu póint áut"},
+        {"en": "to sum up", "pt": "resumir", "say": "tu sâm âp"},
+        {"en": "the bottom line", "pt": "o essencial, a conclusão", "say": "dâ bótom láin"}
+      ],
+      "chunks": [
+        {"en": "Sorry, I didn't quite catch that.", "pt": "Desculpe, não entendi direito."},
+        {"en": "What exactly do you mean by...?", "pt": "O que exatamente você quer dizer com...?"},
+        {"en": "Could you give me an example?", "pt": "Você poderia me dar um exemplo?"},
+        {"en": "Let me put it another way.", "pt": "Deixa eu dizer de outra forma."},
+        {"en": "So, if I understand correctly, ...", "pt": "Então, se eu entendi bem, ..."},
+        {"en": "Does that make sense?", "pt": "Faz sentido?"}
+      ],
+      "grammar": {
+        "title": "Linguagem de esclarecimento",
+        "explanation_pt": "Esclarecer envolve três movimentos — e usa estruturas que você já domina (perguntas indiretas, modais, reformulação):\n\n**1. PEDIR esclarecimento:**\n- Não ouviu: \"Sorry, I **didn't (quite) catch** that.\" / \"Could you **say that again**, please?\"\n- Não entendeu uma palavra: \"What **exactly do you mean by** 'scalable'?\" / \"What does '...' **mean**?\"\n- Quer mais detalhes: \"Could you **elaborate** on that?\" / \"Could you **give me an example**?\"\n- Perguntas indiretas (mais educadas): \"**I'm not sure I understand what** you mean.\" / \"**Could you explain how** that works?\"\n\n**2. CHECAR o que você entendeu (parafrasear):**\n- \"**So, if I understand correctly**, you want us to...?\"\n- \"**So what you're saying is**...?\" / \"**Do you mean that**...?\"\n- \"**In other words**, ...?\"\n\n**3. DAR esclarecimento / reformular:**\n- \"**Let me put it another way.**\" / \"**What I mean is**...\" / \"**In plain English**, ...\"\n- \"**To give you an example**, ...\" / \"**Basically**, ...\" / \"**The bottom line is**...\"\n- Checar se o outro entendeu (sem parecer arrogante): \"**Does that make sense?**\" / \"**Is that clear?**\" (cuidado: \"Do you understand?\" pode soar condescendente)\n\n**Corrigir um mal-entendido com educação:**\n\"**Sorry, I think there's been a misunderstanding.** What I meant was...\" / \"**That's not quite what I meant.**\"",
+        "table": {
+          "headers": ["Função", "Frases"],
+          "rows": [["Não ouvi", "Sorry, I didn't catch that. / Could you repeat that?"], ["Não entendi", "What exactly do you mean by...? / Could you explain...?"], ["Mais detalhes", "Could you elaborate? / Could you give me an example?"], ["Parafrasear", "So, if I understand correctly... / So what you're saying is..."], ["Reformular", "Let me put it another way. / What I mean is..."], ["Checar", "Does that make sense? / Am I making myself clear?"], ["Corrigir", "That's not quite what I meant. / There's been a misunderstanding."]]
+        },
+        "examples": [
+          {"en": "Sorry, what exactly do you mean by \"carbon neutral\"? Could you give me an example?", "pt": "Desculpe, o que exatamente você quer dizer com \"carbono neutro\"? Você poderia me dar um exemplo?"},
+          {"en": "So, if I understand correctly, the deadline has been moved to next Friday?", "pt": "Então, se eu entendi bem, o prazo foi adiado para a próxima sexta?"},
+          {"en": "Let me put it another way: we don't need more money, we need more time.", "pt": "Deixa eu dizer de outra forma: não precisamos de mais dinheiro, precisamos de mais tempo."}
+        ],
+        "tip_pt": "Em reuniões internacionais, **até nativos** pedem esclarecimento o tempo todo — é sinal de atenção, não de fraqueza. Fingir entender e errar depois é muito pior do que perguntar."
+      },
+      "common_mistakes": [
+        {"wrong": "What do you want to say with 'scalable'?", "right": "What do you mean by 'scalable'?", "why_pt": "\"Querer dizer\" = mean (não \"want to say\" — tradução literal)."},
+        {"wrong": "Do you understand me? (para um colega)", "right": "Does that make sense? / Is that clear?", "why_pt": "\"Do you understand?\" pode soar condescendente."},
+        {"wrong": "I didn't understand nothing.", "right": "I didn't understand anything. / I didn't quite follow.", "why_pt": "Inglês não aceita negação dupla."}
+      ],
+      "pronunciation": {
+        "focus": "Ênfase na palavra-chave",
+        "tip_pt": "Ao pedir esclarecimento sobre uma palavra, dê **ênfase** nela: \"What do you mean by **SCALABLE**?\" Ao corrigir um mal-entendido, enfatize a informação certa: \"I said **FRIDAY**, not Monday.\"",
+        "practice": ["What do you mean by SCALABLE?", "I said FRIDAY, not MONDAY.", "That's not QUITE what I meant."]
+      },
+      "dialogue": {
+        "title": "Confusing meeting",
+        "context_pt": "Numa reunião online, um diretor usa muito jargão e uma analista pede esclarecimentos.",
+        "lines": [
+          {"speaker": "Director", "en": "...so basically, we need to leverage our synergies and pivot to a more scalable, carbon-neutral model by Q3.", "pt": "...então basicamente precisamos alavancar nossas sinergias e pivotar para um modelo mais escalável e carbono neutro até o terceiro trimestre."},
+          {"speaker": "Luana", "en": "Sorry, could I just clarify something? What exactly do you mean by \"carbon-neutral model\"?", "pt": "Desculpe, posso só esclarecer uma coisa? O que exatamente você quer dizer com \"modelo carbono neutro\"?"},
+          {"speaker": "Director", "en": "Good question. Let me put it another way. We want all our offices to produce zero net emissions. Any emissions we can't avoid will be compensated, for example by planting trees.", "pt": "Boa pergunta. Deixa eu dizer de outra forma. Queremos que todos os escritórios tenham emissão líquida zero. As emissões que não pudermos evitar serão compensadas, por exemplo, plantando árvores."},
+          {"speaker": "Luana", "en": "OK, that makes sense. And \"by Q3\" — do you mean by the end of September?", "pt": "OK, faz sentido. E \"até o terceiro trimestre\" — você quer dizer até o fim de setembro?"},
+          {"speaker": "Director", "en": "Exactly.", "pt": "Exatamente."},
+          {"speaker": "Luana", "en": "So, if I understand correctly, our team needs to reduce the office's energy use and present a plan by September?", "pt": "Então, se eu entendi bem, nossa equipe precisa reduzir o consumo de energia do escritório e apresentar um plano até setembro?"},
+          {"speaker": "Director", "en": "That's not quite what I meant — the plan is due in June. The changes should be completed by September. Does that make sense?", "pt": "Não é bem isso — o plano é para junho. As mudanças devem estar concluídas até setembro. Faz sentido?"},
+          {"speaker": "Luana", "en": "Perfectly. Thanks for clarifying. I'm sure others had the same question!", "pt": "Perfeitamente. Obrigada por esclarecer. Tenho certeza de que outros tinham a mesma dúvida!"}
+        ]
+      },
+      "listening": {
+        "title": "A misunderstanding",
+        "context_pt": "Dois colegas percebem que entenderam uma tarefa de formas diferentes.",
+        "lines": [
+          {"speaker": "Kai", "en": "Hey, I've finished the presentation for the client. Twenty slides, with all the data from last year."},
+          {"speaker": "Rita", "en": "Twenty slides? I think there's been a misunderstanding. The client asked for a one-page summary, not a full presentation."},
+          {"speaker": "Kai", "en": "Really? In the meeting, they said they wanted \"the whole picture\". I thought that meant everything."},
+          {"speaker": "Rita", "en": "I see why you got confused. What they meant was a general overview — the big picture, not all the details. The bottom line is: they're busy and want something short."},
+          {"speaker": "Kai", "en": "So, if I understand correctly, I should turn these twenty slides into one page with the key numbers?"},
+          {"speaker": "Rita", "en": "Exactly. But don't delete the slides — they might be useful if they ask for more detail later."}
+        ],
+        "questions": [
+          {"q": "What did Kai prepare?", "answer": "A presentation with twenty slides and all of last year's data."},
+          {"q": "What did the client actually want?", "answer": "A one-page summary."},
+          {"q": "Why did Kai get confused?", "answer": "He thought \"the whole picture\" meant everything."},
+          {"q": "Why shouldn't Kai delete the slides?", "answer": "They might be useful if the client asks for more detail later."}
+        ]
+      },
+      "reading": {
+        "title": "Lost in translation",
+        "text": "Misunderstandings between cultures are rarely about grammar. More often, they come from different expectations about how directly people should speak. Researchers on intercultural communication describe some cultures — like the Netherlands, Germany or Israel — as \"low-context\": people tend to say exactly what they mean, and the words carry most of the message. Other cultures — like Japan, China or much of Latin America, including Brazil — are often described as \"high-context\": a lot of the meaning comes from tone, relationships and what is not said. This can cause confusion. When a British colleague says \"That's an interesting idea\", they may actually mean \"I don't agree\". When a Brazilian says \"Let's meet up sometime!\", it may be a friendly expression rather than a real plan. Experts suggest a simple strategy for international teams: when in doubt, check. Paraphrase what you understood (\"So you'd like me to...?\"), ask for concrete details (dates, numbers, next steps) and never assume that silence means agreement.",
+        "questions": [
+          {"q": "Where do cultural misunderstandings usually come from?", "answer": "Different expectations about how directly people should speak."},
+          {"q": "What is a \"low-context\" culture?", "answer": "People tend to say exactly what they mean; the words carry most of the message."},
+          {"q": "What might a British colleague mean by \"That's an interesting idea\"?", "answer": "\"I don't agree.\""},
+          {"q": "What strategy do experts suggest?", "answer": "Check: paraphrase, ask for concrete details and don't assume silence means agreement."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "match", "title": "Clarification functions", "instruction": "Write the function: ASK, CHECK, REPHRASE or CORRECT.", "instruction_pt": "Escreva a função: ASK, CHECK, REPHRASE ou CORRECT.",
+         "items": [{"prompt": "What exactly do you mean by...?", "answer": "ASK"}, {"prompt": "So, if I understand correctly...", "answer": "CHECK"}, {"prompt": "Let me put it another way.", "answer": "REPHRASE"}, {"prompt": "That's not quite what I meant.", "answer": "CORRECT"}, {"prompt": "Could you give me an example?", "answer": "ASK"}, {"prompt": "So what you're saying is...?", "answer": "CHECK"}]},
+        {"id": "ex2", "type": "answer", "title": "Paraphrase to check", "instruction": "Paraphrase each statement to check your understanding. Start with \"So, ...\"", "instruction_pt": "Parafraseie cada frase para checar a compreensão. Comece com \"So, ...\"",
+         "items": [{"prompt": "\"We're pushing the launch back two weeks.\"", "answer": "So, the launch will happen two weeks later than planned?"}, {"prompt": "\"Your budget has been cut by half.\"", "answer": "So, I now have 50% less money for the project?"}, {"prompt": "\"Working from home is optional on Fridays.\"", "answer": "So, I can choose to work from home on Fridays if I want?"}]},
+        {"id": "ex3", "type": "multiple_choice", "title": "Choose the best phrase", "instruction": "Choose the most appropriate phrase.", "instruction_pt": "Escolha a frase mais adequada.",
+         "items": [{"prompt": "(você não ouviu por causa do barulho)", "options": ["Sorry, I didn't catch that.", "What do you want to say?"], "answer": "Sorry, I didn't catch that."}, {"prompt": "(você explicou algo complexo para um colega)", "options": ["Do you understand me?", "Does that make sense?"], "answer": "Does that make sense?"}, {"prompt": "(alguém entendeu errado o que você disse)", "options": ["You're wrong.", "That's not quite what I meant."], "answer": "That's not quite what I meant."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "Sorry, I didn't quite catch that."}, {"prompt": "2", "answer": "What exactly do you mean by that?"}, {"prompt": "3", "answer": "Let me put it another way."}, {"prompt": "4", "answer": "So, if I understand correctly, the deadline is Friday?"}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "What do you want to say with 'pivot'?", "answer": "What do you mean by 'pivot'?"}, {"prompt": "Could you explain me the plan?", "answer": "Could you explain the plan to me?"}, {"prompt": "I didn't understand nothing.", "answer": "I didn't understand anything."}, {"prompt": "Can you give me one example more?", "answer": "Can you give me one more example?"}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the dialogue", "instruction": "Complete with: catch · mean · example · correctly · sense.", "instruction_pt": "Complete o diálogo.",
+         "items": [{"prompt": "A: Sorry, I didn't ___ the last part.", "answer": "catch"}, {"prompt": "A: What do you ___ by \"agile\"?", "answer": "mean"}, {"prompt": "B: It means working in short cycles. For ___, we plan for two weeks, then review.", "answer": "example"}, {"prompt": "A: So, if I understand ___, we change the plan every two weeks? — B: Exactly. Does that make ___?", "answer": "correctly / sense"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Jargon challenge\": each person explains something using as much jargon from their field as possible. The listeners must interrupt politely to ask for clarification, paraphrase and check until everything is clear.",
+        "instruction_pt": "\"Desafio do jargão\": cada pessoa explica algo usando o máximo de jargão da sua área. Os ouvintes devem interromper educadamente para pedir esclarecimento, parafrasear e checar até tudo ficar claro.",
+        "questions": ["Have you ever had a misunderstanding because of language?", "Are Brazilians high-context or low-context communicators? Give examples.", "How do you check that people understood your instructions?", "What's a word in your field that outsiders never understand?", "Is it hard for you to interrupt someone to ask a question?"]
+      },
+      "writing": {
+        "task": "Write an email (120–150 words) after a confusing meeting: summarize what you understood, ask for clarification on two specific points and confirm the next steps.",
+        "task_pt": "Escreva um e-mail (120–150 palavras) depois de uma reunião confusa: resuma o que você entendeu, peça esclarecimento sobre dois pontos específicos e confirme os próximos passos.",
+        "model": "Subject: Follow-up – sustainability meeting\n\nHi Robert,\n\nThank you for today's meeting. I'd just like to check that I understood everything correctly.\n\nAs I understand it, all our offices need to become carbon-neutral by September, and each team has to present a plan to reduce energy use by the end of June. Is that right?\n\nI also have two questions. First, when you mentioned \"compensating unavoidable emissions\", did you mean that each team is responsible for this, or will it be managed centrally? Second, could you clarify what budget is available for changes like new lighting or equipment?\n\nIf my understanding is correct, our next step is to collect energy data for the last twelve months and share it with you by May 15th. Please let me know if I've misunderstood anything.\n\nBest regards,\nLuana"
+      },
+      "culture_note": {
+        "title": "\"British English translated\"",
+        "text_pt": "Uma piada famosa na internet \"traduz\" o inglês britânico educado: **\"With the greatest respect...\"** = acho que você está errado; **\"I'll bear it in mind\"** = já esqueci; **\"Quite good\"** = um pouco decepcionante; **\"Very interesting\"** = isso não faz sentido. Exagero, claro — mas mostra por que checar é importante!"
+      },
+      "summary_pt": ["Pedir: Sorry, I didn't catch that / What do you mean by...?", "Checar: So, if I understand correctly... / So what you're saying is...?", "Reformular: Let me put it another way / What I mean is...", "\"querer dizer\" = mean (nunca want to say)."]
+    }
+  ],
+  "review": {
+    "intro_pt": "Revise instruções e condicionais, modais de obrigação, voz passiva em todos os tempos e linguagem de esclarecimento.",
+    "exercises": [
+      {"id": "r1", "type": "multiple_choice", "title": "Choose the correct option", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+       "items": [{"prompt": "If you ___ the file, you'll lose it.", "options": ["don't save", "won't save"], "answer": "don't save"}, {"prompt": "You ___ bring anything. Lunch is included.", "options": ["mustn't", "don't need to"], "answer": "don't need to"}, {"prompt": "A new bridge ___ right now.", "options": ["is building", "is being built"], "answer": "is being built"}, {"prompt": "Over 500 trees ___ this year.", "options": ["have planted", "have been planted"], "answer": "have been planted"}, {"prompt": "What do you ___ by 'scalable'?", "options": ["want to say", "mean"], "answer": "mean"}]},
+      {"id": "r2", "type": "fill_blank", "title": "Mixed practice", "instruction": "Complete with the correct form.", "instruction_pt": "Complete com a forma correta.",
+       "items": [{"prompt": "Once you ___ (finish), click Submit.", "answer": "'ve finished / finish"}, {"prompt": "Batteries must ___ (dispose) of safely.", "answer": "be disposed"}, {"prompt": "Yesterday we ___ (have to) stay late.", "answer": "had to"}]},
+      {"id": "r3", "type": "translate", "title": "Translate", "instruction": "Translate into English.", "instruction_pt": "Traduza para o inglês.",
+       "items": [{"prompt": "Cuidado para não queimar o alho.", "answer": "Be careful not to burn the garlic."}, {"prompt": "O projeto será lançado em maio.", "answer": "The project will be launched in May."}, {"prompt": "Então, se eu entendi bem, o prazo é sexta?", "answer": "So, if I understand correctly, the deadline is Friday?"}]},
+      {"id": "r4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+       "items": [{"prompt": "1", "answer": "Make sure you double-check the numbers."}, {"prompt": "2", "answer": "The old factory is being turned into a park."}, {"prompt": "3", "answer": "Let me put it another way."}]},
+      {"id": "r5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+       "items": [{"prompt": "Don't to touch the screen.", "answer": "Don't touch the screen."}, {"prompt": "Plastic can recycle.", "answer": "Plastic can be recycled."}, {"prompt": "Do I must sign this?", "answer": "Do I have to sign this?"}]}
+    ],
+    "speaking_pt": "Grave um vídeo de 3 minutos explicando um processo que você conhece bem (no trabalho, na cozinha, num hobby): passo a passo com imperativos, regras importantes (must/have to/mustn't), como o processo é feito (passiva) e encerre perguntando \"Does that make sense?\".",
+    "speaking_questions": ["How do you do something you're really good at?", "What are the most important rules in your job or school?", "What is being done in your city to protect the environment?", "What has been achieved in your life thanks to small, daily actions?", "How do you ask for clarification in a meeting?"],
+    "project_pt": "**Green action plan:** em grupo, criem um plano de ação ambiental para a escola, empresa ou bairro: o problema (com dados), o que já foi feito, o que será feito (passiva), as regras do projeto (must / have to / mustn't) e um tutorial passo a passo de uma ação simples. Apresentem em 4 minutos e respondam perguntas da turma usando a linguagem de esclarecimento."
+  }
+}

@@ -1,0 +1,2184 @@
+{
+  "id": "A1-M6",
+  "level": "A1",
+  "title": "Places and Past",
+  "theme_pt": "Casa, cidade, habilidades e primeiro contato com o passado",
+  "can_do": [
+    "Descrever minha casa ou apartamento",
+    "Pedir e dar direções simples na cidade",
+    "Dizer o que sei e o que não sei fazer",
+    "Contar o que fiz no fim de semana"
+  ],
+  "lessons": [
+    {
+      "id": "A1-M6-L1",
+      "title": "My home",
+      "subtitle_pt": "There is / There are",
+      "duration_min": 50,
+      "source_refs": [
+        "StartUp 1 – Unit 3 (apartment for rent), Unit 8 (there is/there are)",
+        "To Go A1 – Lesson 15 (live, open, close, clean)"
+      ],
+      "objectives": [
+        "Nomear cômodos e móveis",
+        "Usar there is e there are",
+        "Fazer perguntas com Is there...? / Are there...?",
+        "Descrever um imóvel para alugar"
+      ],
+      "warmup": {
+        "text_pt": "Se você fosse anunciar sua casa no Airbnb, qual seria o maior destaque dela?",
+        "questions": [
+          "Do you live in a house or an apartment?",
+          "What's your favorite room?"
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "living room",
+          "pt": "sala de estar",
+          "say": "lívin rúm"
+        },
+        {
+          "en": "bedroom",
+          "pt": "quarto",
+          "say": "bédrum"
+        },
+        {
+          "en": "bathroom",
+          "pt": "banheiro",
+          "say": "béθrum"
+        },
+        {
+          "en": "kitchen",
+          "pt": "cozinha",
+          "say": "kítchen"
+        },
+        {
+          "en": "balcony",
+          "pt": "varanda (de apartamento)",
+          "say": "bélkoni"
+        },
+        {
+          "en": "yard / backyard",
+          "pt": "quintal",
+          "say": "iárd / békiard"
+        },
+        {
+          "en": "couch / sofa",
+          "pt": "sofá",
+          "say": "káutch / sôufa"
+        },
+        {
+          "en": "bed / closet",
+          "pt": "cama / armário (embutido)",
+          "say": "béd / klózet"
+        },
+        {
+          "en": "fridge / stove",
+          "pt": "geladeira / fogão",
+          "say": "frídj / stôuv"
+        },
+        {
+          "en": "washing machine",
+          "pt": "máquina de lavar",
+          "say": "uóshin mashín"
+        },
+        {
+          "en": "air conditioning (AC)",
+          "pt": "ar-condicionado",
+          "say": "ér kondíshonin (êi sí)"
+        },
+        {
+          "en": "furnished",
+          "pt": "mobiliado",
+          "say": "fârnisht"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "There's a big kitchen.",
+          "pt": "Tem uma cozinha grande."
+        },
+        {
+          "en": "There are two bedrooms.",
+          "pt": "Tem dois quartos."
+        },
+        {
+          "en": "There isn't a balcony.",
+          "pt": "Não tem varanda."
+        },
+        {
+          "en": "Is there Wi-Fi?",
+          "pt": "Tem Wi-Fi?"
+        },
+        {
+          "en": "Are there any towels?",
+          "pt": "Tem toalhas?"
+        },
+        {
+          "en": "Pets are allowed.",
+          "pt": "Aceita animais."
+        }
+      ],
+      "grammar": {
+        "title": "There is / There are",
+        "explanation_pt": "Em português dizemos **\"tem\"** ou **\"há\"** para falar que algo existe em um lugar: \"Tem um sofá na sala\". Em inglês, **não** se usa have para isso! Use:\n\n- **There is (There's)** + singular: There's a sofa in the living room.\n- **There are** + plural: There are three bedrooms.\n\n**Negativa:** There **isn't** a / There **aren't any**\n**Pergunta:** **Is there** a...? / **Are there any**...?\n**Respostas curtas:** Yes, there is. / No, there aren't.\n\n**Any** aparece em negativas e perguntas no plural: \"Are there **any** towels?\" \"There aren't **any** chairs.\"",
+        "table": {
+          "headers": [
+            "",
+            "Singular",
+            "Plural"
+          ],
+          "rows": [
+            [
+              "Afirmativa",
+              "There's a pool.",
+              "There are two pools."
+            ],
+            [
+              "Negativa",
+              "There isn't a pool.",
+              "There aren't any pools."
+            ],
+            [
+              "Pergunta",
+              "Is there a pool?",
+              "Are there any pools?"
+            ],
+            [
+              "Resposta",
+              "Yes, there is. / No, there isn't.",
+              "Yes, there are. / No, there aren't."
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "There's a nice balcony with a view of the beach.",
+            "pt": "Tem uma varanda linda com vista para a praia."
+          },
+          {
+            "en": "There are two bathrooms, but there isn't a washing machine.",
+            "pt": "Tem dois banheiros, mas não tem máquina de lavar."
+          },
+          {
+            "en": "Is there a gym in the building? Yes, there is.",
+            "pt": "Tem academia no prédio? Tem, sim."
+          }
+        ],
+        "tip_pt": "Compare: \"**I have** a dog\" (eu tenho, posse) x \"**There's** a dog in the yard\" (tem/há um cachorro no quintal, existência)."
+      },
+      "common_mistakes": [
+        {
+          "wrong": "Have a pool in my building.",
+          "right": "There's a pool in my building.",
+          "why_pt": "Para existência, use there is/are, não have."
+        },
+        {
+          "wrong": "There is three bedrooms.",
+          "right": "There are three bedrooms.",
+          "why_pt": "Plural pede there are."
+        },
+        {
+          "wrong": "Is there any towels?",
+          "right": "Are there any towels?",
+          "why_pt": "Towels é plural: are there."
+        }
+      ],
+      "pronunciation": {
+        "focus": "There's e there are",
+        "tip_pt": "**There's** soa como \"dérz\" e **there are** como \"dérâr\" — rápido, quase uma palavra só. O TH é sonoro (língua entre os dentes, vibrando), como em **this** e **the**.",
+        "practice": [
+          "There's a kitchen.",
+          "There are two rooms.",
+          "Is there a balcony?"
+        ]
+      },
+      "dialogue": {
+        "title": "Booking an apartment",
+        "context_pt": "Paula conversa por chat com o anfitrião de um apartamento em Barcelona.",
+        "lines": [
+          {
+            "speaker": "Paula",
+            "en": "Hi! I'm interested in your apartment. How many bedrooms are there?",
+            "pt": "Oi! Tenho interesse no seu apartamento. Quantos quartos tem?"
+          },
+          {
+            "speaker": "Host",
+            "en": "Hi, Paula! There are two bedrooms and one bathroom.",
+            "pt": "Oi, Paula! São dois quartos e um banheiro."
+          },
+          {
+            "speaker": "Paula",
+            "en": "Great. Is there air conditioning? It's August!",
+            "pt": "Ótimo. Tem ar-condicionado? É agosto!"
+          },
+          {
+            "speaker": "Host",
+            "en": "Yes, there is. There's AC in the living room and in both bedrooms.",
+            "pt": "Tem, sim. Tem ar na sala e nos dois quartos."
+          },
+          {
+            "speaker": "Paula",
+            "en": "Perfect. Is there a washing machine?",
+            "pt": "Perfeito. Tem máquina de lavar?"
+          },
+          {
+            "speaker": "Host",
+            "en": "Yes. But there isn't a dryer, sorry. There's a small balcony for your clothes.",
+            "pt": "Sim. Mas não tem secadora, desculpe. Tem uma varandinha para as roupas."
+          },
+          {
+            "speaker": "Paula",
+            "en": "No problem. Are there any supermarkets near?",
+            "pt": "Sem problema. Tem supermercado perto?"
+          },
+          {
+            "speaker": "Host",
+            "en": "Yes, there are two on the same street!",
+            "pt": "Sim, tem dois na mesma rua!"
+          }
+        ]
+      },
+      "reading": {
+        "title": "For rent: cozy studio downtown",
+        "text": "🏙️ COZY STUDIO — DOWNTOWN — $1,200/month\nThis furnished studio is perfect for students or remote workers. There's a living area with a sofa bed, a small kitchen and a modern bathroom. There's a big window with lots of natural light. There isn't a balcony, but there's a rooftop terrace in the building. There are two subway stations near. Fast Wi-Fi included. Pets are allowed! 🐱",
+        "questions": [
+          {
+            "q": "How much is the rent?",
+            "answer": "$1,200 a month."
+          },
+          {
+            "q": "Is there a balcony?",
+            "answer": "No, there isn't. But there's a rooftop terrace in the building."
+          },
+          {
+            "q": "Are there any subway stations near?",
+            "answer": "Yes, there are two."
+          },
+          {
+            "q": "Is it good for people with a cat?",
+            "answer": "Yes, pets are allowed."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "fill_blank",
+          "title": "There is ou there are?",
+          "instruction_pt": "Complete com there's, there are, there isn't ou there aren't.",
+          "items": [
+            {
+              "prompt": "___ a sofa in the living room. (+)",
+              "answer": "There's"
+            },
+            {
+              "prompt": "___ three windows in my room. (+)",
+              "answer": "There are"
+            },
+            {
+              "prompt": "___ a dishwasher. (−)",
+              "answer": "There isn't"
+            },
+            {
+              "prompt": "___ any chairs in the kitchen. (−)",
+              "answer": "There aren't"
+            }
+          ],
+          "instruction": "Complete with there's, there are, there isn't or there aren't."
+        },
+        {
+          "id": "ex2",
+          "type": "answer",
+          "title": "Perguntas e respostas",
+          "instruction_pt": "Faça a pergunta e responda com resposta curta.",
+          "items": [
+            {
+              "prompt": "a gym / in the building (✔)",
+              "answer": "Is there a gym in the building? Yes, there is."
+            },
+            {
+              "prompt": "any towels / in the bathroom (✘)",
+              "answer": "Are there any towels in the bathroom? No, there aren't."
+            },
+            {
+              "prompt": "Wi-Fi / in the apartment (✔)",
+              "answer": "Is there Wi-Fi in the apartment? Yes, there is."
+            }
+          ],
+          "instruction": "Make the question and give a short answer."
+        },
+        {
+          "id": "ex3",
+          "type": "match",
+          "title": "Cômodos",
+          "instruction_pt": "Em que cômodo normalmente encontramos...?",
+          "items": [
+            {
+              "prompt": "a stove and a fridge",
+              "answer": "kitchen"
+            },
+            {
+              "prompt": "a bed and a closet",
+              "answer": "bedroom"
+            },
+            {
+              "prompt": "a shower and a sink",
+              "answer": "bathroom"
+            },
+            {
+              "prompt": "a couch and a TV",
+              "answer": "living room"
+            }
+          ],
+          "instruction": "In which room do we usually find...?"
+        },
+        {
+          "id": "ex4",
+          "type": "dictation",
+          "title": "Dictation",
+          "instruction": "Listen and write the sentence.",
+          "instruction_pt": "Ouça e escreva a frase.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "There's a big kitchen."
+            },
+            {
+              "prompt": "2",
+              "answer": "There are two bedrooms."
+            },
+            {
+              "prompt": "3",
+              "answer": "Is there Wi-Fi?"
+            },
+            {
+              "prompt": "4",
+              "answer": "There isn't a balcony."
+            }
+          ]
+        },
+        {
+          "id": "ex5",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the mistake.",
+          "instruction_pt": "Encontre e corrija o erro.",
+          "items": [
+            {
+              "prompt": "Have a pool in my building.",
+              "answer": "There's a pool in my building."
+            },
+            {
+              "prompt": "There is two bathrooms.",
+              "answer": "There are two bathrooms."
+            },
+            {
+              "prompt": "Is there any towels?",
+              "answer": "Are there any towels?"
+            },
+            {
+              "prompt": "There aren't a microwave.",
+              "answer": "There isn't a microwave."
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "fill_blank",
+          "title": "Complete the chat",
+          "instruction": "Complete with: Is there · there is · Are there · there aren't.",
+          "instruction_pt": "Complete o chat.",
+          "items": [
+            {
+              "prompt": "Guest: ___ a parking space?",
+              "answer": "Is there"
+            },
+            {
+              "prompt": "Host: Yes, ___. It's in the garage.",
+              "answer": "there is"
+            },
+            {
+              "prompt": "Guest: ___ any restaurants near?",
+              "answer": "Are there"
+            },
+            {
+              "prompt": "Host: No, ___, but there's a supermarket.",
+              "answer": "there aren't"
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction_pt": "Descreva sua casa para um colega, cômodo por cômodo. Ele deve desenhar a planta enquanto você fala!",
+        "questions": [
+          "How many rooms are there in your home?",
+          "Is there a balcony or a yard?",
+          "What's there in your bedroom?",
+          "Is there anything you want to change?",
+          "Describe your dream house."
+        ],
+        "instruction": "Describe your home to a partner, room by room. Your partner draws the floor plan while you speak!"
+      },
+      "writing": {
+        "task_pt": "Escreva um anúncio de aluguel para a sua casa (ou casa dos sonhos) como o da leitura.",
+        "model": "🌴 BEACH HOUSE — FLORIANÓPOLIS — R$ 450/night\nThere are three bedrooms and two bathrooms.\nThere's a big kitchen and a yard with a barbecue.\nThere isn't a pool, but the beach is 5 minutes away!",
+        "task": "Write a rental ad for your home (or dream home), like the one in the reading."
+      },
+      "culture_note": {
+        "title": "Apartment ou flat? E o \"first floor\"",
+        "text_pt": "Nos EUA, apartamento é **apartment**; no Reino Unido, **flat**. E atenção aos andares: nos EUA, o térreo é o **first floor**. No Reino Unido, o térreo é o **ground floor** e o **first floor** é o primeiro andar (como no Brasil)."
+      },
+      "summary_pt": [
+        "There's + singular · There are + plural.",
+        "Is there...? / Are there any...?",
+        "Existência = there is/are (não have).",
+        "Any em negativas e perguntas no plural."
+      ],
+      "listening": {
+        "title": "Apartment tour",
+        "context_pt": "Um corretor mostra um apartamento para um casal.",
+        "lines": [
+          {
+            "speaker": "Agent",
+            "en": "Welcome! This is the living room. There's a big window and there's a new sofa."
+          },
+          {
+            "speaker": "Woman",
+            "en": "Nice! How many bedrooms are there?"
+          },
+          {
+            "speaker": "Agent",
+            "en": "There are two bedrooms and one bathroom."
+          },
+          {
+            "speaker": "Man",
+            "en": "Is there a balcony?"
+          },
+          {
+            "speaker": "Agent",
+            "en": "No, there isn't. But there's a gym and a pool in the building."
+          },
+          {
+            "speaker": "Woman",
+            "en": "Are there any closets in the bedrooms?"
+          },
+          {
+            "speaker": "Agent",
+            "en": "Yes, there are. And the kitchen has a new fridge and stove."
+          }
+        ],
+        "questions": [
+          {
+            "q": "What's in the living room?",
+            "answer": "A big window and a new sofa."
+          },
+          {
+            "q": "How many bedrooms are there?",
+            "answer": "Two."
+          },
+          {
+            "q": "Is there a balcony?",
+            "answer": "No, there isn't."
+          },
+          {
+            "q": "What's in the building?",
+            "answer": "A gym and a pool."
+          }
+        ]
+      }
+    },
+    {
+      "id": "A1-M6-L2",
+      "title": "Where's the pharmacy?",
+      "subtitle_pt": "Lugares, preposições de lugar e direções",
+      "duration_min": 55,
+      "source_refs": [
+        "StartUp 1 – Unit 4 (how to get there), Unit 8 (prepositions of place)",
+        "To Go A1 – Lesson 9 (where you go)"
+      ],
+      "objectives": [
+        "Nomear lugares da cidade",
+        "Usar preposições de lugar (next to, across from, between...)",
+        "Pedir e dar direções simples",
+        "Usar imperativos (go, turn, take)"
+      ],
+      "warmup": {
+        "text_pt": "Quando você está em uma cidade nova, usa o GPS ou pergunta para as pessoas? Já se perdeu em algum lugar?",
+        "questions": [
+          "What's near your home?",
+          "Do you use Google Maps every day?"
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "pharmacy / drugstore",
+          "pt": "farmácia",
+          "say": "fármasi / drâgstor"
+        },
+        {
+          "en": "bank / ATM",
+          "pt": "banco / caixa eletrônico",
+          "say": "bénk / êi tí ém"
+        },
+        {
+          "en": "supermarket / grocery store",
+          "pt": "supermercado / mercado",
+          "say": "súpermarket / grôuseri stór"
+        },
+        {
+          "en": "hospital",
+          "pt": "hospital",
+          "say": "róspital"
+        },
+        {
+          "en": "gas station",
+          "pt": "posto de gasolina",
+          "say": "gués stêishon"
+        },
+        {
+          "en": "mall",
+          "pt": "shopping center",
+          "say": "mól"
+        },
+        {
+          "en": "park / square",
+          "pt": "parque / praça",
+          "say": "párk / skuér"
+        },
+        {
+          "en": "bakery",
+          "pt": "padaria",
+          "say": "bêikeri"
+        },
+        {
+          "en": "corner / block",
+          "pt": "esquina / quarteirão",
+          "say": "kórner / blók"
+        },
+        {
+          "en": "traffic light",
+          "pt": "semáforo",
+          "say": "tréfik láit"
+        },
+        {
+          "en": "left / right",
+          "pt": "esquerda / direita",
+          "say": "léft / ráit"
+        },
+        {
+          "en": "straight ahead",
+          "pt": "em frente / reto",
+          "say": "strêit arréd"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "Excuse me, where's the nearest pharmacy?",
+          "pt": "Com licença, onde fica a farmácia mais próxima?"
+        },
+        {
+          "en": "Is there an ATM near here?",
+          "pt": "Tem um caixa eletrônico aqui perto?"
+        },
+        {
+          "en": "Go straight ahead.",
+          "pt": "Siga em frente."
+        },
+        {
+          "en": "Turn left at the traffic light.",
+          "pt": "Vire à esquerda no semáforo."
+        },
+        {
+          "en": "It's on the corner.",
+          "pt": "Fica na esquina."
+        },
+        {
+          "en": "You can't miss it.",
+          "pt": "Não tem como errar."
+        }
+      ],
+      "grammar": {
+        "title": "Prepositions of place + imperativos",
+        "explanation_pt": "**Preposições de lugar:**\n- **in** = dentro: in the mall\n- **on** = em cima / na rua: on the table, on Paulista Avenue\n- **at** = em um ponto/endereço: at the bus stop, at 25 Oak Street\n- **next to** = ao lado de\n- **across from / opposite** = em frente a (do outro lado)\n- **between** = entre\n- **behind / in front of** = atrás de / na frente de\n- **near** = perto de\n\n**Imperativo** para direções: use o verbo na forma base, sem sujeito: **Go** straight. **Turn** right. **Take** the second left. **Don't** cross the street.",
+        "table": {
+          "headers": [
+            "Direção",
+            "Português"
+          ],
+          "rows": [
+            [
+              "Go straight ahead / Go down this street.",
+              "Siga em frente / Desça esta rua."
+            ],
+            [
+              "Turn left / right.",
+              "Vire à esquerda / direita."
+            ],
+            [
+              "Take the first / second right.",
+              "Pegue a primeira / segunda à direita."
+            ],
+            [
+              "Cross the street.",
+              "Atravesse a rua."
+            ],
+            [
+              "It's on your left / right.",
+              "Fica à sua esquerda / direita."
+            ],
+            [
+              "Walk two blocks.",
+              "Ande dois quarteirões."
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "The bank is next to the bakery, across from the park.",
+            "pt": "O banco fica ao lado da padaria, em frente ao parque."
+          },
+          {
+            "en": "The ATM is in the mall, between the pharmacy and the café.",
+            "pt": "O caixa fica no shopping, entre a farmácia e o café."
+          },
+          {
+            "en": "Go straight for two blocks and turn right. It's on your left.",
+            "pt": "Siga reto dois quarteirões e vire à direita. Fica à sua esquerda."
+          }
+        ],
+        "tip_pt": "Para soar educado ao pedir direção, comece sempre com **Excuse me** e termine com **Thank you so much!**"
+      },
+      "common_mistakes": [
+        {
+          "wrong": "The bank is in front of the park. (do outro lado da rua)",
+          "right": "The bank is across from the park.",
+          "why_pt": "In front of é \"bem na frente\", do mesmo lado. Do outro lado da rua é across from."
+        },
+        {
+          "wrong": "Where is the more near pharmacy?",
+          "right": "Where's the nearest pharmacy?",
+          "why_pt": "\"Mais próximo\" = nearest."
+        },
+        {
+          "wrong": "You turn left. (dando instrução)",
+          "right": "Turn left.",
+          "why_pt": "Instruções usam o imperativo, sem sujeito."
+        }
+      ],
+      "pronunciation": {
+        "focus": "Right x light e left",
+        "tip_pt": "**Right** começa com o R inglês (língua curvada para trás, sem tocar o céu da boca): \"uráit\". **Light** começa com L claro. **Left**: termine com o T sem colocar \"i\" — \"léft\", não \"léfti\".",
+        "practice": [
+          "right · light · left",
+          "Turn right at the light.",
+          "It's on your left."
+        ]
+      },
+      "dialogue": {
+        "title": "Lost in the city",
+        "context_pt": "Diego está passeando em Chicago e precisa de uma farmácia.",
+        "lines": [
+          {
+            "speaker": "Diego",
+            "en": "Excuse me. Is there a pharmacy near here?",
+            "pt": "Com licença. Tem uma farmácia aqui perto?"
+          },
+          {
+            "speaker": "Woman",
+            "en": "Yes, there's one on Lake Street. It's about five minutes on foot.",
+            "pt": "Sim, tem uma na Lake Street. Uns cinco minutos a pé."
+          },
+          {
+            "speaker": "Diego",
+            "en": "How do I get there?",
+            "pt": "Como eu chego lá?"
+          },
+          {
+            "speaker": "Woman",
+            "en": "Go straight ahead for two blocks. Then turn left at the traffic light.",
+            "pt": "Siga reto por dois quarteirões. Depois vire à esquerda no semáforo."
+          },
+          {
+            "speaker": "Diego",
+            "en": "OK, straight for two blocks and left at the light.",
+            "pt": "OK, reto dois quarteirões e à esquerda no semáforo."
+          },
+          {
+            "speaker": "Woman",
+            "en": "Exactly. The pharmacy is on your right, next to a coffee shop. You can't miss it.",
+            "pt": "Isso. A farmácia fica à sua direita, ao lado de uma cafeteria. Não tem erro."
+          },
+          {
+            "speaker": "Diego",
+            "en": "Thank you so much!",
+            "pt": "Muito obrigado!"
+          },
+          {
+            "speaker": "Woman",
+            "en": "You're welcome. Have a nice day!",
+            "pt": "De nada. Tenha um bom dia!"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Welcome to the neighborhood",
+        "text": "Welcome to Vila Verde! Here's a quick guide for new residents. The supermarket is on Rua das Flores, next to the bank. There's a 24-hour pharmacy across from the main square. The bakery is between the school and the gas station — try the cheese bread! The bus stop is in front of the church. And the park is behind the hospital. It's great for running on Sunday mornings.",
+        "questions": [
+          {
+            "q": "Where is the supermarket?",
+            "answer": "On Rua das Flores, next to the bank."
+          },
+          {
+            "q": "Where is the pharmacy?",
+            "answer": "Across from the main square."
+          },
+          {
+            "q": "What's between the school and the gas station?",
+            "answer": "The bakery."
+          },
+          {
+            "q": "Where is the park?",
+            "answer": "Behind the hospital."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "multiple_choice",
+          "title": "Preposições",
+          "instruction_pt": "Escolha a preposição correta.",
+          "items": [
+            {
+              "prompt": "The ATM is ___ the mall. (dentro)",
+              "options": [
+                "in",
+                "on",
+                "at"
+              ],
+              "answer": "in"
+            },
+            {
+              "prompt": "I live ___ Oak Street.",
+              "options": [
+                "in",
+                "on",
+                "between"
+              ],
+              "answer": "on"
+            },
+            {
+              "prompt": "The café is ___ the bank and the bakery.",
+              "options": [
+                "next",
+                "between",
+                "across"
+              ],
+              "answer": "between"
+            },
+            {
+              "prompt": "Wait for me ___ the bus stop.",
+              "options": [
+                "at",
+                "on",
+                "between"
+              ],
+              "answer": "at"
+            },
+            {
+              "prompt": "The park is ___ the hospital. (do outro lado da rua)",
+              "options": [
+                "across from",
+                "in",
+                "on"
+              ],
+              "answer": "across from"
+            }
+          ],
+          "instruction": "Choose the correct preposition."
+        },
+        {
+          "id": "ex2",
+          "type": "order_words",
+          "title": "Direções",
+          "instruction_pt": "Organize as palavras.",
+          "items": [
+            {
+              "prompt": "left / turn / the / at / traffic light",
+              "answer": "Turn left at the traffic light."
+            },
+            {
+              "prompt": "straight / go / ahead",
+              "answer": "Go straight ahead."
+            },
+            {
+              "prompt": "on / it's / right / your",
+              "answer": "It's on your right."
+            },
+            {
+              "prompt": "nearest / where's / the / ATM / ?",
+              "answer": "Where's the nearest ATM?"
+            }
+          ],
+          "instruction": "Put the words in order."
+        },
+        {
+          "id": "ex3",
+          "type": "translate",
+          "title": "Traduza",
+          "instruction_pt": "Traduza para o inglês.",
+          "items": [
+            {
+              "prompt": "Com licença, tem um banco aqui perto?",
+              "answer": "Excuse me, is there a bank near here?"
+            },
+            {
+              "prompt": "Ande dois quarteirões e vire à direita.",
+              "answer": "Walk two blocks and turn right."
+            },
+            {
+              "prompt": "Fica ao lado do supermercado.",
+              "answer": "It's next to the supermarket."
+            }
+          ],
+          "instruction": "Translate into English."
+        },
+        {
+          "id": "ex4",
+          "type": "dictation",
+          "title": "Dictation",
+          "instruction": "Listen and write the sentence.",
+          "instruction_pt": "Ouça e escreva a frase.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "Excuse me, where's the nearest ATM?"
+            },
+            {
+              "prompt": "2",
+              "answer": "Turn left at the traffic light."
+            },
+            {
+              "prompt": "3",
+              "answer": "It's next to the bakery."
+            },
+            {
+              "prompt": "4",
+              "answer": "Walk two blocks."
+            }
+          ]
+        },
+        {
+          "id": "ex5",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the mistake.",
+          "instruction_pt": "Encontre e corrija o erro.",
+          "items": [
+            {
+              "prompt": "Where's the more near bank?",
+              "answer": "Where's the nearest bank?"
+            },
+            {
+              "prompt": "You turn right. (giving directions)",
+              "answer": "Turn right."
+            },
+            {
+              "prompt": "The café is between of the bank and the school.",
+              "answer": "The café is between the bank and the school."
+            },
+            {
+              "prompt": "I live in Oak Street.",
+              "answer": "I live on Oak Street."
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "fill_blank",
+          "title": "Complete the dialogue",
+          "instruction": "Complete with: Excuse · straight · turn · on · miss.",
+          "instruction_pt": "Complete o diálogo.",
+          "items": [
+            {
+              "prompt": "A: ___ me, is there a bakery near here?",
+              "answer": "Excuse"
+            },
+            {
+              "prompt": "B: Yes. Go ___ ahead and ___ left at the corner.",
+              "answer": "straight / turn"
+            },
+            {
+              "prompt": "B: It's ___ your right.",
+              "answer": "on"
+            },
+            {
+              "prompt": "B: You can't ___ it!",
+              "answer": "miss"
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction_pt": "Use o mapa do seu bairro (Google Maps). Explique ao colega como ir da sua casa até 2 lugares.",
+        "questions": [
+          "What's near your home?",
+          "Where's the nearest supermarket?",
+          "How do I get from your home to the nearest bakery?",
+          "Is there a park in your neighborhood? Where is it?",
+          "What's your favorite place in your city?"
+        ],
+        "instruction": "Use a map of your neighborhood (Google Maps). Explain to your partner how to go from your home to 2 places."
+      },
+      "writing": {
+        "task_pt": "Escreva um mini-guia do seu bairro para um novo vizinho estrangeiro (5 a 6 frases), como o da leitura.",
+        "model": "Welcome to Boa Vista! The best bakery is on the corner of my street.\nThere's a pharmacy next to the bank.\nThe subway station is across from the mall.\nThere's a big park behind the school — it's great on weekends!",
+        "task": "Write a mini-guide to your neighborhood for a new foreign neighbor (5 to 6 sentences), like the one in the reading."
+      },
+      "culture_note": {
+        "title": "Quarteirões e endereços",
+        "text_pt": "Em cidades como Nova York e Chicago, as ruas formam uma grade (grid), então as direções usam muito **blocks** (quarteirões): \"It's three blocks from here.\" Nos endereços em inglês, o **número vem antes da rua**: **350 Fifth Avenue**."
+      },
+      "summary_pt": [
+        "next to, across from, between, behind, in front of, near.",
+        "in (dentro) · on (rua/superfície) · at (ponto/endereço).",
+        "Imperativo: Go, Turn, Take, Walk, Cross.",
+        "Excuse me... / Thank you so much!"
+      ],
+      "listening": {
+        "title": "GPS directions",
+        "context_pt": "Instruções de voz de um app de mapas.",
+        "lines": [
+          {
+            "speaker": "GPS",
+            "en": "Go straight ahead for two hundred meters. At the traffic light, turn right. Take the second left. Walk one block. Your destination, Green Park Pharmacy, is on your left, next to the bank, across from the bus stop."
+          }
+        ],
+        "questions": [
+          {
+            "q": "What do you do at the traffic light?",
+            "answer": "Turn right."
+          },
+          {
+            "q": "Which street do you take after that?",
+            "answer": "The second left."
+          },
+          {
+            "q": "Is the pharmacy on the left or on the right?",
+            "answer": "On the left."
+          },
+          {
+            "q": "What's next to the pharmacy?",
+            "answer": "The bank."
+          }
+        ]
+      }
+    },
+    {
+      "id": "A1-M6-L3",
+      "title": "I can cook",
+      "subtitle_pt": "Can e can't para habilidades",
+      "duration_min": 50,
+      "source_refs": [
+        "SAM-B3 – Lesson 1 (can questions)",
+        "StartUp 1 – Unit 7 (can)"
+      ],
+      "objectives": [
+        "Dizer o que você sabe e não sabe fazer",
+        "Perguntar sobre habilidades com Can you...?",
+        "Usar well, very well, a little",
+        "Falar de habilidades em um contexto de trabalho"
+      ],
+      "warmup": {
+        "text_pt": "Qual é o seu talento escondido? Sabe tocar algum instrumento, cozinhar um prato especial, falar outra língua?",
+        "questions": [
+          "What can you do well?",
+          "What do you want to learn?"
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "swim",
+          "pt": "nadar",
+          "say": "suím"
+        },
+        {
+          "en": "drive",
+          "pt": "dirigir",
+          "say": "dráiv"
+        },
+        {
+          "en": "cook",
+          "pt": "cozinhar",
+          "say": "kúk"
+        },
+        {
+          "en": "sing / dance",
+          "pt": "cantar / dançar",
+          "say": "sing / déns"
+        },
+        {
+          "en": "play the guitar / piano",
+          "pt": "tocar violão / piano",
+          "say": "plêi dâ guitár / piénou"
+        },
+        {
+          "en": "speak Spanish",
+          "pt": "falar espanhol",
+          "say": "spík spénish"
+        },
+        {
+          "en": "ride a bike",
+          "pt": "andar de bicicleta",
+          "say": "ráid a báik"
+        },
+        {
+          "en": "draw",
+          "pt": "desenhar",
+          "say": "dró"
+        },
+        {
+          "en": "code / program",
+          "pt": "programar",
+          "say": "kôud / prôugram"
+        },
+        {
+          "en": "edit videos",
+          "pt": "editar vídeos",
+          "say": "édit vídiouz"
+        },
+        {
+          "en": "skill",
+          "pt": "habilidade",
+          "say": "skil"
+        },
+        {
+          "en": "well / very well / a little / at all",
+          "pt": "bem / muito bem / um pouco / nada",
+          "say": "uél / véri uél / a lítol / ét ól"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "I can swim.",
+          "pt": "Eu sei nadar."
+        },
+        {
+          "en": "I can't drive.",
+          "pt": "Eu não sei dirigir."
+        },
+        {
+          "en": "Can you cook?",
+          "pt": "Você sabe cozinhar?"
+        },
+        {
+          "en": "Yes, I can. / No, I can't.",
+          "pt": "Sim, sei. / Não, não sei."
+        },
+        {
+          "en": "I can speak Spanish a little.",
+          "pt": "Falo um pouco de espanhol."
+        },
+        {
+          "en": "I can't sing at all!",
+          "pt": "Não sei cantar nada!"
+        }
+      ],
+      "grammar": {
+        "title": "Can / can't (habilidade)",
+        "explanation_pt": "**Can** expressa **habilidade** (saber/conseguir fazer). É um **modal verb**, e modais são simples:\n\n1. **Igual para todas as pessoas** — sem -s: I can, **she can** (nunca \"she cans\")\n2. **Seguido do verbo na forma base**, sem to: I can **swim** (nunca \"I can to swim\")\n3. **Não usa do/does** — na pergunta, inverta: **Can you** swim?\n4. Negativa: **can't** (cannot)\n\nPara dizer **o quanto**: I can cook **very well** / **well** / **a little**. I can't cook **at all**.",
+        "table": {
+          "headers": [
+            "Afirmativa",
+            "Negativa",
+            "Pergunta",
+            "Resposta curta"
+          ],
+          "rows": [
+            [
+              "I can drive.",
+              "I can't drive.",
+              "Can you drive?",
+              "Yes, I can. / No, I can't."
+            ],
+            [
+              "She can code.",
+              "She can't code.",
+              "Can she code?",
+              "Yes, she can. / No, she can't."
+            ],
+            [
+              "They can dance.",
+              "They can't dance.",
+              "Can they dance?",
+              "Yes, they can. / No, they can't."
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "My son can swim, but he can't ride a bike yet.",
+            "pt": "Meu filho sabe nadar, mas ainda não sabe andar de bicicleta."
+          },
+          {
+            "en": "Can you edit videos? Yes, I can. I use CapCut.",
+            "pt": "Você sabe editar vídeos? Sei. Uso o CapCut."
+          },
+          {
+            "en": "I can speak English a little, and I can understand a lot!",
+            "pt": "Falo um pouco de inglês, e entendo bastante!"
+          }
+        ],
+        "tip_pt": "**Can** também serve para pedidos (que você já viu: \"Can I have a coffee?\") e permissão (\"Can I sit here?\"). Habilidade, pedido e permissão: um verbo, três usos!"
+      },
+      "common_mistakes": [
+        {
+          "wrong": "I can to swim.",
+          "right": "I can swim.",
+          "why_pt": "Depois de can, o verbo vem direto, sem to."
+        },
+        {
+          "wrong": "She cans drive.",
+          "right": "She can drive.",
+          "why_pt": "Modais não levam -s."
+        },
+        {
+          "wrong": "Do you can cook?",
+          "right": "Can you cook?",
+          "why_pt": "Can não usa do na pergunta."
+        }
+      ],
+      "pronunciation": {
+        "focus": "Can x can't",
+        "tip_pt": "No inglês americano, a diferença quase some! O truque: **can** na afirmativa é fraco e rápido (\"kân\": I kân swim), enquanto **can't** é forte e com vogal aberta (\"KÉNT\": I KÉNT swim). Preste atenção à força, não ao T. No britânico, can't = \"kánt\".",
+        "practice": [
+          "I can swim (fraco: \"kân\")",
+          "I CAN'T swim (forte: \"KÉNT\")",
+          "Yes, I CAN. (na resposta curta, can é forte)"
+        ]
+      },
+      "dialogue": {
+        "title": "Job interview",
+        "context_pt": "Mateus faz uma entrevista para trabalhar em um hotel no Canadá durante a temporada de inverno.",
+        "lines": [
+          {
+            "speaker": "Manager",
+            "en": "So, Mateus, can you speak other languages?",
+            "pt": "Então, Mateus, você fala outros idiomas?"
+          },
+          {
+            "speaker": "Mateus",
+            "en": "Yes, I can. I speak Portuguese, English, and I can speak Spanish a little.",
+            "pt": "Sim. Falo português, inglês, e falo um pouco de espanhol."
+          },
+          {
+            "speaker": "Manager",
+            "en": "Great. Can you drive?",
+            "pt": "Ótimo. Você sabe dirigir?"
+          },
+          {
+            "speaker": "Mateus",
+            "en": "Yes, I can, but I can't drive in the snow. I'm from Brazil!",
+            "pt": "Sei, mas não sei dirigir na neve. Sou do Brasil!"
+          },
+          {
+            "speaker": "Manager",
+            "en": "Ha! No problem. Can you ski?",
+            "pt": "Ha! Sem problema. Você sabe esquiar?"
+          },
+          {
+            "speaker": "Mateus",
+            "en": "No, I can't. Not at all! But I can learn fast.",
+            "pt": "Não. Nada! Mas eu aprendo rápido."
+          },
+          {
+            "speaker": "Manager",
+            "en": "What else can you do?",
+            "pt": "O que mais você sabe fazer?"
+          },
+          {
+            "speaker": "Mateus",
+            "en": "I can cook very well, and I can take great photos for social media.",
+            "pt": "Cozinho muito bem e tiro ótimas fotos para redes sociais."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Skills for the future",
+        "text": "What skills do you need for the jobs of the future? According to the World Economic Forum, people need \"hard skills\", like analyzing data and using AI tools, and \"soft skills\", like creative thinking, resilience and working in a team. The good news? You can learn many of these skills online. Can you use AI tools? Can you work in a team? Can you learn new things fast? These skills can change your career!",
+        "questions": [
+          {
+            "q": "Give an example of a hard skill.",
+            "answer": "Analyzing data / using AI tools."
+          },
+          {
+            "q": "Give an example of a soft skill.",
+            "answer": "Creative thinking / resilience / working in a team."
+          },
+          {
+            "q": "Where can you learn many of these skills?",
+            "answer": "Online."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "fill_blank",
+          "title": "can ou can't?",
+          "instruction_pt": "Complete com can ou can't de acordo com o sentido.",
+          "items": [
+            {
+              "prompt": "Fish ___ swim.",
+              "answer": "can"
+            },
+            {
+              "prompt": "Babies ___ drive.",
+              "answer": "can't"
+            },
+            {
+              "prompt": "Birds ___ fly.",
+              "answer": "can"
+            },
+            {
+              "prompt": "Cats ___ speak English.",
+              "answer": "can't"
+            }
+          ],
+          "instruction": "Complete with can or can't."
+        },
+        {
+          "id": "ex2",
+          "type": "multiple_choice",
+          "title": "Encontre a correta",
+          "instruction_pt": "Escolha a frase correta.",
+          "items": [
+            {
+              "prompt": "Escolha:",
+              "options": [
+                "She can sings.",
+                "She can sing.",
+                "She cans sing."
+              ],
+              "answer": "She can sing."
+            },
+            {
+              "prompt": "Escolha:",
+              "options": [
+                "Can you play the piano?",
+                "Do you can play the piano?",
+                "You can play the piano?"
+              ],
+              "answer": "Can you play the piano?"
+            },
+            {
+              "prompt": "Escolha:",
+              "options": [
+                "I can to cook.",
+                "I can cooking.",
+                "I can cook."
+              ],
+              "answer": "I can cook."
+            }
+          ],
+          "instruction": "Choose the correct sentence."
+        },
+        {
+          "id": "ex3",
+          "type": "translate",
+          "title": "Traduza",
+          "instruction_pt": "Traduza para o inglês.",
+          "items": [
+            {
+              "prompt": "Você sabe dirigir? Não, não sei.",
+              "answer": "Can you drive? No, I can't."
+            },
+            {
+              "prompt": "Ela fala francês muito bem.",
+              "answer": "She can speak French very well. / She speaks French very well."
+            },
+            {
+              "prompt": "Eu não sei dançar nada.",
+              "answer": "I can't dance at all."
+            }
+          ],
+          "instruction": "Translate into English."
+        },
+        {
+          "id": "ex4",
+          "type": "dictation",
+          "title": "Dictation: can or can't?",
+          "instruction": "Listen and write the sentence. Pay attention: can or can't?",
+          "instruction_pt": "Ouça e escreva. Atenção: can ou can't?",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "I can swim."
+            },
+            {
+              "prompt": "2",
+              "answer": "I can't drive."
+            },
+            {
+              "prompt": "3",
+              "answer": "Can you cook?"
+            },
+            {
+              "prompt": "4",
+              "answer": "She can't sing at all."
+            }
+          ]
+        },
+        {
+          "id": "ex5",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the mistake.",
+          "instruction_pt": "Encontre e corrija o erro.",
+          "items": [
+            {
+              "prompt": "I can to play the piano.",
+              "answer": "I can play the piano."
+            },
+            {
+              "prompt": "He cans speak French.",
+              "answer": "He can speak French."
+            },
+            {
+              "prompt": "Do you can swim?",
+              "answer": "Can you swim?"
+            },
+            {
+              "prompt": "She can cooks very well.",
+              "answer": "She can cook very well."
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "fill_blank",
+          "title": "Complete the interview",
+          "instruction": "Complete with: can · can't · well · at all.",
+          "instruction_pt": "Complete a entrevista.",
+          "items": [
+            {
+              "prompt": "A: ___ you use Excel? — B: Yes, I can.",
+              "answer": "Can"
+            },
+            {
+              "prompt": "A: How ___? — B: Very well!",
+              "answer": "well"
+            },
+            {
+              "prompt": "A: Can you speak German? — B: No, I ___.",
+              "answer": "can't"
+            },
+            {
+              "prompt": "B: I can't speak German ___. But I can learn!",
+              "answer": "at all"
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction_pt": "Jogo \"Find someone who...\": descubra quem da turma (ou da família) sabe fazer cada coisa. Faça follow-up: \"How well?\"",
+        "questions": [
+          "Can you swim? How well?",
+          "Can you play an instrument?",
+          "Can you cook a typical Brazilian dish?",
+          "What can't you do, but want to learn?",
+          "What skills can you use at work?"
+        ],
+        "instruction": "Play \"Find someone who...\": find out who in the class (or family) can do each thing. Follow up: \"How well?\""
+      },
+      "writing": {
+        "task_pt": "Escreva a seção \"Skills\" de um currículo ou perfil profissional em inglês (5 frases com can).",
+        "model": "SKILLS\nI can speak Portuguese (native), English (basic) and Spanish (intermediate).\nI can use Excel and Canva very well.\nI can edit short videos for social media.\nI can work in a team and I can learn new tools fast.",
+        "task": "Write the \"Skills\" section of a résumé or professional profile in English (5 sentences with can)."
+      },
+      "culture_note": {
+        "title": "Soft skills no currículo",
+        "text_pt": "Currículos em inglês (**résumé** nos EUA, **CV** no Reino Unido) não costumam ter foto, idade nem estado civil. O foco é em **skills** e **achievements** (conquistas). Soft skills mais valorizadas: **communication, teamwork, problem-solving, adaptability**."
+      },
+      "summary_pt": [
+        "can + verbo base (sem to, sem -s).",
+        "Pergunta: Can you...? (sem do).",
+        "well / very well / a little / not at all.",
+        "can (fraco) x CAN'T (forte)."
+      ],
+      "listening": {
+        "title": "Talent show auditions",
+        "context_pt": "Três candidatos se apresentam para um show de talentos online.",
+        "lines": [
+          {
+            "speaker": "Judge",
+            "en": "Hi! What can you do?"
+          },
+          {
+            "speaker": "Ana",
+            "en": "I can sing and play the guitar. I can't dance at all!"
+          },
+          {
+            "speaker": "Judge",
+            "en": "And you?"
+          },
+          {
+            "speaker": "Theo",
+            "en": "I can dance very well. And I can do magic tricks!"
+          },
+          {
+            "speaker": "Judge",
+            "en": "Great. And you, Lin?"
+          },
+          {
+            "speaker": "Lin",
+            "en": "I can draw people in one minute. I can draw you now!"
+          },
+          {
+            "speaker": "Judge",
+            "en": "Wow. Can you draw me with more hair, please?"
+          }
+        ],
+        "questions": [
+          {
+            "q": "What can Ana do?",
+            "answer": "She can sing and play the guitar."
+          },
+          {
+            "q": "Can Ana dance?",
+            "answer": "No, she can't (at all)."
+          },
+          {
+            "q": "What can Theo do?",
+            "answer": "He can dance very well and do magic tricks."
+          },
+          {
+            "q": "What can Lin do?",
+            "answer": "She can draw people in one minute."
+          }
+        ]
+      }
+    },
+    {
+      "id": "A1-M6-L4",
+      "title": "Last weekend",
+      "subtitle_pt": "Primeiro contato com o passado: was/were e verbos frequentes",
+      "duration_min": 55,
+      "source_refs": [
+        "To Go A1 – Lessons 19-26 (past: liked, went, did, saw...)",
+        "StartUp 1 – Unit 10 (How was your weekend?)"
+      ],
+      "objectives": [
+        "Usar was e were para falar do passado",
+        "Usar verbos regulares no passado (-ed)",
+        "Usar os irregulares mais comuns: went, had, did, saw, ate",
+        "Perguntar e responder How was your weekend?"
+      ],
+      "warmup": {
+        "text_pt": "Segunda-feira de manhã, no trabalho: a pergunta mais comum em inglês é \"How was your weekend?\". O que você responderia hoje?",
+        "questions": [
+          "How was your weekend?",
+          "What did you do yesterday?"
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "was / were",
+          "pt": "era, estava, foi (to be)",
+          "say": "uóz / uêr"
+        },
+        {
+          "en": "went (go)",
+          "pt": "fui, foi",
+          "say": "uént"
+        },
+        {
+          "en": "had (have)",
+          "pt": "tive, teve",
+          "say": "réd"
+        },
+        {
+          "en": "did (do)",
+          "pt": "fiz, fez",
+          "say": "díd"
+        },
+        {
+          "en": "saw (see)",
+          "pt": "vi, viu",
+          "say": "só"
+        },
+        {
+          "en": "ate (eat)",
+          "pt": "comi, comeu",
+          "say": "êit"
+        },
+        {
+          "en": "watched / played / stayed",
+          "pt": "assisti / joguei / fiquei",
+          "say": "uótcht / plêid / stêid"
+        },
+        {
+          "en": "visited / rested",
+          "pt": "visitei / descansei",
+          "say": "vízitid / réstid"
+        },
+        {
+          "en": "yesterday",
+          "pt": "ontem",
+          "say": "iésterdei"
+        },
+        {
+          "en": "last night / last weekend",
+          "pt": "ontem à noite / fim de semana passado",
+          "say": "lést náit / lést uíkend"
+        },
+        {
+          "en": "ago",
+          "pt": "atrás",
+          "say": "agôu"
+        },
+        {
+          "en": "amazing / boring / relaxing",
+          "pt": "incrível / chato / relaxante",
+          "say": "amêizin / bórin / rilékssin"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "How was your weekend?",
+          "pt": "Como foi seu fim de semana?"
+        },
+        {
+          "en": "It was great, thanks!",
+          "pt": "Foi ótimo, obrigado!"
+        },
+        {
+          "en": "Nothing special.",
+          "pt": "Nada de especial."
+        },
+        {
+          "en": "I stayed home and rested.",
+          "pt": "Fiquei em casa e descansei."
+        },
+        {
+          "en": "I went to the beach.",
+          "pt": "Fui à praia."
+        },
+        {
+          "en": "What did you do?",
+          "pt": "O que você fez?"
+        }
+      ],
+      "grammar": {
+        "title": "Simple past: introdução",
+        "explanation_pt": "**1. Was / were** — o passado de to be:\n- I / he / she / it → **was** · you / we / they → **were**\n- Negativa: wasn't / weren't · Pergunta: **Was** it good? **Were** you at home?\n\n**2. Verbos regulares** → **+ed**: watch → watch**ed**, play → play**ed**, visit → visit**ed**. Terminado em -e, só **+d**: like → like**d**, dance → dance**d**.\n\n**3. Irregulares** — precisam ser memorizados. Comece pelos mais usados: go → **went**, have → **had**, do → **did**, see → **saw**, eat → **ate**, get → **got**, buy → **bought**.\n\n**Boa notícia:** no passado, o verbo é **igual para todas as pessoas** (I went, she went, they went). Nada de -s!\n\n**Perguntas e negativas** usam **did / didn't** + verbo base: **Did** you **go**? I **didn't go**. (No Nível 2 você vai aprofundar.)",
+        "table": {
+          "headers": [
+            "Presente",
+            "Passado",
+            "Exemplo"
+          ],
+          "rows": [
+            [
+              "am / is",
+              "was",
+              "It was amazing!"
+            ],
+            [
+              "are",
+              "were",
+              "We were at the beach."
+            ],
+            [
+              "watch",
+              "watched",
+              "I watched a movie."
+            ],
+            [
+              "go",
+              "went",
+              "She went to a party."
+            ],
+            [
+              "have",
+              "had",
+              "We had lunch with my parents."
+            ],
+            [
+              "see",
+              "saw",
+              "I saw my friends."
+            ],
+            [
+              "eat",
+              "ate",
+              "They ate pizza."
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "How was your weekend? It was relaxing. I stayed home and watched a series.",
+            "pt": "Como foi seu fim de semana? Foi relaxante. Fiquei em casa e vi uma série."
+          },
+          {
+            "en": "Last Saturday we went to a concert. It was amazing!",
+            "pt": "Sábado passado fomos a um show. Foi incrível!"
+          },
+          {
+            "en": "Did you go out last night? No, I didn't. I was tired.",
+            "pt": "Você saiu ontem à noite? Não. Estava cansado."
+          }
+        ],
+        "tip_pt": "Expressões de passado vão geralmente no começo ou no fim da frase: **Yesterday**, I worked a lot. / I saw her **two days ago**."
+      },
+      "common_mistakes": [
+        {
+          "wrong": "I goed to the beach.",
+          "right": "I went to the beach.",
+          "why_pt": "Go é irregular: went."
+        },
+        {
+          "wrong": "Did you went to the party?",
+          "right": "Did you go to the party?",
+          "why_pt": "Depois de did, o verbo volta à forma base."
+        },
+        {
+          "wrong": "In the last weekend...",
+          "right": "Last weekend...",
+          "why_pt": "Com last, não se usa in the."
+        }
+      ],
+      "pronunciation": {
+        "focus": "Os três sons do -ed",
+        "tip_pt": "O -ed **quase nunca** é \"éd\"! Tem 3 sons: **/t/** depois de sons surdos (watched = \"uótcht\", worked = \"uórkt\") · **/d/** depois de sons sonoros (played = \"plêid\", stayed = \"stêid\") · **/id/** só depois de **t** ou **d** (visited = \"vízitid\", rested = \"réstid\") — só esse ganha sílaba extra.",
+        "practice": [
+          "/t/ watched · worked · liked",
+          "/d/ played · stayed · loved",
+          "/id/ visited · rested · wanted"
+        ]
+      },
+      "dialogue": {
+        "title": "Monday morning",
+        "context_pt": "Segunda-feira, dois colegas de trabalho conversam na copa do escritório.",
+        "lines": [
+          {
+            "speaker": "Ellen",
+            "en": "Morning, Caio! How was your weekend?",
+            "pt": "Bom dia, Caio! Como foi seu fim de semana?"
+          },
+          {
+            "speaker": "Caio",
+            "en": "It was amazing! I went to a music festival.",
+            "pt": "Foi incrível! Fui a um festival de música."
+          },
+          {
+            "speaker": "Ellen",
+            "en": "Wow! Who did you see?",
+            "pt": "Uau! Quem você viu?"
+          },
+          {
+            "speaker": "Caio",
+            "en": "I saw three bands. The last one was incredible. And you? What did you do?",
+            "pt": "Vi três bandas. A última foi incrível. E você? O que você fez?"
+          },
+          {
+            "speaker": "Ellen",
+            "en": "Nothing special. I stayed home on Saturday and watched a movie.",
+            "pt": "Nada de especial. Fiquei em casa no sábado e vi um filme."
+          },
+          {
+            "speaker": "Caio",
+            "en": "And on Sunday?",
+            "pt": "E no domingo?"
+          },
+          {
+            "speaker": "Ellen",
+            "en": "I had lunch with my parents. We ate my mom's lasagna. It was delicious!",
+            "pt": "Almocei com meus pais. Comemos a lasanha da minha mãe. Estava deliciosa!"
+          },
+          {
+            "speaker": "Caio",
+            "en": "Sounds perfect. I was so tired yesterday!",
+            "pt": "Parece perfeito. Eu estava tão cansado ontem!"
+          }
+        ]
+      },
+      "reading": {
+        "title": "My weekend in Rio — a travel post",
+        "text": "Last weekend was my first time in Rio de Janeiro! On Friday night, I arrived at my hostel in Copacabana. On Saturday morning, I went to Sugarloaf Mountain. The view was incredible. In the afternoon, I visited the Selarón Steps and took a lot of photos. At night, I had dinner in Lapa and danced samba — very badly! 😂 On Sunday, I stayed on the beach all day and drank coconut water. It was the perfect weekend.",
+        "questions": [
+          {
+            "q": "Where was the hostel?",
+            "answer": "In Copacabana."
+          },
+          {
+            "q": "Where did the writer go on Saturday morning?",
+            "answer": "To Sugarloaf Mountain."
+          },
+          {
+            "q": "What did the writer do in Lapa?",
+            "answer": "Had dinner and danced samba."
+          },
+          {
+            "q": "How was the weekend?",
+            "answer": "It was perfect."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "fill_blank",
+          "title": "was ou were?",
+          "instruction_pt": "Complete com was ou were.",
+          "items": [
+            {
+              "prompt": "The party ___ fun.",
+              "answer": "was"
+            },
+            {
+              "prompt": "We ___ at the mall yesterday.",
+              "answer": "were"
+            },
+            {
+              "prompt": "I ___ very tired last night.",
+              "answer": "was"
+            },
+            {
+              "prompt": "___ you at home on Sunday?",
+              "answer": "Were"
+            },
+            {
+              "prompt": "My parents ___ in Portugal last month.",
+              "answer": "were"
+            }
+          ],
+          "instruction": "Complete with was or were."
+        },
+        {
+          "id": "ex2",
+          "type": "answer",
+          "title": "Passado dos verbos",
+          "instruction_pt": "Escreva o passado.",
+          "items": [
+            {
+              "prompt": "watch",
+              "answer": "watched"
+            },
+            {
+              "prompt": "go",
+              "answer": "went"
+            },
+            {
+              "prompt": "have",
+              "answer": "had"
+            },
+            {
+              "prompt": "visit",
+              "answer": "visited"
+            },
+            {
+              "prompt": "eat",
+              "answer": "ate"
+            },
+            {
+              "prompt": "see",
+              "answer": "saw"
+            }
+          ],
+          "instruction": "Write the past form."
+        },
+        {
+          "id": "ex3",
+          "type": "translate",
+          "title": "Traduza",
+          "instruction_pt": "Traduza para o inglês.",
+          "items": [
+            {
+              "prompt": "Como foi seu fim de semana?",
+              "answer": "How was your weekend?"
+            },
+            {
+              "prompt": "Fui ao cinema no sábado.",
+              "answer": "I went to the movies on Saturday."
+            },
+            {
+              "prompt": "Fiquei em casa e descansei.",
+              "answer": "I stayed home and rested."
+            },
+            {
+              "prompt": "Foi chato.",
+              "answer": "It was boring."
+            }
+          ],
+          "instruction": "Translate into English."
+        },
+        {
+          "id": "ex4",
+          "type": "multiple_choice",
+          "title": "Escolha a correta",
+          "instruction_pt": "Escolha a opção correta.",
+          "items": [
+            {
+              "prompt": "___ you go out last night?",
+              "options": [
+                "Do",
+                "Did",
+                "Were"
+              ],
+              "answer": "Did"
+            },
+            {
+              "prompt": "She ___ to the gym yesterday.",
+              "options": [
+                "go",
+                "went",
+                "goes"
+              ],
+              "answer": "went"
+            },
+            {
+              "prompt": "I didn't ___ TV last night.",
+              "options": [
+                "watch",
+                "watched",
+                "watching"
+              ],
+              "answer": "watch"
+            }
+          ],
+          "instruction": "Choose the correct option."
+        },
+        {
+          "id": "ex5",
+          "type": "dictation",
+          "title": "Dictation",
+          "instruction": "Listen and write the sentence.",
+          "instruction_pt": "Ouça e escreva a frase.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "How was your weekend?"
+            },
+            {
+              "prompt": "2",
+              "answer": "It was amazing!"
+            },
+            {
+              "prompt": "3",
+              "answer": "I stayed home and watched a movie."
+            },
+            {
+              "prompt": "4",
+              "answer": "We went to the beach on Sunday."
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the mistake.",
+          "instruction_pt": "Encontre e corrija o erro.",
+          "items": [
+            {
+              "prompt": "I goed to a party.",
+              "answer": "I went to a party."
+            },
+            {
+              "prompt": "Did you saw the game?",
+              "answer": "Did you see the game?"
+            },
+            {
+              "prompt": "In the last weekend, I rested.",
+              "answer": "Last weekend, I rested."
+            },
+            {
+              "prompt": "We was at home.",
+              "answer": "We were at home."
+            }
+          ]
+        },
+        {
+          "id": "ex7",
+          "type": "fill_blank",
+          "title": "Complete the dialogue",
+          "instruction": "Complete with: was · were · went · did · had.",
+          "instruction_pt": "Complete o diálogo.",
+          "items": [
+            {
+              "prompt": "A: How ___ your weekend?",
+              "answer": "was"
+            },
+            {
+              "prompt": "B: Great! I ___ to a concert.",
+              "answer": "went"
+            },
+            {
+              "prompt": "A: Cool! Who ___ you go with?",
+              "answer": "did"
+            },
+            {
+              "prompt": "B: With my sister. We ___ dinner after. The tickets ___ expensive, but it was worth it!",
+              "answer": "had / were"
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction_pt": "Converse sobre o último fim de semana. Faça pelo menos 2 perguntas de continuação para seu colega.",
+        "questions": [
+          "How was your weekend?",
+          "What did you do on Saturday?",
+          "Where did you go?",
+          "What did you eat?",
+          "Was it relaxing or busy?"
+        ],
+        "instruction": "Talk about last weekend. Ask your partner at least 2 follow-up questions."
+      },
+      "writing": {
+        "task_pt": "Escreva um post (6 a 8 frases) sobre um fim de semana especial — real ou dos sonhos — como o da leitura.",
+        "model": "Last weekend was very special! On Saturday, I went to my best friend's wedding.\nThe party was amazing. I danced all night!\nOn Sunday, I stayed in bed until noon. 😴\nThen I had lunch with my family and watched a movie.\nIt was a perfect weekend.",
+        "task": "Write a post (6 to 8 sentences) about a special weekend — real or a dream weekend — like the one in the reading."
+      },
+      "culture_note": {
+        "title": "\"How was your weekend?\" — a pergunta da segunda-feira",
+        "text_pt": "No trabalho, em países de língua inglesa, essa pergunta é quase obrigatória na segunda-feira. A resposta ideal é curta e positiva, com um detalhe: **\"Good, thanks! I went hiking. How about yours?\"** Sempre devolva a pergunta: **How about you? / And yours?**"
+      },
+      "summary_pt": [
+        "was (I/he/she/it) · were (you/we/they).",
+        "Regulares: +ed (3 sons: /t/, /d/, /id/).",
+        "Irregulares: went, had, did, saw, ate.",
+        "Did + verbo base para perguntas."
+      ],
+      "listening": {
+        "title": "Monday morning voice note",
+        "context_pt": "Um amigo manda um áudio contando o fim de semana.",
+        "lines": [
+          {
+            "speaker": "Gui",
+            "en": "Hey, Lu! My weekend was crazy! On Friday night, I went to a karaoke bar with my coworkers. I sang three songs — very badly! On Saturday, I was so tired. I stayed in bed until noon. Then I had lunch with my parents and watched a soccer game. On Sunday, I visited my grandma and we ate her famous chocolate cake. How was your weekend?"
+          }
+        ],
+        "questions": [
+          {
+            "q": "Where did Gui go on Friday night?",
+            "answer": "To a karaoke bar (with his coworkers)."
+          },
+          {
+            "q": "How many songs did he sing?",
+            "answer": "Three."
+          },
+          {
+            "q": "What did he do on Saturday afternoon?",
+            "answer": "He had lunch with his parents and watched a soccer game."
+          },
+          {
+            "q": "Who did he visit on Sunday?",
+            "answer": "His grandma."
+          }
+        ]
+      }
+    }
+  ],
+  "review": {
+    "intro_pt": "Revisão final do Nível A1! Faça os exercícios e o projeto antes de seguir para o Nível A2.",
+    "exercises": [
+      {
+        "id": "r1",
+        "type": "multiple_choice",
+        "title": "Revisão do módulo",
+        "instruction_pt": "Escolha a opção correta.",
+        "items": [
+          {
+            "prompt": "___ two bathrooms in my apartment.",
+            "options": [
+              "There is",
+              "There are",
+              "Have"
+            ],
+            "answer": "There are"
+          },
+          {
+            "prompt": "The bank is ___ the pharmacy and the café.",
+            "options": [
+              "between",
+              "next",
+              "across"
+            ],
+            "answer": "between"
+          },
+          {
+            "prompt": "She ___ speak Japanese.",
+            "options": [
+              "can",
+              "cans",
+              "can to"
+            ],
+            "answer": "can"
+          },
+          {
+            "prompt": "We ___ at the beach last Sunday.",
+            "options": [
+              "was",
+              "were",
+              "are"
+            ],
+            "answer": "were"
+          },
+          {
+            "prompt": "I ___ to a great restaurant yesterday.",
+            "options": [
+              "go",
+              "goed",
+              "went"
+            ],
+            "answer": "went"
+          }
+        ],
+        "instruction": "Choose the correct option."
+      },
+      {
+        "id": "r2",
+        "type": "multiple_choice",
+        "title": "Revisão geral do A1",
+        "instruction_pt": "Questões de todo o nível A1.",
+        "items": [
+          {
+            "prompt": "I ___ 28 years old.",
+            "options": [
+              "have",
+              "am",
+              "is"
+            ],
+            "answer": "am"
+          },
+          {
+            "prompt": "This is ___ car. (do meu pai)",
+            "options": [
+              "my father's",
+              "my father",
+              "of my father"
+            ],
+            "answer": "my father's"
+          },
+          {
+            "prompt": "Can I ___ a latte, please?",
+            "options": [
+              "want",
+              "have",
+              "take to"
+            ],
+            "answer": "have"
+          },
+          {
+            "prompt": "I ___ check my phone in bed.",
+            "options": [
+              "always",
+              "am always",
+              "always am"
+            ],
+            "answer": "always"
+          },
+          {
+            "prompt": "___ your sister work on Saturdays?",
+            "options": [
+              "Do",
+              "Does",
+              "Is"
+            ],
+            "answer": "Does"
+          },
+          {
+            "prompt": "How ___ apps do you use?",
+            "options": [
+              "much",
+              "many"
+            ],
+            "answer": "many"
+          }
+        ],
+        "instruction": "Questions from the whole A1 level."
+      },
+      {
+        "id": "r3",
+        "type": "translate",
+        "title": "Traduza",
+        "instruction_pt": "Traduza para o inglês.",
+        "items": [
+          {
+            "prompt": "Tem uma farmácia aqui perto?",
+            "answer": "Is there a pharmacy near here?"
+          },
+          {
+            "prompt": "Vire à direita no semáforo.",
+            "answer": "Turn right at the traffic light."
+          },
+          {
+            "prompt": "Você sabe nadar? Sim, sei.",
+            "answer": "Can you swim? Yes, I can."
+          },
+          {
+            "prompt": "Ontem eu almocei com meus amigos.",
+            "answer": "Yesterday I had lunch with my friends."
+          }
+        ],
+        "instruction": "Translate into English."
+      },
+      {
+        "id": "r4",
+        "type": "dictation",
+        "title": "Dictation",
+        "instruction": "Listen and write the sentence.",
+        "instruction_pt": "Ouça e escreva a frase.",
+        "items": [
+          {
+            "prompt": "1",
+            "answer": "Is there a pharmacy near here?"
+          },
+          {
+            "prompt": "2",
+            "answer": "Can you play the guitar?"
+          },
+          {
+            "prompt": "3",
+            "answer": "Yesterday I had lunch with my friends."
+          }
+        ]
+      },
+      {
+        "id": "r5",
+        "type": "correct_error",
+        "title": "Fix the mistake",
+        "instruction": "Find and correct the mistake.",
+        "instruction_pt": "Encontre e corrija o erro.",
+        "items": [
+          {
+            "prompt": "There is three rooms.",
+            "answer": "There are three rooms."
+          },
+          {
+            "prompt": "I can to drive.",
+            "answer": "I can drive."
+          },
+          {
+            "prompt": "Last Saturday I go to the mall.",
+            "answer": "Last Saturday I went to the mall."
+          }
+        ]
+      }
+    ],
+    "speaking_pt": "Apresentação final do A1: fale por 2 minutos sobre você, sem ler. Use as perguntas como roteiro.",
+    "speaking_questions": [
+      "Who are you? (name, age, city, job)",
+      "Tell me about your family and your home.",
+      "What's your routine like? What do you like doing?",
+      "What can you do well?",
+      "What did you do last weekend?"
+    ],
+    "project_pt": "**Projeto final A1 — \"This is me\":** grave um vídeo de 2 a 3 minutos apresentando sua vida: quem você é, sua família, sua casa e bairro, sua rotina, o que você sabe fazer e o que fez no último fim de semana. Esse vídeo é o seu \"antes\" — no final do A2 você vai gravar de novo e comparar!"
+  }
+}

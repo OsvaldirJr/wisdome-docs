@@ -1,0 +1,540 @@
+{
+  "id": "C1-M4",
+  "level": "C1",
+  "title": "Arts and Expression",
+  "theme_pt": "Histórias, crítica, humor e o valor da arte",
+  "can_do": ["Escrever descrições vívidas com adjetivos compostos e verbos precisos", "Usar formação de palavras (prefixos e sufixos)", "Expressar atitude com comment adverbs", "Usar cleft sentences avançadas para focar e contrastar"],
+  "lessons": [
+    {
+      "id": "C1-M4-L1",
+      "title": "The power of stories",
+      "subtitle_pt": "Linguagem descritiva: adjetivos compostos, verbos expressivos e ordem dos adjetivos",
+      "duration_min": 80,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – C1 (descriptive language, compound adjectives)", "Cambridge C1 Advanced – Writing Part 2 (story / review)"],
+      "objectives": ["Formar e usar adjetivos compostos (heart-warming, long-awaited, sun-drenched)", "Trocar verbos genéricos por verbos expressivos (walk → stroll, stride, stagger)", "Respeitar a ordem natural dos adjetivos", "Escrever narrativas com \"show, don't tell\""],
+      "warmup": {
+        "text_pt": "\"Ela andou pela rua escura\" ou \"Ela **cambaleou** pela rua **mal iluminada**, **encharcada de chuva**\"? A diferença entre um texto B2 e um texto C1 muitas vezes está nas **palavras exatas**: verbos que mostram **como** algo acontece e adjetivos compostos que pintam uma imagem. Tema: **o poder das histórias**.",
+        "questions": ["What's the best story you've ever read or heard? What made it so powerful?", "Why do you think humans are so attracted to stories?"]
+      },
+      "vocabulary": [
+        {"en": "a plot / a twist", "pt": "um enredo / uma reviravolta", "say": "a plót / a tuíst"},
+        {"en": "a protagonist", "pt": "um protagonista", "say": "a protégonist"},
+        {"en": "gripping / page-turning", "pt": "envolvente / que não dá para largar", "say": "grípin / pêidj târnin"},
+        {"en": "heart-warming / heart-breaking", "pt": "comovente (positivo) / de partir o coração", "say": "hárt uórmin / hárt brêikin"},
+        {"en": "long-awaited", "pt": "muito aguardado", "say": "lóng auêitid"},
+        {"en": "sun-drenched / rain-soaked", "pt": "banhado de sol / encharcado de chuva", "say": "sân dréntcht / rêin sôukt"},
+        {"en": "to stroll / to stride / to stagger", "pt": "passear / andar a passos largos / cambalear", "say": "tu strôul / tu stráid / tu stéguer"},
+        {"en": "to whisper / to mutter / to yell", "pt": "sussurrar / resmungar / berrar", "say": "tu uísper / tu mâter / tu iél"},
+        {"en": "to glance / to stare / to glimpse", "pt": "dar uma olhada / encarar / vislumbrar", "say": "tu gléns / tu stér / tu glimps"},
+        {"en": "vivid / evocative", "pt": "vívido / evocativo", "say": "vívid / ivókativ"},
+        {"en": "to set the scene", "pt": "ambientar, criar o cenário", "say": "tu sét dâ sín"},
+        {"en": "show, don't tell", "pt": "mostre, não conte", "say": "shôu, dôunt tél"}
+      ],
+      "chunks": [
+        {"en": "It was a heart-warming story.", "pt": "Foi uma história comovente."},
+        {"en": "She strode into the room.", "pt": "Ela entrou na sala a passos largos."},
+        {"en": "He muttered something under his breath.", "pt": "Ele resmungou alguma coisa baixinho."},
+        {"en": "a sun-drenched beach", "pt": "uma praia banhada de sol"},
+        {"en": "a beautiful old wooden house", "pt": "uma linda casa antiga de madeira"},
+        {"en": "The plot has a brilliant twist.", "pt": "O enredo tem uma reviravolta brilhante."}
+      ],
+      "grammar": {
+        "title": "Descriptive language",
+        "explanation_pt": "**1. Adjetivos compostos** (duas palavras + hífen, antes do substantivo):\n- **adjetivo/advérbio + particípio:** well-known, long-awaited, badly-paid, newly-built, highly-respected\n- **substantivo + particípio:** sun-drenched, rain-soaked, home-made, hand-written, tear-stained\n- **adjetivo + substantivo-ed:** blue-eyed, broken-hearted, open-minded, short-tempered, bad-tempered\n- **substantivo/adjetivo + -ing:** heart-warming, record-breaking, mouth-watering, good-looking, never-ending\n- **número + substantivo (singular!):** a **ten-minute** walk, a **five-star** hotel, a **two-hour** film\n\n**2. Verbos expressivos** (mostram **como**):\n- **walk:** stroll (sem pressa), stride (confiante), stagger (cambaleando), tiptoe (na ponta dos pés), wander (sem rumo), limp (mancando)\n- **say:** whisper, mutter, mumble, yell, snap (irritado), sigh, stammer\n- **look:** glance, stare, gaze (com admiração), peer (com dificuldade), glimpse\n- **laugh:** giggle, chuckle, burst out laughing · **cry:** sob, weep\n\n**3. Ordem dos adjetivos** (nativos seguem intuitivamente):\n**opinião → tamanho → idade → forma → cor → origem → material → propósito + substantivo**\n\"a **lovely little old** **white** **Portuguese** **stone** cottage\"\nNa prática, use no máximo 2–3 adjetivos seguidos.\n\n**4. \"Show, don't tell\"** — em vez de **dizer** a emoção, **mostre** com ações e detalhes:\n- Tell: \"She was nervous.\"\n- Show: \"She **glanced** at the clock for the third time, **twisting** her ring around her finger.\"",
+        "table": {
+          "headers": ["Tipo", "Exemplos"],
+          "rows": [["adv + particípio", "well-known, long-awaited, highly-paid"], ["substantivo + particípio", "sun-drenched, home-made, rain-soaked"], ["adj + substantivo-ed", "blue-eyed, open-minded, kind-hearted"], ["... + -ing", "heart-breaking, mouth-watering, record-breaking"], ["número + substantivo", "a three-hour flight, a ten-year-old boy"], ["Ordem", "opinião-tamanho-idade-forma-cor-origem-material-propósito"]]
+        },
+        "examples": [
+          {"en": "The long-awaited sequel turned out to be a gripping, beautifully-written novel.", "pt": "A tão aguardada sequência acabou sendo um romance envolvente e lindamente escrito."},
+          {"en": "He staggered into the kitchen, rain-soaked and exhausted, and muttered an apology.", "pt": "Ele entrou cambaleando na cozinha, encharcado e exausto, e resmungou um pedido de desculpas."},
+          {"en": "We rented a charming little whitewashed fisherman's cottage near the beach.", "pt": "Alugamos uma charmosa casinha caiada de pescador perto da praia."}
+        ],
+        "tip_pt": "Erro clássico: \"a ten-**minutes** walk\". Em adjetivos compostos com número, o substantivo fica **no singular**: a ten-**minute** walk, a five-**year**-old girl, a two-**hour** meeting."
+      },
+      "common_mistakes": [
+        {"wrong": "It's a five-minutes walk from here.", "right": "It's a five-minute walk from here.", "why_pt": "Adjetivo composto com número: substantivo no singular."},
+        {"wrong": "a wooden old beautiful house", "right": "a beautiful old wooden house", "why_pt": "Ordem: opinião → idade → material."},
+        {"wrong": "She was very very sad and she cried a lot.", "right": "Her shoulders shook as she sobbed quietly into her hands.", "why_pt": "Show, don't tell: verbos precisos em vez de intensificadores repetidos."}
+      ],
+      "pronunciation": {
+        "focus": "Acento em adjetivos compostos",
+        "tip_pt": "Em geral, adjetivos compostos têm acento **nas duas partes**, com o mais forte na **segunda**: well-**KNOWN**, long-a**WAI**ted, home-**MADE**. Mas antes de um substantivo, o acento pode mudar para a primeira parte: a **WELL**-known **AC**tor.",
+        "practice": ["She's well-KNOWN.", "a WELL-known ACtor", "It's home-MADE. / HOME-made BREAD"]
+      },
+      "dialogue": {
+        "title": "Writing workshop",
+        "context_pt": "Uma professora de escrita criativa dá feedback a um aluno sobre o início de um conto.",
+        "lines": [
+          {"speaker": "Teacher", "en": "Read me your first line again, Caio.", "pt": "Leia de novo sua primeira frase, Caio."},
+          {"speaker": "Caio", "en": "\"The man walked into the bar. He was sad because his wife had left him.\"", "pt": "\"O homem entrou no bar. Ele estava triste porque a esposa o tinha deixado.\""},
+          {"speaker": "Teacher", "en": "OK. The information's there, but it's telling, not showing. How did he walk in?", "pt": "OK. A informação está lá, mas você está contando, não mostrando. Como ele entrou?"},
+          {"speaker": "Caio", "en": "Slowly, I suppose. Tired.", "pt": "Devagar, acho. Cansado."},
+          {"speaker": "Teacher", "en": "So find a verb that does that work. Did he stagger? Trudge? Drag himself?", "pt": "Então encontre um verbo que faça esse trabalho. Ele cambaleou? Se arrastou?"},
+          {"speaker": "Caio", "en": "\"The man trudged into the half-empty bar and slumped onto a stool.\"", "pt": "\"O homem entrou arrastando os pés no bar meio vazio e desabou num banquinho.\""},
+          {"speaker": "Teacher", "en": "Much better! Now, instead of saying he's sad, show me a detail.", "pt": "Muito melhor! Agora, em vez de dizer que ele está triste, me mostre um detalhe."},
+          {"speaker": "Caio", "en": "\"He turned his wedding ring round and round, staring at the empty seat beside him.\"", "pt": "\"Ele girava a aliança sem parar, olhando fixamente para o lugar vazio ao lado.\""},
+          {"speaker": "Teacher", "en": "Now that's a story I want to keep reading. You don't need to tell me his wife left — I can feel it.", "pt": "Agora sim, essa é uma história que eu quero continuar lendo. Você não precisa me dizer que a esposa foi embora — eu sinto."}
+        ]
+      },
+      "listening": {
+        "title": "Why our brains love stories",
+        "context_pt": "Um neurocientista explica, num podcast, como o cérebro reage a histórias.",
+        "lines": [
+          {"speaker": "Speaker", "en": "Why do stories grip us so powerfully? Part of the answer may lie in the brain. When we read a list of facts, the areas involved in processing language become active. But a number of studies have suggested that vivid descriptions can engage other areas too. In one experiment, words with strong smell associations, like \"coffee\" or \"perfume\", appeared to activate regions linked to the sense of smell. Metaphors involving texture — \"a rough day\", \"a velvety voice\" — seemed to engage areas related to touch. Researchers are cautious about these findings, and brain-imaging studies are notoriously difficult to interpret. But they're consistent with something writers have always known: a well-told story isn't just understood, it's experienced. That's also why stories are remembered so much better than statistics. Tell people that thousands of children are hungry, and they nod. Tell them about one child — her name, her face, what she had for breakfast — and they act."}
+        ],
+        "questions": [
+          {"q": "What happens in the brain when we read a list of facts?", "answer": "The language-processing areas become active."},
+          {"q": "What did words like \"coffee\" appear to activate?", "answer": "Regions linked to the sense of smell."},
+          {"q": "Why are researchers cautious?", "answer": "Brain-imaging studies are notoriously difficult to interpret."},
+          {"q": "Why are stories more effective than statistics?", "answer": "People connect with an individual story and act; statistics just make them nod."}
+        ]
+      },
+      "video": {
+        "title": "The clues to a great story",
+        "speaker": "Andrew Stanton",
+        "url": "https://www.ted.com/search?q=andrew+stanton+the+clues+to+a+great+story",
+        "task_pt": "Assista à palestra (cerca de 19 minutos) do roteirista de filmes de animação. Responda:",
+        "questions": ["What does the speaker say every great story must make the audience do?", "Which of his \"clues\" do you think is most useful for writing in general?", "Think of a film you love. Which of his principles does it follow?", "Write the first two sentences of a story that makes the audience want to know more."]
+      },
+      "reading": {
+        "title": "Six words",
+        "text": "\"For sale: baby shoes, never worn.\" These six words are often described as the shortest story ever written, and they are frequently attributed to Ernest Hemingway, who is said to have written them to win a bet. There is, however, no reliable evidence that he did; similar newspaper adverts had appeared years before. Whoever wrote it, the story is a perfect illustration of a principle at the heart of good writing: what is left out can be as powerful as what is put in. The reader is never told what happened. There is no description of grief, no explanation, no ending. And yet most readers feel a sudden, heart-breaking weight. The story works precisely because the reader's imagination does the work. Hemingway himself described a similar idea, sometimes called the \"iceberg theory\": a writer who knows his subject well can omit much of it, and the reader will still sense what lies beneath the surface. Many writing teachers express the same idea with the phrase \"show, don't tell\". Rather than stating that a character is lonely, a writer might describe him setting the table for two out of habit, then slowly putting one plate away. Rather than declaring that a city is poor, she might describe children playing football with a ball made of plastic bags. Of course, the rule can be overused. Sometimes the clearest, most efficient choice is simply to tell. But the six-word story reminds us of something worth remembering in any kind of writing, from novels to emails: readers are not passive recipients of information. Given the right details, they will build the world themselves.",
+        "questions": [
+          {"q": "Is there evidence that Hemingway wrote the six-word story?", "answer": "No reliable evidence; similar adverts had appeared before."},
+          {"q": "Why does the story work?", "answer": "The reader's imagination does the work; what is left out is powerful."},
+          {"q": "What is the \"iceberg theory\"?", "answer": "A writer can omit much of what they know, and the reader will sense what lies beneath."},
+          {"q": "Give one example of \"showing\" from the text.", "answer": "A man setting the table for two, then putting one plate away / children playing with a ball of plastic bags."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "fill_blank", "title": "Compound adjectives", "instruction": "Complete with a compound adjective formed from the words in brackets.", "instruction_pt": "Complete com um adjetivo composto formado pelas palavras entre parênteses.",
+         "items": [{"prompt": "We stayed at a (five / star) ___ hotel.", "answer": "five-star"}, {"prompt": "The (long / await) ___ film finally comes out next week.", "answer": "long-awaited"}, {"prompt": "My grandmother is very (open / mind) ___ for her age.", "answer": "open-minded"}, {"prompt": "The smell of (home / make) ___ bread was (mouth / water) ___.", "answer": "home-made / mouth-watering"}]},
+        {"id": "ex2", "type": "multiple_choice", "title": "Choose the precise verb", "instruction": "Choose the most precise verb.", "instruction_pt": "Escolha o verbo mais preciso.",
+         "items": [{"prompt": "The baby was asleep, so we ___ past her room.", "options": ["tiptoed", "strode", "staggered"], "answer": "tiptoed"}, {"prompt": "\"I don't want to talk about it,\" she ___ angrily.", "options": ["whispered", "snapped", "giggled"], "answer": "snapped"}, {"prompt": "He ___ at his watch and realized he was late.", "options": ["glanced", "stared", "gazed"], "answer": "glanced"}, {"prompt": "After the accident, he ___ to the side of the road.", "options": ["strolled", "staggered", "tiptoed"], "answer": "staggered"}, {"prompt": "We ___ along the beach, enjoying the sunset.", "options": ["strode", "strolled", "limped"], "answer": "strolled"}]},
+        {"id": "ex3", "type": "order_words", "title": "Adjective order", "instruction": "Put the adjectives in the correct order.", "instruction_pt": "Coloque os adjetivos na ordem correta.",
+         "items": [{"prompt": "a / wooden / old / beautiful / table", "answer": "a beautiful old wooden table"}, {"prompt": "a / Italian / red / small / car", "answer": "a small red Italian car"}, {"prompt": "some / leather / black / expensive / boots", "answer": "some expensive black leather boots"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "It was a heart-warming story."}, {"prompt": "2", "answer": "She strode into the room."}, {"prompt": "3", "answer": "He muttered something under his breath."}, {"prompt": "4", "answer": "It's a five-minute walk from the station."}]},
+        {"id": "ex5", "type": "answer", "title": "Show, don't tell", "instruction": "Rewrite each sentence to show the emotion through actions and details.", "instruction_pt": "Reescreva cada frase mostrando a emoção por meio de ações e detalhes.",
+         "items": [{"prompt": "She was very nervous before the interview.", "answer": "Model: She checked her reflection for the fifth time, wiped her damp palms on her skirt and read her CV again without taking in a single word."}, {"prompt": "The old man was lonely.", "answer": "Model: Every evening, the old man set two cups on the table, then slowly put one back in the cupboard."}, {"prompt": "The children were very happy.", "answer": "Model: The children burst out of the classroom, shrieking with laughter, and raced each other to the gate."}]},
+        {"id": "ex6", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "We watched a three-hours film.", "answer": "We watched a three-hour film."}, {"prompt": "She has a ten-years-old daughter.", "answer": "She has a ten-year-old daughter."}, {"prompt": "They live in a stone old lovely house.", "answer": "They live in a lovely old stone house."}, {"prompt": "It was a heart-broken story.", "answer": "It was a heart-breaking story."}]}
+      ],
+      "speaking": {
+        "instruction": "\"Story chain\": in groups, build a story together. Each person adds two sentences, using at least one precise verb and one compound adjective, and \"showing\" rather than \"telling\" emotions. Then retell the full story to another group.",
+        "instruction_pt": "\"Corrente de histórias\": em grupos, construam uma história juntos. Cada pessoa acrescenta duas frases, usando pelo menos um verbo preciso e um adjetivo composto, \"mostrando\" em vez de \"contar\" as emoções. Depois recontem a história completa para outro grupo.",
+        "questions": ["What's a story (book, film, family story) that has stayed with you? Why?", "Are you better at telling stories in Portuguese or in English?", "Do you prefer stories with happy endings or open endings?", "Why do politicians and companies use stories so much?", "Could you write a six-word story about your life?"]
+      },
+      "writing": {
+        "task": "Write a short story (300–350 words) that begins or ends with the sentence \"Nobody noticed the letter for three days.\" Use at least six compound adjectives, eight precise verbs, and \"show, don't tell\".",
+        "task_pt": "Escreva um conto (300–350 palavras) que comece ou termine com a frase \"Nobody noticed the letter for three days.\" Use pelo menos seis adjetivos compostos, oito verbos precisos e a técnica \"show, don't tell\".",
+        "model": "The letter\n\nNobody noticed the letter for three days.\n\nIt lay face down on the dusty hall table, half-hidden beneath a pile of pizza menus and electricity bills. The Oliveiras were a busy, fast-moving family: Paulo strode out of the house at six every morning, his phone already pressed to his ear; Cláudia rushed the twins to school, a half-eaten piece of toast in one hand; and sixteen-year-old Bia drifted in and out like a ghost, earphones permanently in place.\n\nIt was Dona Lurdes, the grandmother, who finally found it. She had shuffled into the hall on Thursday evening, searching for her reading glasses, when she glimpsed the familiar handwriting on the envelope. Her hands began to tremble.\n\nShe lowered herself slowly onto the stairs and peered at the faded stamp. Portugal. The postmark was three weeks old.\n\nFor a long time she simply sat there, turning the envelope over and over, as if it might disappear. Upstairs, a door slammed. Somewhere, a television roared with recorded laughter.\n\nWhen Cláudia came looking for her, she found her mother-in-law still sitting on the bottom step, the letter open on her lap, tear-stained but smiling.\n\n\"Dona Lurdes? What's wrong?\"\n\nThe old woman didn't answer at first. She smoothed out the thin, hand-written pages and pointed to the signature at the bottom.\n\n\"Fernando,\" she whispered. \"My brother. I haven't heard his voice in fifty-two years.\"\n\nCláudia sat down beside her. Neither of them spoke. In the kitchen, the dinner was burning, and for once, nobody cared.\n\nLater that night, the whole family gathered around the dining table — even Bia, who had taken her earphones out — while Dona Lurdes read the letter aloud. It was a long, rambling, heart-warming account of a life lived on the other side of the ocean: a fishing boat, a wife, four children, eleven grandchildren.\n\nAt the end, there was a phone number."
+      },
+      "culture_note": {
+        "title": "Contação de histórias",
+        "text_pt": "Do **cordel** nordestino às histórias de Monteiro Lobato, o Brasil tem uma rica tradição oral e escrita de narrativas. Em inglês, **storytelling** virou palavra-chave em marketing, liderança e educação. Em muitas universidades americanas, cursos de **creative writing** são populares, e o conselho mais repetido é exatamente o desta aula: **\"Show, don't tell.\"**"
+      },
+      "summary_pt": ["Adjetivos compostos: long-awaited, sun-drenched, open-minded, heart-warming.", "Número + substantivo no singular: a ten-minute walk.", "Verbos precisos: stroll/stride/stagger, whisper/mutter/snap, glance/stare/gaze.", "Ordem: opinião-tamanho-idade-forma-cor-origem-material; show, don't tell."]
+    },
+    {
+      "id": "C1-M4-L2",
+      "title": "Everyone's a critic",
+      "subtitle_pt": "Formação de palavras: prefixos e sufixos (mis-, over-, under-, -ness, -ity, -ize)",
+      "duration_min": 80,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – C1 (word formation)", "Cambridge C1 Advanced – Reading and Use of English Part 3"],
+      "objectives": ["Usar prefixos de sentido (mis-, over-, under-, re-, out-, counter-)", "Usar prefixos negativos (un-, in-, im-, ir-, il-, dis-)", "Transformar palavras com sufixos (-ness, -ity, -ment, -ize, -ive, -able)", "Escrever e discutir críticas de filmes, séries e livros"],
+      "warmup": {
+        "text_pt": "Na prova C1 Advanced, a **Parte 3** (word formation) pede que você transforme uma palavra para completar um texto: CRITIC → **uncritically**, PREDICT → **unpredictable**. Mais do que prova, isso é **multiplicar seu vocabulário**: ao aprender uma raiz, você ganha uma família inteira. Tema: **críticas de cinema e séries**.",
+        "questions": ["Do you read reviews before watching a film or series? Do you trust them?", "What's a film or series that you think was overrated or underrated?"]
+      },
+      "vocabulary": [
+        {"en": "a review / a reviewer / a critic", "pt": "uma crítica / um resenhista / um crítico", "say": "a riviú / a riviúer / a krítik"},
+        {"en": "overrated / underrated", "pt": "superestimado / subestimado", "say": "ôuverrêitid / ânderrêitid"},
+        {"en": "a must-see / a must-watch", "pt": "imperdível", "say": "a mâst sí"},
+        {"en": "predictable / unpredictable", "pt": "previsível / imprevisível", "say": "pridíktabol"},
+        {"en": "a box-office hit / flop", "pt": "sucesso / fracasso de bilheteria", "say": "a bóks ófis rit / flóp"},
+        {"en": "a spoiler", "pt": "um spoiler", "say": "a spóiler"},
+        {"en": "to binge-watch", "pt": "maratonar", "say": "tu bíndj uótch"},
+        {"en": "a cliffhanger", "pt": "um gancho, final em suspense", "say": "a klíf-hénguer"},
+        {"en": "the cast / a performance", "pt": "o elenco / uma atuação", "say": "dâ kést / a perfórmans"},
+        {"en": "to miscast (an actor)", "pt": "escalar mal (um ator)", "say": "tu miskést"},
+        {"en": "far-fetched", "pt": "forçado, inverossímil", "say": "fár fétcht"},
+        {"en": "thought-provoking", "pt": "instigante, que faz pensar", "say": "θót provôukin"}
+      ],
+      "chunks": [
+        {"en": "The film is wildly overrated.", "pt": "O filme é absurdamente superestimado."},
+        {"en": "The ending was completely predictable.", "pt": "O final foi completamente previsível."},
+        {"en": "I binge-watched the whole series in a weekend.", "pt": "Maratonei a série inteira num fim de semana."},
+        {"en": "The lead actor was badly miscast.", "pt": "O ator principal foi muito mal escalado."},
+        {"en": "The plot is a bit far-fetched.", "pt": "O enredo é um pouco forçado."},
+        {"en": "It's a thought-provoking must-see.", "pt": "É um imperdível que faz pensar."}
+      ],
+      "grammar": {
+        "title": "Word formation",
+        "explanation_pt": "**1. Prefixos negativos** (o contrário):\n- **un-**: unpredictable, unconvincing, unforgettable, unrealistic\n- **in-**: inaccurate, incomplete, insensitive\n- **im-** (antes de m, p, b): impossible, impatient, immature\n- **ir-** (antes de r): irrelevant, irresistible, irresponsible\n- **il-** (antes de l): illogical, illegal, illiterate\n- **dis-**: dishonest, dislike, disappointing, disagree\n- **non-**: non-fiction, non-existent\n\n**2. Prefixos de sentido:**\n- **mis-** (errado): misunderstand, misinterpret, miscast, mislead\n- **over- / under-** (demais / de menos): overrated / underrated, overpriced, underestimate\n- **re-** (de novo): remake, reread, reinvent\n- **out-** (superar): outperform, outsell, outlive\n- **counter-** (contra): counterproductive, counterpart\n- **co-**: co-star, co-writer\n\n**3. Sufixos que formam substantivos:**\n- **-ness**: darkness, awareness, effectiveness\n- **-ity**: originality, creativity, popularity, authenticity\n- **-ment**: disappointment, achievement, entertainment\n- **-tion/-sion**: production, adaptation, tension\n- **-ance/-ence**: performance, relevance, existence\n- **-ship / -hood**: relationship, childhood\n\n**4. Sufixos que formam adjetivos:**\n- **-able/-ible**: predictable, forgettable, believable, incredible\n- **-ive**: impressive, creative, repetitive\n- **-ful / -less**: powerful, pointless, meaningless\n- **-ous**: ambitious, humorous, glamorous\n- **-al / -ic**: emotional, dramatic, iconic\n\n**5. Sufixos que formam verbos e advérbios:**\n- **-ize/-ise**: dramatize, criticize, romanticize · **-en**: strengthen, shorten · **-ify**: intensify, simplify\n- **-ly**: surprisingly, unexpectedly, convincingly\n\n**Dica de prova:** leia a frase toda e pergunte: preciso de **substantivo, adjetivo, verbo ou advérbio**? **Positivo ou negativo**? **Singular ou plural**?",
+        "table": {
+          "headers": ["Raiz", "Família de palavras"],
+          "rows": [["predict", "prediction, predictable, unpredictable, predictably"], ["critic", "criticism, criticize, critical, uncritically"], ["believe", "belief, believable, unbelievable, unbelievably"], ["origin", "original, originality, originally, originate"], ["rate", "rating, overrated, underrated"], ["emotion", "emotional, unemotional, emotionally"]]
+        },
+        "examples": [
+          {"en": "Despite its huge popularity, the series was criticized for its unrealistic dialogue.", "pt": "Apesar da enorme popularidade, a série foi criticada pelos diálogos irrealistas."},
+          {"en": "The remake is surprisingly faithful to the original, but it lacks originality.", "pt": "O remake é surpreendentemente fiel ao original, mas falta originalidade."},
+          {"en": "Critics completely underestimated the film, which went on to outperform every other release that year.", "pt": "Os críticos subestimaram completamente o filme, que acabou superando todos os outros lançamentos daquele ano."}
+        ],
+        "tip_pt": "Cuidado com os prefixos negativos que **não** seguem o português: **in**ac**cur**ate (impreciso), **un**able (incapaz), **dis**honest (desonesto), **un**comfortable (desconfortável), **ir**responsible. Na dúvida, consulte o dicionário — e anote a família inteira."
+      },
+      "common_mistakes": [
+        {"wrong": "The plot was very unpredictible.", "right": "The plot was very unpredictable.", "why_pt": "predict + -able → predictable."},
+        {"wrong": "The ending was a big deception.", "right": "The ending was a big disappointment.", "why_pt": "Decepção = disappointment; deception = enganação."},
+        {"wrong": "It's an inbelievable story.", "right": "It's an unbelievable story.", "why_pt": "believable → unbelievable (un-, não in-)."}
+      ],
+      "pronunciation": {
+        "focus": "Acento em famílias de palavras",
+        "tip_pt": "O acento se move com os sufixos: **CRI**tic → **CRI**ticize → criti**CIS**m? Não! **CRI**ticism. Mas: o**RI**ginal → origi**NA**lity; **PHO**tograph → pho**TO**graphy → photo**GRA**phic; pre**DICT** → pre**DIC**table. Sufixos como **-ity, -ic, -ion** puxam o acento para a sílaba anterior.",
+        "practice": ["oRIginal → origiNAlity", "PHOtograph → phoTOgraphy → photoGRAphic", "preDICT → preDICtable → unpreDICtable"]
+      },
+      "dialogue": {
+        "title": "After the film",
+        "context_pt": "Dois amigos saem do cinema discordando sobre o filme.",
+        "lines": [
+          {"speaker": "Bel", "en": "So? What did you think? I thought it was unforgettable!", "pt": "E aí? O que você achou? Achei inesquecível!"},
+          {"speaker": "Vini", "en": "Honestly? I found it hugely overrated. Everyone kept saying it was a masterpiece, but the plot was completely predictable.", "pt": "Sinceramente? Achei extremamente superestimado. Todo mundo dizia que era uma obra-prima, mas o enredo era completamente previsível."},
+          {"speaker": "Bel", "en": "Predictable? The twist at the end was brilliant!", "pt": "Previsível? A reviravolta do final foi brilhante!"},
+          {"speaker": "Vini", "en": "I saw it coming from the first scene. And the lead actor was miscast. He's too young for the role — it was a bit unconvincing.", "pt": "Eu vi chegando desde a primeira cena. E o ator principal foi mal escalado. Ele é jovem demais para o papel — ficou meio pouco convincente."},
+          {"speaker": "Bel", "en": "I disagree. I thought his performance was incredibly powerful, especially in the courtroom scene.", "pt": "Discordo. Achei a atuação dele incrivelmente poderosa, principalmente na cena do tribunal."},
+          {"speaker": "Vini", "en": "OK, that scene was impressive, I'll give you that. And the photography was stunning.", "pt": "OK, aquela cena foi impressionante, isso eu admito. E a fotografia era deslumbrante."},
+          {"speaker": "Bel", "en": "See? You liked it more than you're admitting. You're just being overly critical because everyone loves it.", "pt": "Viu? Você gostou mais do que está admitindo. Só está sendo crítico demais porque todo mundo ama."},
+          {"speaker": "Vini", "en": "Maybe. Let's just say it's well made, but I wouldn't call it a must-see.", "pt": "Talvez. Digamos que é bem-feito, mas eu não chamaria de imperdível."}
+        ]
+      },
+      "listening": {
+        "title": "Can we trust online ratings?",
+        "context_pt": "Um especialista em mídia fala sobre avaliações online de filmes e séries.",
+        "lines": [
+          {"speaker": "Speaker", "en": "Before watching a film, millions of people check a score — the percentage of positive reviews on an aggregator site, or the star rating on a streaming platform. These numbers are useful, but they can be misleading. First, a high percentage doesn't necessarily mean a film is outstanding; it means most critics found it at least acceptable. A film that nobody loves but nobody hates can score higher than a bold, divisive masterpiece. Second, audience ratings can be manipulated. There have been well-documented cases of \"review bombing\", in which groups of users deliberately flood a film with negative ratings, sometimes before it has even been released. And third, critics and audiences often disagree. Some films are critically acclaimed but commercially unsuccessful; others are box-office hits that critics dismiss. My advice? Don't rely on a single number. Read two or three reviews from critics whose taste you know — and remember that disagreement is part of the pleasure of art."}
+        ],
+        "questions": [
+          {"q": "What does a high percentage on an aggregator site mean?", "answer": "Most critics found the film at least acceptable — not necessarily outstanding."},
+          {"q": "Why can a divisive masterpiece score lower?", "answer": "A film nobody loves or hates can get more positive reviews overall."},
+          {"q": "What is \"review bombing\"?", "answer": "Groups deliberately flooding a film with negative ratings."},
+          {"q": "What is the speaker's advice?", "answer": "Don't rely on a single number; read reviews from critics whose taste you know."}
+        ]
+      },
+      "reading": {
+        "title": "In defence of the bad review",
+        "text": "In an age of star ratings and thumbs-up icons, the traditional film critic can seem like an endangered species. Many newspapers have reduced their arts coverage, and audiences increasingly rely on algorithms and influencers to decide what to watch. Some argue that critics have become irrelevant — or worse, that they are snobbish gatekeepers out of touch with what ordinary people enjoy. It is worth defending them, however, and especially their least popular product: the negative review. A thoughtful bad review is not simply an expression of dislike. At its best, it is an explanation — of why a story feels unconvincing, why a performance seems mechanical, why a film that cost hundreds of millions to make leaves no lasting impression. In explaining their disappointment, critics help readers understand what makes art work, and sharpen their own judgement in the process. Negative reviews also perform a useful function in an industry dominated by marketing. Studios spend enormous sums persuading audiences that every release is unmissable. Independent criticism offers a counterweight to that pressure, reminding us that our time and money are limited. Of course, criticism can be unfair, careless or simply cruel. A review that ridicules without explaining contributes little. And critics are not infallible: history is full of works that were dismissed on release and later recognized as masterpieces. But the solution to bad criticism is better criticism, not none at all. In the end, a culture in which everything is \"amazing\" is a culture in which nothing is. The willingness to say \"this doesn't work, and here's why\" may be one of the most valuable things a critic can offer.",
+        "questions": [
+          {"q": "Why can critics seem like an endangered species?", "answer": "Newspapers have reduced arts coverage, and audiences rely on algorithms and influencers."},
+          {"q": "What is a thoughtful bad review, at its best?", "answer": "An explanation of why something doesn't work."},
+          {"q": "What function do negative reviews perform against marketing?", "answer": "They offer a counterweight to studios' pressure that every release is unmissable."},
+          {"q": "What does the final sentence mean: \"a culture in which everything is amazing is a culture in which nothing is\"?", "answer": "If everything is praised, praise loses its meaning."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "fill_blank", "title": "Word formation (C1 Advanced Part 3)", "instruction": "Use the word in CAPS to form a word that fits the gap.", "instruction_pt": "Use a palavra em CAPS para formar uma palavra que complete a lacuna.",
+         "items": [{"prompt": "The film's ending was completely ___. (PREDICT)", "answer": "unpredictable"}, {"prompt": "Critics praised the director's ___. (ORIGINAL)", "answer": "originality"}, {"prompt": "The sequel was a huge ___ to fans. (APPOINT)", "answer": "disappointment"}, {"prompt": "The story is ___ moving. (SURPRISE)", "answer": "surprisingly"}, {"prompt": "Many people ___ how difficult acting is. (ESTIMATE)", "answer": "underestimate"}, {"prompt": "His comments were completely ___ to the discussion. (RELEVANT)", "answer": "irrelevant"}]},
+        {"id": "ex2", "type": "multiple_choice", "title": "Negative prefixes", "instruction": "Choose the correct negative form.", "instruction_pt": "Escolha a forma negativa correta.",
+         "items": [{"prompt": "logical →", "options": ["unlogical", "illogical", "inlogical"], "answer": "illogical"}, {"prompt": "responsible →", "options": ["irresponsible", "unresponsible", "inresponsible"], "answer": "irresponsible"}, {"prompt": "accurate →", "options": ["unaccurate", "inaccurate", "disaccurate"], "answer": "inaccurate"}, {"prompt": "patient →", "options": ["unpatient", "inpatient", "impatient"], "answer": "impatient"}, {"prompt": "honest →", "options": ["unhonest", "dishonest", "inhonest"], "answer": "dishonest"}]},
+        {"id": "ex3", "type": "match", "title": "Prefixes of meaning", "instruction": "Write a word with the correct prefix (mis-, over-, under-, re-, out-).", "instruction_pt": "Escreva uma palavra com o prefixo correto.",
+         "items": [{"prompt": "entender errado", "answer": "misunderstand"}, {"prompt": "caro demais", "answer": "overpriced"}, {"prompt": "subestimado", "answer": "underrated"}, {"prompt": "refazer (um filme)", "answer": "remake"}, {"prompt": "vender mais que", "answer": "outsell"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "The film is wildly overrated."}, {"prompt": "2", "answer": "The ending was completely predictable."}, {"prompt": "3", "answer": "The lead actor was badly miscast."}, {"prompt": "4", "answer": "It's a thought-provoking must-see."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the word formation mistake.", "instruction_pt": "Encontre e corrija o erro de formação de palavra.",
+         "items": [{"prompt": "The film was a big deception.", "answer": "The film was a big disappointment."}, {"prompt": "Her performance was very convinced.", "answer": "Her performance was very convincing."}, {"prompt": "The story lacks of originalness.", "answer": "The story lacks originality."}, {"prompt": "It's an inforgettable film.", "answer": "It's an unforgettable film."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the review", "instruction": "Complete the review with the correct form of the words in CAPS.", "instruction_pt": "Complete a crítica com a forma correta das palavras em CAPS.",
+         "items": [{"prompt": "This ___ adaptation of the classic novel (AMBITION) is visually stunning.", "answer": "ambitious"}, {"prompt": "However, the dialogue often feels ___ and ___. (REPEAT / NATURAL)", "answer": "repetitive / unnatural"}, {"prompt": "The lead actress gives a ___ performance. (POWER)", "answer": "powerful"}, {"prompt": "Overall, it's an ___ film that, ___, never quite comes to life. (IMPRESS / FORTUNATE)", "answer": "impressive / unfortunately"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Critics' corner\": in pairs, choose a film or series you both know but feel differently about. Debate it for 4 minutes, using at least eight words formed with prefixes or suffixes. Then give it a joint score out of ten and justify it.",
+        "instruction_pt": "\"Cantinho dos críticos\": em pares, escolham um filme ou série que ambos conhecem mas avaliam de forma diferente. Debatam por 4 minutos, usando pelo menos oito palavras formadas com prefixos ou sufixos. Depois deem uma nota conjunta de 0 a 10 e justifiquem.",
+        "questions": ["What's the most overrated film or series you've seen? And the most underrated?", "Do you trust critics, algorithms or friends more when choosing what to watch?", "Is it fair to criticize a film you haven't finished?", "Are Brazilian films and series underrated abroad?", "Should remakes of classics exist?"]
+      },
+      "writing": {
+        "task": "Write a review (280–320 words) of a film, series or book for an English-language website. Include a brief summary (no spoilers!), strengths, weaknesses and a recommendation. Use at least ten words with prefixes or suffixes.",
+        "task_pt": "Escreva uma crítica (280–320 palavras) de um filme, série ou livro para um site em inglês. Inclua um breve resumo (sem spoilers!), pontos fortes, pontos fracos e uma recomendação. Use pelo menos dez palavras com prefixos ou sufixos.",
+        "model": "Review: City of the Tides (series, season 1)\n\nThere has been no shortage of hype around City of the Tides, the new eight-episode Brazilian thriller set in a fictional fishing town on the coast of Bahia. Expectations were high, and for the most part, the series lives up to them.\n\nThe story follows Inês, a marine biologist who returns to her childhood home after twenty years to investigate the mysterious disappearance of a research boat. What begins as a straightforward mystery gradually develops into a thought-provoking drama about memory, family loyalty and the environmental destruction of the coast.\n\nThe series' greatest strength is its atmosphere. The photography is breathtaking: sun-drenched beaches and storm-darkened skies create a sense of beauty that is constantly threatened. The lead actress gives a remarkably powerful performance, conveying her character's guilt and determination with impressive subtlety. The supporting cast is equally convincing, particularly the actor playing her estranged father.\n\nUnfortunately, the series is not without its weaknesses. The middle episodes are overlong and somewhat repetitive, and a subplot involving a corrupt politician feels underdeveloped and, at times, frankly unbelievable. Some viewers may also find the final twist a little predictable — although, to be fair, it is handled with considerable emotional intensity.\n\nDespite these flaws, City of the Tides is an ambitious and genuinely original piece of television. It avoids the temptation to oversimplify its themes, and it trusts its audience to draw their own conclusions. The cliffhanger at the end of the final episode makes a second season almost irresistible.\n\nVerdict: not quite the masterpiece some critics have claimed, but a gripping, beautifully made series that deserves a wide international audience. Definitely worth a binge-watch.\n\nRating: ★★★★☆"
+      },
+      "culture_note": {
+        "title": "Falsos amigos da crítica",
+        "text_pt": "Cuidado com estes falsos cognatos ao escrever críticas: **deception** (enganação, não decepção → **disappointment**), **pretentious** (pretensioso, ok!), **sensible** (sensato, não sensível → **sensitive**), **novel** (romance — o gênero literário; telenovela é **soap opera**), **argument** (discussão/argumento, não **plot** = enredo)."
+      },
+      "summary_pt": ["Negativos: un-, in-, im-, ir-, il-, dis-, non-.", "Sentido: mis- (errado), over-/under-, re-, out-, counter-.", "Substantivos: -ness, -ity, -ment, -tion, -ance. Adjetivos: -able, -ive, -ful, -less, -ous.", "Na prova: identifique a classe da palavra, positivo/negativo e singular/plural."]
+    },
+    {
+      "id": "C1-M4-L3",
+      "title": "No laughing matter",
+      "subtitle_pt": "Comment adverbs e atitude: frankly, admittedly, arguably, needless to say; ironia e understatement",
+      "duration_min": 75,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – C1 (attitude markers, irony)", "Cambridge C1 Advanced – Listening Part 3"],
+      "objectives": ["Usar comment adverbs para mostrar atitude (frankly, arguably, ironically, needless to say)", "Reconhecer e usar understatement e ironia", "Entender diferenças culturais no humor", "Contar uma anedota com timing e atitude"],
+      "warmup": {
+        "text_pt": "Um britânico diz que um filme horrível foi \"**not bad**\" ou que uma tempestade é \"**a bit of rain**\". Isso é **understatement** — e entender isso é essencial no C1! Hoje você vai aprender a mostrar **atitude** com advérbios como \"**frankly**\", \"**arguably**\", \"**ironically**\" e a entender o humor em inglês.",
+        "questions": ["What makes you laugh? Is your sense of humour typically Brazilian?", "Have you ever told a joke in English that nobody understood?"]
+      },
+      "vocabulary": [
+        {"en": "a sense of humour", "pt": "senso de humor", "say": "a séns ov riúmer"},
+        {"en": "dry / dark / slapstick humour", "pt": "humor seco / humor negro / pastelão", "say": "drái / dárk / slépstik"},
+        {"en": "irony / ironic", "pt": "ironia / irônico", "say": "áironi / airónik"},
+        {"en": "sarcasm / sarcastic", "pt": "sarcasmo / sarcástico", "say": "sárkézm / sarkéstik"},
+        {"en": "understatement", "pt": "atenuação, eufemismo irônico", "say": "ânderstêitment"},
+        {"en": "a pun", "pt": "um trocadilho", "say": "a pân"},
+        {"en": "a punchline", "pt": "o desfecho da piada", "say": "a pântchláin"},
+        {"en": "to crack a joke", "pt": "contar uma piada", "say": "tu krék a djôuk"},
+        {"en": "to take (sth) the wrong way", "pt": "levar a mal", "say": "tu têik dâ róng uêi"},
+        {"en": "deadpan", "pt": "impassível, cara de paisagem", "say": "dédpén"},
+        {"en": "to poke fun at", "pt": "zombar de, tirar sarro de", "say": "tu pôuk fân ét"},
+        {"en": "self-deprecating", "pt": "autodepreciativo", "say": "sélf déprikeitin"}
+      ],
+      "chunks": [
+        {"en": "Frankly, it was a disaster.", "pt": "Francamente, foi um desastre."},
+        {"en": "It's arguably the best comedy ever made.", "pt": "É possivelmente a melhor comédia já feita."},
+        {"en": "Ironically, the fire station burned down.", "pt": "Ironicamente, o quartel de bombeiros pegou fogo."},
+        {"en": "Needless to say, nobody laughed.", "pt": "Nem preciso dizer que ninguém riu."},
+        {"en": "It wasn't the best day of my life. (understatement)", "pt": "Não foi o melhor dia da minha vida. (= foi horrível)"},
+        {"en": "No offence, but...", "pt": "Sem querer ofender, mas..."}
+      ],
+      "grammar": {
+        "title": "Comment adverbs and attitude",
+        "explanation_pt": "**Comment adverbs** (ou **sentence adverbs**) comentam a **frase inteira**, mostrando sua atitude. Geralmente vêm **no início**, seguidos de vírgula.\n\n**1. Honestidade / franqueza:** frankly, honestly, to be honest, candidly, quite frankly\n\"**Frankly**, the show was a waste of money.\"\n\n**2. Concessão:** admittedly, granted, of course, to be fair\n\"**Admittedly**, the jokes were a bit old. **To be fair**, the audience loved them.\"\n\n**3. Opinião / grau de certeza:** arguably (possivelmente — defensável), apparently, presumably, supposedly (supostamente — com dúvida), undoubtedly, evidently, clearly\n\"It is **arguably** the funniest series of the decade.\"\n\n**4. Reação emocional:** surprisingly, unsurprisingly, ironically, fortunately, sadly, luckily, oddly / strangely enough, predictably, understandably\n\"**Ironically**, the comedian who mocked technology became famous on TikTok.\"\n\n**5. Óbvio:** needless to say, obviously, naturally, of course\n\"**Needless to say**, I never told that joke again.\"\n\n**Understatement** (dizer menos do que se quer dizer) — típico do humor britânico:\n- \"It was **a bit** chilly.\" (= estava congelando)\n- \"He's **not the most** patient person.\" (= ele é muito impaciente)\n- \"That **could have gone better**.\" (= foi um desastre)\n- \"**Not bad**\" pode significar \"muito bom\" — o tom decide.\n\n**Ironia verbal** = dizer o contrário do que se pensa, geralmente com tom marcado:\n- (Durante uma tempestade) \"**Lovely** weather for a picnic!\"\n- **Sarcasmo** = ironia com intenção de criticar ou ferir: \"Oh, **great** job, really.\"\n\n⚠️ Ironia e sarcasmo **não funcionam bem por escrito** sem contexto — em e-mails profissionais, evite!",
+        "table": {
+          "headers": ["Advérbio", "Atitude", "Exemplo"],
+          "rows": [["frankly / honestly", "franqueza", "Frankly, I didn't get the joke."], ["admittedly / to be fair", "concessão", "To be fair, it was his first show."], ["arguably", "opinião defensável", "Arguably her best work."], ["supposedly / apparently", "dúvida / ouvi dizer", "It's supposedly a comedy."], ["ironically", "contradição", "Ironically, the expert got it wrong."], ["needless to say", "óbvio", "Needless to say, I was late."]]
+        },
+        "examples": [
+          {"en": "Admittedly, some of the jokes haven't aged well. Even so, it's arguably one of the most influential sitcoms ever made.", "pt": "É verdade que algumas piadas envelheceram mal. Mesmo assim, é possivelmente uma das sitcoms mais influentes já feitas."},
+          {"en": "The film is supposedly a comedy, but, quite frankly, I didn't laugh once.", "pt": "O filme supostamente é uma comédia, mas, francamente, eu não ri uma vez."},
+          {"en": "Ironically, the meeting about improving communication was cancelled because nobody received the invitation.", "pt": "Ironicamente, a reunião sobre melhorar a comunicação foi cancelada porque ninguém recebeu o convite."}
+        ],
+        "tip_pt": "**Arguably** NÃO é \"discutivelmente\" no sentido negativo! Significa \"**pode-se argumentar que / possivelmente**\": \"It's **arguably** the best film\" = muitos diriam que é o melhor. E **eventually** ≠ eventualmente (= finalmente)."
+      },
+      "common_mistakes": [
+        {"wrong": "Arguably, the film is terrible. (= é discutível)", "right": "The film is arguably the best of the year. (= pode-se dizer que é)", "why_pt": "Arguably reforça uma opinião defensável, não a põe em dúvida."},
+        {"wrong": "Needless to say, but I was late.", "right": "Needless to say, I was late.", "why_pt": "Needless to say + frase direta, sem but."},
+        {"wrong": "Ironically, it rained on my birthday. (simples azar)", "right": "Ironically, the weather forecaster got caught in the storm.", "why_pt": "Ironically = uma contradição inesperada, não só falta de sorte."}
+      ],
+      "pronunciation": {
+        "focus": "Tom de ironia e understatement",
+        "tip_pt": "A ironia em inglês costuma vir com entonação **exagerada** ou **completamente plana** (deadpan): \"Oh, **lovely** weather.\" (tom plano) / \"**Great**. Just **great**.\" Understatement britânico é dito de forma **calma e neutra** — e é isso que o torna engraçado.",
+        "practice": ["(deadpan) Oh, lovely weather for a picnic.", "(calm) Well, that could have gone better.", "(flat) Great. Just great."]
+      },
+      "dialogue": {
+        "title": "The worst gig ever",
+        "context_pt": "Um comediante amador conta à amiga como foi sua primeira apresentação de stand-up em inglês.",
+        "lines": [
+          {"speaker": "Nina", "en": "So, how was your first stand-up gig in English?", "pt": "E aí, como foi sua primeira apresentação de stand-up em inglês?"},
+          {"speaker": "Gui", "en": "Well, let's just say it could have gone better.", "pt": "Bom, digamos que poderia ter sido melhor."},
+          {"speaker": "Nina", "en": "Oh no. What happened?", "pt": "Ah não. O que aconteceu?"},
+          {"speaker": "Gui", "en": "I opened with a joke that works brilliantly in Portuguese — it's a pun. Needless to say, nobody understood it.", "pt": "Abri com uma piada que funciona muito bem em português — é um trocadilho. Nem preciso dizer que ninguém entendeu."},
+          {"speaker": "Nina", "en": "Ouch. Puns are almost impossible to translate.", "pt": "Ai. Trocadilhos são quase impossíveis de traduzir."},
+          {"speaker": "Gui", "en": "Tell me about it. Then I tried some self-deprecating jokes about my accent, and, ironically, those went down really well.", "pt": "Nem me fale. Aí tentei umas piadas autodepreciativas sobre meu sotaque e, ironicamente, essas funcionaram muito bem."},
+          {"speaker": "Nina", "en": "That makes sense. Audiences here love it when you poke fun at yourself.", "pt": "Faz sentido. O público aqui adora quando você tira sarro de si mesmo."},
+          {"speaker": "Gui", "en": "To be fair, by the end I got a few big laughs. But frankly, the silence after that first joke was the longest ten seconds of my life.", "pt": "Para ser justo, no final consegui umas boas risadas. Mas, francamente, o silêncio depois daquela primeira piada foram os dez segundos mais longos da minha vida."},
+          {"speaker": "Nina", "en": "Well, you're arguably braver than anyone I know. Are you doing it again?", "pt": "Bom, você é possivelmente mais corajoso do que qualquer pessoa que eu conheço. Vai fazer de novo?"},
+          {"speaker": "Gui", "en": "Next Friday. Without the pun.", "pt": "Sexta que vem. Sem o trocadilho."}
+        ]
+      },
+      "listening": {
+        "title": "Is humour universal?",
+        "context_pt": "Uma pesquisadora fala sobre humor em diferentes culturas.",
+        "lines": [
+          {"speaker": "Researcher", "en": "Laughter itself appears to be universal. Babies laugh long before they can speak, and researchers have observed play vocalizations resembling laughter in apes and other animals. But what people find funny varies enormously. British humour, for instance, is famous for understatement and irony. Saying \"It's a bit damp\" during a flood is, for many Britons, both funny and polite. Many Americans, by contrast, are often described as preferring a more direct, energetic style. In Brazil, humour is frequently warm and teasing, and it's often used to cope with difficult situations — there's a long tradition of making jokes about politics, inflation and everyday frustrations. Interestingly, what travels best across cultures tends to be physical comedy. Charlie Chaplin and Mr. Bean are loved almost everywhere, partly because they don't depend on words. Puns and wordplay, on the other hand, are notoriously difficult to translate. So, if you want to be funny in another language, my advice is: start with self-deprecation and situations people recognize, and save the puns for later."}
+        ],
+        "questions": [
+          {"q": "What evidence suggests laughter is universal?", "answer": "Babies laugh before they speak, and animals like apes make laughter-like sounds."},
+          {"q": "What is British humour famous for?", "answer": "Understatement and irony."},
+          {"q": "How is Brazilian humour described?", "answer": "Warm, teasing and often used to cope with difficult situations."},
+          {"q": "What type of comedy travels best, and why?", "answer": "Physical comedy, because it doesn't depend on words."}
+        ]
+      },
+      "reading": {
+        "title": "The serious science of humour",
+        "text": "Why do we laugh? For a phenomenon so familiar, humour has proved surprisingly difficult to explain. Philosophers have offered several theories over the centuries. The oldest, associated with Plato and Thomas Hobbes, is the \"superiority theory\": we laugh at the misfortunes or foolishness of others because it makes us feel superior. This arguably explains slapstick and some teasing, but it hardly accounts for a clever pun. A second explanation, the \"relief theory\", linked to Sigmund Freud among others, suggests that laughter releases nervous energy or suppressed feelings — which may explain why people sometimes laugh at funerals or after a frightening experience. The most widely discussed today, however, is the \"incongruity theory\": we laugh when something violates our expectations in a way that makes sense on second thought. A punchline works because it forces us to reinterpret what came before. More recently, the researchers Peter McGraw and Caleb Warren proposed what they call the \"benign violation theory\". According to this idea, something is funny when it is simultaneously wrong in some way — a violation of how things should be — and yet harmless, or benign. Tickling is a good illustration: a mild physical \"attack\" that is clearly not dangerous. The theory also helps explain why a joke can fail in two opposite ways. If it is too safe, it is boring; if the violation feels too real or too painful, it is offensive. Needless to say, no theory captures everything. Humour depends heavily on context, culture and timing, and attempts to analyse a joke tend, ironically, to kill it. As the American writer E. B. White reportedly put it, analysing humour is like dissecting a frog: few people are interested, and the frog dies.",
+        "questions": [
+          {"q": "What does the superiority theory claim?", "answer": "We laugh at others' misfortunes because it makes us feel superior."},
+          {"q": "What does the incongruity theory claim?", "answer": "We laugh when expectations are violated in a way that makes sense on second thought."},
+          {"q": "What is the benign violation theory?", "answer": "Something is funny when it is wrong in some way but harmless."},
+          {"q": "In what two ways can a joke fail, according to this theory?", "answer": "It can be too safe (boring) or too painful (offensive)."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Choose the comment adverb", "instruction": "Choose the most appropriate adverb.", "instruction_pt": "Escolha o advérbio mais adequado.",
+         "items": [{"prompt": "___, the comedian who joked about being late missed his own show.", "options": ["Ironically", "Admittedly", "Frankly"], "answer": "Ironically"}, {"prompt": "It's ___ the greatest comedy series ever made — many critics would agree.", "options": ["arguably", "supposedly", "needless to say"], "answer": "arguably"}, {"prompt": "I forgot my lines on stage. ___, I was embarrassed.", "options": ["Needless to say", "Arguably", "Supposedly"], "answer": "Needless to say"}, {"prompt": "The film is ___ a comedy, but I didn't laugh once.", "options": ["supposedly", "admittedly", "ironically"], "answer": "supposedly"}, {"prompt": "___, it was his first time on stage, so we shouldn't judge him too harshly.", "options": ["To be fair", "Ironically", "Supposedly"], "answer": "To be fair"}]},
+        {"id": "ex2", "type": "match", "title": "Decode the understatement", "instruction": "Write what the speaker really means.", "instruction_pt": "Escreva o que a pessoa realmente quer dizer.",
+         "items": [{"prompt": "\"It's a bit chilly today.\" (it's -5°C)", "answer": "It's extremely cold."}, {"prompt": "\"That could have gone better.\" (after a disaster)", "answer": "It was a disaster."}, {"prompt": "\"He's not the most punctual person.\"", "answer": "He's always late."}, {"prompt": "\"It's not exactly cheap.\"", "answer": "It's very expensive."}, {"prompt": "\"I've had better days.\"", "answer": "I've had a terrible day."}]},
+        {"id": "ex3", "type": "answer", "title": "Add attitude", "instruction": "Rewrite each sentence, adding a suitable comment adverb at the start.", "instruction_pt": "Reescreva cada frase acrescentando um comment adverb adequado no início.",
+         "items": [{"prompt": "The comedy club was full of comedians who don't like comedy.", "answer": "Ironically, the comedy club was full of comedians who don't like comedy."}, {"prompt": "I think the show was boring. (honest opinion)", "answer": "Frankly / To be honest, the show was boring."}, {"prompt": "The jokes were old, but the audience enjoyed them. (concede first)", "answer": "Admittedly, the jokes were old. To be fair, the audience enjoyed them."}, {"prompt": "After that review, nobody bought tickets. (obvious result)", "answer": "Needless to say, after that review, nobody bought tickets."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "Frankly, it was a disaster."}, {"prompt": "2", "answer": "It's arguably the best comedy ever made."}, {"prompt": "3", "answer": "Needless to say, nobody laughed."}, {"prompt": "4", "answer": "Ironically, the fire station burned down."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "Needless to say, but the show was cancelled.", "answer": "Needless to say, the show was cancelled."}, {"prompt": "Eventually, I'll go to the party if I have time. (= talvez)", "answer": "I might go to the party if I have time."}, {"prompt": "Frankly speaking honestly, I didn't like it.", "answer": "Frankly, I didn't like it. / Honestly, I didn't like it."}, {"prompt": "He made a joke and everyone took it in the wrong way.", "answer": "He made a joke and everyone took it the wrong way."}]},
+        {"id": "ex6", "type": "match", "title": "Humour vocabulary", "instruction": "Write the English word or expression.", "instruction_pt": "Escreva a palavra ou expressão em inglês.",
+         "items": [{"prompt": "trocadilho", "answer": "pun"}, {"prompt": "desfecho da piada", "answer": "punchline"}, {"prompt": "impassível, cara de paisagem", "answer": "deadpan"}, {"prompt": "autodepreciativo", "answer": "self-deprecating"}, {"prompt": "tirar sarro de", "answer": "poke fun at"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Anecdote night\": tell a funny or embarrassing true story (2–3 minutes) using at least four comment adverbs and one example of understatement. Your classmates react naturally and ask follow-up questions.",
+        "instruction_pt": "\"Noite das anedotas\": conte uma história verdadeira engraçada ou constrangedora (2–3 minutos), usando pelo menos quatro comment adverbs e um exemplo de understatement. Os colegas reagem naturalmente e fazem perguntas.",
+        "questions": ["Is there anything you think should never be joked about?", "Do Brazilians and British/American people find the same things funny?", "Who is the funniest person you know? What makes them funny?", "Have you ever been offended by a joke? What happened?", "Why is it so hard to be funny in a foreign language?"]
+      },
+      "writing": {
+        "task": "Write an opinion column (280–320 words) titled \"Is anything off-limits in comedy?\". Use at least six different comment adverbs and one example of irony or understatement.",
+        "task_pt": "Escreva uma coluna de opinião (280–320 palavras) intitulada \"Existe algum limite no humor?\". Use pelo menos seis comment adverbs diferentes e um exemplo de ironia ou understatement.",
+        "model": "Is anything off-limits in comedy?\n\nFew debates generate as much heat, and, ironically, as little laughter, as the question of what comedians should be allowed to joke about. Every few months, a comedian somewhere is accused of crossing a line, and the same arguments are repeated: either we are \"too sensitive\" or comedians are \"punching down\".\n\nAdmittedly, comedy has always depended on taking risks. Many of the most celebrated comedians in history became famous precisely because they said things others didn't dare to. Satire, in particular, has long been one of the few weapons ordinary people have against the powerful. Unsurprisingly, authoritarian governments tend to have very little tolerance for jokes about themselves.\n\nTo be fair, however, freedom to joke is not the same as freedom from criticism. If a comedian makes a joke that audiences find cruel, they are entitled to say so — and to stop buying tickets. That is not censorship; it is feedback. Frankly, the comedians who complain loudest about \"cancel culture\" often seem to have more media attention than ever.\n\nWhat matters, arguably, is not the topic itself but the target. Joking about a tragedy is not necessarily wrong; joking at the expense of its victims usually is. Some of the funniest comedy I've seen dealt with illness, grief and racism — but the people being laughed at were the powerful, the absurd or the comedian themselves, not those already suffering.\n\nNeedless to say, there will never be a rulebook that everyone agrees on. Humour depends on context, timing and trust between performer and audience. A joke that works in a small comedy club may fall flat on social media, where context disappears.\n\nSo, is anything off-limits? Perhaps not in principle. But a comedian who ignores the difference between laughing with people and laughing at them is, to put it mildly, not doing their job very well."
+      },
+      "culture_note": {
+        "title": "Humor britânico x brasileiro",
+        "text_pt": "O humor britânico é famoso por **ironia, understatement e autodepreciação** (pense em *Monty Python* ou *The Office* britânico). O brasileiro tende a ser mais **caloroso, exagerado e provocador**, com forte tradição de sátira política (de Chico Anysio a grupos de humor da internet). Uma dica: quando um britânico diz **\"That's very brave\"** sobre sua ideia, pode ser que ele ache a ideia péssima!"
+      },
+      "summary_pt": ["Franqueza: frankly, honestly · Concessão: admittedly, to be fair.", "Opinião: arguably (possivelmente), supposedly (supostamente), apparently.", "Reação: ironically, unsurprisingly, needless to say.", "Understatement: a bit chilly, could have gone better, not bad."]
+    },
+    {
+      "id": "C1-M4-L4",
+      "title": "Art for art's sake",
+      "subtitle_pt": "Cleft sentences avançadas: All I..., The thing is..., It's not that... it's that...",
+      "duration_min": 80,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – C1 (cleft sentences, focus)", "Cambridge C1 Advanced – Speaking Part 3"],
+      "objectives": ["Usar what-clefts com do (What she did was...)", "Usar All..., The thing / The reason / The place..., Where... is/was...", "Contrastar com It's not that... it's (just) that...", "Discutir o valor da arte, o mercado e a arte pública"],
+      "warmup": {
+        "text_pt": "\"Não é que eu não goste de arte moderna — é que eu não entendo.\" \"Tudo o que o artista fez foi colocar uma banana na parede.\" Essas frases usam **cleft sentences**: estruturas que **destacam** a parte mais importante. No B2 você viu o básico; agora vem a versão completa. Tema: **arte e valor**.",
+        "questions": ["Have you ever looked at a work of art and thought \"I could have done that\"?", "Should public money be spent on art? Why / why not?"]
+      },
+      "vocabulary": [
+        {"en": "a masterpiece", "pt": "uma obra-prima", "say": "a mésterpís"},
+        {"en": "contemporary / conceptual art", "pt": "arte contemporânea / conceitual", "say": "kontémporari / konséptchual árt"},
+        {"en": "an installation", "pt": "uma instalação", "say": "an instalêishan"},
+        {"en": "street art / a mural", "pt": "arte urbana / um mural", "say": "strít árt / a miúral"},
+        {"en": "a collector / an auction", "pt": "um colecionador / um leilão", "say": "a koléktor / an ókshan"},
+        {"en": "to fetch (a price)", "pt": "alcançar (um preço em leilão)", "say": "tu fétch"},
+        {"en": "priceless / worthless", "pt": "inestimável / sem valor", "say": "práisles / uârθles"},
+        {"en": "pretentious", "pt": "pretensioso", "say": "priténshas"},
+        {"en": "to provoke / provocative", "pt": "provocar / provocativo", "say": "tu provôuk"},
+        {"en": "an acquired taste", "pt": "um gosto adquirido", "say": "an akuáierd têist"},
+        {"en": "in the eye of the beholder", "pt": "nos olhos de quem vê", "say": "in dí ái ov dâ birôulder"},
+        {"en": "to commission (a work)", "pt": "encomendar (uma obra)", "say": "tu komíshan"}
+      ],
+      "chunks": [
+        {"en": "What the artist did was tape a banana to a wall.", "pt": "O que o artista fez foi grudar uma banana na parede."},
+        {"en": "All I'm saying is that it's overpriced.", "pt": "Só estou dizendo que está caro demais."},
+        {"en": "It's not that I don't like it — it's just that I don't understand it.", "pt": "Não é que eu não goste — é só que eu não entendo."},
+        {"en": "The thing is, art isn't supposed to be easy.", "pt": "A questão é que a arte não deveria ser fácil."},
+        {"en": "Where it really works is in the use of light.", "pt": "Onde realmente funciona é no uso da luz."},
+        {"en": "Beauty is in the eye of the beholder.", "pt": "A beleza está nos olhos de quem vê."}
+      ],
+      "grammar": {
+        "title": "Advanced cleft sentences",
+        "explanation_pt": "Cleft sentences dividem uma frase em duas partes para **destacar** uma informação. Revisão: \"**What** I need **is** a break.\" / \"**It was** Ana **who** called.\"\n\n**1. What-cleft com ações (do / happen):**\n- \"**What she did was** (to) leave the room.\" (destaca a ação)\n- \"**What happened was (that)** the alarm went off.\"\n- \"**What I'd do is** call the gallery directly.\"\n\n**2. All-cleft** (= a única coisa, só):\n- \"**All I want is** an honest opinion.\" / \"**All he did was** sign his name.\"\n- \"**All** you need to do **is** ask.\"\n\n**3. Substantivos gerais + cleft:**\n- **The thing (that)... is**: \"**The thing that** annoys me **is** the price.\"\n- **The reason (why)... is that**: \"**The reason** it's famous **is that** it was stolen.\"\n- **The person who / The place where / The day when / The way**: \"**The place where** you really see her talent **is** in her drawings.\"\n- **Where / When / Why / How** sem antecedente: \"**Where** the film works **is** in its silences.\" / \"**How** he did it **is** a mystery.\"\n\n**4. It's not that... it's (just) that...** (corrigir um mal-entendido):\n- \"**It's not that** I hate modern art; **it's just that** some of it feels empty.\"\n- \"**It isn't** the price **that** bothers me; **it's** the attitude.\"\n\n**5. Cleft reverso** (a informação destacada vem primeiro):\n- \"A good night's sleep **is what** I need.\" / \"That**'s why** I left.\" / \"That**'s where** we disagree.\"\n\n**Fala informal:** \"**The thing is**, ...\" / \"**What happened was**, ...\" são muito comuns como **marcadores de discurso**.",
+        "table": {
+          "headers": ["Estrutura", "Exemplo"],
+          "rows": [["What + S + did was (to) + verbo", "What he did was paint over it."], ["What happened was (that)...", "What happened was that the painting fell."], ["All + S + V + is/was...", "All I did was ask a question."], ["The thing / reason / place...", "The reason I love it is that it's honest."], ["Where / How... is", "Where it fails is in the ending."], ["It's not that... it's that...", "It's not that it's bad; it's that it's boring."], ["Cleft reverso", "That's exactly what I mean."]]
+        },
+        "examples": [
+          {"en": "What Banksy did was shred his own painting moments after it had been sold at auction.", "pt": "O que Banksy fez foi triturar a própria pintura momentos depois de ela ter sido vendida em leilão."},
+          {"en": "It's not that contemporary art is meaningless; it's that it often asks the viewer to do some of the work.", "pt": "Não é que a arte contemporânea não tenha sentido; é que ela muitas vezes pede que o espectador faça parte do trabalho."},
+          {"en": "The reason Inhotim is so special is that art and nature are completely intertwined.", "pt": "A razão pela qual Inhotim é tão especial é que arte e natureza estão completamente entrelaçadas."}
+        ],
+        "tip_pt": "\"**O que eu fiz foi...**\" → \"**What I did was** ...\" Note que, com **do**, o verbo seguinte pode vir com ou sem **to**: \"What I did was (to) call her\" — sem to é mais comum na fala."
+      },
+      "common_mistakes": [
+        {"wrong": "What I did it was call the police.", "right": "What I did was call the police.", "why_pt": "Não repita o objeto (it) na what-cleft."},
+        {"wrong": "All what I want is some peace.", "right": "All I want is some peace.", "why_pt": "All + oração (sem what)."},
+        {"wrong": "It's not that I don't like it, is that I don't have time.", "right": "It's not that I don't like it; it's that I don't have time.", "why_pt": "Repita o it's na segunda parte."}
+      ],
+      "pronunciation": {
+        "focus": "Ênfase em cleft sentences",
+        "tip_pt": "Na cleft sentence, a **informação destacada** (depois de is/was) recebe o acento mais forte, e há uma pequena pausa antes dela: \"What I NEED | is a BREAK.\" / \"It's not that I HATE it; | it's that I don't UNderstand it.\"",
+        "practice": ["What she DID | was LEAVE.", "ALL I want | is an HONest opinion.", "It's not that I HATE it; | it's that I don't UNderstand it."]
+      },
+      "dialogue": {
+        "title": "At the art museum",
+        "context_pt": "Duas amigas visitam uma exposição de arte contemporânea e discordam sobre uma obra.",
+        "lines": [
+          {"speaker": "Jade", "en": "OK, I need you to explain this one to me. It's a white canvas. With one black line.", "pt": "OK, preciso que você me explique esta. É uma tela branca. Com uma linha preta."},
+          {"speaker": "Isa", "en": "Ha! I knew you'd hate it.", "pt": "Ha! Eu sabia que você ia odiar."},
+          {"speaker": "Jade", "en": "It's not that I hate it. It's just that I don't see why it's in a museum. All the artist did was draw a line!", "pt": "Não é que eu odeie. É só que não entendo por que está num museu. Tudo o que o artista fez foi traçar uma linha!"},
+          {"speaker": "Isa", "en": "But what makes it interesting is the context. The label says she made it after losing her sight in one eye. The line is what she could still see clearly.", "pt": "Mas o que torna interessante é o contexto. A legenda diz que ela fez depois de perder a visão de um olho. A linha é o que ela ainda conseguia ver com clareza."},
+          {"speaker": "Jade", "en": "Oh. OK, that does change things a bit. The thing is, though, shouldn't art speak for itself, without a label?", "pt": "Ah. OK, isso muda um pouco as coisas. Mas a questão é: a arte não deveria falar por si mesma, sem legenda?"},
+          {"speaker": "Isa", "en": "Some art does. But where conceptual art really works is in making you ask questions — exactly like you're doing now.", "pt": "Algumas obras falam. Mas onde a arte conceitual realmente funciona é em fazer você perguntar coisas — exatamente como você está fazendo agora."},
+          {"speaker": "Jade", "en": "Fine. All I'm saying is that I'd rather look at a Tarsila than a line.", "pt": "Tá bom. Só estou dizendo que prefiro olhar um Tarsila do que uma linha."},
+          {"speaker": "Isa", "en": "That's fair. And that's why there's a Tarsila room next door. Come on!", "pt": "Justo. E é por isso que tem uma sala da Tarsila aqui do lado. Vamos!"}
+        ]
+      },
+      "listening": {
+        "title": "The painting that shredded itself",
+        "context_pt": "Uma repórter relata um dos episódios mais famosos do mercado de arte recente.",
+        "lines": [
+          {"speaker": "Reporter", "en": "In October 2018, at an auction at Sotheby's in London, a framed copy of Banksy's Girl with Balloon was sold for just over one million pounds. What happened next stunned the room. Moments after the hammer came down, an alarm sounded and the canvas began to slide through a shredder hidden inside the frame. Halfway through, the shredder stopped. Banksy later posted a video suggesting that he had built the device years earlier, in case the work was ever put up for auction. Many people assumed the stunt would destroy the painting's value. What it actually did was the opposite. The half-shredded work was renamed Love is in the Bin, and in 2021 it was sold again — this time for more than eighteen million pounds. The reason it became so valuable is that the shredding itself became part of the artwork, and, arguably, part of art history. It's not that the art market missed the joke; it's that the market turned the joke into a product."}
+        ],
+        "questions": [
+          {"q": "What happened just after the painting was sold in 2018?", "answer": "A hidden shredder in the frame began to shred the canvas."},
+          {"q": "Why had Banksy built the device, according to his video?", "answer": "In case the work was ever put up for auction."},
+          {"q": "What was the work renamed, and what did it sell for in 2021?", "answer": "Love is in the Bin; more than eighteen million pounds."},
+          {"q": "What is the reporter's final point?", "answer": "The market turned the joke into a product."}
+        ]
+      },
+      "video": {
+        "title": "Do schools kill creativity?",
+        "speaker": "Ken Robinson",
+        "url": "https://www.ted.com/search?q=ken+robinson+do+schools+kill+creativity",
+        "task_pt": "Assista à palestra (cerca de 19 minutos), uma das mais vistas da história do TED. Responda usando cleft sentences quando possível:",
+        "questions": ["What does the speaker argue schools do to creativity?", "What is the story of Gillian Lynne, and what point does it illustrate?", "Is the hierarchy of subjects he describes true in Brazilian schools?", "What's one thing you would change in education to encourage creativity? (\"What I'd do is...\")"]
+      },
+      "reading": {
+        "title": "What is art worth?",
+        "text": "In 2019, at the Art Basel fair in Miami, the Italian artist Maurizio Cattelan exhibited a work called Comedian: a real banana, attached to a wall with grey duct tape. Editions of the work were reportedly sold for around 120,000 dollars each. Then, to the delight of photographers, a performance artist peeled the banana off the wall and ate it. The gallery was unconcerned. What the buyers had purchased, it explained, was not the fruit itself but a certificate of authenticity and instructions for replacing it. The episode provoked a familiar mixture of laughter and outrage. For many people, it confirmed their suspicion that contemporary art is a joke played on the rich. Yet the story raises a serious question: where does the value of art actually lie? It is not that the materials of most great art are especially precious; paint, canvas and stone are relatively cheap. What we pay for, arguably, is something less tangible: an idea, a reputation, a story, a moment in history. Vincent van Gogh is often said to have sold only one painting in his lifetime — an oversimplification, but one that captures how little his work was valued while he lived. Today, his paintings rank among the most expensive ever sold. Nothing about the canvases changed. What changed was how people saw them. None of this means that every expensive work is a masterpiece, or that every unknown artist is a misunderstood genius. Markets can be driven by fashion, speculation and the desire for status. But perhaps the banana on the wall was doing exactly what art has always done: making us look again at something ordinary and ask what it means. The thing is, whether that is worth 120,000 dollars is a question no theory can answer for us.",
+        "questions": [
+          {"q": "What did the buyers of Comedian actually purchase?", "answer": "A certificate of authenticity and instructions for replacing the banana."},
+          {"q": "What, according to the writer, do we really pay for in art?", "answer": "Something intangible: an idea, a reputation, a story, a moment in history."},
+          {"q": "What point does the van Gogh example make?", "answer": "The canvases didn't change; what changed was how people saw them."},
+          {"q": "What might the banana have been doing, according to the writer?", "answer": "Making us look again at something ordinary and ask what it means."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "answer", "title": "Make it a cleft sentence", "instruction": "Rewrite the sentences as cleft sentences beginning with the words given.", "instruction_pt": "Reescreva como cleft sentences, começando com as palavras indicadas.",
+         "items": [{"prompt": "The artist shredded the painting. (What the artist did...)", "answer": "What the artist did was shred the painting."}, {"prompt": "I only asked a question. (All I...)", "answer": "All I did was ask a question."}, {"prompt": "The price annoys me. (The thing that...)", "answer": "The thing that annoys me is the price."}, {"prompt": "The alarm went off and everyone ran out. (What happened...)", "answer": "What happened was that the alarm went off and everyone ran out."}]},
+        {"id": "ex2", "type": "answer", "title": "It's not that... it's that...", "instruction": "Use It's not that... it's (just) that... to clarify each situation.", "instruction_pt": "Use It's not that... it's (just) that... para esclarecer cada situação.",
+         "items": [{"prompt": "You don't dislike opera, but you find it too long.", "answer": "It's not that I dislike opera; it's just that I find it too long."}, {"prompt": "You can afford the ticket, but you don't have time.", "answer": "It's not that I can't afford the ticket; it's that I don't have time."}, {"prompt": "The painting isn't ugly, but it's very depressing.", "answer": "It's not that the painting is ugly; it's that it's very depressing."}]},
+        {"id": "ex3", "type": "multiple_choice", "title": "Choose the correct cleft", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+         "items": [{"prompt": "___ I want is a quiet weekend.", "options": ["All", "All what", "That"], "answer": "All"}, {"prompt": "What she did ___ leave without saying goodbye.", "options": ["it was", "was", "did"], "answer": "was"}, {"prompt": "The reason it's famous ___ that it was stolen in 1911.", "options": ["is", "is because", "it is"], "answer": "is"}, {"prompt": "___ the film works best is in its silences.", "options": ["Where", "What", "That"], "answer": "Where"}, {"prompt": "That's exactly ___ I mean.", "options": ["what", "which", "that"], "answer": "what"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "All I'm saying is that it's overpriced."}, {"prompt": "2", "answer": "It's not that I don't like it — it's just that I don't understand it."}, {"prompt": "3", "answer": "The thing is, art isn't supposed to be easy."}, {"prompt": "4", "answer": "Beauty is in the eye of the beholder."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "What I did it was call the museum.", "answer": "What I did was call the museum."}, {"prompt": "All what you need is a ticket.", "answer": "All you need is a ticket."}, {"prompt": "It's not that I'm tired, is that I'm bored.", "answer": "It's not that I'm tired; it's that I'm bored."}, {"prompt": "The reason why I left was because the music was too loud.", "answer": "The reason why I left was that the music was too loud."}]},
+        {"id": "ex6", "type": "match", "title": "Art vocabulary", "instruction": "Write the English word or expression.", "instruction_pt": "Escreva a palavra ou expressão em inglês.",
+         "items": [{"prompt": "obra-prima", "answer": "masterpiece"}, {"prompt": "inestimável", "answer": "priceless"}, {"prompt": "alcançar (um preço em leilão)", "answer": "fetch"}, {"prompt": "gosto adquirido", "answer": "acquired taste"}, {"prompt": "encomendar (uma obra)", "answer": "commission"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Is it art?\": your teacher shows (or describes) five works — a banana taped to a wall, a graffiti mural, a urinal signed by an artist, an AI-generated image and a child's drawing. In groups, decide which are art and why, using at least five cleft sentences.",
+        "instruction_pt": "\"Isso é arte?\": o professor mostra (ou descreve) cinco obras — uma banana colada na parede, um mural de grafite, um mictório assinado por um artista, uma imagem gerada por IA e um desenho de criança. Em grupos, decidam quais são arte e por quê, usando pelo menos cinco cleft sentences.",
+        "questions": ["What makes something art?", "Is street art vandalism or art? Does it depend?", "Can AI create art?", "Should public money fund museums and artists?", "What's a work of art (any kind) that changed how you see the world?"]
+      },
+      "writing": {
+        "task": "Write an article (280–320 words) for a cultural website titled \"Why I changed my mind about...\" (a type of art, music, a film genre or an artist). Use at least six advanced cleft sentences.",
+        "task_pt": "Escreva um artigo (280–320 palavras) para um site cultural intitulado \"Por que mudei de ideia sobre...\" (um tipo de arte, música, gênero de filme ou artista). Use pelo menos seis cleft sentences avançadas.",
+        "model": "Why I changed my mind about contemporary art\n\nFor years, my opinion of contemporary art could be summed up in one sentence: \"My nephew could have done that.\" It's not that I disliked art in general — I loved Renaissance paintings and the bright, bold canvases of Tarsila do Amaral. It's just that I couldn't see the point of empty rooms, piles of bricks or a single line on a white wall.\n\nWhat changed my mind was a weekend at Inhotim, the enormous art park in Minas Gerais, a few years ago. I went reluctantly, mainly because a friend had already bought the tickets.\n\nThe first surprise was the setting. Instead of white walls and silent guards, what I found were tropical gardens, lakes and pavilions hidden among the trees. The thing that struck me most, though, was how differently I felt when I wasn't being told what to think.\n\nOne installation in particular stayed with me. All it consisted of was a dark room and a sound recording of the earth itself. I had no idea what I was supposed to understand. What I actually did was sit there for twenty minutes, completely absorbed, feeling something I couldn't name.\n\nThat's when I realized what I'd been getting wrong. I'd been treating contemporary art like a puzzle with a correct answer, and getting annoyed when I couldn't solve it. Where it really works, I think, is in creating an experience rather than delivering a message.\n\nI still don't like everything, of course. Some works seem to me pretentious, and the prices at international auctions are, frankly, absurd. But the reason I keep going back to galleries now is that I've stopped asking \"What does it mean?\" and started asking \"What does it do to me?\"\n\nMy nephew, incidentally, is now studying fine art. Perhaps he could have done it after all."
+      },
+      "culture_note": {
+        "title": "Inhotim e a Semana de 22",
+        "text_pt": "**Inhotim**, em Brumadinho (MG), é um dos maiores museus de arte contemporânea a céu aberto do mundo, conhecido internacionalmente. A **Semana de Arte Moderna de 1922**, em São Paulo, com nomes como Tarsila do Amaral, Anita Malfatti e Oswald de Andrade, é um marco da arte moderna brasileira. O **Abaporu**, de Tarsila, é frequentemente citado como uma das obras mais valiosas da arte brasileira."
+      },
+      "summary_pt": ["What + S + did was (to) + verbo / What happened was...", "All + S + V + is...: All I want is...", "The thing / reason / place... + is; Where / How... is.", "It's not that... it's (just) that... · That's what / why / where..."]
+    }
+  ],
+  "review": {
+    "intro_pt": "Revise linguagem descritiva, formação de palavras, comment adverbs e cleft sentences avançadas.",
+    "exercises": [
+      {"id": "r1", "type": "multiple_choice", "title": "Choose the correct option", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+       "items": [{"prompt": "It's a ten-___ walk to the museum.", "options": ["minutes", "minute", "minute's"], "answer": "minute"}, {"prompt": "The ending was totally ___. (PREDICT)", "options": ["unpredictable", "inpredictable", "unpredictible"], "answer": "unpredictable"}, {"prompt": "It's ___ the best Brazilian film of the decade.", "options": ["arguably", "supposedly", "eventually"], "answer": "arguably"}, {"prompt": "___ I want is an honest answer.", "options": ["All what", "All", "What all"], "answer": "All"}, {"prompt": "He ___ into the room, soaked and exhausted.", "options": ["staggered", "strolled", "tiptoed"], "answer": "staggered"}]},
+      {"id": "r2", "type": "fill_blank", "title": "Word formation", "instruction": "Use the word in CAPS to form a word that fits the gap.", "instruction_pt": "Use a palavra em CAPS para completar a lacuna.",
+       "items": [{"prompt": "The show was a huge ___. (APPOINT)", "answer": "disappointment"}, {"prompt": "Critics praised the film's ___. (ORIGINAL)", "answer": "originality"}, {"prompt": "His comments were completely ___. (RELEVANT)", "answer": "irrelevant"}]},
+      {"id": "r3", "type": "translate", "title": "Translate", "instruction": "Translate into English.", "instruction_pt": "Traduza para o inglês.",
+       "items": [{"prompt": "Não é que eu não goste; é só que não tenho tempo.", "answer": "It's not that I don't like it; it's just that I don't have time."}, {"prompt": "Nem preciso dizer que ninguém riu.", "answer": "Needless to say, nobody laughed."}, {"prompt": "O que ela fez foi sair sem dizer nada.", "answer": "What she did was leave without saying anything."}]},
+      {"id": "r4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+       "items": [{"prompt": "1", "answer": "The long-awaited sequel was a disappointment."}, {"prompt": "2", "answer": "Ironically, the comedian forgot the punchline."}, {"prompt": "3", "answer": "The thing is, art isn't supposed to be easy."}]},
+      {"id": "r5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+       "items": [{"prompt": "We watched a two-hours film.", "answer": "We watched a two-hour film."}, {"prompt": "The film was a big deception.", "answer": "The film was a big disappointment."}, {"prompt": "What I did it was leave early.", "answer": "What I did was leave early."}]}
+    ],
+    "speaking_pt": "Grave um vídeo de 5 minutos no estilo \"culture vlog\": conte uma história curta com linguagem descritiva, faça uma minicrítica de um filme ou série (formação de palavras), comente com atitude e humor (comment adverbs) e defenda sua opinião sobre o que é arte (cleft sentences).",
+    "speaking_questions": ["What's the best story you've ever heard, and why?", "Which film or series is the most overrated of all time?", "What's something you find funny that others don't?", "Is all art equally valuable?", "What would you create if you were an artist?"],
+    "project_pt": "**\"Our cultural magazine\":** em grupos, criem uma revista cultural digital com (1) um conto curto (show, don't tell), (2) duas críticas (filme/série e livro/exposição), (3) uma coluna de humor e (4) um artigo de opinião sobre arte. Cada texto deve destacar as estruturas do módulo. Publiquem para a turma e votem no melhor texto."
+  }
+}

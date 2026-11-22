@@ -1,0 +1,2153 @@
+{
+  "id": "B1P-M6",
+  "level": "B1+",
+  "title": "Leaders and Well-being",
+  "theme_pt": "Liderança, citações, biografias, saúde, hábitos e tomada de decisões",
+  "can_do": [
+    "Relatar o que outras pessoas disseram e perguntaram (reported speech)",
+    "Contar biografias e histórias com tempos narrativos e past perfect",
+    "Falar sobre hipóteses e hábitos saudáveis com o second conditional",
+    "Comparar opções e justificar decisões",
+    "Fazer uma apresentação final de 5 minutos no estilo TED"
+  ],
+  "lessons": [
+    {
+      "id": "B1P-M6-L1",
+      "title": "Famous quotes",
+      "subtitle_pt": "Reported speech: say, tell, ask e mudanças de tempo verbal",
+      "duration_min": 70,
+      "source_refs": [
+        "Keynote Intermediate – Unit 11 (Leaders and thinkers: Life at 30,000 feet / Famous quotes)",
+        "Keynote Intermediate – Grammar summary (reported speech)"
+      ],
+      "objectives": [
+        "Relatar afirmações com said / told + that",
+        "Fazer o \"backshift\" dos tempos verbais (present → past, will → would...)",
+        "Relatar perguntas (asked if / asked what...) e pedidos (asked/told + to)",
+        "Discutir citações famosas e estilos de liderança"
+      ],
+      "warmup": {
+        "text_pt": "Qual é a sua frase favorita de alguém famoso? Ou um conselho que alguém da sua família sempre repete? Hoje vamos aprender a **contar o que os outros disseram** — uma das habilidades mais usadas no trabalho e na vida.",
+        "questions": [
+          "What's your favorite quote? Who said it?",
+          "What did your parents always tell you when you were a child?"
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "a quote / to quote",
+          "pt": "uma citação / citar",
+          "say": "a kuôut"
+        },
+        {
+          "en": "a leader / leadership",
+          "pt": "um líder / liderança",
+          "say": "a líder / lídership"
+        },
+        {
+          "en": "a CEO / a founder",
+          "pt": "um CEO / um fundador",
+          "say": "a sí í ôu / a fáunder"
+        },
+        {
+          "en": "to inspire / inspiring",
+          "pt": "inspirar / inspirador",
+          "say": "tu inspáier / inspáirin"
+        },
+        {
+          "en": "to claim",
+          "pt": "afirmar (sem provar)",
+          "say": "tu klêim"
+        },
+        {
+          "en": "to admit",
+          "pt": "admitir",
+          "say": "tu admít"
+        },
+        {
+          "en": "to explain / to point out",
+          "pt": "explicar / observar",
+          "say": "tu ikspléin / tu póint áut"
+        },
+        {
+          "en": "to warn",
+          "pt": "avisar, alertar",
+          "say": "tu uórn"
+        },
+        {
+          "en": "to remind",
+          "pt": "lembrar (alguém)",
+          "say": "tu rimáind"
+        },
+        {
+          "en": "a role model",
+          "pt": "um exemplo, modelo",
+          "say": "a rôul módel"
+        },
+        {
+          "en": "a vision / visionary",
+          "pt": "uma visão / visionário",
+          "say": "a víjon / víjoneri"
+        },
+        {
+          "en": "to delegate",
+          "pt": "delegar",
+          "say": "tu délegueit"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "She said (that) she was tired.",
+          "pt": "Ela disse que estava cansada."
+        },
+        {
+          "en": "He told me (that) he would call.",
+          "pt": "Ele me disse que ia ligar."
+        },
+        {
+          "en": "They asked if I could help.",
+          "pt": "Eles perguntaram se eu podia ajudar."
+        },
+        {
+          "en": "My boss told me to finish it today.",
+          "pt": "Meu chefe me disse para terminar hoje."
+        },
+        {
+          "en": "As Mandela once said, ...",
+          "pt": "Como Mandela disse uma vez, ..."
+        },
+        {
+          "en": "She asked me where I was from.",
+          "pt": "Ela me perguntou de onde eu era."
+        }
+      ],
+      "grammar": {
+        "title": "Reported speech",
+        "explanation_pt": "Para relatar o que alguém disse, usamos **say** e **tell** e geralmente **voltamos um tempo** no passado (backshift):\n\n**Say x tell:**\n- **say** (something) (**to someone**): \"She **said** (that) she was busy.\" / \"She **said to me** that...\"\n- **tell + pessoa** (sempre com objeto!): \"She **told me** (that) she was busy.\" (❌ \"She said me\" / ❌ \"She told that...\")\n\n**Backshift (quando o verbo introdutório está no passado):**\n- present simple → past simple: \"I **work** here.\" → She said she **worked** there.\n- present continuous → past continuous: \"I'**m leaving**.\" → He said he **was leaving**.\n- present perfect / past simple → past perfect: \"I'**ve finished**.\" / \"I **finished**.\" → She said she **had finished**.\n- will → would: \"I'**ll help**.\" → He said he **would help**.\n- can → could: \"I **can** come.\" → She said she **could** come.\n- must → had to: \"You **must** go.\" → He said I **had to** go.\n\nTambém mudam **pronomes** e **referências de tempo/lugar**: today → that day, tomorrow → the next day, here → there, this → that.\n\n💡 Se a informação **ainda é verdade**, o backshift é opcional: \"He said he **lives** in Rio.\" (ainda mora)\n\n**Perguntas relatadas** — ordem de **afirmativa**, sem do/does/did:\n- sim/não → **if / whether**: \"Are you ready?\" → She asked **if I was** ready.\n- wh- → \"Where **do you live**?\" → He asked **where I lived**.\n\n**Pedidos e ordens:** **ask / tell + pessoa + (not) to + verbo**: \"Please sit down.\" → She **asked me to sit** down. / \"Don't be late!\" → He **told us not to be** late.",
+        "table": {
+          "headers": [
+            "Direct speech",
+            "Reported speech"
+          ],
+          "rows": [
+            [
+              "\"I love my job.\"",
+              "She said (that) she loved her job."
+            ],
+            [
+              "\"We're moving to Lisbon.\"",
+              "They told me they were moving to Lisbon."
+            ],
+            [
+              "\"I've never failed.\"",
+              "He claimed he had never failed."
+            ],
+            [
+              "\"I'll call you tomorrow.\"",
+              "She said she would call me the next day."
+            ],
+            [
+              "\"Can you help me?\"",
+              "He asked if I could help him."
+            ],
+            [
+              "\"Where do you work?\"",
+              "She asked me where I worked."
+            ],
+            [
+              "\"Don't give up!\"",
+              "My coach told me not to give up."
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "Steve Jobs told Stanford graduates to \"stay hungry, stay foolish\".",
+            "pt": "Steve Jobs disse aos formandos de Stanford para \"continuarem famintos, continuarem tolos\"."
+          },
+          {
+            "en": "My manager said she was proud of the team and asked if we wanted to celebrate.",
+            "pt": "Minha gestora disse que estava orgulhosa da equipe e perguntou se queríamos comemorar."
+          },
+          {
+            "en": "The interviewer asked me why I had left my last job.",
+            "pt": "O entrevistador me perguntou por que eu tinha saído do último emprego."
+          }
+        ],
+        "tip_pt": "Além de say e tell, use **reporting verbs** mais precisos para soar mais natural: **explained** (explicou), **admitted** (admitiu), **claimed** (afirmou), **warned** (alertou), **promised** (prometeu), **suggested** (sugeriu), **reminded** (lembrou)."
+      },
+      "common_mistakes": [
+        {
+          "wrong": "She said me that she was tired.",
+          "right": "She told me (that) she was tired. / She said (that) she was tired.",
+          "why_pt": "Say não leva a pessoa diretamente; tell sempre leva."
+        },
+        {
+          "wrong": "He asked me where did I live.",
+          "right": "He asked me where I lived.",
+          "why_pt": "Pergunta relatada: ordem de afirmativa, sem did."
+        },
+        {
+          "wrong": "She told me don't worry.",
+          "right": "She told me not to worry.",
+          "why_pt": "Ordem/pedido negativo relatado: not to + verbo."
+        }
+      ],
+      "pronunciation": {
+        "focus": "Said e told",
+        "tip_pt": "**Said** = \"séd\" (não \"sêid\"!). **Told** = \"tôuld\". **Asked** = \"ésk(t)\" — o -ed vira um T leve e quase some: \"She ask(t) me...\".",
+        "practice": [
+          "She SAID (séd) she was tired.",
+          "He TOLD me to wait.",
+          "They ASKED (éskt) if I could help."
+        ]
+      },
+      "dialogue": {
+        "title": "What did the boss say?",
+        "context_pt": "Uma colega perdeu a reunião geral e pergunta o que o novo diretor disse.",
+        "lines": [
+          {
+            "speaker": "Rosa",
+            "en": "I missed the all-hands meeting. What did the new director say?",
+            "pt": "Perdi a reunião geral. O que o novo diretor disse?"
+          },
+          {
+            "speaker": "Igor",
+            "en": "Well, he said he had worked in five countries and that he believed in \"leading by listening\".",
+            "pt": "Bom, ele disse que tinha trabalhado em cinco países e que acreditava em \"liderar ouvindo\"."
+          },
+          {
+            "speaker": "Rosa",
+            "en": "Sounds good. Did he say anything about the new office?",
+            "pt": "Parece bom. Ele disse algo sobre o escritório novo?"
+          },
+          {
+            "speaker": "Igor",
+            "en": "Yes. He told us we would move in March and that everyone could choose between hybrid and full remote.",
+            "pt": "Sim. Ele nos disse que iríamos mudar em março e que todo mundo poderia escolher entre híbrido e totalmente remoto."
+          },
+          {
+            "speaker": "Rosa",
+            "en": "Great news! Did anyone ask about salaries?",
+            "pt": "Ótima notícia! Alguém perguntou sobre salários?"
+          },
+          {
+            "speaker": "Igor",
+            "en": "Paula asked if there would be a raise this year. He admitted that it wasn't decided yet, but he promised he would give an answer by May.",
+            "pt": "A Paula perguntou se haveria aumento este ano. Ele admitiu que ainda não estava decidido, mas prometeu que daria uma resposta até maio."
+          },
+          {
+            "speaker": "Rosa",
+            "en": "Hmm. Anything else?",
+            "pt": "Hmm. Mais alguma coisa?"
+          },
+          {
+            "speaker": "Igor",
+            "en": "He asked everyone to send him one idea to improve the company. And he told us not to be shy — he said there were no bad ideas.",
+            "pt": "Ele pediu para todo mundo mandar uma ideia para melhorar a empresa. E disse para não termos vergonha — falou que não existiam ideias ruins."
+          }
+        ]
+      },
+      "listening": {
+        "title": "Leadership podcast: interview highlights",
+        "context_pt": "A apresentadora resume o que uma CEO disse numa entrevista.",
+        "lines": [
+          {
+            "speaker": "Host",
+            "en": "Last week, I interviewed Mariana Lopes, the founder of a fast-growing Brazilian startup. I asked her what the most important quality of a leader was. She said it was the ability to admit mistakes. She explained that in her first year, she had tried to control everything, and the team had almost collapsed. She told me she had learned to delegate the hard way. When I asked if she was ever afraid of failing, she laughed and said she was afraid every day. But she added that fear was a sign that she was growing. Finally, she told young entrepreneurs not to wait for the perfect moment, because it would never come."
+          }
+        ],
+        "questions": [
+          {
+            "q": "What did Mariana say was the most important quality of a leader?",
+            "answer": "The ability to admit mistakes."
+          },
+          {
+            "q": "What had happened in her first year?",
+            "answer": "She had tried to control everything and the team had almost collapsed."
+          },
+          {
+            "q": "What did she say about fear?",
+            "answer": "She was afraid every day, but fear was a sign she was growing."
+          },
+          {
+            "q": "What did she tell young entrepreneurs?",
+            "answer": "Not to wait for the perfect moment, because it would never come."
+          }
+        ]
+      },
+      "video": {
+        "title": "Life at 30,000 feet",
+        "speaker": "Richard Branson (interview)",
+        "url": "https://www.ted.com/search?q=richard+branson+life+at+30000+feet",
+        "playlist": "https://www.youtube.com/watch?v=sAQfzHBpRsc&list=PLdIk6oC5e9pYKMTeYKp9dEOSeoNEEJ0BJ",
+        "task_pt": "Assista à entrevista (cerca de 30 minutos — escolha um trecho de 10 minutos). Depois relate 4 coisas que o entrevistado disse e 2 perguntas que o entrevistador fez, usando reported speech.",
+        "questions": [
+          "Report three things he said about his life or career.",
+          "Report two questions the interviewer asked him.",
+          "What did he say about leadership or risk?",
+          "Do you agree with his view of success? Why?"
+        ]
+      },
+      "reading": {
+        "title": "Quotes that weren't",
+        "text": "\"Be the change you wish to see in the world,\" said Gandhi. Or did he? This famous quote appears on posters, mugs and social media posts, but researchers who have studied Gandhi's writings say he never wrote or said those exact words. He did write something with a similar idea, but in a much longer and more complex sentence. The same thing has happened to many other famous people. Einstein is often quoted as saying that doing the same thing over and over and expecting different results is \"the definition of insanity\" — but there's no evidence he ever said it. And Marie Antoinette almost certainly never told hungry French peasants to \"eat cake\". Why do fake quotes spread so easily? Psychologists suggest that a sentence seems more true and more wise when it's attached to a famous name. So the next time someone tells you that a celebrity said something brilliant, you might want to ask a simple question: \"Where exactly did they say it?\"",
+        "questions": [
+          {
+            "q": "What do researchers say about the Gandhi quote?",
+            "answer": "He never wrote or said those exact words (he wrote a longer, similar idea)."
+          },
+          {
+            "q": "Which quote is wrongly attributed to Einstein?",
+            "answer": "That doing the same thing and expecting different results is the definition of insanity."
+          },
+          {
+            "q": "What did Marie Antoinette almost certainly never say?",
+            "answer": "\"Let them eat cake.\""
+          },
+          {
+            "q": "Why do fake quotes spread easily, according to psychologists?",
+            "answer": "A sentence seems more true and wise when attached to a famous name."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "multiple_choice",
+          "title": "say or tell?",
+          "instruction": "Choose the correct verb.",
+          "instruction_pt": "Escolha o verbo correto.",
+          "items": [
+            {
+              "prompt": "She ___ me that she was leaving.",
+              "options": [
+                "said",
+                "told"
+              ],
+              "answer": "told"
+            },
+            {
+              "prompt": "He ___ that the meeting was cancelled.",
+              "options": [
+                "said",
+                "told"
+              ],
+              "answer": "said"
+            },
+            {
+              "prompt": "Can you ___ me the time?",
+              "options": [
+                "say",
+                "tell"
+              ],
+              "answer": "tell"
+            },
+            {
+              "prompt": "They ___ goodbye and left.",
+              "options": [
+                "said",
+                "told"
+              ],
+              "answer": "said"
+            },
+            {
+              "prompt": "My grandma always ___ us stories.",
+              "options": [
+                "said",
+                "told"
+              ],
+              "answer": "told"
+            }
+          ]
+        },
+        {
+          "id": "ex2",
+          "type": "answer",
+          "title": "Report the statements",
+          "instruction": "Rewrite in reported speech, starting with the words given.",
+          "instruction_pt": "Reescreva em reported speech.",
+          "items": [
+            {
+              "prompt": "\"I'm working from home today.\" → She said...",
+              "answer": "She said (that) she was working from home that day."
+            },
+            {
+              "prompt": "\"I've finished the report.\" → He told me...",
+              "answer": "He told me (that) he had finished the report."
+            },
+            {
+              "prompt": "\"I'll call you tomorrow.\" → She promised...",
+              "answer": "She promised (that) she would call me the next day."
+            },
+            {
+              "prompt": "\"We can't come to the party.\" → They said...",
+              "answer": "They said (that) they couldn't come to the party."
+            }
+          ]
+        },
+        {
+          "id": "ex3",
+          "type": "answer",
+          "title": "Report questions and requests",
+          "instruction": "Rewrite in reported speech.",
+          "instruction_pt": "Reescreva em reported speech.",
+          "items": [
+            {
+              "prompt": "\"Where do you live?\" she asked me.",
+              "answer": "She asked me where I lived."
+            },
+            {
+              "prompt": "\"Are you happy here?\" he asked me.",
+              "answer": "He asked me if/whether I was happy there."
+            },
+            {
+              "prompt": "\"Please send me the file,\" my boss said.",
+              "answer": "My boss asked me to send her/him the file."
+            },
+            {
+              "prompt": "\"Don't touch anything!\" the guide said to us.",
+              "answer": "The guide told us not to touch anything."
+            }
+          ]
+        },
+        {
+          "id": "ex4",
+          "type": "dictation",
+          "title": "Dictation",
+          "instruction": "Listen and write the sentence.",
+          "instruction_pt": "Ouça e escreva a frase.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "She said that she was tired."
+            },
+            {
+              "prompt": "2",
+              "answer": "He told me he would call."
+            },
+            {
+              "prompt": "3",
+              "answer": "They asked if I could help."
+            },
+            {
+              "prompt": "4",
+              "answer": "My boss told me to finish it today."
+            }
+          ]
+        },
+        {
+          "id": "ex5",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the mistake.",
+          "instruction_pt": "Encontre e corrija o erro.",
+          "items": [
+            {
+              "prompt": "She said me that she was busy.",
+              "answer": "She told me (that) she was busy. / She said (that) she was busy."
+            },
+            {
+              "prompt": "He asked me what was my name.",
+              "answer": "He asked me what my name was."
+            },
+            {
+              "prompt": "They told us don't be late.",
+              "answer": "They told us not to be late."
+            },
+            {
+              "prompt": "She asked if did I like the job.",
+              "answer": "She asked if I liked the job."
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "fill_blank",
+          "title": "Reporting verbs",
+          "instruction": "Complete with: admitted · warned · reminded · promised · explained.",
+          "instruction_pt": "Complete com o reporting verb adequado.",
+          "items": [
+            {
+              "prompt": "\"Don't forget the meeting at 3.\" → She ___ me about the meeting at 3.",
+              "answer": "reminded"
+            },
+            {
+              "prompt": "\"Yes, I made a mistake.\" → He ___ that he had made a mistake.",
+              "answer": "admitted"
+            },
+            {
+              "prompt": "\"Be careful, the road is icy.\" → She ___ us that the road was icy.",
+              "answer": "warned"
+            },
+            {
+              "prompt": "\"I'll never do it again.\" → He ___ he would never do it again.",
+              "answer": "promised"
+            },
+            {
+              "prompt": "\"The system works like this...\" → The engineer ___ how the system worked.",
+              "answer": "explained"
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction": "\"Chain gossip\": in groups of three, A tells B something (news, a secret, a request); B reports it to C using reported speech; C checks with A. Then discuss the quotes.",
+        "instruction_pt": "\"Telefone sem fio\": em trios, A conta algo para B (uma notícia, um segredo, um pedido); B relata para C com reported speech; C confere com A. Depois discutam as citações.",
+        "questions": [
+          "What's the best piece of advice someone has ever given you? What exactly did they say?",
+          "What did your favorite teacher always tell you?",
+          "Who's a leader you admire? What have they said that inspires you?",
+          "Is it important to check if a quote is real?",
+          "What would you like people to say about you as a leader?"
+        ]
+      },
+      "writing": {
+        "task": "Write a short article (150–180 words) about a conversation, interview or talk that inspired you. Report what the person said, asked and recommended, using at least 6 different reporting verbs.",
+        "task_pt": "Escreva um artigo curto (150–180 palavras) sobre uma conversa, entrevista ou palestra que te inspirou. Relate o que a pessoa disse, perguntou e recomendou, usando pelo menos 6 reporting verbs diferentes.",
+        "model": "The conversation that changed my career\n\nFive years ago, I was unhappy in my job and didn't know what to do. One evening, I had coffee with my former university professor, Dr. Helena Ramos. She asked me what I really enjoyed doing. When I said I didn't know, she smiled and told me that was the most honest answer I could give.\n\nShe explained that most people waited for clarity before taking action, but that clarity usually came after action. She admitted that she had changed careers three times before becoming a professor. Then she suggested that I try one small project outside my job every month.\n\nBefore we said goodbye, she warned me that the first few months would feel uncomfortable. She also reminded me that failing at a small project was the cheapest lesson I would ever get.\n\nI followed her advice. A year later, one of those small projects became my new career in UX design. I still remember everything she told me that day."
+      },
+      "culture_note": {
+        "title": "\"Misattributed quotes\"",
+        "text_pt": "Sites como **Quote Investigator** pesquisam a origem real de citações famosas. Em inglês, uma citação falsa é uma **misattributed quote**. Em apresentações profissionais, cite a fonte: **\"As Maya Angelou wrote in...\"** — e confira antes!"
+      },
+      "summary_pt": [
+        "say (something) · tell + pessoa.",
+        "Backshift: present → past · present perfect/past → past perfect · will → would · can → could.",
+        "Perguntas: asked if / asked where + ordem de afirmativa.",
+        "Pedidos: asked/told + pessoa + (not) to + verbo."
+      ]
+    },
+    {
+      "id": "B1P-M6-L2",
+      "title": "How did it happen?",
+      "subtitle_pt": "Past perfect (simple e continuous) em biografias e narrativas",
+      "duration_min": 70,
+      "source_refs": [
+        "Keynote Intermediate – Unit 11.4 (How did it happen?)",
+        "Keynote Intermediate – Grammar summary (past perfect simple and continuous)"
+      ],
+      "objectives": [
+        "Usar o past perfect simple para ações anteriores a outro ponto do passado",
+        "Usar o past perfect continuous para duração antes de um ponto do passado",
+        "Contar biografias e histórias de origem com todos os tempos narrativos",
+        "Usar conectores de tempo: by the time, before, after, until, once"
+      ],
+      "warmup": {
+        "text_pt": "Toda grande conquista tem uma história de bastidores. Quando a pessoa ficou famosa, o que ela já tinha feito? Há quanto tempo vinha tentando? Hoje vamos contar biografias com profundidade.",
+        "questions": [
+          "Whose life story do you find inspiring?",
+          "What had you done before you started your current job or studies?"
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "a biography / an autobiography",
+          "pt": "uma biografia / uma autobiografia",
+          "say": "baiógrafi / otobaiógrafi"
+        },
+        {
+          "en": "to grow up",
+          "pt": "crescer",
+          "say": "tu grôu âp"
+        },
+        {
+          "en": "humble beginnings",
+          "pt": "origem humilde",
+          "say": "râmbol biguíninz"
+        },
+        {
+          "en": "to drop out (of school)",
+          "pt": "abandonar (a escola)",
+          "say": "tu dróp áut"
+        },
+        {
+          "en": "to rise to fame",
+          "pt": "ficar famoso",
+          "say": "tu ráiz tu fêim"
+        },
+        {
+          "en": "a turning point",
+          "pt": "um ponto de virada",
+          "say": "a târnin póint"
+        },
+        {
+          "en": "to overcome (obstacles)",
+          "pt": "superar (obstáculos)",
+          "say": "tu ôuverkâm"
+        },
+        {
+          "en": "to be rejected / rejection",
+          "pt": "ser rejeitado / rejeição",
+          "say": "tu bí ridjéktid"
+        },
+        {
+          "en": "to struggle",
+          "pt": "batalhar, ter dificuldades",
+          "say": "tu strâgol"
+        },
+        {
+          "en": "a legacy",
+          "pt": "um legado",
+          "say": "a légasi"
+        },
+        {
+          "en": "by the time",
+          "pt": "quando, até o momento em que",
+          "say": "bái dâ táim"
+        },
+        {
+          "en": "against all odds",
+          "pt": "contra todas as probabilidades",
+          "say": "aguénst ól ódz"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "By the time she was 30, she had founded three companies.",
+          "pt": "Aos 30 anos, ela já tinha fundado três empresas."
+        },
+        {
+          "en": "He had been working there for ten years when he quit.",
+          "pt": "Ele trabalhava lá havia dez anos quando pediu demissão."
+        },
+        {
+          "en": "She had never been abroad before.",
+          "pt": "Ela nunca tinha ido ao exterior antes."
+        },
+        {
+          "en": "It all started when...",
+          "pt": "Tudo começou quando..."
+        },
+        {
+          "en": "Against all odds, she succeeded.",
+          "pt": "Contra todas as probabilidades, ela conseguiu."
+        },
+        {
+          "en": "That was the turning point.",
+          "pt": "Esse foi o ponto de virada."
+        }
+      ],
+      "grammar": {
+        "title": "Past perfect simple x continuous",
+        "explanation_pt": "Os dois olham para **antes de um ponto do passado**:\n\n**Past perfect simple (had + particípio)** → ação **concluída** antes de outro momento passado; foco no **resultado** ou na **quantidade**:\n- \"By the time she was 25, she **had written** three books.\"\n- \"When I arrived, the meeting **had** already **started**.\"\n- \"He **had never seen** the sea before that trip.\"\n\n**Past perfect continuous (had been + -ing)** → atividade **em andamento por um período** até um momento do passado; foco na **duração** ou na **causa** de algo:\n- \"She **had been working** as a nurse **for ten years** when she decided to study medicine.\"\n- \"His eyes were red because he **had been crying**.\"\n- \"They **had been trying** to have a baby for years before their daughter was born.\"\n\nMesma lógica do present perfect simple x continuous — só que **um passo para trás**.\n\n**Conectores úteis:**\n- **by the time** + past simple, ... past perfect: \"By the time we arrived, they **had left**.\"\n- **before / after / when / once / until**\n- **already, just, never... before, for, since**\n\n**Estrutura de uma biografia:** past simple para a linha principal dos fatos; past perfect para voltar no tempo e explicar o contexto; past continuous para cenas: \"In 2008, she **launched** her app. She **had been developing** it for three years, and she **had been rejected** by fifteen investors. On the day of the launch, she **was** still **sleeping** on her friend's sofa.\"",
+        "table": {
+          "headers": [
+            "Past perfect simple (resultado)",
+            "Past perfect continuous (duração/causa)"
+          ],
+          "rows": [
+            [
+              "She had written 5 novels by 2010.",
+              "She had been writing for 20 years."
+            ],
+            [
+              "He had saved R$50,000.",
+              "He had been saving for years."
+            ],
+            [
+              "They had finished the project.",
+              "They had been working all night (so they were tired)."
+            ],
+            [
+              "I had never been to Asia.",
+              "I had been planning the trip for months."
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "By the time Pelé was 17, he had already won a World Cup.",
+            "pt": "Quando Pelé tinha 17 anos, já tinha ganhado uma Copa do Mundo."
+          },
+          {
+            "en": "She had been teaching for twenty years when she wrote her first novel.",
+            "pt": "Ela dava aula havia vinte anos quando escreveu seu primeiro romance."
+          },
+          {
+            "en": "The ground was wet because it had been raining all night.",
+            "pt": "O chão estava molhado porque tinha chovido a noite toda."
+          }
+        ],
+        "tip_pt": "Não exagere no past perfect: use-o só quando precisa deixar claro que algo aconteceu **antes**. Se a ordem já está clara com **before/after**, o past simple basta: \"After she **graduated**, she **moved** to Lisbon.\""
+      },
+      "common_mistakes": [
+        {
+          "wrong": "When I got to the airport, the plane already left.",
+          "right": "When I got to the airport, the plane had already left.",
+          "why_pt": "O avião saiu antes da chegada: past perfect."
+        },
+        {
+          "wrong": "She had been knowing him for years.",
+          "right": "She had known him for years.",
+          "why_pt": "Know é stative: só simple."
+        },
+        {
+          "wrong": "He had been writing five books by 2010.",
+          "right": "He had written five books by 2010.",
+          "why_pt": "Quantidade (five books) = past perfect simple."
+        }
+      ],
+      "pronunciation": {
+        "focus": "Had been = \"ádbin\"",
+        "tip_pt": "**Had** é muito fraco na fala: \"She'd been working\" = \"shíd-bin-UÓR-kin\". **Had** sozinho às vezes vira só \"d\": \"By the time I arrived, they'd left\" = \"dêid léft\". Preste atenção ao particípio.",
+        "practice": [
+          "She'd been working there for years.",
+          "By the time we arrived, they'd left.",
+          "He'd never seen the sea before."
+        ]
+      },
+      "dialogue": {
+        "title": "An unlikely success",
+        "context_pt": "Dois amigos conversam sobre a história de uma escritora brasileira que ficou famosa tarde.",
+        "lines": [
+          {
+            "speaker": "Lia",
+            "en": "Have you read Conceição Evaristo? I've just finished one of her books. It's amazing.",
+            "pt": "Você já leu Conceição Evaristo? Acabei de terminar um livro dela. É incrível."
+          },
+          {
+            "speaker": "Theo",
+            "en": "I've heard of her, but I don't know her story.",
+            "pt": "Já ouvi falar, mas não conheço a história dela."
+          },
+          {
+            "speaker": "Lia",
+            "en": "Well, she grew up in a favela in Belo Horizonte. Her mother worked as a washerwoman, and Conceição had been helping her since she was a child.",
+            "pt": "Bom, ela cresceu numa favela em Belo Horizonte. A mãe trabalhava como lavadeira, e a Conceição ajudava desde criança."
+          },
+          {
+            "speaker": "Theo",
+            "en": "Wow. When did she start writing?",
+            "pt": "Nossa. Quando ela começou a escrever?"
+          },
+          {
+            "speaker": "Lia",
+            "en": "She'd been writing since she was young, but her first novel wasn't published until 2003. By then, she'd been working as a teacher in Rio for decades.",
+            "pt": "Ela escrevia desde jovem, mas o primeiro romance só foi publicado em 2003. Até então, ela trabalhava como professora no Rio havia décadas."
+          },
+          {
+            "speaker": "Theo",
+            "en": "So she became famous quite late?",
+            "pt": "Então ela ficou famosa bem tarde?"
+          },
+          {
+            "speaker": "Lia",
+            "en": "Exactly. By the time she won major literary prizes, she had already turned sixty. It's an incredible story of resilience.",
+            "pt": "Exatamente. Quando ela ganhou grandes prêmios literários, já tinha passado dos sessenta. É uma história incrível de resiliência."
+          },
+          {
+            "speaker": "Theo",
+            "en": "That's inspiring. It's never too late, right?",
+            "pt": "Que inspirador. Nunca é tarde, né?"
+          }
+        ]
+      },
+      "listening": {
+        "title": "Biography podcast: the founder",
+        "context_pt": "Um podcast conta a história fictícia de uma empreendedora.",
+        "lines": [
+          {
+            "speaker": "Narrator",
+            "en": "In 2015, Ana Ribeiro launched an app that connected small farmers directly with restaurants. Within two years, it had become one of the fastest-growing startups in Brazil. But her success hadn't come easily. Before starting the company, Ana had been working at a bank for eight years. She had grown up on a small farm in Paraná, and she had watched her parents struggle to sell their vegetables at fair prices. She had been thinking about the problem for years. When she finally quit her job, she had saved enough money for only six months. By the time she found her first investor, she had been rejected more than thirty times. Today, the app connects more than 40,000 farmers."
+          }
+        ],
+        "questions": [
+          {
+            "q": "What did Ana's app do?",
+            "answer": "It connected small farmers directly with restaurants."
+          },
+          {
+            "q": "What had she been doing before starting the company?",
+            "answer": "Working at a bank for eight years."
+          },
+          {
+            "q": "Why did she care about the problem?",
+            "answer": "She had watched her parents struggle to sell their vegetables at fair prices."
+          },
+          {
+            "q": "How many times had she been rejected before finding an investor?",
+            "answer": "More than thirty times."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Late bloomers",
+        "text": "We often celebrate young geniuses: the teenage tech founder, the 20-year-old Olympic champion. But many remarkable people achieved success much later. Before she published the first Harry Potter book at 32, J.K. Rowling had been rejected by numerous publishers and had been living as a single mother on very little money. The fashion designer Vera Wang had worked as a journalist and figure skater before she designed her first dress at 40. Colonel Sanders had tried many careers — and failed at several — before he started franchising his fried chicken in his sixties. In Brazil, the writer Cora Coralina had been writing poetry for most of her life, but her first book wasn't published until she was 75. Researchers who study creativity suggest that there are different types of creators: some make their breakthroughs early through bold experiments, while others need decades of accumulated experience. The lesson? If you haven't found your path by 30 — or 50 — you're in very good company.",
+        "questions": [
+          {
+            "q": "What had happened to J.K. Rowling before she published Harry Potter?",
+            "answer": "She had been rejected by publishers and had been living as a single mother on little money."
+          },
+          {
+            "q": "What had Vera Wang done before designing dresses?",
+            "answer": "She had worked as a journalist and figure skater."
+          },
+          {
+            "q": "How old was Cora Coralina when her first book was published?",
+            "answer": "75."
+          },
+          {
+            "q": "What do researchers say about different types of creators?",
+            "answer": "Some have early breakthroughs through bold experiments; others need decades of experience."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "multiple_choice",
+          "title": "Simple or continuous?",
+          "instruction": "Choose the best option.",
+          "instruction_pt": "Escolha a melhor opção.",
+          "items": [
+            {
+              "prompt": "By 2020, she ___ four novels.",
+              "options": [
+                "had written",
+                "had been writing"
+              ],
+              "answer": "had written"
+            },
+            {
+              "prompt": "He was exhausted because he ___ all day.",
+              "options": [
+                "had worked",
+                "had been working"
+              ],
+              "answer": "had been working"
+            },
+            {
+              "prompt": "When we met, I ___ her name before.",
+              "options": [
+                "had never heard",
+                "had never been hearing"
+              ],
+              "answer": "had never heard"
+            },
+            {
+              "prompt": "They ___ for two hours when the bus finally arrived.",
+              "options": [
+                "had waited",
+                "had been waiting"
+              ],
+              "answer": "had been waiting"
+            },
+            {
+              "prompt": "She ___ him since childhood.",
+              "options": [
+                "had known",
+                "had been knowing"
+              ],
+              "answer": "had known"
+            }
+          ]
+        },
+        {
+          "id": "ex2",
+          "type": "fill_blank",
+          "title": "Biography",
+          "instruction": "Complete the biography with the past simple, past perfect simple or past perfect continuous.",
+          "instruction_pt": "Complete a biografia.",
+          "items": [
+            {
+              "prompt": "In 2019, Paulo ___ (open) his first restaurant.",
+              "answer": "opened"
+            },
+            {
+              "prompt": "He ___ (work) as a chef in Paris for ten years before that.",
+              "answer": "had been working"
+            },
+            {
+              "prompt": "By the time he returned to Brazil, he ___ (save) enough money to start his own business.",
+              "answer": "had saved"
+            },
+            {
+              "prompt": "He ___ (never / run) a business before, so the first year ___ (be) very difficult.",
+              "answer": "had never run / was"
+            }
+          ]
+        },
+        {
+          "id": "ex3",
+          "type": "answer",
+          "title": "Join with by the time",
+          "instruction": "Join the sentences with By the time... and the past perfect.",
+          "instruction_pt": "Junte as frases com By the time... e o past perfect.",
+          "items": [
+            {
+              "prompt": "The firefighters arrived. The fire destroyed the building.",
+              "answer": "By the time the firefighters arrived, the fire had destroyed the building."
+            },
+            {
+              "prompt": "I finished college. I lived in four cities.",
+              "answer": "By the time I finished college, I had lived in four cities."
+            },
+            {
+              "prompt": "We got to the party. Everyone went home.",
+              "answer": "By the time we got to the party, everyone had gone home."
+            }
+          ]
+        },
+        {
+          "id": "ex4",
+          "type": "dictation",
+          "title": "Dictation",
+          "instruction": "Listen and write the sentence.",
+          "instruction_pt": "Ouça e escreva a frase.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "By the time she was 30, she had founded three companies."
+            },
+            {
+              "prompt": "2",
+              "answer": "He had been working there for ten years when he quit."
+            },
+            {
+              "prompt": "3",
+              "answer": "She had never been abroad before."
+            },
+            {
+              "prompt": "4",
+              "answer": "Against all odds, she succeeded."
+            }
+          ]
+        },
+        {
+          "id": "ex5",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the mistake.",
+          "instruction_pt": "Encontre e corrija o erro.",
+          "items": [
+            {
+              "prompt": "When I arrived, the concert already started.",
+              "answer": "When I arrived, the concert had already started."
+            },
+            {
+              "prompt": "She had been visiting Paris three times by 2019.",
+              "answer": "She had visited Paris three times by 2019."
+            },
+            {
+              "prompt": "He was tired because he had run.",
+              "answer": "He was tired because he had been running."
+            },
+            {
+              "prompt": "By the time I got home, they have eaten dinner.",
+              "answer": "By the time I got home, they had eaten dinner."
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "fill_blank",
+          "title": "Story vocabulary",
+          "instruction": "Complete with: grew up · turning point · rejected · odds · legacy.",
+          "instruction_pt": "Complete com o vocabulário de biografias.",
+          "items": [
+            {
+              "prompt": "She ___ in a small town in the interior of Bahia.",
+              "answer": "grew up"
+            },
+            {
+              "prompt": "Her first book was ___ by twelve publishers.",
+              "answer": "rejected"
+            },
+            {
+              "prompt": "The ___ came when a famous critic read her work.",
+              "answer": "turning point"
+            },
+            {
+              "prompt": "Against all ___, she became a bestselling author. Her ___ continues to inspire young writers.",
+              "answer": "odds / legacy"
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction": "\"Mini-biography\": tell the story of someone you admire (famous or from your family) in 2 minutes. Include a turning point, what they had done before it and how long they had been trying.",
+        "instruction_pt": "\"Minibiografia\": conte em 2 minutos a história de alguém que você admira (famoso ou da sua família). Inclua um ponto de virada, o que a pessoa tinha feito antes e há quanto tempo vinha tentando.",
+        "questions": [
+          "Whose life story inspires you? Why?",
+          "What had you done by the time you were 18?",
+          "Tell me about a time you had been trying something for a long time before it worked.",
+          "Do you know any \"late bloomers\"?",
+          "What legacy would you like to leave?"
+        ]
+      },
+      "writing": {
+        "task": "Write a short biography (150–180 words) of a person you admire. Use past simple, past continuous, past perfect simple and continuous, and at least 3 time connectors.",
+        "task_pt": "Escreva uma biografia curta (150–180 palavras) de uma pessoa que você admira. Use past simple, past continuous, past perfect simple e continuous e pelo menos 3 conectores de tempo.",
+        "model": "Cora Coralina: a poet who never gave up\n\nAna Lins dos Guimarães Peixoto Bretas, known as Cora Coralina, was born in 1889 in the city of Goiás. She had only four years of formal education, but she had been writing poems and short stories since she was a teenager.\n\nFor most of her life, however, few people read her work. She got married, moved to the state of São Paulo and raised her children. To support her family, she sold books and, later, she made and sold sweets. All this time, she had been writing in secret.\n\nThe turning point came in 1965. By then, she had returned to her hometown, where she was living in an old house by the river. That year, her first book was finally published — she was 75 years old. Years later, the famous poet Carlos Drummond de Andrade praised her work, and she became known all over Brazil.\n\nBy the time she died in 1985, Cora Coralina had become a symbol of resilience. Her story reminds us that it's never too late to share your voice."
+      },
+      "culture_note": {
+        "title": "\"It's never too late\"",
+        "text_pt": "Expressões em inglês sobre recomeçar: **\"It's never too late\"**, **\"Better late than never\"**, **\"Age is just a number\"** e **\"a late bloomer\"** (alguém que floresce tarde). Em currículos internacionais, mudanças de carreira são cada vez mais valorizadas como **diverse experience**."
+      },
+      "summary_pt": [
+        "had + particípio = concluído antes de outro ponto do passado.",
+        "had been + -ing = duração/causa antes de um ponto do passado.",
+        "By the time + past simple, past perfect.",
+        "Biografia: past simple (linha principal) + past perfect (contexto)."
+      ]
+    },
+    {
+      "id": "B1P-M6-L3",
+      "title": "If you walked every day...",
+      "subtitle_pt": "Second conditional, would, could, might e I wish para saúde e hábitos",
+      "duration_min": 70,
+      "source_refs": [
+        "Keynote Intermediate – Unit 12 (Well-being: How to succeed? Get more sleep / If you walked every day...)",
+        "Keynote Intermediate Videos – TED Talks playlist"
+      ],
+      "objectives": [
+        "Usar o second conditional para hipóteses sobre hábitos e saúde",
+        "Usar could e might na oração principal",
+        "Diferenciar first (real) e second (hipotético) conditional",
+        "Usar I wish / If only para desejos sobre o presente"
+      ],
+      "warmup": {
+        "text_pt": "Se você dormisse oito horas toda noite, como seria sua vida? Se caminhasse 30 minutos por dia? Hoje vamos imaginar versões mais saudáveis de nós mesmos — e falar sobre o que nos impede.",
+        "questions": [
+          "How many hours do you usually sleep?",
+          "If you had one more hour every day, what would you do with it?"
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "well-being / wellness",
+          "pt": "bem-estar",
+          "say": "uél bíin / uélnes"
+        },
+        {
+          "en": "sleep deprivation",
+          "pt": "privação de sono",
+          "say": "slíp deprivêishon"
+        },
+        {
+          "en": "to get enough sleep",
+          "pt": "dormir o suficiente",
+          "say": "tu guét inâf slíp"
+        },
+        {
+          "en": "a sedentary lifestyle",
+          "pt": "um estilo de vida sedentário",
+          "say": "a sédenteri láifstail"
+        },
+        {
+          "en": "to work out / a workout",
+          "pt": "malhar / um treino",
+          "say": "tu uórk áut"
+        },
+        {
+          "en": "to boost (energy / mood)",
+          "pt": "aumentar (energia / humor)",
+          "say": "tu búst"
+        },
+        {
+          "en": "mental health",
+          "pt": "saúde mental",
+          "say": "méntal rélθ"
+        },
+        {
+          "en": "to unwind / to recharge",
+          "pt": "relaxar / recarregar",
+          "say": "tu anuáind / tu ritchárdj"
+        },
+        {
+          "en": "screen time",
+          "pt": "tempo de tela",
+          "say": "skrín táim"
+        },
+        {
+          "en": "a balanced diet",
+          "pt": "uma alimentação equilibrada",
+          "say": "a bélanst dáiet"
+        },
+        {
+          "en": "life expectancy",
+          "pt": "expectativa de vida",
+          "say": "láif ikspéktansi"
+        },
+        {
+          "en": "to burn out",
+          "pt": "ter um esgotamento",
+          "say": "tu bârn áut"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "If I slept more, I'd have more energy.",
+          "pt": "Se eu dormisse mais, teria mais energia."
+        },
+        {
+          "en": "If you walked every day, you'd feel better.",
+          "pt": "Se você caminhasse todo dia, se sentiria melhor."
+        },
+        {
+          "en": "If I had more time, I could cook healthy food.",
+          "pt": "Se eu tivesse mais tempo, poderia cozinhar comida saudável."
+        },
+        {
+          "en": "I wish I didn't work so much.",
+          "pt": "Queria não trabalhar tanto."
+        },
+        {
+          "en": "If only I could sleep eight hours!",
+          "pt": "Quem me dera conseguir dormir oito horas!"
+        },
+        {
+          "en": "What would you change if you could?",
+          "pt": "O que você mudaria se pudesse?"
+        }
+      ],
+      "grammar": {
+        "title": "Second conditional (avançado) + I wish / If only",
+        "explanation_pt": "**Second conditional** = **If + past simple, would / could / might + verbo** → situações **hipotéticas**, imaginárias ou **diferentes da realidade atual**:\n- \"If I **slept** more, I**'d be** less stressed.\" (realidade: não durmo o suficiente)\n- \"If we **walked** to work, we **could save** money.\" (could = seria possível)\n- \"If she **took** a break, she **might feel** better.\" (might = talvez)\n\n**First x second — a escolha depende de quão real você acha a situação:**\n- \"If I **get** a promotion, I**'ll** buy a car.\" → possível, realista\n- \"If I **got** a promotion, I**'d** buy a car.\" → menos provável, hipotético\n\n**If I were you...** → conselho (were para todas as pessoas): \"If I **were** you, I**'d** see a doctor.\"\n\n**Wh- questions:** \"What **would** you **do** if you **had** a month off?\"\n\n**I wish / If only + past simple** → desejo de que o **presente** fosse diferente:\n- \"I **wish** I **had** more free time.\" (mas não tenho)\n- \"**If only** I **didn't have** to work on Saturdays!\" (If only = mais enfático)\n- com habilidade: \"I wish I **could** sleep better.\"\n- com be: \"I wish I **were** more relaxed.\"\n\n**I wish + would** → reclamação sobre o comportamento de **outra pessoa**: \"I wish my neighbor **would** stop playing loud music.\"",
+        "table": {
+          "headers": [
+            "Estrutura",
+            "Uso",
+            "Exemplo"
+          ],
+          "rows": [
+            [
+              "If + past, would + verbo",
+              "hipótese / resultado",
+              "If I exercised, I'd feel better."
+            ],
+            [
+              "If + past, could + verbo",
+              "possibilidade hipotética",
+              "If I had a bike, I could cycle to work."
+            ],
+            [
+              "If + past, might + verbo",
+              "resultado incerto",
+              "If you meditated, you might sleep better."
+            ],
+            [
+              "If I were you, I'd...",
+              "conselho",
+              "If I were you, I'd take a holiday."
+            ],
+            [
+              "I wish / If only + past",
+              "desejo sobre o presente",
+              "I wish I lived near the beach."
+            ],
+            [
+              "I wish + would",
+              "irritação com outra pessoa",
+              "I wish he would stop smoking."
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "If people got enough sleep, they would make better decisions at work.",
+            "pt": "Se as pessoas dormissem o suficiente, tomariam decisões melhores no trabalho."
+          },
+          {
+            "en": "If I didn't have to commute two hours a day, I could go to the gym.",
+            "pt": "Se eu não precisasse gastar duas horas no trajeto, poderia ir à academia."
+          },
+          {
+            "en": "I wish I could switch off after work, but I keep checking my emails.",
+            "pt": "Queria conseguir me desligar depois do trabalho, mas fico checando os e-mails."
+          }
+        ],
+        "tip_pt": "Na fala, **I would** quase sempre vira **I'd**, e **would not** vira **wouldn't**. E nunca use would na oração com **if**: ❌ \"If I would have time...\" ✅ \"If I **had** time...\""
+      },
+      "common_mistakes": [
+        {
+          "wrong": "If I would sleep more, I would feel better.",
+          "right": "If I slept more, I would feel better.",
+          "why_pt": "Na oração com if, use o past simple (não would)."
+        },
+        {
+          "wrong": "I wish I have more time.",
+          "right": "I wish I had more time.",
+          "why_pt": "I wish (presente) + past simple."
+        },
+        {
+          "wrong": "If I was you, I'd rest. (em contexto formal)",
+          "right": "If I were you, I'd rest.",
+          "why_pt": "A forma padrão é If I were."
+        }
+      ],
+      "pronunciation": {
+        "focus": "I'd / you'd / wouldn't",
+        "tip_pt": "**I'd** = \"áid\", **you'd** = \"iúd\", **she'd** = \"shíd\" — o D é curto, mas essencial (sem ele, a frase vira presente). **Wouldn't** = \"uúdent\". **I wish** = \"ái uísh\".",
+        "practice": [
+          "If I slept more, I'd feel better.",
+          "You'd have more energy.",
+          "I wish I could relax."
+        ]
+      },
+      "dialogue": {
+        "title": "Burned out",
+        "context_pt": "Duas amigas conversam sobre cansaço e hábitos durante uma caminhada.",
+        "lines": [
+          {
+            "speaker": "Nanda",
+            "en": "I'm so tired all the time. I wish I had more energy.",
+            "pt": "Estou cansada o tempo todo. Queria ter mais energia."
+          },
+          {
+            "speaker": "Bia",
+            "en": "How many hours do you sleep?",
+            "pt": "Quantas horas você dorme?"
+          },
+          {
+            "speaker": "Nanda",
+            "en": "Five, maybe six. I watch series until one in the morning.",
+            "pt": "Cinco, talvez seis. Fico vendo séries até uma da manhã."
+          },
+          {
+            "speaker": "Bia",
+            "en": "Well, if you went to bed earlier, you'd probably feel much better. Have you tried leaving your phone outside the bedroom?",
+            "pt": "Bom, se você fosse dormir mais cedo, provavelmente se sentiria muito melhor. Já tentou deixar o celular fora do quarto?"
+          },
+          {
+            "speaker": "Nanda",
+            "en": "Never. If I didn't have my phone, I couldn't use it as an alarm!",
+            "pt": "Nunca. Se eu não estivesse com o celular, não conseguiria usar como despertador!"
+          },
+          {
+            "speaker": "Bia",
+            "en": "You could buy a normal alarm clock — they still exist! And if I were you, I'd walk to work. It's only twenty minutes.",
+            "pt": "Você poderia comprar um despertador normal — ainda existem! E se eu fosse você, iria a pé para o trabalho. São só vinte minutos."
+          },
+          {
+            "speaker": "Nanda",
+            "en": "If I walked, I'd arrive all sweaty.",
+            "pt": "Se eu fosse a pé, chegaria toda suada."
+          },
+          {
+            "speaker": "Bia",
+            "en": "If you walked in the morning, it wouldn't be so hot. Come on — what would you do if your doctor told you the same?",
+            "pt": "Se você caminhasse de manhã, não estaria tão quente. Vamos — o que você faria se seu médico te dissesse a mesma coisa?"
+          }
+        ]
+      },
+      "listening": {
+        "title": "Health podcast: small changes",
+        "context_pt": "Um médico fala sobre o impacto de pequenas mudanças de hábito.",
+        "lines": [
+          {
+            "speaker": "Doctor",
+            "en": "My patients often ask me: \"If you could recommend just one change, what would it be?\" My answer is almost always the same: sleep. If most adults slept seven to nine hours a night, we would see fewer cases of heart disease, depression and obesity. The second change would be movement. You don't need to run marathons. If you walked thirty minutes a day, you would reduce your risk of many diseases. And if people spent less time looking at screens before bed, they might fall asleep faster. Many patients tell me they wish they had more time to take care of themselves. But often, it isn't time they need — it's a few small, consistent decisions."
+          }
+        ],
+        "questions": [
+          {
+            "q": "What is the doctor's first recommendation?",
+            "answer": "Sleep (seven to nine hours a night)."
+          },
+          {
+            "q": "What would happen if most adults slept enough?",
+            "answer": "We would see fewer cases of heart disease, depression and obesity."
+          },
+          {
+            "q": "How much walking does he suggest?",
+            "answer": "Thirty minutes a day."
+          },
+          {
+            "q": "What do patients often wish they had?",
+            "answer": "More time to take care of themselves."
+          }
+        ]
+      },
+      "video": {
+        "title": "How to succeed? Get more sleep",
+        "speaker": "Arianna Huffington",
+        "url": "https://www.ted.com/search?q=how+to+succeed+get+more+sleep",
+        "playlist": "https://www.youtube.com/watch?v=sAQfzHBpRsc&list=PLdIk6oC5e9pYKMTeYKp9dEOSeoNEEJ0BJ",
+        "task_pt": "Assista à palestra (cerca de 4 minutos). Depois responda usando o second conditional e I wish:",
+        "questions": [
+          "What happened to the speaker that made her think about sleep?",
+          "What's her main argument about sleep and success?",
+          "If you slept one more hour every night, what would change in your life?",
+          "Do you think your workplace or school values sleep? What do you wish were different?"
+        ]
+      },
+      "reading": {
+        "title": "The Blue Zones",
+        "text": "Why do people in some parts of the world live much longer than others? Journalist Dan Buettner, working with researchers and demographers, identified five regions with unusually high numbers of centenarians and called them the \"Blue Zones\": Okinawa (Japan), Sardinia (Italy), Nicoya (Costa Rica), Ikaria (Greece) and Loma Linda (California, USA). In these places, people don't go to the gym or follow strict diets. Instead, they share some simple habits. They move naturally throughout the day — walking, gardening, doing housework. They eat mostly plants, especially beans, and they stop eating before they feel completely full. They have a strong sense of purpose and close family and community ties. If we all lived like this, would we live to 100? Not necessarily — genes and healthcare also matter, and some researchers have questioned parts of the data. But the main message is hard to argue with: if our daily lives included more movement, better food and stronger relationships, most of us would probably be healthier and happier.",
+        "questions": [
+          {
+            "q": "What are the Blue Zones?",
+            "answer": "Five regions with unusually high numbers of centenarians."
+          },
+          {
+            "q": "How do people there exercise?",
+            "answer": "They move naturally throughout the day (walking, gardening, housework)."
+          },
+          {
+            "q": "What do they eat?",
+            "answer": "Mostly plants, especially beans; they stop before they're completely full."
+          },
+          {
+            "q": "What other factors matter, according to the text?",
+            "answer": "Genes and healthcare (and some data has been questioned)."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "fill_blank",
+          "title": "Second conditional",
+          "instruction": "Complete with the correct form of the verbs.",
+          "instruction_pt": "Complete com a forma correta dos verbos.",
+          "items": [
+            {
+              "prompt": "If I ___ (sleep) more, I ___ (not / be) so tired.",
+              "answer": "slept / wouldn't be"
+            },
+            {
+              "prompt": "If she ___ (live) closer to work, she ___ (can) walk every day.",
+              "answer": "lived / could"
+            },
+            {
+              "prompt": "What ___ you ___ (do) if you ___ (have) a month off?",
+              "answer": "would / do / had"
+            },
+            {
+              "prompt": "If I ___ (be) you, I ___ (talk) to a doctor.",
+              "answer": "were / 'd talk"
+            },
+            {
+              "prompt": "If we ___ (not / have) phones, we ___ (might / sleep) better.",
+              "answer": "didn't have / might sleep"
+            }
+          ]
+        },
+        {
+          "id": "ex2",
+          "type": "multiple_choice",
+          "title": "First or second?",
+          "instruction": "Choose the most natural option.",
+          "instruction_pt": "Escolha a opção mais natural.",
+          "items": [
+            {
+              "prompt": "If it ___ tomorrow, we'll cancel the run. (forecast says rain)",
+              "options": [
+                "rains",
+                "rained"
+              ],
+              "answer": "rains"
+            },
+            {
+              "prompt": "If I ___ a millionaire, I'd hire a personal chef.",
+              "options": [
+                "am",
+                "were"
+              ],
+              "answer": "were"
+            },
+            {
+              "prompt": "If you ___ more water, you'll have fewer headaches.",
+              "options": [
+                "drink",
+                "drank"
+              ],
+              "answer": "drink"
+            },
+            {
+              "prompt": "If humans ___ need sleep, what would we do at night?",
+              "options": [
+                "don't",
+                "didn't"
+              ],
+              "answer": "didn't"
+            }
+          ]
+        },
+        {
+          "id": "ex3",
+          "type": "answer",
+          "title": "I wish / If only",
+          "instruction": "Write a wish for each situation.",
+          "instruction_pt": "Escreva um desejo para cada situação.",
+          "items": [
+            {
+              "prompt": "I work on weekends.",
+              "answer": "I wish I didn't work on weekends."
+            },
+            {
+              "prompt": "I can't fall asleep easily.",
+              "answer": "I wish I could fall asleep easily."
+            },
+            {
+              "prompt": "My roommate always leaves dishes in the sink.",
+              "answer": "I wish my roommate would wash the dishes / wouldn't leave dishes in the sink."
+            },
+            {
+              "prompt": "I'm not very patient.",
+              "answer": "I wish I were/was more patient."
+            }
+          ]
+        },
+        {
+          "id": "ex4",
+          "type": "dictation",
+          "title": "Dictation",
+          "instruction": "Listen and write the sentence.",
+          "instruction_pt": "Ouça e escreva a frase.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "If I slept more, I'd have more energy."
+            },
+            {
+              "prompt": "2",
+              "answer": "If you walked every day, you'd feel better."
+            },
+            {
+              "prompt": "3",
+              "answer": "I wish I didn't work so much."
+            },
+            {
+              "prompt": "4",
+              "answer": "What would you change if you could?"
+            }
+          ]
+        },
+        {
+          "id": "ex5",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the mistake.",
+          "instruction_pt": "Encontre e corrija o erro.",
+          "items": [
+            {
+              "prompt": "If I would have more time, I'd exercise.",
+              "answer": "If I had more time, I'd exercise."
+            },
+            {
+              "prompt": "I wish I can travel more.",
+              "answer": "I wish I could travel more."
+            },
+            {
+              "prompt": "If I had a dog, I walk every day.",
+              "answer": "If I had a dog, I'd walk every day."
+            },
+            {
+              "prompt": "If only I don't have to wake up early!",
+              "answer": "If only I didn't have to wake up early!"
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "fill_blank",
+          "title": "Well-being vocabulary",
+          "instruction": "Complete with: unwind · boost · sedentary · enough · burn out.",
+          "instruction_pt": "Complete com o vocabulário de bem-estar.",
+          "items": [
+            {
+              "prompt": "Most office workers have a ___ lifestyle.",
+              "answer": "sedentary"
+            },
+            {
+              "prompt": "A short walk can ___ your mood and energy.",
+              "answer": "boost"
+            },
+            {
+              "prompt": "I read a book every night to ___ before bed.",
+              "answer": "unwind"
+            },
+            {
+              "prompt": "If you don't get ___ sleep, you might ___.",
+              "answer": "enough / burn out"
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction": "\"Wellness coach\": in pairs, one person describes their current habits and problems; the other gives advice with If I were you... and predicts results with the second conditional. Then change roles.",
+        "instruction_pt": "\"Coach de bem-estar\": em duplas, um descreve seus hábitos e problemas atuais; o outro dá conselhos com If I were you... e prevê resultados com o second conditional. Depois troquem.",
+        "questions": [
+          "If you could change one habit overnight, what would it be?",
+          "What would happen if you stopped using your phone for a week?",
+          "If you lived in a Blue Zone, how would your life be different?",
+          "What do you wish you had more time for?",
+          "What would your ideal day look like?"
+        ]
+      },
+      "writing": {
+        "task": "Write an opinion essay (150–180 words): \"If companies cared more about employees' well-being, they would be more successful.\" Do you agree? Use the second conditional and I wish.",
+        "task_pt": "Escreva uma redação de opinião (150–180 palavras): \"Se as empresas se importassem mais com o bem-estar dos funcionários, seriam mais bem-sucedidas.\" Você concorda? Use o second conditional e I wish.",
+        "model": "I strongly agree that companies would be more successful if they cared more about their employees' well-being.\n\nFirst, if employees slept better and worked fewer extra hours, they would make fewer mistakes and have better ideas. Tired people are rarely creative. Second, if companies offered flexible hours, many workers could exercise, take their children to school and still be productive. People who feel trusted usually work harder, not less. Third, if managers paid attention to mental health, fewer employees would burn out and leave. Replacing a good employee is expensive, so investing in well-being also saves money.\n\nSome people argue that well-being programs are just a trend and that results are what matter. However, in my experience, results and well-being are connected. In my previous job, I worked twelve hours a day, and I wish someone had told me to stop earlier — I burned out after two years.\n\nIn conclusion, if more leaders saw well-being as an investment rather than a cost, both companies and people would be healthier."
+      },
+      "culture_note": {
+        "title": "Work-life balance e \"right to disconnect\"",
+        "text_pt": "Alguns países, como França, Portugal e Austrália, criaram leis de **right to disconnect** (direito à desconexão), que limitam o contato de chefes com funcionários fora do horário de trabalho. Em inglês, expressões comuns: **work-life balance**, **burnout**, **mental health day** e **switch off** (desligar)."
+      },
+      "summary_pt": [
+        "If + past simple, would / could / might + verbo.",
+        "Nunca would na oração com if.",
+        "If I were you, I'd... (conselho).",
+        "I wish / If only + past simple · I wish + could · I wish someone would..."
+      ]
+    },
+    {
+      "id": "B1P-M6-L4",
+      "title": "What are the options?",
+      "subtitle_pt": "Comparar opções, tomar decisões e apresentação final no estilo TED",
+      "duration_min": 80,
+      "source_refs": [
+        "Keynote Intermediate – Unit 12.4 (What are the options?)",
+        "Keynote Intermediate – Unit 12 (Real life: making decisions); Presentation skills sections"
+      ],
+      "objectives": [
+        "Apresentar e comparar opções com prós e contras",
+        "Usar linguagem de tomada de decisão em grupo",
+        "Justificar escolhas com argumentos e condicionais",
+        "Planejar e fazer uma apresentação final de 5 minutos no estilo TED"
+      ],
+      "warmup": {
+        "text_pt": "Chegamos ao fim do curso! 🎓 Nesta última aula, você vai usar tudo o que aprendeu para fazer o que líderes fazem todos os dias: **analisar opções, decidir e comunicar** — e terminar com sua própria palestra.",
+        "questions": [
+          "How do you usually make big decisions?",
+          "What's the hardest decision you've ever made?"
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "an option / an alternative",
+          "pt": "uma opção / uma alternativa",
+          "say": "an ópshon / an oltârnativ"
+        },
+        {
+          "en": "pros and cons",
+          "pt": "prós e contras",
+          "say": "prôuz end kónz"
+        },
+        {
+          "en": "an advantage / a drawback",
+          "pt": "uma vantagem / uma desvantagem",
+          "say": "an edvéntidj / a dróbék"
+        },
+        {
+          "en": "to weigh up (options)",
+          "pt": "pesar (opções)",
+          "say": "tu uêi âp"
+        },
+        {
+          "en": "a trade-off",
+          "pt": "uma troca, concessão",
+          "say": "a trêid óf"
+        },
+        {
+          "en": "to compromise / a compromise",
+          "pt": "ceder / um meio-termo",
+          "say": "tu kómpromaiz"
+        },
+        {
+          "en": "to reach a decision",
+          "pt": "chegar a uma decisão",
+          "say": "tu rítch a disíjon"
+        },
+        {
+          "en": "to go for (an option)",
+          "pt": "escolher, optar por",
+          "say": "tu gôu for"
+        },
+        {
+          "en": "in the long term / in the short term",
+          "pt": "a longo prazo / a curto prazo",
+          "say": "in dâ lóng târm / shórt târm"
+        },
+        {
+          "en": "it's worth (+ -ing)",
+          "pt": "vale a pena",
+          "say": "its uârθ"
+        },
+        {
+          "en": "on balance",
+          "pt": "pesando tudo",
+          "say": "on bélans"
+        },
+        {
+          "en": "a gut feeling",
+          "pt": "um pressentimento, intuição",
+          "say": "a gât fílin"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "Let's weigh up the options.",
+          "pt": "Vamos pesar as opções."
+        },
+        {
+          "en": "The main advantage is that...",
+          "pt": "A principal vantagem é que..."
+        },
+        {
+          "en": "The drawback is that...",
+          "pt": "A desvantagem é que..."
+        },
+        {
+          "en": "If we went for option A, we'd...",
+          "pt": "Se escolhêssemos a opção A, nós..."
+        },
+        {
+          "en": "On balance, I think we should...",
+          "pt": "Pesando tudo, acho que deveríamos..."
+        },
+        {
+          "en": "Shall we go with that?",
+          "pt": "Vamos fechar com isso?"
+        }
+      ],
+      "grammar": {
+        "title": "Linguagem de decisão + estrutura de apresentação",
+        "explanation_pt": "**1. Apresentar opções:** \"We have **three options**. **The first one is**... **Alternatively**, we could... **Another possibility would be**...\"\n\n**2. Avaliar prós e contras** (comparativos + condicionais):\n- \"**The main advantage of** option A **is that** it's **cheaper than** B.\"\n- \"**The drawback is that** it would take **longer**.\"\n- \"**If we chose** option B, we**'d save** time, **but** we**'d have to** hire more people.\" (second conditional = hipótese)\n- \"**It's worth considering**...\" / \"**There's a trade-off between** cost **and** quality.\"\n\n**3. Discutir em grupo** (concordar, discordar, sugerir — revisão do curso):\n- \"**I see your point, but**...\" / \"**That's a good idea, although**...\"\n- \"**What if we**...?\" / \"**How about**...?\" / \"**Why don't we**...?\"\n- \"**Could we compromise**? **What if** we tried A **for three months** and then reviewed it?\"\n\n**4. Decidir:**\n- \"**On balance**, I think we **should go for**...\"\n- \"**So, have we agreed that**...?\" / \"**Shall we go with that?**\"\n- \"**Let's go for** option B. **We'll** review the results in June.\" (will = decisão)\n\n**5. Estrutura de uma apresentação estilo TED (5 minutos):**\n1. **Gancho** (pergunta, história ou dado surpreendente): \"Have you ever wondered...?\"\n2. **Por que importa** (o problema): \"Every year, ...\"\n3. **Sua história ou experiência** (narrativas no passado, past perfect)\n4. **Sua ideia** (present simple, passiva, relative clauses)\n5. **Evidências e exemplos** (reported speech: \"Researchers have found that...\")\n6. **Imagine se...** (second conditional: \"If every company did this, ...\")\n7. **Chamada para ação** (imperativos, will): \"Tomorrow, try...\"",
+        "table": {
+          "headers": [
+            "Etapa",
+            "Frases-chave"
+          ],
+          "rows": [
+            [
+              "Apresentar opções",
+              "We have three options. / Alternatively, we could..."
+            ],
+            [
+              "Vantagens",
+              "The main advantage is that... / It's worth..."
+            ],
+            [
+              "Desvantagens",
+              "The drawback is that... / There's a trade-off between..."
+            ],
+            [
+              "Hipóteses",
+              "If we chose A, we would..."
+            ],
+            [
+              "Meio-termo",
+              "What if we tried...? / Could we compromise?"
+            ],
+            [
+              "Decidir",
+              "On balance, we should go for... / Shall we go with that?"
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "If we chose the cheaper supplier, we'd save 20%, but the quality might suffer.",
+            "pt": "Se escolhêssemos o fornecedor mais barato, economizaríamos 20%, mas a qualidade poderia cair."
+          },
+          {
+            "en": "There's a trade-off between speed and quality, so let's weigh up the options carefully.",
+            "pt": "Há uma troca entre velocidade e qualidade, então vamos pesar as opções com cuidado."
+          },
+          {
+            "en": "On balance, I think we should go for option B. It's more expensive in the short term, but it's worth it in the long term.",
+            "pt": "Pesando tudo, acho que deveríamos escolher a opção B. É mais cara a curto prazo, mas vale a pena a longo prazo."
+          }
+        ],
+        "tip_pt": "Pesquisas sobre decisão mostram que, para escolhas importantes, **escrever prós e contras** e **dormir sobre o assunto** (sleep on it) ajudam a evitar decisões impulsivas. E às vezes vale ouvir o **gut feeling** — mas explique-o com argumentos!"
+      },
+      "common_mistakes": [
+        {
+          "wrong": "The advantage of option A is cheaper.",
+          "right": "The advantage of option A is that it's cheaper.",
+          "why_pt": "A estrutura é: The advantage is that + frase completa."
+        },
+        {
+          "wrong": "It's worth to try.",
+          "right": "It's worth trying.",
+          "why_pt": "It's worth + -ing."
+        },
+        {
+          "wrong": "If we would choose A, we would save money.",
+          "right": "If we chose A, we would save money.",
+          "why_pt": "Second conditional: past simple depois de if."
+        }
+      ],
+      "pronunciation": {
+        "focus": "Apresentar com impacto",
+        "tip_pt": "Para uma apresentação marcante: **pause** antes da ideia principal, **enfatize** números e palavras-chave, **varie o ritmo** (devagar para o importante, mais rápido para contexto) e **olhe para o público**. Grave-se e ouça: você soa convencido(a) da sua ideia?",
+        "practice": [
+          "Have you ever wondered... (pausa) ...why we're always tired?",
+          "Every year, MILLIONS of people...",
+          "Imagine if... (pausa) ...every company did this."
+        ]
+      },
+      "dialogue": {
+        "title": "Team decision",
+        "context_pt": "Uma equipe precisa decidir como usar o orçamento de treinamento do próximo ano.",
+        "lines": [
+          {
+            "speaker": "Manager",
+            "en": "OK, we have a training budget of 50,000 reais. Let's weigh up the options. What are our alternatives?",
+            "pt": "OK, temos um orçamento de treinamento de 50 mil reais. Vamos pesar as opções. Quais são as alternativas?"
+          },
+          {
+            "speaker": "Igor",
+            "en": "The first option is an English course for the whole team. The main advantage is that we're working with more international clients every month.",
+            "pt": "A primeira opção é um curso de inglês para toda a equipe. A principal vantagem é que estamos atendendo mais clientes internacionais a cada mês."
+          },
+          {
+            "speaker": "Rosa",
+            "en": "Alternatively, we could send three people to a big tech conference in Lisbon. If we went, we'd make important contacts.",
+            "pt": "Ou então, poderíamos mandar três pessoas para uma grande conferência de tecnologia em Lisboa. Se fôssemos, faríamos contatos importantes."
+          },
+          {
+            "speaker": "Igor",
+            "en": "I see your point, but the drawback is that only three people would benefit. With the course, everyone would improve.",
+            "pt": "Entendo seu ponto, mas a desvantagem é que só três pessoas se beneficiariam. Com o curso, todos melhorariam."
+          },
+          {
+            "speaker": "Rosa",
+            "en": "True. But there's a trade-off: the course takes a year, and the conference could bring us new clients next month.",
+            "pt": "Verdade. Mas há uma troca: o curso leva um ano, e a conferência poderia nos trazer novos clientes no mês que vem."
+          },
+          {
+            "speaker": "Manager",
+            "en": "Could we compromise? What if we spent 35,000 on the English course and sent one person to the conference?",
+            "pt": "Podemos chegar a um meio-termo? E se gastássemos 35 mil no curso de inglês e mandássemos uma pessoa para a conferência?"
+          },
+          {
+            "speaker": "Igor",
+            "en": "That sounds fair. And the person who goes could share what they learned with the team — in English!",
+            "pt": "Parece justo. E quem for pode compartilhar o que aprendeu com a equipe — em inglês!"
+          },
+          {
+            "speaker": "Manager",
+            "en": "Perfect. On balance, I think that's the best option. Shall we go with that?",
+            "pt": "Perfeito. Pesando tudo, acho que é a melhor opção. Vamos fechar com isso?"
+          }
+        ]
+      },
+      "listening": {
+        "title": "TED-style talk: opening",
+        "context_pt": "O início de uma palestra no estilo TED feita por uma aluna de inglês.",
+        "lines": [
+          {
+            "speaker": "Speaker",
+            "en": "Have you ever pretended to understand something in English just because you were too embarrassed to ask? I have. Hundreds of times. Five years ago, I was in a meeting with clients from Canada, and I nodded at everything they said. I hadn't understood half of it. Two weeks later, we delivered the wrong project. That day, I made a decision: I would never pretend again. Today, I'm going to share three simple strategies that changed the way I speak English — and the way I work. If more people used them, I'm sure we'd have fewer misunderstandings, better meetings and much more confidence. So let's start with the most important one: asking \"What do you mean?\""
+          }
+        ],
+        "questions": [
+          {
+            "q": "What question does the speaker use as a hook?",
+            "answer": "Have you ever pretended to understand something in English because you were embarrassed to ask?"
+          },
+          {
+            "q": "What happened five years ago?",
+            "answer": "She nodded at everything in a meeting with Canadian clients without understanding, and they delivered the wrong project."
+          },
+          {
+            "q": "What decision did she make?",
+            "answer": "She would never pretend to understand again."
+          },
+          {
+            "q": "What would happen if more people used her strategies?",
+            "answer": "Fewer misunderstandings, better meetings and more confidence."
+          }
+        ]
+      },
+      "reading": {
+        "title": "The paradox of choice",
+        "text": "In a supermarket in California, researchers once set up a table with samples of jam. On some days, the table offered 24 flavors; on other days, only 6. The large display attracted more visitors, but when only 6 flavors were offered, a much higher percentage of people actually bought a jar. This famous experiment, published in 2000, helped popularize an idea that psychologist Barry Schwartz called \"the paradox of choice\": having too many options can make it harder to decide and less satisfying once we have decided. When we have many alternatives, we worry that we might have chosen badly, and we imagine how much better the other options might have been. Later studies have shown that the effect doesn't always appear — it depends on how complex the options are and how much we know about them. Still, many experts suggest a practical strategy for everyday decisions: reduce your options to two or three, decide what really matters to you, and remember that \"good enough\" is often better than \"perfect\". As Schwartz has argued, people who look for the absolute best option are often less happy with their choices than people who are satisfied with a good one.",
+        "questions": [
+          {
+            "q": "What happened when 24 flavors were offered?",
+            "answer": "More people visited the table, but a lower percentage bought jam."
+          },
+          {
+            "q": "What is \"the paradox of choice\"?",
+            "answer": "Too many options make it harder to decide and less satisfying afterward."
+          },
+          {
+            "q": "Does the effect always appear?",
+            "answer": "No — it depends on how complex the options are and how much we know."
+          },
+          {
+            "q": "What practical strategy do experts suggest?",
+            "answer": "Reduce options to two or three, decide what matters and accept \"good enough\"."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "match",
+          "title": "Decision language",
+          "instruction": "Write the function: OPTIONS, PROS, CONS, COMPROMISE or DECIDE.",
+          "instruction_pt": "Escreva a função: OPTIONS, PROS, CONS, COMPROMISE ou DECIDE.",
+          "items": [
+            {
+              "prompt": "Alternatively, we could...",
+              "answer": "OPTIONS"
+            },
+            {
+              "prompt": "The main advantage is that...",
+              "answer": "PROS"
+            },
+            {
+              "prompt": "The drawback is that...",
+              "answer": "CONS"
+            },
+            {
+              "prompt": "What if we tried both for a month?",
+              "answer": "COMPROMISE"
+            },
+            {
+              "prompt": "On balance, let's go for option B.",
+              "answer": "DECIDE"
+            }
+          ]
+        },
+        {
+          "id": "ex2",
+          "type": "fill_blank",
+          "title": "Evaluate the options",
+          "instruction": "Complete with the correct form (second conditional or worth + -ing).",
+          "instruction_pt": "Complete com a forma correta.",
+          "items": [
+            {
+              "prompt": "If we ___ (hire) a new designer, we ___ (finish) the project faster.",
+              "answer": "hired / 'd finish"
+            },
+            {
+              "prompt": "It's worth ___ (pay) a bit more for better quality.",
+              "answer": "paying"
+            },
+            {
+              "prompt": "If we ___ (move) the office, our rent ___ (be) lower.",
+              "answer": "moved / would be"
+            },
+            {
+              "prompt": "Is it worth ___ (wait) until next year?",
+              "answer": "waiting"
+            }
+          ]
+        },
+        {
+          "id": "ex3",
+          "type": "order_words",
+          "title": "Structure a TED-style talk",
+          "instruction": "Put the parts of the talk in the best order (write the letters).",
+          "instruction_pt": "Coloque as partes da palestra na melhor ordem (escreva as letras).",
+          "items": [
+            {
+              "prompt": "a) So tomorrow, try this: ... / b) Have you ever wondered why...? / c) Imagine if every school did this... / d) Five years ago, something happened to me... / e) Researchers have found that... / f) Every year, millions of people...",
+              "answer": "b, f, d, e, c, a"
+            }
+          ]
+        },
+        {
+          "id": "ex4",
+          "type": "dictation",
+          "title": "Dictation",
+          "instruction": "Listen and write the sentence.",
+          "instruction_pt": "Ouça e escreva a frase.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "Let's weigh up the options."
+            },
+            {
+              "prompt": "2",
+              "answer": "The drawback is that it would take longer."
+            },
+            {
+              "prompt": "3",
+              "answer": "On balance, I think we should go for option B."
+            },
+            {
+              "prompt": "4",
+              "answer": "Shall we go with that?"
+            }
+          ]
+        },
+        {
+          "id": "ex5",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the mistake.",
+          "instruction_pt": "Encontre e corrija o erro.",
+          "items": [
+            {
+              "prompt": "The advantage of the train is faster.",
+              "answer": "The advantage of the train is that it's faster."
+            },
+            {
+              "prompt": "It's worth to visit Lisbon.",
+              "answer": "It's worth visiting Lisbon."
+            },
+            {
+              "prompt": "If we would go by car, we'd arrive earlier.",
+              "answer": "If we went by car, we'd arrive earlier."
+            },
+            {
+              "prompt": "On balance, I think we should to choose B.",
+              "answer": "On balance, I think we should choose B."
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "translate",
+          "title": "Course review: translate",
+          "instruction": "Translate into English using structures from the whole course.",
+          "instruction_pt": "Traduza para o inglês usando estruturas de todo o curso.",
+          "items": [
+            {
+              "prompt": "Ela me disse que tinha trabalhado lá por dez anos.",
+              "answer": "She told me (that) she had worked/been working there for ten years."
+            },
+            {
+              "prompt": "Se eu fosse você, aceitaria a proposta.",
+              "answer": "If I were you, I'd accept the offer."
+            },
+            {
+              "prompt": "Mais de mil árvores já foram plantadas.",
+              "answer": "More than a thousand trees have been planted."
+            },
+            {
+              "prompt": "Ele deve ter esquecido a reunião.",
+              "answer": "He must have forgotten the meeting."
+            },
+            {
+              "prompt": "Pesando tudo, vale a pena tentar.",
+              "answer": "On balance, it's worth trying."
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction": "Part 1 – Group decision (15 min): your group has R$100,000 to improve your city/school/company. Present 3 options, discuss pros and cons, reach a compromise and present the decision. Part 2 – Final TED-style talk (5 min each): use the 7-step structure.",
+        "instruction_pt": "Parte 1 – Decisão em grupo (15 min): seu grupo tem R$100.000 para melhorar a cidade/escola/empresa. Apresentem 3 opções, discutam prós e contras, cheguem a um meio-termo e apresentem a decisão. Parte 2 – Palestra final estilo TED (5 min cada): use a estrutura de 7 passos.",
+        "questions": [
+          "What's the hardest decision you've ever made? How did you decide?",
+          "Do you trust your gut feeling or prefer lists of pros and cons?",
+          "Have you ever had too many options? What happened?",
+          "What's one idea you'd like to share with the world?",
+          "How has your English changed since you started this course?"
+        ]
+      },
+      "writing": {
+        "task": "Write the full script of your TED-style talk (250–350 words), following the 7-step structure. Use at least 8 different structures from the B1+ level (reported speech, past perfect, passive, second conditional, modals of deduction, relative clauses, etc.).",
+        "task_pt": "Escreva o roteiro completo da sua palestra estilo TED (250–350 palavras), seguindo a estrutura de 7 passos. Use pelo menos 8 estruturas diferentes do nível B1+ (reported speech, past perfect, passiva, second conditional, modais de dedução, relative clauses etc.).",
+        "model": "The power of asking \"What do you mean?\"\n\nHave you ever pretended to understand something just to avoid looking stupid? I'm sure you have. We all have.\n\nEvery day, in offices, classrooms and hospitals around the world, millions of small misunderstandings happen. Some are funny. Some are very expensive.\n\nFive years ago, I was working at a design agency in São Paulo. One morning, a client from Canada asked us for \"something clean and bold\". I nodded and said I understood. I didn't. I had been studying English for years, but I was afraid to ask. Two weeks later, we presented the design. The client looked at it for a long time and then said, very politely, that it wasn't quite what he had imagined. We had to start again from zero.\n\nThat day, I made a promise to myself: I would never pretend to understand again.\n\nSince then, I've learned that asking for clarification is not a weakness — it's a skill. Researchers who study communication have found that people who ask questions are often seen as more competent, not less. A question that takes ten seconds can save weeks of work.\n\nSo here's my idea: let's make \"What do you mean?\" the most normal question in any meeting. Imagine if every team did this. If managers asked their teams to check understanding, and if everyone felt safe to say \"I'm not sure I follow\", we would have fewer mistakes, better ideas and much more trust.\n\nIt must sound simple — and it is. But simple doesn't mean easy.\n\nSo tomorrow, try this: in your next conversation, when you're not 100% sure, stop and ask: \"What exactly do you mean?\" You might feel uncomfortable for a second. But I promise you, it's worth it.\n\nThank you."
+      },
+      "culture_note": {
+        "title": "Parabéns — e próximos passos! 🎓",
+        "text_pt": "Ao concluir o B1+, você tem base para buscar o **B2 (Upper-Intermediate)**: ler artigos e livros sem adaptação, assistir a séries sem legenda em português e participar de reuniões com mais autonomia. Certificações compatíveis com o seu nível incluem **Cambridge B1 Preliminary** ou **B2 First**, **IELTS**, **TOEFL** e **Duolingo English Test** — confira nos sites oficiais as faixas de pontuação. E continue com o hábito que trouxe você até aqui: um pouco de inglês todo dia."
+      },
+      "summary_pt": [
+        "Opções: We have three options / Alternatively, we could...",
+        "Prós e contras: The main advantage/drawback is that... / There's a trade-off between...",
+        "Decidir: On balance, we should go for... / Shall we go with that?",
+        "TED: gancho → problema → história → ideia → evidências → imagine se... → ação."
+      ]
+    }
+  ],
+  "review": {
+    "intro_pt": "Revisão final do curso! Revise reported speech, past perfect, second conditional e linguagem de decisão — e faça o projeto final.",
+    "exercises": [
+      {
+        "id": "r1",
+        "type": "multiple_choice",
+        "title": "Module review",
+        "instruction": "Choose the correct option.",
+        "instruction_pt": "Escolha a opção correta.",
+        "items": [
+          {
+            "prompt": "She ___ me that she was leaving.",
+            "options": [
+              "said",
+              "told",
+              "asked"
+            ],
+            "answer": "told"
+          },
+          {
+            "prompt": "He asked me where ___.",
+            "options": [
+              "did I live",
+              "I lived",
+              "do I live"
+            ],
+            "answer": "I lived"
+          },
+          {
+            "prompt": "By the time we arrived, the show ___.",
+            "options": [
+              "started",
+              "had started",
+              "has started"
+            ],
+            "answer": "had started"
+          },
+          {
+            "prompt": "If I ___ more time, I'd learn to cook.",
+            "options": [
+              "have",
+              "had",
+              "would have"
+            ],
+            "answer": "had"
+          },
+          {
+            "prompt": "It's worth ___ a second opinion.",
+            "options": [
+              "to get",
+              "getting",
+              "get"
+            ],
+            "answer": "getting"
+          }
+        ]
+      },
+      {
+        "id": "r2",
+        "type": "multiple_choice",
+        "title": "B1+ general review",
+        "instruction": "Questions from the whole B1+ level.",
+        "instruction_pt": "Questões de todo o nível B1+.",
+        "items": [
+          {
+            "prompt": "More and more people ___ from home.",
+            "options": [
+              "work",
+              "are working"
+            ],
+            "answer": "are working"
+          },
+          {
+            "prompt": "I'm not used to ___ up so early.",
+            "options": [
+              "wake",
+              "waking",
+              "woke"
+            ],
+            "answer": "waking"
+          },
+          {
+            "prompt": "I have ___ money, so let's go out!",
+            "options": [
+              "little",
+              "a little",
+              "few"
+            ],
+            "answer": "a little"
+          },
+          {
+            "prompt": "That's the designer ___ logo won the award.",
+            "options": [
+              "who",
+              "whose",
+              "which"
+            ],
+            "answer": "whose"
+          },
+          {
+            "prompt": "She ___ forgotten. She never misses meetings.",
+            "options": [
+              "must have",
+              "should have",
+              "can"
+            ],
+            "answer": "must have"
+          },
+          {
+            "prompt": "A new park ___ right now.",
+            "options": [
+              "is building",
+              "is being built",
+              "has built"
+            ],
+            "answer": "is being built"
+          }
+        ]
+      },
+      {
+        "id": "r3",
+        "type": "translate",
+        "title": "Translate",
+        "instruction": "Translate into English.",
+        "instruction_pt": "Traduza para o inglês.",
+        "items": [
+          {
+            "prompt": "Ele me pediu para não me atrasar.",
+            "answer": "He asked/told me not to be late."
+          },
+          {
+            "prompt": "Ela trabalhava lá havia anos quando pediu demissão.",
+            "answer": "She had been working there for years when she quit."
+          },
+          {
+            "prompt": "Queria conseguir dormir melhor.",
+            "answer": "I wish I could sleep better."
+          },
+          {
+            "prompt": "Pesando tudo, deveríamos escolher a opção B.",
+            "answer": "On balance, we should go for option B."
+          }
+        ]
+      },
+      {
+        "id": "r4",
+        "type": "dictation",
+        "title": "Dictation",
+        "instruction": "Listen and write the sentence.",
+        "instruction_pt": "Ouça e escreva a frase.",
+        "items": [
+          {
+            "prompt": "1",
+            "answer": "They asked if I could help."
+          },
+          {
+            "prompt": "2",
+            "answer": "By the time she was 30, she had founded three companies."
+          },
+          {
+            "prompt": "3",
+            "answer": "If you walked every day, you'd feel better."
+          }
+        ]
+      },
+      {
+        "id": "r5",
+        "type": "correct_error",
+        "title": "Fix the mistake",
+        "instruction": "Find and correct the mistake.",
+        "instruction_pt": "Encontre e corrija o erro.",
+        "items": [
+          {
+            "prompt": "She said me that she was busy.",
+            "answer": "She told me (that) she was busy."
+          },
+          {
+            "prompt": "If I would have money, I'd travel.",
+            "answer": "If I had money, I'd travel."
+          },
+          {
+            "prompt": "It's worth to try.",
+            "answer": "It's worth trying."
+          }
+        ]
+      }
+    ],
+    "speaking_pt": "Conversa final do curso: grave um vídeo de 5 minutos respondendo às perguntas sem ler. Depois, assista aos seus vídeos do A1, A2 e B1 e escreva 3 frases sobre sua evolução.",
+    "speaking_questions": [
+      "Tell me about a leader or person who inspired you and what they told you.",
+      "Tell me the story of a big achievement in your life — what had you done before it?",
+      "If you could change one thing about your lifestyle, what would it be and why?",
+      "Describe a difficult decision you made: what were the options and how did you decide?",
+      "What's the most important thing you've learned in this course?"
+    ],
+    "project_pt": "**Projeto final do curso — \"My TED Talk\":** apresente (ao vivo ou gravado) sua palestra de 5 minutos no estilo TED, usando o roteiro que você escreveu. Critérios: estrutura (gancho → ação), clareza (sem jargão, com exemplos), variedade de estruturas do B1+, pronúncia e conexão com o público. Compartilhe com a turma e dê feedback aos colegas usando reported speech: \"I liked when she said that...\". Parabéns por chegar até aqui! 🎓🚀"
+  }
+}

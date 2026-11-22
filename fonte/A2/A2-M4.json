@@ -1,0 +1,514 @@
+{
+  "id": "A2-M4",
+  "level": "A2",
+  "title": "Better or Worse?",
+  "theme_pt": "Comparações, escolhas de consumo e avaliações",
+  "can_do": ["Comparar produtos, lugares e pessoas", "Usar comparativos de adjetivos curtos, longos e irregulares", "Dizer qual é o melhor, o pior, o mais barato", "Usar too, enough e as...as para avaliar opções", "Ler e escrever avaliações de produtos e lugares"],
+  "lessons": [
+    {
+      "id": "A2-M4-L1",
+      "title": "Cheaper and faster",
+      "subtitle_pt": "Comparativo de adjetivos curtos",
+      "duration_min": 50,
+      "source_refs": ["To Go A2 – Lesson 12 (comparative: short adjectives)", "StartUp 1 – Unit 5"],
+      "objectives": ["Formar o comparativo com -er + than", "Aplicar as regras de ortografia (bigger, easier, nicer)", "Comparar produtos e serviços do dia a dia", "Usar much / a bit para graduar a diferença"],
+      "warmup": {
+        "text_pt": "Você usa mais de um app de transporte ou de entrega? Como você decide qual usar?",
+        "questions": ["Bus or subway: which is faster in your city?", "Which is cheaper: cooking or ordering food?"]
+      },
+      "vocabulary": [
+        {"en": "cheap → cheaper", "pt": "barato → mais barato", "say": "tchíp → tchíper"},
+        {"en": "fast → faster", "pt": "rápido → mais rápido", "say": "fést → féster"},
+        {"en": "slow → slower", "pt": "lento → mais lento", "say": "slôu → slôuer"},
+        {"en": "big → bigger", "pt": "grande → maior", "say": "big → bíguer"},
+        {"en": "small → smaller", "pt": "pequeno → menor", "say": "smól → smóler"},
+        {"en": "easy → easier", "pt": "fácil → mais fácil", "say": "ízi → ízier"},
+        {"en": "safe → safer", "pt": "seguro → mais seguro", "say": "sêif → sêifer"},
+        {"en": "light → lighter", "pt": "leve → mais leve", "say": "láit → láiter"},
+        {"en": "heavy → heavier", "pt": "pesado → mais pesado", "say": "révi → révier"},
+        {"en": "new → newer", "pt": "novo → mais novo", "say": "niú → niúer"},
+        {"en": "battery life", "pt": "duração da bateria", "say": "bérari láif"},
+        {"en": "screen", "pt": "tela", "say": "skrín"}
+      ],
+      "chunks": [
+        {"en": "Which one is cheaper?", "pt": "Qual é mais barato?"},
+        {"en": "It's much faster than the bus.", "pt": "É muito mais rápido que o ônibus."},
+        {"en": "It's a bit more expensive, but...", "pt": "É um pouco mais caro, mas..."},
+        {"en": "The new model is lighter.", "pt": "O modelo novo é mais leve."},
+        {"en": "It's not worth the extra money.", "pt": "Não vale o dinheiro a mais."}
+      ],
+      "grammar": {
+        "title": "Comparativo: adjetivo + -er + than",
+        "explanation_pt": "Para comparar duas coisas com **adjetivos curtos** (1 sílaba ou 2 sílabas terminadas em -y):\n\n**adjetivo + -er + than** → \"The subway is fast**er than** the bus.\"\n\n**Regras de ortografia:**\n1. Regra geral: **+er** → cheap → cheap**er**, fast → fast**er**\n2. Termina em **-e**: **+r** → nice → nice**r**, safe → safe**r**\n3. Consoante-vogal-consoante: **dobra** → big → bi**gg**er, hot → ho**tt**er, thin → thi**nn**er\n4. Termina em consoante + **y**: **-ier** → easy → eas**ier**, heavy → heav**ier**, happy → happ**ier**\n\n**Graduar a diferença:** **much / a lot** (muito) e **a bit / a little** (um pouco) + comparativo:\n\"It's **much** cheaper.\" / \"It's **a bit** slower.\"",
+        "table": {
+          "headers": ["Adjetivo", "Comparativo", "Exemplo"],
+          "rows": [["cheap", "cheaper", "This plan is cheaper than that one."], ["nice", "nicer", "The new office is nicer."], ["big", "bigger", "São Paulo is bigger than Rio."], ["easy", "easier", "Android is easier for me."], ["heavy", "heavier", "My laptop is heavier than yours."]]
+        },
+        "examples": [
+          {"en": "The subway is much faster than the bus at rush hour.", "pt": "O metrô é muito mais rápido que o ônibus no horário de pico."},
+          {"en": "This phone is a bit bigger, but the battery life is longer.", "pt": "Este celular é um pouco maior, mas a bateria dura mais."},
+          {"en": "Is it cheaper to rent or to buy?", "pt": "É mais barato alugar ou comprar?"}
+        ],
+        "tip_pt": "Depois de **than**, use **me, him, her, us, them** na fala informal: \"She's taller **than me**.\" Na fala formal: \"than I am\"."
+      },
+      "common_mistakes": [
+        {"wrong": "more cheap / more big", "right": "cheaper / bigger", "why_pt": "Adjetivos curtos usam -er, não more."},
+        {"wrong": "It's faster that the bus.", "right": "It's faster than the bus.", "why_pt": "Comparação usa than (e não that)."},
+        {"wrong": "bigest / easyer", "right": "bigger / easier", "why_pt": "Atenção à ortografia: dobra a consoante (big) e y vira i (easy)."}
+      ],
+      "pronunciation": {
+        "focus": "Than fraco",
+        "tip_pt": "**Than** é uma palavra fraca: soa como \"dân\" rápido, quase \"dn\". A força vai no adjetivo: \"It's **CHEAP**er than the **BUS**.\" O -er também é fraco: \"tchíp-âr\".",
+        "practice": ["It's CHEAPer than the BUS.", "She's TALLer than me.", "It's MUCH FASTer."]
+      },
+      "dialogue": {
+        "title": "Which phone?",
+        "context_pt": "Um cliente pede ajuda para escolher entre dois celulares numa loja.",
+        "lines": [
+          {"speaker": "Bruno", "en": "Hi. I can't decide between these two phones. Which one is better?", "pt": "Oi. Não consigo decidir entre esses dois celulares. Qual é melhor?"},
+          {"speaker": "Clerk", "en": "Well, the X10 is cheaper. It's 1,800 reais, and the Pro is 2,500.", "pt": "Bom, o X10 é mais barato. Custa 1.800 reais, e o Pro custa 2.500."},
+          {"speaker": "Bruno", "en": "That's much cheaper! What's the difference?", "pt": "É bem mais barato! Qual é a diferença?"},
+          {"speaker": "Clerk", "en": "The Pro is faster and the camera is newer. It's also lighter.", "pt": "O Pro é mais rápido e a câmera é mais nova. Também é mais leve."},
+          {"speaker": "Bruno", "en": "And the battery?", "pt": "E a bateria?"},
+          {"speaker": "Clerk", "en": "The X10's battery life is longer, actually. The screen is a bit bigger, too.", "pt": "Na verdade, a bateria do X10 dura mais. A tela também é um pouco maior."},
+          {"speaker": "Bruno", "en": "Hmm. I watch a lot of videos... I think the X10 is the right one for me.", "pt": "Hmm. Eu vejo muitos vídeos... Acho que o X10 é o certo para mim."}
+        ]
+      },
+      "listening": {
+        "title": "Ad: FastBike vs. the car",
+        "context_pt": "Um anúncio de rádio de um serviço de bicicletas compartilhadas.",
+        "lines": [
+          {"speaker": "Announcer", "en": "Are you tired of traffic? Try FastBike! In the city center, a bike is faster than a car at rush hour. It's much cheaper than a taxi — only five reais an hour. It's healthier than sitting in traffic, and it's greener, too! Our new bikes are lighter and safer than the old ones. Download the FastBike app today. Life is easier on two wheels!"}
+        ],
+        "questions": [
+          {"q": "When is a bike faster than a car?", "answer": "In the city center at rush hour."},
+          {"q": "How much is FastBike?", "answer": "Five reais an hour."},
+          {"q": "How are the new bikes different?", "answer": "They're lighter and safer than the old ones."},
+          {"q": "What do you need to download?", "answer": "The FastBike app."}
+        ]
+      },
+      "reading": {
+        "title": "Train or plane?",
+        "text": "Is it better to take the train or the plane from London to Paris? The plane is faster in the air — only one hour and fifteen minutes. But the airports are far from the city centers, and you need to arrive early. The train takes about two hours and twenty minutes, from city center to city center. Train tickets are often cheaper if you buy early, and the seats are bigger. The train is also greener: its carbon emissions are much lower. For many travelers, the train is the smarter choice.",
+        "questions": [
+          {"q": "Which is faster in the air?", "answer": "The plane (1h15)."},
+          {"q": "What is a problem with airports?", "answer": "They're far from the city centers and you need to arrive early."},
+          {"q": "Name two advantages of the train.", "answer": "Cheaper if you buy early, bigger seats, greener, city center to city center."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "answer", "title": "Comparative forms", "instruction": "Write the comparative form.", "instruction_pt": "Escreva a forma comparativa.",
+         "items": [{"prompt": "cheap", "answer": "cheaper"}, {"prompt": "hot", "answer": "hotter"}, {"prompt": "easy", "answer": "easier"}, {"prompt": "safe", "answer": "safer"}, {"prompt": "busy", "answer": "busier"}, {"prompt": "thin", "answer": "thinner"}]},
+        {"id": "ex2", "type": "fill_blank", "title": "Make comparisons", "instruction": "Complete with the comparative + than.", "instruction_pt": "Complete com o comparativo + than.",
+         "items": [{"prompt": "A bike is ___ (slow) a car on the highway.", "answer": "slower than"}, {"prompt": "Lisbon is ___ (small) London.", "answer": "smaller than"}, {"prompt": "My new job is ___ (easy) my old job.", "answer": "easier than"}, {"prompt": "Summer in Rio is ___ (hot) summer in Curitiba.", "answer": "hotter than"}]},
+        {"id": "ex3", "type": "true_false", "title": "Dialogue", "instruction": "Read the dialogue again. True or False?", "instruction_pt": "Releia o diálogo e marque True ou False.",
+         "items": [{"prompt": "The X10 is cheaper than the Pro.", "answer": true}, {"prompt": "The X10 is faster.", "answer": false}, {"prompt": "The X10's battery life is longer.", "answer": true}, {"prompt": "Bruno chooses the Pro.", "answer": false}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "Which one is cheaper?"}, {"prompt": "2", "answer": "It's much faster than the bus."}, {"prompt": "3", "answer": "The new model is lighter."}, {"prompt": "4", "answer": "She's taller than me."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "This hotel is more cheap.", "answer": "This hotel is cheaper."}, {"prompt": "Rio is hoter than São Paulo.", "answer": "Rio is hotter than São Paulo."}, {"prompt": "My bag is heavyer than yours.", "answer": "My bag is heavier than yours."}, {"prompt": "The train is faster that the bus.", "answer": "The train is faster than the bus."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the dialogue", "instruction": "Complete with: much · than · bit · cheaper · faster.", "instruction_pt": "Complete o diálogo.",
+         "items": [{"prompt": "A: Uber or the subway? Which is ___?", "answer": "faster"}, {"prompt": "B: The subway. It's ___ faster at 6 p.m.", "answer": "much"}, {"prompt": "A: And it's ___, right?", "answer": "cheaper"}, {"prompt": "B: Yes. It's a ___ less comfortable ___ a car, but it's OK.", "answer": "bit / than"}]}
+      ],
+      "speaking": {
+        "instruction": "Compare two options for each topic and choose one. Explain why.",
+        "instruction_pt": "Compare duas opções para cada tema e escolha uma. Explique por quê.",
+        "questions": ["Your city or a city you visited: which is safer?", "iPhone or Android: which is easier for you?", "Beach or mountains: which is nicer for a vacation?", "Bus or bike: which is faster in your neighborhood?", "Cats or dogs: which are better pets?"]
+      },
+      "writing": {
+        "task": "Compare two products you are thinking of buying (60–80 words) and say which one you prefer.",
+        "task_pt": "Compare dois produtos que você pensa em comprar (60–80 palavras) e diga qual prefere.",
+        "model": "I need new running shoes. The Nike model is lighter and newer, but the Asics model is cheaper — it's about 200 reais less. The Asics are a bit heavier, but they're softer and better for long runs. My knees are not very young anymore! 😅 So I think the Asics are the smarter choice for me."
+      },
+      "culture_note": {
+        "title": "\"Bigger is better\"?",
+        "text_pt": "A expressão **\"Bigger is better\"** é associada à cultura americana: carros grandes, porções enormes, casas grandes. Já a filosofia minimalista diz **\"Less is more\"**. Qual combina mais com você?"
+      },
+      "summary_pt": ["Adjetivo curto + -er + than.", "nicer, bigger, easier (ortografia).", "much / a bit + comparativo.", "than (não that)."]
+    },
+    {
+      "id": "A2-M4-L2",
+      "title": "More comfortable",
+      "subtitle_pt": "Comparativo de adjetivos longos e irregulares",
+      "duration_min": 50,
+      "source_refs": ["To Go A2 – Lesson 13 (comparative: long adjectives)", "StartUp 1 – Unit 3 (homes)"],
+      "objectives": ["Usar more / less + adjetivo longo", "Usar os irregulares: better, worse, farther", "Comparar cidades, casas e estilos de vida", "Usar the same as / different from"],
+      "warmup": {
+        "text_pt": "Se você pudesse morar em qualquer cidade do mundo, qual seria? Por que ela é melhor que a sua?",
+        "questions": ["Is your city better or worse than 10 years ago?", "House or apartment: which is more comfortable?"]
+      },
+      "vocabulary": [
+        {"en": "expensive → more expensive", "pt": "caro → mais caro", "say": "ikspénsiv"},
+        {"en": "comfortable", "pt": "confortável", "say": "kâmfortabol"},
+        {"en": "beautiful", "pt": "bonito, lindo", "say": "biútiful"},
+        {"en": "dangerous", "pt": "perigoso", "say": "dêindjeras"},
+        {"en": "interesting", "pt": "interessante", "say": "íntresting"},
+        {"en": "convenient", "pt": "prático, conveniente", "say": "konvínient"},
+        {"en": "polluted", "pt": "poluído", "say": "polútid"},
+        {"en": "good → better", "pt": "bom → melhor", "say": "gud → bérer"},
+        {"en": "bad → worse", "pt": "ruim → pior", "say": "béd → uârs"},
+        {"en": "far → farther / further", "pt": "longe → mais longe", "say": "fár → fárder / fârder"},
+        {"en": "cost of living", "pt": "custo de vida", "say": "kóst ov lívin"},
+        {"en": "neighborhood", "pt": "bairro", "say": "nêiborrud"}
+      ],
+      "chunks": [
+        {"en": "It's more expensive than I thought.", "pt": "É mais caro do que eu pensava."},
+        {"en": "Life here is much better.", "pt": "A vida aqui é muito melhor."},
+        {"en": "The traffic is getting worse.", "pt": "O trânsito está ficando pior."},
+        {"en": "It's less stressful.", "pt": "É menos estressante."},
+        {"en": "It's different from Brazil.", "pt": "É diferente do Brasil."},
+        {"en": "It's the same as mine.", "pt": "É igual ao meu."}
+      ],
+      "grammar": {
+        "title": "more / less + adjetivo longo · better / worse",
+        "explanation_pt": "**Adjetivos longos** (2+ sílabas, que não terminam em -y) usam **more** (mais) ou **less** (menos):\n- \"Lisbon is **more beautiful than** I imagined.\"\n- \"Remote work is **less stressful** for me.\"\n\n**Irregulares** — os mais importantes de todos:\n- good → **better** (melhor)\n- bad → **worse** (pior)\n- far → **farther / further** (mais longe)\n\n**Igual e diferente:**\n- **the same as**: \"My phone is **the same as** yours.\"\n- **different from**: \"Life in Canada is **different from** life in Brazil.\"\n- **similar to**: \"Portuguese is **similar to** Spanish.\"\n\n**Getting + comparativo** = ficando cada vez mais: \"It's **getting better**.\" / \"Prices are **getting more expensive**.\"",
+        "table": {
+          "headers": ["Tipo", "Exemplo"],
+          "rows": [["more + longo + than", "Dubai is more expensive than Lisbon."], ["less + adjetivo + than", "The bus is less comfortable than the train."], ["better than", "This version is better than the old one."], ["worse than", "The traffic today is worse than yesterday."], ["the same as", "My answer is the same as yours."], ["different from", "English is different from Portuguese."]]
+        },
+        "examples": [
+          {"en": "Living downtown is more convenient, but it's also more polluted.", "pt": "Morar no centro é mais prático, mas também é mais poluído."},
+          {"en": "The cost of living in Portugal is better than in the UK.", "pt": "O custo de vida em Portugal é melhor que no Reino Unido."},
+          {"en": "My English is getting better every day!", "pt": "Meu inglês está melhorando a cada dia!"}
+        ],
+        "tip_pt": "Nunca use **more** e **-er** juntos: \"more better\" ❌ \"more cheaper\" ❌. É um ou outro."
+      },
+      "common_mistakes": [
+        {"wrong": "more better / more worse", "right": "better / worse", "why_pt": "Better e worse já são comparativos."},
+        {"wrong": "beautifuller", "right": "more beautiful", "why_pt": "Adjetivos longos usam more."},
+        {"wrong": "different of / the same that", "right": "different from / the same as", "why_pt": "Preposições fixas: different from, the same as."}
+      ],
+      "pronunciation": {
+        "focus": "Better, worse e o 'T' americano",
+        "tip_pt": "**Better** no inglês americano soa \"bérer\" (T como R rápido). **Worse** tem o som /ɜː/ de \"bird\" e \"work\": \"uârs\" — não \"uórs\". Cuidado: **worse** (pior) ≠ **words** (palavras).",
+        "practice": ["better · butter · water", "worse · work · word", "It's getting better, not worse."]
+      },
+      "dialogue": {
+        "title": "Life abroad",
+        "context_pt": "Uma brasileira que mora no Canadá conversa com um amigo no Brasil por vídeo.",
+        "lines": [
+          {"speaker": "Igor", "en": "So, how's life in Toronto? Is it better than São Paulo?", "pt": "E aí, como é a vida em Toronto? É melhor que São Paulo?"},
+          {"speaker": "Luana", "en": "In some ways, yes. It's safer and less stressful. The public transport is more efficient.", "pt": "Em alguns aspectos, sim. É mais seguro e menos estressante. O transporte público é mais eficiente."},
+          {"speaker": "Igor", "en": "And the cost of living?", "pt": "E o custo de vida?"},
+          {"speaker": "Luana", "en": "That's worse! Rent is much more expensive than in Brazil.", "pt": "Isso é pior! O aluguel é muito mais caro que no Brasil."},
+          {"speaker": "Igor", "en": "And the weather?", "pt": "E o clima?"},
+          {"speaker": "Luana", "en": "Ha! Very different from Brazil. Winter is colder than my freezer!", "pt": "Ha! Muito diferente do Brasil. O inverno é mais frio que o meu freezer!"},
+          {"speaker": "Igor", "en": "Do you miss anything?", "pt": "Você sente falta de alguma coisa?"},
+          {"speaker": "Luana", "en": "The food and the people. Brazilians are warmer — and the bread is better!", "pt": "Da comida e das pessoas. Os brasileiros são mais calorosos — e o pão é melhor!"}
+        ]
+      },
+      "listening": {
+        "title": "Real estate agent",
+        "context_pt": "Uma corretora compara dois apartamentos para um casal.",
+        "lines": [
+          {"speaker": "Agent", "en": "So, we have two options. The apartment on Green Street is bigger and more modern. It has two bathrooms. But it's farther from the subway — about twenty minutes on foot. The apartment on Park Avenue is smaller and older, but the location is better: it's next to the subway and there are more restaurants. It's also less expensive: twelve hundred dollars a month, compared to fifteen hundred on Green Street. The neighborhood is noisier, though."}
+        ],
+        "questions": [
+          {"q": "Which apartment is bigger?", "answer": "The one on Green Street."},
+          {"q": "Which is farther from the subway?", "answer": "Green Street (about 20 minutes on foot)."},
+          {"q": "How much is the Park Avenue apartment?", "answer": "$1,200 a month."},
+          {"q": "What's the disadvantage of Park Avenue?", "answer": "It's smaller, older and the neighborhood is noisier."}
+        ]
+      },
+      "reading": {
+        "title": "Small town or big city?",
+        "text": "More and more Brazilians are moving from big cities to smaller towns. Why? Life in a small town is usually calmer, safer and less expensive. Rent can be three times cheaper, and the commute is shorter. With remote work, this change is more possible than ever. But small towns are different from big cities: there are fewer job opportunities, fewer hospitals, and life can be less exciting. For some people, it's the best decision of their lives. For others, it's lonelier than they expected.",
+        "questions": [
+          {"q": "Why is life in a small town attractive?", "answer": "It's calmer, safer and less expensive (cheaper rent, shorter commute)."},
+          {"q": "Why is this change more possible now?", "answer": "Because of remote work."},
+          {"q": "What are the disadvantages?", "answer": "Fewer jobs and hospitals, less exciting, can be lonely."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "fill_blank", "title": "Comparatives", "instruction": "Complete with the comparative form (use more, -er or irregular).", "instruction_pt": "Complete com o comparativo.",
+         "items": [{"prompt": "This sofa is ___ (comfortable) than my bed!", "answer": "more comfortable"}, {"prompt": "My cold is ___ (bad) today.", "answer": "worse"}, {"prompt": "The new version is ___ (good) than the old one.", "answer": "better"}, {"prompt": "Paris is ___ (expensive) than Lisbon.", "answer": "more expensive"}, {"prompt": "The airport is ___ (far) than the station.", "answer": "farther / further"}]},
+        {"id": "ex2", "type": "multiple_choice", "title": "Same or different?", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+         "items": [{"prompt": "My birthday is the same ___ my brother's.", "options": ["as", "than", "of"], "answer": "as"}, {"prompt": "This city is very different ___ my hometown.", "options": ["of", "from", "than"], "answer": "from"}, {"prompt": "Spanish is similar ___ Portuguese.", "options": ["to", "as", "from"], "answer": "to"}]},
+        {"id": "ex3", "type": "translate", "title": "Translate", "instruction": "Translate into English.", "instruction_pt": "Traduza para o inglês.",
+         "items": [{"prompt": "O trânsito está ficando pior.", "answer": "The traffic is getting worse."}, {"prompt": "Morar aqui é menos estressante.", "answer": "Living here is less stressful."}, {"prompt": "Meu inglês está melhorando.", "answer": "My English is getting better."}, {"prompt": "É mais caro do que eu pensava.", "answer": "It's more expensive than I thought."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "Life here is much better."}, {"prompt": "2", "answer": "It's less stressful."}, {"prompt": "3", "answer": "The traffic is getting worse."}, {"prompt": "4", "answer": "It's different from Brazil."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "This pizza is more better.", "answer": "This pizza is better."}, {"prompt": "Rome is beautifuller than Milan.", "answer": "Rome is more beautiful than Milan."}, {"prompt": "My car is the same that yours.", "answer": "My car is the same as yours."}, {"prompt": "Today is badder than yesterday.", "answer": "Today is worse than yesterday."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the dialogue", "instruction": "Complete with: better · worse · more · less · from.", "instruction_pt": "Complete o diálogo.",
+         "items": [{"prompt": "A: How's your new job? Is it ___ than the old one?", "answer": "better"}, {"prompt": "B: Yes! It's ___ stressful and the people are ___ friendly.", "answer": "less / more"}, {"prompt": "A: And the salary? — B: A bit ___, but I'm happier.", "answer": "worse"}, {"prompt": "B: The culture is really different ___ my old company.", "answer": "from"}]}
+      ],
+      "speaking": {
+        "instruction": "Compare your city with another city you know. Talk about cost of living, safety, transport, weather and people.",
+        "instruction_pt": "Compare sua cidade com outra que você conhece. Fale de custo de vida, segurança, transporte, clima e pessoas.",
+        "questions": ["Is your city better or worse than 10 years ago?", "Which is more important: a big house or a good location?", "Is life in a small town better than in a big city?", "Is your English getting better? How?", "What's different from Brazil in a country you know?"]
+      },
+      "writing": {
+        "task": "Write a short comparison (80–100 words): \"My city vs. my dream city\".",
+        "task_pt": "Escreva uma comparação curta (80–100 palavras): \"Minha cidade x minha cidade dos sonhos\".",
+        "model": "I live in Belo Horizonte, but my dream city is Barcelona. Barcelona is more beautiful and it has the beach — BH doesn't! The public transport is better and safer, too. However, Barcelona is more expensive and the rent is much higher. The food in BH is better, in my opinion: nothing is better than pão de queijo! And people in BH are warmer and more welcoming. Maybe the perfect city is BH with a beach. 😄"
+      },
+      "culture_note": {
+        "title": "Farther ou further?",
+        "text_pt": "Para distância física, os dois são aceitos (**farther** é mais americano). Para sentido abstrato (mais, adicional), use **further**: \"**further** information\" (mais informações), \"**further** studies\". Em e-mails: \"For **further** questions, please contact...\""
+      },
+      "summary_pt": ["more / less + adjetivo longo + than.", "good → better · bad → worse · far → farther.", "the same as / different from / similar to.", "getting better / worse = ficando melhor/pior."]
+    },
+    {
+      "id": "A2-M4-L3",
+      "title": "The best app ever",
+      "subtitle_pt": "Superlativos",
+      "duration_min": 50,
+      "source_refs": ["To Go A2 – Lessons 12-13 (adjectives, extension to superlatives)", "Keynote / StartUp – superlatives in reviews"],
+      "objectives": ["Formar o superlativo (the -est / the most)", "Usar the best, the worst, the farthest", "Usar ever e in the world / in my life", "Ler e escrever avaliações curtas"],
+      "warmup": {
+        "text_pt": "Qual é o melhor app que você já usou? E o pior? Você costuma ler avaliações antes de comprar ou baixar algo?",
+        "questions": ["What's the best app on your phone?", "What's the most useful thing you bought this year?"]
+      },
+      "vocabulary": [
+        {"en": "the cheapest / the fastest", "pt": "o mais barato / o mais rápido", "say": "dâ tchípest / dâ féstest"},
+        {"en": "the biggest / the easiest", "pt": "o maior / o mais fácil", "say": "dâ bíguest / dâ ízíest"},
+        {"en": "the most popular", "pt": "o mais popular", "say": "dâ môust pópiular"},
+        {"en": "the least expensive", "pt": "o menos caro", "say": "dâ líst ikspénsiv"},
+        {"en": "the best / the worst", "pt": "o melhor / o pior", "say": "dâ bést / dâ uârst"},
+        {"en": "ever", "pt": "de todos os tempos, já", "say": "éver"},
+        {"en": "useful / useless", "pt": "útil / inútil", "say": "iúsful / iúsles"},
+        {"en": "reliable", "pt": "confiável", "say": "riláiabol"},
+        {"en": "user-friendly", "pt": "fácil de usar", "say": "iúzer fréndli"},
+        {"en": "review / rating", "pt": "avaliação / nota", "say": "riviú / rêitin"},
+        {"en": "stars", "pt": "estrelas", "say": "stárz"},
+        {"en": "highly recommended", "pt": "muito recomendado", "say": "ráili rekoméndid"}
+      ],
+      "chunks": [
+        {"en": "It's the best app ever!", "pt": "É o melhor app de todos!"},
+        {"en": "It's the most useful thing I own.", "pt": "É a coisa mais útil que eu tenho."},
+        {"en": "That was the worst meal of my life.", "pt": "Foi a pior refeição da minha vida."},
+        {"en": "Five stars! Highly recommended.", "pt": "Cinco estrelas! Super recomendo."},
+        {"en": "It's one of the cheapest options.", "pt": "É uma das opções mais baratas."}
+      ],
+      "grammar": {
+        "title": "Superlativo: the -est / the most",
+        "explanation_pt": "O **superlativo** compara **três ou mais** coisas e indica o extremo (o mais, o menos). Sempre com **the**.\n\n**Adjetivos curtos:** **the** + adjetivo + **-est** (mesmas regras de ortografia do comparativo):\n- cheap → **the cheapest** · big → **the biggest** · easy → **the easiest** · nice → **the nicest**\n\n**Adjetivos longos:** **the most / the least** + adjetivo:\n- **the most popular**, **the least expensive**\n\n**Irregulares:** good → **the best** · bad → **the worst** · far → **the farthest**\n\n**Complementos comuns:**\n- **in** + lugar/grupo: the biggest city **in** Brazil, the best student **in** the class\n- **of** + período/grupo: the best day **of** my life, the cheapest **of** the three\n- **ever** (com present perfect, você vai aprofundar no B1): the best movie I've **ever** seen\n- **one of the** + superlativo + plural: one of the best **restaurants**",
+        "table": {
+          "headers": ["Adjetivo", "Comparativo", "Superlativo"],
+          "rows": [["cheap", "cheaper", "the cheapest"], ["big", "bigger", "the biggest"], ["easy", "easier", "the easiest"], ["popular", "more popular", "the most popular"], ["good", "better", "the best"], ["bad", "worse", "the worst"]]
+        },
+        "examples": [
+          {"en": "São Paulo is the biggest city in South America.", "pt": "São Paulo é a maior cidade da América do Sul."},
+          {"en": "This is the most user-friendly app I know.", "pt": "Este é o app mais fácil de usar que eu conheço."},
+          {"en": "It was the worst day of my life!", "pt": "Foi o pior dia da minha vida!"}
+        ],
+        "tip_pt": "\"Da/do\" depois do superlativo é **in** para lugares (in the world, in Brazil) — nunca \"of the world\" ❌."
+      },
+      "common_mistakes": [
+        {"wrong": "the most cheap", "right": "the cheapest", "why_pt": "Adjetivo curto usa -est."},
+        {"wrong": "the biggest city of Brazil", "right": "the biggest city in Brazil", "why_pt": "Com lugares, use in."},
+        {"wrong": "It's one of the best restaurant.", "right": "It's one of the best restaurants.", "why_pt": "One of the... pede substantivo no plural."}
+      ],
+      "pronunciation": {
+        "focus": "-est e o T final",
+        "tip_pt": "O **-est** é fraco (\"-ist\") e o T final é leve — às vezes quase some antes de consoante: \"the bes(t) day\". Mas não acrescente vogal: \"the cheapest\" = \"tchípist\", não \"tchípesti\".",
+        "practice": ["the cheapest · the biggest · the best", "the best day of my life", "the most popular app in the world"]
+      },
+      "dialogue": {
+        "title": "App recommendations",
+        "context_pt": "Uma amiga que vai viajar pede recomendações de apps.",
+        "lines": [
+          {"speaker": "Mia", "en": "I'm going to Europe next month. What's the best app for trains?", "pt": "Vou para a Europa mês que vem. Qual é o melhor app para trens?"},
+          {"speaker": "Theo", "en": "Trainline is the most popular, I think. It's the easiest to use.", "pt": "O Trainline é o mais popular, acho. É o mais fácil de usar."},
+          {"speaker": "Mia", "en": "And for money? Cards are the most expensive option, right?", "pt": "E para dinheiro? Cartão é a opção mais cara, né?"},
+          {"speaker": "Theo", "en": "Yes. A digital account is the cheapest way to pay abroad. It's the most useful app I have.", "pt": "Sim. Uma conta digital é o jeito mais barato de pagar no exterior. É o app mais útil que eu tenho."},
+          {"speaker": "Mia", "en": "Great. Any app to avoid?", "pt": "Ótimo. Algum app para evitar?"},
+          {"speaker": "Theo", "en": "Ha! The worst one was a translation app I downloaded in Italy. It translated \"I'm full\" as \"I'm pregnant\"!", "pt": "Ha! O pior foi um app de tradução que baixei na Itália. Ele traduziu \"estou satisfeito\" como \"estou grávido\"!"}
+        ]
+      },
+      "listening": {
+        "title": "Top 3 travel destinations",
+        "context_pt": "Um influenciador de viagens apresenta seu ranking do ano.",
+        "lines": [
+          {"speaker": "Host", "en": "Hey, travelers! Here's my top three of the year. Number three: Lisbon. It's one of the cheapest capitals in Western Europe, and the food is amazing. Number two: Tokyo. It's the biggest city I visited, but also the safest and the cleanest. And number one... Patagonia! It was the most beautiful place of the trip, and the most expensive, too. The worst part? The wind! It was the coldest week of my life."}
+        ],
+        "questions": [
+          {"q": "Why is Lisbon on the list?", "answer": "It's one of the cheapest capitals in Western Europe and the food is amazing."},
+          {"q": "What is special about Tokyo?", "answer": "It's the biggest city he visited, but the safest and cleanest."},
+          {"q": "What was number one?", "answer": "Patagonia."},
+          {"q": "What was the worst part of Patagonia?", "answer": "The wind (the coldest week of his life)."}
+        ]
+      },
+      "reading": {
+        "title": "Reviews: Café Aurora",
+        "text": "⭐⭐⭐⭐⭐ \"The best coffee in town! The baristas are the friendliest people ever, and the cheesecake is the most delicious I know.\" — Julia M.\n⭐⭐⭐ \"Nice place, but it's the noisiest café in the neighborhood. Not the best for working.\" — Ravi K.\n⭐ \"The worst service of my life. I waited 40 minutes for a cappuccino. And it was the most expensive cappuccino I ever had!\" — Tom B.\n⭐⭐⭐⭐ \"One of the cosiest cafés in the city. A bit expensive, but worth it.\" — Ana P.",
+        "questions": [
+          {"q": "What does Julia say about the cheesecake?", "answer": "It's the most delicious she knows."},
+          {"q": "Why is it not good for working, according to Ravi?", "answer": "It's the noisiest café in the neighborhood."},
+          {"q": "What was Tom's problem?", "answer": "He waited 40 minutes and the cappuccino was very expensive."},
+          {"q": "How many stars did Ana give?", "answer": "Four."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "answer", "title": "Superlative forms", "instruction": "Write the superlative form.", "instruction_pt": "Escreva a forma do superlativo.",
+         "items": [{"prompt": "cheap", "answer": "the cheapest"}, {"prompt": "big", "answer": "the biggest"}, {"prompt": "happy", "answer": "the happiest"}, {"prompt": "interesting", "answer": "the most interesting"}, {"prompt": "good", "answer": "the best"}, {"prompt": "bad", "answer": "the worst"}]},
+        {"id": "ex2", "type": "fill_blank", "title": "Superlatives in context", "instruction": "Complete with the superlative of the adjective in parentheses.", "instruction_pt": "Complete com o superlativo.",
+         "items": [{"prompt": "Everest is ___ (high) mountain in the world.", "answer": "the highest"}, {"prompt": "That was ___ (bad) movie of the year.", "answer": "the worst"}, {"prompt": "She's ___ (talented) person in our team.", "answer": "the most talented"}, {"prompt": "This is one of ___ (good) restaurants in Recife.", "answer": "the best"}]},
+        {"id": "ex3", "type": "multiple_choice", "title": "Comparative or superlative?", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+         "items": [{"prompt": "My brother is ___ than me.", "options": ["taller", "the tallest"], "answer": "taller"}, {"prompt": "He's ___ person in my family.", "options": ["taller", "the tallest"], "answer": "the tallest"}, {"prompt": "It's the biggest city ___ Brazil.", "options": ["of", "in"], "answer": "in"}, {"prompt": "It was the best day ___ my life.", "options": ["of", "in"], "answer": "of"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "It's the best app ever!"}, {"prompt": "2", "answer": "That was the worst meal of my life."}, {"prompt": "3", "answer": "It's one of the cheapest options."}, {"prompt": "4", "answer": "Five stars! Highly recommended."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "It's the most cheap hotel.", "answer": "It's the cheapest hotel."}, {"prompt": "He's the better player of the team.", "answer": "He's the best player on/in the team."}, {"prompt": "It's one of the best movie.", "answer": "It's one of the best movies."}, {"prompt": "Tokyo is the biggest city of the world.", "answer": "Tokyo is the biggest city in the world."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Write a review", "instruction": "Complete the review with: best · worst · most · cheapest · ever.", "instruction_pt": "Complete a avaliação.",
+         "items": [{"prompt": "⭐⭐⭐⭐⭐ The ___ pizza in São Paulo!", "answer": "best"}, {"prompt": "The waiters are the ___ friendly people I know.", "answer": "most"}, {"prompt": "And it's the ___ place in the area: R$40 for a big pizza.", "answer": "cheapest"}, {"prompt": "The only bad thing? The ___ parking ___!", "answer": "worst / ever"}]}
+      ],
+      "speaking": {
+        "instruction": "Play \"Top 3\": give your top 3 for each topic and explain with superlatives.",
+        "instruction_pt": "Jogue \"Top 3\": diga seu top 3 em cada tema e explique com superlativos.",
+        "questions": ["What's the best restaurant in your city?", "What's the most useful app on your phone?", "What was the best trip of your life?", "Who's the funniest person you know?", "What's the worst job in the world, in your opinion?"]
+      },
+      "writing": {
+        "task": "Write two online reviews (40–60 words each): one positive and one negative, for a place, product or app.",
+        "task_pt": "Escreva duas avaliações online (40–60 palavras cada): uma positiva e uma negativa, de um lugar, produto ou app.",
+        "model": "⭐⭐⭐⭐⭐ Hostel Mar Azul: The best hostel in Florianópolis! The staff are the friendliest people ever, and it's one of the cheapest places near the beach. Highly recommended!\n⭐ Hotel Central: The worst stay of my life. The room was the smallest I ever saw, and the Wi-Fi was useless. Never again!"
+      },
+      "culture_note": {
+        "title": "Exageros americanos",
+        "text_pt": "Falantes de inglês (especialmente americanos) usam muitos superlativos e intensificadores no dia a dia: **\"Best. Day. Ever!\"**, **\"the greatest of all time\" (GOAT)**, **\"literally the worst\"**. Não leve tudo ao pé da letra — é um estilo de falar com entusiasmo!"
+      },
+      "summary_pt": ["the + -est (curtos) / the most (longos).", "the best · the worst · the farthest.", "in + lugar · of + período/grupo.", "one of the + superlativo + plural."]
+    },
+    {
+      "id": "A2-M4-L4",
+      "title": "Too expensive?",
+      "subtitle_pt": "Too, enough, as...as e compras online",
+      "duration_min": 55,
+      "source_refs": ["StartUp 1 – Unit 5 (shopping)", "To Go A2 – review of adjectives"],
+      "objectives": ["Usar too + adjetivo para problemas", "Usar (not) + adjetivo + enough", "Comparar igualdade com (not) as...as", "Resolver problemas de compras online (trocas, devoluções)"],
+      "warmup": {
+        "text_pt": "Você já comprou algo online que chegou errado? Grande demais, pequeno demais, diferente da foto?",
+        "questions": ["What do you usually buy online?", "Did you ever return something? Why?"]
+      },
+      "vocabulary": [
+        {"en": "too big / too small", "pt": "grande demais / pequeno demais", "say": "tú big / tú smól"},
+        {"en": "(not) big enough", "pt": "(não) grande o suficiente", "say": "big inâf"},
+        {"en": "as cheap as", "pt": "tão barato quanto", "say": "éz tchíp éz"},
+        {"en": "to return / a refund", "pt": "devolver / reembolso", "say": "tu ritârn / a rífând"},
+        {"en": "to exchange", "pt": "trocar", "say": "tu ikstchêindj"},
+        {"en": "damaged / broken", "pt": "danificado / quebrado", "say": "démidjd / brôuken"},
+        {"en": "the wrong size / color", "pt": "o tamanho / a cor errada", "say": "dâ róng sáiz / kâler"},
+        {"en": "delivery / to deliver", "pt": "entrega / entregar", "say": "dilíveri / tu dilíver"},
+        {"en": "tracking number", "pt": "código de rastreio", "say": "trékin nâmber"},
+        {"en": "customer service", "pt": "atendimento ao cliente", "say": "kâstomer sârvis"},
+        {"en": "free shipping", "pt": "frete grátis", "say": "frí shípin"},
+        {"en": "it fits / it doesn't fit", "pt": "serve / não serve (tamanho)", "say": "it fits / it dâzent fit"}
+      ],
+      "chunks": [
+        {"en": "It's too small for me.", "pt": "Está pequeno demais para mim."},
+        {"en": "It isn't big enough.", "pt": "Não é grande o suficiente."},
+        {"en": "I'd like to return this item.", "pt": "Gostaria de devolver este item."},
+        {"en": "Can I exchange it for a larger size?", "pt": "Posso trocar por um tamanho maior?"},
+        {"en": "My order arrived damaged.", "pt": "Meu pedido chegou danificado."},
+        {"en": "It's not as good as the photo.", "pt": "Não é tão bom quanto a foto."}
+      ],
+      "grammar": {
+        "title": "too / enough / as...as",
+        "explanation_pt": "**too + adjetivo** = demais (indica um **problema**):\n- \"These shoes are **too small**.\" (estão pequenos demais — não servem)\n- Cuidado: **too** ≠ **very**. \"It's very expensive\" (é muito caro, mas talvez eu compre). \"It's **too** expensive\" (caro demais — não vou comprar).\n\n**adjetivo + enough** = suficiente (**enough vem depois** do adjetivo):\n- \"The room is**n't big enough** for four people.\"\n- Com substantivo, enough vem **antes**: \"We don't have **enough money**.\"\n\n**as + adjetivo + as** = tão... quanto (igualdade):\n- \"The copy is **as good as** the original.\"\n- **not as...as** = não tão... quanto (forma educada de dizer \"pior\"):\n- \"The hotel was**n't as nice as** the photos.\"",
+        "table": {
+          "headers": ["Estrutura", "Exemplo", "Português"],
+          "rows": [["too + adj", "It's too expensive.", "É caro demais."], ["adj + enough", "It's not warm enough.", "Não é quente o suficiente."], ["enough + noun", "I don't have enough time.", "Não tenho tempo suficiente."], ["as + adj + as", "She's as tall as her mom.", "Ela é tão alta quanto a mãe."], ["not as + adj + as", "It's not as good as before.", "Não é tão bom quanto antes."]]
+        },
+        "examples": [
+          {"en": "The jacket is too tight. Can I exchange it?", "pt": "A jaqueta está apertada demais. Posso trocar?"},
+          {"en": "My suitcase isn't big enough for two weeks.", "pt": "Minha mala não é grande o suficiente para duas semanas."},
+          {"en": "The sequel isn't as good as the first movie.", "pt": "A continuação não é tão boa quanto o primeiro filme."}
+        ],
+        "tip_pt": "**Too** também significa \"também\" no fim da frase: \"I like it, **too**.\" O contexto mostra a diferença."
+      },
+      "common_mistakes": [
+        {"wrong": "It's enough big.", "right": "It's big enough.", "why_pt": "Enough vem depois do adjetivo."},
+        {"wrong": "This coffee is too good! (elogio)", "right": "This coffee is very good! / really good!", "why_pt": "Too indica excesso negativo. Para elogio, use very/really/so."},
+        {"wrong": "It's so cheap than the other.", "right": "It's as cheap as the other.", "why_pt": "Igualdade = as...as."}
+      ],
+      "pronunciation": {
+        "focus": "Enough e o GH com som de F",
+        "tip_pt": "**Enough** = \"inâf\" — o GH soa como **F**! O mesmo acontece em **tough** (\"tâf\"), **rough** (\"râf\") e **laugh** (\"léf\"). Mas em **though** e **through**, o GH é mudo. O inglês é assim! 😅",
+        "practice": ["enough · tough · laugh", "It isn't big enough.", "That's enough, thanks!"]
+      },
+      "dialogue": {
+        "title": "Customer service chat",
+        "context_pt": "Uma cliente fala com o atendimento de uma loja online pelo chat.",
+        "lines": [
+          {"speaker": "Agent", "en": "Hi! Thanks for contacting ShopNow. How can I help?", "pt": "Oi! Obrigado por entrar em contato com a ShopNow. Como posso ajudar?"},
+          {"speaker": "Tati", "en": "Hi. My order arrived yesterday, but the dress is too small.", "pt": "Oi. Meu pedido chegou ontem, mas o vestido está pequeno demais."},
+          {"speaker": "Agent", "en": "I'm sorry to hear that. Would you like to exchange it or get a refund?", "pt": "Sinto muito. Você gostaria de trocar ou receber o reembolso?"},
+          {"speaker": "Tati", "en": "Can I exchange it for a larger size? A medium.", "pt": "Posso trocar por um tamanho maior? Um M."},
+          {"speaker": "Agent", "en": "Of course. Is there anything else?", "pt": "Claro. Mais alguma coisa?"},
+          {"speaker": "Tati", "en": "Yes. The color isn't as bright as the photo on the website. It's a bit disappointing.", "pt": "Sim. A cor não é tão viva quanto a foto do site. É um pouco decepcionante."},
+          {"speaker": "Agent", "en": "Thanks for the feedback. The exchange is free. Here's your return label and tracking number.", "pt": "Obrigado pelo retorno. A troca é grátis. Aqui está sua etiqueta de devolução e o código de rastreio."}
+        ]
+      },
+      "listening": {
+        "title": "Unboxing gone wrong",
+        "context_pt": "Um youtuber abre uma compra online e não fica nada satisfeito.",
+        "lines": [
+          {"speaker": "Host", "en": "OK, guys, I finally got my new gaming chair. Let's open it! Hmm... the box is damaged. Not a good sign. Let's see... Wait. This chair is too small! It's for kids! And the color isn't the same as the photo — it's orange, not red. The quality isn't as good as the reviews said, either. It's not comfortable enough for long gaming sessions. I'm returning it today. Lesson learned: always read the size description!"}
+        ],
+        "questions": [
+          {"q": "What did he buy?", "answer": "A gaming chair."},
+          {"q": "What's the problem with the size?", "answer": "It's too small (it's for kids)."},
+          {"q": "What color is it?", "answer": "Orange (not red like the photo)."},
+          {"q": "What's his lesson?", "answer": "Always read the size description."}
+        ]
+      },
+      "reading": {
+        "title": "Your rights as an online shopper",
+        "text": "In Brazil, the Consumer Protection Code gives online shoppers seven days to change their mind — this is called the \"right of withdrawal\". If the product arrives damaged, or it isn't as described, you can ask for an exchange or a refund. In the European Union, the period is fourteen days. Tips: keep the box and the receipt, take photos of damaged items, and contact customer service quickly. Is the shop too slow to answer? You can file a complaint on consumer websites.",
+        "questions": [
+          {"q": "How many days do Brazilian online shoppers have to change their mind?", "answer": "Seven days."},
+          {"q": "And in the European Union?", "answer": "Fourteen days."},
+          {"q": "Give two tips from the text.", "answer": "Keep the box and the receipt; take photos of damaged items; contact customer service quickly."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "too or very?", "instruction": "Choose too or very.", "instruction_pt": "Escolha too ou very.",
+         "items": [{"prompt": "This cake is ___ good! Can I have more?", "options": ["too", "very"], "answer": "very"}, {"prompt": "I can't wear these pants. They're ___ long.", "options": ["too", "very"], "answer": "too"}, {"prompt": "It's ___ expensive, but I love it. I'll buy it.", "options": ["too", "very"], "answer": "very"}, {"prompt": "It's ___ hot to go running now. Let's go later.", "options": ["too", "very"], "answer": "too"}]},
+        {"id": "ex2", "type": "order_words", "title": "enough", "instruction": "Put the words in order.", "instruction_pt": "Organize as palavras.",
+         "items": [{"prompt": "big / isn't / enough / the room", "answer": "The room isn't big enough."}, {"prompt": "have / time / we / don't / enough", "answer": "We don't have enough time."}, {"prompt": "enough / warm / is / it / ?", "answer": "Is it warm enough?"}]},
+        {"id": "ex3", "type": "fill_blank", "title": "as...as", "instruction": "Complete with as...as or not as...as.", "instruction_pt": "Complete com as...as ou not as...as.",
+         "items": [{"prompt": "My brother is 1,80m. I'm 1,80m. I'm ___ tall ___ my brother.", "answer": "as / as"}, {"prompt": "The book is better than the movie. The movie is ___ good ___ the book.", "answer": "not as / as"}, {"prompt": "The hotel looked amazing online, but it was ___ nice ___ the photos.", "answer": "not as / as"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "It's too small for me."}, {"prompt": "2", "answer": "It isn't big enough."}, {"prompt": "3", "answer": "I'd like to return this item."}, {"prompt": "4", "answer": "My order arrived damaged."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "It's enough cheap.", "answer": "It's cheap enough."}, {"prompt": "We don't have money enough.", "answer": "We don't have enough money."}, {"prompt": "She's as smart than her sister.", "answer": "She's as smart as her sister."}, {"prompt": "Your food is too delicious! I love it!", "answer": "Your food is very/really/so delicious!"}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the complaint", "instruction": "Complete with: return · refund · damaged · too · enough.", "instruction_pt": "Complete a reclamação.",
+         "items": [{"prompt": "My headphones arrived ___. The box was open.", "answer": "damaged"}, {"prompt": "Also, they're ___ big for my ears.", "answer": "too"}, {"prompt": "And the sound isn't loud ___.", "answer": "enough"}, {"prompt": "I'd like to ___ them and get a ___, please.", "answer": "return / refund"}]}
+      ],
+      "speaking": {
+        "instruction": "Role-play: customer and customer service agent. The customer has a problem with an online order. Then change roles.",
+        "instruction_pt": "Role-play: cliente e atendente. O cliente tem um problema com um pedido online. Depois troquem.",
+        "questions": ["What's something that is too expensive in your city?", "Do you have enough free time? Why or why not?", "Is your phone fast enough?", "Is online shopping as safe as shopping in stores?", "What was your worst online shopping experience?"]
+      },
+      "writing": {
+        "task": "Write an email to customer service about a problem with an online order (80–100 words). Explain the problem and what you want.",
+        "task_pt": "Escreva um e-mail ao atendimento sobre um problema com um pedido online (80–100 palavras). Explique o problema e o que você quer.",
+        "model": "Subject: Problem with order #45821\n\nDear Customer Service,\n\nMy order arrived yesterday, but there are some problems. The running shoes are too small — I ordered a size 40, but they sent a 38. Also, the color isn't the same as the photo on your website: it's dark blue, not black. I'd like to exchange them for the correct size and color. If that isn't possible, I'd like a full refund.\n\nThank you,\nRodrigo Alves"
+      },
+      "culture_note": {
+        "title": "Black Friday e Cyber Monday",
+        "text_pt": "A **Black Friday** (sexta após o Thanksgiving, no fim de novembro) começou nos EUA e virou fenômeno no Brasil. A segunda-feira seguinte é a **Cyber Monday**, focada em compras online. Dica: em inglês, \"promoção boa demais para ser verdade\" = **\"too good to be true\"** — desconfie!"
+      },
+      "summary_pt": ["too + adj = demais (problema).", "adj + enough / enough + noun.", "as...as (igual) · not as...as (menos).", "return · refund · exchange."]
+    }
+  ],
+  "review": {
+    "intro_pt": "Revise comparativos, superlativos, too/enough e as...as.",
+    "exercises": [
+      {"id": "r1", "type": "multiple_choice", "title": "Choose the correct option", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+       "items": [{"prompt": "The subway is ___ than the bus.", "options": ["fast", "faster", "more fast"], "answer": "faster"}, {"prompt": "This is ___ restaurant in town.", "options": ["the better", "the best", "best"], "answer": "the best"}, {"prompt": "Lisbon is ___ expensive than London.", "options": ["less", "least", "fewer"], "answer": "less"}, {"prompt": "The box isn't ___.", "options": ["enough big", "big enough", "too big enough"], "answer": "big enough"}, {"prompt": "My phone is as old ___ yours.", "options": ["than", "as", "that"], "answer": "as"}]},
+      {"id": "r2", "type": "fill_blank", "title": "Comparatives and superlatives", "instruction": "Complete with the correct form.", "instruction_pt": "Complete com a forma correta.",
+       "items": [{"prompt": "Today is ___ (hot) day of the year.", "answer": "the hottest"}, {"prompt": "My new apartment is ___ (comfortable) than the old one.", "answer": "more comfortable"}, {"prompt": "The traffic is ___ (bad) than last year.", "answer": "worse"}]},
+      {"id": "r3", "type": "translate", "title": "Translate", "instruction": "Translate into English.", "instruction_pt": "Traduza para o inglês.",
+       "items": [{"prompt": "É caro demais para mim.", "answer": "It's too expensive for me."}, {"prompt": "É a cidade mais bonita do Brasil.", "answer": "It's the most beautiful city in Brazil."}, {"prompt": "Não é tão bom quanto o original.", "answer": "It isn't as good as the original."}]},
+      {"id": "r4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+       "items": [{"prompt": "1", "answer": "It's much cheaper than the other one."}, {"prompt": "2", "answer": "It was the best trip of my life."}, {"prompt": "3", "answer": "We don't have enough time."}]},
+      {"id": "r5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+       "items": [{"prompt": "This hotel is more better.", "answer": "This hotel is better."}, {"prompt": "It's the biggest mall of the city.", "answer": "It's the biggest mall in the city."}, {"prompt": "The room is enough big.", "answer": "The room is big enough."}]}
+    ],
+    "speaking_pt": "Grave um vídeo de 1 a 2 minutos fazendo um \"review\" de um produto, lugar ou app que você usa: compare com outras opções, diga o que é o melhor e o pior e dê uma nota.",
+    "speaking_questions": ["What are you reviewing?", "How is it better or worse than other options?", "What's the best thing about it?", "What's the worst thing?", "How many stars do you give it? Why?"],
+    "project_pt": "**Buyer's guide:** crie um mini-guia de compras em inglês comparando 3 opções de algo (celulares, cafeterias do bairro, apps de streaming...): uma tabela com preços e características + um parágrafo dizendo qual é o melhor custo-benefício (the best value for money)."
+  }
+}

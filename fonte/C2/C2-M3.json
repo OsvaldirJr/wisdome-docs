@@ -1,0 +1,529 @@
+{
+  "id": "C2-M3",
+  "level": "C2",
+  "title": "Knowledge and Uncertainty",
+  "theme_pt": "Certeza, escrita acadêmica, história contrafactual e vieses cognitivos",
+  "can_do": ["Graduar certeza com precisão (in all likelihood, can't possibly have, needn't necessarily)", "Construir sintagmas nominais complexos no estilo acadêmico", "Usar hipóteses complexas (would that, as though + irreal, if need be)", "Comparar com nuance (not so much X as Y, all the more, no less than)"],
+  "lessons": [
+    {
+      "id": "C2-M3-L1",
+      "title": "Degrees of certainty",
+      "subtitle_pt": "Modalidade epistêmica fina: in all likelihood, there's every chance, can't possibly have, needn't necessarily",
+      "duration_min": 80,
+      "source_refs": ["CEFR – C2 descriptors (expressing degrees of certainty precisely)", "Cambridge C2 Proficiency – Reading and Use of English Part 4"],
+      "objectives": ["Expressar graus de certeza com expressões nominais (in all likelihood, there's every chance, the odds are)", "Usar modais com advérbios para precisão (may well, can't possibly, needn't necessarily)", "Usar it + adjetivo + that/whether para avaliar hipóteses", "Comunicar incerteza científica com responsabilidade"],
+      "warmup": {
+        "text_pt": "Um meteorologista diz \"**70% de chance de chuva**\". O que isso significa? Cientistas, médicos e analistas precisam comunicar **graus de certeza** com precisão — e o público frequentemente entende errado. No C2, você vai além de \"may\" e \"must\": \"**In all likelihood**...\", \"**There's every reason to believe**...\", \"It **needn't necessarily** mean...\".",
+        "questions": ["How certain do you need to be before you make an important decision?", "Do you trust weather forecasts? Economic forecasts? Why?"]
+      },
+      "vocabulary": [
+        {"en": "in all likelihood / in all probability", "pt": "muito provavelmente", "say": "in ól laiklirud"},
+        {"en": "there's every chance / reason (that / to)", "pt": "há toda chance / razão", "say": "dérz évri tchéns"},
+        {"en": "the odds are (that)", "pt": "o mais provável é que", "say": "dí ódz ár"},
+        {"en": "a foregone conclusion", "pt": "um resultado certo, já previsto", "say": "a fórgon konklúzhan"},
+        {"en": "a long shot", "pt": "uma aposta improvável", "say": "a lóng shót"},
+        {"en": "it's a toss-up", "pt": "é cara ou coroa", "say": "its a tós âp"},
+        {"en": "conceivably / conceivable", "pt": "possivelmente / concebível", "say": "konsívabli"},
+        {"en": "inconceivable / unthinkable", "pt": "inconcebível / impensável", "say": "inkonsívabol"},
+        {"en": "to rule out / to rule in", "pt": "descartar / considerar possível", "say": "tu rúl áut"},
+        {"en": "a margin of error", "pt": "uma margem de erro", "say": "a márdjin ov érer"},
+        {"en": "a confidence interval", "pt": "um intervalo de confiança", "say": "a kónfidens ínterval"},
+        {"en": "to hedge (a claim)", "pt": "atenuar (uma afirmação)", "say": "tu hédj"}
+      ],
+      "chunks": [
+        {"en": "In all likelihood, rates will rise.", "pt": "Muito provavelmente, os juros vão subir."},
+        {"en": "There's every reason to believe he's telling the truth.", "pt": "Há todos os motivos para acreditar que ele está dizendo a verdade."},
+        {"en": "The odds are that it'll be delayed.", "pt": "O mais provável é que atrase."},
+        {"en": "That needn't necessarily be a bad thing.", "pt": "Isso não precisa necessariamente ser ruim."},
+        {"en": "She can't possibly have known.", "pt": "Ela não tinha como saber."},
+        {"en": "It's a long shot, but it's worth trying.", "pt": "É improvável, mas vale a pena tentar."}
+      ],
+      "grammar": {
+        "title": "Fine-grained epistemic modality",
+        "explanation_pt": "**1. Escala de certeza com expressões nominais e adverbiais** (do mais certo ao menos):\n- **certo:** it's a foregone conclusion · undoubtedly · without a doubt · there's no question that\n- **quase certo:** in all likelihood · in all probability · there's every chance / reason to believe · the odds are (that)\n- **provável:** it's (highly) likely that · S is likely to · chances are (that)\n- **possível:** conceivably · it's not inconceivable that (litotes!) · there's a (slim / outside) chance that\n- **improvável:** it's doubtful whether · S is unlikely to · it's a long shot\n- **impossível:** it's inconceivable / unthinkable that · there's no way that (informal)\n\n**2. Modais + advérbios** (graduação fina):\n- **may / might / could well** (bem provável) x **may / might just** (pequena chance)\n- **can't possibly / couldn't possibly** (impossível) — \"She **can't possibly have** known.\"\n- **needn't necessarily** (não implica obrigatoriamente) — \"A fall in sales **needn't necessarily** mean a crisis.\"\n- **must surely / must have surely** (dedução forte, com ênfase)\n- **would probably / would almost certainly**\n\n**3. It + adjetivo + that / whether:**\n- \"**It is doubtful whether** the plan will work.\"\n- \"**It is highly improbable that**...\" / \"**It is by no means certain that**...\"\n- \"**It is not inconceivable that**...\" (= é possível — mais cauteloso)\n\n**4. Atenção ao \"no passado\":**\n- **must have / can't have / might have + particípio** (dedução)\n- \"**In all likelihood**, the letter **was** lost in the post.\"\n- \"There**'s every chance** he **has** already **left**.\"\n\n**5. Comunicar incerteza:** separe **o que se sabe**, **o que é provável** e **o que é desconhecido**. Evite falsa precisão (\"exactly 73.4%\") e falsa certeza (\"science proves\").",
+        "table": {
+          "headers": ["Grau", "Expressões"],
+          "rows": [["Certo", "a foregone conclusion, undoubtedly"], ["Quase certo", "in all likelihood, there's every chance, the odds are"], ["Provável", "it's highly likely, chances are"], ["Possível", "conceivably, it's not inconceivable, may well"], ["Improvável", "it's doubtful whether, a long shot, might just"], ["Impossível", "inconceivable, can't possibly"]]
+        },
+        "examples": [
+          {"en": "In all likelihood, the virus was circulating for several weeks before the first case was identified.", "pt": "Muito provavelmente, o vírus estava circulando por várias semanas antes de o primeiro caso ser identificado."},
+          {"en": "A single cold winter needn't necessarily contradict the evidence for global warming.", "pt": "Um único inverno frio não contradiz necessariamente as evidências do aquecimento global."},
+          {"en": "It is doubtful whether the new treatment will be available before the end of the decade.", "pt": "É duvidoso que o novo tratamento esteja disponível antes do fim da década."}
+        ],
+        "tip_pt": "\"**Needn't necessarily**\" é muito útil para **evitar conclusões precipitadas**: \"Correlation needn't necessarily imply causation.\" E \"**It's not inconceivable**\" (litotes) soa mais cauteloso que \"it's possible\"."
+      },
+      "common_mistakes": [
+        {"wrong": "In all likelihoods, it will rain.", "right": "In all likelihood, it will rain.", "why_pt": "Expressão fixa no singular."},
+        {"wrong": "It is doubtful that if the plan will work.", "right": "It is doubtful whether / that the plan will work.", "why_pt": "doubtful + whether ou that, sem if duplo."},
+        {"wrong": "She can't possibly knew.", "right": "She can't possibly have known.", "why_pt": "Modal + have + particípio para o passado."}
+      ],
+      "pronunciation": {
+        "focus": "Ênfase na certeza",
+        "tip_pt": "O grau de certeza também está na voz. Em **can't POSSibly** e **needn't NEcessarily**, o advérbio é **muito acentuado**. Em expressões de incerteza, a entonação tende a ser **mais lenta e suspensa**: \"It's... conceivable ↗, I suppose.\"",
+        "practice": ["She can't POSSibly have known.", "That needn't NEcessarily be bad.", "In ALL LIKElihood, it'll be fine."]
+      },
+      "dialogue": {
+        "title": "The forecast",
+        "context_pt": "Uma economista dá entrevista sobre as perspectivas para a inflação.",
+        "lines": [
+          {"speaker": "Host", "en": "So, will inflation fall next year?", "pt": "Então, a inflação vai cair no ano que vem?"},
+          {"speaker": "Economist", "en": "In all likelihood, yes — though I'd stress \"likelihood\". The odds are that it'll be somewhere between 3 and 4 percent.", "pt": "Muito provavelmente, sim — embora eu enfatize o \"provavelmente\". O mais provável é que fique entre 3 e 4 por cento."},
+          {"speaker": "Host", "en": "Some analysts say it's a foregone conclusion.", "pt": "Alguns analistas dizem que é um resultado certo."},
+          {"speaker": "Economist", "en": "I wouldn't go that far. There's every reason to be cautiously optimistic, but it's by no means certain. A drought, for instance, could well push food prices up.", "pt": "Eu não iria tão longe. Há todos os motivos para um otimismo cauteloso, mas não é nada certo. Uma seca, por exemplo, poderia muito bem fazer subir os preços dos alimentos."},
+          {"speaker": "Host", "en": "And if inflation does rise again, does that mean the government has failed?", "pt": "E se a inflação voltar a subir, isso significa que o governo fracassou?"},
+          {"speaker": "Economist", "en": "Not necessarily. A short-term rise needn't necessarily reflect bad policy; it could be driven by global factors nobody can control.", "pt": "Não necessariamente. Uma alta de curto prazo não reflete obrigatoriamente uma política ruim; pode ser causada por fatores globais que ninguém controla."},
+          {"speaker": "Host", "en": "And interest rates? Any chance of a big cut?", "pt": "E os juros? Alguma chance de um corte grande?"},
+          {"speaker": "Economist", "en": "A big cut is a long shot this year. A small one is conceivable, maybe in the second half. Ask me again in six months!", "pt": "Um corte grande é improvável este ano. Um pequeno é concebível, talvez no segundo semestre. Me pergunte de novo daqui a seis meses!"}
+        ]
+      },
+      "listening": {
+        "title": "What does \"likely\" mean?",
+        "context_pt": "Um especialista em comunicação de riscos fala sobre como as pessoas interpretam palavras de probabilidade.",
+        "lines": [
+          {"speaker": "Speaker", "en": "In the 1960s, an analyst at the CIA, Sherman Kent, noticed a worrying problem. Intelligence reports used words like \"probable\", \"likely\" and \"a serious possibility\", but when he asked colleagues what probability these words represented, their answers varied enormously. For some, \"a serious possibility\" meant a 20 percent chance; for others, 80. Later surveys of the general public have found the same pattern. The word \"likely\" might mean 60 percent to one person and 90 to another. This matters. A doctor who says a treatment will \"probably\" work, or a climate report that describes an outcome as \"very likely\", may be understood very differently by different people. That's why some organizations — the Intergovernmental Panel on Climate Change, for instance — attach specific numerical ranges to their words: \"very likely\", in their reports, means 90 to 100 percent. The lesson for all of us? When it really matters, it's worth adding a number."}
+        ],
+        "questions": [
+          {"q": "What problem did Sherman Kent notice?", "answer": "Probability words in reports were interpreted very differently by different people."},
+          {"q": "How differently was \"a serious possibility\" interpreted?", "answer": "From about 20 percent to 80 percent."},
+          {"q": "What does \"very likely\" mean in IPCC reports?", "answer": "90 to 100 percent."},
+          {"q": "What is the speaker's advice?", "answer": "When it matters, add a number."}
+        ]
+      },
+      "reading": {
+        "title": "The science of saying \"we don't know\"",
+        "text": "In the early months of the COVID-19 pandemic, scientists faced a communication challenge of unprecedented scale. They were being asked, daily and in front of enormous audiences, to answer questions that could not yet be answered with confidence. How easily does the virus spread? How deadly is it? Do masks help? The honest answer to many of these questions was, at first, \"We don't know — but here is what we think is likely.\" That answer proved remarkably difficult to communicate. Audiences, understandably, wanted certainty. Politicians often preferred clear messages. And when advice changed as evidence accumulated — as it inevitably did — many people concluded that the experts had been wrong, or worse, dishonest. Yet changing one's mind in response to new evidence is not a failure of science; it is the very essence of it. Researchers who study risk communication have drawn several lessons from the experience. First, uncertainty should be acknowledged openly and early. Studies suggest that admitting uncertainty does not necessarily damage trust; in some cases, audiences find it more credible than false confidence. Second, it helps to distinguish clearly between what is known, what is probable and what is still unknown. Third, communicators should explain in advance that advice may change, and why. If people expect revisions, they are less likely to interpret them as contradictions. None of this is easy. A message hedged with qualifications is, in all likelihood, less memorable than a confident slogan. But there is every reason to believe that, over time, honesty about uncertainty builds a deeper and more durable kind of trust — one that can survive the inevitable moments when the evidence shifts.",
+        "questions": [
+          {"q": "What was the honest answer to many early pandemic questions?", "answer": "\"We don't know — but here is what we think is likely.\""},
+          {"q": "Why did changing advice cause problems?", "answer": "Many people concluded the experts had been wrong or dishonest."},
+          {"q": "Does admitting uncertainty damage trust, according to studies?", "answer": "Not necessarily; sometimes it's seen as more credible."},
+          {"q": "Name two lessons from risk communication research.", "answer": "Acknowledge uncertainty early; distinguish known/probable/unknown; explain in advance that advice may change."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Degrees of certainty", "instruction": "Choose the expression that matches the degree of certainty given.", "instruction_pt": "Escolha a expressão que corresponde ao grau de certeza indicado.",
+         "items": [{"prompt": "(almost certain) ___, the meeting will be postponed.", "options": ["In all likelihood", "Conceivably", "It's a long shot"], "answer": "In all likelihood"}, {"prompt": "(very unlikely) Winning the championship is ___.", "options": ["a foregone conclusion", "a long shot", "every chance"], "answer": "a long shot"}, {"prompt": "(impossible) He ___ have written it — he can't read Russian.", "options": ["can't possibly", "may well", "might just"], "answer": "can't possibly"}, {"prompt": "(possible but cautious) It's not ___ that prices will fall.", "options": ["inconceivable", "conceivable", "likely"], "answer": "inconceivable"}, {"prompt": "(certain) Her victory was ___.", "options": ["a foregone conclusion", "a toss-up", "doubtful"], "answer": "a foregone conclusion"}]},
+        {"id": "ex2", "type": "answer", "title": "Key word transformations (C2 style)", "instruction": "Complete the second sentence using the word in CAPS (3–8 words).", "instruction_pt": "Complete a segunda frase usando a palavra em CAPS (3–8 palavras).",
+         "items": [{"prompt": "It's almost certain that the train will be late. (LIKELIHOOD) → ___, the train will be late.", "answer": "In all likelihood"}, {"prompt": "I really doubt that the project will be finished on time. (DOUBTFUL) → It ___ the project will be finished on time.", "answer": "is doubtful whether"}, {"prompt": "It's impossible that she knew about the plan. (POSSIBLY) → She ___ about the plan.", "answer": "can't possibly have known"}, {"prompt": "There are good reasons to think he's innocent. (EVERY) → There ___ he's innocent.", "answer": "is every reason to believe"}]},
+        {"id": "ex3", "type": "match", "title": "Certainty vocabulary", "instruction": "Write the English expression.", "instruction_pt": "Escreva a expressão em inglês.",
+         "items": [{"prompt": "resultado certo, já previsto", "answer": "a foregone conclusion"}, {"prompt": "aposta improvável", "answer": "a long shot"}, {"prompt": "cara ou coroa (50/50)", "answer": "a toss-up"}, {"prompt": "margem de erro", "answer": "margin of error"}, {"prompt": "o mais provável é que", "answer": "the odds are that"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "In all likelihood, rates will rise."}, {"prompt": "2", "answer": "That needn't necessarily be a bad thing."}, {"prompt": "3", "answer": "She can't possibly have known."}, {"prompt": "4", "answer": "There's every reason to believe he's telling the truth."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "In all likelihoods, the shop will close.", "answer": "In all likelihood, the shop will close."}, {"prompt": "He can't possibly saw the email.", "answer": "He can't possibly have seen the email."}, {"prompt": "That doesn't needn't necessarily be true.", "answer": "That needn't necessarily be true."}, {"prompt": "There is every chances that it will work.", "answer": "There is every chance that it will work."}]},
+        {"id": "ex6", "type": "answer", "title": "Communicate uncertainty", "instruction": "Rewrite each overconfident statement in a responsible, hedged way.", "instruction_pt": "Reescreva cada afirmação excessivamente confiante de forma responsável e atenuada.",
+         "items": [{"prompt": "This drug will cure your disease.", "answer": "Model: In many patients, this drug has been shown to be effective, and there's every chance it will help you — although we can't guarantee it."}, {"prompt": "The economy will grow 3.27% next year.", "answer": "Model: In all likelihood, the economy will grow by around 3% next year, although the margin of error is significant."}, {"prompt": "The new policy has failed.", "answer": "Model: It's too early to say; the initial results needn't necessarily mean the policy has failed."}]}
+      ],
+      "speaking": {
+        "instruction": "\"Prediction market\": in groups, make predictions for the next ten years (technology, Brazil, climate, your own lives). For each prediction, state your degree of certainty using a precise expression and a number (\"In all likelihood — I'd say 80% — ...\"). Compare your estimates and discuss why they differ.",
+        "instruction_pt": "\"Mercado de previsões\": em grupos, façam previsões para os próximos dez anos (tecnologia, Brasil, clima, suas vidas). Para cada uma, indiquem o grau de certeza com uma expressão precisa e um número. Comparem as estimativas e discutam por que diferem.",
+        "questions": ["What do you think \"likely\" means, as a percentage?", "Should experts admit when they don't know?", "Is it a foregone conclusion that AI will change your job?", "What's a long shot you'd still like to try?", "Why do people prefer confident but wrong predictions to honest uncertainty?"]
+      },
+      "writing": {
+        "task": "Write a short article (280–320 words) for a science magazine explaining a scientific or economic question that is still uncertain (e.g. the future of AI, the Amazon tipping point, a new medical treatment). Distinguish clearly between what is known, likely and unknown, using at least eight precise expressions of certainty.",
+        "task_pt": "Escreva um artigo curto (280–320 palavras) para uma revista de ciência explicando uma questão científica ou econômica ainda incerta. Distinga claramente o que se sabe, o que é provável e o que é desconhecido, usando pelo menos oito expressões precisas de certeza.",
+        "model": "Will we ever talk to animals?\n\nIn recent years, a number of research projects have begun using artificial intelligence to analyse the sounds of animals — from sperm whales to bats to crows — in the hope of decoding their communication. Headlines have promised that we may soon be able to \"talk to\" other species. How realistic is that?\n\nWhat we know is this: many animals use complex vocal systems. Some species of birds and whales produce sequences of sounds that follow regular patterns, and researchers have shown that certain calls are associated with particular situations, such as warnings of specific predators. It is beyond doubt that animals communicate, and in some cases in surprisingly sophisticated ways.\n\nWhat is likely is that AI will help scientists detect patterns that humans would never notice. Machine learning is remarkably good at finding structure in large amounts of data, and there is every reason to believe that it will reveal more about how and when animals use particular sounds. In all likelihood, we will soon have much more detailed \"dictionaries\" of animal calls.\n\nWhat remains unknown — and is, frankly, doubtful — is whether any animal communication system is a language in the human sense, with grammar and the ability to express new ideas. Finding patterns needn't necessarily mean finding meaning. A model might predict which sound a whale will make next without understanding what, if anything, the sound refers to.\n\nAs for a two-way conversation, that remains a long shot. Even if we could produce the right sounds, it is by no means certain that animals would interpret them as we intend. It is not inconceivable that we will one day exchange simple signals with another species. But the odds are that the first breakthroughs will be smaller, stranger and more interesting than the headlines suggest."
+      },
+      "culture_note": {
+        "title": "\"Words of estimative probability\"",
+        "text_pt": "O ensaio **\"Words of Estimative Probability\"** (1964), de Sherman Kent, é um clássico sobre como palavras de probabilidade são mal interpretadas. Hoje, organizações como o **IPCC** (clima) e algumas agências de inteligência usam **escalas oficiais** que ligam palavras a porcentagens — um bom exemplo de como a precisão linguística pode ter consequências globais."
+      },
+      "summary_pt": ["Escala: foregone conclusion > in all likelihood > likely > conceivably > doubtful > inconceivable.", "may/might well (provável) x might just (pequena chance).", "can't possibly have + pp; needn't necessarily.", "It is doubtful whether...; it's not inconceivable that...; quando importa, use números."]
+    },
+    {
+      "id": "C2-M3-L2",
+      "title": "The academic voice",
+      "subtitle_pt": "Sintagmas nominais complexos e verbos de citação (argue, contend, posit)",
+      "duration_min": 85,
+      "source_refs": ["CEFR – C2 descriptors (academic writing, summarizing sources)", "Academic writing conventions (English for Academic Purposes)"],
+      "objectives": ["Construir sintagmas nominais complexos (pré e pós-modificação)", "Usar verbos de citação com nuance (argue, contend, posit, acknowledge, dispute)", "Posicionar-se em relação às fontes (stance)", "Escrever um parágrafo acadêmico com citação e avaliação"],
+      "warmup": {
+        "text_pt": "Compare: \"Many young people leave rural areas because there are few jobs there.\" x \"**The large-scale migration of young people from rural areas with limited employment opportunities**...\" A segunda frase é um **sintagma nominal complexo** — a marca registrada da escrita acadêmica em inglês. Somado a verbos de citação precisos (\"Smith **contends** that...\"), ele cria a **voz acadêmica**.",
+        "questions": ["Have you ever written an academic paper or dissertation? What was hardest?", "Why do academic texts often seem difficult to read?"]
+      },
+      "vocabulary": [
+        {"en": "a premise / a hypothesis", "pt": "uma premissa / uma hipótese", "say": "a prémis / a raipóθesis"},
+        {"en": "to contend / to posit", "pt": "sustentar / postular", "say": "tu konténd / tu pózit"},
+        {"en": "to acknowledge / to concede", "pt": "reconhecer / admitir", "say": "tu aknólidj / tu konsíd"},
+        {"en": "to dispute / to challenge", "pt": "contestar / questionar", "say": "tu dispiút / tu tchélindj"},
+        {"en": "to corroborate / to substantiate", "pt": "corroborar / fundamentar", "say": "tu korróboreit / tu sabsténshieit"},
+        {"en": "a body of research / literature", "pt": "um conjunto de pesquisas / literatura", "say": "a bódi ov risârtch"},
+        {"en": "empirical / anecdotal", "pt": "empírico / anedótico", "say": "empírikol / anekdôutol"},
+        {"en": "a framework", "pt": "um referencial teórico", "say": "a fréimuârk"},
+        {"en": "to draw on (a theory)", "pt": "basear-se em (uma teoria)", "say": "tu dró on"},
+        {"en": "a gap in the literature", "pt": "uma lacuna na literatura", "say": "a guép in dâ líteratcher"},
+        {"en": "peer-reviewed", "pt": "revisado por pares", "say": "pír riviúd"},
+        {"en": "to synthesize", "pt": "sintetizar", "say": "tu sínθesaiz"}
+      ],
+      "chunks": [
+        {"en": "Smith (2020) contends that...", "pt": "Smith (2020) sustenta que..."},
+        {"en": "This view has been widely disputed.", "pt": "Essa visão tem sido amplamente contestada."},
+        {"en": "drawing on a large body of research", "pt": "com base num grande conjunto de pesquisas"},
+        {"en": "As Silva rightly points out, ...", "pt": "Como Silva bem observa, ..."},
+        {"en": "This claim is not supported by the evidence.", "pt": "Essa afirmação não é sustentada pelas evidências."},
+        {"en": "Further research is needed to establish...", "pt": "São necessárias mais pesquisas para estabelecer..."}
+      ],
+      "grammar": {
+        "title": "Complex noun phrases and reporting verbs",
+        "explanation_pt": "**1. Sintagma nominal complexo** = núcleo + **pré-modificadores** + **pós-modificadores**:\n\n[the] [**recent**] [**large-scale**] [**rural-to-urban**] **migration** [**of young people**] [**in north-eastern Brazil**] [**over the past two decades**]\n\n- **Pré-modificação:** adjetivos, substantivos como adjetivos (*labour market*, *health policy*), adjetivos compostos (*low-income*, *evidence-based*), particípios (*the growing demand*)\n- **Pós-modificação:** preposições (*of, in, for, on*), orações relativas reduzidas (*the data collected in 2020*, *students attending public schools*), infinitivos (*the decision to expand*), orações relativas (*a policy which...*)\n\n**Dica:** substantivos como adjetivos ficam no **singular**: *a three-year study*, *a labour market policy* (não \"labours market\").\n\n**2. Verbos de citação (reporting verbs) — posição do autor original:**\n- **Neutros:** state, note, report, describe, observe, suggest, propose\n- **Argumentativos (o autor defende):** argue, contend, maintain, claim, assert, posit, insist\n- **Concessão:** acknowledge, concede, admit, recognize\n- **Discordância:** dispute, challenge, question, reject, refute (= provar que é falso!), dismiss\n- **Evidência:** demonstrate, show, find, establish, confirm\n\n**3. Sua posição (stance) em relação à fonte:**\n- **Aceitando:** \"As Silva **rightly** points out...\" / \"Silva **convincingly** demonstrates...\"\n- **Distanciando:** \"Silva **claims** that...\" (dúvida) / \"**According to** Silva...\"\n- **Rejeitando:** \"Silva's argument **fails to account for**...\" / \"This view **overlooks**...\"\n\n**4. Tempo verbal nas citações:**\n- **Presente** para ideias/argumentos ainda relevantes: \"Smith (2020) **argues** that...\"\n- **Passado** para estudos específicos e resultados: \"Smith (2020) **found** that 40% of...\"\n- **Present perfect** para panorama: \"Several studies **have shown**...\"",
+        "table": {
+          "headers": ["Função", "Verbos"],
+          "rows": [["Neutro", "state, note, observe, report, suggest"], ["Defender", "argue, contend, maintain, assert, posit"], ["Admitir", "acknowledge, concede, recognize"], ["Discordar", "dispute, challenge, question, refute, reject"], ["Evidência", "demonstrate, show, establish, confirm"]]
+        },
+        "examples": [
+          {"en": "Drawing on interviews with 120 low-income families in São Paulo, Oliveira (2021) contends that access to public transport is a key determinant of educational outcomes.", "pt": "Com base em entrevistas com 120 famílias de baixa renda em São Paulo, Oliveira (2021) sustenta que o acesso ao transporte público é um fator-chave para os resultados educacionais."},
+          {"en": "While several studies have demonstrated a link between screen time and poor sleep, the direction of causality remains disputed.", "pt": "Embora vários estudos tenham demonstrado uma ligação entre tempo de tela e sono ruim, a direção da causalidade continua contestada."},
+          {"en": "The rapid expansion of private higher education institutions in Brazil since the late 1990s has received considerable scholarly attention.", "pt": "A rápida expansão das instituições privadas de ensino superior no Brasil desde o fim dos anos 1990 recebeu considerável atenção acadêmica."}
+        ],
+        "tip_pt": "Cuidado: **refute** significa **provar** que algo é falso — não apenas discordar. Se você só discorda, use **dispute, challenge** ou **reject**. E evite começar parágrafos com \"According to\" o tempo todo — varie com verbos de citação."
+      },
+      "common_mistakes": [
+        {"wrong": "A three-years study of labours markets...", "right": "A three-year study of labour markets...", "why_pt": "Substantivos usados como adjetivo ficam no singular."},
+        {"wrong": "Smith refuted the theory. (só discordou)", "right": "Smith challenged / disputed the theory.", "why_pt": "refute = provar que é falso."},
+        {"wrong": "Many studies said that sleep is important.", "right": "Many studies have shown / suggested that sleep is important.", "why_pt": "Use verbos de citação precisos e present perfect para panoramas."}
+      ],
+      "pronunciation": {
+        "focus": "Agrupamento em frases longas",
+        "tip_pt": "Ao ler ou apresentar textos acadêmicos, divida sintagmas nominais longos em **grupos de sentido**, com o acento principal no **núcleo**: \"the rapid expansion | of private higher education institutions | in Brazil | since the late 1990s\". Evite pausar no meio de um grupo.",
+        "practice": ["the rapid exPANsion | of private higher eduCAtion institutions | in BraZIL", "Drawing on a large BOdy of reSEARCH, | Smith conTENDS that...", "This VIEW | has been WIDEly disPUTed."]
+      },
+      "dialogue": {
+        "title": "Supervision meeting",
+        "context_pt": "Uma orientadora comenta o rascunho do capítulo de revisão de literatura de um mestrando.",
+        "lines": [
+          {"speaker": "Professor", "en": "I've read your literature review, Mateus. The research is good, but the voice isn't quite academic yet.", "pt": "Li sua revisão de literatura, Mateus. A pesquisa é boa, mas a voz ainda não está acadêmica."},
+          {"speaker": "Mateus", "en": "What do you mean by \"voice\"?", "pt": "O que você quer dizer com \"voz\"?"},
+          {"speaker": "Professor", "en": "Every paragraph starts with \"According to\". And you use \"said\" for everyone: \"Costa said\", \"Lima said\". We can't see what you think of their work.", "pt": "Todo parágrafo começa com \"According to\". E você usa \"said\" para todo mundo: \"Costa said\", \"Lima said\". Não dá para ver o que você pensa do trabalho deles."},
+          {"speaker": "Mateus", "en": "So I should choose verbs that show their position — and mine?", "pt": "Então devo escolher verbos que mostrem a posição deles — e a minha?"},
+          {"speaker": "Professor", "en": "Exactly. If Costa makes a strong claim, she \"argues\" or \"contends\". If Lima admits a limitation, he \"acknowledges\" it. And if you think someone's wrong, say that their argument \"overlooks\" something.", "pt": "Exatamente. Se Costa faz uma afirmação forte, ela \"argues\" ou \"contends\". Se Lima admite uma limitação, ele \"acknowledges\". E se você acha que alguém está errado, diga que o argumento dele \"overlooks\" algo."},
+          {"speaker": "Mateus", "en": "And here, where I wrote that Ferreira \"refuted\" Costa's theory?", "pt": "E aqui, onde escrevi que Ferreira \"refuted\" a teoria de Costa?"},
+          {"speaker": "Professor", "en": "Did he prove it was false, or did he just disagree?", "pt": "Ele provou que era falsa ou só discordou?"},
+          {"speaker": "Mateus", "en": "He just disagreed. So \"challenged\", then. I'll go through the whole chapter.", "pt": "Só discordou. Então \"challenged\". Vou revisar o capítulo inteiro."}
+        ]
+      },
+      "listening": {
+        "title": "Why is academic English so dense?",
+        "context_pt": "Um linguista explica a densidade da escrita acadêmica.",
+        "lines": [
+          {"speaker": "Linguist", "en": "If you've ever struggled with an academic article, you're not alone. Corpus research led by linguists such as Douglas Biber has shown that academic writing differs from conversation in a striking way. Conversation is dominated by verbs and clauses: \"We went out, and then it started raining, so we came back.\" Academic prose, by contrast, is dominated by nouns and noun phrases: \"The sudden onset of heavy rainfall necessitated an early return.\" Information is packed into long, complex noun phrases, which allows writers to express a great deal very concisely — but also places heavy demands on the reader. This density isn't simply pretentiousness. It allows academics to treat processes as objects that can be discussed, compared and measured. Once \"people moved to the cities\" becomes \"urbanization\", you can ask about the rate of urbanization, the causes of urbanization, the effects of urbanization. That said, many style guides now encourage academics to balance density with clarity — and to remember that a paper nobody can read is a paper nobody will cite."}
+        ],
+        "questions": [
+          {"q": "What dominates conversation, according to corpus research?", "answer": "Verbs and clauses."},
+          {"q": "What dominates academic prose?", "answer": "Nouns and complex noun phrases."},
+          {"q": "What is the advantage of turning processes into nouns?", "answer": "They can be treated as objects to discuss, compare and measure."},
+          {"q": "What do many style guides now encourage?", "answer": "Balancing density with clarity."}
+        ]
+      },
+      "reading": {
+        "title": "The replication crisis",
+        "text": "Over the past fifteen years, a growing body of research has raised uncomfortable questions about the reliability of published scientific findings. The concern, often referred to as the \"replication crisis\", emerged most visibly in psychology. In a large-scale collaborative project published in Science in 2015, the Open Science Collaboration attempted to reproduce one hundred studies previously published in leading psychology journals. While nearly all the original studies had reported statistically significant results, only around a third to a half of the replications, depending on the criteria used, produced comparable findings. The causes of this problem are widely debated. A number of researchers contend that the incentive structures of academic publishing bear a considerable share of the responsibility. Journals have traditionally favoured novel, positive results over replications or null findings, thereby encouraging what critics describe as \"questionable research practices\": analysing data in multiple ways until a significant result emerges, or reporting only the outcomes that support the original hypothesis. Others emphasize methodological factors, including small sample sizes and insufficient statistical power. Not all scholars accept the more pessimistic interpretations, however. Some have argued that the replication studies themselves suffered from methodological limitations, and that differences between original and replication findings may reflect variations in populations or procedures rather than flawed original research. These objections notwithstanding, the episode has prompted significant reforms. Pre-registration of hypotheses and analysis plans, the sharing of data and materials, and the publication of registered reports — in which journals commit to publishing a study before its results are known — have become increasingly common. Whether these measures will substantially improve the reliability of the scientific record remains, at present, an open empirical question.",
+        "questions": [
+          {"q": "What did the 2015 Open Science Collaboration attempt to do?", "answer": "Reproduce one hundred previously published psychology studies."},
+          {"q": "What proportion of replications produced comparable findings?", "answer": "Around a third to a half, depending on criteria."},
+          {"q": "What incentive problem do some researchers identify?", "answer": "Journals favour novel, positive results over replications or null findings."},
+          {"q": "Name two reforms prompted by the crisis.", "answer": "Pre-registration, data sharing, registered reports."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "answer", "title": "Build a complex noun phrase", "instruction": "Combine the information into one complex noun phrase and use it as the subject of the sentence given.", "instruction_pt": "Combine as informações num único sintagma nominal complexo e use-o como sujeito da frase.",
+         "items": [{"prompt": "Young people migrate. They move from rural areas. This happens in the Northeast. → ___ has been widely studied.", "answer": "The migration of young people from rural areas in the Northeast has been widely studied."}, {"prompt": "Demand is growing. It is demand for renewable energy. It is in developing countries. → ___ presents new opportunities.", "answer": "The growing demand for renewable energy in developing countries presents new opportunities."}, {"prompt": "A study lasted three years. It involved 2,000 students. → ___ found significant differences.", "answer": "A three-year study involving 2,000 students found significant differences."}]},
+        {"id": "ex2", "type": "multiple_choice", "title": "Choose the reporting verb", "instruction": "Choose the verb that best reflects the situation described.", "instruction_pt": "Escolha o verbo que melhor reflete a situação descrita.",
+         "items": [{"prompt": "(the author admits a weakness) Lima ___ that the sample was small.", "options": ["acknowledges", "contends", "refutes"], "answer": "acknowledges"}, {"prompt": "(the author strongly defends a view) Costa ___ that inequality is the main cause.", "options": ["contends", "concedes", "notes"], "answer": "contends"}, {"prompt": "(the author proves another study wrong) Their data ___ the earlier hypothesis.", "options": ["refute", "acknowledge", "suggest"], "answer": "refute"}, {"prompt": "(the author disagrees, without proof) Santos ___ this interpretation.", "options": ["challenges", "refutes", "demonstrates"], "answer": "challenges"}, {"prompt": "(results show clearly) The experiment ___ a clear link.", "options": ["demonstrated", "conceded", "claimed"], "answer": "demonstrated"}]},
+        {"id": "ex3", "type": "answer", "title": "Add your stance", "instruction": "Rewrite each neutral citation to show the stance indicated.", "instruction_pt": "Reescreva cada citação neutra mostrando a posição indicada.",
+         "items": [{"prompt": "(you agree) Ferreira says that schools need more funding.", "answer": "As Ferreira rightly points out, schools need more funding. / Ferreira convincingly argues that..."}, {"prompt": "(you doubt it) Ferreira says that social media has no effect on mental health.", "answer": "Ferreira claims that social media has no effect on mental health; however, this view overlooks..."}, {"prompt": "(you disagree) Ferreira says that the policy was a success.", "answer": "Ferreira maintains that the policy was a success, but this argument fails to account for..."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "Smith contends that the data are incomplete."}, {"prompt": "2", "answer": "This view has been widely disputed."}, {"prompt": "3", "answer": "Drawing on a large body of research, the authors propose a new framework."}, {"prompt": "4", "answer": "Further research is needed to establish causation."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "A five-years study was carried out.", "answer": "A five-year study was carried out."}, {"prompt": "Silva refuted the theory, but she didn't provide evidence.", "answer": "Silva challenged / disputed the theory, but she didn't provide evidence."}, {"prompt": "Several studies show in the last decade that...", "answer": "Several studies over the last decade have shown that..."}, {"prompt": "The labours market policy was changed.", "answer": "The labour market policy was changed."}]},
+        {"id": "ex6", "type": "match", "title": "Academic vocabulary", "instruction": "Write the English word or expression.", "instruction_pt": "Escreva a palavra ou expressão em inglês.",
+         "items": [{"prompt": "lacuna na literatura", "answer": "a gap in the literature"}, {"prompt": "corroborar", "answer": "corroborate"}, {"prompt": "referencial teórico", "answer": "framework"}, {"prompt": "basear-se em (uma teoria)", "answer": "draw on"}, {"prompt": "postular", "answer": "posit"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Mini-conference\": prepare a 3-minute academic-style presentation summarizing two or three sources (articles, reports, talks) on a topic you care about. Use reporting verbs that show each author's position and yours, and at least three complex noun phrases. Then take questions.",
+        "instruction_pt": "\"Mini-congresso\": prepare uma apresentação de 3 minutos no estilo acadêmico, resumindo duas ou três fontes (artigos, relatórios, palestras) sobre um tema que você valoriza. Use verbos de citação que mostrem a posição de cada autor e a sua, e pelo menos três sintagmas nominais complexos. Depois responda a perguntas.",
+        "questions": ["Is academic writing unnecessarily difficult?", "How can ordinary people judge whether research is reliable?", "Should all publicly funded research be free to read?", "What would you research if you had unlimited funding?", "Is the replication crisis a sign that science is failing — or working?"]
+      },
+      "writing": {
+        "task": "Write an academic paragraph-style mini literature review (280–330 words) on a topic of your choice, summarizing at least three (real or plausible fictional) sources. Use a range of reporting verbs, show your stance and include at least four complex noun phrases. Mark any invented sources as fictional.",
+        "task_pt": "Escreva uma mini revisão de literatura em estilo acadêmico (280–330 palavras) sobre um tema à sua escolha, resumindo pelo menos três fontes (reais ou fictícias plausíveis). Use verbos de citação variados, mostre sua posição e inclua pelo menos quatro sintagmas nominais complexos. Marque as fontes inventadas como fictícias.",
+        "model": "Remote learning and educational inequality: a brief review\n\n(Note: the sources cited below are fictional and created for this exercise.)\n\nThe sudden shift to remote learning during the COVID-19 pandemic has generated a substantial body of research on its consequences for educational inequality. Much of this literature points in a similar direction, although important disagreements remain regarding both the scale and the duration of the effects.\n\nDrawing on national assessment data from over 3,000 public schools, Almeida and Rocha (2022) contend that the prolonged closure of schools in low-income urban areas resulted in significant learning losses, particularly in mathematics. Crucially, they demonstrate that these losses were considerably smaller in schools with pre-existing digital infrastructure, suggesting that access to technology acted as a key mediating factor.\n\nThis interpretation is broadly supported by Nunes (2023), whose qualitative study of teachers in rural Pernambuco highlights the practical barriers faced by families without reliable internet connections. Nunes acknowledges, however, that the small size of her sample limits the generalizability of her findings.\n\nNot all researchers share this emphasis on technology. Barros (2023) challenges what he describes as a \"technological determinism\" in the literature, arguing that the quality of teacher–student relationships and the availability of parental support were more decisive than devices or connectivity. While Barros rightly draws attention to these often-overlooked social factors, his argument arguably underestimates the extent to which digital exclusion itself constrained such relationships during the pandemic.\n\nTaken together, these studies suggest that the effects of remote learning cannot be attributed to any single cause. Further longitudinal research is needed to establish whether the observed learning losses have been recovered, and which interventions have proved most effective in narrowing the resulting gaps."
+      },
+      "culture_note": {
+        "title": "\"Publish or perish\" e o inglês acadêmico",
+        "text_pt": "Grande parte da produção científica mundial é publicada em **inglês**, o que coloca pesquisadores de outros países — inclusive brasileiros — em desvantagem. Muitas universidades oferecem cursos de **English for Academic Purposes (EAP)**, e revistas científicas brasileiras de destaque publicam cada vez mais artigos em inglês. Dominar a voz acadêmica é, hoje, uma **habilidade profissional** para pesquisadores."
+      },
+      "summary_pt": ["Sintagma nominal complexo: pré-modificação + núcleo + pós-modificação.", "Substantivo como adjetivo no singular: a three-year study.", "Reporting verbs: argue/contend (defender), acknowledge (admitir), challenge/dispute (discordar), refute (provar falso).", "Stance: As X rightly points out / X claims / This view overlooks..."]
+    },
+    {
+      "id": "C2-M3-L3",
+      "title": "History's what-ifs",
+      "subtitle_pt": "Hipóteses complexas: would that, as if/as though + irreal, suppose, if need be",
+      "duration_min": 80,
+      "source_refs": ["CEFR – C2 descriptors (hypothetical meaning)", "Cambridge C2 Proficiency – Reading and Use of English Part 4"],
+      "objectives": ["Usar as if / as though com formas irreais (as if he owned the place, as though nothing had happened)", "Usar would that / if only / oh that (desejos literários)", "Usar suppose / supposing / say com diferentes tempos", "Usar expressões subjuntivas fixas (if need be, be it..., come what may) em narrativas contrafactuais"],
+      "warmup": {
+        "text_pt": "\"E se Pedro Álvares Cabral nunca tivesse chegado ao Brasil?\" \"E se a internet tivesse sido inventada em 1900?\" A **história contrafactual** — imaginar como o mundo seria se algo tivesse acontecido de outro jeito — é um gênero popular de livros e debates. Para isso, o C2 precisa de **todo o repertório hipotético**, incluindo formas literárias como \"**would that**\" e \"**as though nothing had happened**\".",
+        "questions": ["Which moment in history would you most like to change? What would have happened?", "Is it useful to imagine alternative histories, or just entertaining?"]
+      },
+      "vocabulary": [
+        {"en": "counterfactual", "pt": "contrafactual", "say": "kaunterfáktchual"},
+        {"en": "alternate / alternative history", "pt": "história alternativa", "say": "óltarnet rístori"},
+        {"en": "a turning point / a watershed", "pt": "um ponto de virada / um divisor de águas", "say": "a uótershéd"},
+        {"en": "to hinge on", "pt": "depender (crucialmente) de", "say": "tu híndj on"},
+        {"en": "contingency / contingent (on)", "pt": "contingência / dependente (de)", "say": "kontíndjensi"},
+        {"en": "inevitable / inevitability", "pt": "inevitável / inevitabilidade", "say": "inévitabol"},
+        {"en": "the course of history", "pt": "o curso da história", "say": "dâ kórs ov rístori"},
+        {"en": "to alter / to reshape", "pt": "alterar / remodelar", "say": "tu ólter / tu rishêip"},
+        {"en": "hindsight bias", "pt": "viés retrospectivo", "say": "ráindsait báias"},
+        {"en": "a ripple effect", "pt": "um efeito em cascata", "say": "a rípol iféct"},
+        {"en": "speculative", "pt": "especulativo", "say": "spékiulativ"},
+        {"en": "as it were", "pt": "por assim dizer", "say": "éz it uér"}
+      ],
+      "chunks": [
+        {"en": "He talks as if he owned the place.", "pt": "Ele fala como se fosse o dono do lugar."},
+        {"en": "She acted as though nothing had happened.", "pt": "Ela agiu como se nada tivesse acontecido."},
+        {"en": "Would that I had listened to her!", "pt": "Quem me dera ter ouvido ela!"},
+        {"en": "Suppose the war had never happened.", "pt": "Suponha que a guerra nunca tivesse acontecido."},
+        {"en": "We'll work all night if need be.", "pt": "Trabalharemos a noite toda se for preciso."},
+        {"en": "Everything hinged on a single decision.", "pt": "Tudo dependia de uma única decisão."}
+      ],
+      "grammar": {
+        "title": "Complex hypothetical forms",
+        "explanation_pt": "**1. As if / as though + formas irreais** (comparações hipotéticas):\n- **Presente irreal** → past simple / were: \"He talks **as if** he **owned** the place.\" (mas não é dono) / \"She looks **as though** she **were** about to cry.\"\n- **Passado irreal** → past perfect: \"She acted **as though** nothing **had happened**.\"\n- **Comparação real/provável** → tempo normal: \"It looks **as if** it**'s going to** rain.\" (provavelmente vai)\n- **It's as if / It's not as if** (= não é como se): \"Why are you worried? **It's not as if** you **failed** the exam.\"\n\n**2. Desejos literários e enfáticos:**\n- **Would that** + past / past perfect (literário, arcaico): \"**Would that** I **had** more time!\" / \"**Would that** we **had known**.\"\n- **If only** (B2) + past / past perfect / would\n- **Oh, to be / Oh, for** (exclamação poética): \"**Oh, to be** young again!\" / \"**Oh, for** a cup of tea!\"\n\n**3. Suppose / Supposing / Say / Imagine** com diferentes tempos:\n- Possibilidade real: \"**Suppose** the bus **is** late — what then?\"\n- Hipótese presente: \"**Supposing** you **won** the lottery...\"\n- Contrafactual passado: \"**Suppose** the Portuguese **had never reached** Brazil...\"\n- \"**Say** you **had** a million reais — what would you do?\"\n\n**4. Subjuntivo fixo em contrafactuais e argumentos:**\n- **if need be** (se for preciso) · **be it X or Y** (seja X ou Y) · **come what may** · **so be it** · **far be it from me to** (longe de mim...) · **as it were** (por assim dizer)\n- \"**Far be it from me to** criticize, but...\" (ironia: vou criticar)\n\n**5. Contrafactuais mistos e cadeias (revisão B2 + extensão):**\n- \"Had the Portuguese crown **not** moved to Rio in 1808, Brazil **might well have** split into several countries — and we **would** perhaps **be speaking** of 'the Brazils' today.\"",
+        "table": {
+          "headers": ["Estrutura", "Exemplo"],
+          "rows": [["as if + past (presente irreal)", "He acts as if he were the boss."], ["as though + past perfect", "She spoke as though she had been there."], ["It's not as if...", "It's not as if we have a choice."], ["Would that + past perfect", "Would that I had known."], ["Suppose + past perfect", "Suppose Napoleon had won."], ["Subjuntivo fixo", "if need be / be it... / far be it from me"]]
+        },
+        "examples": [
+          {"en": "The minister spoke about the crisis as though it had been entirely unforeseeable.", "pt": "O ministro falou da crise como se ela tivesse sido completamente imprevisível."},
+          {"en": "Suppose the Portuguese royal family had stayed in Lisbon in 1807 — would Brazil have become independent in the same way?", "pt": "Suponha que a família real portuguesa tivesse ficado em Lisboa em 1807 — o Brasil teria se tornado independente da mesma forma?"},
+          {"en": "Far be it from me to tell historians how to do their job, but counterfactuals can be illuminating.", "pt": "Longe de mim dizer aos historiadores como fazer seu trabalho, mas os contrafactuais podem ser esclarecedores."}
+        ],
+        "tip_pt": "\"**Como se**\" em português pede subjuntivo (\"como se **fosse**\", \"como se **tivesse** acontecido\"). Em inglês, use **as if / as though** + **past** (= fosse) ou **past perfect** (= tivesse + particípio). E \"**It's not as if**\" é ótimo para argumentar: \"**It's not as if** we didn't warn them!\""
+      },
+      "common_mistakes": [
+        {"wrong": "She behaved as if nothing happened. (o fato aconteceu antes)", "right": "She behaved as if nothing had happened.", "why_pt": "Para o passado irreal anterior, use past perfect."},
+        {"wrong": "Would that I have more time!", "right": "Would that I had more time!", "why_pt": "would that + past (presente) ou past perfect (passado)."},
+        {"wrong": "Far be it for me to criticize.", "right": "Far be it from me to criticize.", "why_pt": "A expressão fixa é far be it FROM me."}
+      ],
+      "pronunciation": {
+        "focus": "Tom de especulação",
+        "tip_pt": "Em contrafactuais, falantes usam um ritmo **mais lento e reflexivo**, com entonação ascendente na condição e descendente na consequência: \"Suppose the war had never happened ↗... | would we be here today ↘?\" \"**Far be it from ME** to...\" tem tom irônico, com ênfase em ME.",
+        "practice": ["Suppose the war had never happened ↗... | would we be here today?", "Far be it from ME to criticize...", "It's not as IF we didn't warn them!"]
+      },
+      "dialogue": {
+        "title": "What if 1808 never happened?",
+        "context_pt": "Dois amigos, uma historiadora e um engenheiro, debatem uma questão de história contrafactual.",
+        "lines": [
+          {"speaker": "Ellen", "en": "Here's my favourite counterfactual. Suppose the Portuguese royal family had stayed in Lisbon in 1807 instead of fleeing Napoleon to Rio.", "pt": "Este é meu contrafactual favorito. Suponha que a família real portuguesa tivesse ficado em Lisboa em 1807, em vez de fugir de Napoleão para o Rio."},
+          {"speaker": "Bruno", "en": "Then Napoleon would have captured them, presumably.", "pt": "Então Napoleão os teria capturado, presumivelmente."},
+          {"speaker": "Ellen", "en": "Possibly. But the interesting part is Brazil. Without the court in Rio, there's every chance Brazil would have broken up like Spanish America did — into several republics.", "pt": "Possivelmente. Mas a parte interessante é o Brasil. Sem a corte no Rio, há toda chance de o Brasil ter se fragmentado como a América espanhola — em várias repúblicas."},
+          {"speaker": "Bruno", "en": "So we might be talking about \"the Brazils\" today. Far be it from me to argue with a historian, but isn't that a bit speculative?", "pt": "Então talvez estivéssemos falando de \"os Brasis\" hoje. Longe de mim discutir com uma historiadora, mas isso não é meio especulativo?"},
+          {"speaker": "Ellen", "en": "Of course it is! That's the whole point. Counterfactuals show that history isn't inevitable. People talk about Brazil's unity as though it had been guaranteed from the start.", "pt": "Claro que é! Esse é o ponto. Contrafactuais mostram que a história não é inevitável. As pessoas falam da unidade do Brasil como se ela tivesse sido garantida desde o início."},
+          {"speaker": "Bruno", "en": "Fair point. It's not as if anyone in 1807 knew how things would turn out.", "pt": "Bom argumento. Não é como se alguém em 1807 soubesse como as coisas iam terminar."},
+          {"speaker": "Ellen", "en": "Exactly. So much hinged on a few decisions taken in a panic, with French troops approaching.", "pt": "Exatamente. Tanto dependeu de algumas decisões tomadas em pânico, com tropas francesas se aproximando."},
+          {"speaker": "Bruno", "en": "Would that all history lessons were this interesting! I'd have paid more attention at school.", "pt": "Quem dera todas as aulas de história fossem tão interessantes! Eu teria prestado mais atenção na escola."}
+        ]
+      },
+      "listening": {
+        "title": "The uses of counterfactual history",
+        "context_pt": "Uma professora de história fala sobre o valor e os riscos da história contrafactual.",
+        "lines": [
+          {"speaker": "Professor", "en": "For a long time, many professional historians dismissed counterfactual history as a parlour game. The British historian E. H. Carr famously mocked it, and plenty of scholars still regard it with suspicion. Yet, in a sense, all historical explanation is counterfactual. To say that an event caused another is to imply that, had the first not happened, the second would not have happened either. Suppose a historian claims that a drought caused a revolution. That claim only makes sense if we can imagine the same society without the drought — and ask whether the revolution would still have occurred. Used carefully, counterfactuals help us test explanations and resist the illusion that the past was inevitable. Used carelessly, however, they become fantasy, with each imaginary step piled on another as though we could know the consequences decades later. The trick, most historians who use them would say, is to stay close to the moment: change one thing, ask what was realistically possible, and stop before you start writing a novel."}
+        ],
+        "questions": [
+          {"q": "How did many historians view counterfactual history?", "answer": "As a parlour game; some, like E. H. Carr, mocked it."},
+          {"q": "Why is all historical explanation counterfactual in a sense?", "answer": "Saying A caused B implies that without A, B wouldn't have happened."},
+          {"q": "What are counterfactuals useful for?", "answer": "Testing explanations and resisting the illusion of inevitability."},
+          {"q": "What is the \"trick\" to using them well?", "answer": "Change one thing, stay close to the moment, ask what was realistic, and don't go too far."}
+        ]
+      },
+      "reading": {
+        "title": "The illusion of inevitability",
+        "text": "Looking back, it is tempting to see history as a path leading inexorably towards the present. Empires rise and fall as though following a script; revolutions break out because they \"had to\"; technologies appear exactly when the world is ready for them. Psychologists have a name for part of this tendency: hindsight bias, the inclination, once we know an outcome, to believe that it was predictable all along. In a series of classic experiments in the 1970s, the psychologist Baruch Fischhoff found that people who were told the outcome of a historical event rated that outcome as considerably more likely than people who were not told — and frequently believed they would have predicted it themselves. Counterfactual thinking is one of the most effective antidotes to this illusion. By asking \"what if?\", we are forced to reconstruct the uncertainty that people at the time actually faced. Suppose an assassination attempt had failed, a ship had sailed a day earlier, or a vote had gone the other way by a handful of ballots. Would the world look the same? Very often, the honest answer is that we cannot be sure — and that uncertainty is itself a valuable insight. It reminds us that the people of the past were not characters walking towards a known ending, but individuals making difficult choices with incomplete information, much as we do. There is a moral dimension to this, too. If the past was inevitable, then nobody was truly responsible for it: things simply happened as they had to. If, on the other hand, outcomes hinged on decisions that could have been different, then those decisions — and the people who made them — can be judged. Far from being idle speculation, then, the question \"what if?\" may be one of the most serious questions historians, and citizens, can ask. Would that it were asked more often.",
+        "questions": [
+          {"q": "What is hindsight bias?", "answer": "Believing, once we know an outcome, that it was predictable all along."},
+          {"q": "What did Fischhoff's experiments find?", "answer": "People told the outcome rated it as more likely and believed they'd have predicted it."},
+          {"q": "How does counterfactual thinking help?", "answer": "It forces us to reconstruct the uncertainty people faced at the time."},
+          {"q": "What is the moral dimension of the argument?", "answer": "If outcomes weren't inevitable, decisions and decision-makers can be judged."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "as if / as though", "instruction": "Choose the correct form.", "instruction_pt": "Escolha a forma correta.",
+         "items": [{"prompt": "He spends money as if he ___ a millionaire. (he isn't)", "options": ["is", "were", "had been"], "answer": "were"}, {"prompt": "She looked at me as though she ___ a ghost. (in the past, before looking)", "options": ["saw", "had seen", "has seen"], "answer": "had seen"}, {"prompt": "Look at those clouds — it looks as if it ___ rain.", "options": ["is going to", "were going to", "had rained"], "answer": "is going to"}, {"prompt": "Don't complain. It's not as if you ___ any work.", "options": ["did", "had", "do"], "answer": "did"}, {"prompt": "___ I had listened to my grandmother!", "options": ["Would that", "If that", "Wish"], "answer": "Would that"}]},
+        {"id": "ex2", "type": "answer", "title": "Key word transformations (C2 style)", "instruction": "Complete the second sentence using the word in CAPS (3–8 words).", "instruction_pt": "Complete a segunda frase usando a palavra em CAPS (3–8 palavras).",
+         "items": [{"prompt": "He behaves like the owner, but he isn't. (AS) → He behaves ___ the place.", "answer": "as if/though he owned"}, {"prompt": "I wish I had known the truth. (WOULD) → ___ the truth!", "answer": "Would that I had known"}, {"prompt": "If it's necessary, we'll stay overnight. (NEED) → We'll stay overnight ___.", "answer": "if need be"}, {"prompt": "I don't want to criticize, but this is wrong. (FAR) → ___ to criticize, but this is wrong.", "answer": "Far be it from me"}]},
+        {"id": "ex3", "type": "answer", "title": "Write counterfactuals", "instruction": "Write a counterfactual sentence (with Suppose / Had... / might well have) for each historical event.", "instruction_pt": "Escreva uma frase contrafactual para cada evento histórico.",
+         "items": [{"prompt": "The printing press was invented around 1450.", "answer": "Model: Suppose the printing press had not been invented until 1700 — the Reformation might never have spread so quickly."}, {"prompt": "Penicillin was discovered in 1928.", "answer": "Model: Had penicillin not been discovered in 1928, millions more soldiers might well have died in the Second World War."}, {"prompt": "The internet became public in the 1990s.", "answer": "Model: Suppose the internet had become public in the 1960s — the Cold War might have ended very differently."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "She acted as though nothing had happened."}, {"prompt": "2", "answer": "Would that I had listened to her!"}, {"prompt": "3", "answer": "Suppose the war had never happened."}, {"prompt": "4", "answer": "Everything hinged on a single decision."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "He talked as if he is the president.", "answer": "He talked as if he were the president."}, {"prompt": "Would that I have studied harder!", "answer": "Would that I had studied harder!"}, {"prompt": "Far be it for me to judge.", "answer": "Far be it from me to judge."}, {"prompt": "She looked as though she didn't sleep for days.", "answer": "She looked as though she hadn't slept for days."}]},
+        {"id": "ex6", "type": "match", "title": "History vocabulary", "instruction": "Write the English word or expression.", "instruction_pt": "Escreva a palavra ou expressão em inglês.",
+         "items": [{"prompt": "divisor de águas", "answer": "watershed"}, {"prompt": "depender crucialmente de", "answer": "hinge on"}, {"prompt": "viés retrospectivo", "answer": "hindsight bias"}, {"prompt": "efeito em cascata", "answer": "ripple effect"}, {"prompt": "por assim dizer", "answer": "as it were"}]}
+      ],
+      "speaking": {
+        "instruction": "\"What-if debate\": in groups, choose a turning point in Brazilian or world history. Change one thing and debate what would realistically have happened in the following ten to twenty years. Use at least six complex hypothetical structures and avoid going too far into fantasy.",
+        "instruction_pt": "\"Debate e se\": em grupos, escolham um ponto de virada na história do Brasil ou do mundo. Mudem uma coisa e debatam o que realisticamente teria acontecido nos dez a vinte anos seguintes. Usem pelo menos seis estruturas hipotéticas complexas e evitem ir longe demais na fantasia.",
+        "questions": ["Which moment in Brazilian history do you think was the biggest turning point?", "Is history driven by individuals or by larger forces?", "Do you ever think about counterfactuals in your own life?", "Is the present inevitable, or could it easily have been different?", "Would that we could learn from history — do we?"]
+      },
+      "writing": {
+        "task": "Write a short counterfactual essay (300–350 words): \"What if... ?\" Choose a historical turning point, change one decision or event, and explore the realistic consequences. Use at least eight complex hypothetical structures and reflect on what the exercise teaches us.",
+        "task_pt": "Escreva um ensaio contrafactual curto (300–350 palavras): \"E se...?\" Escolha um ponto de virada histórico, mude uma decisão ou evento e explore as consequências realistas. Use pelo menos oito estruturas hipotéticas complexas e reflita sobre o que o exercício nos ensina.",
+        "model": "What if Brasília had never been built?\n\nIn 1956, Juscelino Kubitschek became president of Brazil with an extraordinary promise: to build a new capital in the empty centre of the country within a single term. Brasília was inaugurated in 1960. Today, it is so familiar that we speak of it as though it had always been inevitable. It was not.\n\nSuppose Kubitschek had abandoned the project, as many of his critics demanded. The capital would, in all likelihood, have remained in Rio de Janeiro. Rio would have kept not only its political power but also the jobs, investment and prestige that came with it — and the city's later decline, which many historians partly attribute to the loss of its capital status, might well have been less severe.\n\nThe effects on the interior would arguably have been even greater. Brasília was intended, as it were, as a heart that would pump life into the centre of the country. Had it never been built, the roads connecting the Centre-West to the rest of Brazil might have taken decades longer to appear, and the development of the Cerrado — for better and for worse — could have followed a very different path.\n\nOf course, it is not as if the interior would have remained empty forever. Agricultural expansion was already under way, and some form of integration would doubtless have happened sooner or later. Nor would Brazil necessarily have been better off. Brasília was enormously expensive, and many economists link its cost to the inflation that troubled the country in the following years.\n\nFar be it from me to claim certainty about any of this. Counterfactuals cannot be tested; they can only be argued. Yet the exercise is valuable precisely because it reminds us that the Brazil we know hinged on a series of human decisions — bold, controversial and, at the time, deeply uncertain. Would that we remembered this when we assume that today's choices do not matter."
+      },
+      "culture_note": {
+        "title": "Ucronia: a história que não aconteceu",
+        "text_pt": "A ficção de **história alternativa** é um gênero popular em inglês: *The Man in the High Castle* (Philip K. Dick), *Fatherland* (Robert Harris) e *The Plot Against America* (Philip Roth) imaginam mundos em que a história tomou outro rumo. Em português, o gênero é chamado de **ucronia**. Contrafactuais também são comuns em podcasts e livros de divulgação histórica."
+      },
+      "summary_pt": ["as if/as though + past (presente irreal) / past perfect (passado irreal).", "It's not as if... (= não é como se).", "Would that + past / past perfect; Oh, to be...", "Suppose + past perfect; if need be, far be it from me, as it were."]
+    },
+    {
+      "id": "C2-M3-L4",
+      "title": "Thinking about thinking",
+      "subtitle_pt": "Comparações sofisticadas: not so much X as Y, all the more, no less than, none the wiser",
+      "duration_min": 80,
+      "source_refs": ["CEFR – C2 descriptors (complex comparisons, precision)", "Cambridge C2 Proficiency – Reading and Use of English Part 4"],
+      "objectives": ["Usar all the more / none the + comparativo / the more... the less", "Usar no less than / no more than / not so much X as Y / more a X than a Y", "Usar comparações de proporção (twice as likely, nowhere near as, every bit as)", "Discutir vieses cognitivos e tomada de decisão"],
+      "warmup": {
+        "text_pt": "\"O problema **não é tanto** a falta de dinheiro **quanto** a falta de planejamento.\" \"Ele ficou **ainda mais** determinado depois da crítica.\" No C2, as comparações vão muito além de \"more than\": elas permitem **corrigir, intensificar e nuançar** ideias. Tema: **como nosso cérebro nos engana** — vieses cognitivos.",
+        "questions": ["Do you think you make decisions rationally?", "Have you ever changed your mind about something important? What made you change?"]
+      },
+      "vocabulary": [
+        {"en": "a cognitive bias", "pt": "um viés cognitivo", "say": "a kógnitiv báias"},
+        {"en": "confirmation bias", "pt": "viés de confirmação", "say": "konfirmêishan báias"},
+        {"en": "anchoring", "pt": "ancoragem", "say": "énkorin"},
+        {"en": "the sunk cost fallacy", "pt": "a falácia do custo afundado", "say": "dâ sânk kóst fálasi"},
+        {"en": "overconfidence", "pt": "excesso de confiança", "say": "ôuverkónfidens"},
+        {"en": "loss aversion", "pt": "aversão à perda", "say": "lós avârzhan"},
+        {"en": "a heuristic / a rule of thumb", "pt": "uma heurística / uma regra prática", "say": "a hiurístik / a rúl ov θâm"},
+        {"en": "to rationalize", "pt": "racionalizar, justificar", "say": "tu réshanalaiz"},
+        {"en": "to second-guess", "pt": "duvidar de si, questionar depois", "say": "tu sékand gués"},
+        {"en": "gut feeling / intuition", "pt": "intuição", "say": "gât fílin / intuíshan"},
+        {"en": "deliberate / deliberation", "pt": "deliberado / deliberação", "say": "dilíberat / deliberêishan"},
+        {"en": "the Dunning–Kruger effect", "pt": "o efeito Dunning–Kruger", "say": "dâ dânin krúguer iféct"}
+      ],
+      "chunks": [
+        {"en": "It's not so much a lack of money as a lack of planning.", "pt": "Não é tanto falta de dinheiro, mas falta de planejamento."},
+        {"en": "The criticism made her all the more determined.", "pt": "A crítica a deixou ainda mais determinada."},
+        {"en": "I read the report twice and was none the wiser.", "pt": "Li o relatório duas vezes e não entendi nada a mais."},
+        {"en": "It was no less than a disaster.", "pt": "Foi nada menos que um desastre."},
+        {"en": "The more you know, the less certain you become.", "pt": "Quanto mais você sabe, menos certeza tem."},
+        {"en": "She's every bit as talented as her sister.", "pt": "Ela é tão talentosa quanto a irmã, sem tirar nem pôr."}
+      ],
+      "grammar": {
+        "title": "Sophisticated comparisons",
+        "explanation_pt": "**1. all the + comparativo (+ because / for)** — intensificação por causa de algo:\n- \"The victory was **all the sweeter** because nobody expected it.\"\n- \"Her criticism made me **all the more** determined.\"\n\n**2. none the + comparativo** — sem mudança (ver C2-M1-L2):\n- \"I listened to the explanation but was **none the wiser**.\" / \"He was **none the worse for** the accident.\"\n\n**3. the + comparativo..., the + comparativo** (com estruturas complexas):\n- \"**The more** evidence we collect, **the less** certain the answer becomes.\"\n- \"**The sooner** we act, **the better**.\" (sem verbo)\n\n**4. Correção e reformulação:**\n- **not so much X as Y** (não tanto X, mas Y): \"It's **not so much** a problem **as** a challenge.\"\n- **more (of) a X than a Y**: \"He's **more of** a teacher **than** a manager.\"\n- **less X than Y**: \"The decision was **less** rational **than** emotional.\"\n- **rather than**: \"We need to think **rather than** react.\"\n\n**5. Ênfase com quantidade:**\n- **no less than / no fewer than** (ênfase no número grande): \"**No fewer than** 40 studies have confirmed it.\"\n- **no more than** (ênfase no número pequeno): \"It took **no more than** five minutes.\"\n- **nothing short of** (nada menos que): \"The result was **nothing short of** miraculous.\"\n\n**6. Igualdade e proporção:**\n- **every bit as + adj + as** (tão... quanto, enfático): \"She's **every bit as** capable **as** he is.\"\n- **nowhere near / nothing like as + adj + as** (nem de longe tão...): \"It's **nowhere near as** easy **as** it looks.\"\n- **twice / three times as likely to**: \"People are **twice as likely to** remember a story **as** a statistic.\"\n- **by far / far and away** + superlativo: \"**by far the most** common bias\"",
+        "table": {
+          "headers": ["Estrutura", "Exemplo"],
+          "rows": [["all the + comp", "It was all the more impressive because she was ill."], ["none the + comp", "I was none the wiser."], ["the more..., the less...", "The more I learn, the less I know."], ["not so much X as Y", "Not so much a holiday as an adventure."], ["no fewer / less than", "No fewer than 30 people complained."], ["nothing short of", "Nothing short of brilliant."], ["every bit as... as", "Every bit as good as the original."], ["nowhere near as... as", "Nowhere near as simple as it seems."]]
+        },
+        "examples": [
+          {"en": "Confirmation bias is all the more dangerous because we rarely notice it in ourselves.", "pt": "O viés de confirmação é ainda mais perigoso porque raramente o percebemos em nós mesmos."},
+          {"en": "The problem with the decision was not so much the information available as the way it was interpreted.", "pt": "O problema com a decisão não foi tanto a informação disponível, mas a forma como foi interpretada."},
+          {"en": "Experts are nowhere near as immune to cognitive biases as we might expect.", "pt": "Especialistas não são nem de longe tão imunes aos vieses cognitivos quanto poderíamos esperar."}
+        ],
+        "tip_pt": "\"**Not so much X as Y**\" é perfeita para **corrigir** uma interpretação comum — ótima em redações C2: \"The issue is **not so much** technological **as** political.\" E \"**all the more**\" vem quase sempre seguido de **because / for / given**."
+      },
+      "common_mistakes": [
+        {"wrong": "It was the more impressive because she was ill.", "right": "It was all the more impressive because she was ill.", "why_pt": "A estrutura é all the + comparativo."},
+        {"wrong": "It's not so much a problem but a challenge.", "right": "It's not so much a problem as a challenge.", "why_pt": "not so much X AS Y."},
+        {"wrong": "No less than 30 people attended. (contáveis, formal)", "right": "No fewer than 30 people attended.", "why_pt": "Com contáveis, o formal é no fewer than (no less than é comum na fala)."}
+      ],
+      "pronunciation": {
+        "focus": "Ênfase em comparações",
+        "tip_pt": "Em comparações enfáticas, acentue os **elementos contrastados**: \"not so much a PROBlem as a CHALlenge\"; \"every BIT as good\"; \"NOwhere NEAR as easy\". Em \"the more..., the less...\", as duas partes têm ritmo **paralelo**.",
+        "practice": ["It's not so much a PROBlem | as a CHALlenge.", "She's every BIT as talented.", "The MORE you know, | the LESS you're sure."]
+      },
+      "dialogue": {
+        "title": "Why did we make that decision?",
+        "context_pt": "Dois sócios fazem uma análise retrospectiva de um projeto que fracassou.",
+        "lines": [
+          {"speaker": "Paulo", "en": "We need to understand why we kept investing in the app for so long. We lost no less than two million reais.", "pt": "Precisamos entender por que continuamos investindo no app por tanto tempo. Perdemos nada menos que dois milhões de reais."},
+          {"speaker": "Carol", "en": "Honestly? It wasn't so much a business decision as an emotional one. We'd already put so much in that stopping felt like admitting failure.", "pt": "Sinceramente? Não foi tanto uma decisão de negócios, mas emocional. Já tínhamos colocado tanto que parar parecia admitir o fracasso."},
+          {"speaker": "Paulo", "en": "The sunk cost fallacy, in other words. And the more we spent, the harder it was to walk away.", "pt": "A falácia do custo afundado, em outras palavras. E quanto mais gastávamos, mais difícil era desistir."},
+          {"speaker": "Carol", "en": "And confirmation bias. Every small piece of good news made us all the more convinced we were right, and we ignored the bad numbers.", "pt": "E viés de confirmação. Cada pequena notícia boa nos deixava ainda mais convencidos de que estávamos certos, e ignorávamos os números ruins."},
+          {"speaker": "Paulo", "en": "The consultant's report was clear, too. I read it three times and was none the wiser — or rather, I didn't want to be.", "pt": "O relatório do consultor também era claro. Li três vezes e não entendi nada a mais — ou melhor, eu não queria entender."},
+          {"speaker": "Carol", "en": "At least we're learning from it. Our next project will be every bit as ambitious, but with clear rules for when to stop.", "pt": "Pelo menos estamos aprendendo. Nosso próximo projeto vai ser tão ambicioso quanto, mas com regras claras para quando parar."},
+          {"speaker": "Paulo", "en": "Agreed. Let's decide the exit criteria before we start — when we're nowhere near as emotionally involved.", "pt": "Concordo. Vamos decidir os critérios de saída antes de começar — quando não estivermos nem de longe tão envolvidos emocionalmente."}
+        ]
+      },
+      "listening": {
+        "title": "Two systems of thinking",
+        "context_pt": "Uma psicóloga explica a ideia dos \"dois sistemas\" de Daniel Kahneman.",
+        "lines": [
+          {"speaker": "Psychologist", "en": "In his best-selling book Thinking, Fast and Slow, the psychologist Daniel Kahneman, who won the Nobel Prize in economics in 2002, popularized a useful way of describing the mind. System 1 is fast, automatic and intuitive: it recognizes a face, reads a simple sentence, or tells you instantly that two plus two is four. System 2 is slow, effortful and deliberate: it's what you use to calculate 17 times 24 or fill in a tax form. Most of the time, System 1 serves us well. The problem is that it's not so much accurate as confident. It jumps to conclusions, relies on rules of thumb and is easily influenced by irrelevant information — a number you saw a minute ago, for example, can affect your estimate of something completely unrelated. That's called anchoring. System 2 can correct these errors, but it's lazy; it takes effort, and we're often happy to accept the first answer that comes to mind. The lesson isn't that intuition is useless. It's that, the higher the stakes, the more it pays to slow down."}
+        ],
+        "questions": [
+          {"q": "How is System 1 described?", "answer": "Fast, automatic and intuitive."},
+          {"q": "How is System 2 described?", "answer": "Slow, effortful and deliberate."},
+          {"q": "What is anchoring?", "answer": "Being influenced by an irrelevant number when making an estimate."},
+          {"q": "What is the speaker's lesson?", "answer": "The higher the stakes, the more it pays to slow down."}
+        ]
+      },
+      "video": {
+        "title": "Why you think you're right — even if you're wrong",
+        "speaker": "Julia Galef",
+        "url": "https://www.ted.com/search?q=julia+galef+why+you+think+you%27re+right",
+        "task_pt": "Assista à palestra (cerca de 12 minutos). Ela compara duas \"mentalidades\". Responda usando comparações sofisticadas:",
+        "questions": ["What is the difference between the \"soldier mindset\" and the \"scout mindset\"?", "Why, according to the speaker, is the scout mindset not so much about intelligence as about emotion?", "In which areas of your life do you tend to have a soldier mindset?", "How could schools or companies encourage a scout mindset?"]
+      },
+      "reading": {
+        "title": "The expert's blind spot",
+        "text": "It is natural to assume that expertise protects us from error. The more we know about a subject, surely, the better our judgements become. In many domains, this is true: an experienced radiologist is far more likely to spot a tumour than a beginner, and a chess grandmaster sees patterns invisible to a novice. Yet research on expert judgement offers a more complicated picture. In a famous long-term study, the political scientist Philip Tetlock collected thousands of predictions from experts in politics and economics over many years. When he compared their forecasts with what actually happened, the results were sobering. Many experts performed only slightly better than chance, and in some cases no better than simple statistical rules. Strikingly, the most famous experts — those most often quoted in the media — were often among the least accurate. Tetlock drew on an image from the philosopher Isaiah Berlin to explain the difference. \"Hedgehogs\" know one big thing: they view the world through a single theory and make bold, confident predictions. \"Foxes\" know many small things: they draw on multiple perspectives, are comfortable with uncertainty and readily change their minds. On average, foxes made more accurate forecasts. Hedgehogs, however, were all the more appealing to audiences precisely because of their confidence. The lesson is not so much that experts are useless as that confidence and accuracy are by no means the same thing. Indeed, the Dunning–Kruger effect — the finding that people with limited knowledge in a field tend to overestimate their competence — suggests that confidence can sometimes be a sign of ignorance rather than mastery. The best thinkers, it seems, are every bit as knowledgeable as the boldest ones, but nowhere near as certain. For those of us who listen to experts, the implication is clear: be wary of anyone who is never in doubt.",
+        "questions": [
+          {"q": "What did Tetlock's study involve?", "answer": "Collecting thousands of expert predictions over many years and comparing them with what happened."},
+          {"q": "What was surprising about the most famous experts?", "answer": "They were often among the least accurate."},
+          {"q": "What is the difference between \"hedgehogs\" and \"foxes\"?", "answer": "Hedgehogs know one big thing and are confident; foxes know many things, accept uncertainty and change their minds."},
+          {"q": "What is the main lesson of the text?", "answer": "Confidence and accuracy are not the same; be wary of people who are never in doubt."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "answer", "title": "Key word transformations (C2 style)", "instruction": "Complete the second sentence using the word in CAPS (3–8 words).", "instruction_pt": "Complete a segunda frase usando a palavra em CAPS (3–8 palavras).",
+         "items": [{"prompt": "The problem is more a lack of time than a lack of money. (MUCH) → The problem is ___ a lack of money as a lack of time.", "answer": "not so much"}, {"prompt": "Her illness made her achievement even more impressive. (ALL) → Her achievement was ___ because she was ill.", "answer": "all the more impressive"}, {"prompt": "The exam was much harder than it looked. (NOWHERE) → The exam was ___ as it looked.", "answer": "nowhere near as easy"}, {"prompt": "At least 50 people complained. (FEWER) → ___ 50 people complained.", "answer": "No fewer than"}, {"prompt": "He's just as talented as his brother. (BIT) → He's ___ his brother.", "answer": "every bit as talented as"}]},
+        {"id": "ex2", "type": "multiple_choice", "title": "Choose the correct form", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+         "items": [{"prompt": "The longer we wait, ___ it will be.", "options": ["the harder", "harder", "the more hard"], "answer": "the harder"}, {"prompt": "The result was nothing short ___ amazing.", "options": ["of", "than", "to"], "answer": "of"}, {"prompt": "He's more ___ a dreamer than a planner.", "options": ["of", "than", "as"], "answer": "of"}, {"prompt": "It took no ___ than ten minutes — very quick.", "options": ["more", "less", "fewer"], "answer": "more"}, {"prompt": "I read the instructions but was none ___ wiser.", "options": ["the", "a", "of"], "answer": "the"}]},
+        {"id": "ex3", "type": "match", "title": "Cognitive biases", "instruction": "Write the bias described.", "instruction_pt": "Escreva o viés descrito.",
+         "items": [{"prompt": "Looking only for evidence that supports what you already believe.", "answer": "confirmation bias"}, {"prompt": "Continuing to invest because you've already invested a lot.", "answer": "sunk cost fallacy"}, {"prompt": "Being influenced by the first number you hear.", "answer": "anchoring"}, {"prompt": "Feeling losses more strongly than equivalent gains.", "answer": "loss aversion"}, {"prompt": "Beginners overestimating their competence.", "answer": "Dunning–Kruger effect"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "It's not so much a lack of money as a lack of planning."}, {"prompt": "2", "answer": "The criticism made her all the more determined."}, {"prompt": "3", "answer": "The more you know, the less certain you become."}, {"prompt": "4", "answer": "She's every bit as talented as her sister."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "It's not so much expensive but complicated.", "answer": "It's not so much expensive as complicated."}, {"prompt": "The victory was the more sweeter because nobody expected it.", "answer": "The victory was all the sweeter because nobody expected it."}, {"prompt": "The more I study, the more I'm understanding less.", "answer": "The more I study, the less I understand."}, {"prompt": "It was nothing short than brilliant.", "answer": "It was nothing short of brilliant."}]},
+        {"id": "ex6", "type": "match", "title": "Thinking vocabulary", "instruction": "Write the English expression.", "instruction_pt": "Escreva a expressão em inglês.",
+         "items": [{"prompt": "regra prática", "answer": "rule of thumb"}, {"prompt": "intuição", "answer": "gut feeling"}, {"prompt": "duvidar de si depois", "answer": "second-guess"}, {"prompt": "excesso de confiança", "answer": "overconfidence"}, {"prompt": "racionalizar, justificar", "answer": "rationalize"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Bias detective\": in pairs, describe a bad decision you (or someone you know, or a company) made. Your partner identifies the cognitive biases involved. Together, explain what could have been done differently, using at least six sophisticated comparisons.",
+        "instruction_pt": "\"Detetive de vieses\": em pares, descreva uma decisão ruim que você (ou alguém que conhece, ou uma empresa) tomou. O colega identifica os vieses cognitivos envolvidos. Juntos, expliquem o que poderia ter sido feito diferente, usando pelo menos seis comparações sofisticadas.",
+        "questions": ["Are you more of a hedgehog or a fox?", "Is intuition every bit as valuable as analysis?", "Which cognitive bias do you think affects Brazilian politics most?", "Why do we trust confident people more?", "The more you learn, the less certain you become — do you agree?"]
+      },
+      "writing": {
+        "task": "Write an opinion article (300–350 words): \"Should we trust experts?\" Discuss the strengths and limits of expert judgement, refer to cognitive biases and reach a nuanced conclusion. Use at least eight sophisticated comparison structures.",
+        "task_pt": "Escreva um artigo de opinião (300–350 palavras): \"Devemos confiar nos especialistas?\" Discuta as forças e os limites do julgamento especializado, mencione vieses cognitivos e chegue a uma conclusão com nuance. Use pelo menos oito estruturas de comparação sofisticadas.",
+        "model": "Should we trust experts?\n\nIn recent years, \"trust the experts\" has become both a rallying cry and an object of ridicule. For some, experts are our best defence against misinformation; for others, they are an arrogant elite whose predictions are frequently wrong. The truth, I would argue, is not so much somewhere in the middle as more interesting than either position allows.\n\nLet us begin with what experts do well. In fields with clear rules and rapid feedback — medicine, engineering, chess — expertise is nothing short of essential. A trained surgeon is not merely somewhat better than an amateur; she is incomparably better. To dismiss such knowledge would be every bit as foolish as refusing to use a map because maps occasionally contain errors.\n\nThe picture becomes far murkier, however, when experts attempt to predict complex systems such as economies or elections. Here, research suggests, expert forecasts are often nowhere near as accurate as their confident tone implies. Ironically, the more famous the expert, the more likely he or she is to make bold predictions — and bold predictions are, by definition, the ones most likely to fail.\n\nPart of the problem lies in the biases that affect us all. Experts are no less vulnerable to confirmation bias than anyone else; indeed, their reputations may make them all the more reluctant to admit mistakes. Overconfidence, too, is less a sign of deep knowledge than of a failure to appreciate uncertainty.\n\nSo should we trust experts? Yes — but selectively and intelligently. We should trust them far more in areas where their knowledge can be tested than in areas of pure speculation. We should value those who acknowledge uncertainty over those who never express doubt. And we should judge them by their track record rather than their fame.\n\nUltimately, trusting experts is less a matter of faith than of judgement. The question is not whether to listen to them, but how."
+      },
+      "culture_note": {
+        "title": "Kahneman e a economia comportamental",
+        "text_pt": "O psicólogo israelense-americano **Daniel Kahneman** (1934–2024) ganhou o **Prêmio Nobel de Economia** em 2002 por seu trabalho com **Amos Tversky** sobre como as pessoas tomam decisões sob incerteza. Seus estudos fundaram a **economia comportamental**, que hoje influencia políticas públicas no mundo todo — incluindo os chamados **\"nudges\"**, pequenos empurrões para melhores escolhas."
+      },
+      "summary_pt": ["all the + comparativo (ainda mais) / none the + comparativo (sem mudança).", "not so much X as Y; more of a X than a Y; less X than Y.", "no fewer/less than (muito), no more than (pouco), nothing short of.", "every bit as... as; nowhere near as... as; twice as likely to."]
+    }
+  ],
+  "review": {
+    "intro_pt": "Revise graus de certeza, voz acadêmica, hipóteses complexas e comparações sofisticadas.",
+    "exercises": [
+      {"id": "r1", "type": "multiple_choice", "title": "Choose the correct option", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+       "items": [{"prompt": "___, the results will be published in May.", "options": ["In all likelihood", "In all likelihoods", "With all likely"], "answer": "In all likelihood"}, {"prompt": "Lima ___ that the sample was small. (admits)", "options": ["acknowledges", "contends", "refutes"], "answer": "acknowledges"}, {"prompt": "She spoke as though she ___ there herself.", "options": ["had been", "has been", "is"], "answer": "had been"}, {"prompt": "It's not so much a problem ___ a challenge.", "options": ["as", "but", "than"], "answer": "as"}, {"prompt": "A ___ study found clear effects.", "options": ["three-year", "three-years", "three year's"], "answer": "three-year"}]},
+      {"id": "r2", "type": "answer", "title": "Key word transformations", "instruction": "Complete the second sentence using the word in CAPS (3–8 words).", "instruction_pt": "Complete a segunda frase usando a palavra em CAPS (3–8 palavras).",
+       "items": [{"prompt": "It's impossible that he wrote this alone. (POSSIBLY) → He ___ this alone.", "answer": "can't possibly have written"}, {"prompt": "I wish I had known earlier! (WOULD) → ___ earlier!", "answer": "Would that I had known"}, {"prompt": "The task was much harder than we thought. (NOWHERE) → The task was ___ as we thought.", "answer": "nowhere near as easy"}]},
+      {"id": "r3", "type": "translate", "title": "Translate", "instruction": "Translate into English.", "instruction_pt": "Traduza para o inglês.",
+       "items": [{"prompt": "Isso não precisa necessariamente ser ruim.", "answer": "That needn't necessarily be a bad thing."}, {"prompt": "Ela agiu como se nada tivesse acontecido.", "answer": "She acted as though nothing had happened."}, {"prompt": "Quanto mais você sabe, menos certeza tem.", "answer": "The more you know, the less certain you become."}]},
+      {"id": "r4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+       "items": [{"prompt": "1", "answer": "There's every reason to believe he's telling the truth."}, {"prompt": "2", "answer": "This view has been widely disputed."}, {"prompt": "3", "answer": "Far be it from me to criticize."}]},
+      {"id": "r5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+       "items": [{"prompt": "Silva refuted the theory, but offered no evidence.", "answer": "Silva challenged / disputed the theory, but offered no evidence."}, {"prompt": "Would that I have more time!", "answer": "Would that I had more time!"}, {"prompt": "The win was the more special because it was unexpected.", "answer": "The win was all the more special because it was unexpected."}]}
+    ],
+    "speaking_pt": "Faça uma apresentação de 5 minutos no estilo \"academic talk\": escolha uma questão ainda em aberto (científica, histórica ou social), resuma duas ou três fontes com verbos de citação, indique graus de certeza com precisão, inclua um contrafactual e conclua com uma comparação que corrija um equívoco comum (\"It's not so much X as Y\").",
+    "speaking_questions": ["What is something that most people are too certain about?", "How do you judge whether a source is reliable?", "Which historical what-if fascinates you most?", "Which cognitive bias affects you most?", "Is uncertainty a weakness or a strength?"],
+    "project_pt": "**\"Mini research paper\":** individualmente ou em duplas, escrevam um mini artigo acadêmico (500–600 palavras) com introdução, revisão de três fontes reais (com referências), discussão com graus de certeza, um parágrafo contrafactual e conclusão. Façam revisão por pares entre os colegas usando um checklist de voz acadêmica."
+  }
+}

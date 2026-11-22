@@ -1,0 +1,534 @@
+{
+  "id": "B2-M4",
+  "level": "B2",
+  "title": "What If...?",
+  "theme_pt": "Arrependimentos, escolhas de vida e hipóteses",
+  "can_do": ["Falar de hipóteses no passado (third conditional)", "Ligar passado e presente com mixed conditionals", "Expressar arrependimentos e desejos (wish + past perfect, if only)", "Usar alternativas ao if (supposing, provided, otherwise, but for)"],
+  "lessons": [
+    {
+      "id": "B2-M4-L1",
+      "title": "If I had known...",
+      "subtitle_pt": "Third conditional: hipóteses sobre o passado",
+      "duration_min": 75,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – B2 (third conditional)", "TopNotch 3B Teacher's Book – Unit 6 (regrets, life choices)"],
+      "objectives": ["Formar o third conditional (If + past perfect, would have + pp)", "Usar could have / might have na oração principal", "Falar de arrependimentos e de momentos decisivos", "Imaginar como a história poderia ter sido diferente"],
+      "warmup": {
+        "text_pt": "\"Se eu tivesse estudado mais, teria passado.\" \"Se não tivesse perdido aquele ônibus, não teria conhecido minha esposa.\" Pequenas coisas mudam vidas inteiras. Hoje você vai falar sobre o **passado que não aconteceu**.",
+        "questions": ["What's a small decision that changed your life?", "If you could go back ten years, what would you tell yourself?"]
+      },
+      "vocabulary": [
+        {"en": "a regret / to regret", "pt": "um arrependimento / arrepender-se", "say": "a rigrét"},
+        {"en": "a missed opportunity", "pt": "uma oportunidade perdida", "say": "a míst opertiúniti"},
+        {"en": "a turning point", "pt": "um ponto de virada", "say": "a târnin póint"},
+        {"en": "a twist of fate", "pt": "uma reviravolta do destino", "say": "a tuíst ov fêit"},
+        {"en": "by chance / by coincidence", "pt": "por acaso / por coincidência", "say": "bái tchéns / bái koínsidens"},
+        {"en": "a close call / a near miss", "pt": "por pouco (escapou de algo ruim)", "say": "a klôus kól / a nír mis"},
+        {"en": "hindsight", "pt": "visão retrospectiva", "say": "ráindsait"},
+        {"en": "with hindsight / in retrospect", "pt": "olhando para trás", "say": "uídh ráindsait / in rétrospekt"},
+        {"en": "the butterfly effect", "pt": "o efeito borboleta", "say": "dâ bâterfli iféct"},
+        {"en": "to take a chance", "pt": "arriscar", "say": "tu têik a tchéns"},
+        {"en": "to miss the boat", "pt": "perder a oportunidade", "say": "tu mis dâ bôut"},
+        {"en": "it was meant to be", "pt": "estava destinado a ser", "say": "it uóz mént tu bí"}
+      ],
+      "chunks": [
+        {"en": "If I had known, I would have told you.", "pt": "Se eu soubesse, teria te contado."},
+        {"en": "If she hadn't missed the bus, they wouldn't have met.", "pt": "Se ela não tivesse perdido o ônibus, eles não teriam se conhecido."},
+        {"en": "We could have won if we'd trained harder.", "pt": "Poderíamos ter ganhado se tivéssemos treinado mais."},
+        {"en": "With hindsight, it was the right decision.", "pt": "Olhando para trás, foi a decisão certa."},
+        {"en": "That was a close call!", "pt": "Foi por pouco!"},
+        {"en": "I missed the boat on that one.", "pt": "Perdi essa oportunidade."}
+      ],
+      "grammar": {
+        "title": "Third conditional",
+        "explanation_pt": "O **third conditional** fala de situações **imaginárias no passado** — algo que **não aconteceu** e sua consequência também imaginária.\n\n**Estrutura: If + past perfect, would have + particípio**\n- \"If I **had studied** harder, I **would have passed** the exam.\" (Não estudei → não passei)\n- \"If she **hadn't missed** the bus, they **wouldn't have met**.\" (Ela perdeu → eles se conheceram)\n\n**Contrações na fala (muito importantes):**\n- **I'd** = I had (na parte do if) / I would (na consequência): \"If **I'd** known, **I'd** have called.\"\n- **would have** → **would've** (\"uúdav\"); **wouldn't have** → **wouldn't've**\n\n**Outros modais na consequência:**\n- **could have + pp** = poderia ter (possibilidade/habilidade): \"If we'd left earlier, we **could have caught** the train.\"\n- **might have + pp** = talvez tivesse: \"If you'd asked, she **might have said** yes.\"\n\n**Perguntas:** \"What **would** you **have done** if you **had lost** your passport?\"\n\n**A ordem pode inverter** (sem vírgula): \"I would have helped **if** you'd asked me.\"\n\n**Inversão formal (sem if):** \"**Had I known**, I would have come.\" (= If I had known) — comum em textos formais e no B2 First.\n\n⚠️ **Nunca** use \"would have\" na oração com if: ❌ \"If I would have known...\"",
+        "table": {
+          "headers": ["Realidade", "Third conditional"],
+          "rows": [["I didn't study, so I failed.", "If I had studied, I would have passed."], ["It rained, so we cancelled the trip.", "If it hadn't rained, we wouldn't have cancelled the trip."], ["I didn't know, so I didn't help.", "If I'd known, I could have helped."], ["She took the job in Lisbon and met her husband.", "If she hadn't taken the job, she might not have met him."]]
+        },
+        "examples": [
+          {"en": "If I hadn't taken that English course, I would never have got this job.", "pt": "Se eu não tivesse feito aquele curso de inglês, nunca teria conseguido este emprego."},
+          {"en": "We could have avoided the problem if we'd checked the numbers.", "pt": "Poderíamos ter evitado o problema se tivéssemos conferido os números."},
+          {"en": "Had the firefighters arrived five minutes later, the whole building might have burned down.", "pt": "Se os bombeiros tivessem chegado cinco minutos depois, o prédio todo poderia ter pegado fogo."}
+        ],
+        "tip_pt": "Em português, na fala, muitas vezes dizemos \"se eu **soubesse**, eu **tinha** te contado\" para o passado. Em inglês, use sempre a estrutura completa: **If I had known, I would have told you.**"
+      },
+      "common_mistakes": [
+        {"wrong": "If I would have known, I would have come.", "right": "If I had known, I would have come.", "why_pt": "Na oração com if, use past perfect (had + pp)."},
+        {"wrong": "If I had studied, I would passed.", "right": "If I had studied, I would have passed.", "why_pt": "Consequência = would have + particípio."},
+        {"wrong": "If she didn't miss the bus, they wouldn't have met.", "right": "If she hadn't missed the bus, they wouldn't have met.", "why_pt": "Hipótese sobre o passado = past perfect."}
+      ],
+      "pronunciation": {
+        "focus": "Would've / I'd've",
+        "tip_pt": "Nativos quase nunca dizem \"would have\" por extenso: **would've** = \"**uúdav**\", **could've** = \"**kúdav**\", **wouldn't have** = \"**uúdentav**\". E \"If I'd known, I'd have...\" = \"if áid nôun, áidav...\". Treine o ouvido — e use na fala.",
+        "practice": ["If I'd known, I would've told you.", "We could've won!", "She wouldn't have come."]
+      },
+      "dialogue": {
+        "title": "Sliding doors",
+        "context_pt": "Um casal relembra como se conheceu graças a uma série de acasos.",
+        "lines": [
+          {"speaker": "Ana", "en": "Do you ever think about how we met? It was such a coincidence.", "pt": "Você já pensou em como a gente se conheceu? Foi uma coincidência tão grande."},
+          {"speaker": "Pedro", "en": "All the time! If my flight hadn't been cancelled, I would never have stayed in Lisbon that night.", "pt": "O tempo todo! Se meu voo não tivesse sido cancelado, eu nunca teria ficado em Lisboa naquela noite."},
+          {"speaker": "Ana", "en": "And if my friend hadn't dragged me to that concert, I wouldn't have been there either. I almost stayed at home.", "pt": "E se minha amiga não tivesse me arrastado para aquele show, eu também não estaria lá. Quase fiquei em casa."},
+          {"speaker": "Pedro", "en": "Imagine if I'd sat in a different seat. I might have never spoken to you.", "pt": "Imagina se eu tivesse sentado em outro lugar. Talvez nunca tivesse falado com você."},
+          {"speaker": "Ana", "en": "You only spoke to me because you spilled your drink on my bag!", "pt": "Você só falou comigo porque derramou sua bebida na minha bolsa!"},
+          {"speaker": "Pedro", "en": "True. If I hadn't been so clumsy, we'd never have started talking. Best accident of my life.", "pt": "Verdade. Se eu não tivesse sido tão desastrado, nunca teríamos começado a conversar. Melhor acidente da minha vida."},
+          {"speaker": "Ana", "en": "With hindsight, the cancelled flight was a blessing. You were furious at the time, though.", "pt": "Olhando para trás, o voo cancelado foi uma bênção. Mas você estava furioso na hora."},
+          {"speaker": "Pedro", "en": "If I'd known what was going to happen, I would have thanked the airline!", "pt": "Se eu soubesse o que ia acontecer, teria agradecido à companhia aérea!"}
+        ]
+      },
+      "listening": {
+        "title": "A near miss",
+        "context_pt": "Um homem conta num podcast como escapou de um acidente por pouco.",
+        "lines": [
+          {"speaker": "Guest", "en": "It was a Monday, and I was running late for work, which almost never happens. I was so annoyed — I'd forgotten to set my alarm. When I finally got to the bus stop, the bus had just left. I remember thinking, \"If I'd woken up five minutes earlier, I would have caught it.\" About ten minutes later, I heard sirens. That bus had been involved in a serious accident on the highway. Several passengers were injured. If I'd been on time that day, I would have been sitting in my usual seat — right at the front, where the impact happened. I'm not a superstitious person, but since then, I've never complained about being late."}
+        ],
+        "questions": [
+          {"q": "Why was he running late?", "answer": "He had forgotten to set his alarm."},
+          {"q": "What did he think when he missed the bus?", "answer": "If he'd woken up five minutes earlier, he would have caught it."},
+          {"q": "What happened to the bus?", "answer": "It was involved in a serious accident on the highway."},
+          {"q": "What would have happened if he'd been on time?", "answer": "He would have been sitting at the front, where the impact happened."}
+        ]
+      },
+      "video": {
+        "title": "On being wrong",
+        "speaker": "Kathryn Schulz",
+        "url": "https://www.ted.com/search?q=kathryn+schulz+on+being+wrong",
+        "task_pt": "Assista à palestra (cerca de 17 minutos). Ela fala sobre como nos sentimos quando estamos errados. Responda usando o third conditional:",
+        "questions": ["What does the speaker say it feels like to be wrong — before we realize it?", "Why, according to her, do we find it so hard to admit mistakes?", "Think of a time you were sure you were right and turned out to be wrong. What would you have done differently if you'd known?", "Do you agree that being wrong can be valuable? Why?"]
+      },
+      "reading": {
+        "title": "History's great \"what ifs\"",
+        "text": "Historians are often cautious about \"counterfactual\" questions — imagining what would have happened if events had been different — but these questions can help us understand how fragile history really is. Consider the discovery of penicillin. In 1928, the Scottish scientist Alexander Fleming returned from a holiday to find that mould had contaminated one of his bacterial cultures — and that the bacteria around the mould had died. If he had cleaned his laboratory before leaving, or if the mould had landed on a different plate, he might never have noticed the effect. Penicillin, and the antibiotics that followed, have since saved millions of lives. Or take the Post-it note, which we saw in an earlier unit: if Spencer Silver hadn't \"failed\" to make a strong glue, one of the world's most famous office products would not have been invented. Of course, history is rarely shaped by a single moment. Had Fleming not noticed the mould, someone else might eventually have discovered penicillin. Still, these stories remind us that chance, curiosity and the ability to notice the unexpected have played a much larger role in human progress than we usually admit.",
+        "questions": [
+          {"q": "What are \"counterfactual\" questions?", "answer": "Imagining what would have happened if events had been different."},
+          {"q": "What did Fleming find when he returned from holiday?", "answer": "Mould had contaminated a culture, and the bacteria around it had died."},
+          {"q": "What might have happened if he'd cleaned his lab before leaving?", "answer": "He might never have noticed the effect."},
+          {"q": "What do these stories remind us?", "answer": "Chance, curiosity and noticing the unexpected play a large role in progress."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "fill_blank", "title": "Third conditional", "instruction": "Complete with the correct form of the verbs in parentheses.", "instruction_pt": "Complete com a forma correta dos verbos.",
+         "items": [{"prompt": "If I ___ (know) about the party, I ___ (go).", "answer": "had known / would have gone"}, {"prompt": "She ___ (not / get) the job if she ___ (not / speak) English.", "answer": "wouldn't have got / hadn't spoken"}, {"prompt": "If we ___ (leave) earlier, we ___ (could / catch) the train.", "answer": "had left / could have caught"}, {"prompt": "What ___ you ___ (do) if you ___ (lose) your passport?", "answer": "would / have done / had lost"}]},
+        {"id": "ex2", "type": "answer", "title": "From reality to hypothesis", "instruction": "Write a third conditional sentence for each situation.", "instruction_pt": "Escreva uma frase no third conditional para cada situação.",
+         "items": [{"prompt": "I didn't set my alarm, so I was late.", "answer": "If I had set my alarm, I wouldn't have been late."}, {"prompt": "It rained, so the match was cancelled.", "answer": "If it hadn't rained, the match wouldn't have been cancelled."}, {"prompt": "He didn't wear a helmet, so he was badly hurt.", "answer": "If he had worn a helmet, he wouldn't have been badly hurt."}, {"prompt": "They took a wrong turn and discovered a beautiful beach.", "answer": "If they hadn't taken a wrong turn, they wouldn't have discovered the beach."}]},
+        {"id": "ex3", "type": "answer", "title": "Formal inversion", "instruction": "Rewrite starting with Had...", "instruction_pt": "Reescreva começando com Had...",
+         "items": [{"prompt": "If I had known, I would have helped.", "answer": "Had I known, I would have helped."}, {"prompt": "If the company had invested earlier, it wouldn't have gone bankrupt.", "answer": "Had the company invested earlier, it wouldn't have gone bankrupt."}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "If I had known, I would have told you."}, {"prompt": "2", "answer": "If she hadn't missed the bus, they wouldn't have met."}, {"prompt": "3", "answer": "We could have won if we'd trained harder."}, {"prompt": "4", "answer": "With hindsight, it was the right decision."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "If I would have studied, I would have passed.", "answer": "If I had studied, I would have passed."}, {"prompt": "If she had called, I would helped her.", "answer": "If she had called, I would have helped her."}, {"prompt": "If they didn't leave early, they would have missed the show.", "answer": "If they hadn't left early, they would have missed the show."}, {"prompt": "Had I knew, I would have come.", "answer": "Had I known, I would have come."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the story", "instruction": "Complete with: hadn't · would · could · hindsight · had.", "instruction_pt": "Complete a história.",
+         "items": [{"prompt": "In 2015, I was offered a job in Canada, but I said no. With ___, it was a mistake.", "answer": "hindsight"}, {"prompt": "If I ___ accepted, my English ___ have improved much faster.", "answer": "had / would"}, {"prompt": "I ___ have travelled more, too.", "answer": "could"}, {"prompt": "But if I ___ stayed in Brazil, I would never have met my best friends.", "answer": "hadn't"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Butterfly effect chain\": start with a small real event from your past (\"If I hadn't missed the bus in 2018...\") and build a chain of at least 4 third-conditional consequences. Then discuss the questions.",
+        "instruction_pt": "\"Corrente do efeito borboleta\": comece com um pequeno evento real do seu passado (\"If I hadn't missed the bus in 2018...\") e construa uma corrente de pelo menos 4 consequências no third conditional. Depois discuta as perguntas.",
+        "questions": ["What small decision completely changed your life?", "Is there an opportunity you missed? What would have happened if you'd taken it?", "Have you ever had a close call?", "Do you believe in fate, or is it all chance?", "Which historical event would you change if you could? What would have happened?"]
+      },
+      "writing": {
+        "task": "Write a reflective story (200–250 words) about a turning point in your life. Describe what happened and imagine how your life would have been different, using at least 6 third conditional sentences (including could have / might have).",
+        "task_pt": "Escreva uma história reflexiva (200–250 palavras) sobre um ponto de virada na sua vida. Descreva o que aconteceu e imagine como sua vida teria sido diferente, usando pelo menos 6 frases no third conditional (incluindo could have / might have).",
+        "model": "The email I almost didn't send\n\nIn 2019, I was working as an accountant in a job I didn't enjoy. One evening, I saw an online advert for a course in graphic design. The deadline for applications was midnight, and it was already eleven o'clock. I was tired, and I almost closed the laptop.\n\nIf I had gone to bed that night, my life would have been completely different. I would probably still be working in accounting, and I might never have discovered how much I love design. I wouldn't have met Lucas, my teacher on the course, who later offered me my first freelance project. And if he hadn't recommended me to his clients, I couldn't have built my own studio, which now has four employees.\n\nOf course, things could have gone wrong. If the course had been terrible, I might have lost money and confidence. Had my family not supported me, I would never have had the courage to quit my stable job.\n\nWith hindsight, I sometimes wonder what would have happened if I'd made the change earlier. But I don't really regret the years in accounting: they taught me how to manage a business. Sometimes, the turning point isn't a big event. It's an email you send at 11:57 p.m."
+      },
+      "culture_note": {
+        "title": "\"Sliding Doors\"",
+        "text_pt": "O filme **\"Sliding Doors\"** (1998) mostra duas versões da vida de uma mulher: uma em que ela pega o metrô e outra em que perde. Desde então, a expressão **\"a sliding doors moment\"** é usada em inglês para descrever um momento aparentemente pequeno que muda tudo."
+      },
+      "summary_pt": ["If + had + pp, would have + pp (passado imaginário).", "could have / might have na consequência.", "Contrações: If I'd known, I'd have / would've...", "Inversão formal: Had I known, ..."]
+    },
+    {
+      "id": "B2-M4-L2",
+      "title": "Life choices",
+      "subtitle_pt": "Mixed conditionals: passado → presente e presente → passado",
+      "duration_min": 75,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – B2 (mixed conditionals)", "TopNotch 3B Teacher's Book – Unit 6 (life choices)"],
+      "objectives": ["Usar mixed conditionals para ligar uma condição passada a um resultado presente", "Usar mixed conditionals para ligar uma característica presente a um resultado passado", "Escolher entre second, third e mixed conditional", "Discutir escolhas de vida e suas consequências hoje"],
+      "warmup": {
+        "text_pt": "\"Se eu tivesse aceitado aquele emprego em São Paulo, **hoje estaria** morando lá.\" Essa frase mistura uma condição **no passado** com um resultado **no presente**. É um **mixed conditional** — uma das estruturas mais naturais (e elegantes) do inglês B2.",
+        "questions": ["What would your life be like now if you had chosen a different career?", "Where would you be living today if you hadn't moved to your current city?"]
+      },
+      "vocabulary": [
+        {"en": "a crossroads", "pt": "uma encruzilhada", "say": "a krósrôudz"},
+        {"en": "to take a different path", "pt": "seguir outro caminho", "say": "tu têik a díferent péθ"},
+        {"en": "to settle down", "pt": "estabelecer-se, assentar", "say": "tu sétol dáun"},
+        {"en": "to play it safe", "pt": "não arriscar", "say": "tu plêi it sêif"},
+        {"en": "to follow your heart / your dreams", "pt": "seguir o coração / os sonhos", "say": "tu fálou iór rárt"},
+        {"en": "to have no regrets", "pt": "não ter arrependimentos", "say": "tu rév nôu rigréts"},
+        {"en": "to make the most of", "pt": "aproveitar ao máximo", "say": "tu mêik dâ môust ov"},
+        {"en": "to be better/worse off", "pt": "estar em situação melhor/pior", "say": "tu bí bérer / uârs óf"},
+        {"en": "to wonder what might have been", "pt": "imaginar o que poderia ter sido", "say": "tu uânder uót máit rév bín"},
+        {"en": "a gap year", "pt": "um ano sabático", "say": "a guép iír"},
+        {"en": "to take the plunge", "pt": "dar o salto, criar coragem", "say": "tu têik dâ plândj"},
+        {"en": "the road not taken", "pt": "o caminho não escolhido", "say": "dâ rôud nót têiken"}
+      ],
+      "chunks": [
+        {"en": "If I'd taken that job, I'd be living in Lisbon now.", "pt": "Se eu tivesse aceitado aquele emprego, estaria morando em Lisboa agora."},
+        {"en": "If I hadn't studied English, I wouldn't have this job.", "pt": "Se eu não tivesse estudado inglês, não teria este emprego."},
+        {"en": "If I were braver, I would have taken the plunge.", "pt": "Se eu fosse mais corajoso, teria dado o salto."},
+        {"en": "We'd be much better off now.", "pt": "Estaríamos numa situação muito melhor agora."},
+        {"en": "I sometimes wonder what might have been.", "pt": "Às vezes imagino o que poderia ter sido."},
+        {"en": "I have no regrets.", "pt": "Não tenho arrependimentos."}
+      ],
+      "grammar": {
+        "title": "Mixed conditionals",
+        "explanation_pt": "Os condicionais \"puros\" mantêm o mesmo tempo nas duas partes. Mas a vida real mistura tempos! Os **mixed conditionals** combinam partes do **second** e do **third** conditional.\n\n**Tipo 1: condição no PASSADO → resultado no PRESENTE**\n**If + past perfect, would + verbo base (now)**\n- \"If I **had accepted** the job in Canada, I **would be living** there **now**.\" (não aceitei → não moro lá hoje)\n- \"If she **hadn't studied** medicine, she **wouldn't be** a doctor today.\"\n- \"If we **had saved** more, we **wouldn't have** these money problems **now**.\"\n\n**Tipo 2: característica PRESENTE (permanente) → resultado no PASSADO**\n**If + past simple, would have + particípio**\n- \"If I **were** more confident, I **would have spoken** in the meeting yesterday.\" (não sou confiante → não falei)\n- \"If he **didn't have** a fear of flying, he **would have come** to the wedding.\"\n- \"If I **spoke** French, I **would have understood** the film.\"\n\n**Como escolher?** Pergunte-se: **quando** é a condição? **Quando** é o resultado?\n- passado → passado = **third** (If I'd known, I'd have come)\n- presente/geral → presente/futuro = **second** (If I knew, I'd come)\n- passado → presente = **mixed tipo 1** (If I'd known, I'd be there now)\n- presente → passado = **mixed tipo 2** (If I knew him, I'd have invited him)\n\n**Palavras-pista:** now, today, still (presente) / yesterday, last year, in 2015 (passado).",
+        "table": {
+          "headers": ["Tipo", "Condição", "Resultado", "Exemplo"],
+          "rows": [["Second", "presente (irreal)", "presente", "If I had money, I'd travel."], ["Third", "passado (irreal)", "passado", "If I'd had money, I'd have travelled."], ["Mixed 1", "passado", "presente", "If I'd saved money, I'd be travelling now."], ["Mixed 2", "presente (permanente)", "passado", "If I weren't so shy, I'd have asked her out."]]
+        },
+        "examples": [
+          {"en": "If I hadn't moved to Curitiba, I wouldn't know my best friends.", "pt": "Se eu não tivesse me mudado para Curitiba, não conheceria meus melhores amigos."},
+          {"en": "If she were more organized, she wouldn't have missed the deadline.", "pt": "Se ela fosse mais organizada, não teria perdido o prazo."},
+          {"en": "If we had bought that apartment in 2015, it would be worth twice as much now.", "pt": "Se tivéssemos comprado aquele apartamento em 2015, ele valeria o dobro agora."}
+        ],
+        "tip_pt": "Mixed conditionals são muito comuns na **fala natural** — muitas vezes até mais que os puros. Ouvir \"If I'd known, I wouldn't be here\" num filme é muito frequente!"
+      },
+      "common_mistakes": [
+        {"wrong": "If I had taken the job, I would have lived in Lisbon now.", "right": "If I had taken the job, I would be living in Lisbon now.", "why_pt": "Resultado no presente (now) = would + verbo base."},
+        {"wrong": "If I was more patient, I wouldn't shout at him yesterday.", "right": "If I were more patient, I wouldn't have shouted at him yesterday.", "why_pt": "Resultado no passado (yesterday) = would have + particípio."},
+        {"wrong": "If I would have studied, I would be a doctor.", "right": "If I had studied, I would be a doctor.", "why_pt": "Nunca would na oração com if."}
+      ],
+      "pronunciation": {
+        "focus": "Ênfase nos marcadores de tempo",
+        "tip_pt": "Em mixed conditionals, os marcadores de tempo (**now**, **today**, **yesterday**, **back then**) costumam receber ênfase, porque são eles que mostram a mistura: \"If I'd taken the job... I'd be living in Lisbon **NOW**.\"",
+        "practice": ["If I'd taken the job, I'd be living there NOW.", "If I were braver, I'd have spoken up YESTERDAY.", "If we hadn't met, I'd be a different person TODAY."]
+      },
+      "dialogue": {
+        "title": "Different paths",
+        "context_pt": "Dois amigos de faculdade, que seguiram caminhos opostos, conversam num reencontro.",
+        "lines": [
+          {"speaker": "Igor", "en": "Can you believe it's been fifteen years? If you hadn't moved to Australia, we'd probably still be working together.", "pt": "Dá para acreditar que já são quinze anos? Se você não tivesse se mudado para a Austrália, provavelmente ainda estaríamos trabalhando juntos."},
+          {"speaker": "Laura", "en": "Probably! I almost didn't go. If my boss hadn't been so awful, I would have stayed.", "pt": "Provavelmente! Quase não fui. Se meu chefe não fosse tão horrível, eu teria ficado."},
+          {"speaker": "Igor", "en": "Wait, \"hadn't been\" — so a bad boss changed your life?", "pt": "Espera, um chefe ruim mudou sua vida?"},
+          {"speaker": "Laura", "en": "Ha, exactly. And if I hadn't gone, I wouldn't have my own company now, or speak English every day.", "pt": "Ha, exatamente. E se eu não tivesse ido, não teria minha própria empresa agora, nem falaria inglês todo dia."},
+          {"speaker": "Igor", "en": "I envy you sometimes. If I were more adventurous, I would have taken a gap year after college. I always played it safe.", "pt": "Às vezes te invejo. Se eu fosse mais aventureiro, teria tirado um ano sabático depois da faculdade. Sempre fui pelo seguro."},
+          {"speaker": "Laura", "en": "But look at you! If you hadn't stayed, you wouldn't be a partner at the firm today. And you wouldn't have met Carol.", "pt": "Mas olha para você! Se você não tivesse ficado, não seria sócio do escritório hoje. E não teria conhecido a Carol."},
+          {"speaker": "Igor", "en": "That's true. I suppose we both made the right choices for us.", "pt": "É verdade. Acho que nós dois fizemos as escolhas certas para nós."},
+          {"speaker": "Laura", "en": "Exactly. No regrets — just different roads.", "pt": "Exatamente. Sem arrependimentos — só caminhos diferentes."}
+        ]
+      },
+      "listening": {
+        "title": "Radio phone-in: the road not taken",
+        "context_pt": "Ouvintes ligam para um programa de rádio para falar de escolhas de vida.",
+        "lines": [
+          {"speaker": "Host", "en": "Our question today: what's the road you didn't take? First caller, Márcia."},
+          {"speaker": "Márcia", "en": "When I was 18, I got a place at a music school in São Paulo, but my parents wanted me to study law. I listened to them. If I'd gone to music school, I'd probably be a professional pianist now. I'm a happy lawyer, but I still wonder."},
+          {"speaker": "Host", "en": "Thank you. Next, Daniel."},
+          {"speaker": "Daniel", "en": "Mine's the opposite. I'm quite a cautious person by nature. If I weren't so careful, I would have invested all my savings in a friend's startup back in 2012. It went bankrupt a year later. So sometimes playing it safe pays off!"},
+          {"speaker": "Host", "en": "Great point. Being cautious isn't always a bad thing."}
+        ],
+        "questions": [
+          {"q": "What did Márcia choose instead of music school?", "answer": "Law (her parents wanted her to)."},
+          {"q": "What would Márcia probably be now if she'd gone to music school?", "answer": "A professional pianist."},
+          {"q": "What would Daniel have done if he weren't so careful?", "answer": "Invested all his savings in a friend's startup in 2012."},
+          {"q": "What happened to the startup?", "answer": "It went bankrupt a year later."}
+        ]
+      },
+      "reading": {
+        "title": "The road not taken",
+        "text": "\"Two roads diverged in a wood, and I — / I took the one less traveled by, / And that has made all the difference.\" These lines from Robert Frost's 1916 poem \"The Road Not Taken\" are among the most quoted in American literature, often printed on posters encouraging people to be brave and different. Yet many literary critics argue that the poem is widely misunderstood. Earlier in the poem, Frost actually describes the two roads as being worn \"really about the same\". The traveller only imagines that, years later, he will tell the story as if his choice had been dramatic and meaningful. In other words, the poem may be less about bravery and more about how we construct stories about our decisions after the fact. Psychologists have found something similar: we tend to justify our choices once they are made, convincing ourselves that the path we took was the right one. If we had chosen differently, we would probably be just as good at explaining why that choice was the best. Perhaps that's not a bad thing. If we didn't have this ability, we might spend our lives tormented by the roads we didn't take.",
+        "questions": [
+          {"q": "How are Frost's lines usually interpreted?", "answer": "As encouraging people to be brave and different."},
+          {"q": "Why do critics say the poem is misunderstood?", "answer": "Frost describes the two roads as being about the same; the traveller only imagines telling it as dramatic later."},
+          {"q": "What have psychologists found about our choices?", "answer": "We tend to justify them once they're made."},
+          {"q": "Why might this ability be a good thing?", "answer": "Without it, we might be tormented by the roads we didn't take."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Which conditional?", "instruction": "Choose the correct form.", "instruction_pt": "Escolha a forma correta.",
+         "items": [{"prompt": "If I had taken the job, I ___ in Canada now.", "options": ["would live", "would have lived", "will live"], "answer": "would live"}, {"prompt": "If I were taller, I ___ for the basketball team last year.", "options": ["would be chosen", "would have been chosen", "will be chosen"], "answer": "would have been chosen"}, {"prompt": "If she ___ English, she wouldn't have this job now.", "options": ["didn't learn", "hadn't learned", "wouldn't learn"], "answer": "hadn't learned"}, {"prompt": "If he ___ so shy, he would have asked her out at the party.", "options": ["wasn't / weren't", "hadn't been", "wouldn't be"], "answer": "wasn't / weren't"}]},
+        {"id": "ex2", "type": "answer", "title": "Write mixed conditionals", "instruction": "Write a mixed conditional sentence for each situation.", "instruction_pt": "Escreva um mixed conditional para cada situação.",
+         "items": [{"prompt": "I didn't study medicine. I'm not a doctor now.", "answer": "If I had studied medicine, I would be a doctor now."}, {"prompt": "We didn't buy the house in 2010. We don't have a big garden now.", "answer": "If we had bought the house in 2010, we would have a big garden now."}, {"prompt": "I'm not good at maths. I failed the exam last week.", "answer": "If I were good at maths, I wouldn't have failed the exam last week."}, {"prompt": "She doesn't speak Spanish. She didn't get the job in Madrid.", "answer": "If she spoke Spanish, she would have got the job in Madrid."}]},
+        {"id": "ex3", "type": "match", "title": "Life choices vocabulary", "instruction": "Write the English expression.", "instruction_pt": "Escreva a expressão em inglês.",
+         "items": [{"prompt": "não arriscar", "answer": "play it safe"}, {"prompt": "dar o salto, criar coragem", "answer": "take the plunge"}, {"prompt": "estar em situação melhor", "answer": "be better off"}, {"prompt": "uma encruzilhada", "answer": "a crossroads"}, {"prompt": "aproveitar ao máximo", "answer": "make the most of"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "If I'd taken that job, I'd be living in Lisbon now."}, {"prompt": "2", "answer": "If I hadn't studied English, I wouldn't have this job."}, {"prompt": "3", "answer": "If I were braver, I would have taken the plunge."}, {"prompt": "4", "answer": "I sometimes wonder what might have been."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "If I had gone to bed earlier, I wouldn't have been so tired now.", "answer": "If I had gone to bed earlier, I wouldn't be so tired now."}, {"prompt": "If I was a better cook, I would make dinner last night.", "answer": "If I were a better cook, I would have made dinner last night."}, {"prompt": "If they hadn't met, they wouldn't married today.", "answer": "If they hadn't met, they wouldn't be married today."}, {"prompt": "If I would have saved money, I would be rich.", "answer": "If I had saved money, I would be rich."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the reflection", "instruction": "Complete with the correct form of the verbs in parentheses.", "instruction_pt": "Complete a reflexão com a forma correta.",
+         "items": [{"prompt": "If my parents ___ (not / encourage) me to read, I ___ (not / be) a writer today.", "answer": "hadn't encouraged / wouldn't be"}, {"prompt": "If I ___ (be) less stubborn, I ___ (listen) to my teacher's advice back then.", "answer": "were / would have listened"}, {"prompt": "If we ___ (invest) in solar panels five years ago, our bills ___ (be) much lower now.", "answer": "had invested / would be"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Parallel lives\": choose one big decision you made (or didn't make). Describe your \"parallel life\" today if you'd chosen differently (mixed type 1), and one thing about your personality that has affected your past choices (mixed type 2).",
+        "instruction_pt": "\"Vidas paralelas\": escolha uma grande decisão que você tomou (ou não tomou). Descreva sua \"vida paralela\" hoje se tivesse escolhido diferente (mixed tipo 1) e uma característica da sua personalidade que afetou suas escolhas passadas (mixed tipo 2).",
+        "questions": ["Where would you be living now if you had chosen a different career?", "What would you be doing today if you hadn't started learning English?", "What aspect of your personality has stopped you from doing something in the past?", "Do you tend to play it safe or take the plunge?", "Do you have any regrets? Or no regrets at all?"]
+      },
+      "writing": {
+        "task": "Write an opinion essay (220–260 words): \"It is better to regret something you have done than something you haven't done.\" Use examples from your own life or others' with at least 4 mixed conditionals and 2 third conditionals.",
+        "task_pt": "Escreva uma redação de opinião (220–260 palavras): \"É melhor se arrepender de algo que você fez do que de algo que não fez.\" Use exemplos da sua vida ou de outras pessoas com pelo menos 4 mixed conditionals e 2 third conditionals.",
+        "model": "Is it better to regret what you did, or what you didn't do?\n\nA famous saying claims that we regret the things we didn't do more than the things we did. Research by psychologists has offered some support for this idea: in the short term, people tend to regret their mistakes, but over a lifetime, they regret their missed opportunities more.\n\nMy own experience supports this view. When I was 22, I was offered a scholarship to study in Germany, but I turned it down because I was afraid of leaving my family. If I had accepted it, I would probably speak German fluently now, and I might be working in a completely different field. If I weren't so attached to my home, I would have taken that chance without hesitation. Even today, I sometimes wonder what might have been.\n\nOn the other hand, my brother took a risk that went wrong. He invested in a restaurant that closed after a year. If he hadn't opened it, he would have saved a lot of money. Yet he insists he has no regrets. If he hadn't tried, he says, he would still be dreaming about it today instead of having learned so much about business. Had he not failed, he wouldn't have started the successful catering company he runs now.\n\nIn my opinion, regrets about actions usually teach us something, while regrets about inaction stay with us as unanswered questions. Therefore, I believe it is generally better to take reasonable risks than to play it safe forever."
+      },
+      "culture_note": {
+        "title": "\"YOLO\" e \"FOMO\"",
+        "text_pt": "Duas siglas da internet ligadas a escolhas: **YOLO** (You Only Live Once — só se vive uma vez, para justificar riscos) e **FOMO** (Fear Of Missing Out — medo de ficar de fora). Mais recentemente surgiu **JOMO** (Joy Of Missing Out) — o prazer de escolher ficar de fora e não se arrepender."
+      },
+      "summary_pt": ["Mixed 1: If + had + pp, would + verbo (passado → presente).", "Mixed 2: If + past simple, would have + pp (presente → passado).", "Pistas de tempo: now / today x yesterday / back then.", "Nunca would na oração com if."]
+    },
+    {
+      "id": "B2-M4-L3",
+      "title": "I wish I'd listened",
+      "subtitle_pt": "Wish / if only + past perfect / would; it's time; would rather + sujeito",
+      "duration_min": 70,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – B2 (wish, if only, would rather, it's time)", "TopNotch 3B Teacher's Book – Unit 6 (regrets)"],
+      "objectives": ["Expressar arrependimento sobre o passado com wish / if only + past perfect", "Reclamar de comportamentos com wish + would", "Usar it's (high) time + past simple", "Usar would rather + sujeito + past simple para preferências sobre outras pessoas"],
+      "warmup": {
+        "text_pt": "No B1 você aprendeu \"I wish I had more time\" (desejo sobre o presente). Agora, vamos olhar para o **passado** (\"Quem me dera ter ouvido minha mãe!\") e para **reclamações** (\"Queria que ele parasse de...\").",
+        "questions": ["What do you wish you had done differently when you were younger?", "What do you wish people would stop doing?"]
+      },
+      "vocabulary": [
+        {"en": "if only", "pt": "quem me dera, se ao menos", "say": "if ôunli"},
+        {"en": "it's (high) time", "pt": "já está (mais do que) na hora", "say": "its (rái) táim"},
+        {"en": "would rather (+ subject)", "pt": "preferiria que (alguém)", "say": "uúd réder"},
+        {"en": "to look back on", "pt": "olhar para trás, relembrar", "say": "tu luk bék on"},
+        {"en": "to dwell on (the past)", "pt": "ficar remoendo (o passado)", "say": "tu duél on"},
+        {"en": "to let go (of)", "pt": "deixar ir, soltar", "say": "tu lét gôu"},
+        {"en": "to make amends", "pt": "reparar um erro, se redimir", "say": "tu mêik améndz"},
+        {"en": "to learn the hard way", "pt": "aprender da pior forma", "say": "tu lârn dâ rárd uêi"},
+        {"en": "deathbed regrets", "pt": "arrependimentos no fim da vida", "say": "déθbed rigréts"},
+        {"en": "to procrastinate", "pt": "procrastinar", "say": "tu proukréstineit"},
+        {"en": "to nag", "pt": "ficar cobrando, encher o saco", "say": "tu nég"},
+        {"en": "to move on", "pt": "seguir em frente", "say": "tu múv on"}
+      ],
+      "chunks": [
+        {"en": "I wish I'd listened to my parents.", "pt": "Queria ter ouvido meus pais."},
+        {"en": "If only I hadn't sent that message!", "pt": "Se ao menos eu não tivesse mandado aquela mensagem!"},
+        {"en": "I wish you would stop interrupting me.", "pt": "Queria que você parasse de me interromper."},
+        {"en": "It's high time we left.", "pt": "Já passou da hora de irmos embora."},
+        {"en": "I'd rather you didn't tell anyone.", "pt": "Prefiro que você não conte para ninguém."},
+        {"en": "Don't dwell on it — move on.", "pt": "Não fique remoendo — siga em frente."}
+      ],
+      "grammar": {
+        "title": "Wish, if only, it's time, would rather",
+        "explanation_pt": "**1. Wish / If only + past simple** → desejo sobre o **presente** (revisão):\n\"I **wish** I **had** more free time.\" / \"**If only** I **were** taller!\"\n\n**2. Wish / If only + past perfect** → arrependimento sobre o **passado**:\n- \"I **wish** I **had studied** harder at school.\" (não estudei — me arrependo)\n- \"**If only** I **hadn't said** that!\"\n- \"She **wishes** she **had taken** the job in London.\"\n\n**3. Wish + would / wouldn't** → **reclamação** sobre o comportamento de **outra pessoa** ou situação que queremos que mude:\n- \"I **wish** you **would** stop leaving your clothes on the floor!\"\n- \"I **wish** it **would** stop raining.\"\n⚠️ Não use \"I wish I would...\" (sobre você mesmo, use could: \"I wish I **could** stop procrastinating\").\n\n**4. It's (high / about) time + sujeito + past simple** → já passou da hora de algo acontecer (crítica/urgência):\n- \"**It's time** we **went** home.\" / \"**It's high time** the government **did** something about it.\"\n- Também: **It's time to** + verbo (mais neutro): \"It's time to go.\"\n\n**5. Would rather + sujeito + past simple** → preferência sobre o que **outra pessoa** faz:\n- \"**I'd rather you didn't** smoke here.\" (prefiro que você não fume — educado!)\n- \"**I'd rather** we **met** tomorrow.\"\n- Compare com **I'd rather + verbo base** (sobre você mesmo): \"I'd rather stay home.\"\n\n**Resumo do \"backshift\" para irrealidade:** presente → past simple · passado → past perfect.",
+        "table": {
+          "headers": ["Estrutura", "Uso", "Exemplo"],
+          "rows": [["wish + past simple", "desejo (presente)", "I wish I lived by the sea."], ["wish + past perfect", "arrependimento (passado)", "I wish I hadn't bought that car."], ["wish + would", "reclamação (outra pessoa)", "I wish he would call me."], ["wish + could", "habilidade desejada", "I wish I could sing."], ["It's time + past simple", "já passou da hora", "It's time you got a job."], ["would rather + sujeito + past", "preferência sobre o outro", "I'd rather you stayed."]]
+        },
+        "examples": [
+          {"en": "I wish I had started investing when I was in my twenties.", "pt": "Queria ter começado a investir quando tinha uns vinte anos."},
+          {"en": "I wish my neighbours would turn their music down after midnight.", "pt": "Queria que meus vizinhos abaixassem a música depois da meia-noite."},
+          {"en": "It's high time we talked about our budget — I'd rather we didn't leave it until the last minute.", "pt": "Já passou da hora de conversarmos sobre nosso orçamento — prefiro que não deixemos para a última hora."}
+        ],
+        "tip_pt": "**I'd rather you didn't** é uma forma muito educada de dizer \"não faça isso\" em inglês: \"Do you mind if I open the window?\" — \"**I'd rather you didn't**, actually. I'm a bit cold.\""
+      },
+      "common_mistakes": [
+        {"wrong": "I wish I studied more when I was at school.", "right": "I wish I had studied more when I was at school.", "why_pt": "Arrependimento sobre o passado = past perfect."},
+        {"wrong": "I wish I would stop eating sugar.", "right": "I wish I could stop eating sugar.", "why_pt": "Sobre você mesmo, use could (não would)."},
+        {"wrong": "It's time we go home.", "right": "It's time we went home. / It's time to go home.", "why_pt": "It's time + sujeito + past simple."}
+      ],
+      "pronunciation": {
+        "focus": "I wish I'd / I'd rather",
+        "tip_pt": "**I wish I'd** soa \"ái uísh áid\" — o 'd é curto, mas essencial (sem ele, a frase vira presente). **I'd rather** = \"áid réder\". **If only** tem ênfase forte em **ONLY** e entonação emotiva: \"If **ONLY** I'd known!\"",
+        "practice": ["I wish I'd listened.", "If ONLY I'd known!", "I'd rather you didn't."]
+      },
+      "dialogue": {
+        "title": "Looking back",
+        "context_pt": "Uma avó e a neta conversam sobre arrependimentos e conselhos de vida.",
+        "lines": [
+          {"speaker": "Bia", "en": "Grandma, do you have any regrets?", "pt": "Vó, você tem algum arrependimento?"},
+          {"speaker": "Grandma", "en": "A few, of course. I wish I had travelled more when I was young. Your grandfather and I always said \"next year\", and then it was too late.", "pt": "Alguns, claro. Queria ter viajado mais quando era jovem. Seu avô e eu sempre dizíamos \"ano que vem\", e depois ficou tarde demais."},
+          {"speaker": "Bia", "en": "Anything else?", "pt": "Mais alguma coisa?"},
+          {"speaker": "Grandma", "en": "I wish I hadn't worried so much about what other people thought. If only someone had told me that nobody is really watching!", "pt": "Queria não ter me preocupado tanto com o que os outros pensavam. Se ao menos alguém tivesse me dito que ninguém está realmente prestando atenção!"},
+          {"speaker": "Bia", "en": "That's good advice. I wish I could stop worrying about that too.", "pt": "É um ótimo conselho. Queria conseguir parar de me preocupar com isso também."},
+          {"speaker": "Grandma", "en": "And speaking of advice — it's high time you called your father. He told me you haven't spoken in weeks.", "pt": "E falando em conselho — já passou da hora de você ligar para seu pai. Ele me disse que vocês não se falam há semanas."},
+          {"speaker": "Bia", "en": "I know, I know. I'd rather you didn't nag me, Grandma! But you're right. I wish he would call me sometimes, though.", "pt": "Eu sei, eu sei. Preferia que você não ficasse me cobrando, vó! Mas você tem razão. Mas queria que ele me ligasse de vez em quando."},
+          {"speaker": "Grandma", "en": "Then be the one who calls first. Don't wait, darling. Trust me — that's one regret you don't want.", "pt": "Então seja você a ligar primeiro. Não espere, querida. Confie em mim — esse é um arrependimento que você não quer ter."}
+        ]
+      },
+      "listening": {
+        "title": "The top five regrets",
+        "context_pt": "Uma apresentadora fala sobre o livro de uma enfermeira de cuidados paliativos.",
+        "lines": [
+          {"speaker": "Host", "en": "Australian palliative care nurse Bronnie Ware spent years caring for people in the last weeks of their lives, and she wrote about the regrets they shared with her. Her list became famous around the world. Many of her patients said: \"I wish I'd had the courage to live a life true to myself, not the life others expected of me.\" Others said: \"I wish I hadn't worked so hard.\" Some told her: \"I wish I'd had the courage to express my feelings,\" and \"I wish I had stayed in touch with my friends.\" And finally: \"I wish I had let myself be happier.\" What's striking is that none of these regrets is about money or possessions. They're all about courage, relationships and choices — things we can still change today."}
+        ],
+        "questions": [
+          {"q": "Who is Bronnie Ware?", "answer": "An Australian palliative care nurse who wrote about patients' regrets."},
+          {"q": "What was a common regret about work?", "answer": "\"I wish I hadn't worked so hard.\""},
+          {"q": "What regret is about friends?", "answer": "\"I wish I had stayed in touch with my friends.\""},
+          {"q": "What is striking about the list?", "answer": "None of the regrets is about money or possessions."}
+        ]
+      },
+      "reading": {
+        "title": "Learning from regret",
+        "text": "Regret has a bad reputation. We're often told to \"live with no regrets\" and to avoid dwelling on the past. But some psychologists argue that regret, when handled well, is one of our most useful emotions. In his book The Power of Regret, Daniel Pink describes a large survey in which thousands of people around the world shared their regrets. He identified four core types: foundation regrets (\"If only I'd saved more money / looked after my health\"), boldness regrets (\"I wish I'd asked her out / started that business\"), moral regrets (\"I wish I hadn't cheated / been unkind\") and connection regrets (\"I wish I had kept in touch with my brother\"). Interestingly, regrets about inaction — the chances we didn't take — tend to last longer than regrets about actions. Pink suggests a three-step method for using regret productively. First, reframe it: talk about it or write it down, which reduces its emotional power. Second, be kind to yourself — treat your past self as you would treat a friend who made a mistake. Third, extract a lesson for the future: \"Next time, I'll speak up.\" Regret, in this view, isn't something to avoid. It's information about what we value most.",
+        "questions": [
+          {"q": "What are the four core types of regret Pink identified?", "answer": "Foundation, boldness, moral and connection regrets."},
+          {"q": "Which regrets tend to last longer?", "answer": "Regrets about inaction (chances not taken)."},
+          {"q": "What is the first step of Pink's method?", "answer": "Reframe it: talk about it or write it down."},
+          {"q": "What does regret tell us, according to this view?", "answer": "What we value most."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Wish structures", "instruction": "Choose the correct form.", "instruction_pt": "Escolha a forma correta.",
+         "items": [{"prompt": "I wish I ___ to the party last night. It was amazing!", "options": ["went", "had gone", "would go"], "answer": "had gone"}, {"prompt": "I wish I ___ more patient. (presente)", "options": ["were", "had been", "would be"], "answer": "were"}, {"prompt": "I wish my brother ___ borrowing my clothes!", "options": ["stopped", "would stop", "had stopped"], "answer": "would stop"}, {"prompt": "I wish I ___ play the guitar.", "options": ["would", "could", "had"], "answer": "could"}, {"prompt": "If only I ___ that email! Now everyone has seen it.", "options": ["didn't send", "hadn't sent", "wouldn't send"], "answer": "hadn't sent"}]},
+        {"id": "ex2", "type": "answer", "title": "Write a wish", "instruction": "Write a sentence with I wish / If only for each situation.", "instruction_pt": "Escreva uma frase com I wish / If only para cada situação.",
+         "items": [{"prompt": "I didn't save any money last year.", "answer": "I wish I had saved some money last year."}, {"prompt": "My colleague keeps eating my lunch.", "answer": "I wish my colleague would stop eating my lunch."}, {"prompt": "I said something hurtful to my friend.", "answer": "If only I hadn't said that to my friend. / I wish I hadn't said..."}, {"prompt": "I can't speak Japanese.", "answer": "I wish I could speak Japanese."}]},
+        {"id": "ex3", "type": "fill_blank", "title": "It's time / would rather", "instruction": "Complete with the correct form of the verb in parentheses.", "instruction_pt": "Complete com a forma correta do verbo.",
+         "items": [{"prompt": "It's high time you ___ (find) a new job.", "answer": "found"}, {"prompt": "I'd rather you ___ (not / tell) anyone about this.", "answer": "didn't tell"}, {"prompt": "It's time we ___ (go). It's late.", "answer": "went"}, {"prompt": "Would you rather we ___ (meet) on Saturday?", "answer": "met"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "I wish I'd listened to my parents."}, {"prompt": "2", "answer": "If only I hadn't sent that message!"}, {"prompt": "3", "answer": "It's high time we left."}, {"prompt": "4", "answer": "I'd rather you didn't tell anyone."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "I wish I studied harder for the exam last week.", "answer": "I wish I had studied harder for the exam last week."}, {"prompt": "I wish I would be taller.", "answer": "I wish I were taller."}, {"prompt": "It's high time you start taking care of your health.", "answer": "It's high time you started taking care of your health."}, {"prompt": "I'd rather you don't smoke here.", "answer": "I'd rather you didn't smoke here."}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Complete the conversation", "instruction": "Complete with: wish · only · time · rather · would.", "instruction_pt": "Complete a conversa.",
+         "items": [{"prompt": "A: I ___ I'd taken that job in Lisbon.", "answer": "wish"}, {"prompt": "B: If ___ you'd asked me — I would have told you to go!", "answer": "only"}, {"prompt": "A: I wish my boss ___ give me more responsibility here.", "answer": "would"}, {"prompt": "B: Then it's ___ you talked to him. — A: I'd ___ wait until after my review.", "answer": "time / rather"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Regret, reframe, lesson\": share one regret (past), one wish (present), one complaint (wish + would) and one thing it's high time you did. For your regret, apply Daniel Pink's three steps: reframe, be kind, extract a lesson.",
+        "instruction_pt": "\"Arrependimento, reformulação, lição\": compartilhe um arrependimento (passado), um desejo (presente), uma reclamação (wish + would) e uma coisa que já passou da hora de você fazer. Para o arrependimento, aplique os três passos de Daniel Pink: reformular, ser gentil, tirar uma lição.",
+        "questions": ["What do you wish you had known at 18?", "Which of Bronnie Ware's five regrets do you think is most common in Brazil?", "What do you wish people would do more often?", "What's something it's high time your city / company did?", "Is it better to live with no regrets or to learn from them?"]
+      },
+      "writing": {
+        "task": "Write a letter to your younger self (200–250 words). Talk about things you wish you had done (or hadn't done), what you've learned, what you'd rather they did differently and what it's time for them to start doing.",
+        "task_pt": "Escreva uma carta para o seu eu mais jovem (200–250 palavras). Fale sobre o que você gostaria de ter feito (ou não), o que aprendeu, o que você preferiria que ele fizesse diferente e o que já está na hora de ele começar a fazer.",
+        "model": "Dear 17-year-old me,\n\nI know you won't listen to everything I'm about to say — I certainly wouldn't have — but I'll try anyway.\n\nFirst, I wish you had taken English more seriously at school. You thought you'd never need it. If only you'd known that, fifteen years later, you would be using it in meetings every day! You'll learn it eventually, but the hard way, in evening classes after long days at work.\n\nSecondly, I wish you hadn't worried so much about what other people thought. You spent so much energy trying to fit in. I'd rather you spent that energy on the things you actually love: drawing, music, the friends who accept you exactly as you are.\n\nI also wish you had told Grandpa how much he meant to you. He knew, I think — but I wish you'd said it out loud.\n\nHere's the good news: you turn out fine. Better than fine, actually. You find work you enjoy, and people who love you.\n\nSo, it's high time you stopped waiting for the \"perfect moment\" to start things. It doesn't exist. Sign up for the art course. Call your friends. Say \"I love you\" more often.\n\nAnd please — start using sunscreen.\n\nWith love,\nYour older (and slightly wiser) self"
+      },
+      "culture_note": {
+        "title": "\"Wear sunscreen\"",
+        "text_pt": "Em 1997, a colunista Mary Schmich escreveu um texto com conselhos para formandos que começava com **\"Wear sunscreen\"**. O texto viralizou (atribuído erroneamente a Kurt Vonnegut!) e virou a música **\"Everybody's Free (To Wear Sunscreen)\"**, de Baz Luhrmann — que no Brasil inspirou a famosa versão \"Filtro Solar\", de Pedro Bial."
+      },
+      "summary_pt": ["wish + past simple (presente) · wish + past perfect (passado).", "wish + would = reclamação sobre outra pessoa · wish + could = habilidade.", "It's (high) time + sujeito + past simple.", "I'd rather you didn't... = prefiro que você não..."]
+    },
+    {
+      "id": "B2-M4-L4",
+      "title": "Suppose it happened",
+      "subtitle_pt": "Alternativas ao if: supposing, provided, as long as, otherwise, but for, in case, unless",
+      "duration_min": 75,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – B2 (alternatives to if)", "TopNotch 3B Teacher's Book – Unit 9 (hypothetical situations)"],
+      "objectives": ["Usar suppose / supposing / imagine / what if para cenários hipotéticos", "Usar otherwise, or else e but for", "Diferenciar in case de if", "Planejar cenários e planos de contingência"],
+      "warmup": {
+        "text_pt": "\"E se a internet parasse por uma semana?\" \"Suponha que você ganhasse um milhão.\" \"Leve guarda-chuva caso chova.\" Para pensar em cenários e planejar o inesperado, o inglês tem muitas alternativas ao simples **if**.",
+        "questions": ["Suppose the internet stopped working for a week. What would you do?", "Do you always have a plan B?"]
+      },
+      "vocabulary": [
+        {"en": "suppose / supposing", "pt": "suponha / supondo que", "say": "sapôuz / sapôuzin"},
+        {"en": "imagine / what if", "pt": "imagine / e se", "say": "iméidjin / uót if"},
+        {"en": "otherwise / or else", "pt": "caso contrário, senão", "say": "âderuaiz / or éls"},
+        {"en": "but for (+ noun)", "pt": "não fosse por", "say": "bât for"},
+        {"en": "in case (of)", "pt": "caso, por precaução / em caso de", "say": "in kêis"},
+        {"en": "even if", "pt": "mesmo que", "say": "íven if"},
+        {"en": "a scenario / worst-case scenario", "pt": "um cenário / pior cenário", "say": "a sinério / uârst kêis sinério"},
+        {"en": "a contingency plan", "pt": "um plano de contingência", "say": "a kontíndjensi plén"},
+        {"en": "a backup", "pt": "um backup, reserva", "say": "a békâp"},
+        {"en": "a blackout / a power cut", "pt": "um apagão / queda de energia", "say": "a blékáut / a páuer kât"},
+        {"en": "to be prepared for", "pt": "estar preparado para", "say": "tu bí pripérd for"},
+        {"en": "to cross that bridge when we come to it", "pt": "resolver quando chegar a hora", "say": "tu krós dét bridj"}
+      ],
+      "chunks": [
+        {"en": "Suppose you lost your job tomorrow — what would you do?", "pt": "Suponha que você perdesse o emprego amanhã — o que faria?"},
+        {"en": "Take an umbrella in case it rains.", "pt": "Leve um guarda-chuva caso chova."},
+        {"en": "Hurry up, otherwise we'll be late.", "pt": "Anda logo, senão vamos nos atrasar."},
+        {"en": "But for your help, I would have failed.", "pt": "Não fosse sua ajuda, eu teria falhado."},
+        {"en": "Even if it rains, we're going.", "pt": "Mesmo que chova, nós vamos."},
+        {"en": "What's the worst-case scenario?", "pt": "Qual é o pior cenário?"}
+      ],
+      "grammar": {
+        "title": "Alternatives to if",
+        "explanation_pt": "**1. Suppose / Supposing / Imagine / What if** → introduzem **cenários hipotéticos** (no lugar de if). Funcionam com qualquer tipo de condicional:\n- \"**Suppose** you **won** the lottery — what **would** you do?\" (second)\n- \"**Supposing** the flight **is** cancelled, what **will** we do?\" (first)\n- \"**What if** we **had** missed the train?\" (third)\n\n**2. Otherwise / Or else** → \"se não\" — mostram a **consequência negativa** se algo não acontecer:\n- \"Save your work, **otherwise** you'll lose it.\" (= If you don't save it, you'll lose it.)\n- \"Leave now, **or else** you'll miss the bus.\"\n- Também no passado: \"I took a taxi; **otherwise** I would have been late.\"\n\n**3. But for + substantivo** (formal) = \"não fosse por\" (if it weren't for / if it hadn't been for):\n- \"**But for** the rain, the festival would have been perfect.\"\n- \"**If it hadn't been for** your help, I would have failed.\"\n- \"**If it weren't for** my family, I wouldn't be here.\"\n\n**4. In case** → **precaução** (fazer algo agora por causa de uma possibilidade futura):\n- \"Take an umbrella **in case** it rains.\" (leve agora — talvez chova)\n- Compare: \"Take an umbrella **if** it rains.\" (só leve se estiver chovendo)\n- **In case of** + substantivo (avisos): \"**In case of** fire, use the stairs.\"\n\n**5. Even if** → mesmo que (a condição não muda o resultado): \"**Even if** it rains, we'll go.\"\n\n**6. Revisão B1+/B2:** **unless** (a menos que), **provided / providing (that)**, **as long as**, **on condition that**.",
+        "table": {
+          "headers": ["Expressão", "Sentido", "Exemplo"],
+          "rows": [["suppose / supposing / what if", "cenário hipotético", "Supposing you lost your phone, what would you do?"], ["otherwise / or else", "senão", "Hurry, otherwise we'll miss it."], ["but for + noun", "não fosse por", "But for the traffic, we'd have arrived on time."], ["if it weren't / hadn't been for", "se não fosse por", "If it hadn't been for you, I'd have given up."], ["in case", "por precaução", "Bring a jacket in case it gets cold."], ["even if", "mesmo que", "Even if he apologizes, I won't forgive him."], ["unless / as long as / provided", "condições", "You can go as long as you're back by ten."]]
+        },
+        "examples": [
+          {"en": "Suppose there was a blackout for three days — would your family be prepared?", "pt": "Suponha que houvesse um apagão de três dias — sua família estaria preparada?"},
+          {"en": "Always back up your files, otherwise you might lose years of work.", "pt": "Sempre faça backup dos seus arquivos, senão você pode perder anos de trabalho."},
+          {"en": "If it hadn't been for the seatbelt, he would have been seriously injured.", "pt": "Se não fosse o cinto de segurança, ele teria se ferido gravemente."}
+        ],
+        "tip_pt": "**In case** é um falso amigo parcial: \"caso\" em português muitas vezes significa \"se\" (\"caso você precise, me ligue\" = **if** you need anything, call me). Use **in case** só quando é **precaução**: \"Here's my number **in case** you need anything.\""
+      },
+      "common_mistakes": [
+        {"wrong": "In case you finish early, call me. (= se)", "right": "If you finish early, call me.", "why_pt": "In case = por precaução, não \"se\"."},
+        {"wrong": "But for your help, I would fail. (passado)", "right": "But for your help, I would have failed.", "why_pt": "Resultado passado = would have + particípio."},
+        {"wrong": "Hurry up, otherwise we will be late it.", "right": "Hurry up, otherwise we'll be late.", "why_pt": "Mantenha a frase simples: otherwise + consequência completa."}
+      ],
+      "pronunciation": {
+        "focus": "Supposing, otherwise",
+        "tip_pt": "**Suppose** = \"sa-PÔUZ\" (força na segunda sílaba), **supposing** = \"sa-PÔU-zin\". **Otherwise** = \"Â-der-uaiz\" (força no começo). **In case** se junta: \"in-KÊIS\".",
+        "practice": ["SupPOSE you lost your job...", "Hurry up, OTHerwise we'll be late.", "Take a jacket in CASE it gets cold."]
+      },
+      "dialogue": {
+        "title": "Planning the company retreat",
+        "context_pt": "Dois organizadores planejam um retiro da empresa numa pousada nas montanhas.",
+        "lines": [
+          {"speaker": "Rosa", "en": "OK, the retreat is in the mountains, two hours from the city. Suppose it rains all weekend — what's our plan B?", "pt": "OK, o retiro é nas montanhas, a duas horas da cidade. Suponha que chova o fim de semana todo — qual é nosso plano B?"},
+          {"speaker": "Theo", "en": "The hotel has a big indoor room. We'll book it in case the weather is bad.", "pt": "O hotel tem uma sala interna grande. Vamos reservá-la caso o tempo esteja ruim."},
+          {"speaker": "Rosa", "en": "Good. And what if the bus breaks down? It's a long way.", "pt": "Ótimo. E se o ônibus quebrar? É um caminho longo."},
+          {"speaker": "Theo", "en": "I'll get the number of a second bus company, just in case. Otherwise we could be stuck for hours.", "pt": "Vou pegar o número de uma segunda empresa de ônibus, só por precaução. Senão podemos ficar presos por horas."},
+          {"speaker": "Rosa", "en": "Smart. Remember last year? If it hadn't been for your backup plan, the whole event would have been a disaster.", "pt": "Inteligente. Lembra do ano passado? Se não fosse seu plano B, o evento todo teria sido um desastre."},
+          {"speaker": "Theo", "en": "Ha, the power cut. But for the hotel's generator, we'd have been in the dark all night!", "pt": "Ha, a queda de energia. Não fosse o gerador do hotel, teríamos ficado no escuro a noite toda!"},
+          {"speaker": "Rosa", "en": "Exactly. So let's also ask about a generator this time. Even if it costs more, it's worth it.", "pt": "Exatamente. Então vamos perguntar sobre gerador dessa vez também. Mesmo que custe mais, vale a pena."},
+          {"speaker": "Theo", "en": "Agreed. And anything else, we'll cross that bridge when we come to it.", "pt": "Concordo. E qualquer outra coisa, a gente resolve quando chegar a hora."}
+        ]
+      },
+      "listening": {
+        "title": "Emergency preparedness",
+        "context_pt": "Um especialista da Defesa Civil fala sobre como se preparar para emergências.",
+        "lines": [
+          {"speaker": "Expert", "en": "Suppose a major storm hit your city tonight and you lost electricity and water for three days. Would you be ready? Most people wouldn't. Here's what I recommend. Keep at least three days of water and non-perishable food at home, in case of emergencies. Have a power bank fully charged, otherwise you could lose all communication. Keep copies of important documents in a waterproof bag or in the cloud. And agree on a meeting point with your family, in case you can't reach each other by phone. Even if you think it'll never happen to you, it takes only a few hours to prepare. In my experience, but for these simple steps, many families would have suffered much more during recent floods."}
+        ],
+        "questions": [
+          {"q": "What scenario does the expert ask us to imagine?", "answer": "A major storm with no electricity and water for three days."},
+          {"q": "How much water and food should you keep?", "answer": "At least three days' worth (non-perishable food)."},
+          {"q": "Why should you have a charged power bank?", "answer": "Otherwise you could lose all communication."},
+          {"q": "Why should families agree on a meeting point?", "answer": "In case they can't reach each other by phone."}
+        ]
+      },
+      "reading": {
+        "title": "Thinking in scenarios",
+        "text": "In the early 1970s, the oil company Shell began using a technique called scenario planning. Instead of trying to predict a single future, its planners imagined several possible futures and asked: \"Suppose this happened — how would we respond?\" One of the scenarios they explored was a sudden, dramatic rise in oil prices. Most companies considered this unlikely. When the oil crisis of 1973 arrived, Shell was widely seen as being better prepared than many of its competitors, and the company's approach became famous in business schools. Today, scenario planning is used by governments, cities and businesses around the world. The idea is not to guess correctly, but to become more flexible. A city might ask: \"What if sea levels rose faster than expected?\" or \"Supposing a pandemic closed schools for months, how would children learn?\" The process often reveals weaknesses that nobody had noticed. Psychologists point out that individuals can benefit from the same thinking. Imagining a worst-case scenario — and planning how you would cope — can actually reduce anxiety, because the future feels less threatening once you have a plan. As the old saying goes: hope for the best, but prepare for the worst.",
+        "questions": [
+          {"q": "What is scenario planning?", "answer": "Imagining several possible futures and planning responses, instead of predicting one."},
+          {"q": "What scenario helped Shell before 1973?", "answer": "A sudden, dramatic rise in oil prices."},
+          {"q": "What is the main goal of scenario planning?", "answer": "To become more flexible, not to guess correctly."},
+          {"q": "How can it help individuals?", "answer": "Imagining a worst case and planning for it can reduce anxiety."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Choose the connector", "instruction": "Choose the best option.", "instruction_pt": "Escolha a melhor opção.",
+         "items": [{"prompt": "Take some cash ___ the card machine doesn't work.", "options": ["in case", "if", "unless"], "answer": "in case"}, {"prompt": "Leave now, ___ you'll miss the train.", "options": ["otherwise", "unless", "in case"], "answer": "otherwise"}, {"prompt": "___ the help of my teacher, I would never have passed.", "options": ["But for", "Even if", "In case"], "answer": "But for"}, {"prompt": "___ it rains, the match will go ahead.", "options": ["Even if", "In case", "But for"], "answer": "Even if"}, {"prompt": "___ you lost your passport abroad — what would you do?", "options": ["Suppose", "Otherwise", "Unless"], "answer": "Suppose"}]},
+        {"id": "ex2", "type": "answer", "title": "Rewrite with the word given", "instruction": "Rewrite the sentence using the word in CAPS.", "instruction_pt": "Reescreva usando a palavra em CAPS.",
+         "items": [{"prompt": "If you don't hurry, we'll be late. (OTHERWISE)", "answer": "Hurry up, otherwise we'll be late."}, {"prompt": "If it hadn't been for the rain, the party would have been perfect. (BUT FOR)", "answer": "But for the rain, the party would have been perfect."}, {"prompt": "I'll take a jacket because it might get cold. (IN CASE)", "answer": "I'll take a jacket in case it gets cold."}, {"prompt": "Imagine you were the president. What would you change? (SUPPOSING)", "answer": "Supposing you were the president, what would you change?"}]},
+        {"id": "ex3", "type": "multiple_choice", "title": "in case or if?", "instruction": "Choose in case or if.", "instruction_pt": "Escolha in case ou if.",
+         "items": [{"prompt": "I'll give you my number ___ you need anything.", "options": ["in case", "if"], "answer": "in case"}, {"prompt": "___ you see Ana, tell her to call me.", "options": ["In case", "If"], "answer": "If"}, {"prompt": "I always carry a power bank ___ my battery dies.", "options": ["in case", "if"], "answer": "in case"}, {"prompt": "We'll cancel the trip ___ it snows.", "options": ["in case", "if"], "answer": "if"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "Suppose you lost your job tomorrow — what would you do?"}, {"prompt": "2", "answer": "Take an umbrella in case it rains."}, {"prompt": "3", "answer": "But for your help, I would have failed."}, {"prompt": "4", "answer": "What's the worst-case scenario?"}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "In case you finish early, you can go home. (= se)", "answer": "If you finish early, you can go home."}, {"prompt": "But for the traffic, we would arrive on time yesterday.", "answer": "But for the traffic, we would have arrived on time yesterday."}, {"prompt": "Even you apologize, I won't forgive you.", "answer": "Even if you apologize, I won't forgive you."}, {"prompt": "Suppose you will win the lottery, what would you buy?", "answer": "Suppose you won the lottery, what would you buy?"}]},
+        {"id": "ex6", "type": "fill_blank", "title": "Contingency plan", "instruction": "Complete the plan with: in case · otherwise · even if · supposing · as long as.", "instruction_pt": "Complete o plano de contingência.",
+         "items": [{"prompt": "We'll hold the event outdoors ___ the weather is good.", "answer": "as long as"}, {"prompt": "We'll book an indoor room ___ it rains.", "answer": "in case"}, {"prompt": "___ the speaker cancels at the last minute, who will replace her?", "answer": "Supposing"}, {"prompt": "We must confirm the catering by Monday, ___ we'll lose our deposit. And ___ only 20 people come, the event will go ahead.", "answer": "otherwise / even if"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Scenario workshop\": in groups, choose a scenario (a 3-day blackout, losing your phone abroad, your company closing tomorrow, AI replacing your job). Discuss what you would do, what precautions you'd take now (in case), what would happen otherwise and the worst-case scenario.",
+        "instruction_pt": "\"Oficina de cenários\": em grupos, escolham um cenário (apagão de 3 dias, perder o celular no exterior, sua empresa fechar amanhã, a IA substituir seu emprego). Discutam o que fariam, que precauções tomariam agora (in case), o que aconteceria caso contrário e qual é o pior cenário.",
+        "questions": ["Supposing you lost your phone right now, what would be your biggest problem?", "What do you always carry in case of an emergency?", "If it weren't for one person, where would you be today?", "What would you do even if everyone told you not to?", "Do you prefer to plan for everything or cross that bridge when you come to it?"]
+      },
+      "writing": {
+        "task": "Write a practical guide (200–250 words) titled \"What if...? Be prepared!\" for one situation (a trip abroad, a job interview, a natural disaster, a wedding). Use at least 7 alternatives to if.",
+        "task_pt": "Escreva um guia prático (200–250 palavras) intitulado \"What if...? Be prepared!\" para uma situação (viagem ao exterior, entrevista de emprego, desastre natural, casamento). Use pelo menos 7 alternativas ao if.",
+        "model": "What if...? Be prepared for your first trip abroad!\n\nTravelling abroad for the first time is exciting, but things don't always go as planned. Here's how to be ready for the most common problems.\n\nSupposing you lose your passport, what would you do? Before you leave, take a photo of it and save a copy in the cloud, in case you need to prove your identity at the embassy. Also, write down your country's embassy phone number — your phone might be stolen too!\n\nWhat if your bank card stops working? Always carry two different cards and some cash, otherwise you could be stuck without money on your first night. Tell your bank you're travelling, or else your card might be blocked for \"suspicious activity\".\n\nTravel insurance is essential. Even if you're young and healthy, a hospital bill abroad can be extremely expensive. Many travellers have told me that, but for their insurance, an accident would have ruined them financially.\n\nFinally, plan your first day carefully. Book your first night's accommodation in advance, as long as you can cancel it for free, and know how to get there from the airport.\n\nOf course, you can't predict everything. But if you prepare for the worst-case scenario, you'll be able to relax and enjoy the best parts of your adventure. Bon voyage!"
+      },
+      "culture_note": {
+        "title": "\"Hope for the best, prepare for the worst\"",
+        "text_pt": "Culturas variam muito na forma de lidar com incerteza. O pesquisador Geert Hofstede chamou isso de **uncertainty avoidance**: países como Alemanha e Japão tendem a planejar tudo; outros, como o Brasil, costumam ser mais flexíveis e improvisar — o famoso **\"jeitinho\"**. Em equipes internacionais, combinar planejamento e flexibilidade é uma grande vantagem."
+      },
+      "summary_pt": ["Suppose / supposing / what if = cenários hipotéticos.", "otherwise / or else = senão.", "but for / if it hadn't been for = não fosse por.", "in case = por precaução (≠ if) · even if = mesmo que."]
+    }
+  ],
+  "review": {
+    "intro_pt": "Revise third conditional, mixed conditionals, wish/if only e alternativas ao if.",
+    "exercises": [
+      {"id": "r1", "type": "multiple_choice", "title": "Choose the correct option", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+       "items": [{"prompt": "If I ___ about the traffic, I would have left earlier.", "options": ["knew", "had known", "would know"], "answer": "had known"}, {"prompt": "If I had taken the job, I ___ in London now.", "options": ["would live", "would have lived", "had lived"], "answer": "would live"}, {"prompt": "I wish I ___ that comment. Now she's upset.", "options": ["didn't make", "hadn't made", "wouldn't make"], "answer": "hadn't made"}, {"prompt": "It's high time you ___ to the doctor.", "options": ["go", "went", "have gone"], "answer": "went"}, {"prompt": "Take a coat ___ it gets cold.", "options": ["if", "in case", "otherwise"], "answer": "in case"}]},
+      {"id": "r2", "type": "answer", "title": "Transform", "instruction": "Rewrite the sentences as instructed.", "instruction_pt": "Reescreva as frases como indicado.",
+       "items": [{"prompt": "I didn't study, so I failed. (third conditional)", "answer": "If I had studied, I wouldn't have failed."}, {"prompt": "I'm not brave, so I didn't speak up. (mixed conditional)", "answer": "If I were braver, I would have spoken up."}, {"prompt": "If it hadn't been for the map, we would have got lost. (BUT FOR)", "answer": "But for the map, we would have got lost."}]},
+      {"id": "r3", "type": "translate", "title": "Translate", "instruction": "Translate into English.", "instruction_pt": "Traduza para o inglês.",
+       "items": [{"prompt": "Se eu soubesse, teria te ajudado.", "answer": "If I had known, I would have helped you."}, {"prompt": "Queria que você parasse de reclamar.", "answer": "I wish you would stop complaining."}, {"prompt": "Prefiro que você não conte para ninguém.", "answer": "I'd rather you didn't tell anyone."}]},
+      {"id": "r4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+       "items": [{"prompt": "1", "answer": "We could have won if we'd trained harder."}, {"prompt": "2", "answer": "If I'd taken that job, I'd be living in Lisbon now."}, {"prompt": "3", "answer": "Hurry up, otherwise we'll be late."}]},
+      {"id": "r5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+       "items": [{"prompt": "If I would have known, I would have come.", "answer": "If I had known, I would have come."}, {"prompt": "I wish I studied harder last year.", "answer": "I wish I had studied harder last year."}, {"prompt": "In case you need help, call me. (= se)", "answer": "If you need help, call me."}]}
+    ],
+    "speaking_pt": "Grave um vídeo de 4 minutos chamado \"Crossroads\": conte um momento decisivo da sua vida (third conditional), como sua vida seria hoje se você tivesse escolhido diferente (mixed), algo de que você se arrepende e algo que deseja (wish), e o que você faz hoje para se preparar para o futuro (in case / otherwise).",
+    "speaking_questions": ["What would have happened if you hadn't made your most important decision?", "Where would you be now if you'd chosen a different path?", "What do you wish you had done differently?", "What do you wish people around you would do?", "What's your plan B in case things go wrong?"],
+    "project_pt": "**\"Sliding doors\" short film:** em grupo, escrevam e gravem um curta (3–5 minutos) com duas versões da mesma história: uma pequena escolha muda tudo. Usem third e mixed conditionals no diálogo final, quando os personagens refletem sobre o que poderia ter sido, e wish / if only para os arrependimentos."
+  }
+}

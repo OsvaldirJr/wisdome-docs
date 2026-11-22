@@ -1,0 +1,539 @@
+{
+  "id": "C1-M1",
+  "level": "C1",
+  "title": "Identity and Belonging",
+  "theme_pt": "Identidade, cultura, língua e pertencimento",
+  "can_do": ["Usar tempos verbais com nuance (stative verbs no continuous, passado 'tentativo')", "Evitar repetição com elipse e substituição", "Enfatizar ideias com do/did, fronting e so/such", "Soar natural com discourse markers e vague language"],
+  "lessons": [
+    {
+      "id": "C1-M1-L1",
+      "title": "Who we are",
+      "subtitle_pt": "Nuances de tempos verbais: stative verbs no continuous, passado 'tentativo' e present perfect para novidades",
+      "duration_min": 80,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – C1 (verb forms: nuance and attitude)", "Cambridge C1 Advanced – Speaking Part 1"],
+      "objectives": ["Usar stative verbs no continuous para mudar o sentido (I'm being silly, I'm seeing someone)", "Usar o passado e o continuous para soar mais educado (I was wondering...)", "Usar always + continuous para irritação ou hábito marcante", "Falar sobre identidade e autoimagem com precisão"],
+      "warmup": {
+        "text_pt": "No C1, a gramática deixa de ser só \"certo ou errado\" e passa a ser uma questão de **atitude**. \"I think\" x \"I'm thinking\", \"I wondered\" x \"I was wondering\", \"He's rude\" x \"He's being rude\": cada escolha muda o que você comunica. Esta aula abre o nível com o tema **identidade**.",
+        "questions": ["How would your closest friends describe you in three words? Would you agree?", "Has your sense of who you are changed much in the last ten years?"]
+      },
+      "vocabulary": [
+        {"en": "a sense of self", "pt": "noção de si mesmo, identidade", "say": "a séns ov sélf"},
+        {"en": "self-image / self-esteem", "pt": "autoimagem / autoestima", "say": "sélf ímidj / sélf istím"},
+        {"en": "to define yourself (by)", "pt": "definir-se (por)", "say": "tu difáin iórsélf"},
+        {"en": "to come into your own", "pt": "encontrar-se, desabrochar", "say": "tu kâm íntu iór ôun"},
+        {"en": "to be true to yourself", "pt": "ser fiel a si mesmo", "say": "tu bí trú tu iórsélf"},
+        {"en": "deep down", "pt": "no fundo", "say": "díp dáun"},
+        {"en": "a facet (of personality)", "pt": "uma faceta", "say": "a fésit"},
+        {"en": "outgoing / reserved", "pt": "extrovertido / reservado", "say": "áutgôuin / rizârvd"},
+        {"en": "to be out of character", "pt": "não ser típico de alguém", "say": "tu bí áut ov kérakter"},
+        {"en": "to reinvent yourself", "pt": "reinventar-se", "say": "tu riinvént iórsélf"},
+        {"en": "to fit in / to stand out", "pt": "se encaixar / se destacar", "say": "tu fit in / tu sténd áut"},
+        {"en": "a label", "pt": "um rótulo", "say": "a lêibol"}
+      ],
+      "chunks": [
+        {"en": "You're being very quiet today.", "pt": "Você está muito quieto hoje (não é seu normal)."},
+        {"en": "I was wondering if you could help me.", "pt": "Eu queria saber se você poderia me ajudar (educado)."},
+        {"en": "I'm seeing someone at the moment.", "pt": "Estou saindo com alguém no momento."},
+        {"en": "She's always borrowing my things!", "pt": "Ela vive pegando minhas coisas emprestadas!"},
+        {"en": "Deep down, I'm quite shy.", "pt": "No fundo, sou bem tímido."},
+        {"en": "That was really out of character for him.", "pt": "Aquilo não tem nada a ver com ele."}
+      ],
+      "grammar": {
+        "title": "Verb forms: nuance and attitude",
+        "explanation_pt": "**1. Stative verbs no continuous** — verbos de estado (be, think, have, see, feel, love...) normalmente não vão para o continuous. Quando vão, o **sentido muda**:\n- **be** → comportamento temporário: \"He **is** rude.\" (é grosso) x \"He**'s being** rude.\" (está sendo grosso agora)\n- **think** → opinião x processo: \"I **think** it's a good idea.\" x \"I**'m thinking** about moving abroad.\" (considerando)\n- **see** → ver x encontrar/namorar: \"I **see** what you mean.\" x \"I**'m seeing** the doctor at 3.\" / \"She**'s seeing** someone.\"\n- **have** → posse x atividade: \"I **have** two sisters.\" x \"We**'re having** dinner.\"\n- **love / like** no continuous → entusiasmo informal com algo atual: \"I**'m loving** this new job!\"\n\n**2. Passado e continuous para distanciamento (\"tentative\")** — tornam pedidos e opiniões mais suaves e educados:\n- \"I **was wondering** if you could...\" (mais educado que \"I wonder\")\n- \"I **was hoping** we could talk.\" / \"We **were thinking** of leaving early.\"\n- \"**Did** you **want** a coffee?\" (oferta educada, sobre o presente)\n- \"I **thought** you might like this.\"\n\n**3. Always / constantly / forever + continuous** → hábito irritante ou marcante:\n- \"He's **always interrupting** me!\" / \"She was **forever** losing her keys.\"\n- Também pode ser positivo: \"She's **always doing** nice things for people.\"\n\n**4. Present perfect para novidades** (notícias, anúncios), seguido do past simple para os detalhes:\n- \"Scientists **have discovered** a new species. It **was found** in the Amazon last month.\"",
+        "table": {
+          "headers": ["Forma", "Efeito", "Exemplo"],
+          "rows": [["be + -ing (stative)", "comportamento temporário", "You're being unfair."], ["think + -ing", "considerar", "I'm thinking of quitting."], ["I was wondering / hoping", "pedido suave", "I was hoping you could help."], ["always + continuous", "irritação / traço marcante", "He's always complaining."], ["present perfect → past", "novidade + detalhes", "She's won! She beat 50 people."]]
+        },
+        "examples": [
+          {"en": "I know I'm being a bit sensitive, but that comment really hurt.", "pt": "Sei que estou sendo um pouco sensível, mas aquele comentário me magoou."},
+          {"en": "I was wondering whether you'd had a chance to look at my proposal.", "pt": "Gostaria de saber se você teve a oportunidade de olhar minha proposta."},
+          {"en": "My grandfather was forever telling stories about the town where he grew up.", "pt": "Meu avô vivia contando histórias da cidade onde cresceu."}
+        ],
+        "tip_pt": "Em português, usamos o **futuro do pretérito** para suavizar (\"Eu **gostaria** de saber...\"). Em inglês, o mesmo efeito vem do **passado continuous**: \"I **was wondering**...\" — é uma das marcas mais claras de um falante C1."
+      },
+      "common_mistakes": [
+        {"wrong": "I'm knowing him for years.", "right": "I've known him for years.", "why_pt": "know é stative e não muda de sentido no continuous."},
+        {"wrong": "He's rude today. (comportamento temporário)", "right": "He's being rude today.", "why_pt": "Comportamento temporário = be + being + adjetivo."},
+        {"wrong": "I wonder if you can help me. (soa direto)", "right": "I was wondering if you could help me.", "why_pt": "O passado continuous e could suavizam o pedido."}
+      ],
+      "pronunciation": {
+        "focus": "Entonação de pedidos suaves",
+        "tip_pt": "Frases \"tentativas\" têm entonação **descendente-ascendente** suave no final, o que soa educado e aberto: \"I was **won**dering if you could ↘↗help me...\". Uma entonação plana ou só descendente pode soar exigente.",
+        "practice": ["I was wondering if you could help me.", "I was hoping we could talk.", "Did you want a coffee?"]
+      },
+      "dialogue": {
+        "title": "You're being very quiet",
+        "context_pt": "Dois amigos conversam num café; um deles está pensando em mudar de vida.",
+        "lines": [
+          {"speaker": "Laura", "en": "You're being very quiet today. Is everything OK?", "pt": "Você está muito quieto hoje. Está tudo bem?"},
+          {"speaker": "Rafael", "en": "Yeah, sorry. I've just got a lot on my mind. I'm thinking of leaving the bank.", "pt": "Sim, desculpa. Só estou com muita coisa na cabeça. Estou pensando em sair do banco."},
+          {"speaker": "Laura", "en": "Really? You've been there for, what, eight years? That's so out of character for you.", "pt": "Sério? Você está lá há, sei lá, oito anos? Isso não tem nada a ver com você."},
+          {"speaker": "Rafael", "en": "I know. But deep down, I've never really felt like a banker. I'm always telling people what I do and then changing the subject.", "pt": "Eu sei. Mas, no fundo, nunca me senti realmente um bancário. Vivo dizendo às pessoas o que faço e mudando de assunto."},
+          {"speaker": "Laura", "en": "So what would you do instead?", "pt": "E o que você faria no lugar?"},
+          {"speaker": "Rafael", "en": "I've been taking photography courses at weekends, and honestly, I'm loving it. I was wondering if you'd look at my portfolio, actually.", "pt": "Tenho feito cursos de fotografia nos fins de semana e, sinceramente, estou amando. Na verdade, eu queria saber se você daria uma olhada no meu portfólio."},
+          {"speaker": "Laura", "en": "Of course! I'd love to. I think it takes courage to reinvent yourself at thirty-five.", "pt": "Claro! Adoraria. Acho que é preciso coragem para se reinventar aos trinta e cinco."},
+          {"speaker": "Rafael", "en": "Or madness. My parents certainly think so. But I'd rather be true to myself than spend another eight years pretending.", "pt": "Ou loucura. Meus pais com certeza acham que é. Mas prefiro ser fiel a mim mesmo do que passar mais oito anos fingindo."}
+        ]
+      },
+      "listening": {
+        "title": "The stories we tell about ourselves",
+        "context_pt": "Trecho de um podcast de psicologia sobre identidade narrativa.",
+        "lines": [
+          {"speaker": "Host", "en": "Psychologists who study what they call \"narrative identity\" argue that we don't just have experiences — we turn them into stories, and those stories become who we are. The researcher Dan McAdams has spent decades studying these life stories. One pattern that comes up again and again is what he calls a \"redemption sequence\": a story in which something bad turns into something good. \"I lost my job, but it led me to find my real calling.\" Research in this area suggests that people who tell their lives this way tend to report higher well-being. Now, I'm not saying we should invent happy endings. But it's worth asking: what story are you telling about yourself? And is it the only possible version? Because, as it turns out, we have more freedom to rewrite it than we usually think."}
+        ],
+        "questions": [
+          {"q": "What is \"narrative identity\"?", "answer": "The idea that we turn our experiences into stories, which become who we are."},
+          {"q": "What is a \"redemption sequence\"?", "answer": "A story in which something bad turns into something good."},
+          {"q": "What does research suggest about people who tell their lives this way?", "answer": "They tend to report higher well-being."},
+          {"q": "What is the speaker's final point?", "answer": "We have more freedom to rewrite our story than we think."}
+        ]
+      },
+      "video": {
+        "title": "Don't ask where I'm from, ask where I'm a local",
+        "speaker": "Taiye Selasi",
+        "url": "https://www.ted.com/search?q=taiye+selasi+ask+where+i%27m+a+local",
+        "task_pt": "Assista à palestra (cerca de 16 minutos). A autora questiona a pergunta \"Where are you from?\". Responda:",
+        "questions": ["Why does the speaker find the question \"Where are you from?\" problematic?", "What does she suggest asking instead, and why?", "Where are you \"a local\"? Describe your rituals, relationships and restrictions.", "Do you agree that identity is more about experience than nationality?"]
+      },
+      "reading": {
+        "title": "The myth of the fixed self",
+        "text": "Ask people whether their personality will change much over the next ten years and most will say no. Ask them how much it has changed over the past ten years, however, and they will readily admit that it has changed considerably. Psychologists Jordi Quoidbach, Daniel Gilbert and Timothy Wilson called this the \"end of history illusion\": at every age, we seem to believe that the person we are today is, more or less, the finished product. Their study, published in Science in 2013, surveyed thousands of adults and found that people consistently underestimated how much their values, preferences and personalities would change in the future. The illusion has practical consequences. Because we assume our current tastes will last, we may pay too much today for things our future selves won't value — a tattoo, say, or a ticket to see a favourite band a decade from now. Longitudinal research on personality offers a more nuanced picture still. Traits such as conscientiousness and emotional stability tend to increase gradually throughout adulthood, a pattern sometimes described as \"maturation\". None of this means that we are endlessly changeable; there is real continuity in who we are. But it does suggest that the question \"Who am I?\" is better answered in pencil than in ink. The self, it seems, is less a statue than a river.",
+        "questions": [
+          {"q": "What is the \"end of history illusion\"?", "answer": "The belief, at every age, that our current self is more or less the finished product."},
+          {"q": "What did the 2013 study find?", "answer": "People consistently underestimated how much they would change in the future."},
+          {"q": "What practical consequence of the illusion is mentioned?", "answer": "We may pay too much now for things our future selves won't value."},
+          {"q": "What does the metaphor \"less a statue than a river\" mean?", "answer": "The self keeps changing and flowing rather than being fixed."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Simple or continuous?", "instruction": "Choose the most appropriate form.", "instruction_pt": "Escolha a forma mais adequada.",
+         "items": [{"prompt": "Stop it! You ___ ridiculous.", "options": ["are", "are being"], "answer": "are being"}, {"prompt": "I ___ you're absolutely right.", "options": ["think", "am thinking"], "answer": "think"}, {"prompt": "We ___ of moving to Portugal next year.", "options": ["think", "are thinking"], "answer": "are thinking"}, {"prompt": "I ___ what you mean — it's a difficult situation.", "options": ["see", "am seeing"], "answer": "see"}, {"prompt": "She ___ a new colleague from the Lisbon office — they're very happy.", "options": ["sees", "is seeing"], "answer": "is seeing"}]},
+        {"id": "ex2", "type": "answer", "title": "Make it more polite", "instruction": "Rewrite the sentences to sound more tentative and polite.", "instruction_pt": "Reescreva as frases para soarem mais suaves e educadas.",
+         "items": [{"prompt": "Can you lend me your car?", "answer": "I was wondering if you could lend me your car."}, {"prompt": "I want to talk to you about my salary.", "answer": "I was hoping we could talk about my salary. / I was hoping to talk to you about..."}, {"prompt": "Do you want something to drink?", "answer": "Did you want something to drink?"}, {"prompt": "We plan to leave early.", "answer": "We were thinking of leaving early."}]},
+        {"id": "ex3", "type": "fill_blank", "title": "Annoying habits", "instruction": "Complete with always/forever + the continuous form of the verb.", "instruction_pt": "Complete com always/forever + continuous.",
+         "items": [{"prompt": "My flatmate ___ (leave) dirty dishes in the sink!", "answer": "is always leaving"}, {"prompt": "When we were kids, my brother ___ (forever / break) my toys.", "answer": "was forever breaking"}, {"prompt": "You ___ (always / check) your phone during dinner.", "answer": "are always checking"}, {"prompt": "She's lovely — she ___ (always / help) people.", "answer": "is always helping"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "You're being very quiet today."}, {"prompt": "2", "answer": "I was wondering if you could help me."}, {"prompt": "3", "answer": "Deep down, I'm quite shy."}, {"prompt": "4", "answer": "That was really out of character for him."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "I'm knowing her since we were children.", "answer": "I've known her since we were children."}, {"prompt": "This soup is tasting delicious.", "answer": "This soup tastes delicious."}, {"prompt": "He's very selfish today. He's normally so generous.", "answer": "He's being very selfish today."}, {"prompt": "I'm wondering if you can send me the file. (formal e-mail)", "answer": "I was wondering if you could send me the file."}]},
+        {"id": "ex6", "type": "match", "title": "Identity vocabulary", "instruction": "Write the English expression.", "instruction_pt": "Escreva a expressão em inglês.",
+         "items": [{"prompt": "no fundo", "answer": "deep down"}, {"prompt": "não ser típico de alguém", "answer": "out of character"}, {"prompt": "encontrar-se, desabrochar", "answer": "come into your own"}, {"prompt": "ser fiel a si mesmo", "answer": "be true to yourself"}, {"prompt": "reinventar-se", "answer": "reinvent yourself"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Then and now\": describe yourself ten years ago and today. What has changed and what has stayed the same? Use stative verbs in the continuous, always + continuous and at least two tentative forms. Then discuss the questions.",
+        "instruction_pt": "\"Antes e agora\": descreva você há dez anos e hoje. O que mudou e o que continua igual? Use stative verbs no continuous, always + continuous e pelo menos duas formas \"tentativas\". Depois discuta as perguntas.",
+        "questions": ["Do you think personality is fixed or can it really change?", "Which labels do people put on you? Do you accept them?", "Have you ever done something completely out of character?", "To what extent does your job define who you are?", "How do you think you'll be different in ten years?"]
+      },
+      "writing": {
+        "task": "Write a personal essay (250–300 words) titled \"The person I used to think I was\". Reflect on how your sense of self has changed. Use at least two stative verbs in the continuous, one always + continuous, and one tentative past form.",
+        "task_pt": "Escreva um ensaio pessoal (250–300 palavras) intitulado \"A pessoa que eu achava que era\". Reflita sobre como sua identidade mudou. Use pelo menos dois stative verbs no continuous, um always + continuous e uma forma de passado \"tentativo\".",
+        "model": "The person I used to think I was\n\nFor most of my twenties, I was convinced I was an introvert. I was always making excuses to leave parties early, and I genuinely believed that I simply wasn't \"a people person\". It was a label I had picked up at school, where a teacher once described me as \"quiet but reliable\", and I wore it for years without questioning it.\n\nThings started to shift when I moved to Recife for work. I didn't know anyone, so I had no choice but to start conversations — with neighbours, with colleagues, with the man who sold coconut water on the corner. To my surprise, I was enjoying it. I remember calling my sister after a few months and saying, \"I think I'm being someone else here.\" She laughed and replied that perhaps I was finally being myself.\n\nLooking back, I suspect I wasn't really an introvert at all. I was anxious, which is a very different thing. Being quiet had felt safer than risking rejection, and the label gave me a convenient explanation.\n\nNone of this means I've become the life and soul of the party. I still need time alone to recharge, and there are evenings when I'd much rather read than go out. But I've stopped thinking of myself as a fixed type. These days, if someone asks me whether I'm an introvert or an extrovert, I usually answer, \"It depends on the day.\"\n\nIf I could talk to my younger self, I think I'd simply say: \"I was wondering whether you'd ever considered that the story you tell about yourself might be wrong.\" Labels can be useful, but they are descriptions, not destinies."
+      },
+      "culture_note": {
+        "title": "\"Where are you from?\"",
+        "text_pt": "Em países multiculturais como Reino Unido, EUA e Canadá, a pergunta **\"Where are you from?\"** pode soar delicada quando insistida (\"But where are you *really* from?\"), pois sugere que a pessoa não pertence ao lugar. Alternativas mais abertas: **\"Where did you grow up?\"** ou **\"Where's home for you?\"**."
+      },
+      "summary_pt": ["Stative no continuous muda o sentido: he's being rude, I'm thinking of, I'm seeing someone.", "I was wondering / hoping = pedido suave.", "always + continuous = irritação ou traço marcante.", "Present perfect anuncia a novidade; past simple dá os detalhes."]
+    },
+    {
+      "id": "C1-M1-L2",
+      "title": "Lost in translation",
+      "subtitle_pt": "Elipse e substituição: so, not, do so, one/ones, to",
+      "duration_min": 80,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – C1 (ellipsis and substitution)", "Cambridge C1 Advanced – Reading and Use of English Part 2"],
+      "objectives": ["Substituir orações com so e not (I think so, I hope not)", "Usar do so, one/ones e o infinitivo reduzido (I'd love to)", "Omitir palavras repetidas de forma natural (elipse)", "Discutir a relação entre língua, cultura e pensamento"],
+      "warmup": {
+        "text_pt": "Falantes avançados **não repetem** o que já está claro. Em vez de \"Will it rain? I hope it won't rain\", dizem \"**I hope not**.\" Em vez de \"Do you want to come? Yes, I want to come\", dizem \"**I'd love to.**\" Hoje você aprende a \"economizar\" palavras como um nativo, falando sobre **tradução e cultura**.",
+        "questions": ["Is there a Portuguese word you think is impossible to translate into English?", "Do you feel like a slightly different person when you speak English?"]
+      },
+      "vocabulary": [
+        {"en": "untranslatable", "pt": "intraduzível", "say": "ântranzlêitabol"},
+        {"en": "a nuance", "pt": "uma nuance", "say": "a niúans"},
+        {"en": "to get lost in translation", "pt": "perder-se na tradução", "say": "tu guét lóst in tranzlêishan"},
+        {"en": "a connotation", "pt": "uma conotação", "say": "a konotêishan"},
+        {"en": "literal / literally", "pt": "literal / literalmente", "say": "líteral / líterali"},
+        {"en": "a mother tongue / native language", "pt": "língua materna", "say": "a mâder tâng"},
+        {"en": "bilingual / multilingual", "pt": "bilíngue / multilíngue", "say": "bailínguol / maltilínguol"},
+        {"en": "to code-switch", "pt": "alternar entre línguas", "say": "tu kôud suítch"},
+        {"en": "a loanword", "pt": "um estrangeirismo", "say": "a lôunuârd"},
+        {"en": "to convey (meaning)", "pt": "transmitir (sentido)", "say": "tu konvêi"},
+        {"en": "a false friend", "pt": "um falso cognato", "say": "a fóls frénd"},
+        {"en": "to pick up (a language)", "pt": "aprender naturalmente", "say": "tu pik âp"}
+      ],
+      "chunks": [
+        {"en": "I think so. / I don't think so.", "pt": "Acho que sim. / Acho que não."},
+        {"en": "I hope not.", "pt": "Espero que não."},
+        {"en": "I'd love to.", "pt": "Adoraria."},
+        {"en": "If so, ... / If not, ...", "pt": "Se sim, ... / Se não, ..."},
+        {"en": "I'll take the blue one.", "pt": "Vou levar o azul."},
+        {"en": "She said she would help, and she did.", "pt": "Ela disse que ajudaria, e ajudou."}
+      ],
+      "grammar": {
+        "title": "Ellipsis and substitution",
+        "explanation_pt": "**Substituição** = trocar uma parte da frase por uma palavra curta. **Elipse** = simplesmente omitir o que já está claro.\n\n**1. so / not** substituem uma oração inteira depois de think, hope, expect, suppose, believe, guess, be afraid, appear, seem:\n- \"Is she coming?\" — \"I **think so**.\" / \"I **hope not**.\" / \"I'm **afraid not**.\"\n- Negativa com think/believe/expect: **I don't think so** (mais natural que \"I think not\", que soa formal).\n- **If so / If not**: \"Are you free on Friday? **If so**, let's meet.\"\n- Formal: **do so** substitui verbo + complemento: \"Applicants must register online. Those who fail to **do so** will be excluded.\"\n\n**2. one / ones** substituem substantivos contáveis:\n- \"I don't like this shirt. Can I see the red **one**?\" / \"These shoes are nicer than the old **ones**.\"\n- ⚠️ Não use one com incontáveis: ❌ \"I prefer the French one wine\" → \"I prefer French wine.\"\n\n**3. Infinitivo reduzido (to)** — repete-se só o **to**:\n- \"Do you want to come?\" — \"I'd **love to**.\" / \"I don't **want to**.\" / \"I **meant to**, but I forgot.\"\n\n**4. Auxiliares (elipse do verbo principal):**\n- \"I can't speak Japanese, but my sister **can**.\"\n- \"She said she'd call, and she **did**.\"\n- \"I haven't finished yet, but I **will have** by Friday.\"\n\n**5. Elipse em orações coordenadas** (muito comum na escrita):\n- \"Some of the participants spoke English, others (spoke) Spanish.\"\n- \"I'd like to help, but (I) can't.\"",
+        "table": {
+          "headers": ["Recurso", "Exemplo"],
+          "rows": [["I think so / I hope not", "\"Will it rain?\" \"I hope not.\""], ["If so / If not", "Is it ready? If not, let me know."], ["do so (formal)", "Those who wish to do so may leave early."], ["one / ones", "The old ones were better."], ["to (infinitivo reduzido)", "\"Will you come?\" \"I'd love to.\""], ["auxiliar", "I didn't enjoy it, but she did."]]
+        },
+        "examples": [
+          {"en": "\"Do you think the word 'saudade' can be translated?\" \"Not really — at least, I don't think so.\"", "pt": "\"Você acha que a palavra 'saudade' pode ser traduzida?\" \"Não muito — pelo menos, acho que não.\""},
+          {"en": "Some bilingual people say they feel more confident in one language than in the other; others don't.", "pt": "Algumas pessoas bilíngues dizem que se sentem mais confiantes numa língua do que na outra; outras, não."},
+          {"en": "Candidates may bring a dictionary if they wish to do so.", "pt": "Os candidatos podem trazer um dicionário, se desejarem."}
+        ],
+        "tip_pt": "Brasileiros costumam responder \"I think yes\" (= acho que sim). O correto é **I think so**. E \"I think no\" → **I don't think so**."
+      },
+      "common_mistakes": [
+        {"wrong": "I think yes. / I think no.", "right": "I think so. / I don't think so.", "why_pt": "so / not substituem a oração."},
+        {"wrong": "\"Do you want to come?\" \"Yes, I want.\"", "right": "\"Yes, I'd love to.\" / \"Yes, I want to.\"", "why_pt": "Mantenha o to quando o verbo é omitido."},
+        {"wrong": "I prefer the Italian one food.", "right": "I prefer Italian food.", "why_pt": "one substitui apenas substantivos contáveis."}
+      ],
+      "pronunciation": {
+        "focus": "Ênfase no auxiliar na elipse",
+        "tip_pt": "Quando o auxiliar fica \"sozinho\" no final, ele recebe **ênfase** e é pronunciado na forma **forte**: \"I can't, but she **CAN** (kén).\" / \"She said she'd call, and she **DID**.\" O **to** final também é forte: \"I'd love **TO** (tú).\"",
+        "practice": ["I can't, but she CAN.", "She said she'd call, and she DID.", "I'd love TO."]
+      },
+      "dialogue": {
+        "title": "Saudade",
+        "context_pt": "Uma brasileira conversa com um colega britânico sobre palavras intraduzíveis.",
+        "lines": [
+          {"speaker": "Tom", "en": "Can I ask you something? My Brazilian colleagues keep saying \"saudade\". Is there an English equivalent?", "pt": "Posso te perguntar uma coisa? Meus colegas brasileiros vivem dizendo \"saudade\". Existe um equivalente em inglês?"},
+          {"speaker": "Juliana", "en": "Not exactly, no. People sometimes say \"longing\" or \"missing someone\", but neither quite captures it.", "pt": "Não exatamente. Às vezes dizem \"longing\" ou \"missing someone\", mas nenhum dos dois capta direito."},
+          {"speaker": "Tom", "en": "So is it just sadness?", "pt": "Então é só tristeza?"},
+          {"speaker": "Juliana", "en": "I don't think so. It's sad, but also sweet. You can feel saudade for a place, a person, even a time you never lived through.", "pt": "Acho que não. É triste, mas também doce. Você pode sentir saudade de um lugar, de uma pessoa, até de uma época que nunca viveu."},
+          {"speaker": "Tom", "en": "Interesting. We do have \"nostalgia\", but it's a bit different, isn't it?", "pt": "Interessante. Nós temos \"nostalgia\", mas é um pouco diferente, não é?"},
+          {"speaker": "Juliana", "en": "A bit, yes. Do English speakers have words that you think are untranslatable?", "pt": "Um pouco, sim. Falantes de inglês têm palavras que você acha intraduzíveis?"},
+          {"speaker": "Tom", "en": "Maybe \"awkward\". I was going to say \"cosy\", but you probably have one for that.", "pt": "Talvez \"awkward\". Eu ia dizer \"cosy\", mas vocês provavelmente têm uma para isso."},
+          {"speaker": "Juliana", "en": "We do — \"aconchegante\". But \"awkward\"... I've tried to translate it many times, and I never quite manage to. Shall we make a list for the team?", "pt": "Temos — \"aconchegante\". Mas \"awkward\"... já tentei traduzir muitas vezes e nunca consigo direito. Vamos fazer uma lista para a equipe?"},
+          {"speaker": "Tom", "en": "I'd love to.", "pt": "Adoraria."}
+        ]
+      },
+      "listening": {
+        "title": "Does language shape thought?",
+        "context_pt": "Uma linguista explica, numa aula aberta, pesquisas sobre língua e pensamento.",
+        "lines": [
+          {"speaker": "Speaker", "en": "Does the language you speak change the way you think? For much of the twentieth century, the strong version of this idea — that language determines thought — was largely rejected. But a weaker version has gained support. The cognitive scientist Lera Boroditsky and others have studied, for instance, an Aboriginal community in Australia, the Kuuk Thaayorre, whose language uses cardinal directions — north, south, east, west — instead of \"left\" and \"right\". Speakers have been reported to stay remarkably well oriented, even indoors. Other studies have looked at colour: Russian has separate basic words for light blue and dark blue, and some experiments found that Russian speakers were slightly faster at distinguishing those shades. Does this mean we're prisoners of our language? Most researchers would say not. But it does suggest that each language trains our attention in particular ways — and that learning another one can show us the world from a slightly different angle."}
+        ],
+        "questions": [
+          {"q": "Which version of the idea was largely rejected?", "answer": "The strong version: that language determines thought."},
+          {"q": "What is special about Kuuk Thaayorre?", "answer": "It uses cardinal directions instead of left and right."},
+          {"q": "What did some experiments find about Russian speakers?", "answer": "They were slightly faster at distinguishing light and dark blue."},
+          {"q": "What is the speaker's conclusion?", "answer": "Languages train our attention in particular ways; learning one shows a new angle."}
+        ]
+      },
+      "video": {
+        "title": "How language shapes the way we think",
+        "speaker": "Lera Boroditsky",
+        "url": "https://www.ted.com/search?q=lera+boroditsky+how+language+shapes+the+way+we+think",
+        "task_pt": "Assista à palestra (cerca de 14 minutos) e responda, usando elipse e substituição quando possível:",
+        "questions": ["Which of the speaker's examples surprised you most? Why?", "Do you think Portuguese makes you notice things that English doesn't? Give an example.", "Do you feel your personality changes when you switch languages? If so, how?", "Would the world be better with fewer languages? Why / why not?"]
+      },
+      "reading": {
+        "title": "The translator's dilemma",
+        "text": "Every translator faces the same impossible choice: be faithful to the words or to the meaning. Translate too literally, and the result may be accurate but lifeless; translate too freely, and you risk replacing the author's voice with your own. Nowhere is this clearer than with humour, poetry and culturally loaded words. Take the Portuguese \"jeitinho\". A dictionary might offer \"knack\" or \"way around something\", but neither conveys the mixture of creativity, flexibility and occasional rule-bending the word suggests to Brazilians. A translator can choose to keep the original word and explain it, to find an approximate equivalent, or to rewrite the sentence entirely. Each option gains something and loses something. Machine translation has transformed the field in recent years. For everyday texts — instructions, emails, the gist of a news article — modern tools are remarkably good, and many professional translators now use them as a first draft. Literary translation, however, remains a stubbornly human craft. A novel's rhythm, ambiguity and wordplay depend on choices that require an understanding not only of two languages but of two cultures. Perhaps the best definition of a good translation is one that makes the reader forget it is one. If so, the translator's greatest achievement is to become invisible — which may explain why so few readers can name the translators of their favourite books.",
+        "questions": [
+          {"q": "What is the translator's \"impossible choice\"?", "answer": "To be faithful to the words or to the meaning."},
+          {"q": "Why is \"jeitinho\" hard to translate?", "answer": "No English word conveys its mix of creativity, flexibility and rule-bending."},
+          {"q": "How do many professionals use machine translation?", "answer": "As a first draft."},
+          {"q": "Why does literary translation remain human?", "answer": "Rhythm, ambiguity and wordplay require understanding two languages and two cultures."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "so, not or to?", "instruction": "Choose the best response.", "instruction_pt": "Escolha a melhor resposta.",
+         "items": [{"prompt": "\"Is the meeting cancelled?\" \"I ___.\" (você acha que sim)", "options": ["think so", "think it", "think yes"], "answer": "think so"}, {"prompt": "\"Will it rain at the wedding?\" \"I ___!\"", "options": ["hope not", "don't hope", "hope no"], "answer": "hope not"}, {"prompt": "\"Would you like to join us?\" \"I'd love ___.\"", "options": ["it", "to", "so"], "answer": "to"}, {"prompt": "\"Did you pass?\" \"I'm afraid ___.\"", "options": ["no", "not", "don't"], "answer": "not"}, {"prompt": "Is the room available? If ___, I'd like to book it.", "options": ["so", "it", "yes"], "answer": "so"}]},
+        {"id": "ex2", "type": "answer", "title": "Avoid the repetition", "instruction": "Rewrite the second part of each sentence using substitution or ellipsis.", "instruction_pt": "Reescreva a segunda parte usando substituição ou elipse.",
+         "items": [{"prompt": "I can't drive, but my brother can drive.", "answer": "I can't drive, but my brother can."}, {"prompt": "I don't like these glasses. I prefer the glasses in the window.", "answer": "I prefer the ones in the window."}, {"prompt": "\"Are you coming to the party?\" \"I'd like to come to the party, but I can't come.\"", "answer": "I'd like to, but I can't."}, {"prompt": "She promised she would call me, and she called me.", "answer": "She promised she would call me, and she did."}]},
+        {"id": "ex3", "type": "fill_blank", "title": "Formal substitution", "instruction": "Complete with: do so · if not · one · so · did.", "instruction_pt": "Complete com a palavra correta.",
+         "items": [{"prompt": "Passengers who wish to change their seats may ___ at the desk.", "answer": "do so"}, {"prompt": "Please confirm your attendance by Friday. ___, your place will be offered to someone else.", "answer": "If not"}, {"prompt": "Of all the proposals, the third ___ was the most convincing.", "answer": "one"}, {"prompt": "\"Is the translation finished?\" \"I believe ___.\" The client expected it on Monday, and it ___ arrive on time.", "answer": "so / did"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "I don't think so."}, {"prompt": "2", "answer": "If so, let me know."}, {"prompt": "3", "answer": "I can't speak Japanese, but my sister can."}, {"prompt": "4", "answer": "She said she would help, and she did."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "\"Is he Brazilian?\" \"I think yes.\"", "answer": "I think so."}, {"prompt": "\"Do you want to dance?\" \"Yes, I want.\"", "answer": "Yes, I want to. / I'd love to."}, {"prompt": "I'll have the chocolate one cake.", "answer": "I'll have the chocolate cake. / I'll have the chocolate one."}, {"prompt": "\"Will they win?\" \"I don't hope.\"", "answer": "I hope not."}]},
+        {"id": "ex6", "type": "match", "title": "Language vocabulary", "instruction": "Write the English expression.", "instruction_pt": "Escreva a expressão em inglês.",
+         "items": [{"prompt": "falso cognato", "answer": "false friend"}, {"prompt": "estrangeirismo", "answer": "loanword"}, {"prompt": "alternar entre línguas", "answer": "code-switch"}, {"prompt": "transmitir (sentido)", "answer": "convey"}, {"prompt": "perder-se na tradução", "answer": "get lost in translation"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Untranslatable Brazil\": choose three Portuguese words or expressions you think are hard to translate (e.g. saudade, jeitinho, cafuné, gambiarra). Explain each to a foreigner, giving examples, and discuss what they reveal about Brazilian culture. Use ellipsis and substitution naturally.",
+        "instruction_pt": "\"Brasil intraduzível\": escolha três palavras ou expressões em português difíceis de traduzir (ex.: saudade, jeitinho, cafuné, gambiarra). Explique cada uma a um estrangeiro com exemplos e discuta o que revelam sobre a cultura brasileira. Use elipse e substituição naturalmente.",
+        "questions": ["Do you feel like a different person when you speak English? If so, in what way?", "Will AI translation make learning languages unnecessary? I don't think so — do you?", "Which English words have entered Portuguese? Is that a problem?", "Have you ever been misunderstood because of a false friend?", "Should children be raised bilingual if possible?"]
+      },
+      "writing": {
+        "task": "Write a magazine article (260–300 words) titled \"Five Brazilian words the world needs\". Explain each word, give examples and comment on what it reveals about Brazilian culture. Use at least six examples of ellipsis or substitution.",
+        "task_pt": "Escreva um artigo de revista (260–300 palavras) intitulado \"Cinco palavras brasileiras de que o mundo precisa\". Explique cada palavra, dê exemplos e comente o que revela sobre a cultura brasileira. Use pelo menos seis exemplos de elipse ou substituição.",
+        "model": "Five Brazilian words the world needs\n\nEvery language has words that others envy. English speakers have borrowed \"schadenfreude\" from German and \"hygge\" from Danish; perhaps it's time they borrowed a few from Brazilian Portuguese too.\n\n1. Saudade. Often described as untranslatable, saudade is a bittersweet longing for someone or something absent. Is it the same as nostalgia? Not quite. You can feel it for a person who is alive and well, or even for a future that hasn't happened yet.\n\n2. Cafuné. The act of gently running your fingers through someone's hair. Many languages have no single word for it; Portuguese does, which may say something about how much Brazilians value physical affection.\n\n3. Gambiarra. An improvised, often ingenious fix — holding a broken door shut with a chair, say. Engineers might frown at it; most Brazilians, if they're honest, admire it.\n\n4. Jeitinho. Closely related to gambiarra but applied to rules rather than objects, jeitinho means finding a creative way around an obstacle. Is it always positive? I don't think so. It can describe both admirable flexibility and questionable shortcuts.\n\n5. Xodó. Someone's xodó is their favourite person or thing — the one they spoil and adore. A grandmother might call her youngest grandchild her xodó; a teenager might use the word for a new phone.\n\nWhat do these words reveal? Perhaps a culture that values warmth, improvisation and emotional honesty. Of course, no list can capture a whole country, and this one doesn't try to. But if English speakers ever need a word for the feeling of missing a place they've never been to, they'll know where to find one."
+      },
+      "culture_note": {
+        "title": "Falsos cognatos clássicos",
+        "text_pt": "Mesmo no C1, alguns false friends continuam traiçoeiros: **actually** (na verdade, não \"atualmente\" = currently), **eventually** (finalmente, com o tempo — não \"eventualmente\" = occasionally), **pretend** (fingir), **sensible** (sensato — sensível é sensitive), **push** (empurrar), **library** (biblioteca), **exquisite** (requintado, não \"esquisito\" = weird)."
+      },
+      "summary_pt": ["I think so / I don't think so / I hope not / I'm afraid not.", "If so / If not; do so (formal).", "one / ones para contáveis; I'd love to (infinitivo reduzido).", "Auxiliar no lugar do verbo: ...but she can / and she did."]
+    },
+    {
+      "id": "C1-M1-L3",
+      "title": "Where I belong",
+      "subtitle_pt": "Ênfase: do/did enfático, fronting e so/such... that",
+      "duration_min": 80,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – C1 (emphasis, fronting)", "Cambridge C1 Advanced – Reading and Use of English Part 4"],
+      "objectives": ["Enfatizar com do / does / did", "Usar fronting (Strange as it may seem, Much as I love..., What I...)", "Usar so... that / such... that e inversão com so/such", "Falar de lar, migração e pertencimento com ênfase e emoção"],
+      "warmup": {
+        "text_pt": "\"Eu **realmente** sinto falta de casa!\" Em inglês, para dar essa ênfase sem advérbios, usamos estruturas: \"I **do** miss home!\", \"**Strange as it may seem**, I feel more at home here.\", \"**So** strong was the feeling **that** I cried.\" Tema da aula: **o que faz um lugar ser lar**.",
+        "questions": ["Where do you feel most at home? Is it where you were born?", "Have you or anyone in your family moved to another city or country? How did it feel?"]
+      },
+      "vocabulary": [
+        {"en": "a sense of belonging", "pt": "sentimento de pertencimento", "say": "a séns ov bilóngin"},
+        {"en": "to put down roots", "pt": "criar raízes", "say": "tu put dáun rúts"},
+        {"en": "to uproot (yourself)", "pt": "desenraizar-se", "say": "tu âprút"},
+        {"en": "homesick / homesickness", "pt": "com saudade de casa", "say": "rôumsik"},
+        {"en": "your hometown", "pt": "sua cidade natal", "say": "iór rôumtáun"},
+        {"en": "a newcomer", "pt": "um recém-chegado", "say": "a niúkâmer"},
+        {"en": "to feel like an outsider", "pt": "sentir-se de fora", "say": "tu fíl láik an autsáider"},
+        {"en": "to settle in", "pt": "adaptar-se, ambientar-se", "say": "tu sétol in"},
+        {"en": "a melting pot", "pt": "um caldeirão de culturas", "say": "a méltin pót"},
+        {"en": "nostalgic", "pt": "nostálgico", "say": "nostáldjik"},
+        {"en": "to be torn between", "pt": "estar dividido entre", "say": "tu bí tórn bituín"},
+        {"en": "a hometown accent", "pt": "o sotaque da terra natal", "say": "a rôumtáun éksent"}
+      ],
+      "chunks": [
+        {"en": "I do miss my family.", "pt": "Eu sinto muita falta da minha família."},
+        {"en": "She did warn us!", "pt": "Ela bem que nos avisou!"},
+        {"en": "Strange as it may seem, I feel at home here.", "pt": "Por mais estranho que pareça, me sinto em casa aqui."},
+        {"en": "Much as I love São Paulo, I'd never raise children there.", "pt": "Por mais que eu ame São Paulo, nunca criaria filhos lá."},
+        {"en": "It was such a warm welcome that I nearly cried.", "pt": "Foi uma recepção tão calorosa que quase chorei."},
+        {"en": "So homesick was she that she flew back after a month.", "pt": "Ela estava com tanta saudade que voltou depois de um mês."}
+      ],
+      "grammar": {
+        "title": "Emphatic structures",
+        "explanation_pt": "**1. do / does / did enfático** (em frases afirmativas) — reforça, contrasta ou corrige:\n- \"I **do** like your new haircut!\" (gosto mesmo)\n- \"You never listen to me!\" — \"I **do** listen!\" (contradizer)\n- \"She **did** warn us, to be fair.\" (admitir)\n- No imperativo, soa insistente e caloroso: \"**Do** come in!\" / \"**Do** sit down.\"\n- Na fala, o **do** é sempre **acentuado**.\n\n**2. Fronting** — mover um elemento para o início para dar destaque:\n- **Adjetivo/advérbio + as + sujeito + verbo** (concessão = \"por mais... que\"):\n  \"**Strange as it may seem**, ...\" / \"**Tired as she was**, she kept going.\" / \"**Hard as I tried**, I couldn't settle in.\"\n- **Much as** + oração (= although, \"por mais que\"): \"**Much as I love** my hometown, I couldn't live there again.\"\n- Objeto no início (estilo literário/falado): \"**That** I don't understand.\" / \"**Some things** you never forget.\"\n\n**3. so / such... that**\n- **so + adjetivo/advérbio + that**: \"The city was **so** noisy **that** I couldn't sleep.\"\n- **such + (a/an) + adjetivo + substantivo + that**: \"It was **such a** warm welcome **that** I cried.\"\n- **so much / many / little / few + substantivo**: \"There were **so many** people **that**...\"\n\n**4. Inversão com so / such** (formal/literário):\n- \"**So** strong **was** the feeling **that** I cried.\"\n- \"**Such was** her homesickness **that** she flew back after a month.\"",
+        "table": {
+          "headers": ["Estrutura", "Exemplo"],
+          "rows": [["do / did + verbo", "I do miss Recife."], ["adjetivo + as + S + V", "Small as it is, our flat feels like home."], ["Much as + oração", "Much as I love her, she drives me mad."], ["so + adj + that", "It was so cold that we went home."], ["such + (a) adj + noun + that", "It was such a long trip that I slept for two days."], ["So + adj + V + S + that", "So great was the noise that nobody heard."], ["Such + be + noun + that", "Such was the demand that tickets sold out."]]
+        },
+        "examples": [
+          {"en": "I do appreciate everything you've done to help me settle in.", "pt": "Eu agradeço muito tudo o que você fez para me ajudar a me adaptar."},
+          {"en": "Much as I enjoy living abroad, there are days when I'd give anything for my mother's feijoada.", "pt": "Por mais que eu goste de morar fora, há dias em que daria tudo pela feijoada da minha mãe."},
+          {"en": "Such was the sense of community in the neighbourhood that nobody ever locked their doors.", "pt": "O senso de comunidade no bairro era tanto que ninguém trancava as portas."}
+        ],
+        "tip_pt": "**\"Por mais que...\"** em inglês tem várias formas elegantes: **Much as** I love it..., **However much** I love it..., **Hard as** I tried... Usar uma delas numa redação ou na prova oral é uma marca clara de C1."
+      },
+      "common_mistakes": [
+        {"wrong": "I did enjoyed the party.", "right": "I did enjoy the party.", "why_pt": "Depois de do/did enfático, use o verbo base."},
+        {"wrong": "It was so a beautiful city that...", "right": "It was such a beautiful city that... / The city was so beautiful that...", "why_pt": "such + a + adjetivo + substantivo; so + adjetivo."},
+        {"wrong": "Strange as it seems may, ...", "right": "Strange as it may seem, ...", "why_pt": "Adjetivo + as + sujeito + verbo."}
+      ],
+      "pronunciation": {
+        "focus": "O do enfático",
+        "tip_pt": "O **do / does / did** enfático é **sempre forte e acentuado**, com pausa mínima depois: \"I **DO** miss home.\" / \"She **DID** warn us.\" Sem ênfase, a frase perde o sentido.",
+        "practice": ["I DO miss home.", "She DID warn us.", "DO come in!"]
+      },
+      "dialogue": {
+        "title": "Home, sweet home?",
+        "context_pt": "Uma mulher que vive em Lisboa há seis anos conversa com a irmã durante uma visita a Belém do Pará.",
+        "lines": [
+          {"speaker": "Carolina", "en": "It's so strange being back. Six years, and everything looks the same — but it doesn't feel the same.", "pt": "É tão estranho estar de volta. Seis anos, e tudo parece igual — mas não parece igual."},
+          {"speaker": "Bruna", "en": "You do look different, though. You've even picked up a Portuguese accent!", "pt": "Mas você parece diferente. Até pegou um sotaque de Portugal!"},
+          {"speaker": "Carolina", "en": "I know! Strange as it may seem, people in Lisbon think I sound Brazilian, and people here think I sound Portuguese. I'm a foreigner everywhere.", "pt": "Eu sei! Por mais estranho que pareça, em Lisboa acham que tenho sotaque brasileiro e aqui acham que tenho sotaque português. Sou estrangeira em todo lugar."},
+          {"speaker": "Bruna", "en": "But you're happy there, aren't you?", "pt": "Mas você é feliz lá, não é?"},
+          {"speaker": "Carolina", "en": "I am. Much as I love Belém, I've built a life there — my job, my friends, my flat. I've put down roots.", "pt": "Sou. Por mais que eu ame Belém, construí uma vida lá — meu trabalho, meus amigos, meu apartamento. Criei raízes."},
+          {"speaker": "Bruna", "en": "Mum still thinks you'll come back one day.", "pt": "A mãe ainda acha que você vai voltar um dia."},
+          {"speaker": "Carolina", "en": "Maybe. I do miss you all terribly. The first year was so hard that I nearly gave up. Such was the homesickness that I called Mum every single night.", "pt": "Talvez. Sinto uma falta enorme de vocês. O primeiro ano foi tão difícil que quase desisti. Era tanta saudade que eu ligava para a mãe todas as noites."},
+          {"speaker": "Bruna", "en": "I remember. Well, wherever you live, this will always be home. Now, do come and have some açaí before you start crying!", "pt": "Eu lembro. Bom, onde quer que você more, aqui sempre vai ser sua casa. Agora vem tomar um açaí antes que você comece a chorar!"}
+        ]
+      },
+      "listening": {
+        "title": "Third culture kids",
+        "context_pt": "Uma pesquisadora fala sobre crianças que crescem entre culturas.",
+        "lines": [
+          {"speaker": "Researcher", "en": "The term \"third culture kids\" was coined in the 1950s by the American sociologist Ruth Hill Useem, who studied children of families living abroad. The idea is that these children grow up between their parents' culture and the culture of the country where they live, and end up creating a third culture of their own. Ask one of them \"Where are you from?\" and you may get a long pause. Many describe a feeling of belonging everywhere and nowhere. Strange as it may seem, they often feel most at home with other third culture kids, regardless of nationality. There are clear advantages: adaptability, language skills, an ability to see situations from several perspectives. But there are challenges too. Repeated goodbyes can make some people reluctant to form deep attachments. So common is this experience that many international schools now run programmes to help students deal with transitions."}
+        ],
+        "questions": [
+          {"q": "Who coined the term, and when?", "answer": "Ruth Hill Useem, an American sociologist, in the 1950s."},
+          {"q": "What is the \"third culture\"?", "answer": "A culture of their own, created between their parents' culture and the host culture."},
+          {"q": "Who do they often feel most at home with?", "answer": "Other third culture kids."},
+          {"q": "What challenge is mentioned?", "answer": "Repeated goodbyes can make them reluctant to form deep attachments."}
+        ]
+      },
+      "reading": {
+        "title": "What makes a place home?",
+        "text": "Much as we talk about home as a place, researchers who study belonging suggest it is better understood as a set of relationships. In one influential framework, environmental psychologists describe \"place attachment\" as developing through three overlapping dimensions: the people we share a place with, the meaningful experiences we have there, and the physical features we come to know intimately — the smell of a particular bakery, the sound of the street at dawn. This helps explain a phenomenon that puzzles many migrants. Returning to their hometown after years away, they find the streets unchanged but the feeling gone. Their friends have moved on, the rhythms of daily life have changed, and they themselves are no longer the same people. Home, it turns out, does not stay where we left it. Brazil offers a vivid illustration. Over the twentieth century, millions of people moved from the countryside and the Northeast to cities in the Southeast. Many of them recreated home in their new neighbourhoods through food, music and festivals: the forró halls and Northeastern fairs of São Paulo are a direct result of this. Such was the scale of the movement that it transformed the culture of the cities that received it. Perhaps the lesson is that belonging is not something we find but something we build. Small as they are, the daily rituals of a place — a greeting from a neighbour, a familiar route to work — slowly turn a city into home.",
+        "questions": [
+          {"q": "How do researchers suggest home is better understood?", "answer": "As a set of relationships rather than just a place."},
+          {"q": "What are the three dimensions of place attachment?", "answer": "People, meaningful experiences and physical features."},
+          {"q": "Why do returning migrants feel the place has changed?", "answer": "Their friends have moved on, routines have changed, and they themselves have changed."},
+          {"q": "How did internal migrants recreate home in São Paulo?", "answer": "Through food, music and festivals (forró halls, Northeastern fairs)."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "answer", "title": "Add emphasis with do/did", "instruction": "Rewrite the sentences using emphatic do / does / did.", "instruction_pt": "Reescreva usando do / does / did enfático.",
+         "items": [{"prompt": "I really miss my grandmother's cooking.", "answer": "I do miss my grandmother's cooking."}, {"prompt": "\"You didn't call me!\" \"I called you — three times!\"", "answer": "I did call you — three times!"}, {"prompt": "She speaks English well, actually.", "answer": "She does speak English well, actually."}, {"prompt": "Please sit down. (warm, insistent)", "answer": "Do sit down."}]},
+        {"id": "ex2", "type": "answer", "title": "Fronting with as / much as", "instruction": "Rewrite using the structure given.", "instruction_pt": "Reescreva usando a estrutura indicada.",
+         "items": [{"prompt": "Although it may seem strange, I prefer winter. (Strange as...)", "answer": "Strange as it may seem, I prefer winter."}, {"prompt": "Although she was tired, she finished the marathon. (Tired as...)", "answer": "Tired as she was, she finished the marathon."}, {"prompt": "Although I love my job, I need a holiday. (Much as...)", "answer": "Much as I love my job, I need a holiday."}, {"prompt": "Although I tried hard, I couldn't remember her name. (Hard as...)", "answer": "Hard as I tried, I couldn't remember her name."}]},
+        {"id": "ex3", "type": "multiple_choice", "title": "so or such?", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+         "items": [{"prompt": "It was ___ a long journey that we arrived exhausted.", "options": ["so", "such"], "answer": "such"}, {"prompt": "The neighbours were ___ friendly that we felt at home immediately.", "options": ["so", "such"], "answer": "so"}, {"prompt": "There were ___ many people that we couldn't move.", "options": ["so", "such"], "answer": "so"}, {"prompt": "___ was the noise that nobody could hear the speech.", "options": ["So", "Such"], "answer": "Such"}, {"prompt": "___ beautiful was the view that we stayed for hours.", "options": ["So", "Such"], "answer": "So"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "I do miss my family."}, {"prompt": "2", "answer": "Strange as it may seem, I feel at home here."}, {"prompt": "3", "answer": "It was such a warm welcome that I nearly cried."}, {"prompt": "4", "answer": "Much as I love the city, I'd never raise children there."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+         "items": [{"prompt": "I did loved that house.", "answer": "I did love that house."}, {"prompt": "It was so a hot day that we stayed inside.", "answer": "It was such a hot day that we stayed inside."}, {"prompt": "Such homesick was she that she went back.", "answer": "So homesick was she that she went back."}, {"prompt": "Much as I love her, but she's very difficult.", "answer": "Much as I love her, she's very difficult."}]},
+        {"id": "ex6", "type": "match", "title": "Belonging vocabulary", "instruction": "Write the English expression.", "instruction_pt": "Escreva a expressão em inglês.",
+         "items": [{"prompt": "criar raízes", "answer": "put down roots"}, {"prompt": "ambientar-se", "answer": "settle in"}, {"prompt": "estar dividido entre", "answer": "be torn between"}, {"prompt": "sentir-se de fora", "answer": "feel like an outsider"}, {"prompt": "caldeirão de culturas", "answer": "melting pot"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Map of belonging\": draw a quick map of the places that have been \"home\" to you. Talk your partner through it for 3 minutes, using at least two emphatic do/did, one fronting structure (Strange as it may seem... / Much as I...) and one so/such... that.",
+        "instruction_pt": "\"Mapa do pertencimento\": desenhe um mapa rápido dos lugares que foram \"casa\" para você. Apresente-o ao colega por 3 minutos, usando pelo menos dois do/did enfáticos, uma estrutura de fronting e uma com so/such... that.",
+        "questions": ["Is home a place, a person or a feeling?", "Would you ever move to another country permanently? Why / why not?", "How has internal migration shaped the city where you live?", "Have you ever felt like an outsider? What helped you settle in?", "Can you feel homesick for a place you've never lived?"]
+      },
+      "writing": {
+        "task": "Write a personal essay or short memoir (260–300 words) titled \"The place I call home\". Use at least two emphatic do/did, two fronting structures and one inversion with so/such.",
+        "task_pt": "Escreva um ensaio pessoal ou memória curta (260–300 palavras) intitulado \"O lugar que chamo de casa\". Use pelo menos dois do/did enfáticos, duas estruturas de fronting e uma inversão com so/such.",
+        "model": "The place I call home\n\nWhen people ask me where I'm from, I usually say Campina Grande, because that's where I was born. But if they asked where home is, I'd have to think much harder.\n\nI left Paraíba at eighteen to study in Porto Alegre, more than three thousand kilometres away. The first winter was so cold that I slept in two jumpers and a hat. Such was the shock — the climate, the accent, the reserved way people greeted each other — that I seriously considered going back after the first semester.\n\nI didn't, of course. Slowly, the city began to change, or perhaps I did. I found a bakery where the owner remembered my order. I joined a football team made up almost entirely of other \"outsiders\" from different states. I learned to drink chimarrão, and, strange as it may seem, I came to love it.\n\nThat was fifteen years ago. Today, I have a flat, a partner, a dog and a job I enjoy. I've put down roots. And yet, every June, I do feel a pull towards the Northeast. Much as I love Porto Alegre, nothing compares to the festa junina in Campina Grande: the forró, the bonfires, the smell of canjica and pamonha.\n\nSo where is home? I've come to believe that it isn't a single place. Home is wherever my people are, and wherever I feel I can be fully myself. Some days that's a street in the South; other days, it's a memory of the Northeast.\n\nI do sometimes envy people who have never left the place where they were born. But I wouldn't change my two homes for anything."
+      },
+      "culture_note": {
+        "title": "Migração interna no Brasil",
+        "text_pt": "Ao longo do século XX, milhões de nordestinos migraram para o Sudeste, principalmente São Paulo e Rio. Essa migração moldou a cultura dessas cidades — do forró à culinária — e também gerou preconceitos que ainda existem. Em inglês, o fenômeno é descrito como **internal migration** ou **rural-to-urban migration**."
+      },
+      "summary_pt": ["do/did enfático: I do miss home; She did warn us; Do come in!", "Fronting: Strange as it may seem / Tired as she was / Much as I love...", "so + adj + that; such (a) + adj + noun + that.", "Inversão: So great was... that / Such was... that."]
+    },
+    {
+      "id": "C1-M1-L4",
+      "title": "Small talk, big impact",
+      "subtitle_pt": "Discourse markers da fala e vague language",
+      "duration_min": 75,
+      "source_refs": ["CEFR / EAQUALS Core Inventory – C1 (discourse markers in speech, vague language)", "Cambridge C1 Advanced – Speaking Part 3"],
+      "objectives": ["Usar discourse markers para organizar a fala (anyway, mind you, as it happens, that said)", "Usar vague language natural (sort of, -ish, or so, stuff like that)", "Manter conversas informais fluidas e naturais", "Entender o papel social do small talk"],
+      "warmup": {
+        "text_pt": "Uma das diferenças mais claras entre B2 e C1 está nas **palavrinhas**: \"anyway\", \"mind you\", \"as it happens\", \"sort of\", \"-ish\". Elas não mudam o conteúdo, mas mudam **como você soa**: natural, relaxado e no controle da conversa. Tema: o poder do **small talk**.",
+        "questions": ["Are you good at small talk? Do you enjoy it?", "What topics are safe for small talk in Brazil? And in the UK or the US?"]
+      },
+      "vocabulary": [
+        {"en": "small talk / chit-chat", "pt": "conversa fiada, papo leve", "say": "smól tók / tchít tchét"},
+        {"en": "to strike up a conversation", "pt": "puxar conversa", "say": "tu stráik âp a konversêishan"},
+        {"en": "an icebreaker", "pt": "algo para quebrar o gelo", "say": "an áisbrêiker"},
+        {"en": "an awkward silence", "pt": "um silêncio constrangedor", "say": "an ókuard sáilens"},
+        {"en": "to make conversation", "pt": "fazer sala, puxar assunto", "say": "tu mêik konversêishan"},
+        {"en": "rapport", "pt": "sintonia, afinidade", "say": "rapór"},
+        {"en": "a weak tie", "pt": "um laço fraco (conhecido)", "say": "a uík tái"},
+        {"en": "mind you", "pt": "mas veja bem, se bem que", "say": "máind iú"},
+        {"en": "as it happens", "pt": "por acaso, aliás", "say": "éz it répenz"},
+        {"en": "come to think of it", "pt": "pensando bem", "say": "kâm tu θink ov it"},
+        {"en": "that said", "pt": "dito isso", "say": "dét séd"},
+        {"en": "sort of / kind of", "pt": "meio que, tipo", "say": "sórt ov / káind ov"}
+      ],
+      "chunks": [
+        {"en": "Anyway, as I was saying...", "pt": "Enfim, como eu estava dizendo..."},
+        {"en": "It's expensive. Mind you, it is very good.", "pt": "É caro. Se bem que é muito bom."},
+        {"en": "As it happens, I'm going there tomorrow.", "pt": "Por acaso, vou lá amanhã."},
+        {"en": "Come to think of it, I haven't seen her for ages.", "pt": "Pensando bem, não a vejo há séculos."},
+        {"en": "Let's meet at sevenish.", "pt": "Vamos nos encontrar lá pelas sete."},
+        {"en": "There were fifty people or so.", "pt": "Tinha umas cinquenta pessoas."}
+      ],
+      "grammar": {
+        "title": "Spoken discourse markers and vague language",
+        "explanation_pt": "**1. Discourse markers da fala** — organizam a conversa e mostram sua atitude:\n- **Mudar / voltar ao assunto:** anyway, by the way, incidentally, speaking of which, as I was saying\n- **Acrescentar uma ressalva:** **mind you** (\"se bem que\"), **that said / having said that**, then again\n- **Coincidência / informação relevante:** **as it happens**, actually, funnily enough\n- **Reconsiderar:** **come to think of it**, now that I think about it, on second thoughts\n- **Resumir / concluir:** so, basically, at the end of the day, all in all\n- **Ganhar tempo / suavizar:** well, I mean, you know, let me see\n\n\"The hotel was a bit far from the centre. **Mind you**, the view was incredible.\"\n\"Are you going to the conference? — **As it happens**, I'm giving a talk there.\"\n\n**2. Vague language** — imprecisão **intencional**, típica da fala natural (não é erro!):\n- **Aproximar números/horários:** about, around, roughly, **or so**, **-ish** (sevenish, fortyish), give or take\n- **Categorias:** **and stuff (like that)**, **and things**, **or something (like that)**, **and so on**\n- **Suavizar:** **sort of / kind of**, a bit, slightly, quite\n- **Palavras \"coringa\":** thing, stuff, whatsit, thingy (muito informal)\n\n\"I've been there twenty times **or so**.\" / \"She's **sort of** shy at first.\" / \"We talked about work **and stuff**.\"\n\n⚠️ **Registro:** vague language é para a **fala informal**. Em redações e e-mails formais, seja preciso.",
+        "table": {
+          "headers": ["Função", "Exemplos"],
+          "rows": [["Ressalva", "mind you, that said, then again"], ["Coincidência", "as it happens, funnily enough"], ["Reconsiderar", "come to think of it, on second thoughts"], ["Voltar ao assunto", "anyway, as I was saying"], ["Números vagos", "or so, -ish, roughly, give or take"], ["Categorias vagas", "and stuff, or something, and things like that"], ["Suavizar", "sort of, kind of, a bit"]]
+        },
+        "examples": [
+          {"en": "The new office is miles from my house. Mind you, it's right next to the metro.", "pt": "O escritório novo é longe pra caramba da minha casa. Se bem que fica do lado do metrô."},
+          {"en": "Come to think of it, I've never actually asked her where she's from.", "pt": "Pensando bem, eu nunca perguntei de onde ela é."},
+          {"en": "We should be there by eightish, depending on traffic and stuff.", "pt": "Devemos chegar lá pelas oito, dependendo do trânsito e tal."}
+        ],
+        "tip_pt": "O equivalente ao nosso \"**tipo**\" é **like** (\"It was, like, really weird\") — muito comum entre jovens, mas excessivo soa imaturo. **Sort of / kind of** são mais neutros."
+      },
+      "common_mistakes": [
+        {"wrong": "Mind you, the hotel was expensive. (como primeira frase, sem contraste)", "right": "The hotel was great. Mind you, it was expensive.", "why_pt": "Mind you adiciona uma ressalva a algo já dito."},
+        {"wrong": "As it happens is a good idea.", "right": "As it happens, I was thinking the same thing.", "why_pt": "As it happens introduz uma coincidência/informação relevante."},
+        {"wrong": "Dear Sir, the meeting will be at nineish or something.", "right": "Dear Sir, the meeting will be at 9 a.m.", "why_pt": "Vague language não cabe em textos formais."}
+      ],
+      "pronunciation": {
+        "focus": "Discourse markers e ritmo",
+        "tip_pt": "Discourse markers costumam vir num **bloco de entonação próprio**, com uma pequena pausa: \"**Mind you,** | it was cheap.\" / \"**Anyway,** | as I was saying...\". **Sort of** e **kind of** se reduzem muito: \"sórta\", \"káinda\".",
+        "practice": ["Mind you, | it was cheap.", "As it happens, | I'm free tonight.", "It was sorta weird."]
+      },
+      "dialogue": {
+        "title": "At the conference coffee break",
+        "context_pt": "Dois participantes de uma conferência começam a conversar no intervalo.",
+        "lines": [
+          {"speaker": "Kate", "en": "Sorry, is anyone sitting here?", "pt": "Desculpe, tem alguém sentado aqui?"},
+          {"speaker": "Diego", "en": "No, go ahead. Enjoying the conference so far?", "pt": "Não, fique à vontade. Gostando da conferência até agora?"},
+          {"speaker": "Kate", "en": "It's been good. The morning session was a bit long. Mind you, the last speaker was brilliant.", "pt": "Tem sido bom. A sessão da manhã foi um pouco longa. Se bem que o último palestrante foi brilhante."},
+          {"speaker": "Diego", "en": "The one talking about remote teams? As it happens, I used to work with him in São Paulo.", "pt": "O que falou sobre equipes remotas? Por acaso, eu trabalhei com ele em São Paulo."},
+          {"speaker": "Kate", "en": "No way! Small world. So, are you based in São Paulo?", "pt": "Não acredito! Mundo pequeno. Então você mora em São Paulo?"},
+          {"speaker": "Diego", "en": "I was, for ten years or so. Now I'm in Florianópolis — I sort of escaped the traffic.", "pt": "Morei, uns dez anos. Agora estou em Florianópolis — meio que fugi do trânsito."},
+          {"speaker": "Kate", "en": "Sounds like a good decision. Come to think of it, a colleague of mine has just moved there. Anyway, what's your talk about?", "pt": "Parece uma boa decisão. Pensando bem, uma colega minha acabou de se mudar para lá. Enfim, sobre o que é a sua palestra?"},
+          {"speaker": "Diego", "en": "Hiring across borders — contracts, culture and stuff like that. It's at fourish, if you're around.", "pt": "Contratação internacional — contratos, cultura e coisas assim. É lá pelas quatro, se você estiver por aqui."},
+          {"speaker": "Kate", "en": "I'll be there. That said, I might need another coffee first!", "pt": "Estarei lá. Dito isso, talvez eu precise de mais um café antes!"}
+        ]
+      },
+      "listening": {
+        "title": "In defence of small talk",
+        "context_pt": "Um comentarista de rádio defende a importância do small talk.",
+        "lines": [
+          {"speaker": "Commentator", "en": "Small talk has a pretty bad reputation. People call it shallow, fake, a waste of time. But, as it happens, research suggests otherwise. In one well-known study, the psychologists Gillian Sandstrom and Elizabeth Dunn asked people to have a brief, friendly exchange with a barista instead of just ordering and leaving. Those who chatted reported a better mood and a greater sense of belonging. Sandstrom has also found that our interactions with so-called \"weak ties\" — the neighbour, the bus driver, the person at the gym — contribute to our happiness more than we tend to assume. Mind you, I'm not saying you should corner strangers and talk about the weather for half an hour. But a two-minute chat is sort of like social glue. It's how relationships start. Come to think of it, most of my close friends began as people I made small talk with."}
+        ],
+        "questions": [
+          {"q": "What reputation does small talk have?", "answer": "Shallow, fake, a waste of time."},
+          {"q": "What happened to people who chatted with the barista?", "answer": "They reported a better mood and a greater sense of belonging."},
+          {"q": "What are \"weak ties\"?", "answer": "Acquaintances such as neighbours, bus drivers or people at the gym."},
+          {"q": "What metaphor does the speaker use for small talk?", "answer": "Social glue."}
+        ]
+      },
+      "reading": {
+        "title": "The strength of weak ties",
+        "text": "In 1973, the sociologist Mark Granovetter published a paper with a deliberately paradoxical title: \"The Strength of Weak Ties\". Studying how people in a Boston suburb had found their jobs, he noticed something surprising. Many had heard about the opportunity not from close friends but from acquaintances — people they saw only occasionally. His explanation was elegant. Our close friends tend to move in the same circles we do, so they mostly know what we already know. Acquaintances, by contrast, connect us to different networks and therefore to new information. The idea has since become one of the most cited in the social sciences, and recent research has largely supported it. A large study of LinkedIn users, published in Science in 2022, found that moderately weak ties were the most useful for job mobility. That said, weak ties do more than help us find work. They also seem to matter for our well-being. A quick chat with a neighbour or a familiar face at the market can make a city feel friendlier and less anonymous. Perhaps this is why so many people felt strangely lonely during the pandemic lockdowns, even when they kept in touch with close friends online: what had disappeared were the small, casual encounters that once filled their days. Small talk, it seems, is not so small after all.",
+        "questions": [
+          {"q": "What did Granovetter notice about how people found jobs?", "answer": "Many heard about opportunities from acquaintances, not close friends."},
+          {"q": "Why are weak ties useful, according to his explanation?", "answer": "They connect us to different networks and new information."},
+          {"q": "What did the 2022 LinkedIn study find?", "answer": "Moderately weak ties were the most useful for job mobility."},
+          {"q": "Why might people have felt lonely during lockdowns?", "answer": "The small, casual encounters with weak ties had disappeared."}
+        ]
+      },
+      "exercises": [
+        {"id": "ex1", "type": "multiple_choice", "title": "Choose the marker", "instruction": "Choose the most natural discourse marker.", "instruction_pt": "Escolha o discourse marker mais natural.",
+         "items": [{"prompt": "The flat is tiny. ___, the location is perfect.", "options": ["Mind you", "As it happens", "Anyway"], "answer": "Mind you"}, {"prompt": "\"Do you know anyone in Recife?\" \"___, my cousin lives there.\"", "options": ["As it happens", "Mind you", "That said"], "answer": "As it happens"}, {"prompt": "___, I haven't eaten anything since breakfast.", "options": ["Come to think of it", "Mind you", "By contrast"], "answer": "Come to think of it"}, {"prompt": "Sorry, I got distracted. ___, as I was saying...", "options": ["Anyway", "Mind you", "As it happens"], "answer": "Anyway"}, {"prompt": "The film was too long. ___, the ending was brilliant.", "options": ["That said", "As it happens", "Come to think of it"], "answer": "That said"}]},
+        {"id": "ex2", "type": "answer", "title": "Make it vague", "instruction": "Rewrite the sentences using vague language to sound more natural in conversation.", "instruction_pt": "Reescreva usando vague language para soar mais natural.",
+         "items": [{"prompt": "I'll be there at approximately 7 p.m.", "answer": "I'll be there at sevenish / around seven."}, {"prompt": "There were approximately 30 people at the party.", "answer": "There were thirty people or so / about thirty people."}, {"prompt": "We talked about work, family and other similar topics.", "answer": "We talked about work, family and stuff like that."}, {"prompt": "He's slightly strange.", "answer": "He's sort of / kind of strange."}]},
+        {"id": "ex3", "type": "fill_blank", "title": "Complete the conversation", "instruction": "Complete with: mind you · as it happens · come to think of it · anyway · -ish.", "instruction_pt": "Complete a conversa.",
+         "items": [{"prompt": "A: This restaurant is really expensive. B: Yes. ___, the food is amazing.", "answer": "Mind you"}, {"prompt": "A: I need a plumber. B: ___, my brother-in-law is one!", "answer": "As it happens"}, {"prompt": "A: ___, we haven't seen Paulo for months. Is he OK?", "answer": "Come to think of it"}, {"prompt": "B: I think so. ___, shall we meet at eight___ tomorrow?", "answer": "Anyway / -ish"}]},
+        {"id": "ex4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+         "items": [{"prompt": "1", "answer": "It's expensive. Mind you, it is very good."}, {"prompt": "2", "answer": "As it happens, I'm going there tomorrow."}, {"prompt": "3", "answer": "Come to think of it, I haven't seen her for ages."}, {"prompt": "4", "answer": "There were fifty people or so."}]},
+        {"id": "ex5", "type": "correct_error", "title": "Register check", "instruction": "Each sentence uses vague or informal language in a formal context. Rewrite it formally.", "instruction_pt": "Cada frase usa linguagem vaga/informal num contexto formal. Reescreva formalmente.",
+         "items": [{"prompt": "(Report) Sales went up by 20% or so.", "answer": "Sales increased by approximately 20%."}, {"prompt": "(E-mail to a client) The meeting is at threeish.", "answer": "The meeting will be held at 3 p.m."}, {"prompt": "(Essay) Social media causes anxiety and stuff.", "answer": "Social media can cause anxiety and other psychological problems."}, {"prompt": "(Report) The results were sort of disappointing.", "answer": "The results were somewhat disappointing."}]},
+        {"id": "ex6", "type": "match", "title": "Small talk vocabulary", "instruction": "Write the English expression.", "instruction_pt": "Escreva a expressão em inglês.",
+         "items": [{"prompt": "puxar conversa", "answer": "strike up a conversation"}, {"prompt": "silêncio constrangedor", "answer": "awkward silence"}, {"prompt": "sintonia, afinidade", "answer": "rapport"}, {"prompt": "laço fraco (conhecido)", "answer": "weak tie"}, {"prompt": "pensando bem", "answer": "come to think of it"}]}
+      ],
+      "speaking": {
+        "instruction": "\"Networking event\": mingle with classmates as if you were at a professional event. Strike up at least three conversations, keep each going for 2 minutes and end politely. Use at least five discourse markers and three examples of vague language.",
+        "instruction_pt": "\"Evento de networking\": circule entre os colegas como se estivesse num evento profissional. Inicie pelo menos três conversas, mantenha cada uma por 2 minutos e encerre educadamente. Use pelo menos cinco discourse markers e três exemplos de vague language.",
+        "questions": ["Is small talk a waste of time or an important social skill?", "What are good and bad topics for small talk with someone you've just met?", "Do Brazilians make small talk differently from people in other countries?", "Who are the \"weak ties\" in your life? How important are they?", "How do you end a conversation politely when you want to leave?"]
+      },
+      "writing": {
+        "task": "Write an informal blog post (250–300 words) titled \"How I learned to love small talk\". Write in a natural, conversational style using at least six discourse markers and four examples of vague language.",
+        "task_pt": "Escreva um post informal de blog (250–300 palavras) intitulado \"Como aprendi a amar o small talk\". Use um estilo natural e conversacional, com pelo menos seis discourse markers e quatro exemplos de vague language.",
+        "model": "How I learned to love small talk\n\nI'll be honest: for most of my life, I hated small talk. Chatting about the weather, the traffic, the weekend — it all seemed sort of pointless. If I wanted to talk to someone, I wanted to talk about something real.\n\nThat changed about three years ago, when I started working from home. At first, I loved it. No commute, no office politics, no awkward conversations by the coffee machine. Then, after six months or so, I noticed something strange. I felt lonely — and not because I missed my close friends. I spoke to them all the time. What I missed were the tiny, meaningless chats: the security guard asking about my weekend, the colleague who always complained about the air conditioning, that kind of thing.\n\nAs it happens, I'd just read an article about \"weak ties\" — the acquaintances who make up a big part of our social world. Apparently, brief exchanges with them can genuinely improve our mood. So I tried an experiment. For a month, I made a point of chatting to at least one stranger a day: the woman at the bakery, the guy who walks the same dog route as me, people at the gym and so on.\n\nThe results? Well, I didn't make any best friends. Mind you, I did start looking forward to my morning bread run. Come to think of it, I also ended up joining a running group thanks to the dog guy.\n\nAnyway, the point is this: small talk isn't really about the weather. It's about saying, \"I see you, and I'm friendly.\" That said, I still draw the line at talking about the traffic for more than two minutes!"
+      },
+      "culture_note": {
+        "title": "Small talk pelo mundo",
+        "text_pt": "Nos EUA, small talk com desconhecidos (no elevador, na fila) é comum e esperado. No Reino Unido, o **tempo** é o tema clássico — e reclamar dele é quase um ritual. Na Finlândia, ao contrário, o silêncio entre desconhecidos é confortável e normal. Brasileiros costumam ser calorosos e pessoais rapidamente — às vezes **pessoais demais** para padrões anglo-saxões (idade, salário, religião e vida amorosa são temas a evitar no início)."
+      },
+      "summary_pt": ["Ressalva: mind you, that said · Coincidência: as it happens.", "Reconsiderar: come to think of it · Voltar: anyway, as I was saying.", "Vague: -ish, or so, and stuff, sort of / kind of.", "Vague language = fala informal; em textos formais, seja preciso."]
+    }
+  ],
+  "review": {
+    "intro_pt": "Revise nuances de tempos verbais, elipse e substituição, estruturas de ênfase, discourse markers e vague language.",
+    "exercises": [
+      {"id": "r1", "type": "multiple_choice", "title": "Choose the correct option", "instruction": "Choose the correct option.", "instruction_pt": "Escolha a opção correta.",
+       "items": [{"prompt": "You ___ very unreasonable at the moment.", "options": ["are", "are being"], "answer": "are being"}, {"prompt": "\"Will they cancel the trip?\" \"I hope ___.\"", "options": ["no", "not", "don't"], "answer": "not"}, {"prompt": "It was ___ a cold night that the lake froze.", "options": ["so", "such"], "answer": "such"}, {"prompt": "___ I love my city, I could never live there again.", "options": ["Much as", "So much", "Such as"], "answer": "Much as"}, {"prompt": "The hotel was noisy. ___, the breakfast was fantastic.", "options": ["Mind you", "As it happens", "Come to think of it"], "answer": "Mind you"}]},
+      {"id": "r2", "type": "answer", "title": "Transform", "instruction": "Rewrite the sentences as instructed.", "instruction_pt": "Reescreva as frases como indicado.",
+       "items": [{"prompt": "Can you help me with this? (more polite, with wonder)", "answer": "I was wondering if you could help me with this."}, {"prompt": "Although it may seem strange, I miss the rain. (Strange as...)", "answer": "Strange as it may seem, I miss the rain."}, {"prompt": "The homesickness was so great that she went back. (Such was...)", "answer": "Such was her homesickness that she went back."}]},
+      {"id": "r3", "type": "translate", "title": "Translate", "instruction": "Translate into English.", "instruction_pt": "Traduza para o inglês.",
+       "items": [{"prompt": "Eu sinto muita falta da minha cidade. (use do enfático)", "answer": "I do miss my hometown."}, {"prompt": "\"Você vem?\" \"Adoraria.\"", "answer": "\"Are you coming?\" \"I'd love to.\""}, {"prompt": "Por acaso, eu conheço o dono.", "answer": "As it happens, I know the owner."}]},
+      {"id": "r4", "type": "dictation", "title": "Dictation", "instruction": "Listen and write the sentence.", "instruction_pt": "Ouça e escreva a frase.",
+       "items": [{"prompt": "1", "answer": "I was hoping we could talk."}, {"prompt": "2", "answer": "I can't drive, but my brother can."}, {"prompt": "3", "answer": "Come to think of it, I've never asked her."}]},
+      {"id": "r5", "type": "correct_error", "title": "Fix the mistake", "instruction": "Find and correct the mistake.", "instruction_pt": "Encontre e corrija o erro.",
+       "items": [{"prompt": "\"Is it true?\" \"I think yes.\"", "answer": "I think so."}, {"prompt": "I did enjoyed the trip.", "answer": "I did enjoy the trip."}, {"prompt": "It was so a long day that I fell asleep at eight.", "answer": "It was such a long day that I fell asleep at eight."}]}
+    ],
+    "speaking_pt": "Grave um podcast de 5 minutos chamado \"Who am I, really?\": fale sobre como sua identidade mudou, uma palavra em português que define você, o lugar que você chama de casa e o papel das pequenas conversas na sua vida. Use pelo menos uma estrutura de cada aula do módulo.",
+    "speaking_questions": ["How has your sense of self changed in the last decade?", "Which Portuguese word best describes you? Why?", "Where do you feel you truly belong?", "Are you better at small talk in Portuguese or in English?", "What would you tell someone who has just moved to your city?"],
+    "project_pt": "**\"Human library\":** cada aluno prepara uma \"história de vida\" de 3 minutos sobre identidade ou pertencimento (uma mudança, uma língua, uma tradição familiar). Os colegas \"pegam emprestado\" cada livro humano, ouvem a história e fazem perguntas. No final, cada um escreve 150 palavras sobre a história que mais o marcou."
+  }
+}

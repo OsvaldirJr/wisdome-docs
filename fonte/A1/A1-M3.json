@@ -1,0 +1,2116 @@
+{
+  "id": "A1-M3",
+  "level": "A1",
+  "title": "He, She, It",
+  "theme_pt": "Terceira pessoa, compras e transporte",
+  "can_do": [
+    "Falar sobre a rotina e os hábitos de outras pessoas",
+    "Fazer perguntas sobre outra pessoa com does",
+    "Perguntar preços e quantidades em compras",
+    "Dizer como vou para os lugares"
+  ],
+  "lessons": [
+    {
+      "id": "A1-M3-L1",
+      "title": "She works from home",
+      "subtitle_pt": "Simple present na 3ª pessoa: -s, -es, -ies",
+      "duration_min": 50,
+      "source_refs": [
+        "To Go A1 – Lesson 14 (he/she/it reads, writes, knows)",
+        "StartUp 1 – Unit 6"
+      ],
+      "objectives": [
+        "Usar o simple present com he, she e it",
+        "Aplicar as regras do -s, -es e -ies",
+        "Usar has, does e goes",
+        "Descrever a rotina de outra pessoa"
+      ],
+      "warmup": {
+        "text_pt": "Pense em uma pessoa que você admira (alguém da família, um influenciador, um atleta). Como é o dia a dia dela?",
+        "questions": [
+          "Who do you admire?",
+          "What does your best friend do?"
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "works / lives",
+          "pt": "trabalha / mora",
+          "say": "uórks / livz"
+        },
+        {
+          "en": "studies",
+          "pt": "estuda",
+          "say": "stâdiz"
+        },
+        {
+          "en": "watches",
+          "pt": "assiste",
+          "say": "uótchiz"
+        },
+        {
+          "en": "goes",
+          "pt": "vai",
+          "say": "gôuz"
+        },
+        {
+          "en": "does",
+          "pt": "faz",
+          "say": "dâz"
+        },
+        {
+          "en": "has",
+          "pt": "tem",
+          "say": "réz"
+        },
+        {
+          "en": "teaches",
+          "pt": "ensina",
+          "say": "títchiz"
+        },
+        {
+          "en": "speaks",
+          "pt": "fala",
+          "say": "spíks"
+        },
+        {
+          "en": "knows",
+          "pt": "sabe / conhece",
+          "say": "nôuz"
+        },
+        {
+          "en": "plays",
+          "pt": "joga / toca",
+          "say": "plêiz"
+        },
+        {
+          "en": "posts",
+          "pt": "posta",
+          "say": "pôusts"
+        },
+        {
+          "en": "content creator",
+          "pt": "criador(a) de conteúdo",
+          "say": "kóntent kriêitor"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "She works from home.",
+          "pt": "Ela trabalha de casa."
+        },
+        {
+          "en": "He lives with his parents.",
+          "pt": "Ele mora com os pais."
+        },
+        {
+          "en": "My mom has two jobs.",
+          "pt": "Minha mãe tem dois empregos."
+        },
+        {
+          "en": "He goes to the gym every day.",
+          "pt": "Ele vai à academia todo dia."
+        },
+        {
+          "en": "It opens at 9.",
+          "pt": "Abre às 9h."
+        }
+      ],
+      "grammar": {
+        "title": "Simple present: he / she / it",
+        "explanation_pt": "Esta é a regra mais famosa do inglês básico: com **he, she, it** (ou um nome no singular), o verbo **ganha -s** na afirmativa.\n\n- I work → **She works**\n- They live → **He lives**\n\n**Regras de ortografia:**\n1. Regra geral: **+s** → works, plays, reads\n2. Termina em **s, sh, ch, x, o**: **+es** → watches, teaches, goes, does\n3. **Consoante + y**: troca por **-ies** → study → studies, cry → cries (mas play → plays, porque a antes do y é vogal)\n4. **Irregular:** have → **has**",
+        "table": {
+          "headers": [
+            "I / you / we / they",
+            "he / she / it",
+            "Regra"
+          ],
+          "rows": [
+            [
+              "work",
+              "works",
+              "+s"
+            ],
+            [
+              "watch",
+              "watches",
+              "+es (ch)"
+            ],
+            [
+              "go",
+              "goes",
+              "+es (o)"
+            ],
+            [
+              "study",
+              "studies",
+              "consoante + y → ies"
+            ],
+            [
+              "play",
+              "plays",
+              "vogal + y → +s"
+            ],
+            [
+              "have",
+              "has",
+              "irregular"
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "My sister lives in Lisbon. She works for a startup.",
+            "pt": "Minha irmã mora em Lisboa. Ela trabalha numa startup."
+          },
+          {
+            "en": "He studies at night and watches series on weekends.",
+            "pt": "Ele estuda à noite e assiste séries nos fins de semana."
+          },
+          {
+            "en": "The store opens at 10 and closes at 10.",
+            "pt": "A loja abre às 10 e fecha às 22."
+          }
+        ],
+        "tip_pt": "Dica para memorizar: **\"he, she, it — o S não pode faltar\"**. É o erro mais comum, até em níveis avançados!"
+      },
+      "common_mistakes": [
+        {
+          "wrong": "She work in a bank.",
+          "right": "She works in a bank.",
+          "why_pt": "Com he/she/it, o verbo leva -s."
+        },
+        {
+          "wrong": "He haves a car.",
+          "right": "He has a car.",
+          "why_pt": "Have é irregular: has."
+        },
+        {
+          "wrong": "My friends works here.",
+          "right": "My friends work here.",
+          "why_pt": "O -s é só para a 3ª pessoa do singular. Friends é plural (they)."
+        }
+      ],
+      "pronunciation": {
+        "focus": "Os três sons do -s final",
+        "tip_pt": "O -s tem 3 pronúncias: **/s/** depois de sons surdos (works, speaks, posts) · **/z/** depois de sons sonoros e vogais (lives, plays, goes) · **/iz/** depois de s, sh, ch, x, z (watches, teaches, fixes) — esse ganha uma sílaba extra!",
+        "practice": [
+          "/s/ works · speaks",
+          "/z/ lives · plays · knows",
+          "/iz/ watches · teaches · uses"
+        ]
+      },
+      "dialogue": {
+        "title": "My sister, the influencer",
+        "context_pt": "Duas amigas conversam sobre a irmã de uma delas, que trabalha com redes sociais.",
+        "lines": [
+          {
+            "speaker": "Nanda",
+            "en": "Your sister is on Instagram all the time! What does she do?",
+            "pt": "Sua irmã está no Instagram o tempo todo! O que ela faz?"
+          },
+          {
+            "speaker": "Isa",
+            "en": "She's a content creator. She posts videos about travel.",
+            "pt": "Ela é criadora de conteúdo. Ela posta vídeos de viagem."
+          },
+          {
+            "speaker": "Nanda",
+            "en": "Cool! Does she travel a lot?",
+            "pt": "Legal! Ela viaja muito?"
+          },
+          {
+            "speaker": "Isa",
+            "en": "Yes! She goes to a new country every month. She speaks three languages.",
+            "pt": "Sim! Ela vai para um país novo todo mês. Fala três idiomas."
+          },
+          {
+            "speaker": "Nanda",
+            "en": "Wow. Where does she live?",
+            "pt": "Uau. Onde ela mora?"
+          },
+          {
+            "speaker": "Isa",
+            "en": "She lives in Lisbon. She has a small apartment and a cat, Luna.",
+            "pt": "Ela mora em Lisboa. Tem um apartamento pequeno e uma gata, a Luna."
+          },
+          {
+            "speaker": "Nanda",
+            "en": "And who takes care of Luna?",
+            "pt": "E quem cuida da Luna?"
+          },
+          {
+            "speaker": "Isa",
+            "en": "Her neighbor! He loves cats.",
+            "pt": "O vizinho dela! Ele ama gatos."
+          }
+        ]
+      },
+      "reading": {
+        "title": "A day in the life of a digital nomad",
+        "text": "Thiago is 34 and he's a software developer. He doesn't have an office. He works from anywhere: today he lives in Bali, next month in Mexico City. He wakes up at 7, goes surfing and then works from a coworking space. He has meetings with his team in the evening because they're in Brazil. He loves his lifestyle, but he says it's sometimes lonely. He misses his family and his mom's food!",
+        "questions": [
+          {
+            "q": "What does Thiago do?",
+            "answer": "He's a software developer."
+          },
+          {
+            "q": "Where does he work?",
+            "answer": "From anywhere (a coworking space in Bali now)."
+          },
+          {
+            "q": "Why does he have meetings in the evening?",
+            "answer": "Because his team is in Brazil."
+          },
+          {
+            "q": "What does he miss?",
+            "answer": "His family and his mom's food."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "answer",
+          "title": "Ortografia da 3ª pessoa",
+          "instruction_pt": "Escreva a forma do verbo para he/she/it.",
+          "items": [
+            {
+              "prompt": "watch",
+              "answer": "watches"
+            },
+            {
+              "prompt": "study",
+              "answer": "studies"
+            },
+            {
+              "prompt": "play",
+              "answer": "plays"
+            },
+            {
+              "prompt": "have",
+              "answer": "has"
+            },
+            {
+              "prompt": "go",
+              "answer": "goes"
+            },
+            {
+              "prompt": "fix",
+              "answer": "fixes"
+            }
+          ],
+          "instruction": "Write the he/she/it form of the verb."
+        },
+        {
+          "id": "ex2",
+          "type": "fill_blank",
+          "title": "Complete com o verbo",
+          "instruction_pt": "Use o verbo entre parênteses na forma correta.",
+          "items": [
+            {
+              "prompt": "My dad ___ (cook) on Sundays.",
+              "answer": "cooks"
+            },
+            {
+              "prompt": "My parents ___ (live) in Natal.",
+              "answer": "live"
+            },
+            {
+              "prompt": "She ___ (teach) English online.",
+              "answer": "teaches"
+            },
+            {
+              "prompt": "The bank ___ (open) at 10.",
+              "answer": "opens"
+            },
+            {
+              "prompt": "Carlos ___ (have) two kids.",
+              "answer": "has"
+            }
+          ],
+          "instruction": "Use the verb in parentheses in the correct form."
+        },
+        {
+          "id": "ex3",
+          "type": "multiple_choice",
+          "title": "Encontre o erro",
+          "instruction_pt": "Qual frase está correta?",
+          "items": [
+            {
+              "prompt": "Escolha a correta:",
+              "options": [
+                "She speak Spanish.",
+                "She speaks Spanish.",
+                "She speakes Spanish."
+              ],
+              "answer": "She speaks Spanish."
+            },
+            {
+              "prompt": "Escolha a correta:",
+              "options": [
+                "He studys a lot.",
+                "He studies a lot.",
+                "He study a lot."
+              ],
+              "answer": "He studies a lot."
+            },
+            {
+              "prompt": "Escolha a correta:",
+              "options": [
+                "My brothers plays soccer.",
+                "My brother play soccer.",
+                "My brother plays soccer."
+              ],
+              "answer": "My brother plays soccer."
+            }
+          ],
+          "instruction": "Which sentence is correct?"
+        },
+        {
+          "id": "ex4",
+          "type": "dictation",
+          "title": "Dictation",
+          "instruction": "Listen and write the sentence.",
+          "instruction_pt": "Ouça e escreva a frase.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "She works from home."
+            },
+            {
+              "prompt": "2",
+              "answer": "He watches series at night."
+            },
+            {
+              "prompt": "3",
+              "answer": "My mom has two jobs."
+            },
+            {
+              "prompt": "4",
+              "answer": "He studies in the morning."
+            }
+          ]
+        },
+        {
+          "id": "ex5",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the mistake.",
+          "instruction_pt": "Encontre e corrija o erro.",
+          "items": [
+            {
+              "prompt": "She live in Lisbon.",
+              "answer": "She lives in Lisbon."
+            },
+            {
+              "prompt": "He haves a car.",
+              "answer": "He has a car."
+            },
+            {
+              "prompt": "My sister studys law.",
+              "answer": "My sister studies law."
+            },
+            {
+              "prompt": "My parents works a lot.",
+              "answer": "My parents work a lot."
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "fill_blank",
+          "title": "Complete the profile",
+          "instruction": "Complete with the verb in the correct form.",
+          "instruction_pt": "Complete com o verbo na forma correta.",
+          "items": [
+            {
+              "prompt": "Ana ___ (be) a nurse.",
+              "answer": "is"
+            },
+            {
+              "prompt": "She ___ (work) at night.",
+              "answer": "works"
+            },
+            {
+              "prompt": "She ___ (go) to the gym in the afternoon.",
+              "answer": "goes"
+            },
+            {
+              "prompt": "She ___ (have) a dog and she ___ (watch) TV with him.",
+              "answer": "has / watches"
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction_pt": "Fale sobre uma pessoa que você conhece bem. Use pelo menos 6 verbos diferentes na 3ª pessoa.",
+        "questions": [
+          "Who is this person?",
+          "Where does he/she live?",
+          "What does he/she do?",
+          "What does he/she do in his/her free time?",
+          "Why do you admire him/her?"
+        ],
+        "instruction": "Talk about a person you know well. Use at least 6 different verbs in the third person."
+      },
+      "writing": {
+        "task_pt": "Escreva \"A day in the life of...\" sobre uma pessoa real (famosa ou não), com 6 a 8 frases.",
+        "model": "My grandma, Dona Célia, is 78. She lives in Juiz de Fora.\nShe wakes up at 5 a.m. and makes coffee.\nShe goes to the market every morning.\nShe watches soap operas in the afternoon.\nShe has a WhatsApp group with her friends and sends me memes every day! 😂",
+        "task": "Write \"A day in the life of...\" about a real person (famous or not), with 6 to 8 sentences."
+      },
+      "culture_note": {
+        "title": "Gig economy",
+        "text_pt": "**Gig economy** é a economia dos trabalhos por demanda: motoristas de app, entregadores, freelancers. Uma pessoa que faz \"bicos\" ou trabalhos paralelos tem um **side hustle**: \"She's a teacher, but she sells cakes as a side hustle.\""
+      },
+      "summary_pt": [
+        "He/she/it + verbo com -s.",
+        "-es depois de s, sh, ch, x, o · -ies depois de consoante + y.",
+        "have → has.",
+        "Três sons: /s/, /z/, /iz/."
+      ],
+      "listening": {
+        "title": "Meet my roommate",
+        "context_pt": "Um estudante descreve o colega de apartamento em um áudio para a família.",
+        "lines": [
+          {
+            "speaker": "Lucas",
+            "en": "Hi, Mom! Let me tell you about my new roommate. His name is Kenji and he's from Japan. He studies engineering. He gets up very early, at five thirty, and he goes running every day. He cooks very well — he makes ramen on Fridays! He speaks Japanese, English and a little Portuguese. He watches anime at night and he has a cat. Don't worry, Mom. He's very nice!"
+          }
+        ],
+        "questions": [
+          {
+            "q": "What does Kenji study?",
+            "answer": "Engineering."
+          },
+          {
+            "q": "What time does he get up?",
+            "answer": "At 5:30."
+          },
+          {
+            "q": "What does he cook on Fridays?",
+            "answer": "Ramen."
+          },
+          {
+            "q": "How many languages does he speak?",
+            "answer": "Three (Japanese, English and a little Portuguese)."
+          }
+        ]
+      }
+    },
+    {
+      "id": "A1-M3-L2",
+      "title": "Does he cook?",
+      "subtitle_pt": "Does e doesn't: perguntas e negativas na 3ª pessoa",
+      "duration_min": 50,
+      "source_refs": [
+        "To Go A1 – Lessons 14, 18 (does, doesn't)",
+        "To Go A1 – Questions TG"
+      ],
+      "objectives": [
+        "Usar doesn't na negativa",
+        "Fazer perguntas com Does he/she...?",
+        "Responder Yes, he does / No, she doesn't",
+        "Falar sobre tarefas domésticas"
+      ],
+      "warmup": {
+        "text_pt": "Na sua casa, quem faz o quê? Quem lava a louça, quem cozinha, quem limpa? A divisão é justa? 🤔",
+        "questions": [
+          "Who cooks in your house?",
+          "What housework do you hate?"
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "do the dishes",
+          "pt": "lavar a louça",
+          "say": "dú dâ díshiz"
+        },
+        {
+          "en": "do the laundry",
+          "pt": "lavar a roupa",
+          "say": "dú dâ lóndri"
+        },
+        {
+          "en": "clean the house",
+          "pt": "limpar a casa",
+          "say": "klín dâ ráus"
+        },
+        {
+          "en": "make the bed",
+          "pt": "arrumar a cama",
+          "say": "mêik dâ béd"
+        },
+        {
+          "en": "take out the trash",
+          "pt": "tirar o lixo",
+          "say": "têik áut dâ trésh"
+        },
+        {
+          "en": "vacuum",
+          "pt": "aspirar o pó",
+          "say": "vékium"
+        },
+        {
+          "en": "go grocery shopping",
+          "pt": "fazer compras de mercado",
+          "say": "gôu grôuseri shópin"
+        },
+        {
+          "en": "walk the dog",
+          "pt": "passear com o cachorro",
+          "say": "uók dâ dóg"
+        },
+        {
+          "en": "iron clothes",
+          "pt": "passar roupa",
+          "say": "áiron klôuz"
+        },
+        {
+          "en": "water the plants",
+          "pt": "regar as plantas",
+          "say": "uórer dâ plénts"
+        },
+        {
+          "en": "housework / chores",
+          "pt": "tarefas domésticas",
+          "say": "ráusuork / tchórz"
+        },
+        {
+          "en": "roommate",
+          "pt": "colega de casa",
+          "say": "rúmmêit"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "Does he cook?",
+          "pt": "Ele cozinha?"
+        },
+        {
+          "en": "Yes, he does. / No, he doesn't.",
+          "pt": "Sim. / Não."
+        },
+        {
+          "en": "She doesn't like cleaning.",
+          "pt": "Ela não gosta de limpar."
+        },
+        {
+          "en": "Who does the dishes?",
+          "pt": "Quem lava a louça?"
+        },
+        {
+          "en": "It's my turn.",
+          "pt": "É a minha vez."
+        },
+        {
+          "en": "We split the chores.",
+          "pt": "Dividimos as tarefas."
+        }
+      ],
+      "grammar": {
+        "title": "Does / doesn't",
+        "explanation_pt": "Na 3ª pessoa, o auxiliar **do** vira **does**. E aqui vem o segredo: **o -s passa para o auxiliar**, e o verbo principal **volta à forma base**.\n\n- Afirmativa: She **works**. (o -s está no verbo)\n- Negativa: She **doesn't work**. (o -s está no auxiliar)\n- Pergunta: **Does** she **work**? (o -s está no auxiliar)\n\nNunca use o -s duas vezes: ❌ She doesn't works. ❌ Does she works?\n\n**Wh- questions:** Where **does** he live? What **does** she do?\n\n**Exceção:** quando **who** é o sujeito, não se usa does: **Who cooks** dinner? (Quem cozinha?)",
+        "table": {
+          "headers": [
+            "Afirmativa",
+            "Negativa",
+            "Pergunta",
+            "Resposta curta"
+          ],
+          "rows": [
+            [
+              "He cooks.",
+              "He doesn't cook.",
+              "Does he cook?",
+              "Yes, he does. / No, he doesn't."
+            ],
+            [
+              "She has a car.",
+              "She doesn't have a car.",
+              "Does she have a car?",
+              "Yes, she does. / No, she doesn't."
+            ],
+            [
+              "It works.",
+              "It doesn't work.",
+              "Does it work?",
+              "Yes, it does. / No, it doesn't."
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "My husband doesn't cook, but he does the dishes.",
+            "pt": "Meu marido não cozinha, mas lava a louça."
+          },
+          {
+            "en": "Does your roommate clean the kitchen? No, she doesn't!",
+            "pt": "Sua colega de casa limpa a cozinha? Não!"
+          },
+          {
+            "en": "Where does your brother work?",
+            "pt": "Onde seu irmão trabalha?"
+          }
+        ],
+        "tip_pt": "**Does** também é o verbo \"fazer\" na 3ª pessoa: \"He **does** the laundry\". Em \"What does he do?\" o primeiro does é auxiliar e o do final é o verbo fazer."
+      },
+      "common_mistakes": [
+        {
+          "wrong": "She doesn't works.",
+          "right": "She doesn't work.",
+          "why_pt": "O -s já está no doesn't. O verbo volta à forma base."
+        },
+        {
+          "wrong": "Does he has a car?",
+          "right": "Does he have a car?",
+          "why_pt": "Com does, have volta a ser have."
+        },
+        {
+          "wrong": "Who does cook dinner?",
+          "right": "Who cooks dinner?",
+          "why_pt": "Quando who é o sujeito da pergunta, não se usa auxiliar."
+        }
+      ],
+      "pronunciation": {
+        "focus": "Does e doesn't",
+        "tip_pt": "**Does** é \"dâz\" (com som de z, não \"dôus\"). **Doesn't** é \"dâzent\" — e o T final quase some: \"dâzen\". Em perguntas rápidas, \"Does he\" vira \"dâzi\".",
+        "practice": [
+          "Does he = \"dâzi\"",
+          "Does she = \"dâzshi\"",
+          "She doesn't cook = \"shí dâzen kúk\""
+        ]
+      },
+      "dialogue": {
+        "title": "Looking for a roommate",
+        "context_pt": "Vini vai dividir apartamento em Londres e pergunta à amiga sobre um possível colega de casa.",
+        "lines": [
+          {
+            "speaker": "Vini",
+            "en": "Tell me about your friend Sam. Does he smoke?",
+            "pt": "Me fala do seu amigo Sam. Ele fuma?"
+          },
+          {
+            "speaker": "Chloe",
+            "en": "No, he doesn't. He's very healthy. He goes running every morning.",
+            "pt": "Não. Ele é muito saudável. Corre toda manhã."
+          },
+          {
+            "speaker": "Vini",
+            "en": "Great. Does he cook?",
+            "pt": "Ótimo. Ele cozinha?"
+          },
+          {
+            "speaker": "Chloe",
+            "en": "Yes, he does! He makes amazing pasta.",
+            "pt": "Sim! Ele faz um macarrão incrível."
+          },
+          {
+            "speaker": "Vini",
+            "en": "And does he do the dishes after?",
+            "pt": "E ele lava a louça depois?"
+          },
+          {
+            "speaker": "Chloe",
+            "en": "Hmm... not always. But he takes out the trash and does the laundry.",
+            "pt": "Hmm... nem sempre. Mas ele tira o lixo e lava roupa."
+          },
+          {
+            "speaker": "Vini",
+            "en": "Does he have a pet?",
+            "pt": "Ele tem algum animal?"
+          },
+          {
+            "speaker": "Chloe",
+            "en": "No, he doesn't. He's allergic to cats.",
+            "pt": "Não. Ele tem alergia a gato."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Who does the housework?",
+        "text": "Studies show that in many countries women still do most of the housework. In Brazil, women spend almost twice as many hours on chores as men, according to IBGE. But things are changing. Today many couples split the chores. In Ana and Rui's house, for example, Rui cooks and does the dishes, and Ana does the laundry and pays the bills. Their son, Theo, is 10. Does he help? Yes, he does! He makes his bed and walks the dog.",
+        "questions": [
+          {
+            "q": "Who does most of the housework in many countries?",
+            "answer": "Women."
+          },
+          {
+            "q": "What does Rui do?",
+            "answer": "He cooks and does the dishes."
+          },
+          {
+            "q": "Does Ana cook?",
+            "answer": "No, she doesn't. She does the laundry and pays the bills."
+          },
+          {
+            "q": "Does Theo help?",
+            "answer": "Yes, he does. He makes his bed and walks the dog."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "fill_blank",
+          "title": "doesn't + verbo",
+          "instruction_pt": "Reescreva na negativa.",
+          "items": [
+            {
+              "prompt": "He cooks. → He ___.",
+              "answer": "doesn't cook"
+            },
+            {
+              "prompt": "She has a dog. → She ___ a dog.",
+              "answer": "doesn't have"
+            },
+            {
+              "prompt": "It works. → It ___.",
+              "answer": "doesn't work"
+            },
+            {
+              "prompt": "My mom watches TV. → My mom ___ TV.",
+              "answer": "doesn't watch"
+            }
+          ],
+          "instruction": "Rewrite in the negative."
+        },
+        {
+          "id": "ex2",
+          "type": "answer",
+          "title": "Faça a pergunta",
+          "instruction_pt": "Transforme em pergunta e dê a resposta curta indicada.",
+          "items": [
+            {
+              "prompt": "He speaks French. (✔)",
+              "answer": "Does he speak French? Yes, he does."
+            },
+            {
+              "prompt": "She lives alone. (✘)",
+              "answer": "Does she live alone? No, she doesn't."
+            },
+            {
+              "prompt": "Your dad works on Saturdays. (✔)",
+              "answer": "Does your dad work on Saturdays? Yes, he does."
+            },
+            {
+              "prompt": "The app has a dark mode. (✘)",
+              "answer": "Does the app have a dark mode? No, it doesn't."
+            }
+          ],
+          "instruction": "Make a question and give the short answer."
+        },
+        {
+          "id": "ex3",
+          "type": "multiple_choice",
+          "title": "do, does ou nada?",
+          "instruction_pt": "Escolha a opção correta.",
+          "items": [
+            {
+              "prompt": "Where ___ your sister work?",
+              "options": [
+                "do",
+                "does",
+                "is"
+              ],
+              "answer": "does"
+            },
+            {
+              "prompt": "___ your parents live here?",
+              "options": [
+                "Do",
+                "Does",
+                "Are"
+              ],
+              "answer": "Do"
+            },
+            {
+              "prompt": "Who ___ the dishes in your house?",
+              "options": [
+                "do",
+                "does",
+                "is do"
+              ],
+              "answer": "does"
+            },
+            {
+              "prompt": "What ___ he do?",
+              "options": [
+                "do",
+                "does",
+                "is"
+              ],
+              "answer": "does"
+            }
+          ],
+          "instruction": "Choose the correct option."
+        },
+        {
+          "id": "ex4",
+          "type": "dictation",
+          "title": "Dictation",
+          "instruction": "Listen and write the sentence.",
+          "instruction_pt": "Ouça e escreva a frase.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "Does he cook?"
+            },
+            {
+              "prompt": "2",
+              "answer": "No, she doesn't."
+            },
+            {
+              "prompt": "3",
+              "answer": "He doesn't do the dishes."
+            },
+            {
+              "prompt": "4",
+              "answer": "Where does your brother work?"
+            }
+          ]
+        },
+        {
+          "id": "ex5",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the mistake.",
+          "instruction_pt": "Encontre e corrija o erro.",
+          "items": [
+            {
+              "prompt": "She doesn't works on Sundays.",
+              "answer": "She doesn't work on Sundays."
+            },
+            {
+              "prompt": "Does he has a cat?",
+              "answer": "Does he have a cat?"
+            },
+            {
+              "prompt": "Who does cook in your house?",
+              "answer": "Who cooks in your house?"
+            },
+            {
+              "prompt": "He don't like cleaning.",
+              "answer": "He doesn't like cleaning."
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "fill_blank",
+          "title": "Complete the dialogue",
+          "instruction": "Complete with: does · doesn't · do · don't.",
+          "instruction_pt": "Complete o diálogo.",
+          "items": [
+            {
+              "prompt": "A: ___ your roommate clean the kitchen?",
+              "answer": "Does"
+            },
+            {
+              "prompt": "B: No, she ___. But she does the laundry.",
+              "answer": "doesn't"
+            },
+            {
+              "prompt": "A: ___ you split the chores?",
+              "answer": "Do"
+            },
+            {
+              "prompt": "B: Yes, we do. I ___ like ironing, so she irons and I vacuum.",
+              "answer": "don't"
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction_pt": "Pergunte ao colega sobre alguém da casa dele (parceiro, mãe, colega de quarto). Use Does he/she...?",
+        "questions": [
+          "Does he/she cook?",
+          "Does he/she do the dishes?",
+          "What chores does he/she hate?",
+          "Does he/she have a pet?",
+          "Who does the grocery shopping in your house?"
+        ],
+        "instruction": "Ask your partner about someone in their home (partner, mom, roommate). Use Does he/she...?"
+      },
+      "writing": {
+        "task_pt": "Escreva um perfil de \"roommate ideal\": o que essa pessoa faz e não faz (5 frases com does/doesn't).",
+        "model": "My ideal roommate doesn't smoke.\nShe cleans the kitchen after she cooks.\nShe doesn't play loud music at night.\nShe pays the bills on time.\nAnd she loves dogs, because I have two! 🐶",
+        "task": "Write a profile of the \"ideal roommate\": what this person does and doesn't do (5 sentences with does/doesn't)."
+      },
+      "culture_note": {
+        "title": "Chore chart",
+        "text_pt": "Em muitas famílias e casas compartilhadas nos EUA e no Reino Unido, é comum ter um **chore chart**: um quadro na geladeira com quem faz cada tarefa em cada dia. Crianças muitas vezes ganham uma **allowance** (mesada) por ajudar."
+      },
+      "summary_pt": [
+        "Negativa: doesn't + verbo base.",
+        "Pergunta: Does + sujeito + verbo base?",
+        "O -s nunca aparece duas vezes.",
+        "Who como sujeito: Who cooks? (sem does)."
+      ],
+      "listening": {
+        "title": "Two friends talking about a new boyfriend",
+        "context_pt": "Duas amigas conversam sobre o novo namorado de uma delas.",
+        "lines": [
+          {
+            "speaker": "Jade",
+            "en": "So, tell me about Rafa! Does he cook?"
+          },
+          {
+            "speaker": "Bel",
+            "en": "Yes, he does! He makes amazing feijoada."
+          },
+          {
+            "speaker": "Jade",
+            "en": "Wow. Does he like dogs? You have three!"
+          },
+          {
+            "speaker": "Bel",
+            "en": "He loves dogs. He walks them with me every morning."
+          },
+          {
+            "speaker": "Jade",
+            "en": "Perfect. Does he play video games all night?"
+          },
+          {
+            "speaker": "Bel",
+            "en": "No, he doesn't. He reads books. But he doesn't do the dishes!"
+          },
+          {
+            "speaker": "Jade",
+            "en": "Nobody's perfect!"
+          }
+        ],
+        "questions": [
+          {
+            "q": "Does Rafa cook?",
+            "answer": "Yes, he does. (He makes amazing feijoada.)"
+          },
+          {
+            "q": "Does he like dogs?",
+            "answer": "Yes, he does. He loves dogs."
+          },
+          {
+            "q": "Does he play video games all night?",
+            "answer": "No, he doesn't. He reads books."
+          },
+          {
+            "q": "What doesn't he do?",
+            "answer": "He doesn't do the dishes."
+          }
+        ]
+      }
+    },
+    {
+      "id": "A1-M3-L3",
+      "title": "How much is it?",
+      "subtitle_pt": "Compras, how much / how many e why...because",
+      "duration_min": 50,
+      "source_refs": [
+        "To Go A1 – Lessons 13, 16 (sell/buy, how many, how much, quantifiers)",
+        "StartUp 1 – Unit 7"
+      ],
+      "objectives": [
+        "Perguntar e entender preços",
+        "Usar how much e how many corretamente",
+        "Usar números até 1.000",
+        "Fazer compras em lojas físicas e online"
+      ],
+      "warmup": {
+        "text_pt": "Você prefere comprar online ou em loja física? Qual foi sua última compra?",
+        "questions": [
+          "What do you buy online?",
+          "Are you a big spender or do you save money?"
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "to buy / to sell",
+          "pt": "comprar / vender",
+          "say": "tu bái / tu sél"
+        },
+        {
+          "en": "to pay",
+          "pt": "pagar",
+          "say": "tu pêi"
+        },
+        {
+          "en": "to spend",
+          "pt": "gastar",
+          "say": "tu spénd"
+        },
+        {
+          "en": "price",
+          "pt": "preço",
+          "say": "práis"
+        },
+        {
+          "en": "cheap / expensive",
+          "pt": "barato / caro",
+          "say": "tchíp / ikspénsiv"
+        },
+        {
+          "en": "on sale",
+          "pt": "em promoção",
+          "say": "on sêil"
+        },
+        {
+          "en": "discount",
+          "pt": "desconto",
+          "say": "dískaunt"
+        },
+        {
+          "en": "size",
+          "pt": "tamanho",
+          "say": "sáiz"
+        },
+        {
+          "en": "shipping",
+          "pt": "frete",
+          "say": "shípin"
+        },
+        {
+          "en": "cart",
+          "pt": "carrinho (de compras)",
+          "say": "kárt"
+        },
+        {
+          "en": "store / shop",
+          "pt": "loja",
+          "say": "stór / shóp"
+        },
+        {
+          "en": "one hundred / one thousand",
+          "pt": "cem / mil",
+          "say": "uân rândred / uân θáuzend"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "How much is this T-shirt?",
+          "pt": "Quanto custa esta camiseta?"
+        },
+        {
+          "en": "How much are these shoes?",
+          "pt": "Quanto custam estes sapatos?"
+        },
+        {
+          "en": "Can I try it on?",
+          "pt": "Posso provar?"
+        },
+        {
+          "en": "Do you have it in a medium?",
+          "pt": "Tem no tamanho médio?"
+        },
+        {
+          "en": "I'm just looking, thanks.",
+          "pt": "Só estou olhando, obrigado."
+        },
+        {
+          "en": "I'll take it.",
+          "pt": "Vou levar."
+        }
+      ],
+      "grammar": {
+        "title": "How much x how many + why/because",
+        "explanation_pt": "**How much** = quanto(a) → para coisas **incontáveis** (que não se contam uma a uma) e para **preço**:\n- How much **money** do you spend? · How much **water** do you drink? · How much **is it**?\n\n**How many** = quantos(as) → para coisas **contáveis** (no plural):\n- How many **apps** do you have? · How many **people** work here?\n\n**Números grandes:** 100 = one hundred · 250 = two hundred **and** fifty (UK) / two hundred fifty (EUA) · 1,000 = one thousand · 1,500 = one thousand five hundred (ou fifteen hundred).\n\n**Why...? Because...:** Why do you buy online? **Because** it's cheaper.",
+        "table": {
+          "headers": [
+            "How much + incontável",
+            "How many + plural"
+          ],
+          "rows": [
+            [
+              "How much money?",
+              "How many dollars?"
+            ],
+            [
+              "How much time?",
+              "How many hours?"
+            ],
+            [
+              "How much coffee?",
+              "How many cups of coffee?"
+            ],
+            [
+              "How much is it? (preço)",
+              "How many items are in your cart?"
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "How much is this jacket? It's $89.",
+            "pt": "Quanto custa esta jaqueta? 89 dólares."
+          },
+          {
+            "en": "How many items are in your cart? Five.",
+            "pt": "Quantos itens tem no seu carrinho? Cinco."
+          },
+          {
+            "en": "Why does she sell her clothes online? Because she wants extra money.",
+            "pt": "Por que ela vende roupas online? Porque quer uma renda extra."
+          }
+        ],
+        "tip_pt": "**Money** é incontável em inglês: \"How much money\" (e nunca \"how many money\"). Mas **dollars** e **reais** são contáveis."
+      },
+      "common_mistakes": [
+        {
+          "wrong": "How many money do you have?",
+          "right": "How much money do you have?",
+          "why_pt": "Money é incontável: how much."
+        },
+        {
+          "wrong": "How much costs this?",
+          "right": "How much is this? / How much does this cost?",
+          "why_pt": "Mantenha a estrutura sujeito + verbo."
+        },
+        {
+          "wrong": "It's very expensive. I'll buy! (quando quer comprar)",
+          "right": "I'll take it.",
+          "why_pt": "Na loja, a expressão natural para \"vou levar\" é I'll take it."
+        }
+      ],
+      "pronunciation": {
+        "focus": "Hundred e thousand",
+        "tip_pt": "**Hundred** = \"RÂN-dred\" (o H soa como R suave). **Thousand** começa com o TH surdo: língua entre os dentes, sopre o ar — \"θáu-zend\", não \"táuzend\" nem \"sáuzend\".",
+        "practice": [
+          "one hundred",
+          "three thousand",
+          "It's two hundred and fifty dollars."
+        ]
+      },
+      "dialogue": {
+        "title": "At a clothing store",
+        "context_pt": "Rodrigo está de viagem em Nova York e entra em uma loja de roupas.",
+        "lines": [
+          {
+            "speaker": "Clerk",
+            "en": "Hi! Can I help you?",
+            "pt": "Oi! Posso ajudar?"
+          },
+          {
+            "speaker": "Rodrigo",
+            "en": "I'm just looking, thanks. Oh, how much is this jacket?",
+            "pt": "Só estou olhando, obrigado. Ah, quanto custa esta jaqueta?"
+          },
+          {
+            "speaker": "Clerk",
+            "en": "It's on sale. It's $120 — 30% off.",
+            "pt": "Está em promoção. Sai por 120 dólares — 30% de desconto."
+          },
+          {
+            "speaker": "Rodrigo",
+            "en": "Nice. Do you have it in a large?",
+            "pt": "Legal. Tem no tamanho G?"
+          },
+          {
+            "speaker": "Clerk",
+            "en": "Yes, here you go. The fitting room is over there.",
+            "pt": "Sim, aqui está. O provador é ali."
+          },
+          {
+            "speaker": "Rodrigo",
+            "en": "Thanks. ... It's perfect. I'll take it. Can I pay by card?",
+            "pt": "Obrigado. ... Ficou perfeita. Vou levar. Posso pagar no cartão?"
+          },
+          {
+            "speaker": "Clerk",
+            "en": "Sure. With tax, it's $130.65.",
+            "pt": "Claro. Com imposto, fica 130,65 dólares."
+          },
+          {
+            "speaker": "Rodrigo",
+            "en": "Tax? The price isn't the final price?",
+            "pt": "Imposto? O preço não é o preço final?"
+          },
+          {
+            "speaker": "Clerk",
+            "en": "No, in New York we add sales tax at the register.",
+            "pt": "Não, em Nova York adicionamos o imposto no caixa."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Second-hand is cool",
+        "text": "Why do so many young people buy second-hand clothes today? Because they're cheaper and better for the planet. Apps like Enjoei and Vinted help people sell clothes they don't use. Marina, 23, sells about 15 items a month. \"How much money do I make? Around 600 reais a month. It's my side hustle!\" she says. How many clothes do you have that you never wear?",
+        "questions": [
+          {
+            "q": "Why do young people buy second-hand clothes?",
+            "answer": "Because they're cheaper and better for the planet."
+          },
+          {
+            "q": "How many items does Marina sell a month?",
+            "answer": "About 15."
+          },
+          {
+            "q": "How much money does she make?",
+            "answer": "Around 600 reais a month."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "multiple_choice",
+          "title": "How much ou how many?",
+          "instruction_pt": "Escolha a opção correta.",
+          "items": [
+            {
+              "prompt": "___ apps do you have on your phone?",
+              "options": [
+                "How much",
+                "How many"
+              ],
+              "answer": "How many"
+            },
+            {
+              "prompt": "___ time do you spend on Instagram?",
+              "options": [
+                "How much",
+                "How many"
+              ],
+              "answer": "How much"
+            },
+            {
+              "prompt": "___ is the T-shirt?",
+              "options": [
+                "How much",
+                "How many"
+              ],
+              "answer": "How much"
+            },
+            {
+              "prompt": "___ people live in your house?",
+              "options": [
+                "How much",
+                "How many"
+              ],
+              "answer": "How many"
+            },
+            {
+              "prompt": "___ coffee do you drink?",
+              "options": [
+                "How much",
+                "How many"
+              ],
+              "answer": "How much"
+            }
+          ],
+          "instruction": "Choose the correct option."
+        },
+        {
+          "id": "ex2",
+          "type": "answer",
+          "title": "Números grandes",
+          "instruction_pt": "Escreva por extenso.",
+          "items": [
+            {
+              "prompt": "150",
+              "answer": "one hundred (and) fifty"
+            },
+            {
+              "prompt": "399",
+              "answer": "three hundred (and) ninety-nine"
+            },
+            {
+              "prompt": "1,000",
+              "answer": "one thousand"
+            },
+            {
+              "prompt": "$75.90",
+              "answer": "seventy-five ninety (seventy-five dollars and ninety cents)"
+            }
+          ],
+          "instruction": "Write it in words."
+        },
+        {
+          "id": "ex3",
+          "type": "match",
+          "title": "Na loja",
+          "instruction_pt": "Escreva a expressão em inglês para cada situação.",
+          "items": [
+            {
+              "prompt": "Você só quer olhar.",
+              "answer": "I'm just looking, thanks."
+            },
+            {
+              "prompt": "Você quer experimentar uma roupa.",
+              "answer": "Can I try it on?"
+            },
+            {
+              "prompt": "Você decidiu comprar.",
+              "answer": "I'll take it."
+            },
+            {
+              "prompt": "Você quer outro tamanho.",
+              "answer": "Do you have it in a small/medium/large?"
+            }
+          ],
+          "instruction": "Write the English expression for each situation."
+        },
+        {
+          "id": "ex4",
+          "type": "dictation",
+          "title": "Dictation",
+          "instruction": "Listen and write the number or sentence.",
+          "instruction_pt": "Ouça e escreva o número ou a frase.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "How much is this jacket?"
+            },
+            {
+              "prompt": "2",
+              "answer": "It's two hundred and fifty dollars."
+            },
+            {
+              "prompt": "3",
+              "answer": "Can I try it on?"
+            },
+            {
+              "prompt": "4",
+              "answer": "How many people work here?"
+            }
+          ]
+        },
+        {
+          "id": "ex5",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the mistake.",
+          "instruction_pt": "Encontre e corrija o erro.",
+          "items": [
+            {
+              "prompt": "How many money do you need?",
+              "answer": "How much money do you need?"
+            },
+            {
+              "prompt": "How much costs this T-shirt?",
+              "answer": "How much is this T-shirt?"
+            },
+            {
+              "prompt": "How much are this bag?",
+              "answer": "How much is this bag?"
+            },
+            {
+              "prompt": "I'm only looking, thank.",
+              "answer": "I'm just looking, thanks."
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "fill_blank",
+          "title": "Complete the dialogue",
+          "instruction": "Complete with: much · try · size · take · sale.",
+          "instruction_pt": "Complete o diálogo.",
+          "items": [
+            {
+              "prompt": "A: How ___ are these jeans?",
+              "answer": "much"
+            },
+            {
+              "prompt": "B: $45. They're on ___.",
+              "answer": "sale"
+            },
+            {
+              "prompt": "A: Can I ___ them on? I'm a ___ 38.",
+              "answer": "try / size"
+            },
+            {
+              "prompt": "A: They're perfect. I'll ___ them!",
+              "answer": "take"
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction_pt": "Role-play em uma loja: cliente e vendedor. Depois responda às perguntas pessoais.",
+        "questions": [
+          "How much money do you spend on clothes a month?",
+          "How many pairs of shoes do you have?",
+          "Do you buy second-hand things? Why or why not?",
+          "What's your favorite online store?",
+          "Do you sell things online?"
+        ],
+        "instruction": "Role-play in a store: customer and salesperson. Then answer the personal questions."
+      },
+      "writing": {
+        "task_pt": "Crie um anúncio para vender um objeto seu em um app (nome, descrição, preço e por que você vende).",
+        "model": "FOR SALE: JBL headphones 🎧\nBlack, almost new, with the original box.\nPrice: R$ 250 (new: R$ 499).\nWhy do I sell them? Because I have new earbuds now.",
+        "task": "Create an ad to sell one of your things in an app (name, description, price and why you are selling it)."
+      },
+      "culture_note": {
+        "title": "Sales tax",
+        "text_pt": "Nos EUA, o preço na etiqueta **geralmente não inclui o imposto** (sales tax), que varia de estado para estado (de 0% a cerca de 10%). Já no Reino Unido e na Europa, o imposto (VAT) já está incluído no preço."
+      },
+      "summary_pt": [
+        "How much + incontável e preço.",
+        "How many + plural contável.",
+        "Money é incontável.",
+        "I'm just looking / Can I try it on? / I'll take it."
+      ],
+      "listening": {
+        "title": "Online shopping video",
+        "context_pt": "Uma influenciadora faz um vídeo de \"unboxing\" e comenta os preços.",
+        "lines": [
+          {
+            "speaker": "Host",
+            "en": "Hi, everyone! Today I have three things from my online order. First, these sneakers. How much are they? Only eighty-nine dollars — they're on sale! Then, this phone case. It's twelve dollars. And finally, a backpack. It's expensive: one hundred and forty dollars. But it's perfect for my laptop! The shipping was free. How many things do you buy online every month?"
+          }
+        ],
+        "questions": [
+          {
+            "q": "How much are the sneakers?",
+            "answer": "$89."
+          },
+          {
+            "q": "How much is the phone case?",
+            "answer": "$12."
+          },
+          {
+            "q": "How much is the backpack?",
+            "answer": "$140."
+          },
+          {
+            "q": "How much is the shipping?",
+            "answer": "It's free."
+          }
+        ]
+      }
+    },
+    {
+      "id": "A1-M3-L4",
+      "title": "Getting around",
+      "subtitle_pt": "Transporte e How do you go...?",
+      "duration_min": 50,
+      "source_refs": [
+        "To Go A1 – Lesson 17 (how do you go to places, how often)",
+        "StartUp 1 – Unit 4"
+      ],
+      "objectives": [
+        "Dizer como você vai para os lugares",
+        "Usar by, on foot e take",
+        "Perguntar How long does it take?",
+        "Usar apps de transporte em inglês"
+      ],
+      "warmup": {
+        "text_pt": "Como você vai para o trabalho ou para a escola? Quanto tempo leva? Você gosta do trajeto?",
+        "questions": [
+          "How do you get to work?",
+          "Do you have a car?"
+        ]
+      },
+      "vocabulary": [
+        {
+          "en": "car / bus / train",
+          "pt": "carro / ônibus / trem",
+          "say": "kár / bâs / trêin"
+        },
+        {
+          "en": "subway / metro",
+          "pt": "metrô",
+          "say": "sâbuei / métrou"
+        },
+        {
+          "en": "bike",
+          "pt": "bicicleta",
+          "say": "báik"
+        },
+        {
+          "en": "scooter",
+          "pt": "patinete",
+          "say": "skúrer"
+        },
+        {
+          "en": "motorcycle",
+          "pt": "moto",
+          "say": "môurorsaikol"
+        },
+        {
+          "en": "on foot / walk",
+          "pt": "a pé / andar",
+          "say": "on fút / uók"
+        },
+        {
+          "en": "ride / rideshare",
+          "pt": "corrida / carona por app",
+          "say": "ráid / ráidsher"
+        },
+        {
+          "en": "bus stop / station",
+          "pt": "ponto de ônibus / estação",
+          "say": "bâs stóp / stêishon"
+        },
+        {
+          "en": "traffic / traffic jam",
+          "pt": "trânsito / engarrafamento",
+          "say": "tréfik / tréfik djém"
+        },
+        {
+          "en": "ticket",
+          "pt": "passagem / bilhete",
+          "say": "tíket"
+        },
+        {
+          "en": "far / near (close)",
+          "pt": "longe / perto",
+          "say": "fár / nír (klôus)"
+        },
+        {
+          "en": "to drive",
+          "pt": "dirigir",
+          "say": "tu dráiv"
+        }
+      ],
+      "chunks": [
+        {
+          "en": "How do you get to work?",
+          "pt": "Como você vai para o trabalho?"
+        },
+        {
+          "en": "I go by bus.",
+          "pt": "Vou de ônibus."
+        },
+        {
+          "en": "I walk. / I go on foot.",
+          "pt": "Vou a pé."
+        },
+        {
+          "en": "I take the subway.",
+          "pt": "Pego o metrô."
+        },
+        {
+          "en": "How long does it take?",
+          "pt": "Quanto tempo leva?"
+        },
+        {
+          "en": "It takes about 30 minutes.",
+          "pt": "Leva uns 30 minutos."
+        },
+        {
+          "en": "Your driver is arriving.",
+          "pt": "Seu motorista está chegando."
+        }
+      ],
+      "grammar": {
+        "title": "by / take / on foot + How long does it take?",
+        "explanation_pt": "Para dizer **como** você vai:\n\n- **by** + transporte (sem artigo): by car, by bus, by train, by bike, by subway\n- **take** + **the/a** + transporte: I take **the** bus, I take **an** Uber\n- **drive / ride / walk** (verbos): I **drive** to work. I **ride** my bike. I **walk** to school.\n- **A pé:** **on foot** (e não \"by foot\")\n\n**Duração:** **How long does it take?** (Quanto tempo leva?) → **It takes** 20 minutes. Repare que **it** é o sujeito e o verbo é **takes** (3ª pessoa!).\n\n**Get to** = chegar a: How do you **get to** the airport?",
+        "table": {
+          "headers": [
+            "Estrutura",
+            "Exemplo"
+          ],
+          "rows": [
+            [
+              "by + transporte",
+              "I go to work by subway."
+            ],
+            [
+              "take + the/a + transporte",
+              "She takes the train."
+            ],
+            [
+              "drive / walk / ride",
+              "We walk to the park."
+            ],
+            [
+              "on foot",
+              "He goes to school on foot."
+            ],
+            [
+              "It takes + tempo",
+              "It takes 15 minutes by car."
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "How does your sister get to college? She takes the bus.",
+            "pt": "Como sua irmã vai para a faculdade? Ela pega ônibus."
+          },
+          {
+            "en": "How long does it take? It takes about an hour in traffic.",
+            "pt": "Quanto tempo leva? Mais ou menos uma hora no trânsito."
+          },
+          {
+            "en": "I usually ride my bike, but when it rains I take an Uber.",
+            "pt": "Normalmente vou de bike, mas quando chove pego um Uber."
+          }
+        ],
+        "tip_pt": "Não use **by** com possessivos: \"by **my** car\" ❌ → \"in my car\" ✅ ou simplesmente \"I drive\"."
+      },
+      "common_mistakes": [
+        {
+          "wrong": "I go by foot.",
+          "right": "I go on foot. / I walk.",
+          "why_pt": "A pé = on foot."
+        },
+        {
+          "wrong": "I take bus.",
+          "right": "I take the bus.",
+          "why_pt": "Com take, use artigo (the/a)."
+        },
+        {
+          "wrong": "How much time it takes?",
+          "right": "How long does it take?",
+          "why_pt": "How long é a forma natural para duração, e a pergunta precisa de does."
+        }
+      ],
+      "pronunciation": {
+        "focus": "Bus x boss e o som /ʌ/",
+        "tip_pt": "**Bus** tem uma vogal curta e aberta, entre \"â\" e \"a\": \"bâs\". Não diga \"bús\". O mesmo som aparece em **subway** (\"sâb\"), **sun**, **fun** e **cut**.",
+        "practice": [
+          "bus · subway · much",
+          "I take the bus. It's much cheaper.",
+          "Is the bus stop far?"
+        ]
+      },
+      "dialogue": {
+        "title": "From the airport",
+        "context_pt": "Letícia chega a Londres e pede informação no aeroporto.",
+        "lines": [
+          {
+            "speaker": "Letícia",
+            "en": "Excuse me. How do I get to the city center?",
+            "pt": "Com licença. Como chego ao centro da cidade?"
+          },
+          {
+            "speaker": "Staff",
+            "en": "You can take the train, the subway, or a taxi.",
+            "pt": "Você pode pegar o trem, o metrô ou um táxi."
+          },
+          {
+            "speaker": "Letícia",
+            "en": "How long does it take by train?",
+            "pt": "Quanto tempo leva de trem?"
+          },
+          {
+            "speaker": "Staff",
+            "en": "About 20 minutes. The subway takes about an hour, but it's cheaper.",
+            "pt": "Uns 20 minutos. O metrô leva uma hora, mas é mais barato."
+          },
+          {
+            "speaker": "Letícia",
+            "en": "How much is the train ticket?",
+            "pt": "Quanto custa a passagem de trem?"
+          },
+          {
+            "speaker": "Staff",
+            "en": "Around 25 pounds. You can buy it on the app or at the machine.",
+            "pt": "Cerca de 25 libras. Você pode comprar no app ou na máquina."
+          },
+          {
+            "speaker": "Letícia",
+            "en": "And where is the station?",
+            "pt": "E onde fica a estação?"
+          },
+          {
+            "speaker": "Staff",
+            "en": "Go downstairs and follow the signs. It's very close.",
+            "pt": "Desça e siga as placas. É bem perto."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Commuting around the world",
+        "text": "In Amsterdam, a lot of people ride a bike to work. In Tokyo, millions take the train every day — and the trains are almost never late. In São Paulo, many people spend more than two hours a day in traffic. In Los Angeles, most people drive. And in Copenhagen, the city has \"bike highways\"! How long does your commute take?",
+        "questions": [
+          {
+            "q": "How do many people get to work in Amsterdam?",
+            "answer": "By bike (they ride a bike)."
+          },
+          {
+            "q": "What's special about trains in Tokyo?",
+            "answer": "They're almost never late."
+          },
+          {
+            "q": "How do most people get to work in Los Angeles?",
+            "answer": "They drive."
+          },
+          {
+            "q": "What does Copenhagen have?",
+            "answer": "Bike highways."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "id": "ex1",
+          "type": "fill_blank",
+          "title": "by, take, on ou walk",
+          "instruction_pt": "Complete as frases.",
+          "items": [
+            {
+              "prompt": "I go to work ___ subway.",
+              "answer": "by"
+            },
+            {
+              "prompt": "She ___ the bus every day.",
+              "answer": "takes"
+            },
+            {
+              "prompt": "We go to school ___ foot.",
+              "answer": "on"
+            },
+            {
+              "prompt": "I live near the office, so I ___.",
+              "answer": "walk"
+            },
+            {
+              "prompt": "How long does it ___?",
+              "answer": "take"
+            }
+          ],
+          "instruction": "Complete the sentences."
+        },
+        {
+          "id": "ex2",
+          "type": "translate",
+          "title": "Traduza",
+          "instruction_pt": "Traduza para o inglês.",
+          "items": [
+            {
+              "prompt": "Como você vai para a faculdade?",
+              "answer": "How do you get to college?"
+            },
+            {
+              "prompt": "Quanto tempo leva?",
+              "answer": "How long does it take?"
+            },
+            {
+              "prompt": "Leva uns 40 minutos de carro.",
+              "answer": "It takes about 40 minutes by car."
+            },
+            {
+              "prompt": "Ela vai de bicicleta.",
+              "answer": "She goes by bike. / She rides her bike."
+            }
+          ],
+          "instruction": "Translate into English."
+        },
+        {
+          "id": "ex3",
+          "type": "true_false",
+          "title": "Diálogo",
+          "instruction_pt": "Releia o diálogo do aeroporto e marque True ou False.",
+          "items": [
+            {
+              "prompt": "The train takes about an hour.",
+              "answer": false
+            },
+            {
+              "prompt": "The subway is cheaper than the train.",
+              "answer": true
+            },
+            {
+              "prompt": "The train ticket is around 25 pounds.",
+              "answer": true
+            },
+            {
+              "prompt": "The station is far.",
+              "answer": false
+            }
+          ],
+          "instruction": "Read the airport dialogue again. True or False?"
+        },
+        {
+          "id": "ex4",
+          "type": "dictation",
+          "title": "Dictation",
+          "instruction": "Listen and write the sentence.",
+          "instruction_pt": "Ouça e escreva a frase.",
+          "items": [
+            {
+              "prompt": "1",
+              "answer": "I take the bus to work."
+            },
+            {
+              "prompt": "2",
+              "answer": "How long does it take?"
+            },
+            {
+              "prompt": "3",
+              "answer": "It takes about thirty minutes."
+            },
+            {
+              "prompt": "4",
+              "answer": "She goes to school on foot."
+            }
+          ]
+        },
+        {
+          "id": "ex5",
+          "type": "correct_error",
+          "title": "Fix the mistake",
+          "instruction": "Find and correct the mistake.",
+          "instruction_pt": "Encontre e corrija o erro.",
+          "items": [
+            {
+              "prompt": "I go by foot.",
+              "answer": "I go on foot. / I walk."
+            },
+            {
+              "prompt": "She takes bus.",
+              "answer": "She takes the bus."
+            },
+            {
+              "prompt": "How much time it takes?",
+              "answer": "How long does it take?"
+            },
+            {
+              "prompt": "I go by my car.",
+              "answer": "I go in my car. / I drive."
+            }
+          ]
+        },
+        {
+          "id": "ex6",
+          "type": "fill_blank",
+          "title": "Complete the dialogue",
+          "instruction": "Complete with: get · by · takes · long · walk.",
+          "instruction_pt": "Complete o diálogo.",
+          "items": [
+            {
+              "prompt": "A: How do you ___ to the office?",
+              "answer": "get"
+            },
+            {
+              "prompt": "B: I go ___ subway.",
+              "answer": "by"
+            },
+            {
+              "prompt": "A: How ___ does it take?",
+              "answer": "long"
+            },
+            {
+              "prompt": "B: It ___ 20 minutes. Then I ___ for 5 minutes.",
+              "answer": "takes / walk"
+            }
+          ]
+        }
+      ],
+      "speaking": {
+        "instruction_pt": "Fale sobre seu trajeto e o de pessoas da sua família.",
+        "questions": [
+          "How do you get to work or school?",
+          "How long does it take?",
+          "How does your best friend get to work?",
+          "Do you use rideshare apps? How often?",
+          "What's the best way to get around your city?"
+        ],
+        "instruction": "Talk about your commute and the commute of people in your family."
+      },
+      "writing": {
+        "task_pt": "Escreva uma mensagem para um amigo estrangeiro explicando como chegar do aeroporto até a sua casa.",
+        "model": "Hi, Mike! From the airport, take the airport bus to the bus station. It takes about 40 minutes.\nThen take an Uber to my place — it's only 10 minutes.\nThe bus ticket is about R$ 15. See you soon!",
+        "task": "Write a message to a foreign friend explaining how to get from the airport to your home."
+      },
+      "culture_note": {
+        "title": "Subway, underground ou tube?",
+        "text_pt": "O metrô tem nomes diferentes: **subway** (Nova York), **the Underground / the Tube** (Londres), **metro** (Paris, Lisboa, Washington). E cuidado: em Londres, **subway** é uma passagem subterrânea para pedestres!"
+      },
+      "summary_pt": [
+        "by car/bus/train · take the bus · on foot.",
+        "How do you get to...?",
+        "How long does it take? It takes 20 minutes.",
+        "Sem by com possessivo: in my car."
+      ],
+      "listening": {
+        "title": "Rideshare app messages",
+        "context_pt": "Mensagens de voz de um aplicativo de transporte.",
+        "lines": [
+          {
+            "speaker": "App",
+            "en": "Your driver, Marcus, is arriving in three minutes. He drives a white Toyota. The plate number is K-L-M four-five-two."
+          },
+          {
+            "speaker": "Driver",
+            "en": "Hi! I'm at the main entrance, next to the bus stop."
+          },
+          {
+            "speaker": "App",
+            "en": "Your trip takes about twenty-five minutes because there's traffic on the highway. The price is eighteen dollars and fifty cents."
+          }
+        ],
+        "questions": [
+          {
+            "q": "What's the driver's name?",
+            "answer": "Marcus."
+          },
+          {
+            "q": "What car does he drive?",
+            "answer": "A white Toyota."
+          },
+          {
+            "q": "How long does the trip take?",
+            "answer": "About 25 minutes."
+          },
+          {
+            "q": "Why does it take long?",
+            "answer": "Because there's traffic on the highway."
+          }
+        ]
+      }
+    }
+  ],
+  "review": {
+    "intro_pt": "Revise a 3ª pessoa, compras e transporte.",
+    "exercises": [
+      {
+        "id": "r1",
+        "type": "multiple_choice",
+        "title": "Escolha a correta",
+        "instruction_pt": "Escolha a opção correta.",
+        "items": [
+          {
+            "prompt": "My brother ___ in Recife.",
+            "options": [
+              "live",
+              "lives",
+              "living"
+            ],
+            "answer": "lives"
+          },
+          {
+            "prompt": "She ___ have a car.",
+            "options": [
+              "don't",
+              "doesn't",
+              "isn't"
+            ],
+            "answer": "doesn't"
+          },
+          {
+            "prompt": "___ he speak English?",
+            "options": [
+              "Do",
+              "Does",
+              "Is"
+            ],
+            "answer": "Does"
+          },
+          {
+            "prompt": "How ___ money do you need?",
+            "options": [
+              "much",
+              "many"
+            ],
+            "answer": "much"
+          },
+          {
+            "prompt": "I go to work ___ bus.",
+            "options": [
+              "by",
+              "on",
+              "in the"
+            ],
+            "answer": "by"
+          }
+        ],
+        "instruction": "Choose the correct option."
+      },
+      {
+        "id": "r2",
+        "type": "fill_blank",
+        "title": "3ª pessoa",
+        "instruction_pt": "Complete com o verbo na forma correta.",
+        "items": [
+          {
+            "prompt": "Lia ___ (study) law.",
+            "answer": "studies"
+          },
+          {
+            "prompt": "He ___ (not / like) traffic.",
+            "answer": "doesn't like"
+          },
+          {
+            "prompt": "Where ___ your dad ___ (work)?",
+            "answer": "does / work"
+          },
+          {
+            "prompt": "The bus ___ (take) 30 minutes.",
+            "answer": "takes"
+          }
+        ],
+        "instruction": "Complete with the verb in the correct form."
+      },
+      {
+        "id": "r3",
+        "type": "translate",
+        "title": "Traduza",
+        "instruction_pt": "Traduza para o inglês.",
+        "items": [
+          {
+            "prompt": "Ela não lava a louça.",
+            "answer": "She doesn't do the dishes."
+          },
+          {
+            "prompt": "Quanto custam estes tênis?",
+            "answer": "How much are these sneakers?"
+          },
+          {
+            "prompt": "Ele vai a pé para o trabalho.",
+            "answer": "He walks to work. / He goes to work on foot."
+          },
+          {
+            "prompt": "Quantas pessoas moram aqui?",
+            "answer": "How many people live here?"
+          }
+        ],
+        "instruction": "Translate into English."
+      },
+      {
+        "id": "r4",
+        "type": "dictation",
+        "title": "Dictation",
+        "instruction": "Listen and write the sentence.",
+        "instruction_pt": "Ouça e escreva a frase.",
+        "items": [
+          {
+            "prompt": "1",
+            "answer": "My brother lives in Recife."
+          },
+          {
+            "prompt": "2",
+            "answer": "Does she have a car?"
+          },
+          {
+            "prompt": "3",
+            "answer": "How much are these shoes?"
+          }
+        ]
+      },
+      {
+        "id": "r5",
+        "type": "correct_error",
+        "title": "Fix the mistake",
+        "instruction": "Find and correct the mistake.",
+        "instruction_pt": "Encontre e corrija o erro.",
+        "items": [
+          {
+            "prompt": "He work in a bank.",
+            "answer": "He works in a bank."
+          },
+          {
+            "prompt": "Does she speaks English?",
+            "answer": "Does she speak English?"
+          },
+          {
+            "prompt": "How many water do you drink?",
+            "answer": "How much water do you drink?"
+          }
+        ]
+      }
+    ],
+    "speaking_pt": "Entreviste alguém (ou imagine) e depois conte para a turma sobre essa pessoa usando a 3ª pessoa.",
+    "speaking_questions": [
+      "Where does he/she live and work?",
+      "How does he/she get to work?",
+      "What does he/she do at home?",
+      "What does he/she buy online?",
+      "What doesn't he/she like?"
+    ],
+    "project_pt": "**Meet my person:** grave um vídeo de 1 a 2 minutos apresentando uma pessoa real (familiar, amigo ou celebridade): onde mora, o que faz, rotina, como se locomove e algo que ela não faz."
+  }
+}
